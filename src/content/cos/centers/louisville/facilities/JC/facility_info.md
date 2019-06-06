@@ -7,7 +7,7 @@ technical_poc_email: "derek.a.henry@usace.army.mil"
 cos_district_short_name: "LRL"
 functional_proponent: "HQDA OTJAG"
 category_codes:
-  - "61075"
+  - "61075, 67!!!"
 pictures:
   - ""
   - ""
