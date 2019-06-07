@@ -13,5 +13,5 @@ import Img from "gatsby-image"
  * - `StaticQuery`: https://gatsby.dev/staticquery
  */
 
-const Image = () => <div>yo</div>
+const Image = () => <div>Text</div>
 export default Image

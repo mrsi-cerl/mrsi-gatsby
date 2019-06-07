@@ -8,9 +8,9 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>have MRSI on me</h1>
-    <p></p>
-    <p></p>
+    <h1>Welcome to MRSI</h1>
+    <p />
+    <p />
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
