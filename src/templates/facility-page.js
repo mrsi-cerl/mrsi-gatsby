@@ -2,34 +2,47 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 
-function getData(slug, data) {
-  console.log(data)
+import Table from "@material-ui/core/Table"
+import TableBody from "@material-ui/core/TableBody"
+import TableCell from "@material-ui/core/TableCell"
+import TableHead from "@material-ui/core/TableHead"
+import TableRow from "@material-ui/core/TableRow"
 
+function getData(slug, data) {
+  // find the facility that matches this pages slug
   const facility = data.allMarkdownRemark.edges.filter(
     edge => edge.node.fields.slug === slug
   )[0].node
-
+  // then find the cos associated with this facility
   const cos = data.allMarkdownRemark.edges.filter(
     edge =>
       edge.node.frontmatter.cos_short_name ===
       facility.frontmatter.cos_district_short_name
   )[0].node
 
-  console.log(facility)
-  console.log(cos)
+  return {
+    facility,
+    cos,
+  }
 }
 
 export default ({ data, pathContext }) => {
-  const { slug } = pathContext
+  const { facility, cos } = getData(pathContext.slug, data)
+  console.log(facility)
 
-  getData(slug, data)
-  //const post = data.markdownRemark
   return (
     <Layout>
       <div>
-        {/* <h1>{post.frontmatter.title}</h1>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} /> */}
-        this is a facility page
+        <h1>{facility.frontmatter.facility_long_name}</h1>
+        <Table>
+          <TableBody>
+            <TableRow>
+              <TableCell>Functional Proponent:</TableCell>
+              <TableCell>{facility.frontmatter.functional_proponent}</TableCell>
+            </TableRow>
+          </TableBody>
+        </Table>
+        <div dangerouslySetInnerHTML={{ __html: facility.html }} />
       </div>
     </Layout>
   )
