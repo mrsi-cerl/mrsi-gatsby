@@ -3,7 +3,7 @@
 All Pages
 
 ```
-aws_library_path: ""
+file_library_root_path: ""
 slug: ""
 carousel_images:
   - ""
