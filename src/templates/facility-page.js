@@ -1,12 +1,13 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 
-import Table from "@material-ui/core/Table"
-import TableBody from "@material-ui/core/TableBody"
-import TableCell from "@material-ui/core/TableCell"
-import TableHead from "@material-ui/core/TableHead"
-import TableRow from "@material-ui/core/TableRow"
+import Card from "react-bootstrap/Card"
+import Breadcrumb from "react-bootstrap/Breadcrumb"
+import ListGroup from "react-bootstrap/ListGroup"
+import Table from "react-bootstrap/Table"
+
+import MrsiTable from "../components/mrsi-table"
 
 function getData(slug, data) {
   // find the facility that matches this pages slug
@@ -29,19 +30,52 @@ function getData(slug, data) {
 export default ({ data, pathContext }) => {
   const { facility, cos } = getData(pathContext.slug, data)
   console.log(facility)
+  console.log(cos)
+
+  const tableData = [
+    {
+      title: "Functional Proponent:",
+      value: facility.frontmatter.functional_proponent,
+    },
+    {
+      title: "Technical POC:",
+      value: (
+        <a href={"mailto:" + facility.frontmatter.technical_poc_email}>
+          {facility.frontmatter.technical_poc_name}
+        </a>
+      ),
+    },
+    {
+      title: "COS Manager:",
+      value: (
+        <a href={"mailto:" + cos.frontmatter.cos_manager_email}>
+          {cos.frontmatter.cos_manager_name}
+        </a>
+      ),
+    },
+    {
+      title: "Category Code(s):",
+      value: facility.frontmatter.category_codes.join(", "),
+    },
+  ]
 
   return (
     <Layout>
       <div>
+        <Breadcrumb>
+          <Breadcrumb.Item as={Link} to="/">
+            Home
+          </Breadcrumb.Item>
+          <Breadcrumb.Item href="/cos">COS</Breadcrumb.Item>
+          <Breadcrumb.Item href={cos.fields.slug}>
+            {cos.frontmatter.cos_short_name}
+          </Breadcrumb.Item>
+          <Breadcrumb.Item active>
+            {facility.frontmatter.facility_short_name}
+          </Breadcrumb.Item>
+        </Breadcrumb>
         <h1>{facility.frontmatter.facility_long_name}</h1>
-        <Table>
-          <TableBody>
-            <TableRow>
-              <TableCell>Functional Proponent:</TableCell>
-              <TableCell>{facility.frontmatter.functional_proponent}</TableCell>
-            </TableRow>
-          </TableBody>
-        </Table>
+        <MrsiTable data={tableData} />
         <div dangerouslySetInnerHTML={{ __html: facility.html }} />
       </div>
     </Layout>
