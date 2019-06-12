@@ -9,9 +9,9 @@ carousel_images:
   - ""
   - ""
 related_links:
-  - name: ""
+  - caption: ""
     url: ""
-  - name: ""
+  - caption: ""
     url: ""
 page_last_reviewed: ""
 doc_type: ""
