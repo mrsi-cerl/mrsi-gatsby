@@ -3,14 +3,14 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 
 function getData(slug, data) {
-  // find the cos that matches this pages slug
+  // find the cos that matches the slug
   const cos = data.allMarkdownRemark.edges.filter(
-    edge => edge.node.fields.slug === slug
+    edge => edge.node.frontmatter.slug === slug
   )[0].node
   // then find all facilities associated with this cos
   const facilities = data.allMarkdownRemark.edges.filter(
     edge =>
-      edge.node.frontmatter.cos_district_short_name ===
+      edge.node.frontmatter.facility_cos_short_name ===
       cos.frontmatter.cos_short_name
   )
 
@@ -20,8 +20,8 @@ function getData(slug, data) {
   }
 }
 
-export default ({ data, pathContext }) => {
-  const { facilities, cos } = getData(pathContext.slug, data)
+export default ({ data, pageContext }) => {
+  const { facilities, cos } = getData(pageContext.slug, data)
   console.log(facilities)
   console.log(cos)
 
@@ -41,28 +41,28 @@ export const query = graphql`
       edges {
         node {
           frontmatter {
-            category_codes
-            cos_district_short_name
+            cos_long_name
+            cos_manager_email
             cos_manager_name
             cos_short_name
-            document_type
             facility_long_name
             facility_short_name
-            functional_proponent
-            pictures
             related_links {
               url
-              name
+              caption
             }
-            technical_poc_email
-            technical_poc_name
-            cos_manager_email
-            cos_long_name
-          }
-          html
-          fields {
+            title
+            facility_technical_poc_email
+            doc_type
+            facility_category_codes
+            facility_cos_short_name
+            facility_functional_proponent
+            facility_technical_poc_name
+            file_library_root_path
+            page_last_reviewed
             slug
           }
+          html
         }
       }
     }
