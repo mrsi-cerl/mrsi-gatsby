@@ -1,12 +1,15 @@
 ---
-document_type: "center_page"
+file_library_root_path: ""
+slug: "/cos/sas/"
+related_links:
+  - caption: "Savannah District"
+    url: "http://www.sas.usace.army.mil/"
+page_last_reviewed: "Tuesday, August 14, 2018"
+doc_type: "cos_page"
 cos_manager_name: "Jeff Stein"
 cos_manager_email: "jeffrey.stein@usace.army.mil"
 cos_long_name: "Savannah"
 cos_short_name: "SAS"
-related_links:
-  - url: "http://www.sas.usace.army.mil/"
-    name: "Savannah District"
 ---
 
 **The Savannah District is responsible for military construction at some of the nations key military installations / power projection platforms, and manages water resources across the Savannah River Basin.**

@@ -1,12 +1,15 @@
 ---
-document_type: "center_page"
+file_library_root_path: ""
+slug: "/cos/lrl/"
+related_links:
+  - caption: "Louisville District"
+    url: "http://www.lrl.usace.army.mil/"
+page_last_reviewed: "Wednesday, May 08, 2019"
+doc_type: "cos_page"
 cos_manager_name: "Derek (Drew) Henry"
 cos_manager_email: "derek.a.henry@usace.army.mil"
 cos_long_name: "Louisville "
 cos_short_name: "LRL"
-related_links:
-  - url: "http://www.lrl.usace.army.mil/"
-    name: "Louisville District"
 ---
 
 Established in 1886, Louisville District (LRL) employs about 1200 people in the five-state area of Illinois, Indiana, Kentucky, Michigan and Ohio. LRL is one of the Corps’ more diverse districts, has both a civil works and military construction mission. LRL's civilian workforce is made up of professional engineers, architects, planners, economists, biologists, and other specialists, supporting Civil Works and Military Construction Missions.

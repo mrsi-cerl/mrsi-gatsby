@@ -1,12 +1,15 @@
 ---
-document_type: "center_page"
+file_library_root_path: ""
+slug: "/cos/tam/"
+related_links:
+  - caption: "Middle East District"
+    url: "http://tam.usace.army.mil/"
+page_last_reviewed: "Wednesday, March 13, 2019"
+doc_type: "cos_page"
 cos_manager_name: "Joey Behr"
 cos_manager_email: "joseph.r.behr@usace.army.mil"
-cos_long_name: "Middle East "
+cos_long_name: "Middle East"
 cos_short_name: "TAM"
-related_links:
-  - url: "http://tam.usace.army.mil/"
-    name: "Middle East District"
 ---
 
 ## About TAM

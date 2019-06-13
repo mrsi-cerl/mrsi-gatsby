@@ -1,12 +1,15 @@
 ---
-document_type: "center_page"
+file_library_root_path: ""
+slug: "/cos/nao/"
+related_links:
+  - caption: "Norfolk District"
+    url: "http://www.nao.usace.army.mil/"
+page_last_reviewed: "Thursday, August 30, 2018"
+doc_type: "cos_page"
 cos_manager_name: "Matthew Scanlon"
 cos_manager_email: "matthew.c.scanlon@usace.army.mil"
 cos_long_name: "Norfolk"
 cos_short_name: "NAO"
-related_links:
-  - url: "http://www.nao.usace.army.mil/"
-    name: "Norfolk District"
 ---
 
 **Norfolk District is based at historic Fort Norfolk, built in 1810 on the Elizabeth River located in the south west portion of Norfolk, Virginia.**

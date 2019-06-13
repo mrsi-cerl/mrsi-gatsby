@@ -1,12 +1,15 @@
 ---
-document_type: "center_page"
+file_library_root_path: ""
+slug: "/cos/swf/"
+related_links:
+  - caption: "Fort Worth District"
+    url: "http://www.swf.usace.army.mil/"
+page_last_reviewed: "Tuesday, August 14, 2018"
+doc_type: "cos_page"
 cos_manager_name: "Matt Milliorn"
 cos_manager_email: "matthew.milliorn@usace.army.mil"
 cos_long_name: "Fort Worth"
 cos_short_name: "SWF"
-related_links:
-  - url: "http://www.swf.usace.army.mil/"
-    name: "Fort Worth District"
 ---
 
 **Ft. Worth District is one of eight Centers of Standardization (COS) established by the Director of Military Programs in March 2006. The Fort Worth COS supports: Office of Assistant Chief of Staff for Installation Management (OACSIM), Installation Management Command (IMCOM), the Facilities Design Team (FDT), and the Headquarters, U.S. Army Corps of Engineers’ proponent for our assigned facility types.**

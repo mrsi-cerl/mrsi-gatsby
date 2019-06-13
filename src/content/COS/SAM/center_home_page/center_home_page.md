@@ -1,12 +1,15 @@
 ---
-document_type: "center_page"
+file_library_root_path: ""
+slug: "/cos/sam/"
+related_links:
+  - caption: "Mobile District"
+    url: "http://www.sam.usace.army.mil/"
+page_last_reviewed: "Tuesday, August 14, 2018"
+doc_type: "cos_page"
 cos_manager_name: "Donald Smith"
 cos_manager_email: "donald.k.smith@usace.army.mil"
 cos_long_name: "Mobile"
 cos_short_name: "SAM"
-related_links:
-  - url: "http://www.sam.usace.army.mil/"
-    name: "Mobile District"
 ---
 
 **Mobile District is the Army Center of Standardization for Army Aviation Facilities (Vertical) (AVN-COS). The AVN COS must review all Army Aviation Facility (Vertical) projects in accordance with the Army Standard for Aircraft Maintenance Hangar Complex. The AVN-COS is a value-added team member when developing the scope and requirements for Army Aviation Facilities (Vertical). The AVN-COS provides USACE PDT's with a direct link to HQDA, G4 Aviation and other Army aviation proponents.**

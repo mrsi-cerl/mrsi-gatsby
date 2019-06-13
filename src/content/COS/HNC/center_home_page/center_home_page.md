@@ -1,12 +1,15 @@
 ---
-document_type: "center_page"
+file_library_root_path: ""
+slug: "/cos/hnc/"
+related_links:
+  - caption: "U.S. Army Engineering and Support Center, Huntsville"
+    url: "http://www.hnc.usace.army.mil/"
+page_last_reviewed: "Tuesday, August 14, 2018"
+doc_type: "cos_page"
 cos_manager_name: "Bill Stephenson"
 cos_manager_email: "william.c.stephenson@usace.army.mil"
-cos_long_name: "Huntsville "
+cos_long_name: "Huntsville"
 cos_short_name: "HNC"
-related_links:
-  - url: "http://www.hnc.usace.army.mil/"
-    name: "U.S. Army Engineering and Support Center, Huntsville"
 ---
 
 The U.S. Army Engineering and Support Center, Huntsville, is known for the support it provides to Army-wide missions.

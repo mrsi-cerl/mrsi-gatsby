@@ -1,12 +1,15 @@
 ---
-document_type: "center_page"
+file_library_root_path: ""
+slug: "/cos/poh"
+related_links:
+  - caption: "Honolulu District"
+    url: "http://www.poh.usace.army.mil/"
+page_last_reviewed: "Tuesday, August 14, 2018"
+doc_type: "cos_page"
 cos_manager_name: "Paul Kai"
 cos_manager_email: "Paul.M.Kai@usace.army.mil"
 cos_long_name: "Honolulu"
 cos_short_name: "POH"
-related_links:
-  - url: "http://www.poh.usace.army.mil/"
-    name: "Honolulu District"
 ---
 
 America's Engineers in the Pacific.
