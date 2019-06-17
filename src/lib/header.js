@@ -24,9 +24,9 @@ const defaultProps = {
 
 const propsToClasses = props => ({
   [ROOT_CLASS]: true,
-  "usa-header-basic": !props.extended,
-  "usa-header-basic-megamenu": props.mega && !props.extended,
-  "usa-header-extended": props.extended,
+  "usa-header--basic": !props.extended,
+  "usa-header--megamenu": props.mega && !props.extended,
+  "usa-header--extended": props.extended,
 })
 
 const Header = ({ className, children, ...props }) => {
@@ -38,7 +38,7 @@ const Header = ({ className, children, ...props }) => {
     >
       <div className="usa-navbar">
         <div className="usa-logo" id="extended-logo">
-          <em className="usa-logo-text">
+          <em className="usa-logo__text">
             <Link to="/" title="Home" aria-label="Home">
               {props.title}
             </Link>

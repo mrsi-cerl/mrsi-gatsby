@@ -55,7 +55,7 @@ const Banner = ({ className }) => {
               />
               <div className="usa-media_block-body">
                 <p>
-                  <strong>The .gov means it’s official.</strong>
+                  <strong>The .mil means it’s official.</strong>
                   <br />
                   Federal government websites often end in .gov or .mil. Before
                   sharing sensitive information, make sure you’re on a federal

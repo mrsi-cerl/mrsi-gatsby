@@ -25,3 +25,7 @@
   font-size: 10rem;
   width: 100%;
 }
+
+.usa-banner__header-flag {
+  margin-bottom: 0;
+}
