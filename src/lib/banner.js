@@ -2,7 +2,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import cx from "classnames"
 import { banner } from "uswds_components"
-import flag from "uswds_images/favicons/favicon-57.png"
+import flag from "uswds_images/us_flag_small.png"
 import dotGov from "uswds_images/icon-dot-gov.svg"
 import https from "uswds_images/icon-https.svg"
 import UswdsComponent from "./uswds_component"
@@ -31,7 +31,7 @@ const Banner = ({ className }) => {
               <p className="usa-banner__header-text">
                 An official website of the United States government
               </p>
-              <p className="usa-banner-header-action" aria-hidden="true">
+              <p className="usa-banner__header-action" aria-hidden="true">
                 Here’s how you know
               </p>
             </div>
