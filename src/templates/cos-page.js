@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Layout from "../components/layout"
+import Layout from "../components/layout/layout"
 
 function getData(slug, data) {
   // find the cos that matches the slug

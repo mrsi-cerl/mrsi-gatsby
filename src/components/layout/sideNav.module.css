@@ -1,0 +1,13 @@
+.accordion {
+  color: #565c65;
+  display: block;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  background-color: white;
+  font-weight: 400;
+  border: none;
+}
+
+.accordionContent {
+  padding: 0;
+}

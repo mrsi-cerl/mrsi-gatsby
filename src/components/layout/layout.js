@@ -4,6 +4,7 @@ import { Banner, SkipNav, Header } from "uswds-react"
 import "./layout.css"
 import TopNav from "./topNav"
 import MobileNav from "./mobileNav"
+import SideNav from "./sideNav"
 const mainContent = "main-content"
 
 const Layout = ({ children }) => {
@@ -15,7 +16,12 @@ const Layout = ({ children }) => {
       <TopNav />
       <MobileNav />
       <div className="usa-overlay" />
-      <main id={mainContent}>{children}</main>
+      <div className="default-container">
+        <aside class="sidenav">
+          <SideNav />
+        </aside>
+        <main id={mainContent}>{children}</main>
+      </div>
     </div>
   )
 }

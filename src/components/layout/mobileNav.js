@@ -3,7 +3,7 @@ import closeImg from "uswds_images/close.svg"
 
 const MobileNav = () => {
   return (
-    <nav class="usa-nav sidenav-mobile">
+    <nav class="usa-nav sidenav-mobile" style={{ display: "None" }}>
       <button
         class="usa-nav__close"
         style={{

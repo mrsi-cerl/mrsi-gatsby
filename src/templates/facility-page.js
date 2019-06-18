@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
-import Layout from "../components/layout"
+import Layout from "../components/layout/layout"
 
 import Card from "react-bootstrap/Card"
 import Breadcrumb from "react-bootstrap/Breadcrumb"
@@ -62,18 +62,6 @@ export default ({ data, pageContext }) => {
   return (
     <Layout>
       <div>
-        <Breadcrumb>
-          <Breadcrumb.Item as={Link} to="/">
-            Home
-          </Breadcrumb.Item>
-          <Breadcrumb.Item href="/cos">COS</Breadcrumb.Item>
-          <Breadcrumb.Item href={cos.frontmatter.slug}>
-            {cos.frontmatter.cos_short_name}
-          </Breadcrumb.Item>
-          <Breadcrumb.Item active>
-            {facility.frontmatter.facility_short_name}
-          </Breadcrumb.Item>
-        </Breadcrumb>
         <h1>{facility.frontmatter.facility_long_name}</h1>
         <MrsiTable data={tableData} />
         <div dangerouslySetInnerHTML={{ __html: facility.html }} />
