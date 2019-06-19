@@ -14,7 +14,13 @@ const getAccordian = (p, idx) => {
           controls={`side-nav-section-${idx}`}
           className={cx("usa-sidenav__item", styles.accordion)}
         >
-          <span>{p.caption}</span>
+          <span
+            className={cx({
+              "usa-current": p in p.children,
+            })}
+          >
+            {p.caption}
+          </span>
         </AccordionButton>
         <AccordionContent
           id={`side-nav-section-${idx}`}
@@ -24,7 +30,14 @@ const getAccordian = (p, idx) => {
             {Object.keys(p.children).map((slug, index) => {
               return (
                 <li class="usa-sidenav__item">
-                  <Link to={slug}>{p.children[slug].caption}</Link>
+                  <Link
+                    to={slug}
+                    className={cx({
+                      "usa-current": slug === window.location.pathname,
+                    })}
+                  >
+                    {p.children[slug].caption}
+                  </Link>
                 </li>
               )
             })}
@@ -37,20 +50,26 @@ const getAccordian = (p, idx) => {
 
 const getSideNav = () => {
   return Object.keys(pages.COS).map((slug, index) => {
+    console.log(cx({ "usa-current": slug == window.location.pathname }))
     if (pages.COS[slug].children) {
       return getAccordian(pages.COS[slug], index)
     } else {
       return (
         <li class="usa-sidenav__item">
-          <Link to={slug}>{pages.COS[slug].caption}</Link>
+          <Link
+            to={slug}
+            className={cx({ "usa-current": slug === window.location.pathname })}
+          >
+            {pages.COS[slug].caption}
+          </Link>
         </li>
       )
     }
   })
 }
 
-const SideNav = () => {
-  return <ul class="usa-sidenav">{getSideNav()}</ul>
+const SideNav = props => {
+  return <ul class="usa-sidenav">{getSideNav(props.slug)}</ul>
 }
 
 export default SideNav
