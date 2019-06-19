@@ -50,7 +50,6 @@ const getAccordian = (p, idx) => {
 
 const getSideNav = () => {
   return Object.keys(pages.COS).map((slug, index) => {
-    console.log(cx({ "usa-current": slug == window.location.pathname }))
     if (pages.COS[slug].children) {
       return getAccordian(pages.COS[slug], index)
     } else {
