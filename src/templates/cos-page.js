@@ -22,8 +22,6 @@ function getData(slug, data) {
 
 export default ({ data, pageContext }) => {
   const { facilities, cos } = getData(pageContext.slug, data)
-  console.log(facilities)
-  console.log(cos)
 
   return (
     <Layout>

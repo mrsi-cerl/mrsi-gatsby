@@ -30,8 +30,6 @@ function getData(slug, data) {
 export default ({ data, pageContext }) => {
   const { facility, cos } = getData(pageContext.slug, data)
   console.log(facility)
-  console.log(cos)
-
   const tableData = [
     {
       title: "Functional Proponent:",
@@ -63,6 +61,13 @@ export default ({ data, pageContext }) => {
     <Layout>
       <div>
         <h1>{facility.frontmatter.facility_long_name}</h1>
+        <img
+          src={
+            facility.frontmatter.carousel_images[0]
+              ? facility.frontmatter.carousel_images[0].publicURL
+              : null
+          }
+        />
         <MrsiTable data={tableData} />
         <div dangerouslySetInnerHTML={{ __html: facility.html }} />
       </div>
@@ -85,6 +90,9 @@ export const query = graphql`
             related_links {
               url
               caption
+            }
+            carousel_images {
+              publicURL
             }
             title
             facility_technical_poc_email

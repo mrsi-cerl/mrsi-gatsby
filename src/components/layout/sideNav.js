@@ -4,7 +4,10 @@ import { Link } from "gatsby"
 import { Accordion, AccordionButton, AccordionContent } from "uswds-react"
 import styles from "./sideNav.module.css"
 import cx from "classnames"
-console.log(pages.COS)
+
+import { globalHistory } from "@reach/router"
+const path = globalHistory.location.pathname
+console.log(path)
 
 const getAccordian = (p, idx) => {
   return (
@@ -33,7 +36,7 @@ const getAccordian = (p, idx) => {
                   <Link
                     to={slug}
                     className={cx({
-                      "usa-current": slug === window.location.pathname,
+                      "usa-current": slug === "window.location.pathname",
                     })}
                   >
                     {p.children[slug].caption}
@@ -57,7 +60,9 @@ const getSideNav = () => {
         <li class="usa-sidenav__item">
           <Link
             to={slug}
-            className={cx({ "usa-current": slug === window.location.pathname })}
+            className={cx({
+              "usa-current": slug === "window.location.pathname",
+            })}
           >
             {pages.COS[slug].caption}
           </Link>
