@@ -9,10 +9,7 @@ const TechnologyInAction = () => {
       This is the Technology in action page
       <div className={styles.container}>
         <GoogleMapReact
-          defaultCenter={{
-            lat: 59.95,
-            lng: 30.33,
-          }}
+          defaultCenter={{ lat: 37.27587, lng: -96.6532023 }}
           defaultZoom={11}
         />
       </div>
