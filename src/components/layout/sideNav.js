@@ -72,8 +72,10 @@ const getSideNav = () => {
   })
 }
 
-const SideNav = props => {
-  return <ul class="usa-sidenav">{getSideNav(props.slug)}</ul>
+const SideNav = ({ path }) => {
+  return path.includes("/cos") ? (
+    <ul class="usa-sidenav">{getSideNav(path)}</ul>
+  ) : null
 }
 
 export default SideNav

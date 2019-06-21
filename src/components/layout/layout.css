@@ -63,3 +63,7 @@ html {
   width: 100px;
   margin-left: 20px;
 }
+
+.usa-banner__inner {
+  max-width: 10000px;
+}
