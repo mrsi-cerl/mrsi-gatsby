@@ -1,26 +1,24 @@
 ---
 carousel_images:
-- ./bhq-02-3-2.jpg
-- ./battalion-3-2.jpg
-- ./overall-3-2.jpg
-- ./overall-layout-rev1-3-2.jpg
-- ./bnv7-3-2.jpg
+  - ./bhq-02-3-2.jpg
+  - ./battalion-3-2.jpg
+  - ./overall-3-2.jpg
+  - ./overall-layout-rev1-3-2.jpg
+  - ./bnv7-3-2.jpg
 doc_type: facility_page
 facility_category_codes:
-- 14182 (BDE HQ)
-- 14183/17119 (BN HQ)
+  - 14182 (BDE HQ)
+  - 14183/17119 (BN HQ)
 facility_cos_short_name: SAS
 facility_functional_proponent: DCS, G3
 facility_long_name: Brigade/Battalion Headquarters
 facility_short_name: BN-DBE-HQ
 facility_technical_poc_email: sara.c.murphy@usace.army.mil
 facility_technical_poc_name: Sara Murphy
-file_library_root_path: ''
+file_library_root_path: ""
 page_last_reviewed: 1 January 1970
-slug: /cos/sas/bn-dbe-hq/
+slug: /cos/sas/bn-bde-hq/
 ---
-
-
 
 ## Description
 
