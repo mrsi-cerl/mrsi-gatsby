@@ -4,6 +4,7 @@ import { Link } from "gatsby"
 import cx from "classnames"
 import { navigation } from "uswds_components"
 import UswdsComponent from "./uswds_component"
+import mrsiLogo from "../images/mrsi-white-logo.png"
 
 import "../components/layout/layout.css"
 
@@ -37,10 +38,11 @@ const Header = ({ className, children, ...props }) => {
       ref={ref}
     >
       <div className="usa-navbar">
-        <div className="usa-logo" id="extended-logo">
+        <div className="usa-logo" id="logo">
           <em className="usa-logo__text">
             <Link to="/" title="Home" aria-label="Home">
-              {props.title}
+              <img src={mrsiLogo} />
+              {/* {props.title} */}
             </Link>
           </em>
         </div>

@@ -10,7 +10,7 @@ const TechnologyInAction = () => {
       <div className={styles.container}>
         <GoogleMapReact
           defaultCenter={{ lat: 37.27587, lng: -96.6532023 }}
-          defaultZoom={11}
+          defaultZoom={3}
         />
       </div>
     </Layout>
