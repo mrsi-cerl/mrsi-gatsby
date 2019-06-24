@@ -1,9 +1,10 @@
 import React, { Component } from "react"
+import Layout from "../../components/layout/layout"
 
 class SustainHome extends Component {
   state = {}
   render() {
-    return <div>This is the Sustainability Home Page</div>
+    return <Layout>This is the Sustainability Home Page</Layout>
   }
 }
 

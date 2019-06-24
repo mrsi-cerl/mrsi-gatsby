@@ -1,9 +1,10 @@
 import React, { Component } from "react"
+import Layout from "../../components/layout/layout"
 
 class CRSTHome extends Component {
   state = {}
   render() {
-    return <div>This is the CRST Home Page</div>
+    return <Layout>This is the CRST Home Page</Layout>
   }
 }
 
