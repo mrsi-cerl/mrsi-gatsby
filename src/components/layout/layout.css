@@ -31,8 +31,15 @@
   display: inline-block;
   margin-top: 2.5rem;
   position: relative;
-  width: 100%;
   margin-top: 0;
+}
+
+.homePage {
+  width: 100%;
+}
+
+.notHomePage {
+  width: calc(100% - 15rem);
 }
 
 body,

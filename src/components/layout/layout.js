@@ -26,7 +26,12 @@ const Layout = ({ children, sidenav }) => {
               <aside class={cx({ sidenav: !sidenav })} style={{}}>
                 <SideNav path={location.pathname} />
               </aside>
-              <main id={mainContent}>{children}</main>
+              <main
+                id={mainContent}
+                class={cx({ homePage: sidenav, notHomePage: !sidenav })}
+              >
+                {children}
+              </main>
             </div>
           </div>
         )
