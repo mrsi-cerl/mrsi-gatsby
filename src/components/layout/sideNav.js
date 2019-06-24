@@ -51,10 +51,23 @@ const getAccordian = (p, idx) => {
   )
 }
 
-const getSideNav = () => {
-  return Object.keys(pages.COS).map((slug, index) => {
-    if (pages.COS[slug].children) {
-      return getAccordian(pages.COS[slug], index)
+const getSideNav = path => {
+  let currPage = ""
+  if (path.includes("/cos")) {
+    currPage = "COS"
+  } else if (path.includes("/crst")) {
+    currPage = "CRST"
+  } else if (path.includes("/model-rfp")) {
+    currPage = "MODELRFP"
+  } else if (path.includes("/sustain")) {
+    currPage = "SUSTAIN"
+  } else {
+    return null
+  }
+
+  return Object.keys(pages[currPage]).map((slug, index) => {
+    if (pages[currPage][slug].children) {
+      return getAccordian(pages[currPage][slug], index)
     } else {
       return (
         <li class="usa-sidenav__item">
@@ -64,7 +77,7 @@ const getSideNav = () => {
               "usa-current": slug === "window.location.pathname",
             })}
           >
-            {pages.COS[slug].caption}
+            {pages[currPage][slug].caption}
           </Link>
         </li>
       )
@@ -73,9 +86,7 @@ const getSideNav = () => {
 }
 
 const SideNav = ({ path }) => {
-  return path.includes("/cos") ? (
-    <ul class="usa-sidenav">{getSideNav(path)}</ul>
-  ) : null
+  return <ul class="usa-sidenav">{getSideNav(path)}</ul>
 }
 
 export default SideNav
