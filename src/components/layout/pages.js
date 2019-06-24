@@ -296,60 +296,60 @@ const pages = {
     },
   },
   CRST: {
-    "/crst/" : {
-      caption: "About CRST"
+    "/crst/": {
+      caption: "About CRST",
     },
-    "/crst/subject-matter-experts" : {
-      caption: "Subject Matter Experts"
-    }
+    "/crst/subject-matter-experts": {
+      caption: "Subject Matter Experts",
+    },
   },
   MODELRFP: {
-    "/model-rfp/" : {
-      caption: "About Model RFP"
+    "/model-rfp/": {
+      caption: "About Model RFP",
     },
     "/model-rfp/milcon": {
-      caption: "MILCON D-B"
+      caption: "MILCON D-B",
     },
     "/model-rfp/small-projects": {
-      caption: "Small Projects"
-    }
+      caption: "Small Projects",
+    },
   },
   SUSTAIN: {
     "/sustain/": {
-      caption: "About Engineering & Construction Sustainability "
+      caption: "About Engineering & Construction Sustainability ",
     },
     "/sustain/poc": {
-      caption: "Centers of Expertise POC"
+      caption: "Centers of Expertise POC",
     },
     "/sustain/cx": {
       caption: "Centers of Expertise",
       children: {
         "//": {
-          caption: "//"
-        }
-      }
+          caption: "//",
+        },
+      },
     },
-    "/sustain/kr" : {
+    "/sustain/kr": {
       caption: "Knowledge Resources",
       children: {
         "//": {
-          caption: "//"
-        }
-      }
+          caption: "//",
+        },
+      },
     },
-    "/sustain/events" : {
-      caption: "Upcoming Events"
+    "/sustain/events": {
+      caption: "Upcoming Events",
     },
-    "/sustain/news" : {
-      caption: "News & Announcements"
+    "/sustain/news": {
+      caption: "News & Announcements",
     },
-    "/sustain/webinars" : {
-      caption: "Webinars"
+    "/sustain/webinars": {
+      caption: "Webinars",
     },
-    "/sustain/technology-in-action/"{
-      caption: "Technology in Action"
-    }
-  }
+    "/sustain/technology-in-action/": {
+      caption: "Technology in Action",
+    },
+  },
 }
 
 export default pages
