@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import bgImg from "./../images/usace-construction.JPG"
+import bgImg from "./../images/usaceConstruction.jpg"
 import Layout from "../components/layout/layout"
 
 import cosIcon from "../images/cos-icon.svg"
