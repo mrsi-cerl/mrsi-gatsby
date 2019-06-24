@@ -6,9 +6,10 @@ import TopNav from "./topNav"
 import MobileNav from "./mobileNav"
 import { Location } from "@reach/router"
 import SideNav from "./sideNav"
+import cx from "classnames"
 const mainContent = "main-content"
 
-const Layout = ({ children }) => {
+const Layout = ({ children, sidenav }) => {
   return (
     <Location>
       {({ location }) => {
@@ -22,7 +23,7 @@ const Layout = ({ children }) => {
             <MobileNav />
             <div className="usa-overlay" />
             <div className="default-container">
-              <aside class="sidenav">
+              <aside class={cx({ sidenav: !sidenav })} style={{}}>
                 <SideNav path={location.pathname} />
               </aside>
               <main id={mainContent}>{children}</main>

@@ -32,15 +32,7 @@
   margin-top: 2.5rem;
   position: relative;
   width: 100%;
-  max-width: 700px;
-  padding-left: 40px;
   margin-top: 0;
-}
-
-@media (min-width: 64em) {
-  #main-content {
-    width: calc(100% - 15rem);
-  }
 }
 
 body,
