@@ -40,6 +40,8 @@
 
 .notHomePage {
   width: calc(100% - 15rem);
+  max-width: 700px;
+  margin-left: 20px;
 }
 
 body,
@@ -47,6 +49,7 @@ html {
   margin: 0px;
   height: 100%;
   width: 100%;
+  background-color: #fcfcfc;
 }
 
 .usa-header {
@@ -56,6 +59,10 @@ html {
 
 .usa-logo a {
   color: white;
+}
+
+.usa-accordion__button {
+  background-color: #fcfcfc;
 }
 
 .usa-logo img {
