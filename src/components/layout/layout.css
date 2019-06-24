@@ -66,3 +66,7 @@ html {
 .usa-banner__inner {
   max-width: 10000px;
 }
+
+.usa-accordion__button {
+  background-position: right 0.5rem center;
+}
