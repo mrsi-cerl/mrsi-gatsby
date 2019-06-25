@@ -57,3 +57,11 @@
   right: 1rem;
   bottom: 0;
 }
+
+.nav .is-current {
+  color: black;
+}
+
+.nav ul > .current {
+  color: black;
+}

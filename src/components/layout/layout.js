@@ -1,43 +1,28 @@
 import React from "react"
-import { StaticQuery, graphql, Link } from "gatsby"
-import { Banner, SkipNav, Header } from "uswds-react"
-import "./layout.css"
-import TopNav from "./topNav"
-import MobileNav from "./mobileNav"
 import { Location } from "@reach/router"
-import SideNav from "./sideNav"
-import cx from "classnames"
+import { SkipNav } from "uswds-react"
+import Helmet from "./helmet/helmet"
+import UsaBanner from "./usa-banner/usa-banner"
+import MrsiBanner from "./mrsi-banner/mrsi-banner"
+import Footer from "./footer/footer"
+import Navigation from "./navigation/navigation"
+
 const mainContent = "main-content"
 
-const Layout = ({ children, sidenav }) => {
-  return (
-    <Location>
-      {({ location }) => {
-        console.log(location.pathname)
-        return (
-          <div>
-            <SkipNav skipsTo={mainContent} />
-            <Banner />
-            <Header title="MRSI" />
-            <TopNav />
-            <MobileNav />
-            <div className="usa-overlay" />
-            <div className="default-container">
-              <aside class={cx({ sidenav: !sidenav })} style={{}}>
-                <SideNav path={location.pathname} />
-              </aside>
-              <main
-                id={mainContent}
-                class={cx({ homePage: sidenav, notHomePage: !sidenav })}
-              >
-                {children}
-              </main>
-            </div>
-          </div>
-        )
-      }}
-    </Location>
-  )
-}
+const Layout = ({ title, children }) => (
+  <Location>
+    {({ location }) => (
+      <>
+        <Helmet title={title} />
+        <SkipNav skipsTo={mainContent} />
+        <UsaBanner />
+        <MrsiBanner />
+        <Navigation path={location.pathname} />
+        <main id={mainContent}>{children}</main>
+        <Footer />
+      </>
+    )}
+  </Location>
+)
 
 export default Layout
