@@ -4,17 +4,12 @@ import cx from "classnames"
 import styles from "./top-nav.module.css"
 
 const TopNav = ({ path }) => {
-  console.log(path)
   const prefix = "/site/mrsi-cerl/mrsi-gatsby"
-  const newPath = prefix + path
-  const cos = newPath.startsWith("/cos")
-  const crst = newPath.startsWith("/crst")
-  const modelrfp = newPath.startsWith("/model-rfp")
-  const pdrs = newPath.startsWith("/pdrs")
-  const sustain = newPath.startsWith("/sustain")
-
-  const current = styles.current
-  console.log(cos)
+  const cos = path.startsWith(prefix + "/cos")
+  const crst = path.startsWith(prefix + "/crst")
+  const modelrfp = path.startsWith(prefix + "/model-rfp")
+  const pdrs = path.startsWith(prefix + "/pdrs")
+  const sustain = path.startsWith(prefix + "/sustain")
 
   return (
     <nav className={cx(styles.nav, "site-nav-secondary")}>
