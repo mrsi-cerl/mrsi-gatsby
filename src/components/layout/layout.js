@@ -6,10 +6,12 @@ import UsaBanner from "./usa-banner/usa-banner"
 import MrsiBanner from "./mrsi-banner/mrsi-banner"
 import Footer from "./footer/footer"
 import Navigation from "./navigation/navigation"
+import cx from "classnames"
+import styles from "./layout.module.css"
 
 const mainContent = "main-content"
 
-const Layout = ({ title, children }) => (
+const Layout = ({ title, children, hideSideNav, slug }) => (
   <Location>
     {({ location }) => (
       <>
@@ -18,8 +20,19 @@ const Layout = ({ title, children }) => (
         <SkipNav skipsTo={mainContent} />
         <UsaBanner />
         <MrsiBanner />
-        <Navigation path={location.pathname} />
-        <main id={mainContent}>{children}</main>
+        <Navigation
+          path={location.pathname}
+          hideSideNav={hideSideNav}
+          sideNavStyle={styles.sideNav}
+        />
+        <main
+          id={mainContent}
+          className={cx(styles.main, {
+            [styles.mainWithSideNav]: !hideSideNav,
+          })}
+        >
+          {children}
+        </main>
         <Footer />
       </>
     )}

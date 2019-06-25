@@ -1,0 +1,15 @@
+.sideNav {
+  width: 15rem;
+  float: left;
+}
+
+.main {
+  width: 100%;
+}
+
+@media (min-width: 64em) {
+  .mainWithSideNav {
+    width: calc(100% - 15rem);
+    display: inline-block;
+  }
+}

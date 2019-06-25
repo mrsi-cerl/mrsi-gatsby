@@ -4,7 +4,7 @@ import MobileNav from "./mobile-nav/mobile-nav"
 import TopNav from "./top-nav/top-nav"
 import SideNav from "./side-nav/side-nav"
 
-const Navigation = ({ path }) => {
+const Navigation = ({ path, hideSideNav, sideNavStyle }) => {
   const data = useStaticQuery(graphql`
     query {
       allMarkdownRemark {
@@ -45,7 +45,7 @@ const Navigation = ({ path }) => {
     <>
       <MobileNav />
       <TopNav path={path} />
-      <SideNav />
+      {hideSideNav ? null : <SideNav path={path} style={sideNavStyle} />}
     </>
   )
 }

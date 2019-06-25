@@ -1,5 +1,9 @@
 import React from "react"
 
-const SideNav = () => <div> this is the sidenav </div>
+const SideNav = ({ style }) => (
+  <aside className={style}>
+    <ul class="usa-sidenav">side nav</ul>
+  </aside>
+)
 
 export default SideNav
