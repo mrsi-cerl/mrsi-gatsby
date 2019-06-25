@@ -13,6 +13,7 @@ const Layout = ({ title, children }) => (
   <Location>
     {({ location }) => (
       <>
+        {console.log(location)}
         <Helmet title={title} />
         <SkipNav skipsTo={mainContent} />
         <UsaBanner />

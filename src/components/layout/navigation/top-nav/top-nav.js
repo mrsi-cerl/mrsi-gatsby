@@ -5,11 +5,13 @@ import styles from "./top-nav.module.css"
 
 const TopNav = ({ path }) => {
   console.log(path)
-  const cos = path.startsWith("/cos")
-  const crst = path.startsWith("/crst")
-  const modelrfp = path.startsWith("/model-rfp")
-  const pdrs = path.startsWith("/pdrs")
-  const sustain = path.startsWith("/sustain")
+  const prefix = "/site/mrsi-cerl/mrsi-gatsby"
+  const newPath = prefix + path
+  const cos = newPath.startsWith("/cos")
+  const crst = newPath.startsWith("/crst")
+  const modelrfp = newPath.startsWith("/model-rfp")
+  const pdrs = newPath.startsWith("/pdrs")
+  const sustain = newPath.startsWith("/sustain")
 
   const current = styles.current
   console.log(cos)
