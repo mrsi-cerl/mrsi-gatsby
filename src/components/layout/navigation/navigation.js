@@ -3,6 +3,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import MobileNav from "./mobile-nav/mobile-nav"
 import TopNav from "./top-nav/top-nav"
 import SideNav from "./side-nav/side-nav"
+import getPages from "./createPageIndex.js"
 
 const Navigation = ({ path, hideSideNav, sideNavStyle }) => {
   const data = useStaticQuery(graphql`
@@ -38,14 +39,16 @@ const Navigation = ({ path, hideSideNav, sideNavStyle }) => {
       }
     }
   `)
-
-  console.log(data)
+  console.log(path)
+  const pages = getPages(data, path)
 
   return (
     <>
       <MobileNav />
       <TopNav path={path} />
-      {hideSideNav ? null : <SideNav path={path} style={sideNavStyle} />}
+      {hideSideNav ? null : (
+        <SideNav path={path} style={sideNavStyle} pages={pages} />
+      )}
     </>
   )
 }
