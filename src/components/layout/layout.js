@@ -8,8 +8,13 @@ import Footer from "./footer/footer"
 import Navigation from "./navigation/navigation"
 import cx from "classnames"
 import styles from "./layout.module.css"
+import PropTypes from "prop-types"
 
 const mainContent = "main-content"
+
+const propTypes = {
+  path: PropTypes.string.isRequired,
+}
 
 const Layout = ({ title, children, hideSideNav, path }) => {
   console.log("layout ", path)
@@ -26,15 +31,16 @@ const Layout = ({ title, children, hideSideNav, path }) => {
               path={path}
               hideSideNav={hideSideNav}
               sideNavStyle={styles.sideNav}
-            />
-            <main
-              id={mainContent}
-              className={cx(styles.main, {
-                [styles.mainWithSideNav]: !hideSideNav,
-              })}
             >
-              {children}
-            </main>
+              <main
+                id={mainContent}
+                className={cx(styles.main, {
+                  [styles.mainWithSideNav]: !hideSideNav,
+                })}
+              >
+                {children}
+              </main>
+            </Navigation>
           </div>
           <Footer />
         </>
