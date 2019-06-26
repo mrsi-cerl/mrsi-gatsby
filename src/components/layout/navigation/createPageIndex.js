@@ -126,7 +126,6 @@ function getPages(data, currSlug) {
   const allPages = JSON.parse(JSON.stringify(pages))
   const cosPages = getCOSPages(data)
   allPages.COS = allPages.COS.concat(cosPages)
-  console.log(allPages)
 
   return allPages
 }

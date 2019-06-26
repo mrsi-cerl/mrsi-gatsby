@@ -17,24 +17,25 @@ const Layout = ({ title, children, hideSideNav, path }) => {
     <Location>
       {({ location }) => (
         <>
-          {console.log(location)}
           <Helmet title={title} />
           <SkipNav skipsTo={mainContent} />
-          <UsaBanner />
-          <MrsiBanner />
-          <Navigation
-            path={path}
-            hideSideNav={hideSideNav}
-            sideNavStyle={styles.sideNav}
-          />
-          <main
-            id={mainContent}
-            className={cx(styles.main, {
-              [styles.mainWithSideNav]: !hideSideNav,
-            })}
-          >
-            {children}
-          </main>
+          <div>
+            <UsaBanner />
+            <MrsiBanner />
+            <Navigation
+              path={path}
+              hideSideNav={hideSideNav}
+              sideNavStyle={styles.sideNav}
+            />
+            <main
+              id={mainContent}
+              className={cx(styles.main, {
+                [styles.mainWithSideNav]: !hideSideNav,
+              })}
+            >
+              {children}
+            </main>
+          </div>
           <Footer />
         </>
       )}

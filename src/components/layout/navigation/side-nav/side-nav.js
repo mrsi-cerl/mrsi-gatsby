@@ -5,7 +5,6 @@ import styles from "./side-nav.module.css"
 import { Accordion, AccordionButton, AccordionContent } from "uswds-react"
 
 function createAcordianList(p, idx, currPath) {
-  console.log("accordian: ", currPath)
   const openAccordian = p.children.find(e => e.slug == currPath)
   return (
     <li class="usa-sidenav__item">
@@ -58,7 +57,6 @@ function createAcordianList(p, idx, currPath) {
 
 function createNavList(pages, currPath) {
   return pages.map((p, idx) => {
-    console.log(p.slug, " == ", currPath)
     if (p.children) {
       return createAcordianList(p, idx, currPath)
     } else {

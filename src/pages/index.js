@@ -17,9 +17,9 @@ const iconStyle = {
 
 const IndexPage = () => (
   <Layout sidenav title="Home" hideSideNav path="/">
-    <section class="site-hero">
+    <section className="site-hero">
       <div
-        class="grid-container"
+        className="grid-container"
         style={{
           backgroundImage: "url(" + bgImg + ")",
           backgroundPosition: "center",
@@ -28,7 +28,7 @@ const IndexPage = () => (
         }}
       >
         <div
-          class="maxw-mobile-lg"
+          className="maxw-mobile-lg"
           style={{
             backgroundColor: "rgba(252, 252, 252, .95)",
             padding: "1px 20px",
@@ -46,16 +46,16 @@ const IndexPage = () => (
         </div>
       </div>
     </section>
-    <section class="usa-section usa-graphic-list grid-container">
-      <div class="grid-row grid-gap">
-        <div class="desktop:grid-col-3 tablet:grid-col-6 usa-media-block margin-bottom-3 desktop:margin-bottom-0">
+    <section className="usa-section usa-graphic-list grid-container">
+      <div className="grid-row grid-gap">
+        <div className="desktop:grid-col-3 tablet:grid-col-6 usa-media-block margin-bottom-3 desktop:margin-bottom-0">
           <img
-            class="usa-media-block__img"
+            className="usa-media-block__img"
             style={iconStyle}
             src={cosIcon}
             alt=""
           />
-          <div class="usa-media-block__body">
+          <div className="usa-media-block__body">
             <h3>COS</h3>
             <p>
               To learn about facilities standardization, please visit the COS
@@ -69,14 +69,14 @@ const IndexPage = () => (
             </p>
           </div>
         </div>
-        <div class="desktop:grid-col-3 tablet:grid-col-6 usa-media-block margin-bottom-3 desktop:margin-bottom-0">
+        <div className="desktop:grid-col-3 tablet:grid-col-6 usa-media-block margin-bottom-3 desktop:margin-bottom-0">
           <img
-            class="usa-media-block__img"
+            className="usa-media-block__img"
             style={iconStyle}
             src={crstIcon}
             alt=""
           />
-          <div class="usa-media-block__body">
+          <div className="usa-media-block__body">
             <h3>CRST</h3>
             <p>
               The Combat Readiness Support Team evaluates the Army's
@@ -89,14 +89,14 @@ const IndexPage = () => (
             </p>
           </div>
         </div>
-        <div class="desktop:grid-col-3 tablet:grid-col-6 usa-media-block margin-bottom-3 desktop:margin-bottom-0">
+        <div className="desktop:grid-col-3 tablet:grid-col-6 usa-media-block margin-bottom-3 desktop:margin-bottom-0">
           <img
-            class="usa-media-block__img"
+            className="usa-media-block__img"
             style={iconStyle}
             src={rfpIcon}
             alt=""
           />
-          <div class="usa-media-block__body">
+          <div className="usa-media-block__body">
             <h3>Model RFP</h3>
             <p>
               The Model RFP defines the standard templates for MILCON RFP. The
@@ -108,14 +108,14 @@ const IndexPage = () => (
             </p>
           </div>
         </div>
-        <div class="desktop:grid-col-3 tablet:grid-col-6 usa-media-block margin-bottom-3 desktop:margin-bottom-0">
+        <div className="desktop:grid-col-3 tablet:grid-col-6 usa-media-block margin-bottom-3 desktop:margin-bottom-0">
           <img
-            class="usa-media-block__img"
+            className="usa-media-block__img"
             style={iconStyle}
             src={sustainIcon}
             alt=""
           />
-          <div class="usa-media-block__body">
+          <div className="usa-media-block__body">
             <h3>Sustain</h3>
             <p>
               The folks with Engineering and Construction Sustainability are
@@ -131,8 +131,8 @@ const IndexPage = () => (
         </div>
       </div>
     </section>
-    <section class="usa-section usa-graphic-list grid-container">
-      <div class="grid-row grid-gap">
+    <section className="usa-section usa-graphic-list grid-container">
+      <div className="grid-row grid-gap">
         Welcome to the MILCON Requirements, Standardization, and Integration
         (MRSI) home page. This site consolidates useful MILCON information in
         order to provide the facility community with the tools they need to

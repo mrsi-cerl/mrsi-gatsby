@@ -39,7 +39,7 @@ const Navigation = ({ path, hideSideNav, sideNavStyle }) => {
       }
     }
   `)
-  console.log(path)
+
   const pages = getPages(data, path)
 
   return (
