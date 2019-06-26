@@ -4,13 +4,18 @@ import cx from "classnames"
 import styles from "./side-nav.module.css"
 import { Accordion, AccordionButton, AccordionContent } from "uswds-react"
 
-function createAcordianList(p, idx) {
+function createAcordianList(p, idx, currPath) {
+  console.log("accordian: ", currPath)
+  const openAccordian = p.children.find(e => e.slug == currPath)
   return (
     <li class="usa-sidenav__item">
       <Accordion>
         <AccordionButton
           controls={`side-nav-section-${idx}`}
-          className={cx("usa-sidenav__item", styles.accordion)}
+          className={cx("usa-sidenav__item", styles.accordion, {
+            "usa-current": openAccordian,
+          })}
+          defaultExpanded={openAccordian}
         >
           <span
             className={cx({
@@ -23,11 +28,16 @@ function createAcordianList(p, idx) {
         <AccordionContent
           id={`side-nav-section-${idx}`}
           className={styles.accordionContent}
+          defaultHidden={!openAccordian}
         >
           <ul class="usa-sidenav__sublist">
             {p.children.map((e, index) => {
               return (
-                <li class="usa-sidenav__item">
+                <li
+                  class={cx("usa-sidenav__item", {
+                    "usa-current": e.slug == currPath,
+                  })}
+                >
                   <Link
                     to={e.slug}
                     className={cx({
@@ -46,14 +56,18 @@ function createAcordianList(p, idx) {
   )
 }
 
-function createNavList(pages) {
-  console.log(pages)
+function createNavList(pages, currPath) {
   return pages.map((p, idx) => {
+    console.log(p.slug, " == ", currPath)
     if (p.children) {
-      return createAcordianList(p, idx)
+      return createAcordianList(p, idx, currPath)
     } else {
       return (
-        <li class="usa-sidenav__item">
+        <li
+          class={cx("usa-sidenav__item", {
+            "usa-current": p.slug == currPath,
+          })}
+        >
           <Link to={p.slug}>{p.caption}</Link>
         </li>
       )
@@ -74,7 +88,7 @@ function getSideNav(pages, path) {
   } else {
     return null
   }
-  return createNavList(pages[currPage])
+  return createNavList(pages[currPage], path)
 }
 
 const SideNav = ({ style, pages, path }) => {

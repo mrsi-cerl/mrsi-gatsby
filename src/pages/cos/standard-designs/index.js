@@ -4,7 +4,11 @@ import Layout from "../../../components/layout/layout"
 class StandardDesigns extends Component {
   state = {}
   render() {
-    return <Layout>This is the Standard Designs Page</Layout>
+    return (
+      <Layout path="/cos/standard-designs">
+        This is the Standard Designs Page
+      </Layout>
+    )
   }
 }
 

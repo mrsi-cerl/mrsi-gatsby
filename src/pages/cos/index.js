@@ -4,7 +4,7 @@ class cosHome extends Component {
   state = {}
   render() {
     return (
-      <Layout>
+      <Layout path="/cos/">
         <h1>About the Centers of Standardization </h1>
         <p>
           This website is used by the COS to disseminate all the necessary

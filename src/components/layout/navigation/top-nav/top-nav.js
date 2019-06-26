@@ -4,7 +4,7 @@ import cx from "classnames"
 import styles from "./top-nav.module.css"
 
 const TopNav = ({ path }) => {
-  const prefix = "/site/mrsi-cerl/mrsi-gatsby"
+  const prefix = ""
   const cos = path.startsWith(prefix + "/cos")
   const crst = path.startsWith(prefix + "/crst")
   const modelrfp = path.startsWith(prefix + "/model-rfp")

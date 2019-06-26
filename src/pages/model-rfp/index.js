@@ -5,7 +5,7 @@ class ModelRFPHome extends Component {
   state = {}
   render() {
     return (
-      <Layout>
+      <Layout path="/model-rfp/">
         <h3>About the Model RFP</h3>
         <p>
           The Model Request for Proposal (RFP) is a set of templates that

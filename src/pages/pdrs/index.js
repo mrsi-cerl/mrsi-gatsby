@@ -5,7 +5,7 @@ class PDRSHome extends Component {
   state = {}
   render() {
     return (
-      <Layout hideSideNav>
+      <Layout hideSideNav path="/pdrs">
         <h3>About the PDRS</h3>
         <p>
           The Code 2&nbsp;and/or Code 3&nbsp;Design Directives for Army

@@ -11,32 +11,35 @@ import styles from "./layout.module.css"
 
 const mainContent = "main-content"
 
-const Layout = ({ title, children, hideSideNav, slug }) => (
-  <Location>
-    {({ location }) => (
-      <>
-        {console.log(location)}
-        <Helmet title={title} />
-        <SkipNav skipsTo={mainContent} />
-        <UsaBanner />
-        <MrsiBanner />
-        <Navigation
-          path={location.pathname}
-          hideSideNav={hideSideNav}
-          sideNavStyle={styles.sideNav}
-        />
-        <main
-          id={mainContent}
-          className={cx(styles.main, {
-            [styles.mainWithSideNav]: !hideSideNav,
-          })}
-        >
-          {children}
-        </main>
-        <Footer />
-      </>
-    )}
-  </Location>
-)
+const Layout = ({ title, children, hideSideNav, path }) => {
+  console.log("layout ", path)
+  return (
+    <Location>
+      {({ location }) => (
+        <>
+          {console.log(location)}
+          <Helmet title={title} />
+          <SkipNav skipsTo={mainContent} />
+          <UsaBanner />
+          <MrsiBanner />
+          <Navigation
+            path={path}
+            hideSideNav={hideSideNav}
+            sideNavStyle={styles.sideNav}
+          />
+          <main
+            id={mainContent}
+            className={cx(styles.main, {
+              [styles.mainWithSideNav]: !hideSideNav,
+            })}
+          >
+            {children}
+          </main>
+          <Footer />
+        </>
+      )}
+    </Location>
+  )
+}
 
 export default Layout

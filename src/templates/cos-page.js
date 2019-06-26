@@ -24,7 +24,7 @@ export default ({ data, pageContext }) => {
   const { facilities, cos } = getData(pageContext.slug, data)
 
   return (
-    <Layout>
+    <Layout path={pageContext.slug}>
       <div style={{ maxWidth: 700 }}>
         <h1>{cos.frontmatter.cos_long_name}</h1>
         <div dangerouslySetInnerHTML={{ __html: cos.html }} />

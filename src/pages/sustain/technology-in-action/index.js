@@ -5,7 +5,7 @@ import styles from "./TIA.module.css"
 
 const TechnologyInAction = () => {
   return (
-    <Layout>
+    <Layout path="/sustain/technology-in-action/">
       This is the Technology in action page
       <div className={styles.container}>
         <GoogleMapReact

@@ -5,7 +5,7 @@ class CRSTHome extends Component {
   state = {}
   render() {
     return (
-      <Layout>
+      <Layout path="/crst/">
         <h1>Combat Readiness Support Team</h1>
         <p>
           <strong>About the CRST:</strong>
