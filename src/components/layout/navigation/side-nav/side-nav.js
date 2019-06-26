@@ -2,15 +2,55 @@ import React from "react"
 import { Link } from "gatsby"
 import cx from "classnames"
 import styles from "./side-nav.module.css"
+import { Accordion, AccordionButton, AccordionContent } from "uswds-react"
 
-function createAcordianList(p) {}
+function createAcordianList(p, idx) {
+  return (
+    <li class="usa-sidenav__item">
+      <Accordion>
+        <AccordionButton
+          controls={`side-nav-section-${idx}`}
+          className={cx("usa-sidenav__item", styles.accordion)}
+        >
+          <span
+            className={cx({
+              "usa-current": p in p.children,
+            })}
+          >
+            {p.caption}
+          </span>
+        </AccordionButton>
+        <AccordionContent
+          id={`side-nav-section-${idx}`}
+          className={styles.accordionContent}
+        >
+          <ul class="usa-sidenav__sublist">
+            {p.children.map((e, index) => {
+              return (
+                <li class="usa-sidenav__item">
+                  <Link
+                    to={e.slug}
+                    className={cx({
+                      "usa-current": "slug" === "window.location.pathname",
+                    })}
+                  >
+                    {e.caption}
+                  </Link>
+                </li>
+              )
+            })}
+          </ul>
+        </AccordionContent>
+      </Accordion>
+    </li>
+  )
+}
 
 function createNavList(pages) {
   console.log(pages)
-  return pages.map(p => {
+  return pages.map((p, idx) => {
     if (p.children) {
-      console.log("this has children")
-      return null
+      return createAcordianList(p, idx)
     } else {
       return (
         <li class="usa-sidenav__item">

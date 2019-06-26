@@ -1,3 +1,37 @@
 .nav {
   padding: 20px;
 }
+
+.accordion {
+  color: #565c65;
+  display: block;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, 0);
+  font-weight: 400;
+  border: none;
+  line-height: 21.6002px;
+  background-position: right 0.6rem center;
+}
+
+.accordionContent {
+  padding: 0;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.accordionContent .usa-sidenav__item:hover {
+  background-color: #f0f0f0;
+  color: #005ea2;
+  text-decoration: none;
+}
+
+.accordion:hover {
+  background-color: #f0f0f0;
+  color: #005ea2;
+  text-decoration: none;
+}
+
+.accordion[aria-expanded="false"],
+.accordion[aria-expanded="true"] {
+  background-size: 0.9rem;
+}
