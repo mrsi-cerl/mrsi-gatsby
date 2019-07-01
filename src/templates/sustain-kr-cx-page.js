@@ -12,11 +12,8 @@ export default ({ data, pageContext }) => {
   const pageData = getCXInfo(data, pageContext.slug)
   console.log(pageData)
   return (
-    <Layout path={pageContext.slug}>
-      <div
-        style={{ maxWidth: 700 }}
-        dangerouslySetInnerHTML={{ __html: pageData.html }}
-      />
+    <Layout path={pageContext.slug} MaxWidth={700} centerContent>
+      <div dangerouslySetInnerHTML={{ __html: pageData.html }} />
     </Layout>
   )
 }
