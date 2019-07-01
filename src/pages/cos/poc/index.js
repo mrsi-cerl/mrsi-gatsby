@@ -53,31 +53,37 @@ const CosPoc = ({ data }) => {
   tableData.sort(compare)
   return (
     <Layout path="/cos/poc">
-      <table>
-        <tr>
-          <th>Facility</th>
-          <th>COS</th>
-          <th>COS Manager</th>
-          <th>Technical POC</th>
-        </tr>
-        {tableData.map(e => (
+      <table className="usa-table">
+        <thead>
           <tr>
-            <td>
-              <Link to={e.facility_slug}> {e.facility_long_name}</Link>
-            </td>
-            <td>
-              <Link to={e.cos_slug}>{e.cos_short_name}</Link>
-            </td>
-            <td>
-              <a href={"mailto:" + e.cos_manager_email}>{e.cos_manager_name}</a>
-            </td>
-            <td>
-              <a href={"mailto:" + e.technical_poc_email}>
-                {e.technical_poc_name}
-              </a>
-            </td>
+            <th>Facility</th>
+            <th>COS</th>
+            <th>COS Manager</th>
+            <th>Technical POC</th>
           </tr>
-        ))}
+        </thead>
+        <tbody>
+          {tableData.map(e => (
+            <tr>
+              <td>
+                <Link to={e.facility_slug}> {e.facility_long_name}</Link>
+              </td>
+              <td>
+                <Link to={e.cos_slug}>{e.cos_short_name}</Link>
+              </td>
+              <td>
+                <a href={"mailto:" + e.cos_manager_email}>
+                  {e.cos_manager_name}
+                </a>
+              </td>
+              <td>
+                <a href={"mailto:" + e.technical_poc_email}>
+                  {e.technical_poc_name}
+                </a>
+              </td>
+            </tr>
+          ))}
+        </tbody>
       </table>
     </Layout>
   )

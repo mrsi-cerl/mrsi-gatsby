@@ -13,7 +13,10 @@ export default ({ data, pageContext }) => {
   console.log(pageData)
   return (
     <Layout path={pageContext.slug}>
-      <div dangerouslySetInnerHTML={{ __html: pageData.html }} />
+      <div
+        style={{ maxWidth: 700 }}
+        dangerouslySetInnerHTML={{ __html: pageData.html }}
+      />
     </Layout>
   )
 }
