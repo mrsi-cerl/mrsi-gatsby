@@ -16,7 +16,14 @@ const propTypes = {
   path: PropTypes.string.isRequired,
 }
 
-const Layout = ({ title, children, hideSideNav, path }) => {
+const Layout = ({
+  title,
+  children,
+  hideSideNav,
+  path,
+  MaxWidth,
+  centerContent,
+}) => {
   console.log("layout ", path)
   return (
     <Location>
@@ -38,7 +45,12 @@ const Layout = ({ title, children, hideSideNav, path }) => {
                   [styles.mainWithSideNav]: !hideSideNav,
                 })}
               >
-                {children}
+                <div
+                  style={{ maxWidth: MaxWidth }}
+                  className={cx({ [styles.mainCenter]: centerContent })}
+                >
+                  {children}
+                </div>
               </main>
             </Navigation>
           </div>
@@ -47,6 +59,10 @@ const Layout = ({ title, children, hideSideNav, path }) => {
       )}
     </Location>
   )
+}
+
+Layout.defaultProps = {
+  MaxWidth: 10000000,
 }
 
 export default Layout

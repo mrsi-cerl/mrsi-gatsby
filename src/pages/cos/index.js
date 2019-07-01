@@ -4,8 +4,8 @@ class cosHome extends Component {
   state = {}
   render() {
     return (
-      <Layout path="/cos/">
-        <div style={{ maxWidth: 700 }}>
+      <Layout path="/cos/" MaxWidth={700} centerContent>
+        <div>
           <h1>About the Centers of Standardization </h1>
           <p>
             This website is used by the COS to disseminate all the necessary

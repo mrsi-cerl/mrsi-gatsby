@@ -13,3 +13,7 @@
     display: inline-block;
   }
 }
+
+.mainCenter {
+  margin: auto;
+}
