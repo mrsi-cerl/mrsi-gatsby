@@ -25,7 +25,7 @@ export default ({ data, pageContext }) => {
 
   return (
     <Layout path={pageContext.slug}>
-      <div style={{ maxWidth: 700 }}>
+      <div style={{ maxWidth: 700, margin: "auto" }}>
         <h1>{cos.frontmatter.cos_long_name}</h1>
         <div dangerouslySetInnerHTML={{ __html: cos.html }} />
       </div>

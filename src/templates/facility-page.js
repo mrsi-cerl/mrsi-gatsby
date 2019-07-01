@@ -59,7 +59,7 @@ export default ({ data, pageContext }) => {
 
   return (
     <Layout path={pageContext.slug}>
-      <div style={{ maxWidth: 700, paddingLeft: 20 }}>
+      <div style={{ maxWidth: 700, paddingLeft: 20, margin: "auto" }}>
         <h1>{facility.frontmatter.facility_long_name}</h1>
         <img
           src={
