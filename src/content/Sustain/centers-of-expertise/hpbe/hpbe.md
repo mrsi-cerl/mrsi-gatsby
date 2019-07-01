@@ -17,7 +17,7 @@ sustain_erdc_liaison_name: Alexander Zhivov
 
 file_library_root_path: ""
 page_last_reviewed: 1 January 1970
-slug: /sustain/
+slug: /sustain/hpbe
 ---
 
 ## About High Performance Building Envelope

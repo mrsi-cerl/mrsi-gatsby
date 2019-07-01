@@ -51,14 +51,6 @@ const pages = {
       slug: "/sustain/poc",
     },
     {
-      caption: "Centers of Expertise",
-      slug: "/sustain/cx",
-    },
-    {
-      caption: "Knowledge Resources",
-      slug: "/sustain/kr",
-    },
-    {
       caption: "Upcoming Events",
       slug: "/sustain/events",
     },
@@ -122,10 +114,41 @@ function getCOSPages(data) {
   return p
 }
 
+function getSustainPages(data) {
+  const cxPageData = getAllOfDocType(data, "sustain_cx_page").map(e => ({
+    slug: e.node.frontmatter.slug,
+    caption: e.node.frontmatter.title,
+  }))
+  const krPageData = getAllOfDocType(data, "sustain_kr_page").map(e => ({
+    slug: e.node.frontmatter.slug,
+    caption: e.node.frontmatter.title,
+  }))
+
+  return {
+    cxPageData,
+    krPageData,
+  }
+}
+
 function getPages(data, currSlug) {
   const allPages = JSON.parse(JSON.stringify(pages))
   const cosPages = getCOSPages(data)
   allPages.COS = allPages.COS.concat(cosPages)
+  const sustainPages = getSustainPages(data)
+
+  const cxPages = {
+    caption: "Centers of Expertise",
+    slug: "/sustain/cx",
+    children: sustainPages.cxPageData,
+  }
+  const krPages = {
+    caption: "Knowledge Resources",
+    slug: "/sustain/kr",
+    children: sustainPages.krPageData,
+  }
+
+  allPages.SUSTAIN.splice(2, 0, krPages)
+  allPages.SUSTAIN.splice(2, 0, cxPages)
 
   return allPages
 }
