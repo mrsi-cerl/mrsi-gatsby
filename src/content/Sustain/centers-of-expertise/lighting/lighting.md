@@ -1,6 +1,4 @@
 ---
-carousel_images:
-  - ""
 doc_type: sustain_cx_page
 
 title: Lighting
