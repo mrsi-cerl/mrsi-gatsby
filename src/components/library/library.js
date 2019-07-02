@@ -41,7 +41,17 @@ const Library = ({ rootDir }) => {
             } else {
               return (
                 <tr key={idx}>
-                  <td>{e.name}</td>
+                  <td>
+                    <a
+                      href={
+                        "https://cg-d19603a8-407d-46f0-a631-c1499a028c87.s3-us-gov-west-1.amazonaws.com/" +
+                        e.Key
+                      }
+                      target="_blank"
+                    >
+                      {e.name}
+                    </a>
+                  </td>
                   <td>{e.readableSize}</td>
                   <td>{e.LastModified}</td>
                 </tr>
