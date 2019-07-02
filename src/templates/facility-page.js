@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
 import Layout from "../components/layout/layout"
+import Library from "../components/library/library"
 
 import Card from "react-bootstrap/Card"
 import Breadcrumb from "react-bootstrap/Breadcrumb"
@@ -58,8 +59,8 @@ export default ({ data, pageContext }) => {
   ]
 
   return (
-    <Layout path={pageContext.slug}>
-      <div style={{ maxWidth: 700, paddingLeft: 20, margin: "auto" }}>
+    <Layout path={pageContext.slug} MaxWidth={700} centerContent>
+      <div style={{ paddingLeft: 20 }}>
         <h1>{facility.frontmatter.facility_long_name}</h1>
         <img
           src={
@@ -70,6 +71,7 @@ export default ({ data, pageContext }) => {
         />
         <MrsiTable data={tableData} />
         <div dangerouslySetInnerHTML={{ __html: facility.html }} />
+        <Library rootDir="content/cos/hnc/acsc/" />
       </div>
     </Layout>
   )

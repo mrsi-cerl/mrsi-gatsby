@@ -35,11 +35,16 @@ listAllKeys(null, () => {
 // save keys to file in contents folder
 function saveKeys() {
   var json = JSON.stringify(allKeys)
-  fs.writeFile("./src/content/s3ListBucket.json", json, "utf8", err => {
-    if (err) {
-      console.log(err)
-    } else {
-      console.log("list saved to disk")
+  fs.writeFile(
+    "./src/content/s3ListBucket/s3ListBucket.json",
+    json,
+    "utf8",
+    err => {
+      if (err) {
+        console.log(err)
+      } else {
+        console.log("list saved to disk")
+      }
     }
-  })
+  )
 }
