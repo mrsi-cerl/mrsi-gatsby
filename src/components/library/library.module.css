@@ -1,0 +1,23 @@
+.pointer {
+  cursor: pointer;
+  color: #124699;
+}
+
+.pointer:hover {
+  color: #4287f5;
+  text-decoration: underline;
+}
+
+.bcGrey {
+  color: grey;
+}
+
+.bc {
+  font-size: 10pt;
+}
+
+.library {
+  border: solid 1px grey;
+  border-radius: 5px;
+  padding: 5px;
+}
