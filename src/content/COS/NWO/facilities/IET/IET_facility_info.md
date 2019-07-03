@@ -1,20 +1,30 @@
 ---
-carousel_images: []
+carousel_images:
+  - "./chapel_clouds_1.jpg"
+  - "./chapel_clouds_2.jpg"
+  - "./chapel_vault_1.jpg"
+  - "./chapel_vault_2.jpg"
+  - "./cross_clouds.jpg"
+  - "./cross_vault.jpg"
+  - "./long_clouds.jpg"
+  - "./picture1.jpg"
+  - "./picture2.jpg"
+  - "./picture3.jpg"
+  - "./plan.jpg"
+
 doc_type: facility_page
 facility_category_codes:
-- '73017'
+  - "73017"
 facility_cos_short_name: NWO
 facility_functional_proponent: OTC
 facility_long_name: Initial Entry Training Chapels
 facility_short_name: IET
 facility_technical_poc_email: askelon.m.parker@usace.army.mil
 facility_technical_poc_name: Askelon Parker
-file_library_root_path: 'content/cos/nwo/iet/Library/'
+file_library_root_path: "content/cos/nwo/iet/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nwo/iet/
 ---
-
-
 
 ## Description
 

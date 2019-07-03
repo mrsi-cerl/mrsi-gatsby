@@ -1,22 +1,21 @@
 ---
-carousel_images: []
+carousel_images:
+  - "./capture.jpg"
 doc_type: facility_page
 facility_category_codes:
-- '14113'
-- '87250'
-- '85110'
+  - "14113"
+  - "87250"
+  - "85110"
 facility_cos_short_name: NWO
 facility_functional_proponent: OPMG
 facility_long_name: Access Control Points
 facility_short_name: ACP
 facility_technical_poc_email: brian.w.erickson@usace.army.mil
 facility_technical_poc_name: Brian Erickson
-file_library_root_path: 'content/cos/nwo/acp/Library/'
+file_library_root_path: "content/cos/nwo/acp/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nwo/acp/
 ---
-
-
 
 ## Description
 

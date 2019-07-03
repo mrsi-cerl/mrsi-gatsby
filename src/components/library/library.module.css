@@ -21,3 +21,7 @@
   border-radius: 5px;
   padding: 5px;
 }
+
+.library table {
+  margin-top: 0;
+}
