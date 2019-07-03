@@ -1,6 +1,8 @@
 import React, { useState } from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import ls from "./library-helpers"
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faFolder, faFile } from "@fortawesome/free-regular-svg-icons"
 
 const getBreadcrumbs = (rootDir, dir) => {
   var new_dir = dir.replace(rootDir, "").split("/")
@@ -57,7 +59,7 @@ const Library = ({ rootDir }) => {
       <table class="usa-table usa-table--borderless" style={{ width: "100%" }}>
         <thead>
           <tr>
-            <th>File/Dir</th>
+            <th>Name</th>
             <th>Size</th>
             <th>Last Modified</th>
           </tr>
@@ -67,7 +69,10 @@ const Library = ({ rootDir }) => {
             if (e.type == "dir") {
               return (
                 <tr key={idx} onClick={() => setDir(e.Key)}>
-                  <td>{e.name}</td>
+                  <td>
+                    <FontAwesomeIcon icon={faFolder} />
+                    <span style={{ marginLeft: 10 }}>{e.name}</span>
+                  </td>
                   <td />
                   <td>{e.LastModified}</td>
                 </tr>
@@ -76,12 +81,14 @@ const Library = ({ rootDir }) => {
               return (
                 <tr key={idx}>
                   <td>
+                    <FontAwesomeIcon icon={faFile} />
                     <a
                       href={
                         "https://cg-d19603a8-407d-46f0-a631-c1499a028c87.s3-us-gov-west-1.amazonaws.com/" +
                         e.Key
                       }
                       target="_blank"
+                      style={{ marginLeft: 10 }}
                     >
                       {e.name}
                     </a>
