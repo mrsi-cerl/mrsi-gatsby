@@ -2,6 +2,7 @@ import React from "react"
 import { graphql, Link } from "gatsby"
 import Layout from "../components/layout/layout"
 import Library from "../components/library/library"
+import Carousel from "../components/mrsi-carousel"
 
 import Card from "react-bootstrap/Card"
 import Breadcrumb from "react-bootstrap/Breadcrumb"
@@ -62,13 +63,7 @@ export default ({ data, pageContext }) => {
     <Layout path={pageContext.slug} MaxWidth={700} centerContent>
       <div style={{ paddingLeft: 20 }}>
         <h1>{facility.frontmatter.facility_long_name}</h1>
-        <img
-          src={
-            facility.frontmatter.carousel_images[0]
-              ? facility.frontmatter.carousel_images[0].publicURL
-              : null
-          }
-        />
+        <Carousel imgs={facility.frontmatter.carousel_images} />
         <MrsiTable data={tableData} />
         <div dangerouslySetInnerHTML={{ __html: facility.html }} />
         <Library rootDir={facility.frontmatter.file_library_root_path} />
