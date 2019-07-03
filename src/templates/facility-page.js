@@ -71,7 +71,7 @@ export default ({ data, pageContext }) => {
         />
         <MrsiTable data={tableData} />
         <div dangerouslySetInnerHTML={{ __html: facility.html }} />
-        <Library rootDir={facility.file_library_root_path} />
+        <Library rootDir={facility.frontmatter.file_library_root_path} />
       </div>
     </Layout>
   )

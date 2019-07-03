@@ -39,6 +39,11 @@ const Library = ({ rootDir }) => {
     <div>
       <h2>File Library</h2>
       <div>
+        <a onClick={() => setDir(rootDir)} style={{ padding: 10 }}>
+          {" "}
+          Home
+        </a>
+        <span>/</span>
         {getBreadcrumbs(rootDir, dir).map((e, idx) => (
           <>
             <a onClick={() => setDir(e.path)} style={{ padding: 10 }}>
