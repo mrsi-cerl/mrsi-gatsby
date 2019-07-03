@@ -9,7 +9,7 @@ facility_long_name: General Support Aviation Battalion Hangar
 facility_short_name: GSAB
 facility_technical_poc_email: john.j.wahlers@usace.army.mil
 facility_technical_poc_name: John Wahlers
-file_library_root_path: ''
+file_library_root_path: 'content/cos/sam/gsab/Library/'
 page_last_reviewed: 1 January 1970
 slug: /cos/sam/gsab/
 ---

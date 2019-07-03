@@ -13,7 +13,7 @@ facility_long_name: Military Entrance Processing Station
 facility_short_name: MEPS
 facility_technical_poc_email: terry.l.deglandon@usace.army.mil
 facility_technical_poc_name: Terry Deglandon
-file_library_root_path: ''
+file_library_root_path: 'content/cos/nao/meps/Library/'
 page_last_reviewed: 1 January 1970
 slug: /cos/nao/meps/
 ---

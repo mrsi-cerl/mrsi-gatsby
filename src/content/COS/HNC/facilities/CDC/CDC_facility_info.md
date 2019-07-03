@@ -21,7 +21,7 @@ facility_long_name: Child Development Center
 facility_short_name: CDC
 facility_technical_poc_email: Jelani.A.Ingram@usace.army.mil
 facility_technical_poc_name: Jelani Ingram
-file_library_root_path: ''
+file_library_root_path: 'content/cos/hnc/cdc/Library/'
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/cdc/
 ---

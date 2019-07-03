@@ -10,7 +10,7 @@ facility_long_name: 'Combat Pistol - MP Firearms Qualification Course '
 facility_short_name: CPQC
 facility_technical_poc_email: marcus.j.searles@usace.army.mil
 facility_technical_poc_name: Marcus Searles
-file_library_root_path: ''
+file_library_root_path: 'content/cos/hnc/cpqc/Library/'
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/cpqc/
 ---

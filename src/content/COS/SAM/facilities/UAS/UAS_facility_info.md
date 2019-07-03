@@ -22,7 +22,7 @@ facility_long_name: Unmanned Aircraft Systems Hangar
 facility_short_name: UAS
 facility_technical_poc_email: kathy.a.prochnow@usace.army.mil
 facility_technical_poc_name: Kathy Prochnow, AIA
-file_library_root_path: ''
+file_library_root_path: 'content/cos/sam/uas/Library/'
 page_last_reviewed: 1 January 1970
 slug: /cos/sam/uas/
 ---

@@ -13,7 +13,7 @@ facility_long_name: Officer Quarters
 facility_short_name: Officer-Quarters
 facility_technical_poc_email: Joseph.r.behr@usace.army.mil
 facility_technical_poc_name: Joey Behr
-file_library_root_path: ''
+file_library_root_path: 'content/cos/tam/officer-quarters/Library/'
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/officer-quarters/
 ---

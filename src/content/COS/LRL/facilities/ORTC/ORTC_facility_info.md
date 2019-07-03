@@ -31,7 +31,7 @@ facility_long_name: Operational Readiness Training Complex
 facility_short_name: ORTC
 facility_technical_poc_email: derek.a.henry@usace.army.mil
 facility_technical_poc_name: Derek (Drew) Henry
-file_library_root_path: ''
+file_library_root_path: 'content/cos/lrl/ortc/Library/'
 page_last_reviewed: 1 January 1970
 slug: /cos/lrl/ortc/
 ---

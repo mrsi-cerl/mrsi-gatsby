@@ -11,7 +11,7 @@ facility_long_name: Access Control Points
 facility_short_name: ACP
 facility_technical_poc_email: brian.w.erickson@usace.army.mil
 facility_technical_poc_name: Brian Erickson
-file_library_root_path: ''
+file_library_root_path: 'content/cos/nwo/acp/Library/'
 page_last_reviewed: 1 January 1970
 slug: /cos/nwo/acp/
 ---

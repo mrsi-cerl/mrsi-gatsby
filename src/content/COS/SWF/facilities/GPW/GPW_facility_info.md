@@ -14,7 +14,7 @@ facility_long_name: General Purpose Warehouse
 facility_short_name: GPW
 facility_technical_poc_email: Javier.A.Fano@usace.army.mil
 facility_technical_poc_name: Javier Fano
-file_library_root_path: ''
+file_library_root_path: 'content/cos/swf/gpw/Library/'
 page_last_reviewed: 1 January 1970
 slug: /cos/swf/gpw/
 ---

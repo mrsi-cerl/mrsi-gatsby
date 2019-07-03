@@ -15,7 +15,7 @@ facility_long_name: Dining
 facility_short_name: Dining
 facility_technical_poc_email: joseph.r.behr@usace.army.mil
 facility_technical_poc_name: Joey Behr
-file_library_root_path: ''
+file_library_root_path: 'content/cos/tam/dining/Library/'
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/dining/
 ---

@@ -13,7 +13,7 @@ facility_long_name: Non‐Commissioned Officer Academy
 facility_short_name: NCOA
 facility_technical_poc_email: matthew.c.scanlon@usace.army.mil
 facility_technical_poc_name: Matthew Scanlon
-file_library_root_path: ''
+file_library_root_path: 'content/cos/nao/ncoa/Library/'
 page_last_reviewed: 1 January 1970
 slug: /cos/nao/ncoa/
 ---

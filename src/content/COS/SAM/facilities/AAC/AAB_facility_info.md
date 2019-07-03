@@ -9,7 +9,7 @@ facility_long_name: Attack Reconnaissance/Assault Battalion Hangar
 facility_short_name: AAB
 facility_technical_poc_email: john.j.wahlers@usace.army.mil
 facility_technical_poc_name: John Wahlers
-file_library_root_path: ''
+file_library_root_path: 'content/cos/sam/aab/Library/'
 page_last_reviewed: 1 January 1970
 slug: /cos/sam/aab/
 ---

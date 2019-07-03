@@ -16,7 +16,7 @@ facility_long_name: Army Family Housing
 facility_short_name: AFH
 facility_technical_poc_email: matthew.c.scanlon@usace.army.mil
 facility_technical_poc_name: Matthew Scanlon
-file_library_root_path: ''
+file_library_root_path: 'content/cos/nao/afh/Library/'
 page_last_reviewed: 1 January 1970
 slug: /cos/nao/afh/
 ---

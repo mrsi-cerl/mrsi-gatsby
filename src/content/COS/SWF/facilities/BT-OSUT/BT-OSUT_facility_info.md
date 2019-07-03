@@ -17,7 +17,7 @@ facility_long_name: Basic Training and One Station Unit Training Complex
 facility_short_name: BT-OSUT
 facility_technical_poc_email: Javier.A.Fano@usace.army.mil
 facility_technical_poc_name: Javier Fano
-file_library_root_path: ''
+file_library_root_path: 'content/cos/swf/bt-osut/Library/'
 page_last_reviewed: 1 January 1970
 slug: /cos/swf/bt-osut/
 ---

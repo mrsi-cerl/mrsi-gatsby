@@ -15,7 +15,7 @@ facility_long_name: Company Operations Facility
 facility_short_name: COF
 facility_technical_poc_email: jason.whittaker@usace.army.mil
 facility_technical_poc_name: Jason Whittaker
-file_library_root_path: ''
+file_library_root_path: 'content/cos/sas/cof/Library/'
 page_last_reviewed: 1 January 1970
 slug: /cos/sas/cof/
 ---

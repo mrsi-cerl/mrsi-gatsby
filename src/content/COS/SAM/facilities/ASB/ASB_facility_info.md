@@ -9,7 +9,7 @@ facility_long_name: Aviation Support Battalion Hangar
 facility_short_name: ASB
 facility_technical_poc_email: john.j.wahlers@usace.army.mil
 facility_technical_poc_name: John Wahlers
-file_library_root_path: ''
+file_library_root_path: 'content/cos/sam/asb/Library/'
 page_last_reviewed: 1 January 1970
 slug: /cos/sam/asb/
 ---

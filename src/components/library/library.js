@@ -2,6 +2,25 @@ import React, { useState } from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import ls from "./library-helpers"
 
+const getBreadcrumbs = (rootDir, dir) => {
+  var new_dir = dir.replace(rootDir, "").split("/")
+  //console.log(new_dir.split("/"))
+
+  const crumbs = []
+
+  new_dir.forEach((e, idx) => {
+    if (e != "") {
+      crumbs.push({
+        title: e,
+        path: rootDir + new_dir.slice(0, idx + 1).join("/") + "/",
+      })
+    }
+  })
+
+  console.log(crumbs)
+  return crumbs
+}
+
 const Library = ({ rootDir }) => {
   const [dir, setDir] = useState(rootDir)
   const data = useStaticQuery(graphql`
@@ -19,7 +38,17 @@ const Library = ({ rootDir }) => {
   return (
     <div>
       <h2>File Library</h2>
-      <button onClick={() => setDir(rootDir)}>Reset</button>
+      <div>
+        {getBreadcrumbs(rootDir, dir).map((e, idx) => (
+          <>
+            <a onClick={() => setDir(e.path)} style={{ padding: 10 }}>
+              {" "}
+              {e.title}
+            </a>
+            <span>/</span>
+          </>
+        ))}
+      </div>
       <table class="usa-table usa-table--borderless" style={{ width: "100%" }}>
         <thead>
           <tr>

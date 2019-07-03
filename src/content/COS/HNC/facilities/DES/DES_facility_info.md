@@ -1,27 +1,25 @@
 ---
 carousel_images:
-- ./DES cover.jpg
-- ./img01295-20130227-1452.jpg
-- ./large-floor-plan.jpg
-- ./img01278-20130227-1423.jpg
-- ./img01306-20130227-1542.jpg
-- ./img01267-20130227-1353.jpg
-- ./img01287-20130227-1430.jpg
+  - ./DES cover.jpg
+  - ./img01295-20130227-1452.jpg
+  - ./large-floor-plan.jpg
+  - ./img01278-20130227-1423.jpg
+  - ./img01306-20130227-1542.jpg
+  - ./img01267-20130227-1353.jpg
+  - ./img01287-20130227-1430.jpg
 doc_type: facility_page
 facility_category_codes:
-- '73010'
+  - "73010"
 facility_cos_short_name: HNC
 facility_functional_proponent: OPMG
 facility_long_name: Directorate of Emergency Services Facility
 facility_short_name: DES
 facility_technical_poc_email: Jelani.A.Ingram@usace.army.mil
 facility_technical_poc_name: Jelani Ingram
-file_library_root_path: ''
+file_library_root_path: "content/cos/hnc/des/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/des/
 ---
-
-
 
 ## Description
 

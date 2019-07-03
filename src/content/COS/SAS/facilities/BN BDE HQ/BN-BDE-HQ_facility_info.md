@@ -15,7 +15,7 @@ facility_long_name: Brigade/Battalion Headquarters
 facility_short_name: BN-DBE-HQ
 facility_technical_poc_email: sara.c.murphy@usace.army.mil
 facility_technical_poc_name: Sara Murphy
-file_library_root_path: ""
+file_library_root_path: "content/cos/sas/bn-bde-hq/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/sas/bn-bde-hq/
 ---

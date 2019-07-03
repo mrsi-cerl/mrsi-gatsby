@@ -10,7 +10,7 @@ facility_long_name: Army Community Service Center
 facility_short_name: ACSC
 facility_technical_poc_email: marilyn.l.scott@usace.army.mil
 facility_technical_poc_name: Marilyn Scott
-file_library_root_path: ''
+file_library_root_path: content/cos/hnc/acsc/Library/
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/acsc/
 ---

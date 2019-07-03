@@ -16,7 +16,7 @@ facility_long_name: Judicial Center with Courtroom
 facility_short_name: JC
 facility_technical_poc_email: derek.a.henry@usace.army.mil
 facility_technical_poc_name: Derek (Drew) Henry
-file_library_root_path: ''
+file_library_root_path: 'content/cos/lrl/jc/Library/'
 page_last_reviewed: 1 January 1970
 slug: /cos/lrl/jc/
 ---

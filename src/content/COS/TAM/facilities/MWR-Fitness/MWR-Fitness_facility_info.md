@@ -10,7 +10,7 @@ facility_long_name: MWR-Fitness
 facility_short_name: MWR-Fitness
 facility_technical_poc_email: joseph.r.behr@usace.army.mil
 facility_technical_poc_name: Joey Behr
-file_library_root_path: ''
+file_library_root_path: 'content/cos/tam/mwr-fitness/Library/'
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/mwr-fitness/
 ---

@@ -10,7 +10,7 @@ facility_long_name: Senior Leaders Quarters
 facility_short_name: SLQ
 facility_technical_poc_email: tyler.okabayashi@usace.army.mil
 facility_technical_poc_name: Tyler Okabayashi
-file_library_root_path: ''
+file_library_root_path: 'content/cos/poh/slq/Library/'
 page_last_reviewed: 1 January 1970
 slug: /cos/poh/slq/
 ---
