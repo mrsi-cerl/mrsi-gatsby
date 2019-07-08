@@ -25,7 +25,7 @@ const getBreadcrumbs = (rootDir, dir) => {
   return crumbs
 }
 
-const Library = ({ rootDir }) => {
+const Library = ({ rootDir, hideBC, hideTitle }) => {
   const [dir, setDir] = useState(rootDir)
   const data = useStaticQuery(graphql`
     query MyQuery {
@@ -42,37 +42,40 @@ const Library = ({ rootDir }) => {
   const bc = getBreadcrumbs(rootDir, dir)
   return (
     <>
-      <h2>Library</h2>
+      {hideTitle ? null : <h2>Library</h2>}
+
       <div className={styles.library}>
-        <div className={styles.bc}>
-          <a
-            onClick={() => setDir(rootDir)}
-            style={{ paddingRight: 5 }}
-            className={cx({
-              [styles.pointer]: bc.length > 0,
-              [styles.bcGrey]: bc.length == 0,
-            })}
-          >
-            {" "}
-            Home
-          </a>
-          <span>/</span>
-          {bc.map((e, idx) => (
-            <>
-              <a
-                onClick={() => setDir(e.path)}
-                style={{ padding: 5 }}
-                className={cx({
-                  [styles.bcGrey]: bc.length == idx + 1,
-                })}
-              >
-                {" "}
-                {e.title}
-              </a>
-              <span>/</span>
-            </>
-          ))}
-        </div>
+        {hideBC ? null : (
+          <div className={styles.bc}>
+            <a
+              onClick={() => setDir(rootDir)}
+              style={{ paddingRight: 5 }}
+              className={cx({
+                [styles.pointer]: bc.length > 0,
+                [styles.bcGrey]: bc.length == 0,
+              })}
+            >
+              {" "}
+              Home
+            </a>
+            <span>/</span>
+            {bc.map((e, idx) => (
+              <>
+                <a
+                  onClick={() => setDir(e.path)}
+                  style={{ padding: 5 }}
+                  className={cx({
+                    [styles.bcGrey]: bc.length == idx + 1,
+                  })}
+                >
+                  {" "}
+                  {e.title}
+                </a>
+                <span>/</span>
+              </>
+            ))}
+          </div>
+        )}
         <table
           class="usa-table usa-table--borderless"
           style={{ width: "100%" }}
