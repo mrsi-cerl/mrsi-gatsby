@@ -2,6 +2,7 @@
 title: About the Centers of Standardization
 doc_type: generic_page
 slug: /cos/
+file_library_root_path: content/cos/cos_home_page/Library/
 ---
 
 This website is used by the COS to disseminate all the necessary information related to MILCON Business Process (MBP) and standard design development. On this site you will find:

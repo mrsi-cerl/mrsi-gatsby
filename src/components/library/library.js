@@ -66,6 +66,7 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                   style={{ padding: 5 }}
                   className={cx({
                     [styles.bcGrey]: bc.length == idx + 1,
+                    [styles.pointer]: bc.length !== idx + 1,
                   })}
                 >
                   {" "}

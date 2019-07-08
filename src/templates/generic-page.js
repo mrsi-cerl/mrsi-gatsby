@@ -17,11 +17,11 @@ export default ({ data, pageContext }) => {
       centerContent
       hideSideNav={pageContext.slug == "/pdrs/"}
     >
+      <h1>{page.frontmatter.title}</h1>
+      <div dangerouslySetInnerHTML={{ __html: page.html }} />
       {lib_path !== null && lib_path !== "" ? (
         <Library rootDir={lib_path} />
       ) : null}
-      <h1>{page.frontmatter.title}</h1>
-      <div dangerouslySetInnerHTML={{ __html: page.html }} />
     </Layout>
   )
 }
