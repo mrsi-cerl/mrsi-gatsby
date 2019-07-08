@@ -1,5 +1,5 @@
 ---
-file_library_root_path: ""
+file_library_root_path: "content/cos/tam/center_home_page/Library/"
 slug: "/cos/tam/"
 related_links:
   - caption: "Middle East District"

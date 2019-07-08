@@ -1,11 +1,15 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout/layout"
+import Library from "../components/library/library"
 
 export default ({ data, pageContext }) => {
   const page = data.allMarkdownRemark.edges.filter(
     edge => edge.node.frontmatter.slug === pageContext.slug
   )[0].node
+
+  const lib_path = page.frontmatter.file_library_root_path
+
   return (
     <Layout
       path={pageContext.slug}
@@ -13,6 +17,9 @@ export default ({ data, pageContext }) => {
       centerContent
       hideSideNav={pageContext.slug == "/pdrs/"}
     >
+      {lib_path !== null && lib_path !== "" ? (
+        <Library rootDir={lib_path} />
+      ) : null}
       <h1>{page.frontmatter.title}</h1>
       <div dangerouslySetInnerHTML={{ __html: page.html }} />
     </Layout>

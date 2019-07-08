@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout/layout"
 import Carousel from "../components/mrsi-carousel"
+import Library from "../components/library/library"
 
 function getData(slug, data) {
   // find the cos that matches the slug
@@ -23,13 +24,16 @@ function getData(slug, data) {
 
 export default ({ data, pageContext }) => {
   const { facilities, cos } = getData(pageContext.slug, data)
-
+  const lib_path = cos.frontmatter.file_library_root_path
   return (
     <Layout path={pageContext.slug}>
       <div style={{ maxWidth: 700, margin: "auto" }}>
         <h1>{cos.frontmatter.cos_long_name}</h1>
         <Carousel imgs={cos.frontmatter.carousel_images} />
         <div dangerouslySetInnerHTML={{ __html: cos.html }} />
+        {lib_path !== null && lib_path !== "" ? (
+          <Library rootDir={lib_path} />
+        ) : null}
       </div>
     </Layout>
   )

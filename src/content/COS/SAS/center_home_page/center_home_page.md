@@ -1,5 +1,5 @@
 ---
-file_library_root_path: ""
+file_library_root_path: "content/cos/sas/center_home_page/Library/"
 slug: "/cos/sas/"
 related_links:
   - caption: "Savannah District"
