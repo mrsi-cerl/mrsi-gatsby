@@ -3,7 +3,6 @@ import "react-responsive-carousel/lib/styles/carousel.min.css"
 import { Carousel as CA } from "react-responsive-carousel"
 
 const Carousel = ({ imgs }) => {
-  console.log(imgs)
   const imgStyle = {
     maxWidth: "100%",
     minWidth: "100%",

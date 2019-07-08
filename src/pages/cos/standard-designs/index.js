@@ -18,7 +18,6 @@ const StandardDesigns = ({ data }) => {
       return 1
     }
   })
-  console.log(facilities)
 
   return (
     <Layout path="/cos/standard-designs" MaxWidth={700} centerContent>

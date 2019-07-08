@@ -18,7 +18,6 @@ const ArmyStandards = ({ data }) => {
       return 1
     }
   })
-  console.log(facilities)
 
   return (
     <Layout path="/cos/army-standards" MaxWidth={700} centerContent>
