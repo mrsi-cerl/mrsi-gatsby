@@ -59,6 +59,7 @@ ROM with Troop Labor
 
 ## Envelope Variations by Space Function
 
-Space Function SAFE FACE TERRA Hut SAWS CUBE MUTE
-48 PN Billet with Latrine X X X X X
-56 PN Billet X X X X X
+| Space Function            | SAFE | FACE | TERRA Hut | SAWS | CUBE | MUTE |
+| ------------------------- | ---- | ---- | --------- | ---- | ---- | ---- |
+| 48 PN Billet with Latrine | X    | X    | X         | X    |      | X    |
+| 56 PN Billet              | X    | X    | X         | X    |      | X    |

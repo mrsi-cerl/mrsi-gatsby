@@ -2,14 +2,14 @@
 carousel_images: []
 doc_type: facility_page
 facility_category_codes:
-- ''
+  - ""
 facility_cos_short_name: TAM
-facility_functional_proponent: ''
+facility_functional_proponent: ""
 facility_long_name: Briefing/Assembly/Classroom
 facility_short_name: Briefing-Assembly-Classroom
 facility_technical_poc_email: joseph.r.behr@usace.army.mil
 facility_technical_poc_name: Joey Behr
-file_library_root_path: 'content/cos/tam/briefing-assembly-classroom/Library/'
+file_library_root_path: "content/cos/tam/briefing-assembly-classroom/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/briefing-assembly-classroom/
 ---
@@ -34,5 +34,6 @@ Option 3 - 6 Bays (2 x 3) seats 220 PN.
 
 ## Envelope Variations by Space Function
 
-Space Function SAFE FACE TERRA Hut SAWS CUBE MUTE
-Briefing - Assembly - Classroom X X X X X
+| Space Function                  | SAFE | FACE | TERRA Hut | SAWS | CUBE | MUTE |
+| ------------------------------- | ---- | ---- | --------- | ---- | ---- | ---- |
+| Briefing - Assembly - Classroom | X    | X    | X         | X    |      | X    |

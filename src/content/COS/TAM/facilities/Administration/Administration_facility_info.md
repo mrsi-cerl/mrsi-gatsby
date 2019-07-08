@@ -1,27 +1,27 @@
 ---
 carousel_images:
-- ./saws-admin-full-1.jpg
-- ./safe-admin-full-2.jpg
-- ./saws-admin-full-2.jpg
-- ./safe-admin-full-1.jpg
-- ./joc-option-1.png
-- ./3d-model-operations-center.jpg
-- ./joc-option-2.png
-- ./operations-center-option2.png
-- ./operations-center-option1.png
-- ./admin-render.jpg
-- ./joc-3d-render.jpg
-- ./cube-admin-1-bay.jpg
+  - ./saws-admin-full-1.jpg
+  - ./safe-admin-full-2.jpg
+  - ./saws-admin-full-2.jpg
+  - ./safe-admin-full-1.jpg
+  - ./joc-option-1.png
+  - ./3d-model-operations-center.jpg
+  - ./joc-option-2.png
+  - ./operations-center-option2.png
+  - ./operations-center-option1.png
+  - ./admin-render.jpg
+  - ./joc-3d-render.jpg
+  - ./cube-admin-1-bay.jpg
 doc_type: facility_page
 facility_category_codes:
-- ''
+  - ""
 facility_cos_short_name: TAM
-facility_functional_proponent: ''
+facility_functional_proponent: ""
 facility_long_name: Administration
 facility_short_name: Administration
 facility_technical_poc_email: joseph.r.behr@usace.army.mil
 facility_technical_poc_name: Joey Behr
-file_library_root_path: 'content/cos/tam/administration/Library/'
+file_library_root_path: "content/cos/tam/administration/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/administration/
 ---
@@ -38,7 +38,8 @@ Option 3 is a 14 Bay (2x7) for Command operations up to 41 PN. with 3 enclosed c
 
 ## Envelope Variations by Space Function
 
-Space Function SAFE FACE TERRA Hut SAWS CUBE MUTE
-Administration Option 1 X
-Administration Option 2 X X X X X
-Administration Option 3 X X X X X
+| Space Function          | SAFE | FACE | TERRA Hut | SAWS | CUBE | MUTE |
+| ----------------------- | ---- | ---- | --------- | ---- | ---- | ---- |
+| Administration Option 1 |      |      |           |      | X    |      |
+| Administration Option 2 | X    | X    | X         | X    |      | X    |
+| Administration Option 3 | X    | X    | X         | X    |      | X    |

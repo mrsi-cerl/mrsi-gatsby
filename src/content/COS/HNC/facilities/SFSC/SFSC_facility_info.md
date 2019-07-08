@@ -1,21 +1,19 @@
 ---
 carousel_images:
-- ./SFSC BIM Rendering.jpg
+  - ./SFSC BIM Rendering.jpg
 doc_type: facility_page
 facility_category_codes:
-- TBD
+  - TBD
 facility_cos_short_name: HNC
 facility_functional_proponent: CFSC
 facility_long_name: Soldier Family Service Center
 facility_short_name: SFSC
 facility_technical_poc_email: marilyn.l.scott@usace.army.mil
 facility_technical_poc_name: Marilyn Scott
-file_library_root_path: 'content/cos/hnc/sfsc/Library/'
+file_library_root_path: "content/cos/hnc/sfsc/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/sfsc/
 ---
-
-
 
 ## Description
 
@@ -28,9 +26,8 @@ For SFAC facility (Soldier Family Assistance Center) refer to Warrior in Transit
 
 ## Variations
 
-Below should be a table..
-
-Facility Size Classification Military Population ​Square Meters Square Feet
-Small​ Facility 1,001 - 10,000 1,012 10,896 ​​
-Medium​ Facility ​10,001 - 15,000 ​1,599 ​17,215 ​​
-Large​ Facility ​15,001 and above ​2,131 22,939
+| Facility Size Classification | Military Population | ​Square Meters | Square Feet |
+| ---------------------------- | ------------------- | -------------- | ----------- |
+| Small​ Facility              | 1,001 - 10,000      | 1,012          | 10,896      |
+| Medium​ Facility             | ​10,001 - 15,000    | ​1,599         | ​17,215     |
+| Large​ Facility              | ​15,001 and above   | ​2,131         | 22,939      |

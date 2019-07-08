@@ -1,21 +1,21 @@
 ---
 carousel_images:
-- ./dfac-500pn.png
-- ./dfac-224pn.png
-- ./dfac-full.jpg
-- ./dfac-seating-full.jpg
-- ./dfac-3d-render2.jpg
-- ./dfac-3d-render1.jpg
+  - ./dfac-500pn.png
+  - ./dfac-224pn.png
+  - ./dfac-full.jpg
+  - ./dfac-seating-full.jpg
+  - ./dfac-3d-render2.jpg
+  - ./dfac-3d-render1.jpg
 doc_type: facility_page
 facility_category_codes:
-- ''
+  - ""
 facility_cos_short_name: TAM
-facility_functional_proponent: ''
+facility_functional_proponent: ""
 facility_long_name: Dining
 facility_short_name: Dining
 facility_technical_poc_email: joseph.r.behr@usace.army.mil
 facility_technical_poc_name: Joey Behr
-file_library_root_path: 'content/cos/tam/dining/Library/'
+file_library_root_path: "content/cos/tam/dining/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/dining/
 ---
@@ -28,21 +28,13 @@ Option 1: 14 Bay, Open Seating with Kitchen
 
 Description
 
-Size
+Size: 500 PN
 
-500 PN
+Details: Open Seating with kitchen & Serving space
 
-Details
+ROM with Contractor Labor: \$500k
 
-Open Seating with kitchen & Serving space
-
-ROM with Contractor Labor
-
-\$500k
-
-ROM with Troop Labor
-
-\$385k
+ROM with Troop Labor: \$385k
 
 Option 2: 14 Bay, Open Seating
 
