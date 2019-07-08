@@ -22,6 +22,7 @@ const ArmyStandards = ({ data }) => {
 
   return (
     <Layout path="/cos/army-standards" MaxWidth={700} centerContent>
+      <h1>Army Standards</h1>
       {facilities.map((e, idx) => (
         <Accordion>
           <AccordionButton controls={`sd-section-${idx}`}>

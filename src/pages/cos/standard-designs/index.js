@@ -22,6 +22,7 @@ const StandardDesigns = ({ data }) => {
 
   return (
     <Layout path="/cos/standard-designs" MaxWidth={700} centerContent>
+      <h1>USACE Standard Designs</h1>
       {facilities.map((e, idx) => (
         <Accordion>
           <AccordionButton controls={`sd-section-${idx}`}>

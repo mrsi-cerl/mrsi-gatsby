@@ -53,6 +53,7 @@ const CosPoc = ({ data }) => {
   tableData.sort(compare)
   return (
     <Layout path="/cos/poc" centerContent MaxWidth={700}>
+      <h1>COS Points of Contact</h1>
       <table className="usa-table">
         <thead>
           <tr>
