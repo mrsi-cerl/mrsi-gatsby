@@ -132,12 +132,7 @@ const IndexPage = () => (
       </div>
     </section>
     <section className="usa-section usa-graphic-list grid-container">
-      <div className="grid-row grid-gap">
-        Welcome to the MILCON Requirements, Standardization, and Integration
-        (MRSI) home page. This site consolidates useful MILCON information in
-        order to provide the facility community with the tools they need to
-        build and maintain the Army's facility infrastructure.
-      </div>
+      <div className="grid-row grid-gap" />
     </section>
   </Layout>
 )

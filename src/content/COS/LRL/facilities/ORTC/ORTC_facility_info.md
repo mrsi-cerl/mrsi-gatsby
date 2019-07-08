@@ -55,19 +55,15 @@ Facility requirements are predicated on current force structure alignments estab
 
 Battalion set is composed of:
 
-| Facility Type                              | ​CATCD (1)                                 | GSF (4)             | ​Notes                                  |
-| ------------------------------------------ | ------------------------------------------ | ------------------- | --------------------------------------- |
-| Battalion Headquarters​                    | ​14184                                     | ​7,107              | ​​                                      |
-| Barracks​                                  | ​72114                                     | ​30,669 ea bldg. or |
-| 61,227 ea bldg                             | ​Four 2-Story Bldgs per battalion set, or  |
-| Two 4-Story Bldgs per battalion set        |
-| Officer’s Quarters (2)                     | ​72412                                     | 22,857​             | ​                                       |
-| ​​Dining Facility (3)                      | ​72212                                     | ​17,440             |
-| 21,290                                     | ​​720PN (Small) - Supports 1 Battalion set |
-| 1428PN (Large) - Supports 2 Battalion sets |
-| Company Headquarters​                      | ​14186                                     | ​19,579             | ​​Supports Six Companies                |
-| Vehicle Maintenance Shop​                  | ​21406                                     | 10,200              | ​Motor Pool Hardstand (33,000 SY)       |
-| Brigade Headquarters​                      | ​14187                                     | ​10,241             | ​One required per six battalion complex |
+| Facility Type             | ​CATCD (1) | GSF (4)                            | ​Notes                                                                                   |
+| ------------------------- | ---------- | ---------------------------------- | ---------------------------------------------------------------------------------------- |
+| Battalion Headquarters​   | ​14184     | ​7,107                             | ​​                                                                                       |
+| Barracks​                 | ​72114     | ​30,669 ea bldg. or 61,227 ea bldg | Four 2-Story Bldgs per battalion set, or Two 4-Story Bldgs per battalion set             |
+| Officer’s Quarters (2)    | ​72412     | 22,857​                            | ​                                                                                        |
+| ​​Dining Facility (3)     | ​72212     | ​17,440 or 21,290                  | ​​720PN (Small) - Supports 1 Battalion set or 1428PN (Large) - Supports 2 Battalion sets |
+| Company Headquarters​     | ​14186     | ​19,579                            | ​​Supports Six Companies                                                                 |
+| Vehicle Maintenance Shop​ | ​21406     | 10,200                             | ​Motor Pool Hardstand (33,000 SY)                                                        |
+| Brigade Headquarters​     | ​14187     | ​10,241                            | ​One required per six battalion complex                                                  |
 
 (1) No Cat Code exists for the ORTC Complex. When identifying a project, utilize the cat code of largest facility.
 
