@@ -38,7 +38,7 @@ const pages = {
     },
     {
       caption: "Small Projects",
-      slug: "/model-rfp/small-projects",
+      slug: "/model-rfp/small-projects/",
     },
   ],
   SUSTAIN: [

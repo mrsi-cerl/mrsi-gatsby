@@ -5,6 +5,7 @@ const templates = {
   cos_page: path.resolve("./src/templates/cos-page.js"),
   sustain_kr_page: path.resolve("./src/templates/sustain-kr-cx-page.js"),
   sustain_cx_page: path.resolve("./src/templates/sustain-kr-cx-page.js"),
+  generic_page: path.resolve("./src/templates/generic-page.js"),
 }
 
 exports.createPages = ({ graphql, actions }) => {

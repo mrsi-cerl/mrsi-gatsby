@@ -3,9 +3,18 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout/layout"
 
 export default ({ data, pageContext }) => {
+  const page = data.allMarkdownRemark.edges.filter(
+    edge => edge.node.frontmatter.slug === pageContext.slug
+  )[0].node
   return (
-    <Layout path={pageContext.slug} MaxWidth={700} centerContent>
-      <h1>This is a generic page</h1>
+    <Layout
+      path={pageContext.slug}
+      MaxWidth={700}
+      centerContent
+      hideSideNav={pageContext.slug == "/pdrs/"}
+    >
+      <h1>{page.frontmatter.title}</h1>
+      <div dangerouslySetInnerHTML={{ __html: page.html }} />
     </Layout>
   )
 }
