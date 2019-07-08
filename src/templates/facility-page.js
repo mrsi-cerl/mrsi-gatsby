@@ -65,7 +65,7 @@ export default ({ data, pageContext }) => {
         <h1>{facility.frontmatter.facility_long_name}</h1>
         <Carousel imgs={facility.frontmatter.carousel_images} />
         <MrsiTable data={tableData} />
-        <div dangerouslySetInnerHTML={{ __html: facility.html }} />
+        <div class={"md"} dangerouslySetInnerHTML={{ __html: facility.html }} />
         <Library rootDir={facility.frontmatter.file_library_root_path} />
       </div>
     </Layout>

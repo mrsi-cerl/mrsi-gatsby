@@ -18,7 +18,7 @@ export default ({ data, pageContext }) => {
       hideSideNav={pageContext.slug == "/pdrs/"}
     >
       <h1>{page.frontmatter.title}</h1>
-      <div dangerouslySetInnerHTML={{ __html: page.html }} />
+      <div class={"md"} dangerouslySetInnerHTML={{ __html: page.html }} />
       {lib_path !== null && lib_path !== "" ? (
         <Library rootDir={lib_path} />
       ) : null}

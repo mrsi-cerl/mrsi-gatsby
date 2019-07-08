@@ -5,3 +5,33 @@
   content: "";
   display: block;
 }
+
+.md table thead th {
+  background-color: #f0f0f0;
+  font-weight: 700;
+}
+
+.md table th {
+  border-width: 1px;
+  border-color: #565c65;
+  border-style: solid;
+  padding: 0.5rem 1rem;
+}
+
+.md table {
+  font-family: Source Sans Pro Web, Helvetica Neue, Helvetica, Roboto, Arial,
+    sans-serif;
+  font-size: 1.06471rem;
+  line-height: 1.52155;
+  border-spacing: 0;
+  margin: 1.25rem 0;
+}
+
+.md table td {
+  border-width: 1px;
+  border-color: #565c65;
+  border-style: solid;
+  background-color: white;
+  font-weight: 400;
+  padding: 0.5rem 1rem;
+}

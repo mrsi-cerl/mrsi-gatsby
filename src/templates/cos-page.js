@@ -30,7 +30,7 @@ export default ({ data, pageContext }) => {
       <div style={{ maxWidth: 700, margin: "auto" }}>
         <h1>{cos.frontmatter.cos_long_name}</h1>
         <Carousel imgs={cos.frontmatter.carousel_images} />
-        <div dangerouslySetInnerHTML={{ __html: cos.html }} />
+        <div class={"md"} dangerouslySetInnerHTML={{ __html: cos.html }} />
         {lib_path !== null && lib_path !== "" ? (
           <Library rootDir={lib_path} />
         ) : null}
