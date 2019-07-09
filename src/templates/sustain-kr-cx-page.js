@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout/layout"
+import MrsiTable from "../components/mrsi-table"
 
 const getCXInfo = (data, slug) => {
   return data.allMarkdownRemark.edges.filter(
@@ -8,11 +9,53 @@ const getCXInfo = (data, slug) => {
   )[0].node
 }
 
+const getTableData = data => {
+  const tableData = [
+    {
+      title: "MSC Program Manager:",
+      value: (
+        <a
+          href={"mailto:" + data.frontmatter.sustain_msc_program_manager_email}
+        >
+          {data.frontmatter.sustain_msc_program_manager_name}
+        </a>
+      ),
+    },
+    {
+      title: "MSC Technical Lead / Co-Chair:",
+      value: (
+        <a href={"mailto:" + data.frontmatter.sustain_msc_technical_lead_email}>
+          {data.frontmatter.sustain_msc_technical_lead_name}
+        </a>
+      ),
+    },
+    {
+      title: "HQ USACE Proponent:",
+      value: (
+        <a href={"mailto:" + data.frontmatter.sustain_hq_usace_proponent_email}>
+          {data.frontmatter.sustain_hq_usace_proponent_name}
+        </a>
+      ),
+    },
+    {
+      title: "ERDC Liaison:",
+      value: (
+        <a href={"mailto:" + data.frontmatter.sustain_erdc_liaison_email}>
+          {data.frontmatter.sustain_erdc_liaison_name}
+        </a>
+      ),
+    },
+  ]
+  return tableData
+}
+
 export default ({ data, pageContext }) => {
   const pageData = getCXInfo(data, pageContext.slug)
   console.log(pageData)
   return (
     <Layout path={pageContext.slug} MaxWidth={700} centerContent>
+      <h1>{pageData.frontmatter.title}</h1>
+      <MrsiTable data={getTableData(pageData)} />
       <div class={"md"} dangerouslySetInnerHTML={{ __html: pageData.html }} />
     </Layout>
   )
@@ -47,6 +90,14 @@ export const query = graphql`
             file_library_root_path
             page_last_reviewed
             slug
+            sustain_msc_program_manager_name
+            sustain_msc_program_manager_email
+            sustain_msc_technical_lead_name
+            sustain_msc_technical_lead_email
+            sustain_hq_usace_proponent_name
+            sustain_hq_usace_proponent_email
+            sustain_erdc_liaison_name
+            sustain_erdc_liaison_email
           }
           html
         }
