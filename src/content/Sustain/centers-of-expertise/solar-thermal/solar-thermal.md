@@ -1,6 +1,7 @@
 ---
 doc_type: sustain_cx_page
-
+carousel_images:
+  - ./solar20thermal_800_resize.jpg
 title: Solar Thermal
 
 sustain_msc_program_manager_email: Mike.Cockrell@usace.army.mil

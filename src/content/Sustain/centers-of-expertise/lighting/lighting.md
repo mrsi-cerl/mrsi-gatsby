@@ -1,6 +1,13 @@
 ---
 doc_type: sustain_cx_page
-
+carousel_images:
+  - ./aia_temf-layout.jpg
+  - ./aia-asos-layout.jpg
+  - ./dsc_0080.jpg
+  - ./federal-center-south-building-1202_benjamin-benschneider_workplace.jpg
+  - ./imag0992.jpg
+  - ./lighting.jpg
+  - ./miller-hill.jpg
 title: Lighting
 
 sustain_msc_program_manager_email: Lori.A.Arakawa@usace.army.mil

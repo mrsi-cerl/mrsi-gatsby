@@ -1,6 +1,13 @@
 ---
 doc_type: sustain_cx_page
-
+carousel_images:
+  - ./microgrid_800_resize.jpg
+  - ./150902-a-ce999-011.jpg
+  - ./150902-a-ce999-010.jpg
+  - ./150825-a-ce999-001.png
+  - ./150825-a-ce999-002.png
+  - ./150825-a-ce999-003.png
+  - ./150825-a-ce999-028.jpg
 title: Microgrid
 
 sustain_msc_program_manager_email: Ryan.Parks@usace.army.mil

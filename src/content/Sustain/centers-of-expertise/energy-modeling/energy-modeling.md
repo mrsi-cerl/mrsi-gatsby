@@ -1,6 +1,8 @@
 ---
 doc_type: sustain_cx_page
-
+carousel_images:
+  - ./15sb04-b687_mechanical_v16_central_j3ec9rc9.jpg
+  - ./energy20modeling.jpg
 title: Energy Modeling
 
 sustain_msc_program_manager_email: Reid.S.Oshiro@usace.army.mil

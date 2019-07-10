@@ -1,6 +1,7 @@
 ---
 doc_type: sustain_cx_page
-
+carousel_images:
+  - ./gshp20pic.jpg
 title: Ground Source Heat Pumps
 
 sustain_msc_program_manager_email: Donald.E.Johantges@usace.army.mil

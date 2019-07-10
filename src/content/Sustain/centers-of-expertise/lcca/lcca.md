@@ -1,6 +1,7 @@
 ---
 doc_type: sustain_cx_page
-
+carousel_images:
+  - ./lcca_800_resize.jpg
 title: Life Cycle Cost Analysis
 
 sustain_msc_program_manager_email: Lori.A.Arakawa@usace.army.mil

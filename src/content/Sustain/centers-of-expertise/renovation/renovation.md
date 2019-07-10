@@ -1,6 +1,7 @@
 ---
 doc_type: sustain_cx_page
-
+carousel_images:
+  - ./major20renovation_800_resize.jpg
 title: Major Renovations
 
 sustain_msc_program_manager_email: Michael.Cockrell@usace.army.mil
