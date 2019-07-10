@@ -4,6 +4,7 @@ sustain_webinar_presenter: Charles Chaloeicheep and Nathan Gregory
 sustain_webinar_youtube_video_id: -bZeP8Vq0yw
 sustain_webinar_broadcast_date: Tuesday, April 19, 2016
 sustain_webinar_quiz_path:
+doc_type: sustain_webinar
 ---
 
 The green building movement is generating new ways of thinking about the design, construction and operation of buildings. With greater emphasis on seemingly competing demands of budget, design excellence and stringent requirements for high performance design, the stakes to demonstrate that performance is realized in operation are higher than ever before. The use of post-occupancy measurement and verification (M&V) to verify a building’s performance is increasingly popular and has become enshrined in a range of codes and standards, including LEED. The theory is simple – obtain the metered performance data from operational projects, and compare the results to expectations to see if the two line up.

@@ -4,6 +4,7 @@ sustain_webinar_presenter: Chris Pyke
 sustain_webinar_youtube_video_id: 7g-DvM4L6gk
 sustain_webinar_broadcast_date: Tuesday, September 02, 2014
 sustain_webinar_quiz_path:
+doc_type: sustain_webinar
 ---
 
 The Green Building Information Gateway (www.gbig.org) is a global platorm to understand the attributes and performance of buildings around the world. GBIG provides project transparency, market context, and rich, multi­-source asset timelines. This webinar will provide an introduction to GBIG and instruction on key features. Participants will have the opportunity to learn about search strategies, data sorting, maps, reports, and export optons.

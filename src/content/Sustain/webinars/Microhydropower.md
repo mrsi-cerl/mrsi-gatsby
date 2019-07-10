@@ -4,6 +4,7 @@ sustain_webinar_presenter: Jack McCollister, Mechanical Engineer, USACE Hydroele
 sustain_webinar_youtube_video_id: tJqh0Z5geWc
 sustain_webinar_broadcast_date: Friday, September 22, 2017
 sustain_webinar_quiz_path:
+doc_type: sustain_webinar
 ---
 
 Abstract: This Microhydro webinar is intended to provide participants some familiarity with the topic of small-scale hydropower. The course will introduce the basics of microhydro equipment, the fundamentals of assessing sites for microhydro potential, and an overview of the process of executing a microhydro installation project. Discussion will cover both the technical and non-technical considerations involved in microhydro site feasibility analyses, as well as a brief overview of the economics involved in scoping a microhydro installation project. The webinar content largely reflects what is presented in the Microhydro Technote, and will include a description of some of the small hydro feasibility analyses with which the Hydroelectric Design Center (HDC) has been involved.

@@ -4,6 +4,7 @@ sustain_webinar_presenter: Eric Mucklow
 sustain_webinar_youtube_video_id: BGDObIeY9ww
 sustain_webinar_broadcast_date: Tuesday, May 31, 2016
 sustain_webinar_quiz_path:
+doc_type: sustain_webinar
 ---
 
 Topic: CLT (Cross-Laminated Timber) - Plywood Becoming a Superhero (and How to Use It with ECB 2016-2)

@@ -4,6 +4,7 @@ sustain_webinar_presenter: Chris Allen
 sustain_webinar_youtube_video_id: mAa4DZORRCM
 sustain_webinar_broadcast_date: Tuesday, February 23, 2016
 sustain_webinar_quiz_path:
+doc_type: sustain_webinar
 ---
 
 This webinar will provide the student with an understanding of electrochromic dynamic glass, and how it can be used as a design enabler. Studies have confirmed that the sun's daylight and a connection of the outdoors provide many benefits to human health and natural body function. It is important for all stakeholders in the built environment to understand how to effectively utilize the sun for interior daylighting, while preserving the view of nature and place. Dynamic glass is a solution to that synthesizes the competing ends of daylighting and views, energy efficiency, and occupant comfort.

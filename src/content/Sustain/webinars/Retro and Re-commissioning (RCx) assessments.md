@@ -4,6 +4,7 @@ sustain_webinar_presenter: Brian Clark
 sustain_webinar_youtube_video_id: KEOLBmmIFbk
 sustain_webinar_broadcast_date: Tuesday, May 03, 2016
 sustain_webinar_quiz_path:
+doc_type: sustain_webinar
 ---
 
 Topics will include:

@@ -4,6 +4,7 @@ sustain_webinar_presenter: Sharon Sartor & Erin Cox
 sustain_webinar_youtube_video_id: YpbUBpjSCQM
 sustain_webinar_broadcast_date: Wednesday, September 24, 2014
 sustain_webinar_quiz_path:
+doc_type: sustain_webinar
 ---
 
 Army Low Impact Development Program Overview: Planning and Tools

@@ -4,6 +4,7 @@ sustain_webinar_presenter: Gerd Padilla and Shenouda Bolos
 sustain_webinar_youtube_video_id: vDtDOuqOA_I
 sustain_webinar_broadcast_date: Friday, March 13, 2015
 sustain_webinar_quiz_path:
+doc_type: sustain_webinar
 ---
 
 Presentation will discuss current daylighting and lighting controls design standards and requirements, how to meet these requirements with existing technologies, and how to fill out LEED forms for the daylighting and lighting controls

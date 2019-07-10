@@ -4,6 +4,7 @@ sustain_webinar_presenter: Jason Fairchild and Brandon Tobias
 sustain_webinar_youtube_video_id: bTBRjhNehmc
 sustain_webinar_broadcast_date: Tuesday, April 05, 2016
 sustain_webinar_quiz_path:
+doc_type: sustain_webinar
 ---
 
 In January 2016, Engineering and Construction Bulleting 2016-3 was released which continues the requirements for using of "Building Information Modeling" and "Civil Information Modeling" (BIM, & CIM, respectively) for our projects. Today we will learn the applicability of this criteria, the details of the requirements, as well as strategies for executing them.

@@ -4,6 +4,7 @@ sustain_webinar_presenter: Brandon Martin, Reynold Chun, and Lori Arakawa
 sustain_webinar_youtube_video_id: 8LKNkbLaUyc
 sustain_webinar_broadcast_date: Tuesday, May 05, 2015
 sustain_webinar_quiz_path:
+doc_type: sustain_webinar
 ---
 
 This webinar will discuss the role of construction quality assurance and management, construction deficiencies and changes, and maintaining design responsibility impact the delivery of energy efficient construction projects. The webinar will include a brief introduction to the factors that impact building energy usage from design through construction, provide examples of changes/deficiencies and their relative impacts to energy performance, provide construction submittal review examples, and reference relevant Regional Energy & Sustainability Centers and PROSPECT Courses that may provide detailed support or training.
