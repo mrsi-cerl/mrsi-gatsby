@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout/layout"
 import MrsiTable from "../components/mrsi-table"
+import Carousel from "../components/mrsi-carousel"
 
 const getCXInfo = (data, slug) => {
   return data.allMarkdownRemark.edges.filter(
@@ -55,6 +56,7 @@ export default ({ data, pageContext }) => {
   return (
     <Layout path={pageContext.slug} MaxWidth={700} centerContent>
       <h1>{pageData.frontmatter.title}</h1>
+      <Carousel imgs={pageData.frontmatter.carousel_images} />
       <MrsiTable data={getTableData(pageData)} />
       <div class={"md"} dangerouslySetInnerHTML={{ __html: pageData.html }} />
     </Layout>
