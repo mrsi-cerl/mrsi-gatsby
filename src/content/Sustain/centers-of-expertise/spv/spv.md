@@ -20,7 +20,7 @@ sustain_hq_usace_proponent_name: Eric Mucklow
 sustain_erdc_liaison_email: William.J.Stein@usace.army.mil
 sustain_erdc_liaison_name: Bill Stein
 
-file_library_root_path: ""
+file_library_root_path: content/sustain/CX-KR Documents/SPV/
 page_last_reviewed: 1 January 1970
 slug: /sustain/cx/spv
 ---

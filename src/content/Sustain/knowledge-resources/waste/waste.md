@@ -17,7 +17,7 @@ sustain_hq_usace_proponent_name: Eric Mucklow
 sustain_erdc_liaison_email: Stephen.D.Cosper@usace.army.mil
 sustain_erdc_liaison_name: Steve Cosper
 
-file_library_root_path: ""
+file_library_root_path: content/sustain/CX-KR Documents/Waste/
 page_last_reviewed: 1 January 1970
 slug: /sustain/kr/waste/
 ---

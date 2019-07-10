@@ -16,7 +16,7 @@ sustain_hq_usace_proponent_email: Eric.Mucklow@usace.army.mil
 sustain_erdc_liaison_name: Annette Stumpf
 sustain_erdc_liaison_email: Annette.L.Stumpf@usace.army.mil
 
-file_library_root_path: ""
+file_library_root_path: content/sustain/CX-KR Documents/Eco-Charrette/
 page_last_reviewed: 1 January 1970
 slug: /sustain/cx/eco-charrette/
 ---

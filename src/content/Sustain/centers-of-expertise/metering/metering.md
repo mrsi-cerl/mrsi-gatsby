@@ -16,7 +16,7 @@ sustain_hq_usace_proponent_name: Bruce Movahedi and David Williams
 sustain_erdc_liaison_email: David.M.Schwenk@usace.army.mil
 sustain_erdc_liaison_name: Dave Schwenk
 
-file_library_root_path: ""
+file_library_root_path: content/sustain/CX-KR Documents/Metering/
 page_last_reviewed: 1 January 1970
 slug: /sustain/cx/metering/
 ---

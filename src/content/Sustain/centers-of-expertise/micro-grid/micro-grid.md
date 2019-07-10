@@ -22,7 +22,7 @@ sustain_hq_usace_proponent_name: Bruce Movahedi and David Williams
 sustain_erdc_liaison_email: Harold.Sanborn@usace.army.mil
 sustain_erdc_liaison_name: Harold Sanborn
 
-file_library_root_path: ""
+file_library_root_path: content/sustain/CX-KR Documents/Microgrid/
 page_last_reviewed: 1 January 1970
 slug: /sustain/cx/microgrid/
 ---

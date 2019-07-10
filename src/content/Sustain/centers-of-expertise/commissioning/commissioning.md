@@ -19,7 +19,7 @@ sustain_hq_usace_proponent_email: Timothy.D.Gordon@usace.army.mil
 sustain_erdc_liaison_name: Dale Herron
 sustain_erdc_liaison_email: Dale.L.Herron@usace.army.mil
 
-file_library_root_path: ""
+file_library_root_path: content/sustain/CX-KR Documents/Commissioning/
 page_last_reviewed: 1 January 1970
 slug: /sustain/cx/commissioning/
 ---

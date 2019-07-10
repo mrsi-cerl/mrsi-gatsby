@@ -16,7 +16,7 @@ sustain_hq_usace_proponent_name: Zenovia Wilcox
 sustain_erdc_liaison_email: Tarek.Abdallah@usace.army.mil
 sustain_erdc_liaison_name: Tarek Abdallah
 
-file_library_root_path: ""
+file_library_root_path: content/sustain/CX-KR Documents/Micro-Hydro/
 page_last_reviewed: 1 January 1970
 slug: /sustain/kr/micro-hyro
 ---

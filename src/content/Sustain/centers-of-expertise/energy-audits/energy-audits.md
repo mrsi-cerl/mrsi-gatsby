@@ -25,7 +25,7 @@ sustain_hq_usace_proponent_email: David.Williams@usace.army.mil
 sustain_erdc_liaison_email:
 sustain_erdc_liaison_name:
 
-file_library_root_path: ""
+file_library_root_path: content/sustain/CX-KR Documents/Energy Audits/
 page_last_reviewed: 1 January 1970
 slug: /sustain/cx/energy-audits/
 ---

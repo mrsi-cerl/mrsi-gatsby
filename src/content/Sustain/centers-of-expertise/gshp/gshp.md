@@ -16,7 +16,7 @@ sustain_hq_usace_proponent_name: Eric Mucklow
 sustain_erdc_liaison_email: jim.p.miller@usace.army.mil
 sustain_erdc_liaison_name: Jim Miller
 
-file_library_root_path: ""
+file_library_root_path: content/sustain/CX-KR Documents/GSHP/
 page_last_reviewed: 1 January 1970
 slug: /sustain/cx/gshp/
 ---

@@ -28,7 +28,7 @@ sustain_hq_usace_proponent_name: Jennifer Kline
 sustain_erdc_liaison_email: Heidi.R.Howard@usace.army.mil
 sustain_erdc_liaison_name: Heidi Howard
 
-file_library_root_path: ""
+file_library_root_path: content/sustain/CX-KR Documents/LID/
 page_last_reviewed: 1 January 1970
 slug: /sustain/cx/lid/
 ---

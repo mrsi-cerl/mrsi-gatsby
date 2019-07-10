@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout/layout"
 import MrsiTable from "../components/mrsi-table"
 import Carousel from "../components/mrsi-carousel"
+import Library from "../components/library/library"
 
 const getCXInfo = (data, slug) => {
   return data.allMarkdownRemark.edges.filter(
@@ -52,6 +53,7 @@ const getTableData = data => {
 
 export default ({ data, pageContext }) => {
   const pageData = getCXInfo(data, pageContext.slug)
+  const lib_path = pageData.frontmatter.file_library_root_path
   console.log(pageData)
   return (
     <Layout path={pageContext.slug} MaxWidth={700} centerContent>
@@ -59,6 +61,9 @@ export default ({ data, pageContext }) => {
       <Carousel imgs={pageData.frontmatter.carousel_images} />
       <MrsiTable data={getTableData(pageData)} />
       <div class={"md"} dangerouslySetInnerHTML={{ __html: pageData.html }} />
+      {lib_path !== null && lib_path !== "" ? (
+        <Library rootDir={lib_path} />
+      ) : null}
     </Layout>
   )
 }
