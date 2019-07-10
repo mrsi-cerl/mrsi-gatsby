@@ -1,6 +1,14 @@
 ---
 doc_type: sustain_kr_page
-
+carousel_images:
+  - ./bagram-barracks.jpg
+  - ./contingency_workers.jpg
+  - ./cube.jpg
+  - ./east20end20barracks20looking20north_complete_800_resize.jpg
+  - ./face.jpg
+  - ./safe.png
+  - ./saws.jpg
+  - ./terra-hut.jpg
 title: Sustainability in Contingency
 
 sustain_msc_program_manager_email: Daniel.J.Lyons@usace.army.mil

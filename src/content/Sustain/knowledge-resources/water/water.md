@@ -1,6 +1,7 @@
 ---
 doc_type: sustain_kr_page
-
+carousel_images:
+  - ./waterblackwater_800_resize.jpg
 title: Water / Black Water
 
 sustain_msc_program_manager_email: Kathryn.T.Dixon@usace.army.mil
