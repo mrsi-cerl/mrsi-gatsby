@@ -5,6 +5,7 @@ sustain_webinar_youtube_video_id: KEOLBmmIFbk
 sustain_webinar_broadcast_date: Tuesday, May 03, 2016
 sustain_webinar_quiz_path:
 doc_type: sustain_webinar
+slug: /sustain/webinars/retro-and-re-commissioning-rcx-assessments
 ---
 
 Topics will include:

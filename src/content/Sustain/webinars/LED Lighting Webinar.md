@@ -5,6 +5,7 @@ sustain_webinar_youtube_video_id: mQkH4ySvT_4
 sustain_webinar_broadcast_date: Tuesday, August 09, 2016
 sustain_webinar_quiz_path:
 doc_type: sustain_webinar
+slug: /sustain/webinars/led-lighting-webinar
 ---
 
 Topic: Lighting Trends & New Technology

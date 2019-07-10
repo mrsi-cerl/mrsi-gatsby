@@ -5,6 +5,7 @@ sustain_webinar_youtube_video_id: cbtnLusiRKI
 sustain_webinar_broadcast_date: Tuesday, March 08, 2016
 sustain_webinar_quiz_path:
 doc_type: sustain_webinar
+slug: /sustain/webinars/metering-by-design
 ---
 
 "Metering By Design" explores the evolving environment of utility metering programs through the presentation of metering hardware, software, communications infrastructure, system maintenance, and information assurance. Case studies will used to illustrate the best practices and challenges of deploying and maintaining complex federal utility metering solutions.

@@ -5,6 +5,7 @@ sustain_webinar_youtube_video_id: PmcmHYT5O4E
 sustain_webinar_broadcast_date: Tuesday, February 07, 2017
 sustain_webinar_quiz_path:
 doc_type: sustain_webinar
+slug: /sustain/webinars/bird-friendly-design-reducing-bird-mortality
 ---
 
 Abstract: Birds are potent cultural symbols. They play fundamental roles in ecosystems and habitat regeneration and are important natural controls for insects. Hundreds of millions are killed yearly by colliding with glass in the US alone. Birds cannot see glass, striking it as they fly towards reflections of clouds, sky and vegetation or as they approach real habitat seen through glass. Birds collide with glass on structures of every size, from shacks to skyscrapers, in urban, suburban and rural area. Advances in technology are increasing use of glass curtain walls and other large glass features, increasing the rate of mortality.

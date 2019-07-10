@@ -5,6 +5,7 @@ sustain_webinar_youtube_video_id: rqTpI6i5saM
 sustain_webinar_broadcast_date: Wednesday, September 21, 2016
 sustain_webinar_quiz_path:
 doc_type: sustain_webinar
+slug: /sustain/webinars/modified-atmosphere-insulation
 ---
 
 Learn about the use of Modified Atmosphere Insulation (MAI), a type of Vacuum Insulated Panel (VIP)

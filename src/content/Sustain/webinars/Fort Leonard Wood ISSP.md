@@ -5,6 +5,7 @@ sustain_webinar_youtube_video_id: zw0CyMAbKnQ
 sustain_webinar_broadcast_date: Wednesday, August 06, 2014
 sustain_webinar_quiz_path:
 doc_type: sustain_webinar
+slug: /sustain/webinars/fort-leonard-wood-issp
 ---
 
 Fort Leonard Wood’s Installation Strategic Sustainability Plan Process

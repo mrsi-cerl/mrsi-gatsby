@@ -5,6 +5,7 @@ sustain_webinar_youtube_video_id: YpbUBpjSCQM
 sustain_webinar_broadcast_date: Wednesday, September 24, 2014
 sustain_webinar_quiz_path:
 doc_type: sustain_webinar
+slug: /sustain/webinars/low-impact-development-lid-and-lid-planning-tool
 ---
 
 Army Low Impact Development Program Overview: Planning and Tools

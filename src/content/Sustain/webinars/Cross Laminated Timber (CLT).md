@@ -5,6 +5,7 @@ sustain_webinar_youtube_video_id: Q1VZwVTnPn0
 sustain_webinar_broadcast_date: Tuesday, January 27, 2015
 sustain_webinar_quiz_path:
 doc_type: sustain_webinar
+slug: /sustain/webinars/cross-laminated-timber-clt
 ---
 
 Cross laminated timber (CLT) is an engineered wood building system designed to complement light- and heavy-timber framing designs. This presentation will introduce CLT with a series of project examples that demonstrate its use and benefits in a range of applications.

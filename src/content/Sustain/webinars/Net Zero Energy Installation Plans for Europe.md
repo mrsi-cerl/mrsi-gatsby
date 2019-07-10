@@ -2,9 +2,10 @@
 title: Net Zero Energy Installation Plans for Europe
 sustain_webinar_presenter: Mark Moszak, Patricia Donohue, and Rich Gifaldi
 sustain_webinar_youtube_video_id: 7QYGa-Kqwhc
-sustain_webinar_broadcast_date:  Friday, September 26, 2014
+sustain_webinar_broadcast_date: Friday, September 26, 2014
 sustain_webinar_quiz_path:
 doc_type: sustain_webinar
+slug: /sustain/webinars/net-zero-energy-installation-plans-for-europe
 ---
 
 The Europe district of the US Army Corps of Engineers has been working with a Master Planning effort since 2011 and by the end of this calendar year will have successfully completed over 10 net-zero installation plans which includes energy audits, benchmarking (EnEV), and a strategic action plan to identify and reach the target energy intensity unit for the entire installation.
