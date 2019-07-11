@@ -16,4 +16,4 @@ Your Host for this series is Eric Mucklow, AIA. We have two presenters to speak 
 
 - Brandon Tobias is a registered Architect at Q USACE and currently manages the development and implementation of Advanced Modeling initiatives for Military Programs within Engineering & the Construction Division. He has 12 years Federal experience with design, construction, contingency construction and BIM implementation.
 
-[**Click here for the webinar quiz**](advanced-modeling-requirements-ecb-2016-3-QUIZ.pdf)
+[**Click here for the webinar quiz**](./advanced-modeling-requirements-ecb-2016-3-QUIZ.pdf)
