@@ -16,6 +16,12 @@ export default ({ data, pageContext }) => {
 
   return (
     <Layout path={pageContext.slug} MaxWidth={700} centerContent>
+      <h1>{pageData.frontmatter.title}</h1>
+      <p>{"Presented By " + pageData.frontmatter.sustain_webinar_presenter}</p>
+      <p>
+        {"Broadcast Date: " +
+          pageData.frontmatter.sustain_webinar_broadcast_date}
+      </p>
       <YouTube
         videoId={pageData.frontmatter.sustain_webinar_youtube_video_id}
       />

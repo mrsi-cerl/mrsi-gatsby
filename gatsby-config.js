@@ -14,6 +14,7 @@ module.exports = {
         path: `${__dirname}/src/content`,
       },
     },
+
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -27,6 +28,7 @@ module.exports = {
               maxWidth: 590,
             },
           },
+          "gatsby-remark-copy-linked-files",
         ],
       },
     },
