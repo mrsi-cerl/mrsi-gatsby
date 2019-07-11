@@ -3,23 +3,9 @@ doc_type: sustain_technology_in_action
 title: Unaccompanied Enlisted Personnel Housing (UEPH) Barracks
 project_coordinates: 39.1107949,-96.811844
 categories:
-  - Microgrids
-  - Solar Thermal
-  - Solar Photovoltaic
-  - Combined Heat and Power
-  - Ground Source Heat Pumps
   - High Performance Building Envelopes
   - Lighting and Daylighting
   - Low Impact Development
-  - Solar Hot Water
-  - Wind
-  - Cross Laminated Timber
-  - Deep Energy Retrofits
-  - Low Flow Fixtures
-  - Micro Hydropower
-  - Purple Pipe
-  - Phase Change Materials
-  - Rainwater Harvesting
 ---
 
 Location: Fort Riley, KS

@@ -3,23 +3,8 @@ doc_type: sustain_technology_in_action
 title: Vehicle Maintenance Facility
 project_coordinates: 64.8285065,-147.6848306
 categories:
-  - Microgrids
   - Solar Thermal
-  - Solar Photovoltaic
-  - Combined Heat and Power
-  - Ground Source Heat Pumps
-  - High Performance Building Envelopes
-  - Lighting and Daylighting
   - Low Impact Development
-  - Solar Hot Water
-  - Wind
-  - Cross Laminated Timber
-  - Deep Energy Retrofits
-  - Low Flow Fixtures
-  - Micro Hydropower
-  - Purple Pipe
-  - Phase Change Materials
-  - Rainwater Harvesting
 ---
 
 Location: Fort Wainright, AK

@@ -3,23 +3,7 @@ doc_type: sustain_technology_in_action
 title: Fire Station
 project_coordinates: 44.0665391,-75.8366932
 categories:
-  - Microgrids
-  - Solar Thermal
-  - Solar Photovoltaic
-  - Combined Heat and Power
-  - Ground Source Heat Pumps
   - High Performance Building Envelopes
-  - Lighting and Daylighting
-  - Low Impact Development
-  - Solar Hot Water
-  - Wind
-  - Cross Laminated Timber
-  - Deep Energy Retrofits
-  - Low Flow Fixtures
-  - Micro Hydropower
-  - Purple Pipe
-  - Phase Change Materials
-  - Rainwater Harvesting
 ---
 
 Location: Fort Drum, NY

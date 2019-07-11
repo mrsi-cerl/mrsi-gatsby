@@ -3,23 +3,9 @@ doc_type: sustain_technology_in_action
 title: Grow the Force (GTF) Jackson Avenue Barracks
 project_coordinates: 47.137347,-122.5203524
 categories:
-  - Microgrids
-  - Solar Thermal
-  - Solar Photovoltaic
-  - Combined Heat and Power
-  - Ground Source Heat Pumps
   - High Performance Building Envelopes
   - Lighting and Daylighting
   - Low Impact Development
-  - Solar Hot Water
-  - Wind
-  - Cross Laminated Timber
-  - Deep Energy Retrofits
-  - Low Flow Fixtures
-  - Micro Hydropower
-  - Purple Pipe
-  - Phase Change Materials
-  - Rainwater Harvesting
 ---
 
 Location: Joint Base Lewis-McChord, WA

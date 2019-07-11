@@ -3,23 +3,8 @@ doc_type: sustain_technology_in_action
 title: Armed Forces Reserve Center (AFRC)
 project_coordinates: 35.246941,-97.4324094
 categories:
-  - Microgrids
-  - Solar Thermal
-  - Solar Photovoltaic
-  - Combined Heat and Power
-  - Ground Source Heat Pumps
   - High Performance Building Envelopes
-  - Lighting and Daylighting
   - Low Impact Development
-  - Solar Hot Water
-  - Wind
-  - Cross Laminated Timber
-  - Deep Energy Retrofits
-  - Low Flow Fixtures
-  - Micro Hydropower
-  - Purple Pipe
-  - Phase Change Materials
-  - Rainwater Harvesting
 ---
 
 Location: Norman, OK
