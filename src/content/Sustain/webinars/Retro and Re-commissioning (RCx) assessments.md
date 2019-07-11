@@ -18,3 +18,5 @@ Topics will include:
 6. RCx training opportunities through the Presidio RCx Practicum
 
 Presenter: Brian Clark, USACE CERL Energy Branch Mechanical Engineer
+
+[**Click here for the webinar quiz**](retro-and-re-commissioning-rcx-assessments-quiz.pdf)

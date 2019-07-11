@@ -21,3 +21,5 @@ By participating in this webinar, you will:
 4. Learn the requirements for participation and expectations.
 
 At the Headquarters of the US Army Corps of Engineers, Eric Mucklow is the program manager Building Technology, Standards & Criteria, as well as the Architectural Community of Practice Lead. In this role, he seeks new or underutilized and innovative design solutions; especially incorporating viable new technologies or construction techniques for enhanced energy performance and sustainability. His goal is to provide leadership that guides others who are tasked with completing major construction contract documents and resolving a wide-range of technically complex, challenging and politically sensitive issues over a diverse range of project types.
+
+[**Click here for the webinar quiz**](the-high-performance-sustainable-building-checklist-quiz.pdf)

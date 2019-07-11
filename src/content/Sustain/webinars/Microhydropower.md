@@ -20,3 +20,5 @@ Through participation in this webinar, the audience should gain an appreciation 
 4. Sample costs, risks, and time frames inherent in a microhydro installation project
 
 Jack McCollister is a mechanical engineer who works for the Corps' Hydroelectric Design Center (HDC). Jack has worked in this capacity for three years, and his work has been related both to the rehabilitation of Corps-owned hydropower plants as well as to inquiries and investigations related to small hydro.
+
+[**Click here for the webinar quiz**](microhydropower-quiz.pdf)

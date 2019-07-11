@@ -11,3 +11,5 @@ slug: /sustain/webinars/bim-based-quantity-takeoffs-for-cost-estimating
 This webinar is a part of the Headquarters U. S. Army Corps of Engineers Sustainability & Energy Webinar Series to highlight technical advances, policy issues, and the implementation of sustainability and energy concepts within the E&C community. Live presentations will feature topics of interest to the E&C community and others.
 
 DCO Connect: https://connectcol.dco.dod.mil/bimtakeoff/
+
+**The quiz is not yet available**

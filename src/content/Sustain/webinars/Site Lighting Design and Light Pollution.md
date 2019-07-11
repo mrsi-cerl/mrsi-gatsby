@@ -9,3 +9,5 @@ slug: /sustain/webinars/site-lighting-design-and-light-pollution
 ---
 
 This presentation will discuss current site lighting design standards and requirements, and how to meet these requirements with existing technologies. Components of site lighting design that will be covered are as follows: Uniformity Ratios, Illuminance Values, Energy Savings, Site Lighting Controls and Light Pollution. Presenter: Gerd (Gerard) Padilla
+
+[**Click here for the webinar quiz**](site-lighting-design-and-light-pollution-quiz.pdf)

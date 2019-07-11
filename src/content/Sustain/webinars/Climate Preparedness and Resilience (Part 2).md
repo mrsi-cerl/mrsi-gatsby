@@ -9,3 +9,5 @@ slug: /sustain/webinars/climate-preparedness-and-resilience-part-2
 ---
 
 Topic: "Climate Preparedness and Resilience (Part II)
+
+**The quiz is not yet available**

@@ -18,3 +18,5 @@ Learn how you can get educated in Retro-Commissioning! Topics will include:
 6. Timelines and end goals for RCxU completion
 
 Our presenter, Brian Clark , is a CERL Mechanical Engineer focused on RCx, HVAC controls, and energy efficiency research and development projects. Prior to that, Brian served as a DPW engineer at Presidio of Monterey and Fort Irwin Army installations. His work on energy management at Army facilities has contributed to several awards including Secretary of Army Energy and Federal Energy Management Program Awards including multiple publications through PW Digest and was the focus of his Masters in Sustainable Systems Engineering. Brian has also served as a USACE design branch engineer and forward-deployed Army vehicle mechanic.
+
+[**Click here for the webinar quiz**](overview-retro-commissioning-university-resource-for-hvac-quiz.pdf)

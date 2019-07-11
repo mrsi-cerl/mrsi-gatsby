@@ -9,3 +9,5 @@ slug: /sustain/webinars/climate-preparedness-and-resilience-part-1
 ---
 
 Part 1 of a two part discussion on USACE climate preparedness and resilience. The information provided is intended to set context, and will include national policy, USACE governance, partners, programs, and existing USACE policy and guidance, as well as our trajectory.
+
+**The quiz is not yet available**

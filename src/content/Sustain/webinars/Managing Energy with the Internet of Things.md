@@ -13,3 +13,5 @@ During this webinar, we will discuss how an Internet of Things (IoT) platform ca
 Our presenter, Tanuj Mohan, started Enlighted Inc.in 2009 and has grown it to over 100 employees with real revenues. He’s applied 20+ years of computer networking, software and security knowledge, with a large dose of common sense, to build a company from scratch into a world leader in advanced lighting control.
 
 He has worn many hats - Engineering leader, Technology nerd, Creative Marketer, Technical Salesman and expert cappucino maker.
+
+[**Click here for the webinar quiz**](managing-energy-with-the-internet-of-things-quiz.pdf)

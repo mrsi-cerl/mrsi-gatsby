@@ -11,3 +11,5 @@ slug: /sustain/webinars/deep-well-skylights
 This session defines Daylighting, reviews the optional technologies, and describes how high-tech daylighting units work and their automated integration with electronic lighting. The benefits of daylighting, both economic and environmental are presented in detail, including a detailed financial analysis. Lastly, the increased productivity of people utilizing daylighting are discussed and related to the mission of the armed services.
 
 DCO connect link: https://connectcol.dco.dod.mil/deepwellskylights/
+
+**The quiz is not yet available**

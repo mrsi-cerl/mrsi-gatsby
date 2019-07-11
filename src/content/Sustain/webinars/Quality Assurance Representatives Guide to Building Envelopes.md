@@ -9,3 +9,5 @@ slug: /sustain/webinars/quality-assurance-representatives-guide-to-building-enve
 ---
 
 This webinar presentation is to educate QA staff on the importance of the field role in affecting proper QA over the construction of high performance building envelopes across the wide array of feature the envelope can contain. Major topics will include what the purpose of the document is, its use and discuss some of the content. The presenter is Nick Alexander, a Construction Representative out of the US Army Corps of Engineers Omaha District stationed at Fort Carson, CO. Host: Eric Mucklow
+
+[**Click here for the webinar quiz**](quality-assurance-representatives-guide-to-building-envelopes-quiz.pdf)

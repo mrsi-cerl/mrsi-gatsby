@@ -13,3 +13,5 @@ Presentation will discuss current daylighting and lighting controls design stand
 Presentation Outline are the followings:
 **Daylight Definition Standards (UFC, ASHRAE 189.1 & LEED 2009) Daylight Methods IEQ Credit 8.1- form
 **Light Controls Definition Standards (UFC, ASHRAE 90.1 & LEED 2009) Light Controls Systems IEQ Credit 6.1- form
+
+[**Click here for the webinar quiz**](daylighting-and-lighting-controls-quiz.pdf)

@@ -22,3 +22,5 @@ Sharon is the program manager for the Office of the Assistant Chief of Installat
 Joining us for the Q&A discussion portion is Bill Sproul from ACSIM. Bill is the Army's Program Manager for Overseas Contingency Operations within the Office of the Assistant Chief of Staff for Installation Management. While he provides day-to-day oversight to the Afghanistan construction program, Bill is a member of the Army Facilities Design Group where he has supported several sustainable design issues including development of Army Standards and has championed implementation of LID throughout the Army's Construction Program.
 
 DCO Connect: https://connectcol.dco.dod.mil/lidtool/
+
+**The quiz is not yet available**

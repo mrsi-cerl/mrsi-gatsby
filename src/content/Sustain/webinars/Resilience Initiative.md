@@ -16,3 +16,5 @@ http:\\www.usace.army.mil/Missions/Sustainability/Building-Resilience/
 Our presenter, Sheri Moore, is the Program Manager for the USACE Resilience Initiative. Prior to coming back to Engineering & Construction in her current capacity, Sheri was an Executive Officer for two prior Chiefs of Engineers at HQUSACE. Sheri's a Chemical Engineer who was a project engineer in Seattle District for about 10 years before coming to Headquarters.
 
 These webinars are free to view. Although they are not restricted and open to the public, they do not represent official positions or endorsement by USACE or the Army.
+
+[**Click here for the webinar quiz**](resilience-initiative-quiz.pdf)

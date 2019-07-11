@@ -9,3 +9,5 @@ slug: /sustain/webinars/net-zero-waste-research
 ---
 
 This webinar will discuss the Army's Net Zero program, waste management strategies to achieve net zero, and CERL's Net Zero planner tool.
+
+**The quiz is not yet available**

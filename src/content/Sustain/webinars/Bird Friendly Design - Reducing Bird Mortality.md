@@ -22,3 +22,5 @@ By participating, you will be able to:
 6. Find and utilize resources on bird-friendly construction, including research reports, case studies, materials and guidelines.
 
 Christine Sheppard earned her B.A. and Ph.D. at Cornell. Her first job was at the Bronx Zoo, where she started as intern, and ended as Curator of Birds. Zoos deal with of their buildings causing mortality of wild birds and glass exhibit walls, windows and handrails bring bird collision problems inside. In 2007, Dr. Sheppard joined the board of the Bird-safe Glass Foundation as science advisor. She has conducted basic research into the effectiveness of different patterns in preventing bird collisions. In 2009, she moved to the American Bird Conservancy . She led the team that developed USGBC LEED Pilot Credit 55: Reducing Bird Mortality.
+
+[**Click here for the webinar quiz**](bird-friendly-design-reducing-bird-mortality-quiz.pdf)

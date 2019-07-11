@@ -27,3 +27,5 @@ New technologies and new advancements are resulting to major change in the light
 - Analyze the shift in the past years from a market of new construction to a market of relight and retrofit.
 
 Our presenter, David Venhaus joined Hubbell Lighting as Senior Solutions Specialist in July of 2015 after spending 15 years developing LED based illumination systems for automotive, aerospace, marine, portable, outdoor area lighting and high end interior applications. As the primary resource for LED related information in the Lighting Solutions Center, David is charged with staying in front of the ever-changing trends and concepts related to LED technology and conveying that information to customers. Prior to joining Hubbell Lighting David was founder and president of his own optics company. David has also served as Director of Lighting Technology and held positions in optical and application engineering in various industries. David holds a B.S. in Mechanical Engineering Technology from the Milwaukee School of Engineering and has been awarded multiple patents on LED based lighting systems.
+
+[**Click here for the webinar quiz**](led-lighting-webinar-quiz.pdf)

@@ -22,3 +22,5 @@ This presentation investigates performance guarantees and the prospect of a desi
 Our presenter: Charles Chaloeicheep has a strong engineering background and holds a professional engineers license in both civil and mechanical engineering. He has worked on projects around the world and believes that high performance is best achieved through simple, thoughtful solutions that drive down energy and water usage while improving occupant comfort and connectivity. He is excited to be part of the clean energy movement and looks forward to a future free of fossil fuels.
 
 These webinars are free to attend. Although they are not restricted and open to the public, they do not represent official positions or endorsement by USACE or the Army.
+
+**The quiz is not yet available**

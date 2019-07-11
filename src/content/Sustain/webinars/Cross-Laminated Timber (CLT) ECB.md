@@ -24,3 +24,5 @@ First, we will start with a short TechTalk titled “CLT - Plywood Becoming a Su
 Our presenter is our own series host, Eric Mucklow. Eric is the Building Technology Program Manager for the headquarters of the US Army Corps of Engineers in Washington DC. His role includes identifying and implementing new or underutilized technologies and best practices into the standard process for the design and construction of military facilities. He is a registered architect and member of the American Institute of Architects, Certified Passive House Consultant, Green Globes Professional, and a LEED Accredited Professional in Building Design and Construction. Over twenty-five years as an architect in civil service, he has served in diverse capacities supporting the design and construction of award-winning facilities, including through in-house design, project management, design management, construction management, and policy and criteria development.
 
 Although these webinars are not restricted, they do not represent official positions or endorsement by USACE or the Army.
+
+[**Click here for the webinar quiz**](cross-laminated-timber-clt-ecb-quiz.pdf)

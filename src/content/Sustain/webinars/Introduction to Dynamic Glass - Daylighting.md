@@ -13,3 +13,5 @@ This webinar will provide the student with an understanding of electrochromic dy
 Our presenter, Christopher L. Allen, is the Territory Manager for SageGlass, a manufacturer of dynamic glass products. He is a former U.S. Army officer who studied City and Regional Planning at the prestigious Georgia Institute of Technology, where I developed an interest in sustainable urban trends. Through Saint-Gobain recruitment I discovered SageGlass, which is the world's leading supplier of electrochromic dynamic glass. This company aims to create sustainable habitats for all people in the 21st century and beyond, and is gaining traction as the next frontier of glazing solutions.
 
 These webinars are free to attend. Although they are not restricted and open to the public, they do not represent official positions or endorsement by USACE or the Army.
+
+[**Click here for the webinar quiz**](introduction-to-dynamic-glass-daylighting-quiz.pdf)
