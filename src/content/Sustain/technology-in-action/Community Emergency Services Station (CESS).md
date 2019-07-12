@@ -9,14 +9,17 @@ categories:
   - Low Impact Development
 ---
 
-Location: Fort Bragg, NC
-Technology: Ground Source Heat Pumps, High Performance Building Envelopes, Lighting and Daylighting, Low Impact Development, Solar Hot Water
-POC: Savannah District
+**Location:** Fort Bragg, NC
 
-Highlights:
-34.1% reduction in energy costs (LEED)
-82.8% reduction in water use
-90.4% of construction waste diverted from the landfill
+**POC:** Savannah District
+
+**Highlights:**
+
+- 34.1% reduction in energy costs (LEED)
+- 82.8% reduction in water use
+- 90.4% of construction waste diverted from the landfill
+
+**Description:**
 
 A key objective of this project was to demonstrate that off-the-shelf building materials and
 integrated design can result in a high-performance facility. Engaging key installation stakeholders

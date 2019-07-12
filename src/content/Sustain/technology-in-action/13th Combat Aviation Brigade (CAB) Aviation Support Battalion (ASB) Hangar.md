@@ -9,14 +9,17 @@ categories:
   - Lighting and Daylighting
 ---
 
-Location: Fort Carson, CO
-Technology: District Energy, High Performance Building Envelopes, Lighting & Daylighting, Solar Photovoltaic
-POC: Albuquerque District
+**Location:** Fort Carson, CO
 
-Highlights:
-119.7% reduction in energy costs (LEED)
-39.0% reduction in water use
-89.7% of construction waste diverted from the landfill
+**POC:** Albuquerque District
+
+**Highlights:**
+
+- 119.7% reduction in energy costs (LEED)
+- 39.0% reduction in water use
+- 89.7% of construction waste diverted from the landfill
+
+**Description:**
 
 To achieve the energy efficiency and sustainability objectives established for BAAF development,
 the facility was designed and constructed to minimize electric, heating, and cooling demands.

@@ -7,13 +7,16 @@ categories:
   - Low Impact Development
 ---
 
-Location: Norman, OK
-Technology: High Performance Building Envelopes, Low Impact Development
-POC: Tulsa District
+**Location:** Norman, OK
 
-Highlights:
-32.2% reduction in energy costs (LEED)
-40.3% reduction in water use
-80.6% of construction waste diverted from the landfill
+**POC:** Tulsa District
+
+**Highlights:**
+
+- 32.2% reduction in energy costs (LEED)
+- 40.3% reduction in water use
+- 80.6% of construction waste diverted from the landfill
+
+**Description:**
 
 The new AFRC provides facilities to be used for units during both drill weekends and full time occupancy, including space for administration and procurement functions, chaplain services, mess services, human resource services, physical training, classroom training, arms vault/storage, and museum display. In addition, a new Facility Maintenance shop (FMS) on the campus was planned to serve as a main motor pool and service center for Army Reserve Vehicles and fleet maintenance logistics. The new facility provides an economy of scale by sharing common spaces, energy management techniques of new construction and facility management, and more efficient utilization of training space.

@@ -8,14 +8,18 @@ categories:
   - Low Impact Development
 ---
 
-Location: Fort Campbell, KY
-Date: FY09
-Technology: High Performance Building Envelopes, Lighting & Daylighting, Low Impact Development
-POC: Louisville District
+**Location:** Fort Campbell, KY
 
-Highlights:
-50.0% reduction in energy costs (LEED)
-40.0% reduction in water use
-77.2% of construction waste diverted from the landfill
+**Date:** FY09
+
+**POC:** Louisville District
+
+**Highlights:**
+
+- 50.0% reduction in energy costs (LEED)
+- 40.0% reduction in water use
+- 77.2% of construction waste diverted from the landfill
+
+**Description:**
 
 This project is a great example of how a partnership between the U.S. Army Corps of Engineers - Louisville District / Ft. Campbell and the J&S Construction Design/Build team led to the design and construction of a very attractive, highly energy-efficient facility. This project was awarded with an Innovation and Design Process credit for demonstrating exemplary performance in reducing heat island effect to minimize impacts on microclimates and human and wildlife habitats.

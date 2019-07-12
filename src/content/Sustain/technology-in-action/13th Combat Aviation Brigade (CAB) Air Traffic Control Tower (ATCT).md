@@ -8,14 +8,17 @@ categories:
   - District Energy
 ---
 
-Location: Fort Carson, CO
-Technology: District Energy, High Performance Building Envelopes, Solar Photovoltaic
-POC: Albuquerque District
+**Location:** Fort Carson, CO
 
-Highlights:
-48.8% reduction in energy costs (LEED)
-37.0% reduction in water use
-78.3% of construction waste diverted from the landfill
+**POC:** Albuquerque District
+
+**Highlights:**
+
+- 48.8% reduction in energy costs (LEED)
+- 37.0% reduction in water use
+- 78.3% of construction waste diverted from the landfill
+
+**Description:**
 
 This project consisted of the design and construction of an Air Field Operations Building (AFOB)
 and Air Traffic Control Tower (ATCT) for the 13th Combat Aviation Brigade (CAB) at Fort Carson,

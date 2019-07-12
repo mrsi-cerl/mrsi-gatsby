@@ -8,14 +8,18 @@ categories:
   - Low Impact Development
 ---
 
-Location: Fort Riley, KS
-Date: FY08
-Technology: High Performance Building Envelopes, Lighting and Daylighting, Low Impact Development
-POC: Kansas City District
+**Location:** Fort Riley, KS
 
-Highlights:
-29.6% reduction in energy costs (LEED)
-24.5% reduction in water use
-51.1% of construction waste diverted from the landfill
+**Date:** FY08
+
+**POC:** Kansas City District
+
+**Highlights:**
+
+- 29.6% reduction in energy costs (LEED)
+- 24.5% reduction in water use
+- 51.1% of construction waste diverted from the landfill
+
+**Description:**
 
 The Graves Street Barracks site was selected to avoid disruption of wetlands, farmlands or endangered species habitats. The surrounding habitat was protected or restores in order to lessen the impact of construction on the local eco-system. A high ratio of open space to development footprint was provided to promote bio-diversity. The facility utilizes an enhanced building envelope, energy efficient windows, variable speed pumping systems, high-efficiency condensing boilers, a ventilation air energy recovery unit, high efficiency lighting and controls and water saving plumbing fixtures to help achieve its sustainability goals.
