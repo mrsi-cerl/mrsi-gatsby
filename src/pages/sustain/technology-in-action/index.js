@@ -11,6 +11,7 @@ const TechnologyInAction = () => {
         <GoogleMapReact
           defaultCenter={{ lat: 37.27587, lng: -96.6532023 }}
           defaultZoom={3}
+          bootstrapURLKeys={{ key: "AIzaSyB6afAiSLEi2h7axw-swZWNXipUYdwT0NA" }}
         />
       </div>
     </Layout>
