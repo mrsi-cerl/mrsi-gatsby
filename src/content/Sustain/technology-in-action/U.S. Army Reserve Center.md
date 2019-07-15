@@ -5,6 +5,8 @@ project_coordinates: 29.7002163,-82.331534
 categories:
   - Lighting and Daylighting
   - Low Impact Development
+carousel_images:
+  - ./03.jpg
 ---
 
 **Location:** Gainesville, FL

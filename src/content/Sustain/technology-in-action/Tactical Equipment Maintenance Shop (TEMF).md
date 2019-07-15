@@ -6,6 +6,8 @@ categories:
   - High Performance Building Envelopes
   - Lighting and Daylighting
   - Low Impact Development
+carousel_images:
+  - ./09.jpg
 ---
 
 **Location:** Fort Campbell, KY

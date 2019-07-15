@@ -5,6 +5,8 @@ project_coordinates: 38.7420537,-104.7944445
 categories:
   - Lighting and Daylighting
   - Low Impact Development
+carousel_images:
+  - ./05.jpg
 ---
 
 **Location:** Fort Carson, CO

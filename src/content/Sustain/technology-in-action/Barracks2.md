@@ -5,6 +5,8 @@ project_coordinates: 35.2571786, -116.7171071
 categories:
   - Lighting and Daylighting
   - Solar Hot Water
+carousel_images:
+  - ./22.jpg
 ---
 
 **Location:** Fort Irwin, CA

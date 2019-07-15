@@ -6,6 +6,8 @@ categories:
   - Solar Photovoltaic
   - High Performance Building Envelopes
   - District Energy
+carousel_images:
+  - ./23.jpg
 ---
 
 **Location:** Fort Carson, CO

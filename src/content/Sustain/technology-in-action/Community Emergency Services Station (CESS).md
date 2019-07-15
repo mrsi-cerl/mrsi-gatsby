@@ -7,6 +7,8 @@ categories:
   - High Performance Building Envelopes
   - Lighting and Daylighting
   - Low Impact Development
+carousel_images:
+  - ./04.jpg
 ---
 
 **Location:** Fort Bragg, NC

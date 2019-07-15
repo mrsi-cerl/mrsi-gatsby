@@ -5,6 +5,8 @@ project_coordinates: 64.8285065,-147.6848306
 categories:
   - Solar Thermal
   - Low Impact Development
+carousel_images:
+  - ./16.jpg
 ---
 
 **Location:** Fort Wainright, AK

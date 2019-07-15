@@ -5,6 +5,8 @@ project_coordinates: 47.0876093,-122.5720435
 categories:
   - Low Impact Development
   - Rainwater Harvesting
+carousel_images:
+  - ./02.jpg
 ---
 
 **Location:** Joint Base Lewis-McChord (JBLM)

@@ -5,6 +5,8 @@ project_coordinates: 35.246941,-97.4324094
 categories:
   - High Performance Building Envelopes
   - Low Impact Development
+carousel_images:
+  - ./07.jpg
 ---
 
 **Location:** Norman, OK

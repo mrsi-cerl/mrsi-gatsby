@@ -6,6 +6,8 @@ categories:
   - High Performance Building Envelopes
   - Lighting and Daylighting
   - Low Impact Development
+carousel_images:
+  - ./14.jpg
 ---
 
 **Location:** Fort Shafter, HI

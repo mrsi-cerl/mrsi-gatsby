@@ -5,6 +5,8 @@ project_coordinates: 18.0546426,-66.5137272
 categories:
   - High Performance Building Envelopes
   - Lighting and Daylighting
+carousel_images:
+  - ./21.jpg
 ---
 
 **Location:** Juana Diaz, PR

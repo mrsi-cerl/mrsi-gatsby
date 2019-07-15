@@ -6,6 +6,8 @@ categories:
   - Combined Heat and Power
   - High Performance Building Envelopes
   - Low Impact Development
+carousel_images:
+  - ./15.jpg
 ---
 
 **Location:** Fort Wainwright, AK

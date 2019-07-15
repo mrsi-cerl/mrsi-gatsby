@@ -6,6 +6,8 @@ categories:
   - Ground Source Heat Pumps
   - Lighting and Daylighting
   - Low Impact Development
+carousel_images:
+  - ./01.jpg
 ---
 
 **Location:** Concord, NH

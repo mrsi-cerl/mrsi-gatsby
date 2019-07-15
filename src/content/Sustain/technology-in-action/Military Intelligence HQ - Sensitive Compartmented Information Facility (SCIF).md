@@ -5,6 +5,8 @@ project_coordinates: 38.7420537,-104.7944445
 categories:
   - Solar Photovoltaic
   - Solar Hot Water
+carousel_images:
+  - ./17.jpg
 ---
 
 **Location:** Fort Carson, CO
