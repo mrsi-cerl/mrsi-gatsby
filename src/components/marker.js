@@ -1,11 +1,15 @@
 import React, { useState } from "react"
 import rainwaterMarker from "../images/markers/rainwater.png"
-
-const Marker = ({ tiaData, onclick, $hover }) => {
-  const [showInfo, setShowInfo] = useState(false)
+import changeMarker from "../images/markers/change.png"
+const Marker = ({ tiaData, onclick, $hover, listHover }) => {
   return (
     <div onClick={() => onclick()}>
-      <img src={rainwaterMarker} />
+      {listHover ? (
+        <img
+          style={{ zIndex: listHover ? 9999999 : -9 }}
+          src={listHover ? changeMarker : rainwaterMarker}
+        />
+      ) : null}
       {$hover ? (
         <div style={{ width: 100, backgroundColor: "white", zIndex: 9999999 }}>
           {"Click for more info on " + tiaData.node.frontmatter.title}

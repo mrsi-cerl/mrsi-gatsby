@@ -27,7 +27,7 @@ const getAllCategories = data => {
 // Whitelist localhost during development
 const TechnologyInAction = ({ data }) => {
   const [currTech, setCurrTech] = useState("")
-
+  const [hoveredTech, setHoveredTech] = useState("")
   const tia = getAllTIA(data)
   const currTechData = tia.filter(e => e.node.frontmatter.title == currTech)
   const cats = getAllCategories(tia)
@@ -43,7 +43,13 @@ const TechnologyInAction = ({ data }) => {
               .filter(e => e.node.frontmatter.categories.includes(cat))
               .map(e => (
                 <tr>
-                  <td onClick={() => setCurrTech(e.node.frontmatter.title)}>
+                  <td
+                    onClick={() => setCurrTech(e.node.frontmatter.title)}
+                    onMouseEnter={() =>
+                      setHoveredTech(e.node.frontmatter.title)
+                    }
+                    onMouseLeave={() => setHoveredTech("")}
+                  >
                     {e.node.frontmatter.title}
                   </td>
                 </tr>
@@ -73,6 +79,9 @@ const TechnologyInAction = ({ data }) => {
                 lat={elat}
                 lng={elng}
                 onclick={() => setCurrTech(e.node.frontmatter.title)}
+                listHover={
+                  e.node.frontmatter.title == hoveredTech || hoveredTech == ""
+                }
               />
             )
           })}
@@ -97,7 +106,14 @@ const TechnologyInAction = ({ data }) => {
                 backgroundPosition: "center",
               }}
             />
-            <button onClick={() => setCurrTech("")}>Back to list</button>
+            <button
+              onClick={() => {
+                setCurrTech("")
+                setHoveredTech("")
+              }}
+            >
+              Back to list
+            </button>
             <div
               style={{ padding: 10 }}
               class={"md"}
