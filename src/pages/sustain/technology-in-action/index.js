@@ -1,4 +1,4 @@
-import React, { Component } from "react"
+import React, { useState } from "react"
 import Layout from "../../../components/layout/layout"
 import GoogleMapReact from "google-map-react"
 import styles from "./TIA.module.css"
@@ -26,8 +26,34 @@ const getAllCategories = data => {
 // Leaving API key in there will give us production map but we have to
 // Whitelist localhost during development
 const TechnologyInAction = ({ data }) => {
+  const [currTech, setCurrTech] = useState("")
+
   const tia = getAllTIA(data)
+  const currTechData = tia.filter(e => e.node.frontmatter.title == currTech)
   const cats = getAllCategories(tia)
+  const tiaList = cats.map((cat, idx) => (
+    <Accordion>
+      <AccordionButton defaultExpanded controls={`tia-section-${idx}`}>
+        {cat}
+      </AccordionButton>
+      <AccordionContent defaultHidden={false} id={`tia-section-${idx}`}>
+        <table className="usa-table">
+          <tbody>
+            {tia
+              .filter(e => e.node.frontmatter.categories.includes(cat))
+              .map(e => (
+                <tr>
+                  <td onClick={() => setCurrTech(e.node.frontmatter.title)}>
+                    {e.node.frontmatter.title}
+                  </td>
+                </tr>
+              ))}
+          </tbody>
+        </table>
+      </AccordionContent>
+    </Accordion>
+  ))
+  console.log(currTechData)
   console.log(cats)
   return (
     <Layout path="/sustain/technology-in-action/">
@@ -46,26 +72,18 @@ const TechnologyInAction = ({ data }) => {
         </GoogleMapReact>
       </div>
       <div className={styles.listContainer}>
-        {cats.map((cat, idx) => (
-          <Accordion>
-            <AccordionButton defaultExpanded controls={`tia-section-${idx}`}>
-              {cat}
-            </AccordionButton>
-            <AccordionContent defaultHidden={false} id={`tia-section-${idx}`}>
-              <table className="usa-table">
-                <tbody>
-                  {tia
-                    .filter(e => e.node.frontmatter.categories.includes(cat))
-                    .map(e => (
-                      <tr>
-                        <td>{e.node.frontmatter.title}</td>
-                      </tr>
-                    ))}
-                </tbody>
-              </table>
-            </AccordionContent>
-          </Accordion>
-        ))}
+        {currTech == "" ? (
+          tiaList
+        ) : (
+          <>
+            <button onClick={() => setCurrTech("")}>Back to list</button>
+            <div
+              style={{ padding: 10 }}
+              class={"md"}
+              dangerouslySetInnerHTML={{ __html: currTechData[0].node.html }}
+            />
+          </>
+        )}
       </div>
     </Layout>
   )
