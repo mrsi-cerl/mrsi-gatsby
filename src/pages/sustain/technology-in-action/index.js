@@ -3,7 +3,7 @@ import Layout from "../../../components/layout/layout"
 import GoogleMapReact from "google-map-react"
 import styles from "./TIA.module.css"
 import { Accordion, AccordionButton, AccordionContent } from "uswds-react"
-
+import Marker from "../../../components/marker"
 const getAllTIA = data => {
   return data.allMarkdownRemark.edges.filter(
     edge => edge.node.frontmatter.doc_type === "sustain_technology_in_action"
@@ -36,7 +36,14 @@ const TechnologyInAction = ({ data }) => {
           defaultCenter={{ lat: 37.27587, lng: -96.6532023 }}
           defaultZoom={4}
           bootstrapURLKeys={{ key: "AIzaSyB6afAiSLEi2h7axw-swZWNXipUYdwT0NA" }}
-        />
+        >
+          {tia.map(e => {
+            const [elat, elng] = e.node.frontmatter.project_coordinates.split(
+              ","
+            )
+            return <Marker tiaData={e} lat={elat} lng={elng} />
+          })}
+        </GoogleMapReact>
       </div>
       <div className={styles.listContainer}>
         {cats.map((cat, idx) => (
@@ -45,9 +52,17 @@ const TechnologyInAction = ({ data }) => {
               {cat}
             </AccordionButton>
             <AccordionContent defaultHidden={false} id={`tia-section-${idx}`}>
-              {tia
-                .filter(e => e.node.frontmatter.categories.includes(cat))
-                .map(e => e.node.frontmatter.title)}
+              <table className="usa-table">
+                <tbody>
+                  {tia
+                    .filter(e => e.node.frontmatter.categories.includes(cat))
+                    .map(e => (
+                      <tr>
+                        <td>{e.node.frontmatter.title}</td>
+                      </tr>
+                    ))}
+                </tbody>
+              </table>
             </AccordionContent>
           </Accordion>
         ))}

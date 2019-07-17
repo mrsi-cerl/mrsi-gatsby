@@ -7,8 +7,11 @@
 .listContainer {
   height: 500px;
   width: 30rem;
-  float: right;
   display: inline-block;
   overflow-x: hidden;
   overflow-y: scroll;
+}
+
+.listContainer td:hover {
+  background-color: #dcdee0;
 }
