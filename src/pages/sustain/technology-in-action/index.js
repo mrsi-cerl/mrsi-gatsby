@@ -67,7 +67,14 @@ const TechnologyInAction = ({ data }) => {
             const [elat, elng] = e.node.frontmatter.project_coordinates.split(
               ","
             )
-            return <Marker tiaData={e} lat={elat} lng={elng} />
+            return (
+              <Marker
+                tiaData={e}
+                lat={elat}
+                lng={elng}
+                onclick={() => setCurrTech(e.node.frontmatter.title)}
+              />
+            )
           })}
         </GoogleMapReact>
       </div>
@@ -76,6 +83,20 @@ const TechnologyInAction = ({ data }) => {
           tiaList
         ) : (
           <>
+            <div
+              style={{
+                backgroundImage:
+                  "url(" +
+                  currTechData[0].node.frontmatter.carousel_images[0]
+                    .publicURL +
+                  ")",
+                width: "100%",
+                height: 200,
+                backgroundRepeat: "no-repeat",
+                backgroundSize: "cover",
+                backgroundPosition: "center",
+              }}
+            />
             <button onClick={() => setCurrTech("")}>Back to list</button>
             <div
               style={{ padding: 10 }}
