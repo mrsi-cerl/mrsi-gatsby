@@ -3,6 +3,12 @@
 }
 
 .banner img {
-  width: 100px;
-  margin-left: 20px;
+  width: 70px;
+}
+
+@media (min-width: 64em) {
+  .banner img {
+    width: 100px;
+    margin-left: 20px;
+  }
 }
