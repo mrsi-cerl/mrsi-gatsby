@@ -9,6 +9,7 @@ import Navigation from "./navigation/navigation"
 import cx from "classnames"
 import styles from "./layout.module.css"
 import PropTypes from "prop-types"
+import Alert from "./alert.js"
 
 const mainContent = "main-content"
 
@@ -49,6 +50,7 @@ const Layout = ({
                   style={{ maxWidth: MaxWidth }}
                   className={cx({ [styles.mainCenter]: centerContent })}
                 >
+                  <Alert message="This is a test announcement" />
                   {children}
                 </div>
               </main>
