@@ -66,7 +66,7 @@ const TechnologyInAction = ({ data }) => {
       <div className={styles.mapContainer}>
         <GoogleMapReact
           defaultCenter={{ lat: 37.27587, lng: -96.6532023 }}
-          defaultZoom={4}
+          defaultZoom={3}
           bootstrapURLKeys={{ key: "AIzaSyB6afAiSLEi2h7axw-swZWNXipUYdwT0NA" }}
         >
           {tia.map(e => {
@@ -114,6 +114,9 @@ const TechnologyInAction = ({ data }) => {
             >
               Back to list
             </button>
+            <h1 style={{ padding: 10 }}>
+              {currTechData[0].node.frontmatter.title}
+            </h1>
             <div
               style={{ padding: 10 }}
               class={"md"}
