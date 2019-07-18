@@ -4,6 +4,8 @@ doc_type: generic_page
 slug: /model-rfp/small-projects/
 ---
 
+[Click me to start the Wizard](https://rfpwizard.mrsi.erdc.dren.mil/wizards/srmw/Client/CirceApp.application?v=1001)
+
 The RFP Wizard for Small Projects provides a standardized way to support the creation of Request For Proposal (RFP) documents for the design and construction of facility Sustainment, Restoration, and Modernization (SRM) and small Military Programs work. The RFP Wizard for Small Project capitalizes on the previous development and success of the RFP Wizard for MILCON for new construction, and facilitates a comprehensive approach to small project RFP development.
 
 Memorandum for the Under Secretary of Defense (10 Sep 2013) requires "a standardized process for facility condition assessments to ensure consistent and reliable data necessary for sound strategic investment decisions in managing the Department's built environment." This policy further mandates that Defense Components (e.g. Army, Air Force and Navy) adopt a common process (NLT FY19) that incorporates the Sustainment Management System (SMS) developed by the U.S. Army Corps of Engineers Engineer Research and Development Center - Construction Engineering Research Laboratory (ERDC-CERL). This includes the BUILDER module in the SMS suite of applications.

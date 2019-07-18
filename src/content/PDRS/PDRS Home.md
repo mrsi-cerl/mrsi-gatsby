@@ -1,9 +1,11 @@
 ---
-title: About the PDRS
+title: Parametric Design Report System
 doc_type: generic_page
 slug: /pdrs/
 file_library_root_path: content/PDRS/
 ---
+
+[Click me to start the Wizard](https://rfpwizard.mrsi.erdc.dren.mil/wizards/pdrsw/Client/WizardApplication.application?v=1001)
 
 The Code 2 and/or Code 3 Design Directives for Army MILCON requires the submission and approval of the Parametric Design Report (PDR) and ENG Form 3086 cost estimate. This Parametric Design Report System (PDRS) Wizard is a web-based tool for the preparation, submission, reporting and storage of the required PDR. The PDR must be approved first before the ENG Form 3086 is submitted. Although ENG3086 status is also tracked in PDRS, it is not prepared in this system.
 

@@ -4,6 +4,8 @@ doc_type: generic_page
 slug: /model-rfp/milcon
 ---
 
+[Click me to start the Wizard](https://rfpwizard.mrsi.erdc.dren.mil/wizards/mbpw/Client/MTApp.application?v=1001)
+
 The RFP Wizard for MILCON D-B is an application for creating a Request For Proposal (RFP) using U.S. Army Corps of Engineers (USACE) approved Model RFP templates for new U.S. Army Military Construction (MILCON) Design-Build (D-B) projects.
 
 The application was developed to simplify the RFP creation process and to ensure a standardized RFP is generated that is suitable for solicitation and is consistent with Army and USACE policy, regulation, Army Standards, and Standard Designs.
