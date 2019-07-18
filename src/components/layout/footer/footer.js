@@ -20,7 +20,7 @@ const Footer = () => (
                       <Link to={"/mrsi/contact"}>Contact Us</Link>
                     </li>
                     <li className="usa-footer__secondary-link">
-                      <Link to={"/mrsi/faq"}>FAQ</Link>
+                      <Link to={"/mrsi/credits"}>Credits</Link>
                     </li>
                     <li className="usa-footer__secondary-link">
                       <Link to={"/mrsi/privacy"}>Privacy Policy</Link>
