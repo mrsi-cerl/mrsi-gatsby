@@ -50,7 +50,7 @@ const Layout = ({
                   style={{ maxWidth: MaxWidth }}
                   className={cx({ [styles.mainCenter]: centerContent })}
                 >
-                  <Alert message="This is a test announcement" />
+                  <Alert message="" />
                   {children}
                 </div>
               </main>
