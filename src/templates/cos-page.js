@@ -25,10 +25,17 @@ function getData(slug, data) {
 export default ({ data, pageContext }) => {
   const { facilities, cos } = getData(pageContext.slug, data)
   const lib_path = cos.frontmatter.file_library_root_path
+  console.log(cos)
   return (
     <Layout path={pageContext.slug}>
       <div style={{ maxWidth: 700, margin: "auto" }}>
         <h1>{cos.frontmatter.cos_long_name}</h1>
+        <p>
+          <strong>COS Manager: </strong>
+          <a href={"mailto:" + cos.frontmatter.cos_manager_email}>
+            {cos.frontmatter.cos_manager_name}
+          </a>
+        </p>
         <Carousel imgs={cos.frontmatter.carousel_images} />
         <div class={"md"} dangerouslySetInnerHTML={{ __html: cos.html }} />
         {lib_path !== null && lib_path !== "" ? (
