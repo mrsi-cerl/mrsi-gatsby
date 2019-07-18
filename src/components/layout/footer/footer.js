@@ -17,7 +17,7 @@ const Footer = () => (
                 <section className="usa-footer__primary-content usa-footer__primary-content--collapsible">
                   <ul className="usa-list usa-list--unstyled">
                     <li className="usa-footer__secondary-link">
-                      <Link to={"/mrsi/contact"}>Contact Us</Link>
+                      <Link to={"/mrsi/contact"}>About Us</Link>
                     </li>
                     <li className="usa-footer__secondary-link">
                       <Link to={"/mrsi/credits"}>Credits</Link>
