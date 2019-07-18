@@ -3,6 +3,7 @@ import Layout from "../../components/layout/layout"
 
 export default () => (
   <Layout path={"/mrsi/privacy"} hideSideNav centerContent MaxWidth={700}>
+    <h1>Privacy Policy</h1>
     <div class="container">
       <div>
         Information available at MRSI.ERDC.DREN.MIL is consistent with USACE,
