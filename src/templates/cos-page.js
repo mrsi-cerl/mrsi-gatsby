@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout/layout"
 import Carousel from "../components/mrsi-carousel"
 import Library from "../components/library/library"
+import RelatedLinks from "../components/relatedLinks"
 
 function getData(slug, data) {
   // find the cos that matches the slug
@@ -38,6 +39,7 @@ export default ({ data, pageContext }) => {
         </p>
         <Carousel imgs={cos.frontmatter.carousel_images} />
         <div class={"md"} dangerouslySetInnerHTML={{ __html: cos.html }} />
+        <RelatedLinks related_links={cos.frontmatter.related_links} />
         {lib_path !== null && lib_path !== "" ? (
           <Library rootDir={lib_path} />
         ) : null}
