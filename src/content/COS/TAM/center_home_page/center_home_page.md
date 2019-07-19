@@ -39,12 +39,14 @@ Full Service 3D Printing and High Resolution 3D modeling/animation
 
 - To scale interactive 3D models of facilities, layouts, Masterplans, awards, etc.
 
-Click on Image to view CoS Catalog (updated Feb19)
+![CoS Catalog](./cos-np-overview.jpg)
 
-Click above Image for a copy of the latest COS NP Design Builder (Updated Jan19)
+![COS NP Design Builder](./design-builder-preview.png)
+
+![Facility and Masterplan Prints](./3d-facilities-and-masterplan-prints.png)
+
+![RAISE](./raise-3d-models.png)
 
 To see if the CoS has a design solution for your requirements, complete the checklist and contact tcxcosmed@usace.army.mil
 
-Click here to see Non Permanent Army Facility Standards or scroll down to Library.
-
-**need to insert above links and pictures**
+Scroll down to Library to see Non Permanent Army Facility Standards.

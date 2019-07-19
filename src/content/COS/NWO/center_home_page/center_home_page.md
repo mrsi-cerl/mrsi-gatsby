@@ -18,4 +18,4 @@ The NWO COS participates in all Army activities involved in developing and maint
 
 The COS team is composed of experts with experience in design, construction and contracting for Corps-wide projects.
 
-**need to insert image here**
+![HQ](./allen-photos-227.jpg)
