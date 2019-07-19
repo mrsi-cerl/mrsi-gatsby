@@ -19,6 +19,10 @@ sustain_erdc_liaison_email: Annette.L.Stumpf@usace.army.mil
 file_library_root_path: content/sustain/CX-KR Documents/Eco-Charrette/
 page_last_reviewed: 1 January 1970
 slug: /sustain/cx/eco-charrette/
+
+related_links:
+  - caption: "Best Practices: A Handbook for Planning and Conducting Charrettes for High-Performance Projects. Published by the National Renewable Energy Laboratory (NREL), US DoE "
+    url: "https://www.nrel.gov/docs/fy09osti/44051.pdf"
 ---
 
 ## About Eco-Charrette and Conceptual Modeling

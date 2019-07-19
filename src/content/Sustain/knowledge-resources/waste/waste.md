@@ -20,6 +20,12 @@ sustain_erdc_liaison_name: Steve Cosper
 file_library_root_path: content/sustain/CX-KR Documents/Waste/
 page_last_reviewed: 1 January 1970
 slug: /sustain/kr/waste/
+
+related_links:
+  - caption: "Article/Case Study: Rotary Kiln Gasification of Solid Wastes for Base Camps"
+    url: "https://www.serdp-estcp.org/Program-Areas/Weapons-Systems-and-Platforms/Waste-Reduction-and-Treatment-in-DoD-Operations/WP-2211/"
+  - caption: "Article/Case Study: FastOx® Pathfinder system is installed at U.S. Army Garrison Fort Hunter Liggett"
+    url: "http://www.sierraenergy.com/projects/fort-hunter-liggett/"
 ---
 
 ## About Waste-to-Energy

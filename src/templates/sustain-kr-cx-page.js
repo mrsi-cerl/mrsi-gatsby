@@ -4,6 +4,7 @@ import Layout from "../components/layout/layout"
 import MrsiTable from "../components/mrsi-table"
 import Carousel from "../components/mrsi-carousel"
 import Library from "../components/library/library"
+import RelatedLinks from "../components/relatedLinks"
 
 const getCXInfo = (data, slug) => {
   return data.allMarkdownRemark.edges.filter(
@@ -61,6 +62,7 @@ export default ({ data, pageContext }) => {
       <Carousel imgs={pageData.frontmatter.carousel_images} />
       <MrsiTable data={getTableData(pageData)} />
       <div class={"md"} dangerouslySetInnerHTML={{ __html: pageData.html }} />
+      <RelatedLinks related_links={pageData.frontmatter.related_links} />
       {lib_path !== null && lib_path !== "" ? (
         <Library rootDir={lib_path} />
       ) : null}

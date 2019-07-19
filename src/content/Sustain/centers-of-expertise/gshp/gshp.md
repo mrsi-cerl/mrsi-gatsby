@@ -19,6 +19,22 @@ sustain_erdc_liaison_name: Jim Miller
 file_library_root_path: content/sustain/CX-KR Documents/GSHP/
 page_last_reviewed: 1 January 1970
 slug: /sustain/cx/gshp/
+
+related_links:
+  - caption: "Design Tool: Trane Trace 700"
+    url: "http://www.trane.com/commercial/north-america/us/en/products-systems/design-and-analysis-tools/analysis-tools/trace-700.html"
+  - caption: "Design Tool: Carrier HAP"
+    url: "https://www.carrier.com/commercial/en/us/software/hvac-system-design/hourly-analysis-program/"
+  - caption: "Design Tool: Gaia Geothermal Ground Loop Design (GLD) "
+    url: "http://www.gaiageo.com/desktopindex.html"
+  - caption: "Design Tool: Free HVAC and GSHP Software Programs "
+    url: "http://www.geokiss.com/hsoftware.htm"
+  - caption: "Design Tool: GLHEPRO and LoopLink Software "
+    url: "http://www.igshpa.okstate.edu/publication/software.htm"
+  - caption: "Article/Case Study: Geothermal Heat Pumps for Federal Buildings "
+    url: "http://www.nrel.gov/docs/fy99osti/26275.pdf"
+  - caption: "Training: Training Courses Offered by IGSHPA "
+    url: "http://www.igshpa.okstate.edu/training/training_events.asp"
 ---
 
 ## About Ground Source Heat Pumps

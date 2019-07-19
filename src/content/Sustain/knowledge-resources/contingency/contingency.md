@@ -26,6 +26,10 @@ sustain_erdc_liaison_name: Kurt Kinnevan
 file_library_root_path: content/sustain/CX-KR Documents/Contingency/
 page_last_reviewed: 1 January 1970
 slug: /sustain/kr/contingency/
+
+related_links:
+  - caption: "Sustainability Criteria for Contingency Bases"
+    url: "http://acwc.sdp.sirsi.net/client/search/asset/1036881"
 ---
 
 ## About Sustainability in Contingency

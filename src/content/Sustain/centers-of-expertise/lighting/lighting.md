@@ -25,6 +25,28 @@ sustain_erdc_liaison_name: Bill Stein
 file_library_root_path: content/sustain/CX-KR Documents/Lighting/
 page_last_reviewed: 1 January 1970
 slug: /sustain/cx/lighting
+
+related_links:
+  - caption: "Best Practices: Advanced Lighting Guidelines "
+    url: "http://algonline.org/"
+  - caption: "Best Practices: New Buildings Institute Daylighting Pattern Guide "
+    url: "http://patternguide.advancedbuildings.net/"
+  - caption: "Best Practices: DOE Solid State Lighting Projects & Programs "
+    url: "http://energy.gov/eere/ssl/solid-state-lighting"
+  - caption: "Design Tools: Whole Building Design Guide - Tech Notes "
+    url: "https://www.wbdg.org/ccb/browse_cat.php?c=266"
+  - caption: "Design Tools: Whole Building Design Guide - Design Principles "
+    url: "http://www.wbdg.org/resources/suncontrol.php"
+  - caption: "Design Tools: Radiance Daylight Simulation Engine "
+    url: "http://www.radiance-online.org/"
+  - caption: "Design Tools: Illuminating Engineering Society "
+    url: "http://www.ies.org/"
+  - caption: "Design Tools: NREL Solar Maps "
+    url: "http://www.nrel.gov/gis/solar.html"
+  - caption: "Policy & Guidance: UFC 3-530-01 Lighting systems and Controls "
+    url: "https://www.wbdg.org/"
+  - caption: "Training: USACE Webinairs "
+    url: "https://www.youtube.com/watch?v=vDtDOuqOA_I"
 ---
 
 ## About Lighting

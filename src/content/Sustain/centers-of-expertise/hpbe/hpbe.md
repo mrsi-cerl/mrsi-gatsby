@@ -19,6 +19,10 @@ sustain_erdc_liaison_name: Alexander Zhivov
 file_library_root_path: content/sustain/CX-KR Documents/HPBE/
 page_last_reviewed: 1 January 1970
 slug: /sustain/hpbe
+
+related_links:
+  - caption: "Building Science Corporation"
+    url: "http://buildingscience.com/"
 ---
 
 ## About High Performance Building Envelope
