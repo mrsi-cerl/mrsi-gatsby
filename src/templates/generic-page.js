@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout/layout"
 import Library from "../components/library/library"
+import RelatedLinks from "../components/relatedLinks"
 
 export default ({ data, pageContext }) => {
   const page = data.allMarkdownRemark.edges.filter(
@@ -19,6 +20,7 @@ export default ({ data, pageContext }) => {
     >
       <h1>{page.frontmatter.title}</h1>
       <div class={"md"} dangerouslySetInnerHTML={{ __html: page.html }} />
+      <RelatedLinks related_links={page.frontmatter.related_links} />
       {lib_path !== null && lib_path !== "" ? (
         <Library rootDir={lib_path} />
       ) : null}
