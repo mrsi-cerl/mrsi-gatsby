@@ -44,7 +44,7 @@ const Navigation = ({ path, hideSideNav, sideNavStyle, children }) => {
 
   return (
     <>
-      <MobileNav />
+      <MobileNav pages={pages} path={path} />
       <TopNav path={path} />
       <div className="default-container">
         {hideSideNav ? null : (
