@@ -26,8 +26,8 @@ exports.createPages = ({ graphql, actions }) => {
     }
   `).then(result => {
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-      console.log("[ creating page ] " + node.frontmatter.slug)
       if (node.frontmatter.doc_type in templates) {
+        console.log("[ creating page ] " + node.frontmatter.slug)
         createPage({
           path: node.frontmatter.slug,
           component: templates[node.frontmatter.doc_type],

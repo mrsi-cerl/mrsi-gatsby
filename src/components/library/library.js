@@ -2,7 +2,7 @@ import React, { useState } from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import ls from "./library-helpers"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { faFolder, faFile } from "@fortawesome/free-regular-svg-icons"
+import { faFolder, faFile } from "@fortawesome/free-solid-svg-icons"
 import styles from "./library.module.css"
 import cx from "classnames"
 
@@ -94,7 +94,7 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                 return (
                   <tr key={idx}>
                     <td>
-                      <FontAwesomeIcon icon={faFolder} />
+                      <FontAwesomeIcon icon={faFolder} color="#FFDD66" />
                       <span
                         style={{ marginLeft: 10 }}
                         onClick={() => setDir(e.Key)}
