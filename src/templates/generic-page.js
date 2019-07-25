@@ -47,7 +47,7 @@ export const query = graphql`
             carousel_images {
               publicURL
               childImageSharp {
-                fixed(width: 500, fit: COVER, height: 375) {
+                fixed(width: 500, fit: COVER, height: 375, cropFocus: CENTER) {
                   src
                 }
               }

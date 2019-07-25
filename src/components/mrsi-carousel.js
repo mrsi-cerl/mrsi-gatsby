@@ -12,7 +12,7 @@ const Carousel = ({ imgs }) => {
     return null
   }
   if (imgs.length == 1) {
-    return <img style={imgStyle} src={imgs[0].publicURL} />
+    return <img style={imgStyle} src={imgs[0].childImageSharp.fixed.src} />
   } else {
     return (
       <CA emulateTouch dynamicHeight showThumbs={false} autoPlay>
