@@ -3,8 +3,41 @@ import { useStaticQuery, graphql } from "gatsby"
 import ls from "./library-helpers"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faFolder, faFile } from "@fortawesome/free-solid-svg-icons"
+import {
+  faFilePdf,
+  faFileWord,
+  faFileImage,
+  faFileVideo,
+  faFilePowerpoint,
+  faFileArchive,
+  faFileExcel,
+  faFileAlt,
+} from "@fortawesome/free-regular-svg-icons"
 import styles from "./library.module.css"
 import cx from "classnames"
+
+const fileTypeIcons = {
+  pdf: <FontAwesomeIcon icon={faFilePdf} />,
+  png: <FontAwesomeIcon icon={faFileImage} />,
+  jpg: <FontAwesomeIcon icon={faFileImage} />,
+  docx: <FontAwesomeIcon icon={faFileWord} />,
+  zip: <FontAwesomeIcon icon={faFileArchive} />,
+  ppt: <FontAwesomeIcon icon={faFilePowerpoint} />,
+  pptx: <FontAwesomeIcon icon={faFilePowerpoint} />,
+  doc: <FontAwesomeIcon icon={faFileWord} />,
+  mov: <FontAwesomeIcon icon={faFileVideo} />,
+  mp4: <FontAwesomeIcon icon={faFileVideo} />,
+  xls: <FontAwesomeIcon icon={faFileExcel} />,
+}
+
+const getFileIcon = path => {
+  const splitPath = path.split(".")
+  const ext = splitPath[splitPath.length - 1].toLowerCase()
+  if (fileTypeIcons.hasOwnProperty(ext)) {
+    return fileTypeIcons[ext]
+  }
+  return <FontAwesomeIcon icon={faFileAlt} />
+}
 
 const getBreadcrumbs = (rootDir, dir) => {
   var new_dir = dir.replace(rootDir, "").split("/")
@@ -111,7 +144,7 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                 return (
                   <tr key={idx}>
                     <td>
-                      <FontAwesomeIcon icon={faFile} />
+                      {getFileIcon(e.Key)}
                       <a
                         href={
                           "https://cg-d19603a8-407d-46f0-a631-c1499a028c87.s3-us-gov-west-1.amazonaws.com/" +
