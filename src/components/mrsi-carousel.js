@@ -15,7 +15,7 @@ const Carousel = ({ imgs }) => {
     return <img style={imgStyle} src={imgs[0].publicURL} />
   } else {
     return (
-      <CA emulateTouch dynamicHeight showThumbs={false}>
+      <CA emulateTouch dynamicHeight showThumbs={false} autoPlay>
         {imgs.map(e => (
           <img style={imgStyle} src={e.publicURL} />
         ))}
