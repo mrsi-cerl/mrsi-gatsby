@@ -11,7 +11,7 @@ function MrsiTable(props) {
     </tr>
   ))
   return (
-    <Table className="usa-table" hover size="md">
+    <Table className="usa-table" hover size="md" style={{ marginTop: 0 }}>
       <tbody>{tableRows}</tbody>
     </Table>
   )

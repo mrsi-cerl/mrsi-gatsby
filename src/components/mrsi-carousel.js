@@ -17,8 +17,8 @@ const Carousel = ({ imgs }) => {
       <div
         style={{
           backgroundImage: "url(" + imgs[0].publicURL + ")",
-          width: "75%",
-          height: "375px",
+          width: "100%",
+          height: "300px",
           backgroundPosition: "center",
           backgroundSize: "cover",
           backgroundRepeat: "no-repeat",
@@ -27,13 +27,20 @@ const Carousel = ({ imgs }) => {
     )
   } else {
     return (
-      <CA emulateTouch dynamicHeight showThumbs={false} autoPlay width={"75%"}>
+      <CA
+        emulateTouch
+        dynamicHeight
+        showThumbs={false}
+        infiniteLoop
+        autoPlay
+        width={"100%"}
+      >
         {imgs.map(e => (
           <div
             style={{
               backgroundImage: "url(" + e.publicURL + ")",
               width: "100%",
-              height: "375px",
+              height: "300px",
               backgroundPosition: "center",
               backgroundSize: "cover",
               backgroundRepeat: "no-repeat",

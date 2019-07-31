@@ -63,8 +63,15 @@ export default ({ data, pageContext }) => {
     <Layout path={pageContext.slug} MaxWidth={700} centerContent>
       <div style={{ paddingLeft: 20 }}>
         <h1>{facility.frontmatter.facility_long_name}</h1>
-        <Carousel imgs={facility.frontmatter.carousel_images} />
-        <MrsiTable data={tableData} />
+        <div className="grid-row">
+          <div class="tablet:grid-col">
+            <Carousel imgs={facility.frontmatter.carousel_images} />
+          </div>
+          <div class="tablet:grid-col" style={{ paddingLeft: 10 }}>
+            <MrsiTable data={tableData} />
+          </div>
+        </div>
+
         <div class={"md"} dangerouslySetInnerHTML={{ __html: facility.html }} />
         <Library rootDir={facility.frontmatter.file_library_root_path} />
       </div>
