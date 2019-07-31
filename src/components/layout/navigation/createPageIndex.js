@@ -81,12 +81,13 @@ function getAllFacilitiesForCOS(data, cos) {
 
 function createFacilityPageIndex(data, cos) {
   const facilities = getAllFacilitiesForCOS(data, cos.cos_short_name)
-  let p = [
+  const AboutEntry = [
     {
       slug: cos.slug,
       caption: "About " + cos.cos_long_name,
     },
   ]
+  let p = []
 
   facilities.forEach(e => {
     p.push({
@@ -94,7 +95,18 @@ function createFacilityPageIndex(data, cos) {
       caption: e.node.frontmatter.facility_long_name,
     })
   })
-  return p
+
+  p.sort((a, b) => {
+    if (a.caption > b.caption) {
+      return 1
+    }
+    if (a.caption < b.caption) {
+      return -1
+    }
+    return 0
+  })
+
+  return AboutEntry.concat(p)
 }
 
 function getCOSPages(data) {
@@ -109,6 +121,16 @@ function getCOSPages(data) {
       caption: e.node.frontmatter.cos_long_name,
       children: createFacilityPageIndex(facilities, e.node.frontmatter),
     })
+  })
+
+  p.sort((a, b) => {
+    if (a.caption > b.caption) {
+      return 1
+    }
+    if (a.caption < b.caption) {
+      return -1
+    }
+    return 0
   })
 
   return p
