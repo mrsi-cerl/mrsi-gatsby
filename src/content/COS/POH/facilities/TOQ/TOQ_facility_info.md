@@ -1,21 +1,19 @@
 ---
 carousel_images:
-- ./TTOQ Rendering_Feb2013.jpg
+  - ./TTOQ-Rendering_Feb2013.jpg
 doc_type: facility_page
 facility_category_codes:
-- '72412'
+  - "72412"
 facility_cos_short_name: POH
 facility_functional_proponent: ACSIM Housing
 facility_long_name: Transient Officers Quarters
 facility_short_name: TOQ
 facility_technical_poc_email: tyler.okabayashi@usace.army.mil
 facility_technical_poc_name: Tyler Okabayashi
-file_library_root_path: 'content/cos/poh/toq/Library/'
+file_library_root_path: "content/cos/poh/toq/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/poh/toq/
 ---
-
-
 
 ## Description
 
