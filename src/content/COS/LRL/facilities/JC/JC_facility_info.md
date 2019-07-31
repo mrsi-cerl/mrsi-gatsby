@@ -5,7 +5,7 @@ carousel_images:
   - ./01-bldg-21-renovation-ft-bliss-tx.jpg
   - ./06-courtrm-facility-ft-bragg-nc.jpg
   - ./02-bldg-21-renovation-ft-bliss-tx.jpg
-  - ./Birds Eye_3-3.jpg
+  - ./Birds-Eye_3-3.jpg
   - ./03-court-bldg-usag-humphreys-korea.jpg
 doc_type: facility_page
 facility_category_codes:

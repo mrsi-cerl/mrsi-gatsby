@@ -1,6 +1,6 @@
 ---
 carousel_images:
-  - ./SFSC BIM Rendering.jpg
+  - ./SFSC-BIM-Rendering.jpg
 doc_type: facility_page
 facility_category_codes:
   - TBD

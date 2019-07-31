@@ -1,21 +1,19 @@
 ---
 carousel_images:
-- ./Supply Support Activity.jpg
+  - ./Supply-Support-Activity.jpg
 doc_type: facility_page
 facility_category_codes:
-- '44226'
+  - "44226"
 facility_cos_short_name: SWF
 facility_functional_proponent: DCS, G4
 facility_long_name: Unit Supply Support Activity Facility
 facility_short_name: SSA
 facility_technical_poc_email: Javier.A.Fano@usace.army.mil
 facility_technical_poc_name: Javier Fano
-file_library_root_path: 'content/cos/swf/ssa/Library/'
+file_library_root_path: "content/cos/swf/ssa/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/swf/ssa/
 ---
-
-
 
 ## Description
 

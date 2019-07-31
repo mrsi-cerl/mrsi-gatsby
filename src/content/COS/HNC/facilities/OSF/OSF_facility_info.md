@@ -1,26 +1,24 @@
 ---
 carousel_images:
-- ./Football Field Design.jpg
+  - ./Football-Field-Design.jpg
 doc_type: facility_page
 facility_category_codes:
-- '75020'
-- '75021'
-- '75022'
-- '75024'
-- '75025'
-- '75027'
+  - "75020"
+  - "75021"
+  - "75022"
+  - "75024"
+  - "75025"
+  - "75027"
 facility_cos_short_name: HNC
 facility_functional_proponent: CFSC
 facility_long_name: Outdoor Sports Facilities
 facility_short_name: OSF
 facility_technical_poc_email: Ross.Allen@usace.army.mil
 facility_technical_poc_name: Ross Allen
-file_library_root_path: 'content/cos/hnc/osf/Library/'
+file_library_root_path: "content/cos/hnc/osf/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/osf/
 ---
-
-
 
 ##Description
 

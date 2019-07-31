@@ -1,21 +1,19 @@
 ---
 carousel_images:
-- ./AIT Complex.JPG
+  - ./AIT-Complex.JPG
 doc_type: facility_page
 facility_category_codes:
-- 721 21
+  - 721 21
 facility_cos_short_name: SWF
 facility_functional_proponent: G-3/5/7
 facility_long_name: Advanced Individual Training Complex
 facility_short_name: AIT
 facility_technical_poc_email: Javier.A.Fano@usace.army.mil
 facility_technical_poc_name: Javier Fano
-file_library_root_path: 'content/cos/swf/ait/Library/'
+file_library_root_path: "content/cos/swf/ait/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/swf/ait/
 ---
-
-
 
 The AIT Complex provides living and training facilities for soldiers during their advanced individual training.
 

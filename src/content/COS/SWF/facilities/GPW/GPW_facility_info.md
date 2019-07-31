@@ -1,25 +1,23 @@
 ---
 carousel_images:
-- ./General Purpose Warehouse.jpg
+  - ./General-Purpose-Warehouse.jpg
 doc_type: facility_page
 facility_category_codes:
-- '44110'
-- '44220'
-- '44230'
-- '44271'
-- '44288'
+  - "44110"
+  - "44220"
+  - "44230"
+  - "44271"
+  - "44288"
 facility_cos_short_name: SWF
 facility_functional_proponent: G4
 facility_long_name: General Purpose Warehouse
 facility_short_name: GPW
 facility_technical_poc_email: Javier.A.Fano@usace.army.mil
 facility_technical_poc_name: Javier Fano
-file_library_root_path: 'content/cos/swf/gpw/Library/'
+file_library_root_path: "content/cos/swf/gpw/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/swf/gpw/
 ---
-
-
 
 ## Description
 

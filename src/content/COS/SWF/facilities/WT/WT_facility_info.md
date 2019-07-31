@@ -1,23 +1,21 @@
 ---
 carousel_images:
-- ./Warrior in Transition.jpg
+  - ./Warrior-in-Transition.jpg
 doc_type: facility_page
 facility_category_codes:
-- '72112'
-- '14188'
-- '74033'
+  - "72112"
+  - "14188"
+  - "74033"
 facility_cos_short_name: SWF
 facility_functional_proponent: G1
 facility_long_name: Warriors in Transition Complex
 facility_short_name: WT
 facility_technical_poc_email: Javier.A.Fano@usace.army.mil
 facility_technical_poc_name: Javier Fano
-file_library_root_path: 'content/cos/swf/wt/Library/'
+file_library_root_path: "content/cos/swf/wt/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/swf/wt/
 ---
-
-
 
 ## Description
 

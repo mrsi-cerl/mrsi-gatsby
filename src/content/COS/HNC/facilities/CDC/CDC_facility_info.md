@@ -1,17 +1,17 @@
 ---
 carousel_images:
-  - ./Reception Counter.jpg
-  - ./Activity Play Room.jpg
-  - ./Cover Picture.jpg
-  - ./Diaper Changing Station.jpg
-  - ./Kitchen and Washing Station.jpg
-  - ./CDC_IT Rendering.jpg
+  - ./Reception-Counter.jpg
+  - ./Activity-Play-Room.jpg
+  - ./Cover-Picture.jpg
+  - ./Diaper-Changing-Station.jpg
+  - ./Kitchen-and-Washing-Station.jpg
+  - ./CDC_IT-Rendering.jpg
   - ./Playground.jpg
-  - ./Front Picture.jpg
-  - ./DSCF Picture.jpg
+  - ./Front-Picture.jpg
+  - ./DSCF-Picture.jpg
   - ./DSCN3134.jpg
-  - ./Fort Benning.jpg
-  - ./Activity Room Picture.jpg
+  - ./Fort-Benning.jpg
+  - ./Activity-Room-Picture.jpg
 doc_type: facility_page
 facility_category_codes:
   - "74017"

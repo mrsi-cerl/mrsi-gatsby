@@ -1,6 +1,6 @@
 ---
 carousel_images:
-  - ./DES cover.jpg
+  - ./DES-cover.jpg
   - ./img01295-20130227-1452.jpg
   - ./large-floor-plan.jpg
   - ./img01278-20130227-1423.jpg

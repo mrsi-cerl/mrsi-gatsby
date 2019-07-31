@@ -1,21 +1,19 @@
 ---
 carousel_images:
-- ./ZERO Plan.jpg
+  - ./ZERO-Plan.jpg
 doc_type: facility_page
 facility_category_codes:
-- '17801'
+  - "17801"
 facility_cos_short_name: HNC
 facility_functional_proponent: G3
-facility_long_name: 'Basic 10M - 25M Firing Range '
+facility_long_name: "Basic 10M - 25M Firing Range "
 facility_short_name: ZERO
 facility_technical_poc_email: marcus.j.searles@usace.army.mil
 facility_technical_poc_name: Marcus Searles, Bob Hasse
-file_library_root_path: 'content/cos/hnc/zero/Library/'
+file_library_root_path: "content/cos/hnc/zero/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/zero/
 ---
-
-
 
 ## Description
 

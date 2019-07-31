@@ -1,21 +1,19 @@
 ---
 carousel_images:
-- ./LFS Plan.jpg
+  - ./LFS-Plan.jpg
 doc_type: facility_page
 facility_category_codes:
-- '17879'
+  - "17879"
 facility_cos_short_name: HNC
 facility_functional_proponent: G3
 facility_long_name: Live Fire Exercise Shoothouse
 facility_short_name: LFSH
 facility_technical_poc_email: marcus.j.searles@usace.army.mil
 facility_technical_poc_name: Marcus Searles, Bob Hasse
-file_library_root_path: 'content/cos/hnc/lfsh/Library/'
+file_library_root_path: "content/cos/hnc/lfsh/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/lfsh/
 ---
-
-
 
 ## Description
 

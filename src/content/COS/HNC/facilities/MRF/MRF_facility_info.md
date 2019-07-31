@@ -1,21 +1,19 @@
 ---
 carousel_images:
-- ./MRF Plan.jpg
+  - ./MRF-Plan.jpg
 doc_type: facility_page
 facility_category_codes:
-- '17806'
+  - "17806"
 facility_cos_short_name: HNC
 facility_functional_proponent: G3
 facility_long_name: Modified Record Fire Range
 facility_short_name: MRF
 facility_technical_poc_email: marcus.j.searles@usace.army.mil
 facility_technical_poc_name: Marcus Searles, Bob Hasse
-file_library_root_path: 'content/cos/hnc/mrf/Library/'
+file_library_root_path: "content/cos/hnc/mrf/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/mrf/
 ---
-
-
 
 ## Description
 

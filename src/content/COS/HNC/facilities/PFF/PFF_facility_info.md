@@ -20,7 +20,7 @@ carousel_images:
   - ./IMG00786-20120927-0934_jpg.jpg
   - ./IMG02550-20140711-1130_jpg.jpg
   - ./IMG02504-20131219-1445_jpg.jpg
-  - ./Bldg 20751@Ft Bliss,TX(PN64614).jpg
+  - ./Bldg-20751.jpg
   - ./may2011_447.jpg
 doc_type: facility_page
 facility_category_codes:

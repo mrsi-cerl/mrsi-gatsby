@@ -1,21 +1,19 @@
 ---
 carousel_images:
-- ./Central Issue Facility.JPG
+  - ./Central-Issue-Facility.JPG
 doc_type: facility_page
 facility_category_codes:
-- '44227'
+  - "44227"
 facility_cos_short_name: SWF
 facility_functional_proponent: DCS, G4
 facility_long_name: Central Issue Facility
 facility_short_name: CIF
 facility_technical_poc_email: Javier.A.Fano@usace.army.mil
 facility_technical_poc_name: Javier Fano
-file_library_root_path: 'content/cos/swf/cif/Library/'
+file_library_root_path: "content/cos/swf/cif/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/swf/cif/
 ---
-
-
 
 The CIF provides a single point for receipt, storage, issue, exchange, and return of all authorized organizational clothing and individual equipment items at the specified United States Army Installation.
 

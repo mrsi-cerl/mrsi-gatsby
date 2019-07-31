@@ -1,6 +1,6 @@
 ---
 carousel_images:
-  - ./ACSC Rendering.jpg
+  - ./ACSC-Rendering.jpg
 doc_type: facility_page
 facility_category_codes:
   - "74033"
@@ -28,5 +28,3 @@ The size of the installation ACS will be essentially based on the population ser
 | Medium​ Facility             | 3,501 - 10,000      |
 | Large​ Facility              | ​10,001 - 15,000    |
 | Ex-Large​ Facility           | ​15,001 and above   |
-
-

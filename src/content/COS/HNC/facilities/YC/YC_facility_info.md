@@ -2,7 +2,7 @@
 carousel_images:
   - ./IMG01980-20130619-1052.jpg
   - ./IMG01814-20130618-0911.jpg
-  - ./YAC BIM Rendering.jpg
+  - ./YAC-BIM-Rendering.jpg
   - ./IMG01962-20130619-1033.jpg
   - ./cover_jpg.jpg
   - ./cover2_jpg.jpg

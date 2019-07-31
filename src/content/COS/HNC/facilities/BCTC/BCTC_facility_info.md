@@ -1,21 +1,19 @@
 ---
 carousel_images:
-- ./BCTC Rendering.jpg
+  - ./BCTC-Rendering.jpg
 doc_type: facility_page
 facility_category_codes:
-- '17213'
+  - "17213"
 facility_cos_short_name: HNC
 facility_functional_proponent: G3
 facility_long_name: Battle Command Training Center
 facility_short_name: BCTC
 facility_technical_poc_email: marcus.j.searles@usace.army.mil
 facility_technical_poc_name: Marcus Searles
-file_library_root_path: 'content/cos/hnc/bctc/Library/'
+file_library_root_path: "content/cos/hnc/bctc/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/bctc/
 ---
-
-
 
 ## Description
 

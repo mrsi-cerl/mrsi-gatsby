@@ -1,21 +1,19 @@
 ---
 carousel_images:
-- ./CPQC Plan.jpg
+  - ./CPQC-Plan.jpg
 doc_type: facility_page
 facility_category_codes:
-- '17822'
+  - "17822"
 facility_cos_short_name: HNC
 facility_functional_proponent: G-3
-facility_long_name: 'Combat Pistol - MP Firearms Qualification Course '
+facility_long_name: "Combat Pistol - MP Firearms Qualification Course "
 facility_short_name: CPQC
 facility_technical_poc_email: marcus.j.searles@usace.army.mil
 facility_technical_poc_name: Marcus Searles
-file_library_root_path: 'content/cos/hnc/cpqc/Library/'
+file_library_root_path: "content/cos/hnc/cpqc/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/cpqc/
 ---
-
-
 
 ## Description
 

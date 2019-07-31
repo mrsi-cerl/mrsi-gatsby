@@ -1,21 +1,19 @@
 ---
 carousel_images:
-- ./TSC BIM Rendering.jpg
+  - ./TSC-BIM-Rendering.jpg
 doc_type: facility_page
 facility_category_codes:
-- '14129'
+  - "14129"
 facility_cos_short_name: HNC
 facility_functional_proponent: G3
 facility_long_name: Training Support Center
 facility_short_name: TSC
 facility_technical_poc_email: marcus.j.searles@usace.army.mil
 facility_technical_poc_name: Marcus Searles
-file_library_root_path: 'content/cos/hnc/tsc/Library/'
+file_library_root_path: "content/cos/hnc/tsc/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/tsc/
 ---
-
-
 
 ## Description
 
