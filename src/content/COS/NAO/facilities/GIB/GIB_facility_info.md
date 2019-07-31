@@ -1,22 +1,20 @@
 ---
 carousel_images:
-- ./GIB Rendering.jpg
+  - ./GIB-Rendering.jpg
 doc_type: facility_page
 facility_category_codes:
-- '17120'
-- '74025'
+  - "17120"
+  - "74025"
 facility_cos_short_name: NAO
 facility_functional_proponent: G3
 facility_long_name: General Instruction Building
 facility_short_name: GIB
 facility_technical_poc_email: matthew.c.scanlon@usace.army.mil
 facility_technical_poc_name: Matthew Scanlon
-file_library_root_path: 'content/cos/nao/gib/Library/'
+file_library_root_path: "content/cos/nao/gib/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nao/gib/
 ---
-
-
 
 ## Description
 

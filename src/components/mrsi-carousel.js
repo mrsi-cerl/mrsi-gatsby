@@ -12,12 +12,33 @@ const Carousel = ({ imgs }) => {
     return null
   }
   if (imgs.length == 1) {
-    return <img style={imgStyle} src={imgs[0].publicURL} />
+    //console.log(imgs[0].publicURL)
+    return (
+      <div
+        style={{
+          backgroundImage: "url(" + imgs[0].publicURL + ")",
+          width: "100%",
+          height: "500px",
+          backgroundPosition: "center",
+          backgroundSize: "cover",
+          backgroundRepeat: "no-repeat",
+        }}
+      />
+    )
   } else {
     return (
       <CA emulateTouch dynamicHeight showThumbs={false} autoPlay>
         {imgs.map(e => (
-          <img style={imgStyle} src={e.publicURL} />
+          <div
+            style={{
+              backgroundImage: "url(" + e.publicURL + ")",
+              width: "100%",
+              height: "500px",
+              backgroundPosition: "center",
+              backgroundSize: "cover",
+              backgroundRepeat: "no-repeat",
+            }}
+          />
         ))}
       </CA>
     )
