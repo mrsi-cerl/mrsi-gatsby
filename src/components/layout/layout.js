@@ -48,7 +48,7 @@ const Layout = ({
                 })}
               >
                 <div
-                  style={{ maxWidth: MaxWidth }}
+                  style={{ maxWidth: MaxWidth, float: "left" }}
                   className={cx({ [styles.mainCenter]: centerContent })}
                 >
                   <Alert message="" />
