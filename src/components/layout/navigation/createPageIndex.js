@@ -40,6 +40,10 @@ const pages = {
       caption: "Small Projects",
       slug: "/model-rfp/small-projects/",
     },
+    {
+      caption: "MILCON Waiver Process",
+      slug: "/model-rfp/waiver-process/",
+    },
   ],
   SUSTAIN: [
     {
