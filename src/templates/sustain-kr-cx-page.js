@@ -59,8 +59,15 @@ export default ({ data, pageContext }) => {
   return (
     <Layout path={pageContext.slug} MaxWidth={700}>
       <h1>{pageData.frontmatter.title}</h1>
-      <Carousel imgs={pageData.frontmatter.carousel_images} />
-      <MrsiTable data={getTableData(pageData)} />
+      <div className="grid-row">
+        <div class="tablet:grid-col">
+          <Carousel imgs={pageData.frontmatter.carousel_images} />
+        </div>
+        <div class="tablet:grid-col" style={{ paddingLeft: 10 }}>
+          <MrsiTable data={getTableData(pageData)} />
+        </div>
+      </div>
+
       <div class={"md"} dangerouslySetInnerHTML={{ __html: pageData.html }} />
       <RelatedLinks related_links={pageData.frontmatter.related_links} />
       {lib_path !== null && lib_path !== "" ? (
