@@ -6,40 +6,7 @@ slug: /model-rfp/waiver-process/
 
 ## Army Facilities Standardization Committee (AFSC)
 
-![Army Facilities Standardization Committee Org Chart](./WaiverProcess3.png)
-
-### Army Facility Standardization Committee
-
-Recommends:
-
-- Army Standards to ACSIM
-- DoD Criteria
-- Waivers to Army Standards
-
-### HQ USACE
-
-Approves:
-
-- Standard Designs
-- Resources for design teams
-- Waivers to Standard Designs
-- Activities of COSs
-
-### Director, Engineering Research & Development Center
-
-Approves:
-
-- Request for proposals
-- Tech eval reports
-- Tech transfer reports
-
-### Facility Standards Group
-
-OACSIM & DA functional proponent co-chair the separate design teams, USACE, IMCOM, ACOMs, and other agencies assist.
-
-### Technology Standards Group
-
-OACSIM & DA Proponent co-chair, USACE R&D Labs, IMCOM, and other agencies
+![Army Facilities Standardization Committee Org Chart](./WaiverProcess4.png)
 
 ## Army Standard Waiver Process
 
