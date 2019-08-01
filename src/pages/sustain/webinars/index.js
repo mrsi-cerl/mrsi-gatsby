@@ -8,7 +8,7 @@ const SustainWebinars = ({ data }) => {
   )
   console.log(webinars)
   return (
-    <Layout path="/sustain/webinars" MaxWidth={700} centerContent>
+    <Layout path="/sustain/webinars" MaxWidth={700}>
       <h1>Sustainability Webinars</h1>
       <ul>
         {webinars.map((e, idx) => (

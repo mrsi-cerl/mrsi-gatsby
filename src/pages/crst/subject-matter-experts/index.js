@@ -9,7 +9,7 @@ const crstSME = ({ data }) => {
 
   const data2 = []
   return (
-    <Layout path="/crst/subject-matter-experts" MaxWidth={700} centerContent>
+    <Layout path="/crst/subject-matter-experts" MaxWidth={700}>
       <h1>Subject Matter Experts</h1>
       <table className="usa-table">
         <thead>

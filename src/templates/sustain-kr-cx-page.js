@@ -57,7 +57,7 @@ export default ({ data, pageContext }) => {
   const lib_path = pageData.frontmatter.file_library_root_path
   console.log(pageData)
   return (
-    <Layout path={pageContext.slug} MaxWidth={700} centerContent>
+    <Layout path={pageContext.slug} MaxWidth={700}>
       <h1>{pageData.frontmatter.title}</h1>
       <Carousel imgs={pageData.frontmatter.carousel_images} />
       <MrsiTable data={getTableData(pageData)} />

@@ -29,7 +29,7 @@ export default ({ data, pageContext }) => {
   console.log(cos)
   return (
     <Layout path={pageContext.slug}>
-      <div style={{ maxWidth: 700, margin: "auto" }}>
+      <div style={{ maxWidth: 700 }}>
         <h1>{cos.frontmatter.cos_long_name}</h1>
         <p>
           <strong>COS Manager: </strong>

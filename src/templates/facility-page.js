@@ -60,7 +60,7 @@ export default ({ data, pageContext }) => {
   ]
 
   return (
-    <Layout path={pageContext.slug} MaxWidth={700} centerContent>
+    <Layout path={pageContext.slug} MaxWidth={700}>
       <div style={{ paddingLeft: 20 }}>
         <h1>{facility.frontmatter.facility_long_name}</h1>
         <div className="grid-row">

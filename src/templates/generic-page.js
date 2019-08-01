@@ -15,7 +15,6 @@ export default ({ data, pageContext }) => {
     <Layout
       path={pageContext.slug}
       MaxWidth={700}
-      centerContent
       hideSideNav={pageContext.slug == "/pdrs/"}
     >
       <h1>{page.frontmatter.title}</h1>

@@ -22,3 +22,7 @@
 .mainCenter {
   margin: auto;
 }
+
+.floatLeft {
+  float: left;
+}

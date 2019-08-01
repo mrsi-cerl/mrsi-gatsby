@@ -20,7 +20,7 @@ const ArmyStandards = ({ data }) => {
   })
 
   return (
-    <Layout path="/cos/army-standards" MaxWidth={700} centerContent>
+    <Layout path="/cos/army-standards" MaxWidth={700}>
       <h1>Army Standards</h1>
       {facilities.map((e, idx) => (
         <Accordion>

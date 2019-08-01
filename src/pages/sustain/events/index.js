@@ -9,7 +9,7 @@ const SustainEvents = ({ data }) => {
   )
 
   return (
-    <Layout path="/sustain/events" MaxWidth={700} centerContent>
+    <Layout path="/sustain/events" MaxWidth={700}>
       <h1>Sustainability Events</h1>
       {news.map((e, idx) => (
         <Accordion>

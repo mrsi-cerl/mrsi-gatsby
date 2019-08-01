@@ -16,7 +16,7 @@ const iconStyle = {
 }
 
 const IndexPage = () => (
-  <Layout sidenav title="Home" hideSideNav path="/">
+  <Layout sidenav title="Home" hideSideNav path="/" centerContent>
     <section className="site-hero">
       <div
         className="grid-container"

@@ -15,7 +15,7 @@ export default ({ data, pageContext }) => {
   }
 
   return (
-    <Layout path={pageContext.slug} MaxWidth={700} centerContent>
+    <Layout path={pageContext.slug} MaxWidth={700}>
       <Link to={"/sustain/webinars"}> ← Back to all Webinars</Link>
       <h1>{pageData.frontmatter.title}</h1>
       <p>{"Presented By " + pageData.frontmatter.sustain_webinar_presenter}</p>
