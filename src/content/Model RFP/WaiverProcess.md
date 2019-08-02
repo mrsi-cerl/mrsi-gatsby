@@ -42,8 +42,4 @@ slug: /model-rfp/waiver-process/
    ASAP. The COS will assess approved waiver for possible permanent change to the current Standard
    Design/Criteria.
 
-**Draft Waiver Template:**
-
-```
-
-```
+**Draft Waiver Template:** [Click here to download the waiver](https://cg-d19603a8-407d-46f0-a631-c1499a028c87.s3-us-gov-west-1.amazonaws.com/content/model-rfp/Waiver%20Concurrence%20form%20Apr%2011.doc)
