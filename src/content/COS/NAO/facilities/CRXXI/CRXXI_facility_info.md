@@ -24,11 +24,17 @@ The Automation-Aided Instructional Building is a building predominantly used for
 ## Variations
 
 The TRADOC classroom technology levels are as follows:
-Level 1: These classrooms are characterized by a basic instructor-led presentation-type pedagogical approach in which the Program of Instruction (POI) content is best delivered using discussion techniques. The Instructor has access to digital course materials typically housed in the Digital Training Access Center (DTAC) and leads the students through the training materials from a multi-media instructor station.
-Level 2: This level builds upon the base level 1 capability by providing an individual multi-media student workstation for each student. Through the electronic communication infrastructure, each individual workstation has the capability to access approved training material from a centralized storage center. This classroom allows training to be designed for student participation using IMI courseware.
-Level 3: This level classroom builds on the Level Two by providing video teletraining capability (2-way audio and video) and access to worldwide sources of information to each student. This classroom allows training developers to design training that integrates training and information from worldwide sources. It provides a foundation for collaborative training among branches and schools; alternative training strategies using governmental, educational, industrial, and commercial sources; and the platform to support the delivery of distance learning.
-Level 4: These classrooms are designed to support simulations and simulators. They are highly specialized or provide the capability to support the US Army Family of Simulations (FAMSIM) that cannot be accomplished with a Level Two or Three Classroom.
-Level 5: This classroom will be based on a virtual reality environment. While there are some pilot projects underway, a general requirement for classrooms with this capability has not been identified at this time.
+
+*Level 1:* These classrooms are characterized by a basic instructor-led presentation-type pedagogical approach in which the Program of Instruction (POI) content is best delivered using discussion techniques. The Instructor has access to digital course materials typically housed in the Digital Training Access Center (DTAC) and leads the students through the training materials from a multi-media instructor station.
+
+*Level 2:* This level builds upon the base level 1 capability by providing an individual multi-media student workstation for each student. Through the electronic communication infrastructure, each individual workstation has the capability to access approved training material from a centralized storage center. This classroom allows training to be designed for student participation using IMI courseware.
+
+*Level 3:* This level classroom builds on the Level Two by providing video teletraining capability (2-way audio and video) and access to worldwide sources of information to each student. This classroom allows training developers to design training that integrates training and information from worldwide sources. It provides a foundation for collaborative training among branches and schools; alternative training strategies using governmental, educational, industrial, and commercial sources; and the platform to support the delivery of distance learning.
+
+*Level 4:* These classrooms are designed to support simulations and simulators. They are highly specialized or provide the capability to support the US Army Family of Simulations (FAMSIM) that cannot be accomplished with a Level Two or Three Classroom.
+
+*Level 5:* This classroom will be based on a virtual reality environment. While there are some pilot projects underway, a general requirement for classrooms with this capability has not been identified at this time.
+
 Note that TRADOC is conducting a review of the above listed technology levels and a revision is anticipated in the future.
 
 It is important to note that the technology levels are not classroom size dependent, and classroom sizes for all levels of technology are provided within the General Instruction Building (GIB) Standard Design Criteria (Catcode 17120), which provide requirements and guidance to address the wide variety of curriculum and supporting facilities requirements.
