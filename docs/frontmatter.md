@@ -23,15 +23,15 @@ This document outlines the frontmatter keys used in the markdown files
   - [`facility_cos_short_name`](#facility_cos_short_name)
   - [`facility_functional_proponent`](#facility_functional_proponent)
   - [`facility_category_codes`](#facility_category_codes)
-- [Center of Expertise / Knowledge Center Keys (CX/KR)](#Center of Expertise / Knowledge Center Keys (CX/KR))
-  - [`cx_msc_program_manager_name`](#)
-  - [`cx_msc_program_manager_email`](#)
-  - [`cx_msc_technical_lead_name`](#)
-  - [`cx_msc_technical_lead_email`](#)
-  - [`cx_hq_usace_proponent_name`](#)
-  - [`cx_hq_usace_proponent_email`](#)
-  - [`cx_erdc_liaison_name`](#)
-  - [`cx_erdc_liaison_email`](#)
+- [Sustain CX/KR Keys](#Sustain-CX/KR-Keys)
+  - [`sustain_msc_program_manager_name`](#sustain_msc_program_manager_name)
+  - [`sustain_msc_program_manager_email`](#sustain_msc_program_manager_email)
+  - [`sustain_msc_technical_lead_name`](#sustain_msc_technical_lead_name)
+  - [`sustain_msc_technical_lead_email`](#sustain_msc_technical_lead_email)
+  - [`sustain_hq_usace_proponent_name`](#sustain_hq_usace_proponent_name)
+  - [`sustain_hq_usace_proponent_email`](#sustain_hq_usace_proponent_email)
+  - [`sustain_erdc_liaison_name`](#sustain_erdc_liaison_name)
+  - [`sustain_erdc_liaison_email`](#sustain_erdc_liaison_email)
 
 # General Keys
 
@@ -39,59 +39,224 @@ The following keys are to be used by all page types, some are required and some 
 
 ## `file_library_root_path`
 
+Note: This should only be changed by developers
+
+Purpose:
+
+Examples:
+
+```
+file_library_root_path: "content/cos/lrl/jc/Library/"
+```
+
 ## `slug`
+
+Note: This should only be changed by developers
+
+Examples:
+
+```
+slug: /cos/lrl/jc/
+```
 
 ## `carousel_images`
 
+Requirements:
+
+Examples:
+
+```
+carousel_images:
+  - ./05-courtrm-facility-ft-bragg.jpg
+  - ./04-courtroom-usag-humphreys-korea.jpg
+  - ./01-bldg-21-renovation-ft-bliss-tx.jpg
+```
+
 ## `related_links`
+
+Examples:
+
+```
+related_links:
+  - caption: "Louisville District"
+    url: "http://www.lrl.usace.army.mil/"
+  - caption: "Another Link"
+    url: "www.anotherlink.com"
+```
 
 ## `page_last_reviewed`
 
+Examples:
+
+```
+page_last_reviewed: 1 January 1970
+```
+
 # COS Page Keys
 
-The following keys are used for Center of Standardization pages (SWF, POH, ...). These are all required
+The following keys are used for Center of Standardization pages (SWF, POH, ...). These are all required for COS pages.
 
 ## `cos_manager_name`
 
+Examples:
+
+```
+cos_manager_name: "Derek (Drew) Henry"
+```
+
 ## `cos_manager_email`
+
+Examples:
+
+```
+cos_manager_email: "derek.a.henry@usace.army.mil"
+```
 
 ## `cos_long_name`
 
+Examples:
+
+```
+cos_long_name: "Louisville"
+```
+
 ## `cos_short_name`
+
+Examples:
+
+```
+cos_short_name: "LRL"
+```
 
 # Facility Page Keys
 
+The following keys are used for COS Facility pages (Senior Leaders Quarters, Army Community Service Center, ...). These are all required for Facility pages.
+
 ## `facility_long_name`
+
+Examples:
+
+```
+facility_long_name: Judicial Center with Courtroom
+```
 
 ## `facility_short_name`
 
+Examples:
+
+```
+facility_short_name: JC
+```
+
 ## `facility_technical_poc_name`
+
+Examples:
+
+```
+facility_technical_poc_name: Derek (Drew) Henry
+```
 
 ## `facility_technical_poc_email`
 
+Examples:
+
+```
+facility_technical_poc_email: derek.a.henry@usace.army.mil
+```
+
 ## `facility_cos_short_name`
+
+Examples:
+
+```
+facility_cos_short_name: LRL
+```
 
 ## `facility_functional_proponent`
 
+Examples:
+
+```
+facility_functional_proponent: HQDA OTJAG
+```
+
 ## `facility_category_codes`
 
-# CX/KR Keys
+Examples:
 
-## `cx_msc_program_manager_name`
+```
+facility_category_codes:
+  - "61075"
+  - "12345"
+```
 
-## `cx_msc_program_manager_email`
+# Sustain CX/KR Keys
 
-## `cx_msc_technical_lead_name`
+The following keys are used for Centers of Expertise and Knowledge Resource pages on the sustainability portion of the website. These are all required for CX/KR Pages.
 
-## `cx_msc_technical_lead_email`
+## `sustain_msc_program_manager_name`
 
-## `cx_hq_usace_proponent_name`
+Examples:
 
-## `cx_hq_usace_proponent_email`
+```
+sustain_msc_program_manager_name: Brandon Martin
+```
 
-## `cx_erdc_liaison_name`
+## `sustain_msc_program_manager_email`
 
-## `cx_erdc_liaison_email`
+Examples:
+
+```
+sustain_msc_program_manager_email: Brandon.T.Martin@usace.army.mil
+```
+
+## `sustain_msc_technical_lead_name`
+
+Examples:
+
+```
+sustain_msc_technical_lead_name: Mary Foutz
+```
+
+## `sustain_msc_technical_lead_email`
+
+Examples:
+
+```
+sustain_msc_technical_lead_email: Mary.P.Foutz@usace.army.mil
+```
+
+## `sustain_hq_usace_proponent_name`
+
+Examples:
+
+```
+sustain_hq_usace_proponent_name: Tim Gordon
+```
+
+## `sustain_hq_usace_proponent_email`
+
+Examples:
+
+```
+sustain_hq_usace_proponent_email: Timothy.D.Gordon@usace.army.mil
+```
+
+## `sustain_erdc_liaison_name`
+
+Examples:
+
+```
+sustain_erdc_liaison_name: Dale Herron
+```
+
+## `sustain_erdc_liaison_email`
+
+Examples:
+
+```
+sustain_erdc_liaison_email: Dale.L.Herron@usace.army.mil
+```
 
 #### Frontmatter Keys
 
