@@ -20,7 +20,7 @@ slug: /cos/swf/gpw/
 ---
 
 ## Description
-
+This is a test on Github
 GPW facilities provide storage capabilities, warehouse operations space and administration space used to support logistics and base operations.Functional spaces generally include bulk storage area, shipping, receiving, administrative offices, and a customer service area.The facilities support outside storage for bulk material as deemed necessary by the Army Unit occupying the building.The functional spaces have been optimized to facilitate modern material handling and logistics operations.Corridor spaces between racks are required for the movement of fork lift trucks and other material handling equipment.
 
 ## Variations
