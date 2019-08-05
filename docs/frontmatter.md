@@ -10,6 +10,7 @@ This document outlines the frontmatter keys used in the markdown files
   - [`carousel_images`](#carousel_images)
   - [`related_links`](#related_links)
   - [`page_last_reviewed`](#page_last_reviewed)
+  - [`doc_type`](#doc_type)
 - [COS Page Keys](#cos-page-keys)
   - [`cos_manager_name`](#cos_manager_name)
   - [`cos_manager_email`](#cos_manager_email)
@@ -23,7 +24,7 @@ This document outlines the frontmatter keys used in the markdown files
   - [`facility_cos_short_name`](#facility_cos_short_name)
   - [`facility_functional_proponent`](#facility_functional_proponent)
   - [`facility_category_codes`](#facility_category_codes)
-- [Sustain CX/KR Keys](#Sustain-CX/KR-Keys)
+- [Sustain CX-KR Keys](#Sustain-CX-KR-Keys)
   - [`sustain_msc_program_manager_name`](#sustain_msc_program_manager_name)
   - [`sustain_msc_program_manager_email`](#sustain_msc_program_manager_email)
   - [`sustain_msc_technical_lead_name`](#sustain_msc_technical_lead_name)
@@ -90,6 +91,26 @@ Examples:
 
 ```
 page_last_reviewed: 1 January 1970
+```
+
+## `doc_type`
+
+Requirements:
+
+The value must be one of the following:
+
+- `generic_page`
+- `cos_page`
+- `facility_page`
+- `sustain_cx_page`
+- ``
+- ``
+- ``
+
+Examples:
+
+```
+doc_type: facility_page
 ```
 
 # COS Page Keys
@@ -190,7 +211,7 @@ facility_category_codes:
   - "12345"
 ```
 
-# Sustain CX/KR Keys
+# Sustain CX-KR Keys
 
 The following keys are used for Centers of Expertise and Knowledge Resource pages on the sustainability portion of the website. These are all required for CX/KR Pages.
 
