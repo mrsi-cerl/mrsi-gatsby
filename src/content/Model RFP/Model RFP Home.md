@@ -17,3 +17,22 @@ Model RFP Benefits:
 The Model RFP is generated using a web-based application called a Wizard.
 
 The Wizards provide standardization while letting users define project and facility specific Scopes of Work (SOW).
+
+<div style="width: 100%">
+    <div style="width: 30%; display: inline-block">
+        <a href="https://rfpwizard.mrsi.erdc.dren.mil/wizards/mbpw/Client/MTApp.application?v=1001">
+            <h4>MILCON D-B Wizard</h4>
+            <div style="width: 128px">
+            <img src="./mbp-wizard-256x256.png"/>
+            </div>
+        </a>
+    </div>
+    <div style="width: 30%; display: inline-block">
+        <a href="https://rfpwizard.mrsi.erdc.dren.mil/wizards/srmw/Client/CirceApp.application?v=1001">
+            <h4>Small Projects Wizard</h4>
+            <div style="width: 128px">
+            <img src="./srm-wizard-256x256.png"/>
+            </div>
+        </a>
+    </div>
+</div>
