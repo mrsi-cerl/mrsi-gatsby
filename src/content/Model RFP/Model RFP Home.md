@@ -22,7 +22,7 @@ The Wizards provide standardization while letting users define project and facil
     <div style="width: 30%; display: inline-block">
         <a href="https://rfpwizard.mrsi.erdc.dren.mil/wizards/mbpw/Client/MTApp.application?v=1001">
             <h4>MILCON D-B Wizard</h4>
-            <div style="width: 128px">
+            <div style="width: 128px; display: inline-block">
             <img src="./mbp-wizard-256x256.png"/>
             </div>
         </a>
@@ -30,7 +30,7 @@ The Wizards provide standardization while letting users define project and facil
     <div style="width: 30%; display: inline-block">
         <a href="https://rfpwizard.mrsi.erdc.dren.mil/wizards/srmw/Client/CirceApp.application?v=1001">
             <h4>Small Projects Wizard</h4>
-            <div style="width: 128px">
+            <div style="width: 128px; display: inline-block">
             <img src="./srm-wizard-256x256.png"/>
             </div>
         </a>
