@@ -56,7 +56,7 @@ To edit a COS Center page you just need to edit the corresponding markdown file 
 
 See these documents for more info editing:
 
-- [How to edit carousel images](./Updated-Content-How-Tos/Edit-Carousel-Images.md)
+- [**How to edit carousel images**](./Updated-Content-How-Tos/Edit-Carousel-Images.md)
 
 ### Edit/Add COS Facility Page
 

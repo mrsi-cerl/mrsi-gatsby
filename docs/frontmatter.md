@@ -103,6 +103,9 @@ The value must be one of the following:
 - `cos_page`
 - `facility_page`
 - `sustain_cx_page`
+- `sustain_kr_page`
+- `sustain_webinar`
+- ``
 - ``
 - ``
 - ``
