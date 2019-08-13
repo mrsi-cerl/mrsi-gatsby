@@ -62,6 +62,8 @@ slug: /cos/lrl/jc/
 
 ## `carousel_images`
 
+Description:
+
 Requirements:
 
 Examples:
