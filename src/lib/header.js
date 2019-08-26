@@ -37,14 +37,30 @@ const Header = ({ className, children, ...props }) => {
       role="banner"
       ref={ref}
     >
-      <div className="usa-navbar">
-        <div className="usa-logo" id="logo">
+      <div className="usa-navbar" style={{ width: "100%" }}>
+        <div
+          className="usa-logo"
+          id="logo"
+          style={{ display: "inline-block", width: 100 }}
+        >
           <em className="usa-logo__text">
             <Link to="/" title="Home" aria-label="Home">
               <img src={mrsiLogo} />
               {/* {props.title} */}
             </Link>
           </em>
+        </div>
+        <div
+          className="mrsi-text"
+          style={{
+            color: "white",
+            marginLeft: 50,
+            width: 300,
+            fontSize: "16pt",
+            display: "inline-block",
+          }}
+        >
+          MILCON Requirements, Standardization, and Integration
         </div>
         <button className="usa-menu-btn">Menu</button>
       </div>

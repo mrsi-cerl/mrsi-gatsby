@@ -1,35 +1,35 @@
 # I want to...
 
 - **COS**
-  - [Edit a COS Center Page]()
+  - [Edit a COS Center Page](#Edit-A-Page)
   - [Add a COS Center Page]()
-  - [Edit a COS Facility Page]()
+  - [Edit a COS Facility Page](#Edit-A-Page)
   - [Add a COS Facility Page]()
-  - [Edit the "About COS" Page]()
+  - [Edit the "About COS" Page](#Edit-A-Page)
   - [Edit/Add to Army Standards, Standard Designs, or Points of Contact pages]()
   - [Add a generic page to COS]()
 - **CRST**
-  - [Edit About CRST Page]()
-  - [Edit Subject Matter Experts Page]()
+  - [Edit About CRST Page](#Edit-A-Page)
+  - [Edit Subject Matter Experts Page](#Edit-A-Page)
   - [Add a generic page to CRST]()
 - **Model RFP**
-  - [Edit Any of the Model RFP Pages]()
+  - [Edit Any of the Model RFP Pages](#Edit-A-Page)
   - [Add a generic page to Model RFP]()
 - **PDRS**
-  - [Edit the PDRS Page]()
+  - [Edit the PDRS Page](#Edit-A-Page)
   - [Add a generic page to PDRS]()
 - **Sustain**
-  - [Edit the About Sustain Page]()
-  - [Edit a CX/KR Page]()
+  - [Edit the About Sustain Page](#Edit-A-Page)
+  - [Edit a CX/KR Page](#Edit-A-Page)
   - [Add a CX/KR Page]()
-  - [Edit a Event]()
+  - [Edit a Event](#Edit-A-Page)
   - [Add an Event]()
-  - [Edit to News Page]()
+  - [Edit a News Page](#Edit-A-Page)
   - [Add to News Page]()
-  - [Edit to Webinars Page]()
+  - [Edit a Webinars Page](#Edit-A-Page)
   - [Add to Webinars Page]()
-  - [Edit to TIA Page]()
-  - [Edit/Add to TIA Page]()
+  - [Edit the TIA Page]()
+  - [Add to TIA Page]()
   - [Edit Points of Contact page]()
   - [Add a generic page to Sustain]()
 
@@ -52,7 +52,7 @@ Adding a page into the content folder will automatically add a link in the side 
 
 ### Edit COS Facility Page
 
-See these documents for more info editing:
+Find the asscoiated markdown file in the content folder then see these documents for more info editing specifics:
 
 - [How to edit Carousel Images](./edit-carousel-images.md)
 - [How to edit File Library](./edit-file-library.md)
@@ -108,3 +108,16 @@ You can edit the markdown file found **insert link**
 ### Edit Points of Contact page
 
 ### Add a generic page
+
+
+
+
+
+### Edit A Page
+
+Find the asscoiated markdown file in the content folder then see these documents for more info editing specifics:
+
+- [How to edit Carousel Images](./edit-carousel-images.md)
+- [How to edit File Library](./edit-file-library.md)
+- [How to edit Markdown Body Content](./edit-body-markdown.md)
+- [How to edit POC Info](./edit-poc-info.md)
