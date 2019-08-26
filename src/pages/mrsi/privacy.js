@@ -5,12 +5,12 @@ export default () => (
   <Layout path={"/mrsi/privacy"} hideSideNav centerContent MaxWidth={700}>
     <h1>Privacy Policy</h1>
     <div class="container">
-      <div>
+      <p>
         Information available at MRSI.ERDC.DREN.MIL is consistent with USACE,
         Army, and DoD policies and The Principles of Information and contains
         information cleared for public release.
         <a href="http://www.us.army.mil/"> </a>
-      </div>
+      </p>
       <ul>
         <li>
           <a href="https://www.esd.whs.mil/RIM/" target="_blank">
@@ -29,17 +29,17 @@ export default () => (
           </a>
         </li>
       </ul>
-      <div>
+      <p>
         This site is provided as a public service by Military Construction
         Requirements and Standardization Integration team as part of the U.S.
         Army Corps of Engineers (USACE).
-      </div>
-      <div>
+      </p>
+      <p>
         Information presented on this site is considered public information and
         may be distributed or copied unless otherwise specified. Use of
         appropriate byline/photo/image credits is requested.
-      </div>
-      <div>
+      </p>
+      <p>
         The use of copyrighted material by the Army is subject to U.S. copyright
         law as reflected in Army regulations. It is Army policy to recognize and
         respect the rights of copyright owners.&nbsp;More information on the
@@ -52,39 +52,39 @@ export default () => (
           copyrighted materials
         </a>
         .
-      </div>
-      <div>
+      </p>
+      <p>
         For site management, information is collected for statistical purposes
         only. This government computer system uses software programs to create
         summary statistics, which are used for such purposes as assessing what
         information is of most and least interest, determining technical design
         specifications, and identifying system performance or problem areas.
-      </div>
-      <div>
+      </p>
+      <p>
         For site security purposes and to ensure that this service remains
         available to all users, this government computer system employs software
         programs to monitor network traffic to identify unauthorized attempts to
         upload or change information, or otherwise cause damage.
-      </div>
-      <div>
+      </p>
+      <p>
         Except for authorized law enforcement investigations, no other attempts
         are made to identify individual users or their usage habits. Raw data
         logs are used for no other purposes and are scheduled for regular
         destruction in accordance with National Archives and Records
         Administration guidelines.
-      </div>
-      <div>
+      </p>
+      <p>
         Unauthorized attempts to upload information or change information on
         this service are strictly prohibited and may be punishable under the
         Computer Fraud and Abuse Act of 1986 and the National Information
         Infrastructure Protection Act.
-      </div>
-      <div>
+      </p>
+      <p>
         If you have any questions or comments about the information presented
         here, please forward them to us using the <em>Contact MRSI</em> link in
         the header navigation.
-      </div>
-      <div>
+      </p>
+      <p>
         <span class="bold">
           <strong>Cookie Disclaimer</strong>
         </span>{" "}
@@ -98,8 +98,8 @@ export default () => (
         repeatedly and clicking on the banners may not take you to the correct
         link. Refer to the help information in your browser software for
         instructions on how to disable cookies.
-      </div>
-      <div>
+      </p>
+      <p>
         <span class="bold">
           <strong>External Links Disclaimer</strong>
         </span>{" "}
@@ -107,7 +107,7 @@ export default () => (
         endorsement of the linked web site or the information, products or
         services contained therein. Such links are provided consistent with the
         stated purpose of this DoD web site.
-      </div>
+      </p>
     </div>
   </Layout>
 )
