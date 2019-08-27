@@ -6,9 +6,9 @@ import { Link } from "gatsby"
 
 const Footer = () => (
   <div className="usa-footer__primary-section">
-    <div className="grid-container">
+    <div>
       <div className="grid-row grid-gap">
-        <div className="tablet:grid-col-4">
+        <div className="">
           <a href="http://www.usace.army.mil/">
             <img style={{ width: "100px", margin: 10 }} src={usaceLogo} />
           </a>
