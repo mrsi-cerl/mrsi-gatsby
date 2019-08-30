@@ -5,7 +5,7 @@ slug: /model-rfp/small-projects/
 ---
 
 <div style="width: 128px; display: inline-block">
-    <img src="./srm-wizard-256x256.png"/>
+    <a href="https://rfpwizard.mrsi.erdc.dren.mil/wizards/srmw/Client/CirceApp.application?v=1001"><img src="./srm-wizard-256x256.png"/></a>
 </div>
 
 [Click me to start the Wizard](https://rfpwizard.mrsi.erdc.dren.mil/wizards/srmw/Client/CirceApp.application?v=1001)

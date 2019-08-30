@@ -5,7 +5,7 @@ slug: /model-rfp/milcon
 ---
 
 <div style="width: 128px; display: inline-block">
-    <img src="./mbp-wizard-256x256.png"/>
+    <a href="https://rfpwizard.mrsi.erdc.dren.mil/wizards/mbpw/Client/MTApp.application?v=1001"><img src="./mbp-wizard-256x256.png"/></a>
 </div>
 
 [Click me to start the Wizard](https://rfpwizard.mrsi.erdc.dren.mil/wizards/mbpw/Client/MTApp.application?v=1001)
