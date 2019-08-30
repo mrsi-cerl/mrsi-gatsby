@@ -14,24 +14,38 @@ const TopNav = ({ path }) => {
   return (
     <nav className={cx(styles.nav, "site-nav-secondary")}>
       <ul>
-        <li className={cx("usa-nav__submenu-item", { [styles.current]: cos })}>
+        <li
+          className={cx(styles.item, "usa-nav__submenu-item", {
+            [styles.current]: cos,
+          })}
+        >
           <Link to="/cos">COS</Link>
         </li>
-        <li className={cx("usa-nav__submenu-item", { [styles.current]: crst })}>
+        <li
+          className={cx(styles.item, "usa-nav__submenu-item", {
+            [styles.current]: crst,
+          })}
+        >
           <Link to="/crst">CRST</Link>
         </li>
         <li
-          className={cx("usa-nav__submenu-item", {
+          className={cx(styles.item, "usa-nav__submenu-item", {
             [styles.current]: modelrfp,
           })}
         >
           <Link to="/model-rfp">Model RFP</Link>
         </li>
-        <li className={cx("usa-nav__submenu-item", { [styles.current]: pdrs })}>
+        <li
+          className={cx(styles.item, "usa-nav__submenu-item", {
+            [styles.current]: pdrs,
+          })}
+        >
           <Link to="/pdrs">PDRS</Link>
         </li>
         <li
-          className={cx("usa-nav__submenu-item", { [styles.current]: sustain })}
+          className={cx(styles.item, "usa-nav__submenu-item", {
+            [styles.current]: sustain,
+          })}
         >
           <Link to="/sustain">Sustain</Link>
         </li>

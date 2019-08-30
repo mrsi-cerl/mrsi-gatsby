@@ -1,0 +1,29 @@
+.banner {
+  background-color: #252f3e;
+  color: white;
+  padding: 20px;
+}
+
+.logo {
+  display: inline-block;
+  height: 50px;
+}
+.title {
+  display: inline-block;
+  margin-left: 5px;
+}
+.menu {
+  display: none;
+}
+
+@media (max-width: 525px) {
+  .banner {
+    padding: 5px;
+  }
+  .logo {
+    height: 30px;
+  }
+  .title {
+    display: none;
+  }
+}

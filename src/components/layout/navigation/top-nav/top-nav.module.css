@@ -2,7 +2,7 @@
   display: none;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 30em) {
   .nav {
     background-color: #fff;
     border-bottom: 2px solid rgba(0, 0, 0, 0.1);
@@ -73,4 +73,8 @@
   left: 1rem;
   right: 1rem;
   bottom: 0;
+}
+
+.item {
+  border-top: none;
 }
