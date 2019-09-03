@@ -147,7 +147,7 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                       {getFileIcon(e.Key)}
                       <a
                         href={
-                          "https://cg-d19603a8-407d-46f0-a631-c1499a028c87.s3-us-gov-west-1.amazonaws.com/" +
+                          "https://cg-3e09bddd-3b7f-4f79-95bd-23d93c01f9ef.s3-us-gov-west-1.amazonaws.com/" +
                           e.Key
                         }
                         target="_blank"
