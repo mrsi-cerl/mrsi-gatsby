@@ -14,6 +14,7 @@ s3 = new AWS.S3({ apiVersion: "2006-03-01" })
 var allKeys = []
 
 // function to get all keys from bucket
+
 function listAllKeys(token, cb) {
   var opts = { Bucket: config.bucket }
   if (token) opts.ContinuationToken = token
