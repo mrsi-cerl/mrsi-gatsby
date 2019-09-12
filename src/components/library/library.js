@@ -141,7 +141,7 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                     <td>
                       <Moment
                         date={e.LastModified}
-                        format="MM/DD/YYYY"
+                        format="M/D/YYYY"
                         withTitle
                         titleFormat="DD MMMM YYYY"
                       />
@@ -168,7 +168,7 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                     <td>
                       <Moment
                         date={e.LastModified}
-                        format="MM/DD/YYYY"
+                        format="M/D/YYYY"
                         withTitle
                         titleFormat="DD MMMM YYYY"
                       />
