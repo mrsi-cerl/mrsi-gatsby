@@ -15,6 +15,7 @@ import {
 } from "@fortawesome/free-regular-svg-icons"
 import styles from "./library.module.css"
 import cx from "classnames"
+import Moment from "react-moment"
 
 const fileTypeIcons = {
   pdf: <FontAwesomeIcon icon={faFilePdf} />,
@@ -56,13 +57,6 @@ const getBreadcrumbs = (rootDir, dir) => {
 
   console.log(crumbs)
   return crumbs
-}
-
-const convertTime = time => {
-  var date = time.split("T")[0]
-  var clock = time.split("T")[1]
-
-  return date + " " + clock.split(":")[0] + ":" + clock.split(":")[1]
 }
 
 const Library = ({ rootDir, hideBC, hideTitle }) => {
@@ -144,7 +138,14 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                       </span>
                     </td>
                     <td />
-                    <td>{e.LastModified}</td>
+                    <td>
+                      <Moment
+                        date={e.LastModified}
+                        format="MM/DD/YYYY"
+                        withTitle
+                        titleFormat="DD MMMM YYYY"
+                      />
+                    </td>
                   </tr>
                 )
               } else {
@@ -164,7 +165,14 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                       </a>
                     </td>
                     <td>{e.readableSize}</td>
-                    <td>{convertTime(e.LastModified)}</td>
+                    <td>
+                      <Moment
+                        date={e.LastModified}
+                        format="MM/DD/YYYY"
+                        withTitle
+                        titleFormat="DD MMMM YYYY"
+                      />
+                    </td>
                   </tr>
                 )
               }
