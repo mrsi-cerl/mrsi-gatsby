@@ -58,6 +58,13 @@ const getBreadcrumbs = (rootDir, dir) => {
   return crumbs
 }
 
+const convertTime = time => {
+  var date = time.split("T")[0]
+  var clock = time.split("T")[1]
+
+  return date + " " + clock.split(":")[0] + ":" + clock.split(":")[1]
+}
+
 const Library = ({ rootDir, hideBC, hideTitle }) => {
   const [dir, setDir] = useState(rootDir)
   const data = useStaticQuery(graphql`
@@ -157,7 +164,7 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                       </a>
                     </td>
                     <td>{e.readableSize}</td>
-                    <td>{e.LastModified}</td>
+                    <td>{convertTime(e.LastModified)}</td>
                   </tr>
                 )
               }
