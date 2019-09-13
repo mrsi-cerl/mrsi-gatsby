@@ -1,3 +1,37 @@
-.footerLinks {
-  padding: 1rem;
+.mrsiFooter {
+  display: flex;
+  margin: auto;
+  padding: 5px 0;
+  font-size: 90%;
+  text-transform: uppercase;
+  width: 100%;
+}
+
+.mrsiFooter a:link, .mrsiFooter a:visited, .mrsiFooter a:active {
+  color: gray;
+  text-decoration: none;
+}
+
+.mrsiFooter a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+.mrsiFooter > p {
+  margin: auto;
+}
+
+.mrsiFooter ul {
+  display: flex;
+  list-style: none;
+}
+
+.mrsiFooter li:not(:first-child):before {
+  content: "|";
+  padding: 20px;
+}
+
+.footerUsace {
+  background-color: #444;
+  color: #fff;
 }

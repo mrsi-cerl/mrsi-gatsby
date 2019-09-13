@@ -6,57 +6,48 @@ import { Link } from "gatsby"
 
 const Footer = () => (
   <div className="usa-footer__primary-section">
-    <div>
-      <div className="grid-row grid-gap">
-        <div className="">
-          <a href="http://www.usace.army.mil/">
-            <img style={{ width: "100px", margin: 10 }} src={usaceLogo} />
+    <div className={cx(styles.mrsiFooter)}>
+      <p>
+        <ul>
+          <li>
+            <Link to={"/mrsi/about"}>About Us</Link>
+          </li>
+          <li>
+            <Link to={"/mrsi/privacy"}>Privacy Policy</Link>
+          </li>
+          <li>
+            <a href="http://www.usace.army.mil/">USACE</a>
+          </li>
+          <li>
+            <a href="https://www.usace.army.mil/FOIA.aspx">FOIA</a>
+          </li>
+          <li>
+            <a href="https://prhome.defense.gov/nofear">No Fear Act</a>
+          </li>
+          <li>
+            <a href="https://www.inscom.army.mil/isalute/">iSalute</a>
+          </li>
+        </ul>
+      </p>
+    </div>
+    <div className={cx("grid-row", styles.footerUsace)}>
+      <div className="grid-col-1">
+        <p>
+          <a href="https://www.usace.army.mil/">
+            <img
+              style={{ width: "40px", marginLeft: "20px" }}
+              src={usaceLogo}
+            />
           </a>
-        </div>
-        <div className={cx("tablet:grid-col-8", styles.footerLinks)}>
-          <nav className="usa-footer__nav">
-            <div className="grid-row grid-gap-4">
-              <div className="mobile-lg:grid-col-6 desktop:grid-col-3">
-                <section className="usa-footer__primary-content usa-footer__primary-content--collapsible">
-                  <ul className="usa-list usa-list--unstyled">
-                    <li className="usa-footer__secondary-link">
-                      <Link to={"/mrsi/about"}>About Us</Link>
-                    </li>
-                    <li className="usa-footer__secondary-link">
-                      <Link to={"/mrsi/privacy"}>Privacy Policy</Link>
-                    </li>
-                  </ul>
-                </section>
-              </div>
-              <div className="mobile-lg:grid-col-6 desktop:grid-col-3">
-                <section className="usa-footer__primary-content usa-footer__primary-content--collapsible">
-                  <ul className="usa-list usa-list--unstyled">
-                    <li className="usa-footer__secondary-link">
-                      <a href="http://www.usace.army.mil/">USACE</a>
-                    </li>
-                    <li className="usa-footer__secondary-link">
-                      <a href="https://www.usace.army.mil/FOIA.aspx">FOIA</a>
-                    </li>
-                  </ul>
-                </section>
-              </div>
-              <div className="mobile-lg:grid-col-6 desktop:grid-col-3">
-                <section className="usa-footer__primary-content usa-footer__primary-content--collapsible">
-                  <ul className="usa-list usa-list--unstyled">
-                    <li className="usa-footer__secondary-link">
-                      <a href="https://prhome.defense.gov/nofear">
-                        No Fear Act
-                      </a>
-                    </li>
-                    <li className="usa-footer__secondary-link">
-                      <a href="https://www.inscom.army.mil/isalute/">iSalute</a>
-                    </li>
-                  </ul>
-                </section>
-              </div>
-            </div>
-          </nav>
-        </div>
+        </p>
+      </div>
+      <div className="grid-col-10">
+        <p>
+          The mission of the U.S. Army Corps of Engineers is to deliver vital
+          public and military engineering services; partnering in peace and war
+          to strengthen our nation’s security, energize the economy and reduce
+          risks from disasters.
+        </p>
       </div>
     </div>
   </div>
