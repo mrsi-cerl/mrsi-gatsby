@@ -1,22 +1,31 @@
 import React from "react"
-import mrsiLogo from "../../../images/mrsi-white-logo.png"
+import mrsiLogo from "../../../images/mrsi-blue-logo.png"
 import hamMenu from "../../../images/ham-menu-icon.svg"
 import styles from "./mrsi-banner2.module.css"
 import { Link } from "gatsby"
 
 const MrsiBanner = () => {
-  console.log("test")
-
   return (
     <div className={styles.banner}>
-      <Link to="/">
-        <img className={styles.logo} src={mrsiLogo} />
-      </Link>
-      <div className={styles.title}>
-        MILCON Requirements, Standardization, and Integration
-      </div>
-      <div className={styles.menu}>
-        <img src={hamMenu} />
+      <div className="grid-container">
+        <div className="grid-col-auto">
+          <div className={styles.bannerLeft}>
+            <Link to="/">
+              <img className={styles.logo} src={mrsiLogo} alt="MRSI Umbrella Logo" />
+            </Link>
+          </div>
+          <div className={styles.bannerBody}>
+            <div className="font-sans-2xl">
+              Welcome to MRSI
+              <p className="font-sans-sm">
+                Dedicated to improving Military Construction throughout the Army
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className={styles.menu}>
+          <img src={hamMenu} />
+        </div>
       </div>
     </div>
   )

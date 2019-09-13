@@ -1,17 +1,27 @@
 .banner {
-  background-color: #252f3e;
-  color: white;
-  padding: 20px;
+  background-color: rgb(240, 240, 240);
+  color: black;
+  padding: 24px 0px;
+}
+
+.bannerLeft {
+  display: table-cell;
+  vertical-align: top;
+  padding-right: 10px;
+}
+
+.bannerBody {
+  display: table-cell;
+  vertical-align: top;
+  /* width: 10000px; */
 }
 
 .logo {
   display: inline-block;
-  height: 50px;
+  vertical-align: middle;
+  height: 80px;
 }
-.title {
-  display: inline-block;
-  margin-left: 5px;
-}
+
 .menu {
   display: none;
 }
@@ -23,7 +33,7 @@
   .logo {
     height: 30px;
   }
-  .title {
+  .bannerBody {
     display: none;
   }
 }

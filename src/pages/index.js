@@ -26,24 +26,13 @@ const IndexPage = () => (
           backgroundSize: "cover",
           height: 400,
         }}
-      >
-        <div
-          className="maxw-mobile-lg"
-          style={{
-            backgroundColor: "rgba(252, 252, 252, .95)",
-            padding: "1px 20px",
-            display: "inline-block",
-            borderRadius: "5px",
-            marginTop: "32px",
-          }}
-        >
-          <h1>Welcome to MRSI</h1>
-          <p>
-            This site consolidates useful MILCON information in order to provide
-            the facility community with the tools they need to build and
-            maintain the Army's facility infrastructure.
-          </p>
-        </div>
+      />
+    </section>
+    <section className="grid-container">
+      <div className="grid-row">
+        <p className="font-sans-lg">
+          The <em>MILCON Requirements, Standardization, and Integration</em>(MRSI) site presents Military Construction policy, regulations, standards, and designs in order to provide the facility community with the tools they need to build and maintain the Army's vast facility infrastructure.
+        </p>
       </div>
     </section>
     <section className="usa-section usa-graphic-list grid-container">
