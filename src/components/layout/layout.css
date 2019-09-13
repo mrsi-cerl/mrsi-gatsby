@@ -39,3 +39,21 @@
 iframe {
   width: 100%;
 }
+
+.mrsiOfficialAccordion {
+  background-color: #1b1b1b;
+}
+
+.mrsiOfficialHeader {
+  color: white;
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.mrsiOfficialAction {
+  color: #adadad;
+}
+
+.mrsiOfficialContent {
+  color: white;
+}

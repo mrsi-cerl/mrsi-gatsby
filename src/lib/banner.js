@@ -17,8 +17,8 @@ const propTypes = {
 const Banner = ({ className }) => {
   const render = ref => (
     <div className={cx("usa-banner", className)} ref={ref}>
-      <Accordion>
-        <header className="usa-banner__header">
+      <Accordion className="mrsiOfficialAccordion">
+        <header className="usa-banner__header mrsiOfficialHeader">
           <div className="usa-banner__inner">
             <div className="grid-col-auto">
               <img
@@ -39,13 +39,16 @@ const Banner = ({ className }) => {
               controls="gov-banner"
               className="usa-banner__button"
             >
-              <span className="usa-banner__button-text">
+              <span className="usa-banner__button-text mrsiOfficialAction">
                 Here's how you know
               </span>
             </AccordionButton>
           </div>
         </header>
-        <AccordionContent id="gov-banner" className="usa-banner__content">
+        <AccordionContent
+          id="gov-banner"
+          className="usa-banner__content mrsiOfficialContent"
+        >
           <div className="grid-row grid-gap-lg">
             <div className="usa-banner__guidance-gov tablet:grid-col-6">
               <img
