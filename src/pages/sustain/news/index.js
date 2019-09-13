@@ -25,7 +25,7 @@ const SustainNews = ({ data }) => {
           </AccordionButton>
           <AccordionContent id={`sustain-news-section-${idx}`}>
             <div
-              class={"md"}
+              className={"md"}
               dangerouslySetInnerHTML={{ __html: e.node.html }}
             />
           </AccordionContent>

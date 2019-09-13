@@ -60,15 +60,15 @@ export default ({ data, pageContext }) => {
     <Layout path={pageContext.slug} MaxWidth={700}>
       <h1>{pageData.frontmatter.title}</h1>
       <div className="grid-row">
-        <div class="tablet:grid-col">
+        <div className="tablet:grid-col">
           <Carousel imgs={pageData.frontmatter.carousel_images} />
         </div>
-        <div class="tablet:grid-col" style={{ paddingLeft: 10 }}>
+        <div className="tablet:grid-col" style={{ paddingLeft: 10 }}>
           <MrsiTable data={getTableData(pageData)} />
         </div>
       </div>
 
-      <div class={"md"} dangerouslySetInnerHTML={{ __html: pageData.html }} />
+      <div className={"md"} dangerouslySetInnerHTML={{ __html: pageData.html }} />
       <RelatedLinks related_links={pageData.frontmatter.related_links} />
       {lib_path !== null && lib_path !== "" ? (
         <Library rootDir={lib_path} />

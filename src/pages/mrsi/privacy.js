@@ -4,7 +4,7 @@ import Layout from "../../components/layout/layout"
 export default () => (
   <Layout path={"/mrsi/privacy"} hideSideNav centerContent MaxWidth={700}>
     <h1>Privacy Policy</h1>
-    <div class="container">
+    <div className="container">
       <p>
         Information available at MRSI.ERDC.DREN.MIL is consistent with USACE,
         Army, and DoD policies and The Principles of Information and contains
@@ -85,7 +85,7 @@ export default () => (
         the header navigation.
       </p>
       <p>
-        <span class="bold">
+        <span className="bold">
           <strong>Cookie Disclaimer</strong>
         </span>{" "}
         - The site does not use persistent cookies (persistent tokens that pass
@@ -100,7 +100,7 @@ export default () => (
         instructions on how to disable cookies.
       </p>
       <p>
-        <span class="bold">
+        <span className="bold">
           <strong>External Links Disclaimer</strong>
         </span>{" "}
         - The appearance of hyperlinks to external sites does not constitute

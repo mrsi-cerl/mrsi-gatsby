@@ -27,7 +27,7 @@ export default ({ data, pageContext }) => {
         videoId={pageData.frontmatter.sustain_webinar_youtube_video_id}
       />
 
-      <div class={"md"} dangerouslySetInnerHTML={{ __html: pageData.html }} />
+      <div className={"md"} dangerouslySetInnerHTML={{ __html: pageData.html }} />
     </Layout>
   )
 }

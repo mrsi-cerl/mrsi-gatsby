@@ -8,7 +8,7 @@ import sustainIcon from "../../images/sustain-icon.svg"
 
 export default () => (
   <Layout path={"/mrsi/contact"} hideSideNav centerContent MaxWidth={700}>
-    <div class="container">
+    <div className="container">
       <p>
         The MRSI Team is part of the Engineer Research and Development Center
         (ERDC), Construction Engineering Research Laboratory (CERL).

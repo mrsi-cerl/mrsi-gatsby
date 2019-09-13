@@ -112,7 +112,7 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
           </div>
         )}
         <table
-          class="usa-table usa-table--borderless"
+          className="usa-table usa-table--borderless"
           style={{ width: "100%" }}
         >
           <thead>

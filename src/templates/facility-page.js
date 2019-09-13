@@ -64,15 +64,15 @@ export default ({ data, pageContext }) => {
       <div style={{ paddingLeft: 20 }}>
         <h1>{facility.frontmatter.facility_long_name}</h1>
         <div className="grid-row">
-          <div class="tablet:grid-col">
+          <div className="tablet:grid-col">
             <Carousel imgs={facility.frontmatter.carousel_images} />
           </div>
-          <div class="tablet:grid-col" style={{ paddingLeft: 10 }}>
+          <div className="tablet:grid-col" style={{ paddingLeft: 10 }}>
             <MrsiTable data={tableData} />
           </div>
         </div>
 
-        <div class={"md"} dangerouslySetInnerHTML={{ __html: facility.html }} />
+        <div className={"md"} dangerouslySetInnerHTML={{ __html: facility.html }} />
         <Library rootDir={facility.frontmatter.file_library_root_path} />
       </div>
     </Layout>

@@ -6,10 +6,10 @@ const Alert = ({ message }) => {
   }
 
   return (
-    <div class="usa-alert usa-alert--info">
-      <div class="usa-alert__body">
-        <h3 class="usa-alert__heading">Announcement</h3>
-        <p class="usa-alert__text">{message}</p>
+    <div className="usa-alert usa-alert--info">
+      <div className="usa-alert__body">
+        <h3 className="usa-alert__heading">Announcement</h3>
+        <p className="usa-alert__text">{message}</p>
       </div>
     </div>
   )

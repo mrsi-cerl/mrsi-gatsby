@@ -32,7 +32,7 @@ const Layout = ({
         <>
           <Helmet title={title} />
           <SkipNav skipsTo={mainContent} />
-          <div class="usa-overlay" />
+          <div className="usa-overlay" />
           <div>
             <UsaBanner />
             <MrsiBanner />

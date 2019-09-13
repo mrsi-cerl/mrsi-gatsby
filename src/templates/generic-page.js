@@ -14,7 +14,7 @@ export default ({ data, pageContext }) => {
   return (
     <Layout path={pageContext.slug} MaxWidth={700}>
       <h1>{page.frontmatter.title}</h1>
-      <div class={"md"} dangerouslySetInnerHTML={{ __html: page.html }} />
+      <div className={"md"} dangerouslySetInnerHTML={{ __html: page.html }} />
       <RelatedLinks related_links={page.frontmatter.related_links} />
       {lib_path !== null && lib_path !== "" ? (
         <Library rootDir={lib_path} />

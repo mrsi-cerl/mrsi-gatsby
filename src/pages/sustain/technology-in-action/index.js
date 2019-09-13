@@ -119,7 +119,7 @@ const TechnologyInAction = ({ data }) => {
             </h1>
             <div
               style={{ padding: 10 }}
-              class={"md"}
+              className={"md"}
               dangerouslySetInnerHTML={{ __html: currTechData[0].node.html }}
             />
           </>

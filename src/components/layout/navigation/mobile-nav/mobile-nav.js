@@ -9,7 +9,7 @@ function createAcordianList(p, idx, currPath) {
   const openAccordian = p.children.find(e => e.slug == currPath)
   console.log(`side-nav-section-${p.caption}-${idx}`)
   return (
-    <li class="usa-sidenav__item">
+    <li className="usa-sidenav__item">
       <Accordion>
         <AccordionButton
           controls={`side-nav-section-${p.caption}-${idx}`}
@@ -31,11 +31,11 @@ function createAcordianList(p, idx, currPath) {
           className={styles.accordionContent}
           defaultHidden={!openAccordian}
         >
-          <ul class="usa-sidenav__sublist">
+          <ul className="usa-sidenav__sublist">
             {p.children.map((e, index) => {
               return (
                 <li
-                  class={cx("usa-sidenav__item", {
+                  className={cx("usa-sidenav__item", {
                     "usa-current": e.slug == currPath,
                   })}
                 >
@@ -64,7 +64,7 @@ function createNavList(pages, currPath) {
     } else {
       return (
         <li
-          class={cx("usa-sidenav__item", {
+          className={cx("usa-sidenav__item", {
             "usa-current": p.slug == currPath,
           })}
         >
@@ -119,7 +119,7 @@ function getMobileNav(pages, path) {
 const MobileNav = ({ pages, path }) => (
   <nav role="navigation" className={cx(styles.wrapper, "usa-nav")}>
     <button
-      class="usa-nav__close"
+      className="usa-nav__close"
       style={{
         backgroundImage: "url(" + closeIcon + ")",
         backgroundRepeat: "no-repeat",
@@ -130,9 +130,9 @@ const MobileNav = ({ pages, path }) => (
         width: "3rem",
       }}
     >
-      <span class="usa-sr-only">Close</span>
+      <span className="usa-sr-only">Close</span>
     </button>
-    <ul class="usa-sidenav usa-nav__primary">{getMobileNav(pages, path)}</ul>
+    <ul className="usa-sidenav usa-nav__primary">{getMobileNav(pages, path)}</ul>
   </nav>
 )
 
