@@ -12,7 +12,7 @@ export default ({ data, pageContext }) => {
   const lib_path = page.frontmatter.file_library_root_path
 
   return (
-    <Layout path={pageContext.slug} MaxWidth={700}>
+    <Layout path={pageContext.slug} MaxWidth={700} centerContent>
       <h1>{page.frontmatter.title}</h1>
       <div className={"md"} dangerouslySetInnerHTML={{ __html: page.html }} />
       <RelatedLinks related_links={page.frontmatter.related_links} />

@@ -28,7 +28,7 @@ export default ({ data, pageContext }) => {
   const lib_path = cos.frontmatter.file_library_root_path
   console.log(cos)
   return (
-    <Layout path={pageContext.slug}>
+    <Layout path={pageContext.slug} centerContent>
       <div style={{ maxWidth: 700 }}>
         <h1>{cos.frontmatter.cos_long_name}</h1>
         <p>

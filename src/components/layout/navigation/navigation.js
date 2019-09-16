@@ -5,7 +5,7 @@ import TopNav from "./top-nav/top-nav"
 import SideNav from "./side-nav/side-nav"
 import getPages from "./createPageIndex.js"
 
-const Navigation = ({ path, hideSideNav, sideNavStyle, children }) => {
+const Navigation = ({ path, hideSideNav, sideNavStyle, children, center }) => {
   const data = useStaticQuery(graphql`
     query {
       allMarkdownRemark {
@@ -42,11 +42,13 @@ const Navigation = ({ path, hideSideNav, sideNavStyle, children }) => {
 
   const pages = getPages(data, path)
 
+  const getStyle = () => (center ? { maxWidth: 1000, margin: "auto" } : {})
+
   return (
     <>
       <MobileNav pages={pages} path={path} />
       <TopNav path={path} />
-      <div className="default-container">
+      <div className="default-container" style={getStyle()}>
         {hideSideNav ? null : (
           <SideNav path={path} style={sideNavStyle} pages={pages} />
         )}
