@@ -60,7 +60,7 @@ export default ({ data, pageContext }) => {
   ]
 
   return (
-    <Layout path={pageContext.slug} MaxWidth={700}>
+    <Layout path={pageContext.slug} MaxWidth={700} centerContent>
       <div style={{ paddingLeft: 20 }}>
         <h1>{facility.frontmatter.facility_long_name}</h1>
         <div className="grid-row">
@@ -72,7 +72,10 @@ export default ({ data, pageContext }) => {
           </div>
         </div>
 
-        <div className={"md"} dangerouslySetInnerHTML={{ __html: facility.html }} />
+        <div
+          className={"md"}
+          dangerouslySetInnerHTML={{ __html: facility.html }}
+        />
         <Library rootDir={facility.frontmatter.file_library_root_path} />
       </div>
     </Layout>

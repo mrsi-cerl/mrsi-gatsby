@@ -16,7 +16,7 @@ const SustainNews = ({ data }) => {
   })
 
   return (
-    <Layout path="/sustain/news" MaxWidth={700}>
+    <Layout path="/sustain/news" MaxWidth={700} centerContent>
       <h1>Sustainability News</h1>
       {news.map((e, idx) => (
         <Accordion>

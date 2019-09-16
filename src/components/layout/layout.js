@@ -40,6 +40,7 @@ const Layout = ({
               path={path}
               hideSideNav={hideSideNav}
               sideNavStyle={styles.sideNav}
+              center={centerContent}
             >
               <main
                 id={mainContent}

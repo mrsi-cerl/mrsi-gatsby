@@ -25,7 +25,7 @@ const getTableData = data => {
 const SustainPOC = ({ data }) => {
   const tableData = getTableData(data)
   return (
-    <Layout path="/sustain/poc" MaxWidth={700}>
+    <Layout path="/sustain/poc" MaxWidth={700} centerContent>
       <h1>Centers of Expertise POC</h1>
       <table className="usa-table">
         <thead>

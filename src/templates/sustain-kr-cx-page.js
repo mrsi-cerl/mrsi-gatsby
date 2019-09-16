@@ -57,7 +57,7 @@ export default ({ data, pageContext }) => {
   const lib_path = pageData.frontmatter.file_library_root_path
   console.log(pageData)
   return (
-    <Layout path={pageContext.slug} MaxWidth={700}>
+    <Layout path={pageContext.slug} MaxWidth={700} centerContent>
       <h1>{pageData.frontmatter.title}</h1>
       <div className="grid-row">
         <div className="tablet:grid-col">
@@ -68,7 +68,10 @@ export default ({ data, pageContext }) => {
         </div>
       </div>
 
-      <div className={"md"} dangerouslySetInnerHTML={{ __html: pageData.html }} />
+      <div
+        className={"md"}
+        dangerouslySetInnerHTML={{ __html: pageData.html }}
+      />
       <RelatedLinks related_links={pageData.frontmatter.related_links} />
       {lib_path !== null && lib_path !== "" ? (
         <Library rootDir={lib_path} />

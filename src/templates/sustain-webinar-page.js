@@ -15,7 +15,7 @@ export default ({ data, pageContext }) => {
   }
 
   return (
-    <Layout path={pageContext.slug} MaxWidth={700}>
+    <Layout path={pageContext.slug} MaxWidth={700} centerContent>
       <Link to={"/sustain/webinars"}> ← Back to all Webinars</Link>
       <h1>{pageData.frontmatter.title}</h1>
       <p>{"Presented By " + pageData.frontmatter.sustain_webinar_presenter}</p>
@@ -27,7 +27,10 @@ export default ({ data, pageContext }) => {
         videoId={pageData.frontmatter.sustain_webinar_youtube_video_id}
       />
 
-      <div className={"md"} dangerouslySetInnerHTML={{ __html: pageData.html }} />
+      <div
+        className={"md"}
+        dangerouslySetInnerHTML={{ __html: pageData.html }}
+      />
     </Layout>
   )
 }
