@@ -47,7 +47,7 @@ const TopNav = ({ path }) => {
             [styles.current]: sustain,
           })}
         >
-          <Link to="/sustain">Sustain</Link>
+          <Link to="/sustain">Sustainability</Link>
         </li>
       </ul>
     </nav>

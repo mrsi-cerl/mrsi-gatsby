@@ -105,10 +105,10 @@ const IndexPage = () => (
             alt=""
           />
           <div className="usa-media-block__body">
-            <h3>Sustain</h3>
+            <h3>Sustainability</h3>
             <p>
-              The folks with Engineering and Construction Sustainability are
-              experts in sustainability. They are an active community with a
+              The Engineering and Construction Sustainability team is an
+              expert in sustainability. They are an active community with a
               passion for producing innovative and creative solutions for
               sustainable design and construction.
             </p>
