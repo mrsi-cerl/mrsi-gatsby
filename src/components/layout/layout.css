@@ -42,12 +42,12 @@ iframe {
 
 .mrsiOfficialAccordion {
   background-color: #1b1b1b;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
 }
 
 .mrsiOfficialHeader {
   color: white;
-  margin-top: 0.25rem;
-  margin-bottom: 0.25rem;
 }
 
 .mrsiOfficialAction {
