@@ -7,7 +7,7 @@ import { Link } from "gatsby"
 const Footer = () => (
   <div className="usa-footer__primary-section">
     <div className={cx(styles.mrsiFooter)}>
-      <p>
+      <span>
         <ul>
           <li>
             <Link to={"/mrsi/about"}>About Us</Link>
@@ -28,7 +28,7 @@ const Footer = () => (
             <a href="https://www.inscom.army.mil/isalute/">iSalute</a>
           </li>
         </ul>
-      </p>
+      </span>
     </div>
     <div className={cx("grid-row", styles.footerUsace)}>
       <div className="grid-col-1">
@@ -37,6 +37,7 @@ const Footer = () => (
             <img
               style={{ width: "40px", marginLeft: "20px" }}
               src={usaceLogo}
+              alt="USACE logo"
             />
           </a>
         </p>
