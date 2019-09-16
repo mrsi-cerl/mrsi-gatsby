@@ -6,9 +6,7 @@ import styles from "./mobile-nav.module.css"
 import { Accordion, AccordionButton, AccordionContent } from "uswds-react"
 
 function createAccordionList(p, idx, currPath) {
-  const openAccordian = p.children.find(e => e.slug === currPath)
-
-  // console.log(`side-nav-section-${p.caption}-${idx}`)
+  const openAccordian = p.children.find(e => e.slug === currPath) ? true : false
 
   return (
     <li className="usa-sidenav__item" key={p.caption}>

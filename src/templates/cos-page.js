@@ -26,7 +26,7 @@ function getData(slug, data) {
 export default ({ data, pageContext }) => {
   const { cos } = getData(pageContext.slug, data)
   const lib_path = cos.frontmatter.file_library_root_path
-  console.log(cos)
+  // console.log(cos)
   return (
     <Layout path={pageContext.slug} centerContent>
       <div style={{ maxWidth: 700 }}>

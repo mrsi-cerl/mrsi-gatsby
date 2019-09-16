@@ -5,15 +5,24 @@ import { Link } from "gatsby"
 const SustainWebinars = ({ data }) => {
   const webinars = data.allMarkdownRemark.edges.filter(
     edge => edge.node.frontmatter.doc_type === "sustain_webinar"
-  )
-  console.log(webinars)
+  ).sort(function(a, b) {
+    let titleA = a.node.frontmatter.title
+    let titleB = b.node.frontmatter.title
+    if (titleA < titleB) return -1;
+    if (titleA > titleB) return 1;
+    return 0;
+  })
+
+  // console.log(webinars)
+
   return (
     <Layout path="/sustain/webinars" MaxWidth={700} centerContent>
       <h1>Sustainability Webinars</h1>
       <ul>
         {webinars.map((e, idx) => (
-          <li>
+          <li key={idx}>
             <Link to={e.node.frontmatter.slug}>{e.node.frontmatter.title}</Link>
+            {" "} - Presented by {e.node.frontmatter.sustain_webinar_presenter}
           </li>
         ))}
       </ul>

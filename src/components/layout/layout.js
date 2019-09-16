@@ -21,7 +21,7 @@ const Layout = ({
   MaxWidth,
   centerContent,
 }) => {
-  console.log("layout ", path)
+  // console.log("layout ", path)
   return (
     <Location>
       {({ location }) => (

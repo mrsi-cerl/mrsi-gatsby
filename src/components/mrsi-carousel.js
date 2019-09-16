@@ -35,8 +35,8 @@ const Carousel = ({ imgs }) => {
         autoPlay
         width={"100%"}
       >
-        {imgs.map(e => (
-          <div
+        {imgs.map((e, idx) => (
+          <div key={idx}
             style={{
               backgroundImage: "url(" + e.publicURL + ")",
               width: "100%",

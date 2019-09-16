@@ -31,7 +31,7 @@ function getData(slug, data) {
 
 export default ({ data, pageContext }) => {
   const { facility, cos } = getData(pageContext.slug, data)
-  console.log(facility)
+  // console.log(facility)
   const tableData = [
     {
       title: "Functional Proponent:",

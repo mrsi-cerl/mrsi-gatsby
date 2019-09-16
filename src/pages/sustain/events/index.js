@@ -12,7 +12,7 @@ const SustainEvents = ({ data }) => {
     <Layout path="/sustain/events" MaxWidth={700} centerContent>
       <h1>Sustainability Events</h1>
       {news.map((e, idx) => (
-        <Accordion>
+        <Accordion key={idx}>
           <AccordionButton controls={`sustain-events-section-${idx}`}>
             {e.node.frontmatter.title}
           </AccordionButton>

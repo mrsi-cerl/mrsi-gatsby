@@ -55,7 +55,7 @@ const getTableData = data => {
 export default ({ data, pageContext }) => {
   const pageData = getCXInfo(data, pageContext.slug)
   const lib_path = pageData.frontmatter.file_library_root_path
-  console.log(pageData)
+  // console.log(pageData)
   return (
     <Layout path={pageContext.slug} MaxWidth={700} centerContent>
       <h1>{pageData.frontmatter.title}</h1>

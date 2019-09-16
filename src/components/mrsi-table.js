@@ -2,8 +2,8 @@ import React from "react"
 import Table from "react-bootstrap/Table"
 
 function MrsiTable(props) {
-  const tableRows = props.data.map(row => (
-    <tr>
+  const tableRows = props.data.map((row, idx) => (
+    <tr key={idx}>
       <td>
         <strong>{row.title}</strong>
       </td>

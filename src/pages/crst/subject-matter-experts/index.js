@@ -17,8 +17,8 @@ const crstSME = ({ data }) => {
           </tr>
         </thead>
         <tbody>
-          {tableData.map(e => (
-            <tr>
+          {tableData.map((e, idx) => (
+            <tr key={idx}>
               <td>{e.subject_matter}</td>
               <td>
                 <a href={"mailto:" + e.expert_email}>{e.expert_name}</a>

@@ -5,7 +5,8 @@ import styles from "./side-nav.module.css"
 import { Accordion, AccordionButton, AccordionContent } from "uswds-react"
 
 function createAcordianList(p, idx, currPath) {
-  const openAccordian = p.children.find(e => e.slug === currPath)
+  const openAccordian = p.children.find(e => e.slug === currPath) ? true : false
+
   return (
     <li className="usa-sidenav__item" key={p.slug}>
       <Accordion>
