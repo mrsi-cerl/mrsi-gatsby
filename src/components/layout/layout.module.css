@@ -5,6 +5,7 @@
 .main {
   width: 100%;
   padding: 5px;
+  min-height: 70vh;
 }
 
 @media (min-width: 64em) {
