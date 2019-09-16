@@ -1,11 +1,11 @@
-import React, { Component } from "react"
+import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../../../components/layout/layout"
 import { Accordion, AccordionButton, AccordionContent } from "uswds-react"
 
 const SustainNews = ({ data }) => {
   const news = data.allMarkdownRemark.edges.filter(
-    e => e.node.frontmatter.doc_type == "sustain_news"
+    e => e.node.frontmatter.doc_type === "sustain_news"
   )
   news.sort((a, b) => {
     if (a.node.frontmatter.date_published < b.node.frontmatter.date_published) {

@@ -13,12 +13,20 @@ export default () => (
       </p>
       <ul>
         <li>
-          <a href="https://www.esd.whs.mil/RIM/" target="_blank">
+          <a
+            href="https://www.esd.whs.mil/RIM/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Army web site Management Policy (doc)
           </a>
         </li>
         <li>
-          <a href="https://www.esd.whs.mil/ODP/" target="_blank">
+          <a
+            href="https://www.esd.whs.mil/ODP/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Army Records Management Declassificiation Agency (Privacy Act, FOIA,
             etc.)
           </a>
@@ -48,6 +56,7 @@ export default () => (
           href="https://www.army.mil/terms/"
           target="_blank"
           title="Army Terms of Use"
+          rel="noopener noreferrer"
         >
           copyrighted materials
         </a>

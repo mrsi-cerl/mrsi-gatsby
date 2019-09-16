@@ -24,7 +24,7 @@ function getData(slug, data) {
 }
 
 export default ({ data, pageContext }) => {
-  const { facilities, cos } = getData(pageContext.slug, data)
+  const { cos } = getData(pageContext.slug, data)
   const lib_path = cos.frontmatter.file_library_root_path
   console.log(cos)
   return (

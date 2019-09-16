@@ -1,5 +1,4 @@
 import React from "react"
-import { Link } from "gatsby"
 import Layout from "../../../components/layout/layout"
 
 const crstSME = ({ data }) => {
@@ -7,7 +6,6 @@ const crstSME = ({ data }) => {
     e => e.node.frontmatter.doc_type === "crst_subject_matter_experts"
   )[0].node.frontmatter.subject_matter_experts
 
-  const data2 = []
   return (
     <Layout path="/crst/subject-matter-experts" MaxWidth={700} centerContent>
       <h1>Subject Matter Experts</h1>

@@ -3,15 +3,15 @@ import "react-responsive-carousel/lib/styles/carousel.min.css"
 import { Carousel as CA } from "react-responsive-carousel"
 
 const Carousel = ({ imgs }) => {
-  const imgStyle = {
-    maxWidth: "100%",
-    minWidth: "100%",
-    maxHeight: 500,
-  }
+  // const imgStyle = {
+  //   maxWidth: "100%",
+  //   minWidth: "100%",
+  //   maxHeight: 500,
+  // }
   if (!imgs) {
     return null
   }
-  if (imgs.length == 1) {
+  if (imgs.length === 1) {
     //console.log(imgs[0].publicURL)
     return (
       <div

@@ -13,7 +13,7 @@ const defaultProps = {
   defaultExpanded: false,
 }
 
-const onHover = () => {}
+// const onHover = () => {}
 
 const AccordionButton = ({
   className,

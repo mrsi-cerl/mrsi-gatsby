@@ -9,10 +9,10 @@ export default ({ data, pageContext }) => {
   )[0].node
   console.log(pageData)
 
-  const opts = {
-    height: "390",
-    width: "640",
-  }
+  // const opts = {
+  //   height: "390",
+  //   width: "640",
+  // }
 
   return (
     <Layout path={pageContext.slug} MaxWidth={700} centerContent>

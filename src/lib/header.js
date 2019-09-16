@@ -45,7 +45,7 @@ const Header = ({ className, children, ...props }) => {
         >
           <em className="usa-logo__text">
             <Link to="/" title="Home" aria-label="Home">
-              <img src={mrsiLogo} />
+              <img src={mrsiLogo} alt="" />
               {/* {props.title} */}
             </Link>
           </em>

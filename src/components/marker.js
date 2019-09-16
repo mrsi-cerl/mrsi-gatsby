@@ -1,4 +1,4 @@
-import React, { useState } from "react"
+import React from "react"
 import rainwaterMarker from "../images/markers/rainwater.png"
 import changeMarker from "../images/markers/change.png"
 const Marker = ({ tiaData, onclick, $hover, listHover }) => {
@@ -8,6 +8,7 @@ const Marker = ({ tiaData, onclick, $hover, listHover }) => {
         <img
           style={{ zIndex: listHover ? 9999999 : -9 }}
           src={listHover ? changeMarker : rainwaterMarker}
+          alt=""
         />
       ) : null}
       {$hover ? (

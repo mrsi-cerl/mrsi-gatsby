@@ -13,10 +13,6 @@ import Alert from "./alert.js"
 
 const mainContent = "main-content"
 
-const propTypes = {
-  path: PropTypes.string.isRequired,
-}
-
 const Layout = ({
   title,
   children,
@@ -66,6 +62,10 @@ const Layout = ({
       )}
     </Location>
   )
+}
+
+Layout.propTypes = {
+  path: PropTypes.string.isRequired,
 }
 
 Layout.defaultProps = {

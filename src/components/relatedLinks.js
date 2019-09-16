@@ -8,8 +8,8 @@ const RelatedLinks = ({ related_links }) => {
     <>
       <h2>Related Links</h2>
       <ul>
-        {related_links.map(e => (
-          <li>
+        {related_links.map((e, idx) => (
+          <li key={idx}>
             <a href={e.url}>{e.caption}</a>
           </li>
         ))}

@@ -1,4 +1,4 @@
-import React, { Component } from "react"
+import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../../../components/layout/layout"
 import { Accordion, AccordionButton, AccordionContent } from "uswds-react"
@@ -6,7 +6,7 @@ import Library from "../../../components/library/library"
 
 const ArmyStandards = ({ data }) => {
   const facilities = data.allMarkdownRemark.edges.filter(
-    e => e.node.frontmatter.doc_type == "facility_page"
+    e => e.node.frontmatter.doc_type === "facility_page"
   )
   facilities.sort((a, b) => {
     if (
@@ -23,7 +23,7 @@ const ArmyStandards = ({ data }) => {
     <Layout path="/cos/army-standards" MaxWidth={700} centerContent>
       <h1>Army Standards</h1>
       {facilities.map((e, idx) => (
-        <Accordion>
+        <Accordion key={e.node.frontmatter.facility_short_name}>
           <AccordionButton controls={`sd-section-${idx}`}>
             {e.node.frontmatter.facility_long_name +
               " (" +
