@@ -6,7 +6,7 @@ function bytesToSize(bytes) {
   var ii = parseInt(Math.floor(Math.log(bytes) / Math.log(1024)))
   return (
     <>
-      { Math.round(bytes / Math.pow(1024, ii), 2) }
+      {Math.round(bytes / Math.pow(1024, ii), 2)}
       &nbsp;
       {sizes[ii]}
     </>
@@ -19,7 +19,7 @@ function isfolder(path) {
 
 // Convert cars/vw/golf.png to golf.png
 function fullpath2filename(path) {
-  return path.replace(/^.*[\\\/]/, "")
+  return path.replace(/^.*[\\/]/, "")
 }
 
 // Convert cars/vw/golf.png to cars/vw
