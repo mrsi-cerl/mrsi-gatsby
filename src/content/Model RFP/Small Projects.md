@@ -5,10 +5,10 @@ slug: /model-rfp/small-projects/
 ---
 
 <div style="width: 128px; display: inline-block">
-    <a href="https://rfpwizard.mrsi.erdc.dren.mil/wizards/srmw/Client/CirceApp.application?v=1001"><img src="./srm-wizard-256x256.png"/></a>
+    <a href="https://rfpwizard.mrsi.erdc.dren.mil/wizards/srmw/Client/CirceApp.application"><img src="./srm-wizard-256x256.png" alt="Small Projects Wizard"/></a>
 </div>
 
-[Click me to start the Wizard](https://rfpwizard.mrsi.erdc.dren.mil/wizards/srmw/Client/CirceApp.application?v=1001)
+[Click here to start the Wizard](https://rfpwizard.mrsi.erdc.dren.mil/wizards/srmw/Client/CirceApp.application)
 
 The RFP Wizard for Small Projects provides a standardized way to support the creation of Request For Proposal (RFP) documents for the design and construction of facility Sustainment, Restoration, and Modernization (SRM) and small Military Programs work. The RFP Wizard for Small Project capitalizes on the previous development and success of the RFP Wizard for MILCON for new construction, and facilitates a comprehensive approach to small project RFP development.
 

@@ -20,18 +20,18 @@ The Wizards provide standardization while letting users define project and facil
 
 <div style="width: 100%">
     <div style="width: 30%; display: inline-block">
-        <a href="https://rfpwizard.mrsi.erdc.dren.mil/wizards/mbpw/Client/MTApp.application?v=1001">
+        <a href="https://rfpwizard.mrsi.erdc.dren.mil/wizards/mbpw/Client/MTApp.application">
             <h4>MILCON D-B Wizard</h4>
             <div style="width: 128px; display: inline-block">
-            <img src="./mbp-wizard-256x256.png"/>
+            <img src="./mbp-wizard-256x256.png" alt="Model RFP Wizard"/>
             </div>
         </a>
     </div>
     <div style="width: 30%; display: inline-block">
-        <a href="https://rfpwizard.mrsi.erdc.dren.mil/wizards/srmw/Client/CirceApp.application?v=1001">
+        <a href="https://rfpwizard.mrsi.erdc.dren.mil/wizards/srmw/Client/CirceApp.application">
             <h4>Small Projects Wizard</h4>
             <div style="width: 128px; display: inline-block">
-            <img src="./srm-wizard-256x256.png"/>
+            <img src="./srm-wizard-256x256.png" alt="Small Projects Wizard"/>
             </div>
         </a>
     </div>
