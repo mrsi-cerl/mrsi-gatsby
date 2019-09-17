@@ -1,18 +1,18 @@
-import React, { Component } from "react"
+import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../../../components/layout/layout"
 import { Accordion, AccordionButton, AccordionContent } from "uswds-react"
 
 const SustainEvents = ({ data }) => {
   const news = data.allMarkdownRemark.edges.filter(
-    e => e.node.frontmatter.doc_type == "sustain_events"
+    e => e.node.frontmatter.doc_type === "sustain_events"
   )
 
   return (
     <Layout path="/sustain/events" MaxWidth={700} centerContent>
       <h1>Sustainability Events</h1>
       {news.map((e, idx) => (
-        <Accordion>
+        <Accordion key={idx}>
           <AccordionButton controls={`sustain-events-section-${idx}`}>
             {e.node.frontmatter.title}
           </AccordionButton>

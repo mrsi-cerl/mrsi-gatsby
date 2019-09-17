@@ -75,12 +75,12 @@ const pages = {
 
 function getAllOfDocType(data, docType) {
   return data.allMarkdownRemark.edges.filter(
-    edge => edge.node.frontmatter.doc_type == docType
+    edge => edge.node.frontmatter.doc_type === docType
   )
 }
 
 function getAllFacilitiesForCOS(data, cos) {
-  return data.filter(itm => itm.node.frontmatter.facility_cos_short_name == cos)
+  return data.filter(itm => itm.node.frontmatter.facility_cos_short_name === cos)
 }
 
 function createFacilityPageIndex(data, cos) {

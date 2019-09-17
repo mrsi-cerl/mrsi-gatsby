@@ -31,10 +31,10 @@ function ls(rootDir, dir, data) {
   // filter everything except direct descendants of this dir
   const new_data = data.allS3ListBucketJson.nodes.filter(e => {
     //return e.Key.startsWith(dir)
-    const isFileInDir = fullpath2pathname(e.Key) == dir && e.Key != dir
+    const isFileInDir = fullpath2pathname(e.Key) === dir && e.Key !== dir
     const isDirInDir =
       isfolder(e.Key) &&
-      e.Key.substring(0, e.Key.lastIndexOf("/", e.Key.length - 2) + 1) == dir
+      e.Key.substring(0, e.Key.lastIndexOf("/", e.Key.length - 2) + 1) === dir
     return isDirInDir || isFileInDir
   })
   // add metadata for listing the dir
@@ -51,7 +51,7 @@ function ls(rootDir, dir, data) {
     }
     e.readableSize = bytesToSize(e.Size)
   })
-  console.log(new_data)
+  // console.log(new_data)
 
   return new_data
 }

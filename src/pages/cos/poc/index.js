@@ -64,8 +64,8 @@ const CosPoc = ({ data }) => {
           </tr>
         </thead>
         <tbody>
-          {tableData.map(e => (
-            <tr>
+          {tableData.map((e, idx) => (
+            <tr key={idx}>
               <td>
                 <Link to={e.facility_slug}> {e.facility_long_name}</Link>
               </td>

@@ -5,9 +5,10 @@ import styles from "./side-nav.module.css"
 import { Accordion, AccordionButton, AccordionContent } from "uswds-react"
 
 function createAcordianList(p, idx, currPath) {
-  const openAccordian = p.children.find(e => e.slug == currPath)
+  const openAccordian = p.children.find(e => e.slug === currPath) ? true : false
+
   return (
-    <li className="usa-sidenav__item">
+    <li className="usa-sidenav__item" key={p.slug}>
       <Accordion>
         <AccordionButton
           controls={`side-nav-section-${idx}`}
@@ -32,9 +33,9 @@ function createAcordianList(p, idx, currPath) {
           <ul className="usa-sidenav__sublist">
             {p.children.map((e, index) => {
               return (
-                <li
+                <li key={e.slug}
                   className={cx("usa-sidenav__item", {
-                    "usa-current": e.slug == currPath,
+                    "usa-current": e.slug === currPath,
                   })}
                 >
                   <Link
@@ -61,9 +62,9 @@ function createNavList(pages, currPath) {
       return createAcordianList(p, idx, currPath)
     } else {
       return (
-        <li
+        <li key={p.slug}
           className={cx("usa-sidenav__item", {
-            "usa-current": p.slug == currPath,
+            "usa-current": p.slug === currPath,
           })}
         >
           <Link to={p.slug}>{p.caption}</Link>

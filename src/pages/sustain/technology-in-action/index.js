@@ -29,7 +29,7 @@ const TechnologyInAction = ({ data }) => {
   const [currTech, setCurrTech] = useState("")
   const [hoveredTech, setHoveredTech] = useState("")
   const tia = getAllTIA(data)
-  const currTechData = tia.filter(e => e.node.frontmatter.title == currTech)
+  const currTechData = tia.filter(e => e.node.frontmatter.title === currTech)
   const cats = getAllCategories(tia)
   const tiaList = cats.map((cat, idx) => (
     <Accordion>
@@ -80,7 +80,7 @@ const TechnologyInAction = ({ data }) => {
                 lng={elng}
                 onclick={() => setCurrTech(e.node.frontmatter.title)}
                 listHover={
-                  e.node.frontmatter.title == hoveredTech || hoveredTech == ""
+                  e.node.frontmatter.title === hoveredTech || hoveredTech === ""
                 }
               />
             )
@@ -88,7 +88,7 @@ const TechnologyInAction = ({ data }) => {
         </GoogleMapReact>
       </div>
       <div className={styles.listContainer}>
-        {currTech == "" ? (
+        {currTech === "" ? (
           tiaList
         ) : (
           <>

@@ -24,7 +24,7 @@ const MrsiBanner = () => {
           </div>
         </div>
         <div className={styles.menu}>
-          <img src={hamMenu} />
+          <img src={hamMenu} alt="" />
         </div>
       </div>
     </div>

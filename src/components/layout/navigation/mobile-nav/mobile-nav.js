@@ -5,11 +5,11 @@ import cx from "classnames"
 import styles from "./mobile-nav.module.css"
 import { Accordion, AccordionButton, AccordionContent } from "uswds-react"
 
-function createAcordianList(p, idx, currPath) {
-  const openAccordian = p.children.find(e => e.slug == currPath)
-  console.log(`side-nav-section-${p.caption}-${idx}`)
+function createAccordionList(p, idx, currPath) {
+  const openAccordian = p.children.find(e => e.slug === currPath) ? true : false
+
   return (
-    <li className="usa-sidenav__item">
+    <li className="usa-sidenav__item" key={p.caption}>
       <Accordion>
         <AccordionButton
           controls={`side-nav-section-${p.caption}-${idx}`}
@@ -34,9 +34,9 @@ function createAcordianList(p, idx, currPath) {
           <ul className="usa-sidenav__sublist">
             {p.children.map((e, index) => {
               return (
-                <li
+                <li key={e.caption}
                   className={cx("usa-sidenav__item", {
-                    "usa-current": e.slug == currPath,
+                    "usa-current": e.slug === currPath,
                   })}
                 >
                   <Link
@@ -60,12 +60,12 @@ function createAcordianList(p, idx, currPath) {
 function createNavList(pages, currPath) {
   return pages.map((p, idx) => {
     if (p.children) {
-      return createAcordianList(p, idx, currPath)
+      return createAccordionList(p, idx, currPath)
     } else {
       return (
-        <li
+        <li key={p.slug}
           className={cx("usa-sidenav__item", {
-            "usa-current": p.slug == currPath,
+            "usa-current": p.slug === currPath,
           })}
         >
           <Link to={p.slug}>{p.caption}</Link>
@@ -94,7 +94,7 @@ function getMobileNav(pages, path) {
       title: "Sustain",
     },
   ].map(
-    (e, idx) => [<h5>{e.title}</h5>, createNavList(pages[e.key], path)]
+    (e, idx) => [<h5 key={e.key}>{e.title}</h5>, createNavList(pages[e.key], path)]
     // <div className={"usa-nav__primary-item"}>
     //   <Accordion>
     //     <AccordionButton

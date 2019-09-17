@@ -2,7 +2,7 @@ import React, { useState } from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import ls from "./library-helpers"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { faFolder, faFile } from "@fortawesome/free-solid-svg-icons"
+import { faFolder } from "@fortawesome/free-solid-svg-icons"
 import {
   faFilePdf,
   faFileWord,
@@ -47,7 +47,7 @@ const getBreadcrumbs = (rootDir, dir) => {
   const crumbs = []
 
   new_dir.forEach((e, idx) => {
-    if (e != "") {
+    if (e !== "") {
       crumbs.push({
         title: e,
         path: rootDir + new_dir.slice(0, idx + 1).join("/") + "/",
@@ -55,7 +55,7 @@ const getBreadcrumbs = (rootDir, dir) => {
     }
   })
 
-  console.log(crumbs)
+  // console.log(crumbs)
   return crumbs
 }
 
@@ -86,7 +86,7 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
               style={{ paddingRight: 5 }}
               className={cx({
                 [styles.pointer]: bc.length > 0,
-                [styles.bcGrey]: bc.length == 0,
+                [styles.bcGrey]: bc.length === 0,
               })}
             >
               {" "}
@@ -99,7 +99,7 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                   onClick={() => setDir(e.path)}
                   style={{ padding: 5 }}
                   className={cx({
-                    [styles.bcGrey]: bc.length == idx + 1,
+                    [styles.bcGrey]: bc.length === idx + 1,
                     [styles.pointer]: bc.length !== idx + 1,
                   })}
                 >
@@ -124,7 +124,7 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
           </thead>
           <tbody>
             {ls(rootDir, dir, data).map((e, idx) => {
-              if (e.type == "dir") {
+              if (e.type === "dir") {
                 return (
                   <tr key={idx}>
                     <td>
@@ -159,6 +159,7 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                           e.Key
                         }
                         target="_blank"
+                        rel="noopener noreferrer"
                         style={{ marginLeft: 10 }}
                       >
                         {e.name}
