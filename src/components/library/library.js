@@ -81,7 +81,7 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
       <div className={styles.library}>
         {hideBC ? null : (
           <div className={styles.bc}>
-            <a
+            <span
               onClick={() => setDir(rootDir)}
               style={{ paddingRight: 5 }}
               className={cx({
@@ -91,11 +91,11 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
             >
               {" "}
               Home
-            </a>
+            </span>
             <span>/</span>
             {bc.map((e, idx) => (
               <>
-                <a
+                <span
                   onClick={() => setDir(e.path)}
                   style={{ padding: 5 }}
                   className={cx({
@@ -105,7 +105,7 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                 >
                   {" "}
                   {e.title}
-                </a>
+                </span>
                 <span>/</span>
               </>
             ))}
