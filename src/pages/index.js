@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import bgImg from "./../images/usaceConstruction.jpg"
+import bgImg from "./../images/ResizedUsaceConstruction.jpg"
 import Layout from "../components/layout/layout"
 
 import cosIcon from "../images/cos-icon.svg"
@@ -31,7 +31,11 @@ const IndexPage = () => (
     <section className="grid-container">
       <div className="grid-row">
         <p className="font-sans-lg">
-          The <em>MILCON Requirements, Standardization, and Integration</em>(MRSI) site presents Military Construction policy, regulations, standards, and designs in order to provide the facility community with the tools they need to build and maintain the Army's vast facility infrastructure.
+          The <em>MILCON Requirements, Standardization, and Integration</em>
+          (MRSI) site presents Military Construction policy, regulations,
+          standards, and designs in order to provide the facility community with
+          the tools they need to build and maintain the Army's vast facility
+          infrastructure.
         </p>
       </div>
     </section>
@@ -107,10 +111,10 @@ const IndexPage = () => (
           <div className="usa-media-block__body">
             <h3>Sustainability</h3>
             <p>
-              The Engineering and Construction Sustainability team is an
-              expert in sustainability. They are an active community with a
-              passion for producing innovative and creative solutions for
-              sustainable design and construction.
+              The Engineering and Construction Sustainability team is an expert
+              in sustainability. They are an active community with a passion for
+              producing innovative and creative solutions for sustainable design
+              and construction.
             </p>
 
             <p>
