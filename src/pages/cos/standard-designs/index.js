@@ -19,28 +19,47 @@ const StandardDesigns = ({ data }) => {
     }
   })
 
+  const hasFiles = path => {
+    let count = 0
+    for (var i = 0; i < data.allS3ListBucketJson.nodes.length; i++) {
+      if (data.allS3ListBucketJson.nodes[i].Key.includes(path)) {
+        count = count + 1
+      }
+    }
+
+    if (count > 1) {
+      return true
+    }
+    return false
+  }
+
   return (
     <Layout path="/cos/standard-designs" MaxWidth={700} centerContent>
       <h1>USACE Standard Designs</h1>
-      {facilities.map((e, idx) => (
-        <Accordion key={e.node.frontmatter.facility_short_name}>
-          <AccordionButton controls={`sd-section-${idx}`}>
-            {e.node.frontmatter.facility_long_name +
-              " (" +
-              e.node.frontmatter.facility_short_name +
-              ")"}
-          </AccordionButton>
-          <AccordionContent id={`sd-section-${idx}`}>
-            <Library
-              hideBC
-              hideTitle
-              rootDir={
-                e.node.frontmatter.file_library_root_path + "Standard Designs/"
-              }
-            />
-          </AccordionContent>
-        </Accordion>
-      ))}
+      {facilities.map((e, idx) =>
+        hasFiles(
+          e.node.frontmatter.file_library_root_path + "Standard Designs/"
+        ) ? (
+          <Accordion key={e.node.frontmatter.facility_short_name}>
+            <AccordionButton controls={`sd-section-${idx}`}>
+              {e.node.frontmatter.facility_long_name +
+                " (" +
+                e.node.frontmatter.facility_short_name +
+                ")"}
+            </AccordionButton>
+            <AccordionContent id={`sd-section-${idx}`}>
+              <Library
+                hideBC
+                hideTitle
+                rootDir={
+                  e.node.frontmatter.file_library_root_path +
+                  "Standard Designs/"
+                }
+              />
+            </AccordionContent>
+          </Accordion>
+        ) : null
+      )}
     </Layout>
   )
 }

@@ -19,28 +19,47 @@ const ArmyStandards = ({ data }) => {
     }
   })
 
+  // checks if there are in files in the specified path
+  const hasFiles = path => {
+    let count = 0
+    for (var i = 0; i < data.allS3ListBucketJson.nodes.length; i++) {
+      if (data.allS3ListBucketJson.nodes[i].Key.includes(path)) {
+        count = count + 1
+      }
+    }
+
+    if (count > 1) {
+      return true
+    }
+    return false
+  }
+
   return (
     <Layout path="/cos/army-standards" MaxWidth={700} centerContent>
       <h1>Army Standards</h1>
-      {facilities.map((e, idx) => (
-        <Accordion key={e.node.frontmatter.facility_short_name}>
-          <AccordionButton controls={`sd-section-${idx}`}>
-            {e.node.frontmatter.facility_long_name +
-              " (" +
-              e.node.frontmatter.facility_short_name +
-              ")"}
-          </AccordionButton>
-          <AccordionContent id={`sd-section-${idx}`}>
-            <Library
-              hideBC
-              hideTitle
-              rootDir={
-                e.node.frontmatter.file_library_root_path + "Army Standards/"
-              }
-            />
-          </AccordionContent>
-        </Accordion>
-      ))}
+      {facilities.map((e, idx) =>
+        hasFiles(
+          e.node.frontmatter.file_library_root_path + "Army Standards/"
+        ) ? (
+          <Accordion key={e.node.frontmatter.facility_short_name}>
+            <AccordionButton controls={`sd-section-${idx}`}>
+              {e.node.frontmatter.facility_long_name +
+                " (" +
+                e.node.frontmatter.facility_short_name +
+                ")"}
+            </AccordionButton>
+            <AccordionContent id={`sd-section-${idx}`}>
+              <Library
+                hideBC
+                hideTitle
+                rootDir={
+                  e.node.frontmatter.file_library_root_path + "Army Standards/"
+                }
+              />
+            </AccordionContent>
+          </Accordion>
+        ) : null
+      )}
     </Layout>
   )
 }
