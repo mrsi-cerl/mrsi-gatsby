@@ -12,6 +12,15 @@ facility_technical_poc_name: John Wahlers
 file_library_root_path: "content/cos/sam/aab/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/sam/aab/
+carousel_images:
+- ./aircraft-bay-view_fy14-aab-hangar-jblm.jpg
+- ./assault-hangar-pan-02.jpg
+- ./img_1336.jpg
+- ./img_1344.jpg
+- ./img_2596.jpg
+- ./img_4247.jpg
+- ./img_4284.jpg
+- ./module-view_fy14-aab-hangar-jblm.jpg
 ---
 
 ## Description
