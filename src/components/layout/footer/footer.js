@@ -27,6 +27,9 @@ const Footer = () => (
           <li>
             <a href="https://www.inscom.army.mil/isalute/">iSalute</a>
           </li>
+          <li>
+            <Link to={"/mrsi/faq"}>FAQ</Link>
+          </li>
         </ul>
       </span>
     </div>
