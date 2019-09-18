@@ -6,7 +6,7 @@ file_library_root_path: content/PDRS/
 ---
 
 <div style="width: 128px; display: inline-block">
-    <a href="https://rfpwizard.mrsi.erdc.dren.mil/wizards/pdrsw/Client/WizardApplication.applicatio"><img src="./pdrs-wizard-256x256.png" alt="PDRS Wizard"/></a>
+    <a href="https://rfpwizard.mrsi.erdc.dren.mil/wizards/pdrsw/Client/WizardApplication.application"><img src="./pdrs-wizard-256x256.png" alt="PDRS Wizard"/></a>
 </div>
 
 [Click here to start the Wizard](https://rfpwizard.mrsi.erdc.dren.mil/wizards/pdrsw/Client/WizardApplication.application)
