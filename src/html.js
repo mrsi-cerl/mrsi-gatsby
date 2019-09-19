@@ -20,7 +20,7 @@ export default function HTML(props) {
               var msie = ua.indexOf('MSIE ');
               var trident = ua.indexOf('Trident/');
               if (msie > 0 || trident > 0) {
-                alert("Please use a browser other than IE until we fix some problems");
+                alert("Our new site looks and works best in Chrome, Firefox, or Edge - please use one of these modern browsers until we're able to deploy a few fixes.");
               }
           }
 
