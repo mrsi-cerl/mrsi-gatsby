@@ -10,6 +10,7 @@ import cx from "classnames"
 import styles from "./layout.module.css"
 import PropTypes from "prop-types"
 import Alert from "./alert.js"
+import { isIE } from "react-device-detect"
 
 const mainContent = "main-content"
 
@@ -30,6 +31,15 @@ const Layout = ({
           <SkipNav skipsTo={mainContent} />
           <div className="usa-overlay" />
           <div>
+            {isIE ? (
+              <p>
+                Please use a browser other than Internet Explorer utill we fix
+                the website. Windows machines should have Edge Browser
+                installed.
+              </p>
+            ) : (
+              ""
+            )}
             <UsaBanner />
             <MrsiBanner />
             <Navigation
