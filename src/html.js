@@ -22,7 +22,7 @@ export default function HTML(props) {
               if (msie > 0 || trident > 0) {
                 console.log("You're using IE. I'm sad.");
                 var msg = "Until we fix a few bugs, our new site works best in Edge, Chrome, or Firefox. ";
-                msg += "Please use Edge if you need to use our Wizard applications."
+                msg += "Please use Edge if you need to use our Wizard applications.";
                 alert(msg);
               }
           }
