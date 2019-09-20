@@ -20,7 +20,10 @@ export default function HTML(props) {
               var msie = ua.indexOf('MSIE ');
               var trident = ua.indexOf('Trident/');
               if (msie > 0 || trident > 0) {
-                alert("Our new site looks and works best in Chrome, Firefox, or Edge - please use one of these modern browsers until we're able to deploy a few fixes.");
+                console.log("You're using IE. I'm sad.");
+                var msg = "Until we fix a few bugs, our new site works best in Edge, Chrome, or Firefox. \n\n" +
+                  "Please use Edge if you need to use our Wizard applications."
+                alert(msg);
               }
           }
 
