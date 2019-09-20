@@ -1,4 +1,5 @@
 import React, { useState } from "react"
+import { graphql } from 'gatsby'
 import Layout from "../../../components/layout/layout"
 import GoogleMapReact from "google-map-react"
 import styles from "./TIA.module.css"
