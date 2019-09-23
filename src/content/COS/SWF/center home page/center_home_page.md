@@ -24,12 +24,11 @@ The District:
 - Manages one of the largest MILCON programs in the Corps supporting 17 military installations totaling 1200 projects.
 - Executes Civil Works missions including flood damage reduction, ecosystem restoration, water supply, recreation, and environmental stewardship for about 53% of the state of Texas.
 - Manages an O&M program including 25 lakes, three hydropower plants, and 340 recreation areas which receive about 25 million visitors annually.
-- Is one of eight USACE Centers of Standardization and is in charge of 11 facility types:
+- Is one of eight USACE Centers of Standardization and is in charge of 10 facility types:
   - AIT
   - ASTB (Under Development)
   - BT/OUST
   - CIF
-  - DSB
   - GPW
   - RSB
   - Starship Barracks
