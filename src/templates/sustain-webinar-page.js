@@ -7,7 +7,6 @@ export default ({ data, pageContext }) => {
   const pageData = data.allMarkdownRemark.edges.filter(
     edge => edge.node.frontmatter.slug === pageContext.slug
   )[0].node
-  console.log(pageData)
 
   // const opts = {
   //   height: "390",
