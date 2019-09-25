@@ -1,4 +1,4 @@
-$root_path="C:\Users\RDCERJRM\Desktop\test-folder"
+$root_path="C:\Users\RDCERJRM\Desktop\test-folder\"
 $save_location="C:\Users\RDCERJRM\Desktop\listfiles.json"
 
 
@@ -11,13 +11,13 @@ $JSON = $( $ls | Where-Object{$_} | ForEach-Object{
 "{`n" + 
 "`"name`"`: `"$($_.Name)`"," + 
 "`n" +
-"`"lastWrite`"`: `"$($_.LastWriteTime)`"," + 
+"`"LastModified`"`: `"$($_.LastWriteTime)`"," + 
 "`n" +
-"`"path`"`: `"$($_.FullName  -replace '[\\]', '/')`"," + 
+"`"Key`"`: `"$($($_.FullName  -replace [Regex]::Escape($root_path), '') -replace '[\\]', '/')`"," + 
 "`n" +
 "`"extension`"`: `"$($_.Extension)`"," + 
 "`n" +
-"`"size`"`: `"$($_.Length)`"" + 
+"`"Size`"`: `"$($_.Length)`"" + 
 "`n" +
 "}"
 
