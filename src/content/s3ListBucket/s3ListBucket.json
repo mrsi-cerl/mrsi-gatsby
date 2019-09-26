@@ -133,7 +133,7 @@
 },
 {
 "name": "tam",
-"LastModified": "09/26/2019 10:06:02",
+"LastModified": "09/26/2019 16:03:58",
 "Key": "content/cos/tam",
 "extension": "",
 "Size": ""
@@ -6265,7 +6265,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:25:22",
+"LastModified": "09/26/2019 16:36:37",
 "Key": "content/cos/nwo/chapels/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -6488,6 +6488,27 @@
 "Size": "23132"
 },
 {
+"name": "Appendix D - Drawings (FY 15 Large Basic Chapel Facility).pdf",
+"LastModified": "05/20/2015 15:42:33",
+"Key": "content/cos/nwo/chapels/Library/Standard Designs/Appendix D - Drawings (FY 15 Large Basic Chapel Facility).pdf",
+"extension": ".pdf",
+"Size": "557992"
+},
+{
+"name": "Appendix D - Drawings (FY 15 Large Compact Chapel).pdf",
+"LastModified": "05/20/2015 15:42:34",
+"Key": "content/cos/nwo/chapels/Library/Standard Designs/Appendix D - Drawings (FY 15 Large Compact Chapel).pdf",
+"extension": ".pdf",
+"Size": "783937"
+},
+{
+"name": "Appendix D - Drawings (FY 15 Large Enhanced Chapel).pdf",
+"LastModified": "05/20/2015 15:42:35",
+"Key": "content/cos/nwo/chapels/Library/Standard Designs/Appendix D - Drawings (FY 15 Large Enhanced Chapel).pdf",
+"extension": ".pdf",
+"Size": "470778"
+},
+{
 "name": "Appendix D - Drawings (FY 15 Medium Basic Chapel Facility).pdf",
 "LastModified": "05/20/2015 15:42:30",
 "Key": "content/cos/nwo/chapels/Library/Standard Designs/Appendix D - Drawings (FY 15 Medium Basic Chapel Facility).pdf",
@@ -6500,6 +6521,13 @@
 "Key": "content/cos/nwo/chapels/Library/Standard Designs/Appendix D - Drawings (FY 15 Medium Compact Chapel).pdf",
 "extension": ".pdf",
 "Size": "2852989"
+},
+{
+"name": "Appendix D - Drawings (FY 15 Medium Enhanced Chapel).PDF",
+"LastModified": "05/20/2015 15:42:36",
+"Key": "content/cos/nwo/chapels/Library/Standard Designs/Appendix D - Drawings (FY 15 Medium Enhanced Chapel).PDF",
+"extension": ".PDF",
+"Size": "2656444"
 },
 {
 "name": "Appendix D - Drawings (FY 15 Small Basic Chapel Facility).pdf",
@@ -6516,37 +6544,9 @@
 "Size": "2909590"
 },
 {
-"name": "Appendix D – Drawings (FY 15 Large Basic Chapel Facility).pdf",
-"LastModified": "05/20/2015 15:42:33",
-"Key": "content/cos/nwo/chapels/Library/Standard Designs/Appendix D – Drawings (FY 15 Large Basic Chapel Facility).pdf",
-"extension": ".pdf",
-"Size": "557992"
-},
-{
-"name": "Appendix D – Drawings (FY 15 Large Compact Chapel).pdf",
-"LastModified": "05/20/2015 15:42:34",
-"Key": "content/cos/nwo/chapels/Library/Standard Designs/Appendix D – Drawings (FY 15 Large Compact Chapel).pdf",
-"extension": ".pdf",
-"Size": "783937"
-},
-{
-"name": "Appendix D – Drawings (FY 15 Large Enhanced Chapel).pdf",
-"LastModified": "05/20/2015 15:42:35",
-"Key": "content/cos/nwo/chapels/Library/Standard Designs/Appendix D – Drawings (FY 15 Large Enhanced Chapel).pdf",
-"extension": ".pdf",
-"Size": "470778"
-},
-{
-"name": "Appendix D – Drawings (FY 15 Medium Enhanced Chapel).PDF",
+"name": "Appendix D - Drawings (FY 15 Small Enhanced Chapel).pdf",
 "LastModified": "05/20/2015 15:42:36",
-"Key": "content/cos/nwo/chapels/Library/Standard Designs/Appendix D – Drawings (FY 15 Medium Enhanced Chapel).PDF",
-"extension": ".PDF",
-"Size": "2656444"
-},
-{
-"name": "Appendix D – Drawings (FY 15 Small Enhanced Chapel).pdf",
-"LastModified": "05/20/2015 15:42:36",
-"Key": "content/cos/nwo/chapels/Library/Standard Designs/Appendix D – Drawings (FY 15 Small Enhanced Chapel).pdf",
+"Key": "content/cos/nwo/chapels/Library/Standard Designs/Appendix D - Drawings (FY 15 Small Enhanced Chapel).pdf",
 "extension": ".pdf",
 "Size": "2270293"
 },
@@ -6657,7 +6657,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:25:22",
+"LastModified": "09/26/2019 16:37:31",
 "Key": "content/cos/nwo/flc/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -6705,9 +6705,9 @@
 "Size": "37285"
 },
 {
-"name": "Appendix D – Drawings (FY 12 Chaplain Family Life Center Facility).pdf",
+"name": "Appendix D - Drawings (FY 12 Chaplain Family Life Center Facility).pdf",
 "LastModified": "05/20/2015 15:42:47",
-"Key": "content/cos/nwo/flc/Library/Standard Designs/Appendix D – Drawings (FY 12 Chaplain Family Life Center Facility).pdf",
+"Key": "content/cos/nwo/flc/Library/Standard Designs/Appendix D - Drawings (FY 12 Chaplain Family Life Center Facility).pdf",
 "extension": ".pdf",
 "Size": "150476"
 },
@@ -6734,7 +6734,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:23",
+"LastModified": "09/26/2019 13:15:19",
 "Key": "content/cos/nwo/iet/Library",
 "extension": "",
 "Size": ""
@@ -10142,9 +10142,23 @@
 "Size": ""
 },
 {
+"name": "center_home_page",
+"LastModified": "09/26/2019 16:05:33",
+"Key": "content/cos/tam/center_home_page",
+"extension": "",
+"Size": ""
+},
+{
 "name": "dining",
 "LastModified": "09/25/2019 11:11:38",
 "Key": "content/cos/tam/dining",
+"extension": "",
+"Size": ""
+},
+{
+"name": "envelopes",
+"LastModified": "09/26/2019 16:04:21",
+"Key": "content/cos/tam/envelopes",
 "extension": "",
 "Size": ""
 },
@@ -10191,13 +10205,6 @@
 "Size": ""
 },
 {
-"name": "Library",
-"LastModified": "09/25/2019 08:26:04",
-"Key": "content/cos/tam/Library",
-"extension": "",
-"Size": ""
-},
-{
 "name": "medical",
 "LastModified": "09/25/2019 11:11:38",
 "Key": "content/cos/tam/medical",
@@ -10238,223 +10245,6 @@
 "Key": "content/cos/tam/weapons-storage",
 "extension": "",
 "Size": ""
-},
-{
-"name": "3d-facilities-and-masterplan-prints.png",
-"LastModified": "04/26/2018 06:58:18",
-"Key": "content/cos/tam/3d-facilities-and-masterplan-prints.png",
-"extension": ".png",
-"Size": "2303038"
-},
-{
-"name": "built-cube.jpg",
-"LastModified": "04/26/2018 12:38:25",
-"Key": "content/cos/tam/built-cube.jpg",
-"extension": ".jpg",
-"Size": "551343"
-},
-{
-"name": "cos-np-overview.jpg",
-"LastModified": "04/26/2018 12:09:22",
-"Key": "content/cos/tam/cos-np-overview.jpg",
-"extension": ".jpg",
-"Size": "735452"
-},
-{
-"name": "cos-npf-catalog-may2019.pdf",
-"LastModified": "07/16/2019 06:42:46",
-"Key": "content/cos/tam/cos-npf-catalog-may2019.pdf",
-"extension": ".pdf",
-"Size": "15956345"
-},
-{
-"name": "cos-npf-catalog-may2019.pptx",
-"LastModified": "07/16/2019 06:39:09",
-"Key": "content/cos/tam/cos-npf-catalog-may2019.pptx",
-"extension": ".pptx",
-"Size": "51782359"
-},
-{
-"name": "cube-envelope.jpg",
-"LastModified": "08/14/2015 15:36:32",
-"Key": "content/cos/tam/cube-envelope.jpg",
-"extension": ".jpg",
-"Size": "77611"
-},
-{
-"name": "cube-render.jpg",
-"LastModified": "07/18/2016 14:39:36",
-"Key": "content/cos/tam/cube-render.jpg",
-"extension": ".jpg",
-"Size": "483753"
-},
-{
-"name": "design-builder-preview.png",
-"LastModified": "09/04/2018 09:22:59",
-"Key": "content/cos/tam/design-builder-preview.png",
-"extension": ".png",
-"Size": "261769"
-},
-{
-"name": "face-envelope.jpg",
-"LastModified": "08/14/2015 15:58:43",
-"Key": "content/cos/tam/face-envelope.jpg",
-"extension": ".jpg",
-"Size": "61722"
-},
-{
-"name": "face-no-roof.jpg",
-"LastModified": "04/25/2018 13:32:50",
-"Key": "content/cos/tam/face-no-roof.jpg",
-"extension": ".jpg",
-"Size": "46979"
-},
-{
-"name": "face-render.jpg",
-"LastModified": "07/18/2016 14:39:38",
-"Key": "content/cos/tam/face-render.jpg",
-"extension": ".jpg",
-"Size": "563737"
-},
-{
-"name": "final-cos-catalog-20feb2019.pdf",
-"LastModified": "03/13/2019 14:05:24",
-"Key": "content/cos/tam/final-cos-catalog-20feb2019.pdf",
-"extension": ".pdf",
-"Size": "9660895"
-},
-{
-"name": "final-cos-catalog-28sept2018.pdf",
-"LastModified": "11/13/2018 06:50:19",
-"Key": "content/cos/tam/final-cos-catalog-28sept2018.pdf",
-"extension": ".pdf",
-"Size": "7826176"
-},
-{
-"name": "mute-doors-open.png",
-"LastModified": "04/25/2018 13:23:28",
-"Key": "content/cos/tam/mute-doors-open.png",
-"extension": ".png",
-"Size": "386011"
-},
-{
-"name": "picture1.png",
-"LastModified": "04/26/2018 12:30:10",
-"Key": "content/cos/tam/picture1.png",
-"extension": ".png",
-"Size": "384226"
-},
-{
-"name": "raise-3d-models.png",
-"LastModified": "04/26/2018 06:58:29",
-"Key": "content/cos/tam/raise-3d-models.png",
-"extension": ".png",
-"Size": "2230523"
-},
-{
-"name": "raise-logo.png",
-"LastModified": "04/30/2018 05:53:39",
-"Key": "content/cos/tam/raise-logo.png",
-"extension": ".png",
-"Size": "51736"
-},
-{
-"name": "safe-1.jpg",
-"LastModified": "04/25/2018 13:26:10",
-"Key": "content/cos/tam/safe-1.jpg",
-"extension": ".jpg",
-"Size": "61792"
-},
-{
-"name": "safe-envelope.jpg",
-"LastModified": "08/14/2015 15:36:32",
-"Key": "content/cos/tam/safe-envelope.jpg",
-"extension": ".jpg",
-"Size": "83282"
-},
-{
-"name": "safe-render.jpg",
-"LastModified": "07/18/2016 14:39:32",
-"Key": "content/cos/tam/safe-render.jpg",
-"extension": ".jpg",
-"Size": "795596"
-},
-{
-"name": "safe-safe1.jpg",
-"LastModified": "04/26/2018 12:29:59",
-"Key": "content/cos/tam/safe-safe1.jpg",
-"extension": ".jpg",
-"Size": "135384"
-},
-{
-"name": "safe.jpg",
-"LastModified": "04/30/2018 05:57:32",
-"Key": "content/cos/tam/safe.jpg",
-"extension": ".jpg",
-"Size": "2448215"
-},
-{
-"name": "saws-envelope.jpg",
-"LastModified": "08/14/2015 15:36:33",
-"Key": "content/cos/tam/saws-envelope.jpg",
-"extension": ".jpg",
-"Size": "81609"
-},
-{
-"name": "saws-no-roof.jpg",
-"LastModified": "04/25/2018 13:36:32",
-"Key": "content/cos/tam/saws-no-roof.jpg",
-"extension": ".jpg",
-"Size": "56949"
-},
-{
-"name": "terra-hut-bunker.jpg",
-"LastModified": "04/26/2018 12:30:05",
-"Key": "content/cos/tam/terra-hut-bunker.jpg",
-"extension": ".jpg",
-"Size": "50192"
-},
-{
-"name": "terra-hut-envelope.jpg",
-"LastModified": "08/14/2015 15:53:45",
-"Key": "content/cos/tam/terra-hut-envelope.jpg",
-"extension": ".jpg",
-"Size": "76841"
-},
-{
-"name": "terra-hut-machine.png",
-"LastModified": "04/26/2018 12:29:51",
-"Key": "content/cos/tam/terra-hut-machine.png",
-"extension": ".png",
-"Size": "310916"
-},
-{
-"name": "terra-hut-render.jpg",
-"LastModified": "07/18/2016 14:39:34",
-"Key": "content/cos/tam/terra-hut-render.jpg",
-"extension": ".jpg",
-"Size": "599588"
-},
-{
-"name": "usace-cos-design-builder-28nov18.xlsx",
-"LastModified": "12/11/2018 06:50:03",
-"Key": "content/cos/tam/usace-cos-design-builder-28nov18.xlsx",
-"extension": ".xlsx",
-"Size": "9435226"
-},
-{
-"name": "usace-cos-design-builder-7jan19.xlsx",
-"LastModified": "03/13/2019 14:06:26",
-"Key": "content/cos/tam/usace-cos-design-builder-7jan19.xlsx",
-"extension": ".xlsx",
-"Size": "9491532"
-},
-{
-"name": "usace-cos-design-builder1-22oct18.xlsx",
-"LastModified": "11/13/2018 06:51:39",
-"Key": "content/cos/tam/usace-cos-design-builder1-22oct18.xlsx",
-"extension": ".xlsx",
-"Size": "9514573"
 },
 {
 "name": "Library",
@@ -10758,6 +10548,398 @@
 "Size": "425787"
 },
 {
+"name": "Images",
+"LastModified": "09/26/2019 16:18:25",
+"Key": "content/cos/tam/center_home_page/Images",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Library",
+"LastModified": "09/26/2019 16:18:25",
+"Key": "content/cos/tam/center_home_page/Library",
+"extension": "",
+"Size": ""
+},
+{
+"name": "3d-facilities-and-masterplan-prints.png",
+"LastModified": "04/26/2018 06:58:18",
+"Key": "content/cos/tam/center_home_page/Images/3d-facilities-and-masterplan-prints.png",
+"extension": ".png",
+"Size": "2303038"
+},
+{
+"name": "cos-np-overview.jpg",
+"LastModified": "04/26/2018 12:09:22",
+"Key": "content/cos/tam/center_home_page/Images/cos-np-overview.jpg",
+"extension": ".jpg",
+"Size": "735452"
+},
+{
+"name": "design-builder-preview.png",
+"LastModified": "09/04/2018 09:22:59",
+"Key": "content/cos/tam/center_home_page/Images/design-builder-preview.png",
+"extension": ".png",
+"Size": "261769"
+},
+{
+"name": "face-no-roof.jpg",
+"LastModified": "04/25/2018 13:32:50",
+"Key": "content/cos/tam/center_home_page/Images/face-no-roof.jpg",
+"extension": ".jpg",
+"Size": "46979"
+},
+{
+"name": "raise-3d-models.png",
+"LastModified": "04/26/2018 06:58:29",
+"Key": "content/cos/tam/center_home_page/Images/raise-3d-models.png",
+"extension": ".png",
+"Size": "2230523"
+},
+{
+"name": "CUBE Information",
+"LastModified": "09/25/2019 08:26:03",
+"Key": "content/cos/tam/center_home_page/Library/CUBE Information",
+"extension": "",
+"Size": ""
+},
+{
+"name": "ECB No. 2016-18",
+"LastModified": "09/25/2019 08:26:04",
+"Key": "content/cos/tam/center_home_page/Library/ECB No. 2016-18",
+"extension": ". 2016-18",
+"Size": ""
+},
+{
+"name": "Non-Permanent Army Facility Standards",
+"LastModified": "09/25/2019 08:26:05",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards",
+"extension": "",
+"Size": ""
+},
+{
+"name": "cos-cube-build-poland-april2018.pdf",
+"LastModified": "12/07/2018 09:14:55",
+"Key": "content/cos/tam/center_home_page/Library/cos-cube-build-poland-april2018.pdf",
+"extension": ".pdf",
+"Size": "209916"
+},
+{
+"name": "cos-design-checklist.docm",
+"LastModified": "11/16/2015 09:26:17",
+"Key": "content/cos/tam/center_home_page/Library/cos-design-checklist.docm",
+"extension": ".docm",
+"Size": "57908"
+},
+{
+"name": "cos-flowchart.pptx",
+"LastModified": "10/23/2015 10:08:15",
+"Key": "content/cos/tam/center_home_page/Library/cos-flowchart.pptx",
+"extension": ".pptx",
+"Size": "848962"
+},
+{
+"name": "cos-nonpermanent-overview.jpg",
+"LastModified": "04/25/2018 06:55:11",
+"Key": "content/cos/tam/center_home_page/Library/cos-nonpermanent-overview.jpg",
+"extension": ".jpg",
+"Size": "347207"
+},
+{
+"name": "cos-npf-catalog-may2019.pdf",
+"LastModified": "07/16/2019 06:42:46",
+"Key": "content/cos/tam/center_home_page/Library/cos-npf-catalog-may2019.pdf",
+"extension": ".pdf",
+"Size": "15956345"
+},
+{
+"name": "cos-npf-catalog-may2019.pptx",
+"LastModified": "07/16/2019 06:53:10",
+"Key": "content/cos/tam/center_home_page/Library/cos-npf-catalog-may2019.pptx",
+"extension": ".pptx",
+"Size": "51782359"
+},
+{
+"name": "cube-construction-final.avi",
+"LastModified": "09/04/2018 08:05:55",
+"Key": "content/cos/tam/center_home_page/Library/cube-construction-final.avi",
+"extension": ".avi",
+"Size": "582203516"
+},
+{
+"name": "final-cos-catalog-20feb2019.pdf",
+"LastModified": "03/13/2019 14:05:24",
+"Key": "content/cos/tam/center_home_page/Library/final-cos-catalog-20feb2019.pdf",
+"extension": ".pdf",
+"Size": "9660895"
+},
+{
+"name": "final-cos-catalog-28sept2018.pdf",
+"LastModified": "11/13/2018 06:50:19",
+"Key": "content/cos/tam/center_home_page/Library/final-cos-catalog-28sept2018.pdf",
+"extension": ".pdf",
+"Size": "7826176"
+},
+{
+"name": "final-cos-catalog-4sept2018.pdf",
+"LastModified": "09/04/2018 12:40:30",
+"Key": "content/cos/tam/center_home_page/Library/final-cos-catalog-4sept2018.pdf",
+"extension": ".pdf",
+"Size": "7498774"
+},
+{
+"name": "tam.jpg",
+"LastModified": "07/16/2015 15:32:30",
+"Key": "content/cos/tam/center_home_page/Library/tam.jpg",
+"extension": ".jpg",
+"Size": "32439"
+},
+{
+"name": "usace-cos-design-builder-28nov18.xlsx",
+"LastModified": "12/11/2018 06:50:03",
+"Key": "content/cos/tam/center_home_page/Library/usace-cos-design-builder-28nov18.xlsx",
+"extension": ".xlsx",
+"Size": "9435226"
+},
+{
+"name": "usace-cos-design-builder-7jan19.xlsx",
+"LastModified": "03/13/2019 14:06:26",
+"Key": "content/cos/tam/center_home_page/Library/usace-cos-design-builder-7jan19.xlsx",
+"extension": ".xlsx",
+"Size": "9491532"
+},
+{
+"name": "usace-cos-design-builder1-22oct18.xlsx",
+"LastModified": "11/13/2018 06:51:39",
+"Key": "content/cos/tam/center_home_page/Library/usace-cos-design-builder1-22oct18.xlsx",
+"extension": ".xlsx",
+"Size": "9514573"
+},
+{
+"name": "time-lapse-cube-assembly.mp4",
+"LastModified": "02/12/2019 11:44:43",
+"Key": "content/cos/tam/center_home_page/Library/CUBE Information/time-lapse-cube-assembly.mp4",
+"extension": ".mp4",
+"Size": "165171123"
+},
+{
+"name": "ecb_2016_18.pdf",
+"LastModified": "07/18/2016 14:52:55",
+"Key": "content/cos/tam/center_home_page/Library/ECB No. 2016-18/ecb_2016_18.pdf",
+"extension": ".pdf",
+"Size": "42740"
+},
+{
+"name": "std-non-permanent-admin-facility.pdf",
+"LastModified": "07/18/2016 13:53:56",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-admin-facility.pdf",
+"extension": ".pdf",
+"Size": "248861"
+},
+{
+"name": "std-non-permanent-aircraft-passenger-terminal-facility.pdf",
+"LastModified": "07/18/2016 13:53:58",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-aircraft-passenger-terminal-facility.pdf",
+"extension": ".pdf",
+"Size": "242150"
+},
+{
+"name": "std-non-permanent-armory-facility.pdf",
+"LastModified": "07/18/2016 13:53:59",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-armory-facility.pdf",
+"extension": ".pdf",
+"Size": "252081"
+},
+{
+"name": "std-non-permanent-barber-shop.pdf",
+"LastModified": "07/18/2016 13:54:00",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-barber-shop.pdf",
+"extension": ".pdf",
+"Size": "233863"
+},
+{
+"name": "std-non-permanent-barracks-facility.pdf",
+"LastModified": "07/18/2016 13:54:01",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-barracks-facility.pdf",
+"extension": ".pdf",
+"Size": "233255"
+},
+{
+"name": "std-non-permanent-briefing-assembly-facility.pdf",
+"LastModified": "07/18/2016 13:54:02",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-briefing-assembly-facility.pdf",
+"extension": ".pdf",
+"Size": "247450"
+},
+{
+"name": "std-non-permanent-cold-storage-facility.pdf",
+"LastModified": "07/18/2016 13:54:03",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-cold-storage-facility.pdf",
+"extension": ".pdf",
+"Size": "234648"
+},
+{
+"name": "std-non-permanent-detention-facility.pdf",
+"LastModified": "07/18/2016 13:54:04",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-detention-facility.pdf",
+"extension": ".pdf",
+"Size": "243217"
+},
+{
+"name": "std-non-permanent-dining-facility.pdf",
+"LastModified": "07/18/2016 13:54:05",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-dining-facility.pdf",
+"extension": ".pdf",
+"Size": "237767"
+},
+{
+"name": "std-non-permanent-exchange-facility.pdf",
+"LastModified": "07/18/2016 13:54:06",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-exchange-facility.pdf",
+"extension": ".pdf",
+"Size": "237201"
+},
+{
+"name": "std-non-permanent-fire-station.pdf",
+"LastModified": "07/18/2016 13:54:07",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-fire-station.pdf",
+"extension": ".pdf",
+"Size": "254762"
+},
+{
+"name": "std-non-permanent-hq-facility.pdf",
+"LastModified": "07/18/2016 13:54:08",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-hq-facility.pdf",
+"extension": ".pdf",
+"Size": "243569"
+},
+{
+"name": "std-non-permanent-isf.pdf",
+"LastModified": "07/18/2016 13:54:08",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-isf.pdf",
+"extension": ".pdf",
+"Size": "248231"
+},
+{
+"name": "std-non-permanent-latrine-facility.pdf",
+"LastModified": "07/18/2016 13:54:09",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-latrine-facility.pdf",
+"extension": ".pdf",
+"Size": "245213"
+},
+{
+"name": "std-non-permanent-laundry-facility.pdf",
+"LastModified": "07/18/2016 13:54:10",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-laundry-facility.pdf",
+"extension": ".pdf",
+"Size": "245209"
+},
+{
+"name": "std-non-permanent-mwr-facility.pdf",
+"LastModified": "07/18/2016 13:54:11",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-mwr-facility.pdf",
+"extension": ".pdf",
+"Size": "247954"
+},
+{
+"name": "std-non-permanent-oc-facility.pdf",
+"LastModified": "07/18/2016 13:54:12",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-oc-facility.pdf",
+"extension": ".pdf",
+"Size": "244852"
+},
+{
+"name": "std-non-permanent-oq-facility.pdf",
+"LastModified": "07/18/2016 13:54:12",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-oq-facility.pdf",
+"extension": ".pdf",
+"Size": "236140"
+},
+{
+"name": "std-non-permanent-perimeter-security.pdf",
+"LastModified": "07/18/2016 13:54:13",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-perimeter-security.pdf",
+"extension": ".pdf",
+"Size": "247924"
+},
+{
+"name": "std-non-permanent-physical-fitness-center.pdf",
+"LastModified": "07/18/2016 13:54:14",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-physical-fitness-center.pdf",
+"extension": ".pdf",
+"Size": "246239"
+},
+{
+"name": "std-non-permanent-pool-facility.pdf",
+"LastModified": "07/18/2016 13:54:15",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-pool-facility.pdf",
+"extension": ".pdf",
+"Size": "234758"
+},
+{
+"name": "std-non-permanent-post-office.pdf",
+"LastModified": "07/18/2016 13:54:15",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-post-office.pdf",
+"extension": ".pdf",
+"Size": "237917"
+},
+{
+"name": "std-non-permanent-potable-water-treatment-facility.pdf",
+"LastModified": "07/18/2016 13:54:16",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-potable-water-treatment-facility.pdf",
+"extension": ".pdf",
+"Size": "234580"
+},
+{
+"name": "std-non-permanent-religious-facility.pdf",
+"LastModified": "07/18/2016 13:54:17",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-religious-facility.pdf",
+"extension": ".pdf",
+"Size": "239133"
+},
+{
+"name": "std-non-permanent-role-1-mtf.pdf",
+"LastModified": "07/18/2016 13:54:18",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-role-1-mtf.pdf",
+"extension": ".pdf",
+"Size": "246112"
+},
+{
+"name": "std-non-permanent-role-2-mtf.pdf",
+"LastModified": "07/18/2016 13:54:19",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-role-2-mtf.pdf",
+"extension": ".pdf",
+"Size": "258608"
+},
+{
+"name": "std-non-permanent-role-2-plus-mtf.pdf",
+"LastModified": "07/18/2016 13:54:20",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-role-2-plus-mtf.pdf",
+"extension": ".pdf",
+"Size": "264192"
+},
+{
+"name": "std-non-permanent-role-2-plus-surgical.pdf",
+"LastModified": "07/18/2016 13:54:21",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-role-2-plus-surgical.pdf",
+"extension": ".pdf",
+"Size": "248348"
+},
+{
+"name": "std-non-permanent-shoot-house.pdf",
+"LastModified": "07/18/2016 13:54:21",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-shoot-house.pdf",
+"extension": ".pdf",
+"Size": "233612"
+},
+{
+"name": "std-non-permanent-tmc-facility.pdf",
+"LastModified": "07/18/2016 13:54:22",
+"Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards/std-non-permanent-tmc-facility.pdf",
+"extension": ".pdf",
+"Size": "240158"
+},
+{
 "name": "Library",
 "LastModified": "09/25/2019 08:25:54",
 "Key": "content/cos/tam/dining/Library",
@@ -10875,6 +11057,139 @@
 "Key": "content/cos/tam/dining/Library/saws-dfac-seating-full.pdf",
 "extension": ".pdf",
 "Size": "232221"
+},
+{
+"name": "built-cube.jpg",
+"LastModified": "04/26/2018 12:38:25",
+"Key": "content/cos/tam/envelopes/built-cube.jpg",
+"extension": ".jpg",
+"Size": "551343"
+},
+{
+"name": "cube-envelope.jpg",
+"LastModified": "08/14/2015 15:36:32",
+"Key": "content/cos/tam/envelopes/cube-envelope.jpg",
+"extension": ".jpg",
+"Size": "77611"
+},
+{
+"name": "cube-render.jpg",
+"LastModified": "07/18/2016 14:39:36",
+"Key": "content/cos/tam/envelopes/cube-render.jpg",
+"extension": ".jpg",
+"Size": "483753"
+},
+{
+"name": "face-envelope.jpg",
+"LastModified": "08/14/2015 15:58:43",
+"Key": "content/cos/tam/envelopes/face-envelope.jpg",
+"extension": ".jpg",
+"Size": "61722"
+},
+{
+"name": "face-render.jpg",
+"LastModified": "07/18/2016 14:39:38",
+"Key": "content/cos/tam/envelopes/face-render.jpg",
+"extension": ".jpg",
+"Size": "563737"
+},
+{
+"name": "mute-doors-open.png",
+"LastModified": "04/25/2018 13:23:28",
+"Key": "content/cos/tam/envelopes/mute-doors-open.png",
+"extension": ".png",
+"Size": "386011"
+},
+{
+"name": "picture1.png",
+"LastModified": "04/26/2018 12:30:10",
+"Key": "content/cos/tam/envelopes/picture1.png",
+"extension": ".png",
+"Size": "384226"
+},
+{
+"name": "raise-logo.png",
+"LastModified": "04/30/2018 05:53:39",
+"Key": "content/cos/tam/envelopes/raise-logo.png",
+"extension": ".png",
+"Size": "51736"
+},
+{
+"name": "safe-1.jpg",
+"LastModified": "04/25/2018 13:26:10",
+"Key": "content/cos/tam/envelopes/safe-1.jpg",
+"extension": ".jpg",
+"Size": "61792"
+},
+{
+"name": "safe-envelope.jpg",
+"LastModified": "08/14/2015 15:36:32",
+"Key": "content/cos/tam/envelopes/safe-envelope.jpg",
+"extension": ".jpg",
+"Size": "83282"
+},
+{
+"name": "safe-render.jpg",
+"LastModified": "07/18/2016 14:39:32",
+"Key": "content/cos/tam/envelopes/safe-render.jpg",
+"extension": ".jpg",
+"Size": "795596"
+},
+{
+"name": "safe-safe1.jpg",
+"LastModified": "04/26/2018 12:29:59",
+"Key": "content/cos/tam/envelopes/safe-safe1.jpg",
+"extension": ".jpg",
+"Size": "135384"
+},
+{
+"name": "safe.jpg",
+"LastModified": "04/30/2018 05:57:32",
+"Key": "content/cos/tam/envelopes/safe.jpg",
+"extension": ".jpg",
+"Size": "2448215"
+},
+{
+"name": "saws-envelope.jpg",
+"LastModified": "08/14/2015 15:36:33",
+"Key": "content/cos/tam/envelopes/saws-envelope.jpg",
+"extension": ".jpg",
+"Size": "81609"
+},
+{
+"name": "saws-no-roof.jpg",
+"LastModified": "04/25/2018 13:36:32",
+"Key": "content/cos/tam/envelopes/saws-no-roof.jpg",
+"extension": ".jpg",
+"Size": "56949"
+},
+{
+"name": "terra-hut-bunker.jpg",
+"LastModified": "04/26/2018 12:30:05",
+"Key": "content/cos/tam/envelopes/terra-hut-bunker.jpg",
+"extension": ".jpg",
+"Size": "50192"
+},
+{
+"name": "terra-hut-envelope.jpg",
+"LastModified": "08/14/2015 15:53:45",
+"Key": "content/cos/tam/envelopes/terra-hut-envelope.jpg",
+"extension": ".jpg",
+"Size": "76841"
+},
+{
+"name": "terra-hut-machine.png",
+"LastModified": "04/26/2018 12:29:51",
+"Key": "content/cos/tam/envelopes/terra-hut-machine.png",
+"extension": ".png",
+"Size": "310916"
+},
+{
+"name": "terra-hut-render.jpg",
+"LastModified": "07/18/2016 14:39:34",
+"Key": "content/cos/tam/envelopes/terra-hut-render.jpg",
+"extension": ".jpg",
+"Size": "599588"
 },
 {
 "name": "Library",
@@ -11393,307 +11708,6 @@
 "Key": "content/cos/tam/laundry/Library/saws-laundry-multi-bay.pdf",
 "extension": ".pdf",
 "Size": "189475"
-},
-{
-"name": "CUBE Information",
-"LastModified": "09/25/2019 08:26:03",
-"Key": "content/cos/tam/Library/CUBE Information",
-"extension": "",
-"Size": ""
-},
-{
-"name": "ECB No. 2016-18",
-"LastModified": "09/25/2019 08:26:04",
-"Key": "content/cos/tam/Library/ECB No. 2016-18",
-"extension": ". 2016-18",
-"Size": ""
-},
-{
-"name": "Non-Permanent Army Facility Standards",
-"LastModified": "09/25/2019 08:26:05",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards",
-"extension": "",
-"Size": ""
-},
-{
-"name": "cos-cube-build-poland-april2018.pdf",
-"LastModified": "12/07/2018 09:14:55",
-"Key": "content/cos/tam/Library/cos-cube-build-poland-april2018.pdf",
-"extension": ".pdf",
-"Size": "209916"
-},
-{
-"name": "cos-design-checklist.docm",
-"LastModified": "11/16/2015 09:26:17",
-"Key": "content/cos/tam/Library/cos-design-checklist.docm",
-"extension": ".docm",
-"Size": "57908"
-},
-{
-"name": "cos-flowchart.pptx",
-"LastModified": "10/23/2015 10:08:15",
-"Key": "content/cos/tam/Library/cos-flowchart.pptx",
-"extension": ".pptx",
-"Size": "848962"
-},
-{
-"name": "cos-nonpermanent-overview.jpg",
-"LastModified": "04/25/2018 06:55:11",
-"Key": "content/cos/tam/Library/cos-nonpermanent-overview.jpg",
-"extension": ".jpg",
-"Size": "347207"
-},
-{
-"name": "cos-npf-catalog-may2019.pptx",
-"LastModified": "07/16/2019 06:53:10",
-"Key": "content/cos/tam/Library/cos-npf-catalog-may2019.pptx",
-"extension": ".pptx",
-"Size": "51782359"
-},
-{
-"name": "cube-construction-final.avi",
-"LastModified": "09/04/2018 08:05:55",
-"Key": "content/cos/tam/Library/cube-construction-final.avi",
-"extension": ".avi",
-"Size": "582203516"
-},
-{
-"name": "final-cos-catalog-4sept2018.pdf",
-"LastModified": "09/04/2018 12:40:30",
-"Key": "content/cos/tam/Library/final-cos-catalog-4sept2018.pdf",
-"extension": ".pdf",
-"Size": "7498774"
-},
-{
-"name": "tam.jpg",
-"LastModified": "07/16/2015 15:32:30",
-"Key": "content/cos/tam/Library/tam.jpg",
-"extension": ".jpg",
-"Size": "32439"
-},
-{
-"name": "time-lapse-cube-assembly.mp4",
-"LastModified": "02/12/2019 11:44:43",
-"Key": "content/cos/tam/Library/CUBE Information/time-lapse-cube-assembly.mp4",
-"extension": ".mp4",
-"Size": "165171123"
-},
-{
-"name": "ecb_2016_18.pdf",
-"LastModified": "07/18/2016 14:52:55",
-"Key": "content/cos/tam/Library/ECB No. 2016-18/ecb_2016_18.pdf",
-"extension": ".pdf",
-"Size": "42740"
-},
-{
-"name": "std-non-permanent-admin-facility.pdf",
-"LastModified": "07/18/2016 13:53:56",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-admin-facility.pdf",
-"extension": ".pdf",
-"Size": "248861"
-},
-{
-"name": "std-non-permanent-aircraft-passenger-terminal-facility.pdf",
-"LastModified": "07/18/2016 13:53:58",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-aircraft-passenger-terminal-facility.pdf",
-"extension": ".pdf",
-"Size": "242150"
-},
-{
-"name": "std-non-permanent-armory-facility.pdf",
-"LastModified": "07/18/2016 13:53:59",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-armory-facility.pdf",
-"extension": ".pdf",
-"Size": "252081"
-},
-{
-"name": "std-non-permanent-barber-shop.pdf",
-"LastModified": "07/18/2016 13:54:00",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-barber-shop.pdf",
-"extension": ".pdf",
-"Size": "233863"
-},
-{
-"name": "std-non-permanent-barracks-facility.pdf",
-"LastModified": "07/18/2016 13:54:01",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-barracks-facility.pdf",
-"extension": ".pdf",
-"Size": "233255"
-},
-{
-"name": "std-non-permanent-briefing-assembly-facility.pdf",
-"LastModified": "07/18/2016 13:54:02",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-briefing-assembly-facility.pdf",
-"extension": ".pdf",
-"Size": "247450"
-},
-{
-"name": "std-non-permanent-cold-storage-facility.pdf",
-"LastModified": "07/18/2016 13:54:03",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-cold-storage-facility.pdf",
-"extension": ".pdf",
-"Size": "234648"
-},
-{
-"name": "std-non-permanent-detention-facility.pdf",
-"LastModified": "07/18/2016 13:54:04",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-detention-facility.pdf",
-"extension": ".pdf",
-"Size": "243217"
-},
-{
-"name": "std-non-permanent-dining-facility.pdf",
-"LastModified": "07/18/2016 13:54:05",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-dining-facility.pdf",
-"extension": ".pdf",
-"Size": "237767"
-},
-{
-"name": "std-non-permanent-exchange-facility.pdf",
-"LastModified": "07/18/2016 13:54:06",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-exchange-facility.pdf",
-"extension": ".pdf",
-"Size": "237201"
-},
-{
-"name": "std-non-permanent-fire-station.pdf",
-"LastModified": "07/18/2016 13:54:07",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-fire-station.pdf",
-"extension": ".pdf",
-"Size": "254762"
-},
-{
-"name": "std-non-permanent-hq-facility.pdf",
-"LastModified": "07/18/2016 13:54:08",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-hq-facility.pdf",
-"extension": ".pdf",
-"Size": "243569"
-},
-{
-"name": "std-non-permanent-isf.pdf",
-"LastModified": "07/18/2016 13:54:08",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-isf.pdf",
-"extension": ".pdf",
-"Size": "248231"
-},
-{
-"name": "std-non-permanent-latrine-facility.pdf",
-"LastModified": "07/18/2016 13:54:09",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-latrine-facility.pdf",
-"extension": ".pdf",
-"Size": "245213"
-},
-{
-"name": "std-non-permanent-laundry-facility.pdf",
-"LastModified": "07/18/2016 13:54:10",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-laundry-facility.pdf",
-"extension": ".pdf",
-"Size": "245209"
-},
-{
-"name": "std-non-permanent-mwr-facility.pdf",
-"LastModified": "07/18/2016 13:54:11",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-mwr-facility.pdf",
-"extension": ".pdf",
-"Size": "247954"
-},
-{
-"name": "std-non-permanent-oc-facility.pdf",
-"LastModified": "07/18/2016 13:54:12",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-oc-facility.pdf",
-"extension": ".pdf",
-"Size": "244852"
-},
-{
-"name": "std-non-permanent-oq-facility.pdf",
-"LastModified": "07/18/2016 13:54:12",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-oq-facility.pdf",
-"extension": ".pdf",
-"Size": "236140"
-},
-{
-"name": "std-non-permanent-perimeter-security.pdf",
-"LastModified": "07/18/2016 13:54:13",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-perimeter-security.pdf",
-"extension": ".pdf",
-"Size": "247924"
-},
-{
-"name": "std-non-permanent-physical-fitness-center.pdf",
-"LastModified": "07/18/2016 13:54:14",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-physical-fitness-center.pdf",
-"extension": ".pdf",
-"Size": "246239"
-},
-{
-"name": "std-non-permanent-pool-facility.pdf",
-"LastModified": "07/18/2016 13:54:15",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-pool-facility.pdf",
-"extension": ".pdf",
-"Size": "234758"
-},
-{
-"name": "std-non-permanent-post-office.pdf",
-"LastModified": "07/18/2016 13:54:15",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-post-office.pdf",
-"extension": ".pdf",
-"Size": "237917"
-},
-{
-"name": "std-non-permanent-potable-water-treatment-facility.pdf",
-"LastModified": "07/18/2016 13:54:16",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-potable-water-treatment-facility.pdf",
-"extension": ".pdf",
-"Size": "234580"
-},
-{
-"name": "std-non-permanent-religious-facility.pdf",
-"LastModified": "07/18/2016 13:54:17",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-religious-facility.pdf",
-"extension": ".pdf",
-"Size": "239133"
-},
-{
-"name": "std-non-permanent-role-1-mtf.pdf",
-"LastModified": "07/18/2016 13:54:18",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-role-1-mtf.pdf",
-"extension": ".pdf",
-"Size": "246112"
-},
-{
-"name": "std-non-permanent-role-2-mtf.pdf",
-"LastModified": "07/18/2016 13:54:19",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-role-2-mtf.pdf",
-"extension": ".pdf",
-"Size": "258608"
-},
-{
-"name": "std-non-permanent-role-2-plus-mtf.pdf",
-"LastModified": "07/18/2016 13:54:20",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-role-2-plus-mtf.pdf",
-"extension": ".pdf",
-"Size": "264192"
-},
-{
-"name": "std-non-permanent-role-2-plus-surgical.pdf",
-"LastModified": "07/18/2016 13:54:21",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-role-2-plus-surgical.pdf",
-"extension": ".pdf",
-"Size": "248348"
-},
-{
-"name": "std-non-permanent-shoot-house.pdf",
-"LastModified": "07/18/2016 13:54:21",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-shoot-house.pdf",
-"extension": ".pdf",
-"Size": "233612"
-},
-{
-"name": "std-non-permanent-tmc-facility.pdf",
-"LastModified": "07/18/2016 13:54:22",
-"Key": "content/cos/tam/Library/Non-Permanent Army Facility Standards/std-non-permanent-tmc-facility.pdf",
-"extension": ".pdf",
-"Size": "240158"
 },
 {
 "name": "Library",
