@@ -1,5 +1,12 @@
 ---
-carousel_images: []
+carousel_images:
+- 20150129_hp_asb_0211.jpg
+- 20150129_hp_asb_0301.jpg
+- 20150129_hp_asb_0426.jpg
+- 20150129_hp_asb_0755.jpg
+- 20150129_hp_asb_0867.jpg
+- 20150129_hp_asb_0908.jpg
+- 20150129_hp_asb_1312.jpg
 doc_type: facility_page
 facility_category_codes:
 - 21110 (11370, 11340, 21470, and 44222)
