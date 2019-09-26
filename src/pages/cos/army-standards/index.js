@@ -28,7 +28,7 @@ const ArmyStandards = ({ data }) => {
       }
     }
 
-    if (count > 1) {
+    if (count > 0) {
       return true
     }
     return false

@@ -68,6 +68,7 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
           Key
           Size
           LastModified
+          extension
         }
       }
     }
@@ -131,7 +132,7 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                       <FontAwesomeIcon icon={faFolder} color="#FFDD66" />
                       <span
                         style={{ marginLeft: 10 }}
-                        onClick={() => setDir(e.Key)}
+                        onClick={() => setDir(e.Key + "/")}
                         className={styles.pointer}
                       >
                         {e.name}
@@ -155,8 +156,7 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                       {getFileIcon(e.Key)}
                       <a
                         href={
-                          "https://cg-3e09bddd-3b7f-4f79-95bd-23d93c01f9ef.s3-us-gov-west-1.amazonaws.com/" +
-                          e.Key
+                          "https://rfpwizard.mrsi.erdc.dren.mil/MRSI/" + e.Key
                         }
                         target="_blank"
                         rel="noopener noreferrer"

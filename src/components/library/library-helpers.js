@@ -13,8 +13,8 @@ function bytesToSize(bytes) {
   )
 }
 
-function isfolder(path) {
-  return path.endsWith("/")
+function isfolder(size, ext) {
+  return size == ""
 }
 
 // Convert cars/vw/golf.png to golf.png
@@ -33,13 +33,13 @@ function ls(rootDir, dir, data) {
     //return e.Key.startsWith(dir)
     const isFileInDir = fullpath2pathname(e.Key) === dir && e.Key !== dir
     const isDirInDir =
-      isfolder(e.Key) &&
+      isfolder(e.Size, e.extension) &&
       e.Key.substring(0, e.Key.lastIndexOf("/", e.Key.length - 2) + 1) === dir
     return isDirInDir || isFileInDir
   })
   // add metadata for listing the dir
   new_data.forEach(e => {
-    if (isfolder(e.Key)) {
+    if (isfolder(e.Size, e.extension)) {
       e.type = "dir"
       e.name = e.Key.substring(
         e.Key.lastIndexOf("/", e.Key.length - 2) + 1,
