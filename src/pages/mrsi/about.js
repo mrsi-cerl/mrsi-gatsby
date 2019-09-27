@@ -2,7 +2,7 @@ import React from "react"
 import Layout from "../../components/layout/layout"
 
 import cosIcon from "../../images/cos-icon.svg"
-import crstIcon from "../../images/crst-icon.svg"
+import pdrsIcon from "../../images/pdrs-icon.svg"
 import rfpIcon from "../../images/wizard-icon.svg"
 import sustainIcon from "../../images/sustain-icon.svg"
 
@@ -48,7 +48,7 @@ export default () => (
         www.flaticon.com
       </p>
       <p>
-        <img style={{ width: 50 }} src={crstIcon} alt="Icon by Smashicons" />
+        <img style={{ width: 50 }} src={pdrsIcon} alt="Icon by Smashicons" />
         Icon made by&nbsp;
         <a href="https://www.flaticon.com/authors/smashicons">
           Smashicons

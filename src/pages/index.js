@@ -4,7 +4,7 @@ import bgImg from "./../images/ResizedUsaceConstruction.jpg"
 import Layout from "../components/layout/layout"
 
 import cosIcon from "../images/cos-icon.svg"
-import crstIcon from "../images/crst-icon.svg"
+import pdrsIcon from "../images/pdrs-icon.svg"
 import rfpIcon from "../images/wizard-icon.svg"
 import sustainIcon from "../images/sustain-icon.svg"
 
@@ -66,19 +66,20 @@ const IndexPage = () => (
           <img
             className="usa-media-block__img"
             style={iconStyle}
-            src={crstIcon}
+            src={pdrsIcon}
             alt=""
           />
           <div className="usa-media-block__body">
-            <h3>CRST</h3>
+            <h3>PDRS</h3>
             <p>
-              The Combat Readiness Support Team evaluates the Army's
-              requirements for impacts on our facilities. Visit the CRST site to
-              see how changes may impact on the Army's facilities life-cycle.
+              The Parametric Design Report System (PDRS) Wizard is a tool for
+              the preparation, submission, reporting and storage of the required
+              Parametric Design Report. An approved PDR is required prior to the
+              ENG Form 3086 submission.
             </p>
 
             <p>
-              <Link to="/crst/">Visit CRST</Link>
+              <Link to="/pdrs/">Visit PDRS</Link>
             </p>
           </div>
         </div>
@@ -92,8 +93,12 @@ const IndexPage = () => (
           <div className="usa-media-block__body">
             <h3>Model RFP</h3>
             <p>
-              The Model RFP defines the standard templates for MILCON RFP. The
-              RFP Wizards were developed as the implementation of the Model RFP.
+              Through the use of curated content developed by USACE Subject
+              Matter Experts, the Model RFP guides users in the development of
+              Requests for Proposal (RFP). This helps ensure
+              compliance with the latest policies, regulations, and best
+              practices; improves quality; and reduces the time required
+              to develop RFP.
             </p>
 
             <p>
