@@ -27,7 +27,7 @@ There are 7 Envelopes to choose from when selecting a facility:
 
 ### 1. Common Uniform Building Envelope (CUBE)
 
-<img src="cube-render.jpg" alt="CUBE Render" style="width:285px; height:160px;" />
+![CUBE Render](./cube-render.jpg)
 
 ![CUBE Envelope](./cube-envelope.jpg)
 
