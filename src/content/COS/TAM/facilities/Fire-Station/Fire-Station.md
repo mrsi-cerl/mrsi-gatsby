@@ -3,7 +3,6 @@ carousel_images:
   - ./fire-station-administration-building.jpg
   - ./fire-station-apparatus-bay.jpg
   - ./fire-station-barracks.jpg
-  - ./fire-station-complex.png
 doc_type: facility_page
 facility_category_codes:
   - ""
@@ -20,4 +19,8 @@ slug: /cos/tam/fire-station/
 
 ## Space Information
 
-## Envelope Variations by Space Function
+Off-The-Shelf Design
+
+Fire Station Complex
+
+![Fire Station Complex](./fire-station-complex.png)
