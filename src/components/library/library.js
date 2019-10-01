@@ -145,6 +145,7 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                         format="M/D/YYYY"
                         withTitle
                         titleFormat="DD MMMM YYYY"
+                        parse="MM/DD/YYYY HH:mm:ss"
                       />
                     </td>
                   </tr>
@@ -170,6 +171,7 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                       <Moment
                         date={e.LastModified}
                         format="M/D/YYYY"
+                        parse="MM/DD/YYYY HH:mm:ss"
                         withTitle
                         titleFormat="DD MMMM YYYY"
                       />
