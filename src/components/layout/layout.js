@@ -51,7 +51,7 @@ const Layout = ({
                     [styles.floatLeft]: !centerContent,
                   })}
                 >
-                  <Alert message="" />
+                  <Alert />
                   {children}
                 </div>
               </main>

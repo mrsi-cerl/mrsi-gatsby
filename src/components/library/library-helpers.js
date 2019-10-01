@@ -14,7 +14,7 @@ function bytesToSize(bytes) {
 }
 
 function isfolder(size, ext) {
-  return size == ""
+  return size === ""
 }
 
 // Convert cars/vw/golf.png to golf.png
