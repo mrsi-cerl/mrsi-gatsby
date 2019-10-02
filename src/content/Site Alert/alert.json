@@ -16,7 +16,7 @@
   {
     "startDate": "10:05  10/01/2019",
     "endDate": "10:05  10/01/2019",
-    "message": "TESTING",
+    "message": "TESTING <br/> new line",
     "level": "success",
     "title": "Success status"
   },

@@ -36,7 +36,10 @@ const Alert = () => {
         >
           <div className="usa-alert__body">
             <h3 className="usa-alert__heading">{title}</h3>
-            <p className="usa-alert__text">{message}</p>
+            <p
+              className="usa-alert__text"
+              dangerouslySetInnerHTML={{ __html: message }}
+            ></p>
           </div>
         </div>
       )
