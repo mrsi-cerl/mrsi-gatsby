@@ -1,5 +1,30 @@
-{
-  "startDate": "2019-10-01T10:05:00",
-  "endDate": "2019-10-01T10:05:00",
-  "message": "TESTING"
-}
+[
+  {
+    "startDate": "10:05  10/01/2019",
+    "endDate": "10:05  10/01/2019",
+    "message": "TESTING",
+    "level": "error",
+    "title": "Error status"
+  },
+  {
+    "startDate": "10:05  10/01/2019",
+    "endDate": "10:05  10/01/2019",
+    "message": "TESTING",
+    "level": "info",
+    "title": "Informative status"
+  },
+  {
+    "startDate": "10:05  10/01/2019",
+    "endDate": "10:05  10/01/2019",
+    "message": "TESTING",
+    "level": "success",
+    "title": "Success status"
+  },
+  {
+    "startDate": "10:05  10/01/2019",
+    "endDate": "10:05  10/01/2019",
+    "message": "TESTING",
+    "level": "warning",
+    "title": "Warning status"
+  }
+]
