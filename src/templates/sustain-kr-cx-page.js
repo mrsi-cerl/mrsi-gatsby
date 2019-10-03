@@ -73,9 +73,7 @@ export default ({ data, pageContext }) => {
         dangerouslySetInnerHTML={{ __html: pageData.html }}
       />
       <RelatedLinks related_links={pageData.frontmatter.related_links} />
-      {lib_path !== null && lib_path !== "" ? (
-        <Library rootDir={lib_path} />
-      ) : null}
+      <Library rootDir={lib_path} />
     </Layout>
   )
 }
