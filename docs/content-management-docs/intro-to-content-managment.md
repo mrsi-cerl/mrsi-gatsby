@@ -1,5 +1,7 @@
 # Intro to MRSI Portal Content Management
 
+We have migrated the website from Umbraco to Gatsby.
+
 The content of your pages consist of:
 
 - Markdown files and Images (Stored in the [Content Folder]() on GitHub)
@@ -25,7 +27,7 @@ Here is an example of the markdown file for a COS Page:
 
 There are two sections to a markdown file:
 
-- The **frontmatter** section which has key, value data. This is where the following kind of data lives:
+- The **frontmatter** section which has key, value data. This is where the following data lives:
   - POC Name and Email information
   - Related Links
   - Cerousel Image Paths
