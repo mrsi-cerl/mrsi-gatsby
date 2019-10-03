@@ -40,9 +40,7 @@ export default ({ data, pageContext }) => {
         <Carousel imgs={cos.frontmatter.carousel_images} />
         <div className={"md"} dangerouslySetInnerHTML={{ __html: cos.html }} />
         <RelatedLinks related_links={cos.frontmatter.related_links} />
-        {lib_path !== null && lib_path !== "" ? (
-          <Library rootDir={lib_path} />
-        ) : null}
+        <Library rootDir={lib_path} />
       </div>
     </Layout>
   )

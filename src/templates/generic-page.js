@@ -16,9 +16,7 @@ export default ({ data, pageContext }) => {
       <h1>{page.frontmatter.title}</h1>
       <div className={"md"} dangerouslySetInnerHTML={{ __html: page.html }} />
       <RelatedLinks related_links={page.frontmatter.related_links} />
-      {lib_path !== null && lib_path !== "" ? (
-        <Library rootDir={lib_path} />
-      ) : null}
+      <Library rootDir={lib_path} />
     </Layout>
   )
 }

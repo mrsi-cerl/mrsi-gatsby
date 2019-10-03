@@ -672,7 +672,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/27/2019 14:14:52",
+"LastModified": "10/03/2019 11:25:53",
 "Key": "content/cos/hnc/cdc/Library",
 "extension": "",
 "Size": ""
@@ -763,7 +763,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "09/27/2019 14:18:23",
+"LastModified": "10/03/2019 11:24:10",
 "Key": "content/cos/hnc/cdc/Library/Archive",
 "extension": "",
 "Size": ""
@@ -790,10 +790,10 @@
 "Size": ""
 },
 {
-"name": "Misc. Documents",
-"LastModified": "09/27/2019 14:19:16",
-"Key": "content/cos/hnc/cdc/Library/Misc. Documents",
-"extension": ". Documents",
+"name": "Misc. Docs (VE, LCCA, LEED, etc...)",
+"LastModified": "10/03/2019 11:31:57",
+"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
+"extension": ".)",
 "Size": ""
 },
 {
@@ -816,6 +816,13 @@
 "Key": "content/cos/hnc/cdc/Library/Archive/Energy Models",
 "extension": "",
 "Size": ""
+},
+{
+"name": "cdc-0-5-leed-v4-checklist.xls",
+"LastModified": "06/29/2015 11:51:44",
+"Key": "content/cos/hnc/cdc/Library/Archive/cdc-0-5-leed-v4-checklist.xls",
+"extension": ".xls",
+"Size": "148480"
 },
 {
 "name": "cdc-0-5_-final_20180201.pdf",
@@ -931,108 +938,129 @@
 },
 {
 "name": "Color Scheme",
-"LastModified": "09/27/2019 14:13:33",
-"Key": "content/cos/hnc/cdc/Library/Misc. Documents/Color Scheme",
+"LastModified": "10/03/2019 11:24:22",
+"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Color Scheme",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Energy Models",
-"LastModified": "09/27/2019 14:13:11",
-"Key": "content/cos/hnc/cdc/Library/Misc. Documents/Energy Models",
+"LastModified": "10/03/2019 11:24:36",
+"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models",
 "extension": "",
 "Size": ""
 },
 {
 "name": "POTR Reports",
-"LastModified": "09/27/2019 14:13:23",
-"Key": "content/cos/hnc/cdc/Library/Misc. Documents/POTR Reports",
+"LastModified": "10/03/2019 11:23:59",
+"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports",
 "extension": "",
 "Size": ""
 },
 {
 "name": "0 TOILET FIXTURE GRAB BAR SCHEDULE 072214.xlsx",
 "LastModified": "05/20/2015 13:51:36",
-"Key": "content/cos/hnc/cdc/Library/Misc. Documents/0 TOILET FIXTURE GRAB BAR SCHEDULE 072214.xlsx",
+"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/0 TOILET FIXTURE GRAB BAR SCHEDULE 072214.xlsx",
 "extension": ".xlsx",
 "Size": "23331"
 },
 {
-"name": "CDC POTR Reports - FY11.pdf",
-"LastModified": "05/20/2015 13:51:37",
-"Key": "content/cos/hnc/cdc/Library/Misc. Documents/CDC POTR Reports - FY11.pdf",
-"extension": ".pdf",
-"Size": "1702370"
-},
-{
-"name": "CDC POTR Reports - FY12.pdf",
-"LastModified": "05/20/2015 13:51:37",
-"Key": "content/cos/hnc/cdc/Library/Misc. Documents/CDC POTR Reports - FY12.pdf",
-"extension": ".pdf",
-"Size": "8857735"
-},
-{
-"name": "CDC POTR Reports - FY13.pdf",
-"LastModified": "05/20/2015 13:51:39",
-"Key": "content/cos/hnc/cdc/Library/Misc. Documents/CDC POTR Reports - FY13.pdf",
-"extension": ".pdf",
-"Size": "8731087"
-},
-{
-"name": "cdc-0-5-leed-v4-checklist.xls",
-"LastModified": "06/29/2015 11:51:44",
-"Key": "content/cos/hnc/cdc/Library/Misc. Documents/cdc-0-5-leed-v4-checklist.xls",
-"extension": ".xls",
-"Size": "148480"
-},
-{
 "name": "cdc-variations.jpg",
 "LastModified": "06/30/2015 11:35:29",
-"Key": "content/cos/hnc/cdc/Library/Misc. Documents/cdc-variations.jpg",
+"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/cdc-variations.jpg",
 "extension": ".jpg",
 "Size": "52751"
 },
 {
 "name": "Change_Proposal_and_Tracking_Form.pdf",
 "LastModified": "05/20/2015 13:51:40",
-"Key": "content/cos/hnc/cdc/Library/Misc. Documents/Change_Proposal_and_Tracking_Form.pdf",
+"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Change_Proposal_and_Tracking_Form.pdf",
 "extension": ".pdf",
 "Size": "149025"
 },
 {
-"name": "PRIMARY COLOR SCHEME 8_15_14.pdf",
-"LastModified": "05/20/2015 13:51:45",
-"Key": "content/cos/hnc/cdc/Library/Misc. Documents/PRIMARY COLOR SCHEME 8_15_14.pdf",
+"name": "Final LCCA Report - CDC 0-5.pdf",
+"LastModified": "10/03/2019 09:29:56",
+"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Final LCCA Report - CDC 0-5.pdf",
 "extension": ".pdf",
-"Size": "135836"
+"Size": "1068746"
+},
+{
+"name": "Final VE Report - CDC 0-5.pdf",
+"LastModified": "10/03/2019 09:30:00",
+"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Final VE Report - CDC 0-5.pdf",
+"extension": ".pdf",
+"Size": "9660363"
+},
+{
+"name": "LEED Checklist-Medium CDC.PDF",
+"LastModified": "10/03/2019 09:30:00",
+"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium CDC.PDF",
+"extension": ".PDF",
+"Size": "165438"
+},
+{
+"name": "LEED Checklist-Medium CDC.XLSX",
+"LastModified": "10/03/2019 09:30:01",
+"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium CDC.XLSX",
+"extension": ".XLSX",
+"Size": "43607"
 },
 {
 "name": "RFP Wizard Input - CDC (Aug-11).pdf",
 "LastModified": "05/20/2015 13:51:45",
-"Key": "content/cos/hnc/cdc/Library/Misc. Documents/RFP Wizard Input - CDC (Aug-11).pdf",
+"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP Wizard Input - CDC (Aug-11).pdf",
 "extension": ".pdf",
 "Size": "43566"
 },
 {
-"name": "SOUTHWEST COLOR SCHEME 8_15_14.pdf",
-"LastModified": "05/20/2015 13:51:47",
-"Key": "content/cos/hnc/cdc/Library/Misc. Documents/SOUTHWEST COLOR SCHEME 8_15_14.pdf",
-"extension": ".pdf",
-"Size": "141247"
-},
-{
 "name": "ufc-cancelled.docx",
 "LastModified": "10/14/2015 15:02:21",
-"Key": "content/cos/hnc/cdc/Library/Misc. Documents/ufc-cancelled.docx",
+"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/ufc-cancelled.docx",
 "extension": ".docx",
 "Size": "12669"
 },
 {
+"name": "PRIMARY COLOR SCHEME 8_15_14.pdf",
+"LastModified": "05/20/2015 13:51:45",
+"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Color Scheme/PRIMARY COLOR SCHEME 8_15_14.pdf",
+"extension": ".pdf",
+"Size": "135836"
+},
+{
+"name": "SOUTHWEST COLOR SCHEME 8_15_14.pdf",
+"LastModified": "05/20/2015 13:51:47",
+"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Color Scheme/SOUTHWEST COLOR SCHEME 8_15_14.pdf",
+"extension": ".pdf",
+"Size": "141247"
+},
+{
 "name": "Utility_Demands_Estimate_(Apr_10).xls",
 "LastModified": "05/20/2015 13:51:48",
-"Key": "content/cos/hnc/cdc/Library/Misc. Documents/Utility_Demands_Estimate_(Apr_10).xls",
+"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models/Utility_Demands_Estimate_(Apr_10).xls",
 "extension": ".xls",
 "Size": "2993152"
+},
+{
+"name": "CDC POTR Reports - FY11.pdf",
+"LastModified": "05/20/2015 13:51:37",
+"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/CDC POTR Reports - FY11.pdf",
+"extension": ".pdf",
+"Size": "1702370"
+},
+{
+"name": "CDC POTR Reports - FY12.pdf",
+"LastModified": "05/20/2015 13:51:37",
+"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/CDC POTR Reports - FY12.pdf",
+"extension": ".pdf",
+"Size": "8857735"
+},
+{
+"name": "CDC POTR Reports - FY13.pdf",
+"LastModified": "05/20/2015 13:51:39",
+"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/CDC POTR Reports - FY13.pdf",
+"extension": ".pdf",
+"Size": "8731087"
 },
 {
 "name": "Archive",
@@ -1477,7 +1505,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/27/2019 14:15:03",
+"LastModified": "10/03/2019 11:28:49",
 "Key": "content/cos/hnc/fs/Library",
 "extension": "",
 "Size": ""
@@ -1533,7 +1561,7 @@
 },
 {
 "name": "Archives",
-"LastModified": "09/27/2019 14:18:05",
+"LastModified": "10/03/2019 11:27:24",
 "Key": "content/cos/hnc/fs/Library/Archives",
 "extension": "",
 "Size": ""
@@ -1560,10 +1588,10 @@
 "Size": ""
 },
 {
-"name": "Misc. Documents",
-"LastModified": "09/27/2019 14:16:56",
-"Key": "content/cos/hnc/fs/Library/Misc. Documents",
-"extension": ". Documents",
+"name": "Misc. Docs (VE, LCCA, LEED, etc...)",
+"LastModified": "10/03/2019 11:31:32",
+"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
+"extension": ".)",
 "Size": ""
 },
 {
@@ -1586,6 +1614,13 @@
 "Key": "content/cos/hnc/fs/Library/Archives/Energy Models",
 "extension": "",
 "Size": ""
+},
+{
+"name": "firestation-leed-v4-checklist.xls",
+"LastModified": "06/29/2015 11:55:13",
+"Key": "content/cos/hnc/fs/Library/Archives/firestation-leed-v4-checklist.xls",
+"extension": ".xls",
+"Size": "130560"
 },
 {
 "name": "fire_station_1_co_hq_fy18.pdf",
@@ -1764,122 +1799,143 @@
 },
 {
 "name": "Energy Models",
-"LastModified": "09/27/2019 14:13:11",
-"Key": "content/cos/hnc/fs/Library/Misc. Documents/Energy Models",
+"LastModified": "10/03/2019 11:27:12",
+"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models",
 "extension": "",
 "Size": ""
 },
 {
 "name": "POTR Reports",
-"LastModified": "09/27/2019 14:13:23",
-"Key": "content/cos/hnc/fs/Library/Misc. Documents/POTR Reports",
+"LastModified": "10/03/2019 11:26:56",
+"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Change_Proposal_and_Tracking_Form.pdf",
 "LastModified": "05/20/2015 13:52:13",
-"Key": "content/cos/hnc/fs/Library/Misc. Documents/Change_Proposal_and_Tracking_Form.pdf",
+"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Change_Proposal_and_Tracking_Form.pdf",
 "extension": ".pdf",
 "Size": "149025"
 },
 {
-"name": "Energy Model - 1 Company HQ Fire Station.pdf",
-"LastModified": "05/20/2015 13:52:14",
-"Key": "content/cos/hnc/fs/Library/Misc. Documents/Energy Model - 1 Company HQ Fire Station.pdf",
+"name": "Final LCCA Report -  Fire Station.pdf",
+"LastModified": "10/03/2019 09:29:53",
+"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Final LCCA Report -  Fire Station.pdf",
 "extension": ".pdf",
-"Size": "4265385"
+"Size": "2594534"
 },
 {
-"name": "firestation-leed-v4-checklist.xls",
-"LastModified": "06/29/2015 11:55:13",
-"Key": "content/cos/hnc/fs/Library/Misc. Documents/firestation-leed-v4-checklist.xls",
-"extension": ".xls",
-"Size": "130560"
-},
-{
-"name": "FS POTR Reports - FY12.pdf",
-"LastModified": "05/20/2015 13:52:14",
-"Key": "content/cos/hnc/fs/Library/Misc. Documents/FS POTR Reports - FY12.pdf",
+"name": "Final VE Report - Fire Station HQ.pdf",
+"LastModified": "10/03/2019 09:30:05",
+"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Final VE Report - Fire Station HQ.pdf",
 "extension": ".pdf",
-"Size": "3112671"
-},
-{
-"name": "FS POTR Reports - FY13.pdf",
-"LastModified": "05/20/2015 13:52:15",
-"Key": "content/cos/hnc/fs/Library/Misc. Documents/FS POTR Reports - FY13.pdf",
-"extension": ".pdf",
-"Size": "805211"
-},
-{
-"name": "fs-potr-reports-fy15.pdf",
-"LastModified": "08/16/2016 10:04:42",
-"Key": "content/cos/hnc/fs/Library/Misc. Documents/fs-potr-reports-fy15.pdf",
-"extension": ".pdf",
-"Size": "1057052"
+"Size": "4543389"
 },
 {
 "name": "fs-variations.jpg",
 "LastModified": "06/29/2015 14:53:26",
-"Key": "content/cos/hnc/fs/Library/Misc. Documents/fs-variations.jpg",
+"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/fs-variations.jpg",
 "extension": ".jpg",
 "Size": "39975"
 },
 {
 "name": "Headquarters CADD files.zip",
 "LastModified": "05/20/2015 13:52:15",
-"Key": "content/cos/hnc/fs/Library/Misc. Documents/Headquarters CADD files.zip",
+"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Headquarters CADD files.zip",
 "extension": ".zip",
 "Size": "4221754"
 },
 {
 "name": "HQ Area Requirements.xls",
 "LastModified": "05/20/2015 13:52:16",
-"Key": "content/cos/hnc/fs/Library/Misc. Documents/HQ Area Requirements.xls",
+"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/HQ Area Requirements.xls",
 "extension": ".xls",
 "Size": "54784"
 },
 {
+"name": "LEED Checklist-Medium HQ_FS.PDF",
+"LastModified": "10/03/2019 09:30:04",
+"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium HQ_FS.PDF",
+"extension": ".PDF",
+"Size": "122176"
+},
+{
+"name": "LEED Checklist-Medium HQ_FS.XLSX",
+"LastModified": "10/03/2019 09:30:03",
+"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium HQ_FS.XLSX",
+"extension": ".XLSX",
+"Size": "43627"
+},
+{
 "name": "RFP Wizard Input - FS (Aug-11).pdf",
 "LastModified": "05/20/2015 13:52:16",
-"Key": "content/cos/hnc/fs/Library/Misc. Documents/RFP Wizard Input - FS (Aug-11).pdf",
+"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP Wizard Input - FS (Aug-11).pdf",
 "extension": ".pdf",
 "Size": "47668"
 },
 {
 "name": "Room-by-Room_Descriptions_-_FS_(Nov_10).pdf",
 "LastModified": "05/20/2015 13:52:17",
-"Key": "content/cos/hnc/fs/Library/Misc. Documents/Room-by-Room_Descriptions_-_FS_(Nov_10).pdf",
+"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Room-by-Room_Descriptions_-_FS_(Nov_10).pdf",
 "extension": ".pdf",
 "Size": "2806122"
 },
 {
 "name": "Satellite Area Requirements.xls",
 "LastModified": "05/20/2015 13:52:17",
-"Key": "content/cos/hnc/fs/Library/Misc. Documents/Satellite Area Requirements.xls",
+"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Satellite Area Requirements.xls",
 "extension": ".xls",
 "Size": "54784"
 },
 {
 "name": "Satellite CADD files.zip",
 "LastModified": "05/20/2015 13:52:18",
-"Key": "content/cos/hnc/fs/Library/Misc. Documents/Satellite CADD files.zip",
+"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Satellite CADD files.zip",
 "extension": ".zip",
 "Size": "3009712"
 },
 {
 "name": "ufc-cancelled.docx",
 "LastModified": "10/14/2015 15:02:43",
-"Key": "content/cos/hnc/fs/Library/Misc. Documents/ufc-cancelled.docx",
+"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/ufc-cancelled.docx",
 "extension": ".docx",
 "Size": "12669"
 },
 {
+"name": "Energy Model - 1 Company HQ Fire Station.pdf",
+"LastModified": "05/20/2015 13:52:14",
+"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models/Energy Model - 1 Company HQ Fire Station.pdf",
+"extension": ".pdf",
+"Size": "4265385"
+},
+{
 "name": "Utility_Demands_Estimate_(Apr_10).xls",
 "LastModified": "05/20/2015 13:52:18",
-"Key": "content/cos/hnc/fs/Library/Misc. Documents/Utility_Demands_Estimate_(Apr_10).xls",
+"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models/Utility_Demands_Estimate_(Apr_10).xls",
 "extension": ".xls",
 "Size": "2993152"
+},
+{
+"name": "FS POTR Reports - FY12.pdf",
+"LastModified": "05/20/2015 13:52:14",
+"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/FS POTR Reports - FY12.pdf",
+"extension": ".pdf",
+"Size": "3112671"
+},
+{
+"name": "FS POTR Reports - FY13.pdf",
+"LastModified": "05/20/2015 13:52:15",
+"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/FS POTR Reports - FY13.pdf",
+"extension": ".pdf",
+"Size": "805211"
+},
+{
+"name": "fs-potr-reports-fy15.pdf",
+"LastModified": "08/16/2016 10:04:42",
+"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/fs-potr-reports-fy15.pdf",
+"extension": ".pdf",
+"Size": "1057052"
 },
 {
 "name": "Standard_Drawings_-_HQ_FS_One_Company_(Nov_10).pdf",
@@ -2156,7 +2212,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/27/2019 14:15:13",
+"LastModified": "10/03/2019 11:29:14",
 "Key": "content/cos/hnc/pff/Library",
 "extension": "",
 "Size": ""
@@ -2317,7 +2373,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "09/27/2019 14:18:32",
+"LastModified": "10/03/2019 11:29:56",
 "Key": "content/cos/hnc/pff/Library/Archive",
 "extension": "",
 "Size": ""
@@ -2344,10 +2400,10 @@
 "Size": ""
 },
 {
-"name": "Misc. Documents",
-"LastModified": "09/27/2019 14:17:05",
-"Key": "content/cos/hnc/pff/Library/Misc. Documents",
-"extension": ". Documents",
+"name": "Misc. Docs (VE, LCCA, LEED, etc...)",
+"LastModified": "10/03/2019 11:31:04",
+"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
+"extension": ".)",
 "Size": ""
 },
 {
@@ -2363,6 +2419,13 @@
 "Key": "content/cos/hnc/pff/Library/Archive/Energy Models",
 "extension": "",
 "Size": ""
+},
+{
+"name": "pff-leed-v4-checklist.xls",
+"LastModified": "06/29/2015 12:14:25",
+"Key": "content/cos/hnc/pff/Library/Archive/pff-leed-v4-checklist.xls",
+"extension": ".xls",
+"Size": "130560"
 },
 {
 "name": "physical-fitness-facility_extra_small_25-meter-pool_fy18.pdf",
@@ -2597,115 +2660,129 @@
 },
 {
 "name": "Energy Models",
-"LastModified": "09/27/2019 14:13:11",
-"Key": "content/cos/hnc/pff/Library/Misc. Documents/Energy Models",
+"LastModified": "10/03/2019 11:30:13",
+"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models",
 "extension": "",
 "Size": ""
 },
 {
 "name": "POTR Reports",
-"LastModified": "09/27/2019 14:13:23",
-"Key": "content/cos/hnc/pff/Library/Misc. Documents/POTR Reports",
+"LastModified": "10/03/2019 11:29:30",
+"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Change_Proposal_and_Tracking_Form.pdf",
 "LastModified": "05/20/2015 13:52:35",
-"Key": "content/cos/hnc/pff/Library/Misc. Documents/Change_Proposal_and_Tracking_Form.pdf",
+"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Change_Proposal_and_Tracking_Form.pdf",
 "extension": ".pdf",
 "Size": "149025"
 },
 {
+"name": "Final VE Report - PFF- Physical Fitness Facility.pdf",
+"LastModified": "10/03/2019 09:29:58",
+"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Final VE Report - PFF- Physical Fitness Facility.pdf",
+"extension": ".pdf",
+"Size": "1895154"
+},
+{
+"name": "LEED Checklist-Medium PFF.PDF",
+"LastModified": "10/03/2019 09:30:04",
+"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium PFF.PDF",
+"extension": ".PDF",
+"Size": "165530"
+},
+{
+"name": "LEED Checklist-Medium PFF.xlsx",
+"LastModified": "10/03/2019 09:30:05",
+"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium PFF.xlsx",
+"extension": ".xlsx",
+"Size": "43689"
+},
+{
 "name": "natorium-facilities-leed-v4-checklist.xls",
 "LastModified": "06/29/2015 12:14:25",
-"Key": "content/cos/hnc/pff/Library/Misc. Documents/natorium-facilities-leed-v4-checklist.xls",
+"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/natorium-facilities-leed-v4-checklist.xls",
 "extension": ".xls",
 "Size": "130560"
-},
-{
-"name": "PFF POTR Reports - FY11.pdf",
-"LastModified": "05/20/2015 13:52:36",
-"Key": "content/cos/hnc/pff/Library/Misc. Documents/PFF POTR Reports - FY11.pdf",
-"extension": ".pdf",
-"Size": "295122"
-},
-{
-"name": "PFF POTR Reports - FY12.pdf",
-"LastModified": "05/20/2015 13:52:36",
-"Key": "content/cos/hnc/pff/Library/Misc. Documents/PFF POTR Reports - FY12.pdf",
-"extension": ".pdf",
-"Size": "4198645"
-},
-{
-"name": "PFF POTR Reports - FY13.pdf",
-"LastModified": "05/20/2015 13:52:37",
-"Key": "content/cos/hnc/pff/Library/Misc. Documents/PFF POTR Reports - FY13.pdf",
-"extension": ".pdf",
-"Size": "3073898"
-},
-{
-"name": "pff-leed-v4-checklist.xls",
-"LastModified": "06/29/2015 12:14:25",
-"Key": "content/cos/hnc/pff/Library/Misc. Documents/pff-leed-v4-checklist.xls",
-"extension": ".xls",
-"Size": "130560"
-},
-{
-"name": "pff-potr-reports-fy14.pdf",
-"LastModified": "08/11/2017 15:32:06",
-"Key": "content/cos/hnc/pff/Library/Misc. Documents/pff-potr-reports-fy14.pdf",
-"extension": ".pdf",
-"Size": "1051287"
-},
-{
-"name": "pff-potr-reports-fy15.pdf",
-"LastModified": "08/11/2017 15:30:41",
-"Key": "content/cos/hnc/pff/Library/Misc. Documents/pff-potr-reports-fy15.pdf",
-"extension": ".pdf",
-"Size": "2530028"
 },
 {
 "name": "pff-variations.jpg",
 "LastModified": "06/29/2015 11:19:41",
-"Key": "content/cos/hnc/pff/Library/Misc. Documents/pff-variations.jpg",
+"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/pff-variations.jpg",
 "extension": ".jpg",
 "Size": "115905"
 },
 {
 "name": "RFP Wizard Input - PFF (Aug-11) (1).pdf",
 "LastModified": "05/20/2015 13:52:37",
-"Key": "content/cos/hnc/pff/Library/Misc. Documents/RFP Wizard Input - PFF (Aug-11) (1).pdf",
+"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP Wizard Input - PFF (Aug-11) (1).pdf",
 "extension": ".pdf",
 "Size": "63824"
 },
 {
 "name": "RFP Wizard Input - PFF (Aug-11).pdf",
 "LastModified": "05/20/2015 13:52:38",
-"Key": "content/cos/hnc/pff/Library/Misc. Documents/RFP Wizard Input - PFF (Aug-11).pdf",
+"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP Wizard Input - PFF (Aug-11).pdf",
 "extension": ".pdf",
 "Size": "63824"
 },
 {
 "name": "RFP Wizard Input - PFF Natatorium (Mar_11).pdf",
 "LastModified": "05/20/2015 13:52:38",
-"Key": "content/cos/hnc/pff/Library/Misc. Documents/RFP Wizard Input - PFF Natatorium (Mar_11).pdf",
+"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP Wizard Input - PFF Natatorium (Mar_11).pdf",
 "extension": ".pdf",
 "Size": "1162937"
 },
 {
 "name": "ufc-cancelled.docx",
 "LastModified": "10/14/2015 15:03:04",
-"Key": "content/cos/hnc/pff/Library/Misc. Documents/ufc-cancelled.docx",
+"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/ufc-cancelled.docx",
 "extension": ".docx",
 "Size": "12669"
 },
 {
 "name": "Utility_Demands_Estimate_(Apr_10).xls",
 "LastModified": "05/20/2015 13:52:39",
-"Key": "content/cos/hnc/pff/Library/Misc. Documents/Utility_Demands_Estimate_(Apr_10).xls",
+"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models/Utility_Demands_Estimate_(Apr_10).xls",
 "extension": ".xls",
 "Size": "2993152"
+},
+{
+"name": "PFF POTR Reports - FY11.pdf",
+"LastModified": "05/20/2015 13:52:36",
+"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/PFF POTR Reports - FY11.pdf",
+"extension": ".pdf",
+"Size": "295122"
+},
+{
+"name": "PFF POTR Reports - FY12.pdf",
+"LastModified": "05/20/2015 13:52:36",
+"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/PFF POTR Reports - FY12.pdf",
+"extension": ".pdf",
+"Size": "4198645"
+},
+{
+"name": "PFF POTR Reports - FY13.pdf",
+"LastModified": "05/20/2015 13:52:37",
+"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/PFF POTR Reports - FY13.pdf",
+"extension": ".pdf",
+"Size": "3073898"
+},
+{
+"name": "pff-potr-reports-fy14.pdf",
+"LastModified": "08/11/2017 15:32:06",
+"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/pff-potr-reports-fy14.pdf",
+"extension": ".pdf",
+"Size": "1051287"
+},
+{
+"name": "pff-potr-reports-fy15.pdf",
+"LastModified": "08/11/2017 15:30:41",
+"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/pff-potr-reports-fy15.pdf",
+"extension": ".pdf",
+"Size": "2530028"
 },
 {
 "name": "Archive",
@@ -3346,7 +3423,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/27/2019 14:15:35",
+"LastModified": "10/03/2019 11:32:25",
 "Key": "content/cos/hnc/yc/Library",
 "extension": "",
 "Size": ""
@@ -3423,7 +3500,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "09/27/2019 14:18:45",
+"LastModified": "10/03/2019 11:32:55",
 "Key": "content/cos/hnc/yc/Library/Archive",
 "extension": "",
 "Size": ""
@@ -3450,10 +3527,10 @@
 "Size": ""
 },
 {
-"name": "Misc. Documents",
-"LastModified": "09/27/2019 14:16:32",
-"Key": "content/cos/hnc/yc/Library/Misc. Documents",
-"extension": ". Documents",
+"name": "Misc. Docs (VE, LCCA, LEED, etc...)",
+"LastModified": "10/03/2019 11:33:09",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
+"extension": ".)",
 "Size": ""
 },
 {
@@ -3476,6 +3553,13 @@
 "Key": "content/cos/hnc/yc/Library/Archive/Energy Models",
 "extension": "",
 "Size": ""
+},
+{
+"name": "yac-leed-v4-checklist.xls",
+"LastModified": "06/29/2015 12:18:08",
+"Key": "content/cos/hnc/yc/Library/Archive/yac-leed-v4-checklist.xls",
+"extension": ".xls",
+"Size": "148480"
 },
 {
 "name": "yc-11-18_final_20180201.pdf",
@@ -3683,107 +3767,128 @@
 {
 "name": "Color Scheme",
 "LastModified": "09/27/2019 14:13:33",
-"Key": "content/cos/hnc/yc/Library/Misc. Documents/Color Scheme",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Color Scheme",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Energy Models",
-"LastModified": "09/27/2019 14:13:11",
-"Key": "content/cos/hnc/yc/Library/Misc. Documents/Energy Models",
+"LastModified": "10/03/2019 11:32:45",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models",
 "extension": "",
 "Size": ""
 },
 {
 "name": "POTR Reports",
 "LastModified": "09/27/2019 14:13:23",
-"Key": "content/cos/hnc/yc/Library/Misc. Documents/POTR Reports",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports",
 "extension": "",
 "Size": ""
 },
 {
 "name": "0 TOILET FIXTURE GRAB BAR SCHEDULE 072214.xlsx",
 "LastModified": "05/20/2015 13:53:20",
-"Key": "content/cos/hnc/yc/Library/Misc. Documents/0 TOILET FIXTURE GRAB BAR SCHEDULE 072214.xlsx",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/0 TOILET FIXTURE GRAB BAR SCHEDULE 072214.xlsx",
 "extension": ".xlsx",
 "Size": "23331"
 },
 {
 "name": "Change_Proposal_and_Tracking_Form.pdf",
 "LastModified": "05/20/2015 13:53:20",
-"Key": "content/cos/hnc/yc/Library/Misc. Documents/Change_Proposal_and_Tracking_Form.pdf",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Change_Proposal_and_Tracking_Form.pdf",
 "extension": ".pdf",
 "Size": "149025"
 },
 {
 "name": "Design_Narrative_(Nov_10).pdf",
 "LastModified": "05/20/2015 13:53:20",
-"Key": "content/cos/hnc/yc/Library/Misc. Documents/Design_Narrative_(Nov_10).pdf",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Design_Narrative_(Nov_10).pdf",
 "extension": ".pdf",
 "Size": "282440"
 },
 {
 "name": "Equipment_List_-_YAC,_Kitchen_(Oct_08).pdf",
 "LastModified": "05/20/2015 13:53:21",
-"Key": "content/cos/hnc/yc/Library/Misc. Documents/Equipment_List_-_YAC,_Kitchen_(Oct_08).pdf",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Equipment_List_-_YAC,_Kitchen_(Oct_08).pdf",
 "extension": ".pdf",
 "Size": "16216"
 },
 {
+"name": "Final LCCA Report - YC 11-18.pdf",
+"LastModified": "10/03/2019 09:29:56",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Final LCCA Report - YC 11-18.pdf",
+"extension": ".pdf",
+"Size": "864864"
+},
+{
+"name": "Final VE Report - YC 11-18.pdf",
+"LastModified": "10/03/2019 09:30:05",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Final VE Report - YC 11-18.pdf",
+"extension": ".pdf",
+"Size": "14235161"
+},
+{
 "name": "Finish Schedule - Cool (May 2011).pdf",
 "LastModified": "05/20/2015 13:53:21",
-"Key": "content/cos/hnc/yc/Library/Misc. Documents/Finish Schedule - Cool (May 2011).pdf",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Finish Schedule - Cool (May 2011).pdf",
 "extension": ".pdf",
 "Size": "17372"
 },
 {
 "name": "Finish Schedule - Warm (May 2011).pdf",
 "LastModified": "05/20/2015 13:53:21",
-"Key": "content/cos/hnc/yc/Library/Misc. Documents/Finish Schedule - Warm (May 2011).pdf",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Finish Schedule - Warm (May 2011).pdf",
 "extension": ".pdf",
 "Size": "16515"
 },
 {
 "name": "Finishes and Patterns (Mar 2011).pdf",
 "LastModified": "05/20/2015 13:53:21",
-"Key": "content/cos/hnc/yc/Library/Misc. Documents/Finishes and Patterns (Mar 2011).pdf",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Finishes and Patterns (Mar 2011).pdf",
 "extension": ".pdf",
 "Size": "355166"
 },
 {
+"name": "LEED Checklist-Medium YC.PDF",
+"LastModified": "10/03/2019 09:30:06",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium YC.PDF",
+"extension": ".PDF",
+"Size": "122223"
+},
+{
+"name": "LEED Checklist-Medium YC.XLSX",
+"LastModified": "10/03/2019 09:30:07",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium YC.XLSX",
+"extension": ".XLSX",
+"Size": "43593"
+},
+{
 "name": "RFP_Wizard_Input_-_YAC_(May_09).pdf",
 "LastModified": "05/20/2015 13:53:22",
-"Key": "content/cos/hnc/yc/Library/Misc. Documents/RFP_Wizard_Input_-_YAC_(May_09).pdf",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP_Wizard_Input_-_YAC_(May_09).pdf",
 "extension": ".pdf",
 "Size": "98156"
 },
 {
 "name": "Room_Descriptions_(Nov_10).pdf",
 "LastModified": "05/20/2015 13:53:22",
-"Key": "content/cos/hnc/yc/Library/Misc. Documents/Room_Descriptions_(Nov_10).pdf",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Room_Descriptions_(Nov_10).pdf",
 "extension": ".pdf",
 "Size": "158348"
 },
 {
-"name": "Utility_Demands_Estimate_(Apr_10).xls",
-"LastModified": "05/20/2015 13:53:22",
-"Key": "content/cos/hnc/yc/Library/Misc. Documents/Utility_Demands_Estimate_(Apr_10).xls",
-"extension": ".xls",
-"Size": "2993152"
-},
-{
-"name": "yac-leed-v4-checklist.xls",
-"LastModified": "06/29/2015 12:18:08",
-"Key": "content/cos/hnc/yc/Library/Misc. Documents/yac-leed-v4-checklist.xls",
-"extension": ".xls",
-"Size": "148480"
-},
-{
 "name": "yc-variations.jpg",
 "LastModified": "06/30/2015 11:40:27",
-"Key": "content/cos/hnc/yc/Library/Misc. Documents/yc-variations.jpg",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/yc-variations.jpg",
 "extension": ".jpg",
 "Size": "49972"
+},
+{
+"name": "Utility_Demands_Estimate_(Apr_10).xls",
+"LastModified": "05/20/2015 13:53:22",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models/Utility_Demands_Estimate_(Apr_10).xls",
+"extension": ".xls",
+"Size": "2993152"
 },
 {
 "name": "Archive",

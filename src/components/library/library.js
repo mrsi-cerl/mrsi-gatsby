@@ -74,6 +74,8 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
     }
   `)
 
+  if (rootDir === null || rootDir === "") return null
+
   const bc = getBreadcrumbs(rootDir, dir)
   return (
     <>
