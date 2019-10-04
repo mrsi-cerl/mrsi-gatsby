@@ -7861,7 +7861,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/26/2019 16:54:48",
+"LastModified": "10/04/2019 11:21:54",
 "Key": "content/cos/sam/gsab/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -7895,13 +7895,6 @@
 "Size": "100298"
 },
 {
-"name": "20190828_gsab-hangar-floor-plans.pdf",
-"LastModified": "08/28/2019 17:07:43",
-"Key": "content/cos/sam/gsab/Library/Standard Designs/20190828_gsab-hangar-floor-plans.pdf",
-"extension": ".pdf",
-"Size": "303659"
-},
-{
 "name": "20190905-gsab-standard-design.pdf",
 "LastModified": "09/05/2019 16:39:51",
 "Key": "content/cos/sam/gsab/Library/Standard Designs/20190905-gsab-standard-design.pdf",
@@ -7921,6 +7914,13 @@
 "Key": "content/cos/sam/gsab/Library/Standard Designs/20190906_GSAB_4-60x4-47_A-101 - NOTIONAL PLAN - SECOND FLOOR COMPOSITE.DWG",
 "extension": ".DWG",
 "Size": "1011748"
+},
+{
+"name": "20190916 GSAB COMPOSITE PLANS FOLIO.PDF",
+"LastModified": "10/04/2019 11:19:50",
+"Key": "content/cos/sam/gsab/Library/Standard Designs/20190916 GSAB COMPOSITE PLANS FOLIO.PDF",
+"extension": ".PDF",
+"Size": "4718444"
 },
 {
 "name": "Library",
