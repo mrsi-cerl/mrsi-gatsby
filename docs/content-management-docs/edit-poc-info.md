@@ -32,7 +32,7 @@ All you need to do is put the email and name associated with the correct key
 
 ### How to list more than one email
 
-You just need to have a semicolon adn space in-between the emails as seen below
+You just need to have a semicolon and space in-between the emails as seen below
 
 ```
 expert_email: email1@usace.army.mil; email2@usace.army.mil; email3@usace.army.mil
