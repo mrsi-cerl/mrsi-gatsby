@@ -28,14 +28,14 @@
 },
 {
 "name": "Model RFP",
-"LastModified": "09/25/2019 08:26:11",
+"LastModified": "10/04/2019 14:06:13",
 "Key": "content/Model RFP",
 "extension": "",
 "Size": ""
 },
 {
 "name": "MRSI",
-"LastModified": "09/25/2019 08:26:11",
+"LastModified": "10/04/2019 11:35:30",
 "Key": "content/MRSI",
 "extension": "",
 "Size": ""
@@ -12830,16 +12830,16 @@
 "Size": ""
 },
 {
-"name": "Policy",
-"LastModified": "09/24/2019 10:28:21",
-"Key": "content/Model RFP/Policy",
+"name": "Small Projects",
+"LastModified": "09/25/2019 08:26:11",
+"Key": "content/Model RFP/Small Projects",
 "extension": "",
 "Size": ""
 },
 {
-"name": "Small Projects",
-"LastModified": "09/25/2019 08:26:11",
-"Key": "content/Model RFP/Small Projects",
+"name": "Waiver",
+"LastModified": "10/04/2019 14:06:37",
+"Key": "content/Model RFP/Waiver",
 "extension": "",
 "Size": ""
 },
@@ -13159,67 +13159,32 @@
 "Size": "49981"
 },
 {
-"name": "FAQ",
-"LastModified": "09/25/2019 08:26:11",
-"Key": "content/MRSI/FAQ",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Minutes Files",
-"LastModified": "09/25/2019 08:26:11",
-"Key": "content/MRSI/Minutes Files",
-"extension": "",
-"Size": ""
-},
-{
-"name": "certificate-error_-navigation-blocked-internet-explorer.png",
-"LastModified": "03/31/2017 08:49:09",
-"Key": "content/MRSI/FAQ/certificate-error_-navigation-blocked-internet-explorer.png",
-"extension": ".png",
-"Size": "24718"
-},
-{
-"name": "20150917_155605.jpg",
-"LastModified": "09/18/2015 08:50:02",
-"Key": "content/MRSI/Minutes Files/20150917_155605.jpg",
-"extension": ".jpg",
-"Size": "345175"
-},
-{
-"name": "20180525-dod-cyber-awareness-carr.pdf",
-"LastModified": "03/04/2019 15:12:20",
-"Key": "content/MRSI/Minutes Files/20180525-dod-cyber-awareness-carr.pdf",
+"name": "AR 420-1 Waiver Process  (29 Sept 2017).pdf",
+"LastModified": "10/04/2019 14:06:20",
+"Key": "content/Model RFP/Waiver/AR 420-1 Waiver Process  (29 Sept 2017).pdf",
 "extension": ".pdf",
-"Size": "117494"
+"Size": "502363"
 },
 {
-"name": "documentation-calendar.pdf",
-"LastModified": "09/08/2015 20:49:03",
-"Key": "content/MRSI/Minutes Files/documentation-calendar.pdf",
+"name": "SD Waiver Update (May 11).pdf",
+"LastModified": "10/04/2019 14:06:37",
+"Key": "content/Model RFP/Waiver/SD Waiver Update (May 11).pdf",
 "extension": ".pdf",
-"Size": "156464"
+"Size": "42207"
 },
 {
-"name": "heathcasual.jpg",
-"LastModified": "12/13/2016 12:11:36",
-"Key": "content/MRSI/Minutes Files/heathcasual.jpg",
-"extension": ".jpg",
-"Size": "46104"
+"name": "Waiver Concurrence form Apr 11.doc",
+"LastModified": "10/04/2019 14:06:08",
+"Key": "content/Model RFP/Waiver/Waiver Concurrence form Apr 11.doc",
+"extension": ".doc",
+"Size": "38400"
 },
 {
 "name": "mt-cos-placemat-042507.ppt",
 "LastModified": "09/18/2015 08:46:32",
-"Key": "content/MRSI/Minutes Files/mt-cos-placemat-042507.ppt",
+"Key": "content/MRSI/mt-cos-placemat-042507.ppt",
 "extension": ".ppt",
-"Size": "4037120"
-},
-{
-"name": "usace_sharepoint_list.xlsx",
-"LastModified": "03/01/2016 13:09:52",
-"Key": "content/MRSI/Minutes Files/usace_sharepoint_list.xlsx",
-"extension": ".xlsx",
-"Size": "62841"
+"Size": "4039168"
 },
 {
 "name": "AAR",

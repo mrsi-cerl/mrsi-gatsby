@@ -2,6 +2,7 @@
 title: AR 420-1 Waiver Process
 doc_type: generic_page
 slug: /model-rfp/waiver-process/
+file_library_root_path: content/Model RFP/Waiver/
 ---
 
 ## Army Facilities Standardization Committee (AFSC)
@@ -42,4 +43,4 @@ slug: /model-rfp/waiver-process/
    ASAP. The COS will assess approved waiver for possible permanent change to the current Standard
    Design/Criteria.
 
-**Draft Waiver Template:** [Click here to download the waiver](https://cg-d19603a8-407d-46f0-a631-c1499a028c87.s3-us-gov-west-1.amazonaws.com/content/model-rfp/Waiver%20Concurrence%20form%20Apr%2011.doc)
+**Draft Waiver Template:** See *Waiver Concurrence form April 11.doc* in the Library below.
