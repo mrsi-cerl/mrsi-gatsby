@@ -2,7 +2,7 @@
 title: AR 420-1 Waiver Process
 doc_type: generic_page
 slug: /cos/waiver-process/
-file_library_root_path: content/Model RFP/Waiver/
+file_library_root_path: content/cos/Waiver/
 ---
 
 ## Army Facilities Standardization Committee (AFSC)

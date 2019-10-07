@@ -14,7 +14,7 @@
 },
 {
 "name": "cos",
-"LastModified": "09/26/2019 09:52:21",
+"LastModified": "10/07/2019 10:33:40",
 "Key": "content/cos",
 "extension": "",
 "Size": ""
@@ -28,7 +28,7 @@
 },
 {
 "name": "Model RFP",
-"LastModified": "10/04/2019 14:06:13",
+"LastModified": "10/07/2019 10:33:40",
 "Key": "content/Model RFP",
 "extension": "",
 "Size": ""
@@ -135,6 +135,13 @@
 "name": "tam",
 "LastModified": "09/26/2019 16:03:58",
 "Key": "content/cos/tam",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Waiver",
+"LastModified": "10/07/2019 09:49:36",
+"Key": "content/cos/Waiver",
 "extension": "",
 "Size": ""
 },
@@ -12578,6 +12585,27 @@
 "Size": "245428"
 },
 {
+"name": "AR 420-1 Waiver Process  (29 Sept 2017).pdf",
+"LastModified": "10/04/2019 14:06:20",
+"Key": "content/cos/Waiver/AR 420-1 Waiver Process  (29 Sept 2017).pdf",
+"extension": ".pdf",
+"Size": "502363"
+},
+{
+"name": "SD Waiver Concurrence form (2018).doc",
+"LastModified": "06/12/2018 13:29:57",
+"Key": "content/cos/Waiver/SD Waiver Concurrence form (2018).doc",
+"extension": ".doc",
+"Size": "38912"
+},
+{
+"name": "SD Waiver Update (May 11).pdf",
+"LastModified": "10/04/2019 14:06:37",
+"Key": "content/cos/Waiver/SD Waiver Update (May 11).pdf",
+"extension": ".pdf",
+"Size": "42207"
+},
+{
 "name": "Carousel",
 "LastModified": "09/25/2019 08:26:08",
 "Key": "content/CRST/Carousel",
@@ -12833,13 +12861,6 @@
 "name": "Small Projects",
 "LastModified": "09/25/2019 08:26:11",
 "Key": "content/Model RFP/Small Projects",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Waiver",
-"LastModified": "10/04/2019 14:06:37",
-"Key": "content/Model RFP/Waiver",
 "extension": "",
 "Size": ""
 },
@@ -13157,27 +13178,6 @@
 "Key": "content/Model RFP/Small Projects/small-projects-wizard-executive-summary.pdf",
 "extension": ".pdf",
 "Size": "49981"
-},
-{
-"name": "AR 420-1 Waiver Process  (29 Sept 2017).pdf",
-"LastModified": "10/04/2019 14:06:20",
-"Key": "content/Model RFP/Waiver/AR 420-1 Waiver Process  (29 Sept 2017).pdf",
-"extension": ".pdf",
-"Size": "502363"
-},
-{
-"name": "SD Waiver Update (May 11).pdf",
-"LastModified": "10/04/2019 14:06:37",
-"Key": "content/Model RFP/Waiver/SD Waiver Update (May 11).pdf",
-"extension": ".pdf",
-"Size": "42207"
-},
-{
-"name": "Waiver Concurrence form Apr 11.doc",
-"LastModified": "10/04/2019 14:06:08",
-"Key": "content/Model RFP/Waiver/Waiver Concurrence form Apr 11.doc",
-"extension": ".doc",
-"Size": "38400"
 },
 {
 "name": "mt-cos-placemat-042507.ppt",
