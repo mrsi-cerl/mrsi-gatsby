@@ -13,6 +13,10 @@ const pages = {
       slug: "/cos/standard-designs",
     },
     {
+      caption: "MILCON Waiver Process",
+      slug: "/cos/waiver-process/",
+    },
+    {
       caption: "Points of Contact",
       slug: "/cos/poc",
     },
@@ -42,7 +46,7 @@ const pages = {
     },
     {
       caption: "MILCON Waiver Process",
-      slug: "/model-rfp/waiver-process/",
+      slug: "/cos/waiver-process/",
     },
   ],
   SUSTAIN: [

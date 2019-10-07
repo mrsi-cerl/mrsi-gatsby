@@ -1,7 +1,7 @@
 ---
 title: AR 420-1 Waiver Process
 doc_type: generic_page
-slug: /model-rfp/waiver-process/
+slug: /cos/waiver-process/
 file_library_root_path: content/Model RFP/Waiver/
 ---
 
@@ -43,4 +43,4 @@ file_library_root_path: content/Model RFP/Waiver/
    ASAP. The COS will assess approved waiver for possible permanent change to the current Standard
    Design/Criteria.
 
-**Draft Waiver Template:** See *Waiver Concurrence form April 11.doc* in the Library below.
+**Draft Waiver Template:** See *Waiver Concurrence form* in the Library below.
