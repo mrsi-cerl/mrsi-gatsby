@@ -28,7 +28,12 @@ sustain_erdc_liaison_name:
 sustain_erdc_liaison_email:
 ```
 
-All you need to do is put the email and name associated with the correct key
+### Instructions for editing
+
+1. Find the markdown file in the content folder of your fork.
+2. Click the pencil edit icon on the top left corner of the markdown body.
+3. Make edits
+4. Click "commit changes"
 
 ### How to list more than one email
 

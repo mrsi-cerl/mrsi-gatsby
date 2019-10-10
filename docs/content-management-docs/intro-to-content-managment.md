@@ -44,3 +44,9 @@ Github is a website that allows us to store code and other files associated with
 Everytime a change is made to the files on Github, they are pushed to the website.
 
 Please sign up for a Free account at [this link](https://github.com/join)
+
+After you have signed into your new Github account, go to the [mrsi-cerl/mrsi-gatsby page](https://github.com/mrsi-cerl/mrsi-gatsby) and click the "Fork" button in the top right corner of the page.
+
+You should now have a copy of the site associated with your username which will be available at `https://github.com/your-username/mrsi-gatsby`. (replace `your-username` with your Github user name). You can also find it on the home page and your account page.
+
+You will be making all edits on to this fork you just created.
