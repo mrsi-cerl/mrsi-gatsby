@@ -14,7 +14,7 @@
 },
 {
 "name": "cos",
-"LastModified": "09/26/2019 09:52:21",
+"LastModified": "10/07/2019 10:33:40",
 "Key": "content/cos",
 "extension": "",
 "Size": ""
@@ -28,14 +28,14 @@
 },
 {
 "name": "Model RFP",
-"LastModified": "09/25/2019 08:26:11",
+"LastModified": "10/07/2019 10:33:40",
 "Key": "content/Model RFP",
 "extension": "",
 "Size": ""
 },
 {
 "name": "MRSI",
-"LastModified": "09/25/2019 08:26:11",
+"LastModified": "10/04/2019 11:35:30",
 "Key": "content/MRSI",
 "extension": "",
 "Size": ""
@@ -135,6 +135,13 @@
 "name": "tam",
 "LastModified": "09/26/2019 16:03:58",
 "Key": "content/cos/tam",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Waiver",
+"LastModified": "10/07/2019 09:49:36",
+"Key": "content/cos/Waiver",
 "extension": "",
 "Size": ""
 },
@@ -7861,7 +7868,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/26/2019 16:54:48",
+"LastModified": "10/04/2019 11:21:54",
 "Key": "content/cos/sam/gsab/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -7895,13 +7902,6 @@
 "Size": "100298"
 },
 {
-"name": "20190828_gsab-hangar-floor-plans.pdf",
-"LastModified": "08/28/2019 17:07:43",
-"Key": "content/cos/sam/gsab/Library/Standard Designs/20190828_gsab-hangar-floor-plans.pdf",
-"extension": ".pdf",
-"Size": "303659"
-},
-{
 "name": "20190905-gsab-standard-design.pdf",
 "LastModified": "09/05/2019 16:39:51",
 "Key": "content/cos/sam/gsab/Library/Standard Designs/20190905-gsab-standard-design.pdf",
@@ -7921,6 +7921,13 @@
 "Key": "content/cos/sam/gsab/Library/Standard Designs/20190906_GSAB_4-60x4-47_A-101 - NOTIONAL PLAN - SECOND FLOOR COMPOSITE.DWG",
 "extension": ".DWG",
 "Size": "1011748"
+},
+{
+"name": "20190916 GSAB COMPOSITE PLANS FOLIO.PDF",
+"LastModified": "10/04/2019 11:19:50",
+"Key": "content/cos/sam/gsab/Library/Standard Designs/20190916 GSAB COMPOSITE PLANS FOLIO.PDF",
+"extension": ".PDF",
+"Size": "4718444"
 },
 {
 "name": "Library",
@@ -12578,6 +12585,27 @@
 "Size": "245428"
 },
 {
+"name": "AR 420-1 Waiver Process  (29 Sept 2017).pdf",
+"LastModified": "10/04/2019 14:06:20",
+"Key": "content/cos/Waiver/AR 420-1 Waiver Process  (29 Sept 2017).pdf",
+"extension": ".pdf",
+"Size": "502363"
+},
+{
+"name": "SD Waiver Concurrence form (2018).doc",
+"LastModified": "06/12/2018 13:29:57",
+"Key": "content/cos/Waiver/SD Waiver Concurrence form (2018).doc",
+"extension": ".doc",
+"Size": "38912"
+},
+{
+"name": "SD Waiver Update (May 11).pdf",
+"LastModified": "10/04/2019 14:06:37",
+"Key": "content/cos/Waiver/SD Waiver Update (May 11).pdf",
+"extension": ".pdf",
+"Size": "42207"
+},
+{
 "name": "Carousel",
 "LastModified": "09/25/2019 08:26:08",
 "Key": "content/CRST/Carousel",
@@ -12826,13 +12854,6 @@
 "name": "MILCON",
 "LastModified": "09/25/2019 08:26:10",
 "Key": "content/Model RFP/MILCON",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Policy",
-"LastModified": "09/24/2019 10:28:21",
-"Key": "content/Model RFP/Policy",
 "extension": "",
 "Size": ""
 },
@@ -13159,67 +13180,11 @@
 "Size": "49981"
 },
 {
-"name": "FAQ",
-"LastModified": "09/25/2019 08:26:11",
-"Key": "content/MRSI/FAQ",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Minutes Files",
-"LastModified": "09/25/2019 08:26:11",
-"Key": "content/MRSI/Minutes Files",
-"extension": "",
-"Size": ""
-},
-{
-"name": "certificate-error_-navigation-blocked-internet-explorer.png",
-"LastModified": "03/31/2017 08:49:09",
-"Key": "content/MRSI/FAQ/certificate-error_-navigation-blocked-internet-explorer.png",
-"extension": ".png",
-"Size": "24718"
-},
-{
-"name": "20150917_155605.jpg",
-"LastModified": "09/18/2015 08:50:02",
-"Key": "content/MRSI/Minutes Files/20150917_155605.jpg",
-"extension": ".jpg",
-"Size": "345175"
-},
-{
-"name": "20180525-dod-cyber-awareness-carr.pdf",
-"LastModified": "03/04/2019 15:12:20",
-"Key": "content/MRSI/Minutes Files/20180525-dod-cyber-awareness-carr.pdf",
-"extension": ".pdf",
-"Size": "117494"
-},
-{
-"name": "documentation-calendar.pdf",
-"LastModified": "09/08/2015 20:49:03",
-"Key": "content/MRSI/Minutes Files/documentation-calendar.pdf",
-"extension": ".pdf",
-"Size": "156464"
-},
-{
-"name": "heathcasual.jpg",
-"LastModified": "12/13/2016 12:11:36",
-"Key": "content/MRSI/Minutes Files/heathcasual.jpg",
-"extension": ".jpg",
-"Size": "46104"
-},
-{
 "name": "mt-cos-placemat-042507.ppt",
 "LastModified": "09/18/2015 08:46:32",
-"Key": "content/MRSI/Minutes Files/mt-cos-placemat-042507.ppt",
+"Key": "content/MRSI/mt-cos-placemat-042507.ppt",
 "extension": ".ppt",
-"Size": "4037120"
-},
-{
-"name": "usace_sharepoint_list.xlsx",
-"LastModified": "03/01/2016 13:09:52",
-"Key": "content/MRSI/Minutes Files/usace_sharepoint_list.xlsx",
-"extension": ".xlsx",
-"Size": "62841"
+"Size": "4039168"
 },
 {
 "name": "AAR",
@@ -13706,7 +13671,7 @@
 },
 {
 "name": "FY22 Guidance and Templates",
-"LastModified": "09/25/2019 08:26:17",
+"LastModified": "10/10/2019 08:39:34",
 "Key": "content/PDRS/Policy/FY22 Guidance and Templates",
 "extension": "",
 "Size": ""
@@ -14459,6 +14424,13 @@
 "Key": "content/PDRS/Policy/FY22 Guidance and Templates/army-milcon-instructions-for-code2-june-2019.pdf",
 "extension": ".pdf",
 "Size": "261357"
+},
+{
+"name": "Code 2_District Certification Memo.pdf",
+"LastModified": "10/10/2019 08:39:35",
+"Key": "content/PDRS/Policy/FY22 Guidance and Templates/Code 2_District Certification Memo.pdf",
+"extension": ".pdf",
+"Size": "1384897"
 },
 {
 "name": "eng-3086-instructions_-5-june-2019.pdf",
