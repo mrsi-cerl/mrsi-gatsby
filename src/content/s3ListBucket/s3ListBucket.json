@@ -7931,7 +7931,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:29",
+"LastModified": "10/10/2019 13:44:40",
 "Key": "content/cos/sam/uas/Library",
 "extension": "",
 "Size": ""
@@ -8028,6 +8028,13 @@
 "Size": "238543"
 },
 {
+"name": "Archive",
+"LastModified": "10/10/2019 13:45:06",
+"Key": "content/cos/sam/uas/Library/Archive",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Army Standards",
 "LastModified": "09/25/2019 08:25:29",
 "Key": "content/cos/sam/uas/Library/Army Standards",
@@ -8050,7 +8057,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:25:29",
+"LastModified": "10/10/2019 13:44:47",
 "Key": "content/cos/sam/uas/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -8061,6 +8068,13 @@
 "Key": "content/cos/sam/uas/Library/leed-v4-template_8-2019.xls",
 "extension": ".xls",
 "Size": "154112"
+},
+{
+"name": "standard_design_uas_group4_hangar 2 JUL 2018.pdf",
+"LastModified": "07/29/2019 18:27:24",
+"Key": "content/cos/sam/uas/Library/Archive/standard_design_uas_group4_hangar 2 JUL 2018.pdf",
+"extension": ".pdf",
+"Size": "5836879"
 },
 {
 "name": "Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
@@ -8098,18 +8112,18 @@
 "Size": "33311"
 },
 {
+"name": "Standard Design UAS Group 4 Hangar 1 OCT 19.pdf",
+"LastModified": "10/10/2019 13:42:23",
+"Key": "content/cos/sam/uas/Library/Standard Designs/Standard Design UAS Group 4 Hangar 1 OCT 19.pdf",
+"extension": ".pdf",
+"Size": "7798564"
+},
+{
 "name": "standard_design_uas_group3_drwgs.pdf",
 "LastModified": "07/29/2019 18:22:41",
 "Key": "content/cos/sam/uas/Library/Standard Designs/standard_design_uas_group3_drwgs.pdf",
 "extension": ".pdf",
 "Size": "5731941"
-},
-{
-"name": "standard_design_uas_group4_hangar.pdf",
-"LastModified": "07/29/2019 18:27:24",
-"Key": "content/cos/sam/uas/Library/Standard Designs/standard_design_uas_group4_hangar.pdf",
-"extension": ".pdf",
-"Size": "5836879"
 },
 {
 "name": "bn-bde-hq",
