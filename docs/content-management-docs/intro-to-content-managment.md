@@ -4,7 +4,7 @@ We have migrated the website from Umbraco to Gatsby.
 
 The content of your pages consist of:
 
-- Markdown files and Images (Stored in the [Content Folder]() on GitHub)
+- Markdown files and Images (Stored in the [Content Folder](../../src/content) on GitHub)
   - These markdown files and images can be edited by you on Github.
 - Files in File Library (Stored in the Cloud)
   - The files in your file library cannot be directly edited by you, you must email us what changes you want to be done to your File Library
@@ -44,3 +44,9 @@ Github is a website that allows us to store code and other files associated with
 Everytime a change is made to the files on Github, they are pushed to the website.
 
 Please sign up for a Free account at [this link](https://github.com/join)
+
+After you have signed into your new Github account, go to the [mrsi-cerl/mrsi-gatsby page](https://github.com/mrsi-cerl/mrsi-gatsby) and click the "Fork" button in the top right corner of the page.
+
+You should now have a copy of the site associated with your username which will be available at `https://github.com/your-username/mrsi-gatsby`. (replace `your-username` with your Github user name). You can also find it on the home page and your account page.
+
+You will be making all edits on to this fork you just created.

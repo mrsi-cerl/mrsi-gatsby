@@ -1,5 +1,7 @@
 # I want to...
 
+Note: Make sure your are making all edits from your fork, this can be done by making sure your github username appears in the URL when you are making your edits.
+
 ## Edit A Page
 
 Find the asscoiated markdown file in the content folder then see these documents for more info editing specifics:
@@ -11,7 +13,7 @@ Find the asscoiated markdown file in the content folder then see these documents
 
 ## Add a page
 
-To add a new page, create a new markdown file in the content folder using the markdown template found [here](./markdown-templates) that corresponds with the page you are trying to create.
+To add a new page, create a new markdown file in the content folder using the markdown template found [here](./markdown-templates.md) that corresponds with the page you are trying to create.
 
 The following types of pages will be added to the navigation automatically. Any others will need to be added to the side nav manually.
 
