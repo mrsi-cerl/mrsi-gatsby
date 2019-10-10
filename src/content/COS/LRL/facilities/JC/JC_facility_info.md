@@ -22,6 +22,8 @@ slug: /cos/lrl/jc/
 ---
 
 ## Description
+Hello
+
 
 The Judicial Centers (JC) Army Standard Design defines the functional requirements for Planning, Design, and Construction of all Army JC facilities worldwide. Project facility includes six functional areas: Courtroom, Judge's Chambers, Staff/Administration Areas, Deliberation Suite, Support Areas, and Public Areas.
 
