@@ -4,7 +4,7 @@ We have migrated the website from Umbraco to Gatsby.
 
 The content of your pages consist of:
 
-- Markdown files and Images (Stored in the [Content Folder]() on GitHub)
+- Markdown files and Images (Stored in the [Content Folder](../../src/content) on GitHub)
   - These markdown files and images can be edited by you on Github.
 - Files in File Library (Stored in the Cloud)
   - The files in your file library cannot be directly edited by you, you must email us what changes you want to be done to your File Library
