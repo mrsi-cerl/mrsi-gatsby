@@ -4,11 +4,12 @@ This is a list of links to markdown files in the content folder. The purpose of 
 
 **Table of Contents:**
 
-- [COS](#cos)
-- [CRST](#crst)
-- [Model RFP](#model-rfp)
-- [PDRS](#pdrs)
-- [Sustain](#sustain)
+- [Markdown Content Quicklinks](#markdown-content-quicklinks)
+  - [COS](#cos)
+  - [CRST](#crst)
+  - [Model-RFP](#model-rfp)
+  - [PDRS](#pdrs)
+  - [Sustain](#sustain)
 
 ---
 
@@ -69,7 +70,7 @@ This is a list of links to markdown files in the content folder. The purpose of 
   - [Attack Reconnaissance/Assault Battalion Hangar](../../src/content/COS/SAM/facilities/AAB/AAB_facility_info.md)
   - [Aviation Support Battalion Hangar](../../src/content/COS/SAM/facilities/ASB/ASB_facility_info.md)
   - [General Support Aviation Battalion Hangar](../../src/content/COS/SAM/facilities/GSAB/GSAB_facility_info.md)
-  - [Unmanned Aircraft Systems Hangar](../../src/content/COS/SAM/facilities/UAS/UAS_facility_info.md)
+  - [Unmanned Aircraft Systems Hangars](../../src/content/COS/SAM/facilities/UAS/UAS_facility_info.md)
 - [Norfolk: About](../../src/content/COS/NAO/center_home_page/center_home_page.md)
   - [Army Family Housing](../../src/content/COS/NAO/facilities/AFH/AFH_facility_info.md)
   - [Automation-Aided Instruction](../../src/content/COS/NAO/facilities/CRXXI/CRXXI_facility_info.md)

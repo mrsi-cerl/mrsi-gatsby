@@ -18,7 +18,7 @@ facility_category_codes:
   - 21115 (11340, 21470, and 44222)
 facility_cos_short_name: SAM
 facility_functional_proponent: DCS, G4
-facility_long_name: Unmanned Aircraft Systems Hangar
+facility_long_name: Unmanned Aircraft Systems Hangars
 facility_short_name: UAS
 facility_technical_poc_email: kathy.a.prochnow@usace.army.mil
 facility_technical_poc_name: Kathy Prochnow, AIA
