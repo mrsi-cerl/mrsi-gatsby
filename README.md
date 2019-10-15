@@ -9,7 +9,12 @@ The Portal may be viewed at [https://mrsi.erdc.dren.mil/](https://mrsi.erdc.dren
 1. Read the [Intro to Content Management](./docs/content-management-docs/intro-to-content-managment.md) Guide
 2. Make sure your fork is up to date
    1. Go to your fork (you should see your username in the url)
-   2. 
+   2. If it says "this branch is N commit(s) behind mrsi-cerl:master" then follow the following steps
+      1. Click "Pull Request" to the right of that message 
+      2. Click "Switching your base"
+      3. Click "Create Pull Request"
+      4. Click "Create Pull Request" again
+      5. Click "Merge Pull Request"
 3. Find the file that corresponds with the page you want to edit, this will be in the [src/content/ folder](./src/content/). You can also use the [quicklinks page](./docs/content-management-docs/page-md-quicklinks.md) to find it.
 4. Follow the [Edit Guide](./docs/content-management-docs/edit-instructions.md) to make the edits you want. Make these edits on your fork and not the official repo.
 5. After you have made all the edits you want to make, you need to make a pull request by following the instructions below.
