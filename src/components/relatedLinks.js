@@ -2,7 +2,7 @@ import React from "react"
 
 const RelatedLinks = ({ related_links }) => {
   console.log(related_links)
-  if (!related_links || related_links.length == 0) {
+  if (!related_links || related_links.length === 0) {
     return null
   }
   return (
