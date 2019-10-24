@@ -7672,8 +7672,15 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:28",
+"LastModified": "10/24/2019 15:58:51",
 "Key": "content/cos/sam/asb/Library",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Archive",
+"LastModified": "10/24/2019 15:59:12",
+"Key": "content/cos/sam/asb/Library/Archive",
 "extension": "",
 "Size": ""
 },
@@ -7700,7 +7707,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/26/2019 16:55:17",
+"LastModified": "10/24/2019 15:59:40",
 "Key": "content/cos/sam/asb/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -7711,6 +7718,27 @@
 "Key": "content/cos/sam/asb/Library/leed-v4-template_8-2019.xls",
 "extension": ".xls",
 "Size": "154112"
+},
+{
+"name": "2019-08-asb-standard-design.pdf",
+"LastModified": "08/28/2019 18:49:00",
+"Key": "content/cos/sam/asb/Library/Archive/2019-08-asb-standard-design.pdf",
+"extension": ".pdf",
+"Size": "690087"
+},
+{
+"name": "20190926_ASB HANGAR_A-100 - COMPOSITE FLOOR PLAN.pdf",
+"LastModified": "09/26/2019 15:12:00",
+"Key": "content/cos/sam/asb/Library/Archive/20190926_ASB HANGAR_A-100 - COMPOSITE FLOOR PLAN.pdf",
+"extension": ".pdf",
+"Size": "165775"
+},
+{
+"name": "20190926_ASB Hangar_A-100 - NOTIONAL FLOOR PLAN.DWG",
+"LastModified": "09/26/2019 15:12:38",
+"Key": "content/cos/sam/asb/Library/Archive/20190926_ASB Hangar_A-100 - NOTIONAL FLOOR PLAN.DWG",
+"extension": ".DWG",
+"Size": "414623"
 },
 {
 "name": "Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
@@ -7783,25 +7811,25 @@
 "Size": "227198"
 },
 {
-"name": "2019-08-asb-standard-design.pdf",
-"LastModified": "08/28/2019 18:49:00",
-"Key": "content/cos/sam/asb/Library/Standard Designs/2019-08-asb-standard-design.pdf",
+"name": "20191018 ASB-Standard Design.pdf",
+"LastModified": "10/24/2019 15:59:40",
+"Key": "content/cos/sam/asb/Library/Standard Designs/20191018 ASB-Standard Design.pdf",
 "extension": ".pdf",
-"Size": "690087"
+"Size": "448545"
 },
 {
-"name": "20190926_ASB HANGAR_A-100 - COMPOSITE FLOOR PLAN.pdf",
-"LastModified": "09/26/2019 15:12:00",
-"Key": "content/cos/sam/asb/Library/Standard Designs/20190926_ASB HANGAR_A-100 - COMPOSITE FLOOR PLAN.pdf",
-"extension": ".pdf",
-"Size": "165775"
-},
-{
-"name": "20190926_ASB Hangar_A-100 - NOTIONAL FLOOR PLAN.DWG",
-"LastModified": "09/26/2019 15:12:38",
-"Key": "content/cos/sam/asb/Library/Standard Designs/20190926_ASB Hangar_A-100 - NOTIONAL FLOOR PLAN.DWG",
+"name": "20191018_ASB Hangar - A-100 - COMPOSITE FLOOR PLAN.DWG",
+"LastModified": "10/24/2019 15:59:40",
+"Key": "content/cos/sam/asb/Library/Standard Designs/20191018_ASB Hangar - A-100 - COMPOSITE FLOOR PLAN.DWG",
 "extension": ".DWG",
-"Size": "414623"
+"Size": "503142"
+},
+{
+"name": "20191018_ASB Hangar_Combined Folio.pdf",
+"LastModified": "10/24/2019 15:59:41",
+"Key": "content/cos/sam/asb/Library/Standard Designs/20191018_ASB Hangar_Combined Folio.pdf",
+"extension": ".pdf",
+"Size": "5151830"
 },
 {
 "name": "Library",
