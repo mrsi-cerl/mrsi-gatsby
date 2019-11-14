@@ -9191,7 +9191,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:42",
+"LastModified": "10/29/2019 13:21:15",
 "Key": "content/cos/swf/bt-osut/Library",
 "extension": "",
 "Size": ""
@@ -9223,6 +9223,13 @@
 "Key": "content/cos/swf/bt-osut/FtJacksonBTBarracksLobby.jpg",
 "extension": ".jpg",
 "Size": "98600"
+},
+{
+"name": "Archives",
+"LastModified": "10/29/2019 13:19:39",
+"Key": "content/cos/swf/bt-osut/Library/Archives",
+"extension": "",
+"Size": ""
 },
 {
 "name": "Army Standards",
@@ -10136,7 +10143,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:47",
+"LastModified": "11/14/2019 14:18:04",
 "Key": "content/cos/swf/ueph/Library",
 "extension": "",
 "Size": ""
@@ -10147,13 +10154,6 @@
 "Key": "content/cos/swf/ueph/UEPH.jpg",
 "extension": ".jpg",
 "Size": "152960"
-},
-{
-"name": "Archives",
-"LastModified": "09/25/2019 08:25:46",
-"Key": "content/cos/swf/ueph/Library/Archives",
-"extension": "",
-"Size": ""
 },
 {
 "name": "Army Standards",
@@ -10182,62 +10182,6 @@
 "Key": "content/cos/swf/ueph/Library/Standard Designs",
 "extension": "",
 "Size": ""
-},
-{
-"name": "1391 2009 UEPH Barracks_200_Soldiers.pdf",
-"LastModified": "05/20/2015 15:47:50",
-"Key": "content/cos/swf/ueph/Library/Archives/1391 2009 UEPH Barracks_200_Soldiers.pdf",
-"extension": ".pdf",
-"Size": "6728"
-},
-{
-"name": "UEPH 1391_3 stories or less_FY15.pdf",
-"LastModified": "05/20/2015 15:47:50",
-"Key": "content/cos/swf/ueph/Library/Archives/UEPH 1391_3 stories or less_FY15.pdf",
-"extension": ".pdf",
-"Size": "15275"
-},
-{
-"name": "UEPH 1391_4 Stories_FY15.pdf",
-"LastModified": "05/20/2015 15:47:50",
-"Key": "content/cos/swf/ueph/Library/Archives/UEPH 1391_4 Stories_FY15.pdf",
-"extension": ".pdf",
-"Size": "15277"
-},
-{
-"name": "UEPH OPTION 1 PKG.pdf",
-"LastModified": "05/20/2015 15:47:50",
-"Key": "content/cos/swf/ueph/Library/Archives/UEPH OPTION 1 PKG.pdf",
-"extension": ".pdf",
-"Size": "796226"
-},
-{
-"name": "UEPH OPTION 2 PKG.pdf",
-"LastModified": "05/20/2015 15:47:51",
-"Key": "content/cos/swf/ueph/Library/Archives/UEPH OPTION 2 PKG.pdf",
-"extension": ".pdf",
-"Size": "1242288"
-},
-{
-"name": "UEPH OPTION 3 PKG.pdf",
-"LastModified": "05/20/2015 15:47:51",
-"Key": "content/cos/swf/ueph/Library/Archives/UEPH OPTION 3 PKG.pdf",
-"extension": ".pdf",
-"Size": "443731"
-},
-{
-"name": "UEPH OPTION 4 PKG.pdf",
-"LastModified": "05/20/2015 15:47:51",
-"Key": "content/cos/swf/ueph/Library/Archives/UEPH OPTION 4 PKG.pdf",
-"extension": ".pdf",
-"Size": "3463805"
-},
-{
-"name": "UEPH_199 PN.PDF",
-"LastModified": "05/20/2015 15:47:52",
-"Key": "content/cos/swf/ueph/Library/Archives/UEPH_199 PN.PDF",
-"extension": ".PDF",
-"Size": "12815"
 },
 {
 "name": "ueph-pp-barracks-army-standard-2003.pdf",
