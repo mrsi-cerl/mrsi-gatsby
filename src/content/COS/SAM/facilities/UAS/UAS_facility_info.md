@@ -20,8 +20,8 @@ facility_cos_short_name: SAM
 facility_functional_proponent: DCS, G4
 facility_long_name: Unmanned Aircraft Systems Hangars
 facility_short_name: UAS
-facility_technical_poc_email: kathy.a.prochnow@usace.army.mil
-facility_technical_poc_name: Kathy Prochnow, AIA
+facility_technical_poc_email: john.j.wahlers@usace.army.mil
+facility_technical_poc_name: John Wahlers
 file_library_root_path: "content/cos/sam/uas/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/sam/uas/
