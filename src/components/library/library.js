@@ -16,6 +16,7 @@ import {
 import styles from "./library.module.css"
 import cx from "classnames"
 import Moment from "react-moment"
+import moment from "moment"
 
 const fileTypeIcons = {
   pdf: <FontAwesomeIcon icon={faFilePdf} />,
@@ -57,6 +58,25 @@ const getBreadcrumbs = (rootDir, dir) => {
 
   // console.log(crumbs)
   return crumbs
+}
+
+const getMostRecentFileUpdateDate = (rootDir, data) => {
+  const folderItems = data.filter(
+    file => file.Key.indexOf(rootDir) === 0 && file.Size !== ""
+  )
+  console.log(folderItems)
+  let latestDate = null
+  for (let item of folderItems) {
+    if (latestDate) {
+      if (moment(item.LastModified).isAfter(latestDate)) {
+        latestDate = item.LastModified
+      }
+    } else {
+      latestDate = item.LastModified
+    }
+  }
+  console.log(latestDate)
+  return latestDate
 }
 
 const Library = ({ rootDir, hideBC, hideTitle }) => {
@@ -143,7 +163,10 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                     <td />
                     <td>
                       <Moment
-                        date={e.LastModified}
+                        date={getMostRecentFileUpdateDate(
+                          e.Key,
+                          data.allS3ListBucketJson.nodes
+                        )}
                         format="M/D/YYYY"
                         withTitle
                         titleFormat="DD MMMM YYYY"
