@@ -64,7 +64,6 @@ const getMostRecentFileUpdateDate = (rootDir, data) => {
   const folderItems = data.filter(
     file => file.Key.indexOf(rootDir) === 0 && file.Size !== ""
   )
-  console.log(folderItems)
   let latestDate = null
   for (let item of folderItems) {
     if (latestDate) {
@@ -75,7 +74,6 @@ const getMostRecentFileUpdateDate = (rootDir, data) => {
       latestDate = item.LastModified
     }
   }
-  console.log(latestDate)
   return latestDate
 }
 
