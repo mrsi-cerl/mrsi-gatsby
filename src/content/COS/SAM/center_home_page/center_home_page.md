@@ -6,8 +6,8 @@ related_links:
     url: "http://www.sam.usace.army.mil/"
 page_last_reviewed: "Tuesday, August 14, 2018"
 doc_type: "cos_page"
-cos_manager_name: "Donald Smith"
-cos_manager_email: "donald.k.smith@usace.army.mil"
+cos_manager_name: "Dan Bush"
+cos_manager_email: "Daniel.E.Bush@usace.army.mil"
 cos_long_name: "Mobile"
 cos_short_name: "SAM"
 ---

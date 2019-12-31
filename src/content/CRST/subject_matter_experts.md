@@ -5,29 +5,29 @@ subject_matter_experts:
     expert_email: susan.d.nachtigall.civ@mail.mil?subject=CRST%20SME%20Request%20Aviation
     expert_name: Susan Nachtigall
   - subject_matter: Building Information Modeling (BIM)
-    expert_email: beth.a.brucker@usace.army.mil?subject=CRST%20SME%20Request%20BIM
-    expert_name: Beth Brucker
+    expert_email: susan.d.nachtigall.civ@mail.mil?subject=CRST%20SME%20Request%20BIM
+    expert_name: Susan Nachtigall
   - subject_matter: Computer Aided Design (CAD)
-    expert_email: beth.a.brucker@usace.army.mil?subject=CRST%20SME%20Request%20CAD
-    expert_name: Beth Brucker
+    expert_email: susan.d.nachtigall.civ@mail.mil?subject=CRST%20SME%20Request%20CAD
+    expert_name: Susan Nachtigall
   - subject_matter: Planning Charrettes
-    expert_email: donna.l.thompson@usace.army.mil; ana.ortega@usace.army.mil?subject=CRST%20SME%20Request%20Planning%20Charrettes
-    expert_name: Donna Thompson / Ana Ortega
+    expert_email: donna.l.thompson@usace.army.mil; amanda.h.weinert@usace.army.mil?subject=CRST%20SME%20Request%20Planning%20Charrettes
+    expert_name: Donna Thompson / Amanda Weinert
   - subject_matter: Military Construction (MILCON)
-    expert_email: ana.ortega@usace.army.mil; susan.d.nachtigall@usace.army.mil?subject=CRST%20SME%20Request%20MILCON
-    expert_name: Ana Ortega / Susan Nachtigall
+    expert_email: susan.d.nachtigall@usace.army.mil?subject=CRST%20SME%20Request%20MILCON
+    expert_name: Susan Nachtigall
   - subject_matter: Military Business Process (MBP)
-    expert_email: ana.ortega@usace.army.mil?subject=CRST%20SME%20Request%20MBP
-    expert_name: Ana Ortega
+    expert_email: donna.l.thompson@usace.army.mil; amanda.h.weinert@usace.army.mil?subject=CRST%20SME%20Request%20MBP
+    expert_name: Donna Thompson / Amanda Weinert
   - subject_matter: Model MILCON RFP Development
-    expert_email: beth.a.brucker@usace.army.mil?subject=CRST%20SME%20Request%20Model%20RFP
-    expert_name: Beth Brucker
+    expert_email: MRSI_Support@usace.army.mil?subject=CRST%20SME%20Request%20Model%20RFP
+    expert_name: Patrick Edwards
   - subject_matter: Model SRM RFP Development
-    expert_email: beth.a.brucker@usace.army.mil?subject=CRST%20SME%20Request%20SRM%20RFP
-    expert_name: Beth Brucker
+    expert_email: MRSI_Support@usace.army.mil?subject=CRST%20SME%20Request%20SRM%20RFP
+    expert_name: Patrick Edwards
   - subject_matter: Parametric Design Report (PDR/3086)
-    expert_email: ana.ortega@usace.army.mil; donna.l.thompson@usace.army.mil; amanda.h.weinert@usace.army.mil?subject=CRST%20SME%20Request%20PDR/3086
-    expert_name: Ana Ortega / Donna Thompson / Amanda Weinert
+    expert_email: donna.l.thompson@usace.army.mil; amanda.h.weinert@usace.army.mil?subject=CRST%20SME%20Request%20PDR/3086
+    expert_name: Donna Thompson / Amanda Weinert
   - subject_matter: Training Range Design & Construction
     expert_email: william.c.stephenson@usace.army.mil; susan.d.nachtigall.civ@mail.mil?subject=CRST%20SME%20Request%20Range%20Design
     expert_name: William Stephenson / Susan Nachtigall
