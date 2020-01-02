@@ -24,6 +24,7 @@
     "google-map-react": "^1.1.5",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
+    "pngquant-bin": "^5.0.2",
     "prop-types": "^15.7.2",
     "react": "^16.10.1",
     "react-bootstrap": "^1.0.0-beta.12",
@@ -36,6 +37,8 @@
   },
   "devDependencies": {
     "aws-sdk": "^2.539.0",
+    "env-cmd": "^10.0.1",
+    "eslint-plugin-flowtype": "^2.50.3",
     "prettier": "^1.18.2"
   },
   "keywords": [
@@ -44,7 +47,7 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
-    "develop": "gatsby develop",
+    "develop": "env-cmd -f .env.development gatsby develop",
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",
