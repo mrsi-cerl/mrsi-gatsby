@@ -1,4 +1,4 @@
-# MRSI Gatsby -- JeffTheGrey Fork
+# MRSI Gatsby
 
 This is the source of the new MRSI Portal.
 
