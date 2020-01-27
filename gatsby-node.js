@@ -10,7 +10,22 @@ const templates = {
 }
 
 exports.createPages = ({ graphql, actions }) => {
-  const { createPage } = actions
+  const { createPage, createRedirect } = actions
+
+  createRedirect({
+    fromPath: `/waiverprocess/`,
+    isPermanent: true,
+    redirectInBrowser: true,
+    toPath: `/cos/waiver-process/`,
+  })
+
+  createRedirect({
+    fromPath: `/waiverprocess`,
+    isPermanent: true,
+    redirectInBrowser: true,
+    toPath: `/cos/waiver-process/`,
+  })
+
   return graphql(`
     {
       allMarkdownRemark {
