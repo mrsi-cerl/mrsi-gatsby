@@ -13,6 +13,12 @@ const Helmet = ({ title }) => (
       name="viewport"
       content="width=device-width,initial-scale=1,shrink-to-fit=no,viewport-fit=cover"
     />
+    <script
+      async
+      type="text/javascript"
+      src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOD&subagency=USACE"
+      id="_fed_an_ua_tag"
+    ></script>
   </ReactHelmet>
 )
 
