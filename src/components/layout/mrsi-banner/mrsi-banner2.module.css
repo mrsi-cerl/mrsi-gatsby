@@ -4,6 +4,12 @@
   padding-top: 1em;
 }
 
+.search {
+  display: table-cell;
+  vertical-align: top;
+  padding-left: 80px;
+}
+
 .bannerLeft {
   display: table-cell;
   vertical-align: top;

@@ -11,7 +11,11 @@ const MrsiBanner = () => {
         <div className="grid-col-auto">
           <div className={styles.bannerLeft}>
             <Link to="/">
-              <img className={styles.logo} src={mrsiLogo} alt="MRSI Umbrella Logo" />
+              <img
+                className={styles.logo}
+                src={mrsiLogo}
+                alt="MRSI Umbrella Logo"
+              />
             </Link>
           </div>
           <div className={styles.bannerBody}>
