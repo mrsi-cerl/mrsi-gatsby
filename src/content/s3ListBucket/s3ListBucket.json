@@ -7490,7 +7490,7 @@
 },
 {
 "name": "gsab",
-"LastModified": "09/25/2019 08:25:28",
+"LastModified": "01/31/2020 13:24:48",
 "Key": "content/cos/sam/gsab",
 "extension": "",
 "Size": ""
@@ -7532,7 +7532,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/26/2019 16:54:12",
+"LastModified": "01/16/2020 15:10:43",
 "Key": "content/cos/sam/aab/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -7868,8 +7868,15 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:28",
+"LastModified": "01/31/2020 13:24:48",
 "Key": "content/cos/sam/gsab/Library",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Archive",
+"LastModified": "01/31/2020 13:25:31",
+"Key": "content/cos/sam/gsab/Library/Archive",
 "extension": "",
 "Size": ""
 },
@@ -7882,7 +7889,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/24/2019 10:26:10",
+"LastModified": "01/31/2020 13:25:46",
 "Key": "content/cos/sam/gsab/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -7896,7 +7903,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "10/04/2019 11:21:54",
+"LastModified": "01/31/2020 13:25:11",
 "Key": "content/cos/sam/gsab/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -7909,11 +7916,32 @@
 "Size": "154112"
 },
 {
+"name": "20190905-gsab-standard-design.pdf",
+"LastModified": "09/05/2019 16:39:51",
+"Key": "content/cos/sam/gsab/Library/Archive/20190905-gsab-standard-design.pdf",
+"extension": ".pdf",
+"Size": "1177545"
+},
+{
+"name": "20200130-GSAB-Standard Design.pdf",
+"LastModified": "01/31/2020 13:25:31",
+"Key": "content/cos/sam/gsab/Library/Archive/20200130-GSAB-Standard Design.pdf",
+"extension": ".pdf",
+"Size": "1142988"
+},
+{
 "name": "Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
 "LastModified": "05/20/2015 15:44:51",
 "Key": "content/cos/sam/gsab/Library/Army Standards/Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
 "extension": ".pdf",
 "Size": "1813826"
+},
+{
+"name": "DD1391 General_Support_Aviation_Battalion_Hangar_FY21.pdf",
+"LastModified": "01/31/2020 13:25:46",
+"Key": "content/cos/sam/gsab/Library/DD1391 Templates/DD1391 General_Support_Aviation_Battalion_Hangar_FY21.pdf",
+"extension": ".pdf",
+"Size": "26890"
 },
 {
 "name": "sw_7007076_combat_aviation_brigade_hangars-_task_order_1_001_lg.jpg",
@@ -7928,13 +7956,6 @@
 "Key": "content/cos/sam/gsab/Library/Misc. Documents/sw_7007076_combat_aviation_brigade_hangars-_task_order_1_005_lg.jpg",
 "extension": ".jpg",
 "Size": "100298"
-},
-{
-"name": "20190905-gsab-standard-design.pdf",
-"LastModified": "09/05/2019 16:39:51",
-"Key": "content/cos/sam/gsab/Library/Standard Designs/20190905-gsab-standard-design.pdf",
-"extension": ".pdf",
-"Size": "1177545"
 },
 {
 "name": "20190906_GSAB_4-60x4-47_A-100 - NOTIONAL PLAN - FIRST FLOOR COMPOSITE.DWG",
@@ -7956,6 +7977,13 @@
 "Key": "content/cos/sam/gsab/Library/Standard Designs/20190916 GSAB COMPOSITE PLANS FOLIO.PDF",
 "extension": ".PDF",
 "Size": "4718444"
+},
+{
+"name": "20200131-GSAB-Standard Design.pdf",
+"LastModified": "01/31/2020 13:24:18",
+"Key": "content/cos/sam/gsab/Library/Standard Designs/20200131-GSAB-Standard Design.pdf",
+"extension": ".pdf",
+"Size": "1142855"
 },
 {
 "name": "Library",
