@@ -45,6 +45,10 @@ const pages = {
       slug: "/model-rfp/small-projects/",
     },
     {
+      caption: "New Development",
+      slug: "/model-rfp/development/",
+    },
+    {
       caption: "MILCON Waiver Process",
       slug: "/cos/waiver-process/",
     },
@@ -84,7 +88,9 @@ function getAllOfDocType(data, docType) {
 }
 
 function getAllFacilitiesForCOS(data, cos) {
-  return data.filter(itm => itm.node.frontmatter.facility_cos_short_name === cos)
+  return data.filter(
+    itm => itm.node.frontmatter.facility_cos_short_name === cos
+  )
 }
 
 function createFacilityPageIndex(data, cos) {
