@@ -1,7 +1,7 @@
 ---
 carousel_images:
   - ./Warrior-in-Transition.jpg
-doc_type: facility_page
+doc_type: facility_pageARCHIVE
 facility_category_codes:
   - "72112"
   - "14188"
