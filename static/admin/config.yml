@@ -61,4 +61,5 @@ collections:
           label: "File Library Root Path",
           name: "file_library_root_path",
           widget: "string",
+          required: false
         }
