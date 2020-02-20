@@ -57,7 +57,6 @@ collections:
             { label: "Link URL", name: "url", widget: "string" },
           ],
       }
-      - { label: "Slug", name: "slug", widget: "string" }
       - {
           label: "File Library Root Path",
           name: "file_library_root_path",
