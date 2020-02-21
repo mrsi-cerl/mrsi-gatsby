@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: mrsi-cerl/mrsi-gatsby
-  branch: netlify-cms
+  branch: "netlify-cms"
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
   preview_context: federalist/build
@@ -13,7 +13,7 @@ logo_url: https://mrsi.erdc.dren.mil/assets/images/mrsi-blue-logo.png
 site_url: https://mrsi.erdc.dren.mil/
 
 collections:
-  - name: cos-district
+  - name: cosDistrict
     label: COS Districts
     label_singular: COS District
     description: These pages serve as the home page for each COS District
@@ -21,7 +21,7 @@ collections:
     create: true
     delete: false
     extension: markdown
-    slug: "/cos/{{ fields.cos_short_name }}"
+    slug: "{{ cos_short_name }}"
     identifier_field: cos_long_name
     fields:
       - {
