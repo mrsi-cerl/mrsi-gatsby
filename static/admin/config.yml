@@ -1,0 +1,64 @@
+backend:
+  name: github
+  repo: mrsi-cerl/mrsi-gatsby
+  branch: "netlify-cms"
+  base_url: https://federalistapp.18f.gov
+  auth_endpoint: external/auth/github
+  preview_context: federalist/build
+
+media_folder: static/images/uploads
+public_folder: /images/uploads
+publish_mode: editorial_workflow
+logo_url: https://mrsi.erdc.dren.mil/assets/images/mrsi-blue-logo.png
+site_url: https://mrsi.erdc.dren.mil/
+
+collections:
+  - name: cosDistrict
+    label: COS Districts
+    label_singular: COS District
+    description: These pages serve as the home page for each COS District
+    folder: src/content/cos-districts
+    create: true
+    delete: false
+    extension: markdown
+    slug: "{{ cos_short_name }}"
+    identifier_field: cos_long_name
+    fields:
+      - {
+          label: "COS District Long Name",
+          name: "cos_long_name",
+          widget: "string",
+        }
+      - {
+          label: "COS District Short Name",
+          name: "cos_short_name",
+          widget: "string",
+        }
+      - {
+          label: "COS District Manager Name",
+          name: "cos_manager_name",
+          widget: "string",
+        }
+      - {
+          label: "COS District Manager Email",
+          name: "cos_manager_email",
+          widget: "string",
+        }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Reviewed Date", name: "last_reviewed", widget: "datetime" }
+      - {
+        label: "Related Links",
+        name: "related_links",
+        widget: "list",
+        fields:
+          [
+            { label: "Link Caption", name: "caption", widget: "string" },
+            { label: "Link URL", name: "url", widget: "string" },
+          ],
+      }
+      - {
+          label: "File Library Root Path",
+          name: "file_library_root_path",
+          widget: "string",
+          required: false
+        }
