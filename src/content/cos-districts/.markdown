@@ -1,0 +1,8 @@
+---
+cos_long_name: test
+cos_short_name: test
+cos_manager_name: test
+cos_manager_email: test
+last_reviewed: 2020-02-21T16:38:09.065Z
+---
+test
