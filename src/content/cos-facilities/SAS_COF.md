@@ -17,7 +17,7 @@ carousel_images:
   - /admin/images/uploads/cof03-3-2.jpg
   - /admin/images/uploads/cof02-3-2.jpg
   - /admin/images/uploads/cof01-3-2.jpg
-  - /admin/images/uploads/overall-3-2.jpg
+  - /admin/images/uploads/overall-3-2_COF.jpg
 ---
 
 ## Description
