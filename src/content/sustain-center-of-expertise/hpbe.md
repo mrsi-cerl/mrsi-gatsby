@@ -1,7 +1,7 @@
 ---
 doc_type: sustain_cx_page
 carousel_images:
-  - ./hpbe_800_resize.jpg
+  - /admin/images/uploads/hpbe_800_resize.jpg
 title: High Performance Building Envelope
 
 sustain_msc_program_manager_email: Ned.A.Shepherd@usace.army.mil

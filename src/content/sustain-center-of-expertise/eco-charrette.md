@@ -1,7 +1,7 @@
 ---
 doc_type: sustain_cx_page
 carousel_images:
-  - ./charrette.jpg
+  - /admin/images/uploads/charrette.jpg
 title: Eco-Charrette and Conceptual Modeling
 
 sustain_msc_program_manager_name: Don Johantges

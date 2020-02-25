@@ -147,3 +147,111 @@ collections:
           name: "doc_type",
           widget: "string",
         }
+  - name: sustain-center-of-expertise
+    label: Sustain Centers of Expertise
+    label_singular: Sustain Center of Expertise
+    description: Sustain Center of Expertise
+    folder: src/content/sustain-center-of-expertise
+    create: false
+    delete: false
+    extension: md
+    identifier_field: title
+    editor: {preview: false}
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'MSC Program Manager Name', name: 'sustain_msc_program_manager_name', widget: 'string' }
+      - { label: 'MSC Program Manager Email', name: 'sustain_msc_program_manager_email', widget: 'string' }
+      - { label: 'MSC Technical Lead Name', name: 'sustain_msc_technical_lead_name', widget: 'string' }
+      - { label: 'MSC Technical Lead Email', name: 'sustain_msc_technical_lead_email', widget: 'string' }
+      - { label: 'HQ USACE Proponent Name', name: 'sustain_hq_usace_proponent_name', widget: 'string' }
+      - { label: 'HQ USACE Proponent Email', name: 'sustain_hq_usace_proponent_email', widget: 'string' }
+      - { label: 'ERDC Liaison Name', name: 'sustain_erdc_liaison_name', widget: 'string' }
+      - { label: 'ERDC Liaison Email', name: 'sustain_erdc_liaison_email', widget: 'string' }
+      - {
+        label: "Image Gallery",
+        name: "carousel_images",
+        widget: "list",
+        field: {label: Image, name: image, widget: image}
+      }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Reviewed Date", name: "page_last_reviewed", widget: "datetime" }
+      - {
+        label: "Related Links",
+        name: "related_links",
+        widget: "list",
+        fields:
+          [
+            { label: "Link Caption", name: "caption", widget: "string" },
+            { label: "Link URL", name: "url", widget: "string" },
+          ],
+      }
+      - {
+        label: "File Library Root Path",
+        name: "file_library_root_path",
+        widget: "string",
+        required: false
+      }
+      - {
+          label: "Slug",
+          name: "slug",
+          widget: "string",
+        }
+      - {
+          label: "Document Type",
+          name: "doc_type",
+          widget: "string",
+        }
+  - name: sustain-knowledge-resources
+    label: Sustain Knowledge Resources
+    label_singular: Sustain Knowledge Resource
+    description: Sustain Knowledge Resources
+    folder: src/content/sustain-knowledge-resources
+    create: false
+    delete: false
+    extension: md
+    identifier_field: title
+    editor: {preview: false}
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'MSC Program Manager Name', name: 'sustain_msc_program_manager_name', widget: 'string' }
+      - { label: 'MSC Program Manager Email', name: 'sustain_msc_program_manager_email', widget: 'string' }
+      - { label: 'MSC Technical Lead Name', name: 'sustain_msc_technical_lead_name', widget: 'string' }
+      - { label: 'MSC Technical Lead Email', name: 'sustain_msc_technical_lead_email', widget: 'string' }
+      - { label: 'HQ USACE Proponent Name', name: 'sustain_hq_usace_proponent_name', widget: 'string' }
+      - { label: 'HQ USACE Proponent Email', name: 'sustain_hq_usace_proponent_email', widget: 'string' }
+      - { label: 'ERDC Liaison Name', name: 'sustain_erdc_liaison_name', widget: 'string' }
+      - { label: 'ERDC Liaison Email', name: 'sustain_erdc_liaison_email', widget: 'string' }
+      - {
+        label: "Image Gallery",
+        name: "carousel_images",
+        widget: "list",
+        field: {label: Image, name: image, widget: image}
+      }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Reviewed Date", name: "page_last_reviewed", widget: "datetime" }
+      - {
+        label: "Related Links",
+        name: "related_links",
+        widget: "list",
+        fields:
+          [
+            { label: "Link Caption", name: "caption", widget: "string" },
+            { label: "Link URL", name: "url", widget: "string" },
+          ],
+      }
+      - {
+        label: "File Library Root Path",
+        name: "file_library_root_path",
+        widget: "string",
+        required: false
+      }
+      - {
+          label: "Slug",
+          name: "slug",
+          widget: "string",
+        }
+      - {
+          label: "Document Type",
+          name: "doc_type",
+          widget: "string",
+        }

@@ -1,10 +1,10 @@
 ---
 doc_type: sustain_cx_page
 carousel_images:
-  - ./150629-a-ce999-002.jpg
-  - ./blower-door.jpg
-  - ./commissioning_800_resize.jpg
-  - ./commissioning-scheduling-process.jpg
+  - /admin/images/uploads/150629-a-ce999-002.jpg
+  - /admin/images/uploads/blower-door.jpg
+  - /admin/images/uploads/commissioning_800_resize.jpg
+  - /admin/images/uploads/commissioning-scheduling-process.jpg
 title: Commissioning
 
 sustain_msc_program_manager_name: Brandon Martin

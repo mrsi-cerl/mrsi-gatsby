@@ -1,11 +1,11 @@
 ---
 doc_type: sustain_cx_page
 carousel_images:
-  - ./blm.png
-  - ./fort-hunter-liggett.jpg
-  - ./hawthorne-army-depot.jpg
-  - ./sanfran2.jpg
-  - ./solar-panels_800_resize.jpg
+  - /admin/images/uploads/blm.png
+  - /admin/images/uploads/fort-hunter-liggett.jpg
+  - /admin/images/uploads/hawthorne-army-depot.jpg
+  - /admin/images/uploads/sanfran2.jpg
+  - /admin/images/uploads/solar-panels_800_resize.jpg
 title: Solar Photovoltaic
 
 sustain_msc_program_manager_email: Lori.A.Arakawa@usace.army.mil

@@ -1,7 +1,7 @@
 ---
 doc_type: sustain_kr_page
 carousel_images:
-  - ./wind_800_resize.jpg
+  - /admin/images/uploads/wind_800_resize.jpg
 title: Wind Energy
 
 sustain_msc_program_manager_email: Mike.Ternak@usace.army.mil

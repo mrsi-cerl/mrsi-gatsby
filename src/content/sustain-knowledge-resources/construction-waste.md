@@ -1,11 +1,11 @@
 ---
 doc_type: sustain_kr_page
 carousel_images:
-  - ./move-the-chapel-1.jpg
-  - ./p1010016.jpg
-  - ./p9160023.jpg
-  - ./separating-debris-from-salvage.jpg
-  - ./waste20diversion_800_resize.jpg
+  - /admin/images/uploads/move-the-chapel-1.jpg
+  - /admin/images/uploads/p1010016.jpg
+  - /admin/images/uploads/p9160023.jpg
+  - /admin/images/uploads/separating-debris-from-salvage.jpg
+  - /admin/images/uploads/waste20diversion_800_resize.jpg
 
 title: Construction Waste Diversion and Mitigation
 

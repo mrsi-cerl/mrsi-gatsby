@@ -1,7 +1,7 @@
 ---
 doc_type: sustain_cx_page
 carousel_images:
-  - ./utility20meter_800_resize.jpg
+  - /admin/images/uploads/utility20meter_800_resize.jpg
 title: Utility Metering
 
 sustain_msc_program_manager_email: Bryan.Rogers@usace.army.mil

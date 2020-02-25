@@ -1,7 +1,7 @@
 ---
 doc_type: sustain_kr_page
 carousel_images:
-  - ./district20energy_800_resize.jpg
+  - /admin/images/uploads/district20energy_800_resize.jpg
 
 title: District Energy
 

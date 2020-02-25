@@ -1,7 +1,7 @@
 ---
 doc_type: sustain_kr_page
 carousel_images:
-  - ./microhydro_800_resize.jpg
+  - /admin/images/uploads/microhydro_800_resize.jpg
 title: Hydropower
 
 sustain_msc_program_manager_email: jeanette.m.fiess@usace.army.mil

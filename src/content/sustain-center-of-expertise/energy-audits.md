@@ -1,16 +1,16 @@
 ---
 doc_type: sustain_cx_page
 carousel_images:
-  - ./100810-a-uk000-001.jpg
-  - ./140423-a-uk000-001.jpg
-  - ./150408-a-ta437-001.jpg
-  - ./150825-a-ce999-007.jpg
-  - ./150825-a-ce999-009.jpg
-  - ./150825-a-ce999-010.jpg
-  - ./150825-a-ce999-011.jpg
-  - ./150825-a-ce999-012.jpg
-  - ./150825-a-ce999-019.jpg
-  - ./150825-a-ce999-024.jpg
+  - /admin/images/uploads/100810-a-uk000-001.jpg
+  - /admin/images/uploads/140423-a-uk000-001.jpg
+  - /admin/images/uploads/150408-a-ta437-001.jpg
+  - /admin/images/uploads/150825-a-ce999-007.jpg
+  - /admin/images/uploads/150825-a-ce999-009.jpg
+  - /admin/images/uploads/150825-a-ce999-010.jpg
+  - /admin/images/uploads/150825-a-ce999-011.jpg
+  - /admin/images/uploads/150825-a-ce999-012.jpg
+  - /admin/images/uploads/150825-a-ce999-019.jpg
+  - /admin/images/uploads/150825-a-ce999-024.jpg
 title: Energy Audit
 
 sustain_msc_program_manager_name: Joshua Mason
