@@ -1,13 +1,14 @@
 ---
-doc_type: sustain_technology_in_action
 title: Army Reserve Center
-project_coordinates: 21.3438632,-157.8887031
+project_coordinates: '21.3438632,-157.8887031'
+project_coordinates2: '{"type":"Point","coordinates":[-88.2550085,40.1080946]}'
+carousel_images:
+  - ./14.jpg
 categories:
   - High Performance Building Envelopes
   - Lighting and Daylighting
   - Low Impact Development
-carousel_images:
-  - ./14.jpg
+doc_type: sustain_technology_in_action
 ---
 
 **Location:** Fort Shafter, HI
