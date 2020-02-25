@@ -1,16 +1,18 @@
 ---
-doc_type: facility_page
-facility_category_codes:
-  - "17805"
-facility_cos_short_name: HNC
-facility_functional_proponent: G3
 facility_long_name: Automated Record Fire Range
 facility_short_name: ARF
+facility_cos_short_name: HNC
+facility_technical_poc_name: 'Marcus Searles, Bob Hasse'
 facility_technical_poc_email: marcus.j.searles@usace.army.mil
-facility_technical_poc_name: Marcus Searles, Bob Hasse
-file_library_root_path: "content/cos/hnc/arf/Library/"
+facility_functional_proponent: G3
+facility_category_codes:
+  - '17805'
+carousel_images:
+  - /admin/images/uploads/SAS-COS.jpg
 page_last_reviewed: 1 January 1970
+file_library_root_path: content/cos/hnc/arf/Library/
 slug: /cos/hnc/arf/
+doc_type: facility_page
 ---
 
 ## Description
