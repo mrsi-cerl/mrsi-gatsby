@@ -17,6 +17,23 @@ facility_technical_poc_name: Derek (Drew) Henry
 file_library_root_path: "content/cos/lrl/ortc/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/lrl/ortc/
+carousel_images:
+  - ./13-ft-drum.jpg
+  - ./04-ft-bliss.jpg
+  - ./03-ft-bliss.jpg
+  - ./02-ft-bliss.jpg
+  - ./05-ft-bliss.jpg
+  - ./10-ft-bliss.jpg
+  - ./08-ft-bliss.jpg
+  - ./15-ft-hood.jpg
+  - ./16-jblm.jpg
+  - ./09-ft-bliss.jpg
+  - ./12-ft-drum.jpg
+  - ./07-ft-bliss.jpg
+  - ./11-ft-drum.jpg
+  - ./14-ft-drum.jpg
+  - ./01-ft-bliss.jpg
+  - ./06-ft-bliss.jpg
 ---
 
 ## Description

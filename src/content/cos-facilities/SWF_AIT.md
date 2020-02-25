@@ -11,6 +11,8 @@ facility_technical_poc_name: Javier Fano
 file_library_root_path: "content/cos/swf/ait/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/swf/ait/
+carousel_images:
+  - ./AIT-Complex.JPG
 ---
 
 The AIT Complex provides living and training facilities for soldiers during their advanced individual training.

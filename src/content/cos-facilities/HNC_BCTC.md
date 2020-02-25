@@ -1,5 +1,7 @@
 ---
 doc_type: facility_page
+carousel_images:
+  - ./BCTC-Rendering.jpg
 facility_category_codes:
   - "17213"
 facility_cos_short_name: HNC

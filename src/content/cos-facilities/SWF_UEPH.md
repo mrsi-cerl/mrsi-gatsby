@@ -13,6 +13,8 @@ facility_technical_poc_name: Javier Fano
 file_library_root_path: "content/cos/swf/ueph/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/swf/ueph/
+carousel_images:
+  - ./UEPH.jpg
 ---
 
 ## Description

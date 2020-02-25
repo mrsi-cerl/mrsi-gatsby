@@ -11,6 +11,11 @@ facility_technical_poc_name: Joey Behr
 file_library_root_path: "content/cos/tam/officer-quarters/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/officer-quarters/
+carousel_images:
+  - ./barracks-3d-render.jpg
+  - ./low-density-barracks-option2.png
+  - ./low-density-barracks-option3.png
+  - ./low-density-barracks-option1.png
 ---
 
 ## Space Information

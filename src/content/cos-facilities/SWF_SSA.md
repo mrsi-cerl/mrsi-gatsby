@@ -11,6 +11,8 @@ facility_technical_poc_name: Javier Fano
 file_library_root_path: "content/cos/swf/ssa/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/swf/ssa/
+carousel_images:
+  - ./Supply-Support-Activity.jpg
 ---
 
 ## Description

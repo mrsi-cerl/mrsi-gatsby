@@ -11,6 +11,13 @@ facility_technical_poc_name: Joey Behr
 file_library_root_path: "content/cos/tam/dining/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/dining/
+carousel_images:
+  - ./dfac-500pn.png
+  - ./dfac-224pn.png
+  - ./dfac-full.jpg
+  - ./dfac-seating-full.jpg
+  - ./dfac-3d-render2.jpg
+  - ./dfac-3d-render1.jpg
 ---
 
 ## Space Information

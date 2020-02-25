@@ -11,6 +11,14 @@ facility_technical_poc_name: Joey Behr
 file_library_root_path: "content/cos/tam/medical/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/medical/
+carousel_images:
+  - ./role-2-medical-facility.png
+  - ./medical-facility-r2plus-3d-render1.jpg
+  - ./medical-facility-r1-3d-render.jpg
+  - ./role-1-medical-facility.png
+  - ./role-2plus-medical-facility.png
+  - ./medical-facility-r2-3d-render1.jpg
+  - ./medical-facility-r2-3d-render2.jpg
 ---
 
 ## Space Information

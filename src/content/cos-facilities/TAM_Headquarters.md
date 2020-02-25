@@ -11,6 +11,9 @@ facility_technical_poc_name: Joey Behr
 file_library_root_path: "content/cos/tam/headquarters/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/headquarters/
+carousel_images:
+  - ./3d-render-hq.png
+  - ./headquarters.png
 ---
 
 ## Space Information

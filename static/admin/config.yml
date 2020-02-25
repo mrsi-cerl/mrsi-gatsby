@@ -72,3 +72,78 @@ collections:
           name: "doc_type",
           widget: "string",
         }
+  - name: cos-facility
+    label: COS Facilities
+    label_singular: COS Facility
+    description: COS Facility Information
+    folder: src/content/cos-facilities
+    create: true
+    delete: false
+    extension: md
+    identifier_field: facility_long_name
+    editor: {preview: false}
+    fields:
+      - {
+        label: "Facility Long Name",
+        name: "facility_long_name",
+        widget: "string",
+      }
+      - {
+        label: "Facility Short Name",
+        name: "facility_short_name",
+        widget: "string",
+      }
+      - {
+        label: "COS District",
+        name: "facility_cos_short_name",
+        widget: "relation",
+        collection: "cos-district",
+        searchFields: ["cos_long_name"],
+        valueField: "cos_short_name",
+        displayFields: ["cos_long_name"]
+      }
+      - {
+        label: "Technical POC Name",
+        name: "facility_technical_poc_name",
+        widget: "string",
+      }
+      - {
+        label: "Technical POC Email",
+        name: "facility_technical_poc_email",
+        widget: "string",
+      }
+      - {
+        label: "Functional Proponent",
+        name: "facility_functional_proponent",
+        widget: "string",
+      }
+      - {
+        label: "Category Codes",
+        name: "facility_category_codes",
+        widget: "list",
+        field: { label: "Category Code", name: cat_code, widget: "string"}
+      }
+      - {
+        label: "Image Gallery",
+        name: "carousel_images",
+        widget: "list",
+        field: {label: Image, name: image, widget: image}
+      }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Reviewed Date", name: "page_last_reviewed", widget: "datetime" }
+      - {
+        label: "File Library Root Path",
+        name: "file_library_root_path",
+        widget: "string",
+        required: false
+      }
+      - {
+          label: "Slug",
+          name: "slug",
+          widget: "string",
+        }
+      - {
+          label: "Document Type",
+          name: "doc_type",
+          widget: "string",
+        }

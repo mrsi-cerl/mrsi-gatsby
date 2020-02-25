@@ -11,6 +11,8 @@ facility_technical_poc_name: Marcus Searles, Bob Hasse
 file_library_root_path: "content/cos/hnc/zero/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/zero/
+carousel_images:
+  - ./ZERO-Plan.jpg
 ---
 
 ## Description

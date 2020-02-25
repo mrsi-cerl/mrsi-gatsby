@@ -11,6 +11,14 @@ facility_technical_poc_name: Joey Behr
 file_library_root_path: "content/cos/tam/envelopes/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/envelopes/
+carousel_images:
+  - ./built-cube.jpg
+  - ./picture1.png
+  - ./raise-logo.png
+  - ./safe-safe1.jpg
+  - ./safe.jpg
+  - ./terra-hut-bunker.jpg
+  - ./terra-hut-machine.png
 ---
 
 ## Space Information

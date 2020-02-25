@@ -11,6 +11,19 @@ facility_technical_poc_name: Jelani Ingram
 file_library_root_path: "content/cos/hnc/cdc/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/cdc/
+carousel_images:
+  - ./Reception-Counter.jpg
+  - ./Activity-Play-Room.jpg
+  - ./Cover-Picture.jpg
+  - ./Diaper-Changing-Station.jpg
+  - ./Kitchen-and-Washing-Station.jpg
+  - ./CDC_IT-Rendering.jpg
+  - ./Playground.jpg
+  - ./Front-Picture.jpg
+  - ./DSCF-Picture.jpg
+  - ./DSCN3134.jpg
+  - ./Fort-Benning.jpg
+  - ./Activity-Room-Picture.jpg
 ---
 
 #Facility Information

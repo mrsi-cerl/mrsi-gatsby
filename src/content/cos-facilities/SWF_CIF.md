@@ -11,6 +11,8 @@ facility_technical_poc_name: Javier Fano
 file_library_root_path: "content/cos/swf/cif/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/swf/cif/
+carousel_images:
+  - ./Central-Issue-Facility.JPG
 ---
 
 The CIF provides a single point for receipt, storage, issue, exchange, and return of all authorized organizational clothing and individual equipment items at the specified United States Army Installation.

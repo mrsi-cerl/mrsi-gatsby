@@ -11,6 +11,7 @@ facility_technical_poc_name: John Wahlers
 file_library_root_path: "content/cos/sam/gsab/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/sam/gsab/
+carousel_images: []
 ---
 
 ## Description

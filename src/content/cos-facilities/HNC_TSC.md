@@ -11,6 +11,8 @@ facility_technical_poc_name: Marcus Searles
 file_library_root_path: "content/cos/hnc/tsc/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/tsc/
+carousel_images:
+  - ./TSC-BIM-Rendering.jpg
 ---
 
 ## Description

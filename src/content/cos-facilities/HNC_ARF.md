@@ -1,5 +1,7 @@
 ---
 doc_type: facility_page
+carousel_images:
+  - ./ARF-Plan.jpg
 facility_category_codes:
   - "17805"
 facility_cos_short_name: HNC

@@ -11,6 +11,14 @@ facility_technical_poc_name: Derek (Drew) Henry
 file_library_root_path: "content/cos/lrl/jc/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/lrl/jc/
+carousel_images:
+  - ./05-courtrm-facility-ft-bragg.jpg
+  - ./04-courtroom-usag-humphreys-korea.jpg
+  - ./01-bldg-21-renovation-ft-bliss-tx.jpg
+  - ./06-courtrm-facility-ft-bragg-nc.jpg
+  - ./02-bldg-21-renovation-ft-bliss-tx.jpg
+  - ./Birds-Eye_3-3.jpg
+  - ./03-court-bldg-usag-humphreys-korea.jpg
 ---
 
 ## Description

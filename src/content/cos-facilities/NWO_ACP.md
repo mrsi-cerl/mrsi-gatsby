@@ -13,6 +13,8 @@ facility_technical_poc_name: Brian Erickson
 file_library_root_path: "content/cos/nwo/acp/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nwo/acp/
+carousel_images:
+  - "./capture.jpg"
 ---
 
 ## Description
