@@ -7,7 +7,7 @@ categories:
   - Lighting and Daylighting
   - Low Impact Development
 carousel_images:
-  - ./09.jpg
+  - /admin/images/uploads/09.jpg
 ---
 
 **Location:** Fort Campbell, KY

@@ -5,7 +5,7 @@ project_coordinates: 38.7420537,-104.7944445
 categories:
   - Ground Source Heat Pumps
 carousel_images:
-  - ./06.jpg
+  - /admin/images/uploads/06.jpg
 ---
 
 **Location:** Fort Carson, CO

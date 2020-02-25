@@ -7,7 +7,7 @@ categories:
   - Ground Source Heat Pumps
   - Lighting and Daylighting
 carousel_images:
-  - ./12.jpg
+  - /admin/images/uploads/12.jpg
 ---
 
 **Location:** Joint Base Lewis-McChord (JBLM), WA

@@ -7,7 +7,7 @@ categories:
   - High Performance Building Envelopes
   - District Energy
 carousel_images:
-  - ./23.jpg
+  - /admin/images/uploads/23.jpg
 ---
 
 **Location:** Fort Carson, CO

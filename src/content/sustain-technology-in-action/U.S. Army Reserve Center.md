@@ -6,7 +6,7 @@ categories:
   - Lighting and Daylighting
   - Low Impact Development
 carousel_images:
-  - ./03.jpg
+  - /admin/images/uploads/03.jpg
 ---
 
 **Location:** Gainesville, FL

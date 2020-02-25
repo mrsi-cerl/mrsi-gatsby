@@ -6,7 +6,7 @@ categories:
   - Solar Photovoltaic
   - Solar Hot Water
 carousel_images:
-  - ./17.jpg
+  - /admin/images/uploads/17.jpg
 ---
 
 **Location:** Fort Carson, CO

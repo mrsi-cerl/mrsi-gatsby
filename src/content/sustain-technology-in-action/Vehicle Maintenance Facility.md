@@ -6,7 +6,7 @@ categories:
   - Solar Thermal
   - Low Impact Development
 carousel_images:
-  - ./16.jpg
+  - /admin/images/uploads/16.jpg
 ---
 
 **Location:** Fort Wainright, AK

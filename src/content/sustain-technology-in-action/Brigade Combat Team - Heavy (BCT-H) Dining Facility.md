@@ -6,7 +6,7 @@ categories:
   - Lighting and Daylighting
   - Low Impact Development
 carousel_images:
-  - ./05.jpg
+  - /admin/images/uploads/05.jpg
 ---
 
 **Location:** Fort Carson, CO

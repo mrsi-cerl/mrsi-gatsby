@@ -6,7 +6,7 @@ categories:
   - High Performance Building Envelopes
   - Lighting and Daylighting
 carousel_images:
-  - ./21.jpg
+  - /admin/images/uploads/21.jpg
 ---
 
 **Location:** Juana Diaz, PR

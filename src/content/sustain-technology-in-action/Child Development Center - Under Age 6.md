@@ -6,7 +6,7 @@ categories:
   - Ground Source Heat Pumps
   - High Performance Building Envelopes
 carousel_images:
-  - ./20.jpg
+  - /admin/images/uploads/20.jpg
 ---
 
 **Location:** Fort Drum, NY

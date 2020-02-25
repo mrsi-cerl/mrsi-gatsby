@@ -7,7 +7,7 @@ categories:
   - Lighting and Daylighting
   - Low Impact Development
 carousel_images:
-  - ./13.jpg
+  - /admin/images/uploads/13.jpg
 ---
 
 **Location:** Fort Riley, KS

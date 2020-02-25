@@ -5,7 +5,7 @@ project_coordinates: 44.0665391,-75.8366932
 categories:
   - High Performance Building Envelopes
 carousel_images:
-  - ./19.jpg
+  - /admin/images/uploads/19.jpg
 ---
 
 **Location:** Fort Drum, NY

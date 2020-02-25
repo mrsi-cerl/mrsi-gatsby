@@ -8,7 +8,7 @@ categories:
   - High Performance Building Envelopes
   - Lighting and Daylighting
 carousel_images:
-  - ./24.jpg
+  - /admin/images/uploads/24.jpg
 ---
 
 **Location:** Fort Carson, CO

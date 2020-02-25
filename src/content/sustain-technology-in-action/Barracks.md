@@ -7,7 +7,7 @@ categories:
   - High Performance Building Envelopes
   - Low Impact Development
 carousel_images:
-  - ./15.jpg
+  - /admin/images/uploads/15.jpg
 ---
 
 **Location:** Fort Wainwright, AK

@@ -5,7 +5,7 @@ project_coordinates: 38.7420537,-104.7944445
 categories:
   - High Performance Building Envelopes
 carousel_images:
-  - ./18.jpg
+  - /admin/images/uploads/18.jpg
 ---
 
 **Location:** Fort Carson, CO

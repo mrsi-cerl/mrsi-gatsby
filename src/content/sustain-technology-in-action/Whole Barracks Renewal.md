@@ -6,7 +6,7 @@ categories:
   - Low Impact Development
   - Rainwater Harvesting
 carousel_images:
-  - ./02.jpg
+  - /admin/images/uploads/02.jpg
 ---
 
 **Location:** Joint Base Lewis-McChord (JBLM)

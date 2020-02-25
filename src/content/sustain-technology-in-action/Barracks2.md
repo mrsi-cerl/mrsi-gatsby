@@ -6,7 +6,7 @@ categories:
   - Lighting and Daylighting
   - Solar Hot Water
 carousel_images:
-  - ./22.jpg
+  - /admin/images/uploads/22.jpg
 ---
 
 **Location:** Fort Irwin, CA

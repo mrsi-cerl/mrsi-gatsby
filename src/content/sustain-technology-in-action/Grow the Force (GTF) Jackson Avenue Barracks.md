@@ -7,7 +7,7 @@ categories:
   - Lighting and Daylighting
   - Low Impact Development
 carousel_images:
-  - ./10.jpg
+  - /admin/images/uploads/10.jpg
 ---
 
 **Location:** Joint Base Lewis-McChord, WA

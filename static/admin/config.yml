@@ -255,3 +255,72 @@ collections:
           name: "doc_type",
           widget: "string",
         }
+  - name: sustain-events
+    label: Sustain Events
+    label_singular: Sustain Event
+    description: Sustain Events
+    folder: src/content/sustain-events
+    create: false
+    delete: false
+    extension: md
+    identifier_field: title
+    editor: {preview: false}
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - {
+        label: "Document Type",
+        name: "doc_type",
+        widget: "string",
+      }
+  - name: sustain-news
+    label: Sustain News
+    label_singular: Sustain News
+    description: Sustain News
+    folder: src/content/sustain-news
+    create: false
+    delete: false
+    extension: md
+    identifier_field: title
+    editor: {preview: false}
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: "Date Published", name: "date_published", widget: "datetime" }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - {
+        label: "Document Type",
+        name: "doc_type",
+        widget: "string",
+      }
+  - name: sustain-technology-in-action
+    label: Sustain Technology in Action
+    label_singular: Sustain Technology in Action
+    description: Sustain Technology in Action
+    folder: src/content/sustain-technology-in-action
+    create: false
+    delete: false
+    extension: md
+    identifier_field: title
+    editor: {preview: false}
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Project Coordinates', name: 'project_coordinates', widget: 'string' }
+      - { label: 'Project Coordinates2', name: 'project_coordinates2', widget: 'map' }
+      - {
+        label: "Image Gallery",
+        name: "carousel_images",
+        widget: "list",
+        field: {label: Image, name: image, widget: image}
+      }
+      - {
+        label: "Project Categories",
+        name: "categories",
+        widget: "list",
+        field: {label: Category, name: category, widget: string}
+      }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - {
+        label: "Document Type",
+        name: "doc_type",
+        widget: "string",
+      }

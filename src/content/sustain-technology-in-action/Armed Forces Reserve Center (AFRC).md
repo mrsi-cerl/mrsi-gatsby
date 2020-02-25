@@ -6,7 +6,7 @@ categories:
   - High Performance Building Envelopes
   - Low Impact Development
 carousel_images:
-  - ./07.jpg
+  - /admin/images/uploads/07.jpg
 ---
 
 **Location:** Norman, OK
