@@ -12,13 +12,13 @@ file_library_root_path: "content/cos/hnc/des/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/des/
 carousel_images:
-  - ./DES-cover.jpg
-  - ./img01295-20130227-1452.jpg
-  - ./large-floor-plan.jpg
-  - ./img01278-20130227-1423.jpg
-  - ./img01306-20130227-1542.jpg
-  - ./img01267-20130227-1353.jpg
-  - ./img01287-20130227-1430.jpg
+  - /admin/images/uploads/DES-cover.jpg
+  - /admin/images/uploads/img01295-20130227-1452.jpg
+  - /admin/images/uploads/large-floor-plan.jpg
+  - /admin/images/uploads/img01278-20130227-1423.jpg
+  - /admin/images/uploads/img01306-20130227-1542.jpg
+  - /admin/images/uploads/img01267-20130227-1353.jpg
+  - /admin/images/uploads/img01287-20130227-1430.jpg
 ---
 
 ## Description

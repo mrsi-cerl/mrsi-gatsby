@@ -13,11 +13,11 @@ file_library_root_path: "content/cos/sas/bn-bde-hq/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/sas/bn-bde-hq/
 carousel_images:
-  - ./bhq-02-3-2.jpg
-  - ./battalion-3-2.jpg
-  - ./overall-3-2.jpg
-  - ./overall-layout-rev1-3-2.jpg
-  - ./bnv7-3-2.jpg
+  - /admin/images/uploads/bhq-02-3-2.jpg
+  - /admin/images/uploads/battalion-3-2.jpg
+  - /admin/images/uploads/overall-3-2.jpg
+  - /admin/images/uploads/overall-layout-rev1-3-2.jpg
+  - /admin/images/uploads/bnv7-3-2.jpg
 ---
 
 ## Description

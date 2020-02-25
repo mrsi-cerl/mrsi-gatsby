@@ -12,12 +12,12 @@ file_library_root_path: "content/cos/tam/dining/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/dining/
 carousel_images:
-  - ./dfac-500pn.png
-  - ./dfac-224pn.png
-  - ./dfac-full.jpg
-  - ./dfac-seating-full.jpg
-  - ./dfac-3d-render2.jpg
-  - ./dfac-3d-render1.jpg
+  - /admin/images/uploads/dfac-500pn.png
+  - /admin/images/uploads/dfac-224pn.png
+  - /admin/images/uploads/dfac-full.jpg
+  - /admin/images/uploads/dfac-seating-full.jpg
+  - /admin/images/uploads/dfac-3d-render2.jpg
+  - /admin/images/uploads/dfac-3d-render1.jpg
 ---
 
 ## Space Information

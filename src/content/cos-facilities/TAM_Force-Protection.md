@@ -12,11 +12,11 @@ file_library_root_path: "content/cos/tam/force-protection/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/force-protection/
 carousel_images:
-  - ./guard-shack.jpg
-  - ./guard-tower.jpg
-  - ./vehicle-inspection.jpg
-  - ./guard-house.jpg
-  - ./entry-control-point.jpg
+  - /admin/images/uploads/guard-shack.jpg
+  - /admin/images/uploads/guard-tower.jpg
+  - /admin/images/uploads/vehicle-inspection.jpg
+  - /admin/images/uploads/guard-house.jpg
+  - /admin/images/uploads/entry-control-point.jpg
 ---
 
 ## Space Information

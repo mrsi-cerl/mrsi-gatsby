@@ -12,17 +12,17 @@ file_library_root_path: "content/cos/nwo/iet/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nwo/iet/
 carousel_images:
-  - "./chapel_clouds_1.jpg"
-  - "./chapel_clouds_2.jpg"
-  - "./chapel_vault_1.jpg"
-  - "./chapel_vault_2.jpg"
-  - "./cross_clouds.jpg"
-  - "./cross_vault.jpg"
-  - "./long_clouds.jpg"
-  - "./picture1.jpg"
-  - "./picture2.jpg"
-  - "./picture3.jpg"
-  - "./plan.jpg"
+  - "/admin/images/uploads/chapel_clouds_1.jpg"
+  - "/admin/images/uploads/chapel_clouds_2.jpg"
+  - "/admin/images/uploads/chapel_vault_1.jpg"
+  - "/admin/images/uploads/chapel_vault_2.jpg"
+  - "/admin/images/uploads/cross_clouds.jpg"
+  - "/admin/images/uploads/cross_vault.jpg"
+  - "/admin/images/uploads/long_clouds.jpg"
+  - "/admin/images/uploads/picture1.jpg"
+  - "/admin/images/uploads/picture2.jpg"
+  - "/admin/images/uploads/picture3.jpg"
+  - "/admin/images/uploads/plan.jpg"
 ---
 
 ## Description

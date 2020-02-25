@@ -12,19 +12,19 @@ file_library_root_path: "content/cos/sam/uas/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/sam/uas/
 carousel_images:
-  - ./unmanned-aircraft-systems-fort-hood.jpg
-  - ./UAS_Hangar.jpg
-  - ./gray-eagle-hangar-fort-stewart_page_1.jpg
-  - ./p8220001.jpg
-  - ./UAS_Exterior_Aerial_Medium.jpg
-  - ./frks-ext-hgrdr-a-2016.jpg
-  - ./fica-steelframe-d-2016.jpg
-  - ./UAS_Exterior_Entry_Medium.jpg
-  - ./fdny-exterior-a.jpg
-  - ./hangar-jan-ft-bliss.jpg
-  - ./fort-irwin-uas-under-construction.jpg
-  - ./fbtx-hangar-2015.jpg
-  - ./fort-irwin-uas-under-construction-1.jpg
+  - /admin/images/uploads/unmanned-aircraft-systems-fort-hood.jpg
+  - /admin/images/uploads/UAS_Hangar.jpg
+  - /admin/images/uploads/gray-eagle-hangar-fort-stewart_page_1.jpg
+  - /admin/images/uploads/p8220001.jpg
+  - /admin/images/uploads/UAS_Exterior_Aerial_Medium.jpg
+  - /admin/images/uploads/frks-ext-hgrdr-a-2016.jpg
+  - /admin/images/uploads/fica-steelframe-d-2016.jpg
+  - /admin/images/uploads/UAS_Exterior_Entry_Medium.jpg
+  - /admin/images/uploads/fdny-exterior-a.jpg
+  - /admin/images/uploads/hangar-jan-ft-bliss.jpg
+  - /admin/images/uploads/fort-irwin-uas-under-construction.jpg
+  - /admin/images/uploads/fbtx-hangar-2015.jpg
+  - /admin/images/uploads/fort-irwin-uas-under-construction-1.jpg
 ---
 
 ## Description

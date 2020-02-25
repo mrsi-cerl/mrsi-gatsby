@@ -13,7 +13,7 @@ file_library_root_path: "content/cos/nao/gib/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nao/gib/
 carousel_images:
-  - ./GIB-Rendering.jpg
+  - /admin/images/uploads/GIB-Rendering.jpg
 ---
 
 ## Description

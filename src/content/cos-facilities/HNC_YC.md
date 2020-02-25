@@ -12,16 +12,16 @@ file_library_root_path: "content/cos/hnc/yc/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/yc/
 carousel_images:
-  - ./IMG01980-20130619-1052.jpg
-  - ./IMG01814-20130618-0911.jpg
-  - ./YAC-BIM-Rendering.jpg
-  - ./IMG01962-20130619-1033.jpg
-  - ./cover_jpg.jpg
-  - ./cover2_jpg.jpg
-  - ./IMG02006-20130619-1110.jpg
-  - ./IMG01940-20130619-1014.jpg
-  - ./IMG01937-20130619-1013.jpg
-  - ./IMG01809-20130618-0909.jpg
+  - /admin/images/uploads/IMG01980-20130619-1052.jpg
+  - /admin/images/uploads/IMG01814-20130618-0911.jpg
+  - /admin/images/uploads/YAC-BIM-Rendering.jpg
+  - /admin/images/uploads/IMG01962-20130619-1033.jpg
+  - /admin/images/uploads/cover_jpg_YC.jpg
+  - /admin/images/uploads/cover2_jpg.jpg
+  - /admin/images/uploads/IMG02006-20130619-1110.jpg
+  - /admin/images/uploads/IMG01940-20130619-1014.jpg
+  - /admin/images/uploads/IMG01937-20130619-1013.jpg
+  - /admin/images/uploads/IMG01809-20130618-0909.jpg
 ---
 
 ## Description

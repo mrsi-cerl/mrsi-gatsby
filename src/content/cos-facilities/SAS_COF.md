@@ -13,11 +13,11 @@ file_library_root_path: "content/cos/sas/cof/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/sas/cof/
 carousel_images:
-  - ./cof-3-2.jpg
-  - ./cof03-3-2.jpg
-  - ./cof02-3-2.jpg
-  - ./cof01-3-2.jpg
-  - ./overall-3-2.jpg
+  - /admin/images/uploads/cof-3-2.jpg
+  - /admin/images/uploads/cof03-3-2.jpg
+  - /admin/images/uploads/cof02-3-2.jpg
+  - /admin/images/uploads/cof01-3-2.jpg
+  - /admin/images/uploads/overall-3-2.jpg
 ---
 
 ## Description

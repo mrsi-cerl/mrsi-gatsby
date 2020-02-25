@@ -12,7 +12,7 @@ file_library_root_path: "content/cos/hnc/lfsh/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/lfsh/
 carousel_images:
-  - ./LFS-Plan.jpg
+  - /admin/images/uploads/LFS-Plan.jpg
 ---
 
 ## Description

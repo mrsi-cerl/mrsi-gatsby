@@ -12,13 +12,13 @@ file_library_root_path: "content/cos/sam/asb/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/sam/asb/
 carousel_images:
-  - 20150129_hp_asb_0211.jpg
-  - 20150129_hp_asb_0301.jpg
-  - 20150129_hp_asb_0426.jpg
-  - 20150129_hp_asb_0755.jpg
-  - 20150129_hp_asb_0867.jpg
-  - 20150129_hp_asb_0908.jpg
-  - 20150129_hp_asb_1312.jpg
+  - /admin/images/uploads/20150129_hp_asb_0211.jpg
+  - /admin/images/uploads/20150129_hp_asb_0301.jpg
+  - /admin/images/uploads/20150129_hp_asb_0426.jpg
+  - /admin/images/uploads/20150129_hp_asb_0755.jpg
+  - /admin/images/uploads/20150129_hp_asb_0867.jpg
+  - /admin/images/uploads/20150129_hp_asb_0908.jpg
+  - /admin/images/uploads/20150129_hp_asb_1312.jpg
 ---
 
 ## Description

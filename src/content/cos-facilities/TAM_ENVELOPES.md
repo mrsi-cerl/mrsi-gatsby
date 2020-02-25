@@ -12,13 +12,13 @@ file_library_root_path: "content/cos/tam/envelopes/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/envelopes/
 carousel_images:
-  - ./built-cube.jpg
-  - ./picture1.png
-  - ./raise-logo.png
-  - ./safe-safe1.jpg
-  - ./safe.jpg
-  - ./terra-hut-bunker.jpg
-  - ./terra-hut-machine.png
+  - /admin/images/uploads/built-cube.jpg
+  - /admin/images/uploads/picture1.png
+  - /admin/images/uploads/raise-logo.png
+  - /admin/images/uploads/safe-safe1.jpg
+  - /admin/images/uploads/safe.jpg
+  - /admin/images/uploads/terra-hut-bunker.jpg
+  - /admin/images/uploads/terra-hut-machine.png
 ---
 
 ## Space Information

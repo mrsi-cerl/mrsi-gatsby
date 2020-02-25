@@ -12,11 +12,11 @@ file_library_root_path: "content/cos/nwo/chapels/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nwo/chapels/
 carousel_images:
-  - "./20150616_105943.jpg"
-  - "./dscn0964.jpg"
-  - "./dscn0965.jpg"
-  - "./dscn1044.jpg"
-  - "./dscn1045.jpg"
+  - "/admin/images/uploads/20150616_105943.jpg"
+  - "/admin/images/uploads/dscn0964.jpg"
+  - "/admin/images/uploads/dscn0965.jpg"
+  - "/admin/images/uploads/dscn1044.jpg"
+  - "/admin/images/uploads/dscn1045.jpg"
 ---
 
 ## Description

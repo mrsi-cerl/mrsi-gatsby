@@ -12,13 +12,13 @@ file_library_root_path: "content/cos/tam/weapon-storage/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/weapon-storage/
 carousel_images:
-  - ./weapons-storage-1-bay2.png
-  - ./safe-ws-full-interior.jpg
-  - ./weapons-storage-2-bay.png
-  - ./weapons-storage-render.jpg
-  - ./saws-ws-full-interior.jpg
-  - ./weapons-storage-2-bay2.png
-  - ./weapons-storage-1-bay.png
+  - /admin/images/uploads/weapons-storage-1-bay2.png
+  - /admin/images/uploads/safe-ws-full-interior.jpg
+  - /admin/images/uploads/weapons-storage-2-bay.png
+  - /admin/images/uploads/weapons-storage-render.jpg
+  - /admin/images/uploads/saws-ws-full-interior.jpg
+  - /admin/images/uploads/weapons-storage-2-bay2.png
+  - /admin/images/uploads/weapons-storage-1-bay.png
 ---
 
 ## Space Information

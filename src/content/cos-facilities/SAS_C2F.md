@@ -12,10 +12,10 @@ file_library_root_path: "content/cos/sas/c2f/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/sas/c2f/
 carousel_images:
-  - ./82nd-airborne-div-hq-3-2.jpg
-  - ./amc-rendering-3-2.jpg
-  - ./rendering-3-2.jpg
-  - ./dsc1419-3-2.jpg
+  - /admin/images/uploads/82nd-airborne-div-hq-3-2.jpg
+  - /admin/images/uploads/amc-rendering-3-2.jpg
+  - /admin/images/uploads/rendering-3-2.jpg
+  - /admin/images/uploads/dsc1419-3-2.jpg
 ---
 
 ## Description

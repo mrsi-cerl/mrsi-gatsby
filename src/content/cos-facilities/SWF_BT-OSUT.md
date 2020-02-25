@@ -16,10 +16,10 @@ file_library_root_path: "content/cos/swf/bt-osut/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/swf/bt-osut/
 carousel_images:
-  - ./FtJacksonBTBarracksLobby.jpg
-  - ./Ft-JacksonBTBarracksInterior.jpg
-  - ./BCOF_Front.jpg
-  - ./Fort_Jackson_BT_Complex.jpg
+  - /admin/images/uploads/FtJacksonBTBarracksLobby.jpg
+  - /admin/images/uploads/Ft-JacksonBTBarracksInterior.jpg
+  - /admin/images/uploads/BCOF_Front.jpg
+  - /admin/images/uploads/Fort_Jackson_BT_Complex.jpg
 ---
 
 The BT Complex provides the living and training facility for soldiers during their basic and unit training following induction into the Army.

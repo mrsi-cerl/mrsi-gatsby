@@ -12,8 +12,8 @@ file_library_root_path: "content/cos/tam/headquarters/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/headquarters/
 carousel_images:
-  - ./3d-render-hq.png
-  - ./headquarters.png
+  - /admin/images/uploads/3d-render-hq.png
+  - /admin/images/uploads/headquarters.png
 ---
 
 ## Space Information

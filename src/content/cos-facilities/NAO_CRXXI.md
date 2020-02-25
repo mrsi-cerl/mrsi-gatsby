@@ -12,7 +12,7 @@ file_library_root_path: "content/cos/nao/crxxi/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nao/crxxi/
 carousel_images:
-  - ./automation-aided.jpg
+  - /admin/images/uploads/automation-aided.jpg
 ---
 
 ## Description

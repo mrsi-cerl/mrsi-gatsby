@@ -13,7 +13,7 @@ file_library_root_path: "content/cos/nao/epdf/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nao/epdf/
 carousel_images:
-  - ./dfac.jpg
+  - /admin/images/uploads/dfac.jpg
 ---
 
 ## Description

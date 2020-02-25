@@ -12,8 +12,8 @@ file_library_root_path: "content/cos/tam/latrine/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/latrine/
 carousel_images:
-  - ./latrine-3d-render.jpg
-  - ./latrine-full-floor.png
+  - /admin/images/uploads/latrine-3d-render.jpg
+  - /admin/images/uploads/latrine-full-floor.png
 ---
 
 ## Space Information

@@ -12,7 +12,7 @@ file_library_root_path: "content/cos/nao/infosys/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nao/infosys/
 carousel_images:
-  - ./isf_ft-carson.jpg
+  - /admin/images/uploads/isf_ft-carson.jpg
 ---
 
 ## Description

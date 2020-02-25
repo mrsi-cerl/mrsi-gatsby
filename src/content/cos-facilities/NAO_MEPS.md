@@ -12,10 +12,10 @@ file_library_root_path: "content/cos/nao/meps/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nao/meps/
 carousel_images:
-  - ./la-meps-7-office-area.jpg
-  - ./la-meps-4-ceremony-room.jpg
-  - ./la-meps-2-reception-graphics.jpg
-  - ./la-meps-1-reception.jpg
+  - /admin/images/uploads/la-meps-7-office-area.jpg
+  - /admin/images/uploads/la-meps-4-ceremony-room.jpg
+  - /admin/images/uploads/la-meps-2-reception-graphics.jpg
+  - /admin/images/uploads/la-meps-1-reception.jpg
 ---
 
 ## Description

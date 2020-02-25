@@ -15,7 +15,7 @@ file_library_root_path: "content/cos/nao/ncoa/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nao/ncoa/
 carousel_images:
-  - ./ncoa_image.png
+  - /admin/images/uploads/ncoa_image.png
 ---
 
 ## Description

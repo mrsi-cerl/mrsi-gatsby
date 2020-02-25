@@ -12,8 +12,8 @@ file_library_root_path: "content/cos/tam/laundry/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/laundry/
 carousel_images:
-  - ./laundry.png
-  - ./laundry-3d-render.jpg
+  - /admin/images/uploads/laundry.png
+  - /admin/images/uploads/laundry-3d-render.jpg
 ---
 
 ## Space Information

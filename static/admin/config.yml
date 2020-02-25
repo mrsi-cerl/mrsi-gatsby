@@ -17,7 +17,7 @@ collections:
     label_singular: COS District
     description: These pages serve as the home page for each COS District
     folder: src/content/cos-districts
-    create: true
+    create: false
     delete: false
     extension: md
     identifier_field: cos_long_name
@@ -77,7 +77,7 @@ collections:
     label_singular: COS Facility
     description: COS Facility Information
     folder: src/content/cos-facilities
-    create: true
+    create: false
     delete: false
     extension: md
     identifier_field: facility_long_name

@@ -12,13 +12,13 @@ file_library_root_path: "content/cos/hnc/fs/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/fs/
 carousel_images:
-  - ./huachuca-fire-station.jpg
-  - ./img01166-20130226-1310.jpg
-  - ./20120320_111736.jpg
-  - ./20120403_123632.jpg
-  - ./img01213-20130226-1407.jpg
-  - ./img01180-20130226-1326.jpg
-  - ./Fire-Station.jpg
+  - /admin/images/uploads/huachuca-fire-station.jpg
+  - /admin/images/uploads/img01166-20130226-1310.jpg
+  - /admin/images/uploads/20120320_111736.jpg
+  - /admin/images/uploads/20120403_123632.jpg
+  - /admin/images/uploads/img01213-20130226-1407.jpg
+  - /admin/images/uploads/img01180-20130226-1326.jpg
+  - /admin/images/uploads/Fire-Station.jpg
 ---
 
 ## Description

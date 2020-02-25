@@ -12,7 +12,7 @@ file_library_root_path: "content/cos/poh/slq/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/poh/slq/
 carousel_images:
-  - ./senior-leaders-quarters_2.jpg
+  - /admin/images/uploads/senior-leaders-quarters_2.jpg
 ---
 
 ## Description

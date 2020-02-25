@@ -12,7 +12,7 @@ file_library_root_path: "content/cos/hnc/cpqc/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/cpqc/
 carousel_images:
-  - ./CPQC-Plan.jpg
+  - /admin/images/uploads/CPQC-Plan.jpg
 ---
 
 ## Description

@@ -12,11 +12,11 @@ file_library_root_path: "content/cos/tam/religious/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/religious/
 carousel_images:
-  - ./religious-facility-2-story-opt1.png
-  - ./religious-facility-1-story-opt2.png
-  - ./religious-3d-render2.jpg
-  - ./religious-3d-render3.jpg
-  - ./religious-3d-render1.jpg
+  - /admin/images/uploads/religious-facility-2-story-opt1.png
+  - /admin/images/uploads/religious-facility-1-story-opt2.png
+  - /admin/images/uploads/religious-3d-render2.jpg
+  - /admin/images/uploads/religious-3d-render3.jpg
+  - /admin/images/uploads/religious-3d-render1.jpg
 ---
 
 ## Space Information

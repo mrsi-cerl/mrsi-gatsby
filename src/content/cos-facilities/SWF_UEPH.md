@@ -14,7 +14,7 @@ file_library_root_path: "content/cos/swf/ueph/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/swf/ueph/
 carousel_images:
-  - ./UEPH.jpg
+  - /admin/images/uploads/UEPH.jpg
 ---
 
 ## Description

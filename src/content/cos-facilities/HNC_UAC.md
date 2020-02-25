@@ -12,7 +12,7 @@ file_library_root_path: "content/cos/hnc/uac/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/uac/
 carousel_images:
-  - ./UAC-Layout.jpg
+  - /admin/images/uploads/UAC-Layout.jpg
 ---
 
 ## Description

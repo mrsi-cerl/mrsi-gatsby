@@ -12,18 +12,18 @@ file_library_root_path: "content/cos/hnc/cdc/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/cdc/
 carousel_images:
-  - ./Reception-Counter.jpg
-  - ./Activity-Play-Room.jpg
-  - ./Cover-Picture.jpg
-  - ./Diaper-Changing-Station.jpg
-  - ./Kitchen-and-Washing-Station.jpg
-  - ./CDC_IT-Rendering.jpg
-  - ./Playground.jpg
-  - ./Front-Picture.jpg
-  - ./DSCF-Picture.jpg
-  - ./DSCN3134.jpg
-  - ./Fort-Benning.jpg
-  - ./Activity-Room-Picture.jpg
+  - /admin/images/uploads/Reception-Counter.jpg
+  - /admin/images/uploads/Activity-Play-Room.jpg
+  - /admin/images/uploads/Cover-Picture.jpg
+  - /admin/images/uploads/Diaper-Changing-Station.jpg
+  - /admin/images/uploads/Kitchen-and-Washing-Station.jpg
+  - /admin/images/uploads/CDC_IT-Rendering.jpg
+  - /admin/images/uploads/Playground.jpg
+  - /admin/images/uploads/Front-Picture.jpg
+  - /admin/images/uploads/DSCF-Picture.jpg
+  - /admin/images/uploads/DSCN3134.jpg
+  - /admin/images/uploads/Fort-Benning.jpg
+  - /admin/images/uploads/Activity-Room-Picture.jpg
 ---
 
 #Facility Information

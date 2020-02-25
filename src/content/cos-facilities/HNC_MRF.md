@@ -12,7 +12,7 @@ file_library_root_path: "content/cos/hnc/mrf/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/mrf/
 carousel_images:
-  - ./MRF-Plan.jpg
+  - /admin/images/uploads/MRF-Plan.jpg
 ---
 
 ## Description

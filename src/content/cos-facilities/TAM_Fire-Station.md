@@ -12,9 +12,9 @@ file_library_root_path: "content/cos/tam/fire-station/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/fire-station/
 carousel_images:
-  - ./fire-station-administration-building.jpg
-  - ./fire-station-apparatus-bay.jpg
-  - ./fire-station-barracks.jpg
+  - /admin/images/uploads/fire-station-administration-building.jpg
+  - /admin/images/uploads/fire-station-apparatus-bay.jpg
+  - /admin/images/uploads/fire-station-barracks.jpg
 ---
 
 ## Space Information

@@ -12,7 +12,7 @@ file_library_root_path: "content/cos/swf/starship/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/swf/starship/
 carousel_images:
-  - ./Tulsa-StarShip_Renovation.jpg
+  - /admin/images/uploads/Tulsa-StarShip_Renovation.jpg
 ---
 
 ## Description

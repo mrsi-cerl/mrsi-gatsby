@@ -3,7 +3,7 @@ doc_type: facility_page
 facility_category_codes:
   - "74033"
 carousel_images:
-  - ./ACSC-Rendering.jpg
+  - /admin/images/uploads/ACSC-Rendering.jpg
 
 facility_cos_short_name: HNC
 facility_functional_proponent: CFSC

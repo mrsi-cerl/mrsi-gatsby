@@ -12,8 +12,8 @@ file_library_root_path: "content/cos/sas/bwf/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/sas/bwf/
 carousel_images:
-  - ./bwf-lower-layout-1.jpg
-  - ./bwf-upper-layout-1.jpg
+  - /admin/images/uploads/bwf-lower-layout-1.jpg
+  - /admin/images/uploads/bwf-upper-layout-1.jpg
 ---
 
 ## Description

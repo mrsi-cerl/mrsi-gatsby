@@ -16,7 +16,7 @@ file_library_root_path: "content/cos/swf/gpw/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/swf/gpw/
 carousel_images:
-  - ./General-Purpose-Warehouse.jpg
+  - /admin/images/uploads/General-Purpose-Warehouse.jpg
 ---
 
 ## Description
