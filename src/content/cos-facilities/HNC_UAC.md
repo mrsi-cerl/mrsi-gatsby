@@ -1,6 +1,4 @@
 ---
-carousel_images:
-  - ./UAC-Layout.jpg
 doc_type: facility_page
 facility_category_codes:
   - "17878"

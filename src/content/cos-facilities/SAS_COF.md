@@ -1,26 +1,18 @@
 ---
-carousel_images:
-- ./cof-3-2.jpg
-- ./cof03-3-2.jpg
-- ./cof02-3-2.jpg
-- ./cof01-3-2.jpg
-- ./overall-3-2.jpg
 doc_type: facility_page
 facility_category_codes:
-- '14185'
-- DCS, G-3
+  - "14185"
+  - DCS, G-3
 facility_cos_short_name: SAS
-facility_functional_proponent: ''
+facility_functional_proponent: ""
 facility_long_name: Company Operations Facility
 facility_short_name: COF
 facility_technical_poc_email: jason.whittaker@usace.army.mil
 facility_technical_poc_name: Jason Whittaker
-file_library_root_path: 'content/cos/sas/cof/Library/'
+file_library_root_path: "content/cos/sas/cof/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/sas/cof/
 ---
-
-
 
 ## Description
 

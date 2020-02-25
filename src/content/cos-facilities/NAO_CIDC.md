@@ -1,6 +1,4 @@
 ---
-carousel_images:
-  - ./CIDC-rendering.jpg
 doc_type: facility_page
 facility_category_codes:
   - "14114"

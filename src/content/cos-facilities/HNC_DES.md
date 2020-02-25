@@ -1,12 +1,4 @@
 ---
-carousel_images:
-  - ./DES-cover.jpg
-  - ./img01295-20130227-1452.jpg
-  - ./large-floor-plan.jpg
-  - ./img01278-20130227-1423.jpg
-  - ./img01306-20130227-1542.jpg
-  - ./img01267-20130227-1353.jpg
-  - ./img01287-20130227-1430.jpg
 doc_type: facility_page
 facility_category_codes:
   - "73010"

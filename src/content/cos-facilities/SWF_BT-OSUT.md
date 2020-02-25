@@ -1,9 +1,4 @@
 ---
-carousel_images:
-  - ./FtJacksonBTBarracksLobby.jpg
-  - ./Ft-JacksonBTBarracksInterior.jpg
-  - ./BCOF_Front.jpg
-  - ./Fort_Jackson_BT_Complex.jpg
 doc_type: facility_page
 facility_category_codes:
   - 72181 (includes 14185, 17119)

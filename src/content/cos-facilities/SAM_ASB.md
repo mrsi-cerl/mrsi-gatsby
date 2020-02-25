@@ -1,27 +1,17 @@
 ---
-carousel_images:
-- 20150129_hp_asb_0211.jpg
-- 20150129_hp_asb_0301.jpg
-- 20150129_hp_asb_0426.jpg
-- 20150129_hp_asb_0755.jpg
-- 20150129_hp_asb_0867.jpg
-- 20150129_hp_asb_0908.jpg
-- 20150129_hp_asb_1312.jpg
 doc_type: facility_page
 facility_category_codes:
-- 21110 (11370, 11340, 21470, and 44222)
+  - 21110 (11370, 11340, 21470, and 44222)
 facility_cos_short_name: SAM
 facility_functional_proponent: DCS, G4
 facility_long_name: Aviation Support Battalion Hangar
 facility_short_name: ASB
 facility_technical_poc_email: john.j.wahlers@usace.army.mil
 facility_technical_poc_name: John Wahlers
-file_library_root_path: 'content/cos/sam/asb/Library/'
+file_library_root_path: "content/cos/sam/asb/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/sam/asb/
 ---
-
-
 
 ## Description
 

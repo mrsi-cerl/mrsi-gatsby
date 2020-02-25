@@ -1,6 +1,4 @@
 ---
-carousel_images:
-  - ./ZERO-Plan.jpg
 doc_type: facility_page
 facility_category_codes:
   - "17801"

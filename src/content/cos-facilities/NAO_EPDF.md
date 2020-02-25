@@ -1,22 +1,18 @@
 ---
-carousel_images:
-- ./dfac.jpg
 doc_type: facility_page
 facility_category_codes:
-- '72210'
-- '72212'
+  - "72210"
+  - "72212"
 facility_cos_short_name: NAO
 facility_functional_proponent: G4
 facility_long_name: Permanent Party Enlisted Dining Facility
 facility_short_name: EPDF
 facility_technical_poc_email: matthew.c.scanlon@usace.army.mil
 facility_technical_poc_name: Matthew Scanlon
-file_library_root_path: 'content/cos/nao/epdf/Library/'
+file_library_root_path: "content/cos/nao/epdf/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nao/epdf/
 ---
-
-
 
 ## Description
 

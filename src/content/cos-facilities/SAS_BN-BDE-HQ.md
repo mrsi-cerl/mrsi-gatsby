@@ -1,10 +1,4 @@
 ---
-carousel_images:
-  - ./bhq-02-3-2.jpg
-  - ./battalion-3-2.jpg
-  - ./overall-3-2.jpg
-  - ./overall-layout-rev1-3-2.jpg
-  - ./bnv7-3-2.jpg
 doc_type: facility_page
 facility_category_codes:
   - 14182 (BDE HQ)

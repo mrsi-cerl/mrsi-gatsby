@@ -1,6 +1,4 @@
 ---
-carousel_images:
-  - ./Supply-Support-Activity.jpg
 doc_type: facility_page
 facility_category_codes:
   - "44226"

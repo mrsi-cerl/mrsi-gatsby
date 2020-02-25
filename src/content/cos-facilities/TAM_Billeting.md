@@ -1,6 +1,4 @@
 ---
-carousel_images:
-  - ./billeting-3d-render.jpg
 doc_type: facility_page
 facility_category_codes:
   - ""

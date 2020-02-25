@@ -1,20 +1,17 @@
 ---
-carousel_images: []
 doc_type: facility_page
 facility_category_codes:
-- 21110 (11370, 11340, 21470, and 44222)
+  - 21110 (11370, 11340, 21470, and 44222)
 facility_cos_short_name: SAM
 facility_functional_proponent: DCS, G4
 facility_long_name: General Support Aviation Battalion Hangar
 facility_short_name: GSAB
 facility_technical_poc_email: john.j.wahlers@usace.army.mil
 facility_technical_poc_name: John Wahlers
-file_library_root_path: 'content/cos/sam/gsab/Library/'
+file_library_root_path: "content/cos/sam/gsab/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/sam/gsab/
 ---
-
-
 
 ## Description
 

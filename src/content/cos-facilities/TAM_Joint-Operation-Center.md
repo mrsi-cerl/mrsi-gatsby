@@ -1,18 +1,14 @@
 ---
-carousel_images:
-- ./joc-option-1.png
-- ./joc-option-2.png
-- ./joc-3d-render.jpg
 doc_type: facility_page
 facility_category_codes:
-- ''
+  - ""
 facility_cos_short_name: TAM
-facility_functional_proponent: ''
+facility_functional_proponent: ""
 facility_long_name: Joint Operation Center
 facility_short_name: Joint-Operation-Center
 facility_technical_poc_email: joseph.r.behr@usace.army.mil
 facility_technical_poc_name: Joey Behr
-file_library_root_path: 'content/cos/tam/joint-operation-center/Library/'
+file_library_root_path: "content/cos/tam/joint-operation-center/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/joint-operation-center/
 ---

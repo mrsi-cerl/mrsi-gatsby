@@ -19,7 +19,7 @@ collections:
     folder: src/content/cos-districts
     create: true
     delete: false
-    extension: markdown
+    extension: md
     identifier_field: cos_long_name
     editor: {preview: false}
     fields:
@@ -45,7 +45,7 @@ collections:
           widget: "string",
         }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: "Reviewed Date", name: "last_reviewed", widget: "datetime" }
+      - { label: "Reviewed Date", name: "page_last_reviewed", widget: "datetime" }
       - {
         label: "Related Links",
         name: "related_links",
@@ -61,4 +61,14 @@ collections:
           name: "file_library_root_path",
           widget: "string",
           required: false
+        }
+      - {
+          label: "Slug",
+          name: "slug",
+          widget: "string",
+        }
+      - {
+          label: "Document Type",
+          name: "doc_type",
+          widget: "string",
         }

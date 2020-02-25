@@ -1,6 +1,4 @@
 ---
-carousel_images:
-  - ./ACSC-Rendering.jpg
 doc_type: facility_page
 facility_category_codes:
   - "74033"

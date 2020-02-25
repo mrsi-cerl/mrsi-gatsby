@@ -37,9 +37,6 @@ export const query = graphql`
               url
               caption
             }
-            carousel_images {
-              publicURL
-            }
             title
             facility_technical_poc_email
             doc_type

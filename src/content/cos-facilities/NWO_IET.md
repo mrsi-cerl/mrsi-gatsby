@@ -1,17 +1,4 @@
 ---
-carousel_images:
-  - "./chapel_clouds_1.jpg"
-  - "./chapel_clouds_2.jpg"
-  - "./chapel_vault_1.jpg"
-  - "./chapel_vault_2.jpg"
-  - "./cross_clouds.jpg"
-  - "./cross_vault.jpg"
-  - "./long_clouds.jpg"
-  - "./picture1.jpg"
-  - "./picture2.jpg"
-  - "./picture3.jpg"
-  - "./plan.jpg"
-
 doc_type: facility_page
 facility_category_codes:
   - "73017"

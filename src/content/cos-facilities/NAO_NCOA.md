@@ -1,24 +1,20 @@
 ---
-carousel_images:
-- ./ncoa_image.png
 doc_type: facility_page
 facility_category_codes:
-- '17120'
-- '72122'
-- '72210'
-- '75027'
+  - "17120"
+  - "72122"
+  - "72210"
+  - "75027"
 facility_cos_short_name: NAO
 facility_functional_proponent: G-3/5/7
 facility_long_name: Non‐Commissioned Officer Academy
 facility_short_name: NCOA
 facility_technical_poc_email: matthew.c.scanlon@usace.army.mil
 facility_technical_poc_name: Matthew Scanlon
-file_library_root_path: 'content/cos/nao/ncoa/Library/'
+file_library_root_path: "content/cos/nao/ncoa/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nao/ncoa/
 ---
-
-
 
 ## Description
 

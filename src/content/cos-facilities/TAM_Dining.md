@@ -1,11 +1,4 @@
 ---
-carousel_images:
-  - ./dfac-500pn.png
-  - ./dfac-224pn.png
-  - ./dfac-full.jpg
-  - ./dfac-seating-full.jpg
-  - ./dfac-3d-render2.jpg
-  - ./dfac-3d-render1.jpg
 doc_type: facility_page
 facility_category_codes:
   - ""

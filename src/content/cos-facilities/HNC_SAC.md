@@ -1,15 +1,4 @@
 ---
-carousel_images:
-  - ./IMG00138-20120328-1138_jpg.jpg
-  - ./Bldg-11898.jpg
-  - ./Bldg-20616.jpg
-  - ./Bldg-6204.jpg
-  - ./IMG02412-20131218-1218_jpg.jpg
-  - ./IMG00957-20121018-0938_jpg.jpg
-  - ./CDC_SABIMRendering.jpg
-  - ./cover123.jpg
-  - ./IMG00357-20120419-0925_jpg.jpg
-  - ./may2011135.jpg
 doc_type: facility_page
 facility_category_codes:
   - "74016"

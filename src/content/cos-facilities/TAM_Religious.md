@@ -1,20 +1,14 @@
 ---
-carousel_images:
-- ./religious-facility-2-story-opt1.png
-- ./religious-facility-1-story-opt2.png
-- ./religious-3d-render2.jpg
-- ./religious-3d-render3.jpg
-- ./religious-3d-render1.jpg
 doc_type: facility_page
 facility_category_codes:
-- ''
+  - ""
 facility_cos_short_name: TAM
-facility_functional_proponent: ''
+facility_functional_proponent: ""
 facility_long_name: Religious
 facility_short_name: Religious
 facility_technical_poc_email: joseph.r.behr@usace.army.mil
 facility_technical_poc_name: Joey Behr
-file_library_root_path: 'content/cos/tam/religious/Library/'
+file_library_root_path: "content/cos/tam/religious/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/religious/
 ---

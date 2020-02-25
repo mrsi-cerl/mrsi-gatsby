@@ -1,7 +1,4 @@
 ---
-carousel_images:
-  - ./latrine-3d-render.jpg
-  - ./latrine-full-floor.png
 doc_type: facility_page
 facility_category_codes:
   - ""

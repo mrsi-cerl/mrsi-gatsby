@@ -1,27 +1,4 @@
 ---
-carousel_images:
-  - ./front_jpg.jpg
-  - ./IMG00896-20121017-1435_jpg.jpg
-  - ./20130512_200115_jpg.jpg
-  - ./IMG00825-20120927-1035_jpg.jpg
-  - ./cover_jpg.jpg
-  - ./P1010948_JPG.jpg
-  - ./20130211_135632_jpg.jpg
-  - ./may2011_438.jpg
-  - ./100_8701_JPG.jpg
-  - ./IMG02477-20131219-1358_jpg.jpg
-  - ./IMG02518-20140711-1056_jpg.jpg
-  - ./100_8684_JPG.jpg
-  - ./IMG02516-20140711-1054_jpg.jpg
-  - ./oct_01_2012_205.jpg
-  - ./may2011_431.jpg
-  - ./100_8698_JPG.jpg
-  - ./IMG00803-20120927-1005_jpg.jpg
-  - ./IMG00786-20120927-0934_jpg.jpg
-  - ./IMG02550-20140711-1130_jpg.jpg
-  - ./IMG02504-20131219-1445_jpg.jpg
-  - ./Bldg-20751.jpg
-  - ./may2011_447.jpg
 doc_type: facility_page
 facility_category_codes:
   - "74028"

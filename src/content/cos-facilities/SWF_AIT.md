@@ -1,6 +1,4 @@
 ---
-carousel_images:
-  - ./AIT-Complex.JPG
 doc_type: facility_page
 facility_category_codes:
   - 721 21

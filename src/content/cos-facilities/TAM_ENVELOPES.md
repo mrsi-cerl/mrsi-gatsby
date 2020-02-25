@@ -1,12 +1,4 @@
 ---
-carousel_images:
-  - ./built-cube.jpg
-  - ./picture1.png
-  - ./raise-logo.png
-  - ./safe-safe1.jpg
-  - ./safe.jpg
-  - ./terra-hut-bunker.jpg
-  - ./terra-hut-machine.png
 doc_type: facility_page
 facility_category_codes:
   - ""
@@ -50,7 +42,6 @@ The SAFE is a modular structure that is 2 bays wide (14.6M), and typically 7 bay
 ![SAFE](./safe-1.jpg)
 
 ![SAFE Envelope](./safe-envelope.jpg)
-
 
 The SAFE1 is a modular structure that is 2 bays wide (14.6M), and typically 7 bays long (34.3M). The Envelope is designed for single story construction and can be shortened or stretched by the standard bay length. It is also a protected structure with integral protective roof. This is another great choice for billeting, Administrative space, Operations, Dining, & MWR
 

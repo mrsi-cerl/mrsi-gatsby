@@ -1,6 +1,4 @@
 ---
-carousel_images:
-  - ./Central-Issue-Facility.JPG
 doc_type: facility_page
 facility_category_codes:
   - "44227"

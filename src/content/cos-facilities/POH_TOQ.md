@@ -1,6 +1,4 @@
 ---
-carousel_images:
-  - ./TTOQ-Rendering_Feb2013.jpg
 doc_type: facility_page
 facility_category_codes:
   - "72412"

@@ -1,20 +1,17 @@
 ---
-carousel_images: []
 doc_type: facility_page
 facility_category_codes:
-- '73018'
+  - "73018"
 facility_cos_short_name: NWO
 facility_functional_proponent: OTC
 facility_long_name: Religious Education Facility
 facility_short_name: REF
 facility_technical_poc_email: askelon.m.parker@usace.army.mil
 facility_technical_poc_name: Askelon Parker
-file_library_root_path: 'content/cos/nwo/ref/Library/'
+file_library_root_path: "content/cos/nwo/ref/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nwo/ref/
 ---
-
-
 
 ## Description
 

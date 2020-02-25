@@ -1,10 +1,4 @@
 ---
-carousel_images:
-  - "./20150616_105943.jpg"
-  - "./dscn0964.jpg"
-  - "./dscn0965.jpg"
-  - "./dscn1044.jpg"
-  - "./dscn1045.jpg"
 doc_type: facility_page
 facility_category_codes:
   - "73017"

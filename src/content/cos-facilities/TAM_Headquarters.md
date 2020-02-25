@@ -1,17 +1,14 @@
 ---
-carousel_images:
-- ./3d-render-hq.png
-- ./headquarters.png
 doc_type: facility_page
 facility_category_codes:
-- ''
+  - ""
 facility_cos_short_name: TAM
-facility_functional_proponent: ''
+facility_functional_proponent: ""
 facility_long_name: Headquarters
 facility_short_name: Headquarters
 facility_technical_poc_email: Joseph.r.behr@usace.army.mil
 facility_technical_poc_name: Joey Behr
-file_library_root_path: 'content/cos/tam/headquarters/Library/'
+file_library_root_path: "content/cos/tam/headquarters/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/headquarters/
 ---

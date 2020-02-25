@@ -1,8 +1,4 @@
 ---
-carousel_images:
-  - ./fire-station-administration-building.jpg
-  - ./fire-station-apparatus-bay.jpg
-  - ./fire-station-barracks.jpg
 doc_type: facility_page
 facility_category_codes:
   - ""

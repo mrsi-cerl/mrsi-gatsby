@@ -1,18 +1,4 @@
 ---
-carousel_images:
-  - ./unmanned-aircraft-systems-fort-hood.jpg
-  - ./UAS_Hangar.jpg
-  - ./gray-eagle-hangar-fort-stewart_page_1.jpg
-  - ./p8220001.jpg
-  - ./UAS_Exterior_Aerial_Medium.jpg
-  - ./frks-ext-hgrdr-a-2016.jpg
-  - ./fica-steelframe-d-2016.jpg
-  - ./UAS_Exterior_Entry_Medium.jpg
-  - ./fdny-exterior-a.jpg
-  - ./hangar-jan-ft-bliss.jpg
-  - ./fort-irwin-uas-under-construction.jpg
-  - ./fbtx-hangar-2015.jpg
-  - ./fort-irwin-uas-under-construction-1.jpg
 doc_type: facility_page
 facility_category_codes:
   - 21115 (11340, 21470, and 44222)

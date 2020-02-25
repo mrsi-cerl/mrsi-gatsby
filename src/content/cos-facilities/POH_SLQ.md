@@ -1,21 +1,17 @@
 ---
-carousel_images:
-- ./senior-leaders-quarters_2.jpg
 doc_type: facility_page
 facility_category_codes:
-- '72410'
+  - "72410"
 facility_cos_short_name: POH
 facility_functional_proponent: ACSIM Housing
 facility_long_name: Senior Leaders Quarters
 facility_short_name: SLQ
 facility_technical_poc_email: Paul.M.Kai@usace.army.mil
 facility_technical_poc_name: Paul Kai
-file_library_root_path: 'content/cos/poh/slq/Library/'
+file_library_root_path: "content/cos/poh/slq/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/poh/slq/
 ---
-
-
 
 ## Description
 

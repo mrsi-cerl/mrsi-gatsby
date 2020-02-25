@@ -1,6 +1,4 @@
 ---
-carousel_images:
-  - ./MRF-Plan.jpg
 doc_type: facility_page
 facility_category_codes:
   - "17806"

@@ -1,6 +1,4 @@
 ---
-carousel_images:
-  - "./capture.jpg"
 doc_type: facility_page
 facility_category_codes:
   - "14113"

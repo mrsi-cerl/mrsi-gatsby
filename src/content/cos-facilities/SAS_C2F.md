@@ -1,24 +1,17 @@
 ---
-carousel_images:
-- ./82nd-airborne-div-hq-3-2.jpg
-- ./amc-rendering-3-2.jpg
-- ./rendering-3-2.jpg
-- ./dsc1419-3-2.jpg
 doc_type: facility_page
 facility_category_codes:
-- 14190/XXXXX
+  - 14190/XXXXX
 facility_cos_short_name: SAS
 facility_functional_proponent: DCS, G-3
 facility_long_name: Echelons Above Brigade Command & Control Facility
 facility_short_name: C2F
 facility_technical_poc_email: jeffrey.stein@usace.army.mil
 facility_technical_poc_name: Jeff Stein
-file_library_root_path: 'content/cos/sas/c2f/Library/'
+file_library_root_path: "content/cos/sas/c2f/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/sas/c2f/
 ---
-
-
 
 ## Description
 

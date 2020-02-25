@@ -1,6 +1,4 @@
 ---
-carousel_images:
-  - ./Football-Field-Design.jpg
 doc_type: facility_page
 facility_category_codes:
   - "75020"

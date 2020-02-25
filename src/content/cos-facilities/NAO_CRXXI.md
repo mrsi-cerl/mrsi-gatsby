@@ -1,21 +1,17 @@
 ---
-carousel_images:
-- ./automation-aided.jpg
 doc_type: facility_page
 facility_category_codes:
-- '17136'
+  - "17136"
 facility_cos_short_name: NAO
 facility_functional_proponent: G3
 facility_long_name: Automation-Aided Instruction
 facility_short_name: CRXXI
 facility_technical_poc_email: matthew.c.scanlon@usace.army.mil
 facility_technical_poc_name: Matthew Scanlon
-file_library_root_path: 'content/cos/nao/crxxi/Library/'
+file_library_root_path: "content/cos/nao/crxxi/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nao/crxxi/
 ---
-
-
 
 ## Description
 
@@ -25,15 +21,15 @@ The Automation-Aided Instructional Building is a building predominantly used for
 
 The TRADOC classroom technology levels are as follows:
 
-*Level 1:* These classrooms are characterized by a basic instructor-led presentation-type pedagogical approach in which the Program of Instruction (POI) content is best delivered using discussion techniques. The Instructor has access to digital course materials typically housed in the Digital Training Access Center (DTAC) and leads the students through the training materials from a multi-media instructor station.
+_Level 1:_ These classrooms are characterized by a basic instructor-led presentation-type pedagogical approach in which the Program of Instruction (POI) content is best delivered using discussion techniques. The Instructor has access to digital course materials typically housed in the Digital Training Access Center (DTAC) and leads the students through the training materials from a multi-media instructor station.
 
-*Level 2:* This level builds upon the base level 1 capability by providing an individual multi-media student workstation for each student. Through the electronic communication infrastructure, each individual workstation has the capability to access approved training material from a centralized storage center. This classroom allows training to be designed for student participation using IMI courseware.
+_Level 2:_ This level builds upon the base level 1 capability by providing an individual multi-media student workstation for each student. Through the electronic communication infrastructure, each individual workstation has the capability to access approved training material from a centralized storage center. This classroom allows training to be designed for student participation using IMI courseware.
 
-*Level 3:* This level classroom builds on the Level Two by providing video teletraining capability (2-way audio and video) and access to worldwide sources of information to each student. This classroom allows training developers to design training that integrates training and information from worldwide sources. It provides a foundation for collaborative training among branches and schools; alternative training strategies using governmental, educational, industrial, and commercial sources; and the platform to support the delivery of distance learning.
+_Level 3:_ This level classroom builds on the Level Two by providing video teletraining capability (2-way audio and video) and access to worldwide sources of information to each student. This classroom allows training developers to design training that integrates training and information from worldwide sources. It provides a foundation for collaborative training among branches and schools; alternative training strategies using governmental, educational, industrial, and commercial sources; and the platform to support the delivery of distance learning.
 
-*Level 4:* These classrooms are designed to support simulations and simulators. They are highly specialized or provide the capability to support the US Army Family of Simulations (FAMSIM) that cannot be accomplished with a Level Two or Three Classroom.
+_Level 4:_ These classrooms are designed to support simulations and simulators. They are highly specialized or provide the capability to support the US Army Family of Simulations (FAMSIM) that cannot be accomplished with a Level Two or Three Classroom.
 
-*Level 5:* This classroom will be based on a virtual reality environment. While there are some pilot projects underway, a general requirement for classrooms with this capability has not been identified at this time.
+_Level 5:_ This classroom will be based on a virtual reality environment. While there are some pilot projects underway, a general requirement for classrooms with this capability has not been identified at this time.
 
 Note that TRADOC is conducting a review of the above listed technology levels and a revision is anticipated in the future.
 

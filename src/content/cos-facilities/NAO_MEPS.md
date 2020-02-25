@@ -1,24 +1,17 @@
 ---
-carousel_images:
-- ./la-meps-7-office-area.jpg
-- ./la-meps-4-ceremony-room.jpg
-- ./la-meps-2-reception-graphics.jpg
-- ./la-meps-1-reception.jpg
 doc_type: facility_page
 facility_category_codes:
-- '61001'
+  - "61001"
 facility_cos_short_name: NAO
 facility_functional_proponent: DOD
 facility_long_name: Military Entrance Processing Station
 facility_short_name: MEPS
 facility_technical_poc_email: terry.l.deglandon@usace.army.mil
 facility_technical_poc_name: Terry Deglandon
-file_library_root_path: 'content/cos/nao/meps/Library/'
+file_library_root_path: "content/cos/nao/meps/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nao/meps/
 ---
-
-
 
 ## Description
 

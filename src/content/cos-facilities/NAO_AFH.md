@@ -1,27 +1,23 @@
 ---
-carousel_images:
-- ./housing.jpg
 doc_type: facility_page
 facility_category_codes:
-- '71111'
-- '71112'
-- '71113'
-- '71114'
-- '71115'
-- '71116'
-- '71117'
+  - "71111"
+  - "71112"
+  - "71113"
+  - "71114"
+  - "71115"
+  - "71116"
+  - "71117"
 facility_cos_short_name: NAO
 facility_functional_proponent: ACSIM Housing, NAVFAC, AF
 facility_long_name: Army Family Housing
 facility_short_name: AFH
 facility_technical_poc_email: matthew.c.scanlon@usace.army.mil
 facility_technical_poc_name: Matthew Scanlon
-file_library_root_path: 'content/cos/nao/afh/Library/'
+file_library_root_path: "content/cos/nao/afh/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nao/afh/
 ---
-
-
 
 ## Description
 

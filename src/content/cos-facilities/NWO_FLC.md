@@ -1,20 +1,17 @@
 ---
-carousel_images: []
 doc_type: facility_page
 facility_category_codes:
-- '73019'
+  - "73019"
 facility_cos_short_name: NWO
 facility_functional_proponent: OTC
 facility_long_name: Family Life Center
 facility_short_name: FLC
 facility_technical_poc_email: askelon.m.parker@usace.army.mil
 facility_technical_poc_name: Askelon Parker
-file_library_root_path: 'content/cos/nwo/flc/Library/'
+file_library_root_path: "content/cos/nwo/flc/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nwo/flc/
 ---
-
-
 
 ## Description
 

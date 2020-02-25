@@ -1,5 +1,4 @@
 ---
-carousel_images: []
 doc_type: facility_page
 facility_category_codes:
   - ""

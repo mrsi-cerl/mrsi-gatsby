@@ -1,12 +1,4 @@
 ---
-carousel_images:
-  - ./huachuca-fire-station.jpg
-  - ./img01166-20130226-1310.jpg
-  - ./20120320_111736.jpg
-  - ./20120403_123632.jpg
-  - ./img01213-20130226-1407.jpg
-  - ./img01180-20130226-1326.jpg
-  - ./Fire-Station.jpg
 doc_type: facility_page
 facility_category_codes:
   - "73010"

@@ -1,23 +1,19 @@
 ---
-carousel_images:
-- ./UEPH.jpg
 doc_type: facility_page
 facility_category_codes:
-- '72111'
-- '17138'
-- '72181'
+  - "72111"
+  - "17138"
+  - "72181"
 facility_cos_short_name: SWF
 facility_functional_proponent: G1
 facility_long_name: Unaccompanied Enlisted Personnel Housing
 facility_short_name: UEPH
 facility_technical_poc_email: Javier.A.Fano@usace.army.mil
 facility_technical_poc_name: Javier Fano
-file_library_root_path: 'content/cos/swf/ueph/Library/'
+file_library_root_path: "content/cos/swf/ueph/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/swf/ueph/
 ---
-
-
 
 ## Description
 

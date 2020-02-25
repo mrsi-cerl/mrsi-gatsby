@@ -1,6 +1,4 @@
 ---
-carousel_images:
-  - ./Tulsa-StarShip_Renovation.jpg
 doc_type: facility_pageARCHIVE
 facility_category_codes:
   - "72181"
