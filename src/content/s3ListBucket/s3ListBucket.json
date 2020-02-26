@@ -7546,7 +7546,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "02/18/2020 11:38:39",
+"LastModified": "02/26/2020 13:33:19",
 "Key": "content/cos/sam/aab/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -7686,24 +7686,24 @@
 },
 {
 "name": "20200210 COS AAB Combined Folio.pdf",
-"LastModified": "02/18/2020 11:38:33",
+"LastModified": "02/26/2020 13:33:15",
 "Key": "content/cos/sam/aab/Library/Standard Designs/20200210 COS AAB Combined Folio.pdf",
 "extension": ".pdf",
-"Size": "2306770"
+"Size": "2307896"
 },
 {
-"name": "20200210_AAB Hangar First Floor Plan_PUB.DWG",
-"LastModified": "02/18/2020 11:38:39",
-"Key": "content/cos/sam/aab/Library/Standard Designs/20200210_AAB Hangar First Floor Plan_PUB.DWG",
-"extension": ".DWG",
-"Size": "327326"
+"name": "20200210_AAB Hangar_A-101 - FIRST FLOOR PLAN.dwg",
+"LastModified": "02/26/2020 13:33:19",
+"Key": "content/cos/sam/aab/Library/Standard Designs/20200210_AAB Hangar_A-101 - FIRST FLOOR PLAN.dwg",
+"extension": ".dwg",
+"Size": "392851"
 },
 {
-"name": "20200210_AAB Hangar Second Floor Plan_PUB.DWG",
-"LastModified": "02/18/2020 11:38:36",
-"Key": "content/cos/sam/aab/Library/Standard Designs/20200210_AAB Hangar Second Floor Plan_PUB.DWG",
-"extension": ".DWG",
-"Size": "202699"
+"name": "20200210_AAB Hangar_A-102 - SECOND FLOOR PLAN.dwg",
+"LastModified": "02/26/2020 13:33:11",
+"Key": "content/cos/sam/aab/Library/Standard Designs/20200210_AAB Hangar_A-102 - SECOND FLOOR PLAN.dwg",
+"extension": ".dwg",
+"Size": "249841"
 },
 {
 "name": "Library",
@@ -8659,7 +8659,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:33",
+"LastModified": "02/26/2020 13:30:11",
 "Key": "content/cos/sas/cof/Library",
 "extension": "",
 "Size": ""
@@ -8721,8 +8721,15 @@
 "Size": ""
 },
 {
+"name": "Programmatic Value Engineering Study",
+"LastModified": "02/26/2020 13:30:29",
+"Key": "content/cos/sas/cof/Library/Programmatic Value Engineering Study",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:25:33",
+"LastModified": "02/26/2020 13:29:22",
 "Key": "content/cos/sas/cof/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -8761,6 +8768,13 @@
 "Key": "content/cos/sas/cof/Library/Legacy Renovation/COF_ Legacy_Study.pdf",
 "extension": ".pdf",
 "Size": "31451315"
+},
+{
+"name": "VE Study - COF Standards_FEB 2020.pdf",
+"LastModified": "02/26/2020 13:30:29",
+"Key": "content/cos/sas/cof/Library/Programmatic Value Engineering Study/VE Study - COF Standards_FEB 2020.pdf",
+"extension": ".pdf",
+"Size": "3773339"
 },
 {
 "name": "COF_Std_Dgn_REV_4.3a.pdf",
