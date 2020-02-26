@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql} from "gatsby"
+import { graphql } from "gatsby"
 import Layout from "../components/layout/layout"
 import Library from "../components/library/library"
 import Carousel from "../components/mrsi-carousel"
@@ -93,13 +93,11 @@ export const query = graphql`
             cos_manager_name
             cos_short_name
             facility_long_name
+            carousel_images
             facility_short_name
             related_links {
               url
               caption
-            }
-            carousel_images {
-              publicURL
             }
             title
             facility_technical_poc_email

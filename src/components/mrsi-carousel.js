@@ -16,7 +16,7 @@ const Carousel = ({ imgs }) => {
     return (
       <div
         style={{
-          backgroundImage: "url(" + imgs[0].publicURL + ")",
+          backgroundImage: "url(" + imgs[0] + ")",
           width: "100%",
           height: "300px",
           backgroundPosition: "center",
@@ -36,9 +36,10 @@ const Carousel = ({ imgs }) => {
         width={"100%"}
       >
         {imgs.map((e, idx) => (
-          <div key={idx}
+          <div
+            key={idx}
             style={{
-              backgroundImage: "url(" + e.publicURL + ")",
+              backgroundImage: "url(" + e + ")",
               width: "100%",
               height: "300px",
               backgroundPosition: "center",

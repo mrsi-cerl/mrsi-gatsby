@@ -1,33 +1,33 @@
 backend:
   name: github
   repo: mrsi-cerl/mrsi-gatsby
-  branch: "netlify-cms"
+  branch: netlifyCMS
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
   preview_context: federalist/build
 
-media_folder: static/images/uploads
-public_folder: /images/uploads
-publish_mode: editorial_workflow
-logo_url: https://mrsi.erdc.dren.mil/assets/images/mrsi-blue-logo.png
+media_folder: static/admin/images/uploads
+public_folder: /admin/images/uploads
+logo_url: https://mrsi.erdc.dren.mil/admin/images/mrsi-blue-logo.png
 site_url: https://mrsi.erdc.dren.mil/
 
 collections:
-  - name: cosDistrict
+  - name: cos-district
     label: COS Districts
     label_singular: COS District
     description: These pages serve as the home page for each COS District
     folder: src/content/cos-districts
-    create: true
+    create: false
     delete: false
-    extension: markdown
-    slug: "{{ cos_short_name }}"
+    extension: md
     identifier_field: cos_long_name
+    editor: {preview: false}
     fields:
       - {
           label: "COS District Long Name",
           name: "cos_long_name",
           widget: "string",
+          hint: "example hint"
         }
       - {
           label: "COS District Short Name",
@@ -45,7 +45,7 @@ collections:
           widget: "string",
         }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: "Reviewed Date", name: "last_reviewed", widget: "datetime" }
+      - { label: "Reviewed Date", name: "page_last_reviewed", widget: "datetime" }
       - {
         label: "Related Links",
         name: "related_links",
@@ -62,3 +62,354 @@ collections:
           widget: "string",
           required: false
         }
+      - {
+          label: "Slug",
+          name: "slug",
+          widget: "string",
+        }
+      - {
+          label: "Document Type",
+          name: "doc_type",
+          widget: "string",
+        }
+  - name: cos-facility
+    label: COS Facilities
+    label_singular: COS Facility
+    description: COS Facility Information
+    folder: src/content/cos-facilities
+    create: false
+    delete: false
+    extension: md
+    identifier_field: facility_long_name
+    editor: {preview: false}
+    fields:
+      - {
+        label: "Facility Long Name",
+        name: "facility_long_name",
+        widget: "string",
+      }
+      - {
+        label: "Facility Short Name",
+        name: "facility_short_name",
+        widget: "string",
+      }
+      - {
+        label: "COS District",
+        name: "facility_cos_short_name",
+        widget: "relation",
+        collection: "cos-district",
+        searchFields: ["cos_long_name"],
+        valueField: "cos_short_name",
+        displayFields: ["cos_long_name"]
+      }
+      - {
+        label: "Technical POC Name",
+        name: "facility_technical_poc_name",
+        widget: "string",
+      }
+      - {
+        label: "Technical POC Email",
+        name: "facility_technical_poc_email",
+        widget: "string",
+      }
+      - {
+        label: "Functional Proponent",
+        name: "facility_functional_proponent",
+        widget: "string",
+      }
+      - {
+        label: "Category Codes",
+        name: "facility_category_codes",
+        widget: "list",
+        field: { label: "Category Code", name: cat_code, widget: "string"}
+      }
+      - {
+        label: "Image Gallery",
+        name: "carousel_images",
+        widget: "list",
+        field: {label: Image, name: image, widget: image}
+      }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Reviewed Date", name: "page_last_reviewed", widget: "datetime" }
+      - {
+        label: "File Library Root Path",
+        name: "file_library_root_path",
+        widget: "string",
+        required: false
+      }
+      - {
+          label: "Slug",
+          name: "slug",
+          widget: "string",
+        }
+      - {
+          label: "Document Type",
+          name: "doc_type",
+          widget: "string",
+        }
+  - name: sustain-center-of-expertise
+    label: Sustain Centers of Expertise
+    label_singular: Sustain Center of Expertise
+    description: Sustain Center of Expertise
+    folder: src/content/sustain-center-of-expertise
+    create: false
+    delete: false
+    extension: md
+    identifier_field: title
+    editor: {preview: false}
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'MSC Program Manager Name', name: 'sustain_msc_program_manager_name', widget: 'string' }
+      - { label: 'MSC Program Manager Email', name: 'sustain_msc_program_manager_email', widget: 'string' }
+      - { label: 'MSC Technical Lead Name', name: 'sustain_msc_technical_lead_name', widget: 'string' }
+      - { label: 'MSC Technical Lead Email', name: 'sustain_msc_technical_lead_email', widget: 'string' }
+      - { label: 'HQ USACE Proponent Name', name: 'sustain_hq_usace_proponent_name', widget: 'string' }
+      - { label: 'HQ USACE Proponent Email', name: 'sustain_hq_usace_proponent_email', widget: 'string' }
+      - { label: 'ERDC Liaison Name', name: 'sustain_erdc_liaison_name', widget: 'string' }
+      - { label: 'ERDC Liaison Email', name: 'sustain_erdc_liaison_email', widget: 'string' }
+      - {
+        label: "Image Gallery",
+        name: "carousel_images",
+        widget: "list",
+        field: {label: Image, name: image, widget: image}
+      }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Reviewed Date", name: "page_last_reviewed", widget: "datetime" }
+      - {
+        label: "Related Links",
+        name: "related_links",
+        widget: "list",
+        fields:
+          [
+            { label: "Link Caption", name: "caption", widget: "string" },
+            { label: "Link URL", name: "url", widget: "string" },
+          ],
+      }
+      - {
+        label: "File Library Root Path",
+        name: "file_library_root_path",
+        widget: "string",
+        required: false
+      }
+      - {
+          label: "Slug",
+          name: "slug",
+          widget: "string",
+        }
+      - {
+          label: "Document Type",
+          name: "doc_type",
+          widget: "string",
+        }
+  - name: sustain-knowledge-resources
+    label: Sustain Knowledge Resources
+    label_singular: Sustain Knowledge Resource
+    description: Sustain Knowledge Resources
+    folder: src/content/sustain-knowledge-resources
+    create: false
+    delete: false
+    extension: md
+    identifier_field: title
+    editor: {preview: false}
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'MSC Program Manager Name', name: 'sustain_msc_program_manager_name', widget: 'string' }
+      - { label: 'MSC Program Manager Email', name: 'sustain_msc_program_manager_email', widget: 'string' }
+      - { label: 'MSC Technical Lead Name', name: 'sustain_msc_technical_lead_name', widget: 'string' }
+      - { label: 'MSC Technical Lead Email', name: 'sustain_msc_technical_lead_email', widget: 'string' }
+      - { label: 'HQ USACE Proponent Name', name: 'sustain_hq_usace_proponent_name', widget: 'string' }
+      - { label: 'HQ USACE Proponent Email', name: 'sustain_hq_usace_proponent_email', widget: 'string' }
+      - { label: 'ERDC Liaison Name', name: 'sustain_erdc_liaison_name', widget: 'string' }
+      - { label: 'ERDC Liaison Email', name: 'sustain_erdc_liaison_email', widget: 'string' }
+      - {
+        label: "Image Gallery",
+        name: "carousel_images",
+        widget: "list",
+        field: {label: Image, name: image, widget: image}
+      }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Reviewed Date", name: "page_last_reviewed", widget: "datetime" }
+      - {
+        label: "Related Links",
+        name: "related_links",
+        widget: "list",
+        fields:
+          [
+            { label: "Link Caption", name: "caption", widget: "string" },
+            { label: "Link URL", name: "url", widget: "string" },
+          ],
+      }
+      - {
+        label: "File Library Root Path",
+        name: "file_library_root_path",
+        widget: "string",
+        required: false
+      }
+      - {
+          label: "Slug",
+          name: "slug",
+          widget: "string",
+        }
+      - {
+          label: "Document Type",
+          name: "doc_type",
+          widget: "string",
+        }
+  - name: sustain-events
+    label: Sustain Events
+    label_singular: Sustain Event
+    description: Sustain Events
+    folder: src/content/sustain-events
+    create: false
+    delete: false
+    extension: md
+    identifier_field: title
+    editor: {preview: false}
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - {
+        label: "Document Type",
+        name: "doc_type",
+        widget: "string",
+      }
+  - name: sustain-news
+    label: Sustain News
+    label_singular: Sustain News
+    description: Sustain News
+    folder: src/content/sustain-news
+    create: false
+    delete: false
+    extension: md
+    identifier_field: title
+    editor: {preview: false}
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: "Date Published", name: "date_published", widget: "datetime" }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - {
+        label: "Document Type",
+        name: "doc_type",
+        widget: "string",
+      }
+  - name: sustain-technology-in-action
+    label: Sustain Technology in Action
+    label_singular: Sustain Technology in Action
+    description: Sustain Technology in Action
+    folder: src/content/sustain-technology-in-action
+    create: false
+    delete: false
+    extension: md
+    identifier_field: title
+    editor: {preview: false}
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Project Coordinates', name: 'project_coordinates', widget: 'string' }
+      - {
+        label: "Image Gallery",
+        name: "carousel_images",
+        widget: "list",
+        field: {label: Image, name: image, widget: image}
+      }
+      - {
+        label: "Project Categories",
+        name: "categories",
+        widget: "list",
+        field: {label: Category, name: category, widget: string}
+      }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - {
+        label: "Document Type",
+        name: "doc_type",
+        widget: "string",
+      }
+  - name: sustain-webinars
+    label: Sustain Webinars
+    label_singular: Sustain Webinar
+    description: Sustain Webinar
+    folder: src/content/sustain-webinars
+    create: false
+    delete: false
+    extension: md
+    identifier_field: title
+    editor: {preview: false}
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Webinar Presenter', name: 'sustain_webinar_presenter', widget: 'string' }
+      - { label: 'YouTube Video ID', name: 'sustain_webinar_youtube_video_id', widget: 'string' }
+      - { label: 'Webinar Broadcast Date', name: 'sustain_webinar_broadcast_date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - {
+        label: "Document Type",
+        name: "doc_type",
+        widget: "string",
+      }
+      - {
+        label: "Slug",
+        name: "slug",
+        widget: "string",
+      }
+      - { label: 'Path to Webinar Quiz', name: 'sustain_webinar_quiz_path', widget: 'string' }
+  - name: generic-pages
+    label: Generic Pages
+    label_singular: Generic Page
+    description: These are all generic pages that use the same simple frontmatter
+    folder: src/content/generic-pages
+    create: false
+    delete: false
+    extension: md
+    identifier_field: title
+    editor: {preview: false}
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - {
+        label: "Document Type",
+        name: "doc_type",
+        widget: "string",
+      }
+      - {
+        label: "Slug",
+        name: "slug",
+        widget: "string",
+      }
+      - {
+        label: "Related Links",
+        name: "related_links",
+        widget: "list",
+        fields:
+          [
+            { label: "Link Caption", name: "caption", widget: "string" },
+            { label: "Link URL", name: "url", widget: "string" },
+          ],
+      }
+      - {
+        label: "File Library Root Path",
+        name: "file_library_root_path",
+        widget: "string",
+        required: false
+      }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: other-pages
+    label: Other Pages
+    label_singular: Other Page
+    description: These are all pages that have unique frontmatter schemas
+    editor: {preview: false}
+    files:
+      - label: "CRST Subject Matter Experts"
+        name: "CRST_SME"
+        file: "src/content/other-pages/subject_matter_experts.md"
+        fields:
+          - label: "SME"
+            name: "subject_matter_experts"
+            widget: list
+            fields:
+              - { label: "Subject Matter", name: "subject_matter", widget: "string" }
+              - { label: "Expert Name", name: "expert_name", widget: "string" }
+              - { label: "Expert Email", name: "expert_email", widget: "string" }
+          - {
+            label: "Document Type",
+            name: "doc_type",
+            widget: "string",
+          }
+          
+              

@@ -94,9 +94,7 @@ export const query = graphql`
               url
               caption
             }
-            carousel_images {
-              publicURL
-            }
+            carousel_images
             title
             facility_technical_poc_email
             doc_type

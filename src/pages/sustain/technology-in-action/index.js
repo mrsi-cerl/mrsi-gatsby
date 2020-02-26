@@ -1,5 +1,5 @@
 import React, { useState } from "react"
-import { graphql } from 'gatsby'
+import { graphql } from "gatsby"
 import Layout from "../../../components/layout/layout"
 import GoogleMapReact from "google-map-react"
 import styles from "./TIA.module.css"
@@ -137,9 +137,7 @@ export const query = graphql`
       edges {
         node {
           frontmatter {
-            carousel_images {
-              publicURL
-            }
+            carousel_images
             title
             doc_type
             project_coordinates
