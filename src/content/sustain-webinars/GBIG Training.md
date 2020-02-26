@@ -15,5 +15,3 @@ The presenter, Dr. Chris Pyke, is the Vice President of Research for the US Gree
 This webinar is a part of the Headquarters U. S. Army Corps of Engineers Sustainability & Energy Webinar Series to highlight technical advances, policy issues, and the implementation of sustainability and energy concepts within the E&C community.
 
 DCO Connect: https://connectcol.dco.dod.mil/gbig/
-
-**The quiz is not yet available**

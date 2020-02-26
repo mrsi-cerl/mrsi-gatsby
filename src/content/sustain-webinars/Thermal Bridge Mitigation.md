@@ -9,5 +9,3 @@ slug: /sustain/webinars/thermal-bridge-mitigation
 ---
 
 This webinar is intended to provide a brief background on thermal bridge problems that may occur in the building envelope. Thermal bridges occur when highly conductive building materials provide a thermal path for heat flow that bypasses insulation. Besides causing energy losses through the building envelope, expensive condensation and mold problems may also result. This presentation includes a description of some commonly used basic terminology, tools used to quantify thermal bridges, examples of their occurrences in Army facilities, and several mitigation techniques with step-by-step construction sequencing.
-
-**The quiz is not yet available**

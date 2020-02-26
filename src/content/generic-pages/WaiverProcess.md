@@ -7,17 +7,17 @@ file_library_root_path: content/cos/Waiver/
 
 ## Army Facilities Standardization Committee (AFSC)
 
-![Army Facilities Standardization Committee Org Chart](./WaiverProcess4.png)
+![Army Facilities Standardization Committee Org Chart](/admin/images/uploads/WaiverProcess4.png)
 
 ## Army Standard Waiver Process
 
-![Army Standard Waiver Process Flow Chart](./WaiverProcess2.png)
+![Army Standard Waiver Process Flow Chart](/admin/images/uploads/WaiverProcess2.png)
 
 **Timeline:** Average processing time is 6 months
 
 ## Standard Design Waiver Process
 
-![Standard Design Waiver Process Flow Chart](./WaiverProcess1.png)
+![Standard Design Waiver Process Flow Chart](/admin/images/uploads/WaiverProcess1.png)
 
 **Purpose:** Define the process that USACE team (GD, COS, MSC, HQ) use to review and approve proposed changes to a facility Standard Design (SD) prior to award.
 
@@ -43,4 +43,4 @@ file_library_root_path: content/cos/Waiver/
    ASAP. The COS will assess approved waiver for possible permanent change to the current Standard
    Design/Criteria.
 
-**Draft Waiver Template:** See *Waiver Concurrence form* in the Library below.
+**Draft Waiver Template:** See _Waiver Concurrence form_ in the Library below.

@@ -3,7 +3,7 @@ title: Installation, modeling and validation of Modified Atmosphere Insulation (
 sustain_webinar_presenter: Tapan Patel, Research Mechanical Engineer, CERL
 sustain_webinar_youtube_video_id: rqTpI6i5saM
 sustain_webinar_broadcast_date: Wednesday, September 21, 2016
-sustain_webinar_quiz_path:
+sustain_webinar_quiz_path: Installation-modified-atmosphere-insulation-quiz.pdf
 doc_type: sustain_webinar
 slug: /sustain/webinars/modified-atmosphere-insulation
 ---
@@ -35,5 +35,3 @@ By participating, you can learn how to:
 3. Define a procedure for validating MAI energy models using sensor data from a facility
 
 Our presenter, Mr. Tapan Patel, is a mechanical engineer within the USACE Engineer Research and Development Center (ERDC), Construction Engineering Research Laboratory (CERL). He is involved in facilities research including building envelopes, HVAC systems and energy modeling. He is leading several projects that aim to develop and validate the cost effectiveness of emerging envelope and HVAC technologies.
-
-[**Click here for the webinar quiz**](Installation-modified-atmosphere-insulation-quiz.pdf)

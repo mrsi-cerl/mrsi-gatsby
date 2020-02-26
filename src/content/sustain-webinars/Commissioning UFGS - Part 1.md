@@ -3,7 +3,7 @@ title: Commissioning UFGS - Part 1
 sustain_webinar_presenter: Brandon Martin
 sustain_webinar_youtube_video_id: wz7DrU4m40g
 sustain_webinar_broadcast_date: Thursday, July 07, 2016
-sustain_webinar_quiz_path:
+sustain_webinar_quiz_path: commissioning-ufgs-part-1-quiz.pdf
 doc_type: sustain_webinar
 slug: /sustain/webinars/commissioning-ufgs-part-1
 ---
@@ -26,5 +26,3 @@ Webinar Objectives:
 Our presenter, Brandon T. Martin, is the Chief of Mechanical Design and SDD POC at the Louisville District, USACE. Brandon develops and maintains local Louisville District specification sections and business procedures related to commissioning, TAB, and sustainability and assists HQ USACE with guidance regarding building energy conservation and commissioning. Brandon is a Certified Building Commissioning Professional, a member of the Commissioning E&S Center of Expertise, instructor for the PROSPECT HVACTAB course, and acts as a Commissioning Authority/Specialist on multiple projects.
 
 These webinars are free to attend. Although they are not restricted and open to the public, they do not represent official positions or endorsement by USACE or the Army.
-
-[**Click here for the webinar quiz**](commissioning-ufgs-part-1-quiz.pdf)

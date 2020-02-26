@@ -3,7 +3,7 @@ title: Introduction to the Equipment Lending Library Program
 sustain_webinar_presenter: Dr. Matthew Swanson, Research Engineer, CERL
 sustain_webinar_youtube_video_id: _lmhDTKdtzw
 sustain_webinar_broadcast_date: Wednesday, September 14, 2016
-sustain_webinar_quiz_path:
+sustain_webinar_quiz_path: introduction-to-equipment-lending-library-program-quiz.pdf
 doc_type: sustain_webinar
 slug: /sustain/webinars/equipment-lending-library-program
 ---
@@ -31,5 +31,3 @@ By participating, you can expect to:
 Our presenter, Dr. Matthew Swanson, works as a research engineer in the energy branch of the Construction Engineering Research Laboratory. During the past 6 years with the laboratory, his efforts have been focused on developing the NZP tool and using the tool to assist with sustainability plans for installations. His work also focuses on supporting energy auditing and recommissioning efforts on installations.
 
 Although these webinars are not restricted, they do not represent official positions or endorsement by USACE or the Army.
-
-[**Click here for the webinar quiz**](introduction-to-equipment-lending-library-program-quiz.pdf)

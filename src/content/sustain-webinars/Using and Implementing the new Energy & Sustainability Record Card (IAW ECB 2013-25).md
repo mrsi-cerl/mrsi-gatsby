@@ -7,5 +7,3 @@ sustain_webinar_quiz_path:
 doc_type: sustain_webinar
 slug: /sustain/webinars/new-energy-sustainability-record-card
 ---
-
-**The quiz is not yet available**

@@ -9,5 +9,3 @@ slug: /sustain/webinars/net-zero-water-research
 ---
 
 This webinar will describe water planning support by ERDC-CERL to Fort Leonard Wood as part of the ISSP program. Initial efforts included a site survey of 27 buildings, flow recorder data collection, and surface water analysis. Continuing efforts include and integrated energy, water and waste assessment for the Fort.
-
-**The quiz is not yet available**

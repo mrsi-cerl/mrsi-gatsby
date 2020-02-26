@@ -3,7 +3,7 @@ title: Life Cycle Cost Analysis for ECIP DD1391s
 sustain_webinar_presenter: Rhett Graves
 sustain_webinar_youtube_video_id: -wYRypL5LUc
 sustain_webinar_broadcast_date: Tuesday, March 22, 2016
-sustain_webinar_quiz_path:
+sustain_webinar_quiz_path: life-cycle-cost-analysis-for-ecip-dd1391s-quiz.pdf
 doc_type: sustain_webinar
 slug: /sustain/webinars/life-cycle-cost-analysis-for-ecip-dd1391s
 ---
@@ -23,5 +23,3 @@ Our new presenter, Mr. Graves, is a registered Professional Engineer with 15 yea
 He holds a Masters degree in Mechanical Engineering from Texas A&M University and currently serves as a Mechanical Engineer for the US Army Corps of Engineers at the Huntsville Center, providing technical support for a variety of Army energy and criteria programs.
 
 Previously in his career, he has held positions with Mississippi State University's Industrial Assessment Center, Texas A&M's Energy Systems Laboratory, Tour Andover Controls, DOE's Clean Energy Application Center, and the US Air Force.
-
-[**Click here for the webinar quiz**](life-cycle-cost-analysis-for-ecip-dd1391s-quiz.pdf)

@@ -3,7 +3,7 @@ title: Microhydropower
 sustain_webinar_presenter: Jack McCollister, Mechanical Engineer, USACE Hydroelectric Design Center
 sustain_webinar_youtube_video_id: tJqh0Z5geWc
 sustain_webinar_broadcast_date: Friday, September 22, 2017
-sustain_webinar_quiz_path:
+sustain_webinar_quiz_path: microhydropower-quiz.pdf
 doc_type: sustain_webinar
 slug: /sustain/webinars/microhydropower
 ---
@@ -20,5 +20,3 @@ Through participation in this webinar, the audience should gain an appreciation 
 4. Sample costs, risks, and time frames inherent in a microhydro installation project
 
 Jack McCollister is a mechanical engineer who works for the Corps' Hydroelectric Design Center (HDC). Jack has worked in this capacity for three years, and his work has been related both to the rehabilitation of Corps-owned hydropower plants as well as to inquiries and investigations related to small hydro.
-
-[**Click here for the webinar quiz**](microhydropower-quiz.pdf)

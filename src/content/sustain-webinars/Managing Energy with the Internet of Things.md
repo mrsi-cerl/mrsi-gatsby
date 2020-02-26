@@ -3,7 +3,7 @@ title: Managing Energy with the Internet of Things (IoT)
 sustain_webinar_presenter: Tanuj Mohan
 sustain_webinar_youtube_video_id: LFqRd4Y0UD8
 sustain_webinar_broadcast_date: Wednesday, November 09, 2016
-sustain_webinar_quiz_path:
+sustain_webinar_quiz_path: managing-energy-with-the-internet-of-things-quiz.pdf
 doc_type: sustain_webinar
 slug: /sustain/webinars/managing-energy-with-the-internet-of-things
 ---
@@ -13,5 +13,3 @@ During this webinar, we will discuss how an Internet of Things (IoT) platform ca
 Our presenter, Tanuj Mohan, started Enlighted Inc.in 2009 and has grown it to over 100 employees with real revenues. He’s applied 20+ years of computer networking, software and security knowledge, with a large dose of common sense, to build a company from scratch into a world leader in advanced lighting control.
 
 He has worn many hats - Engineering leader, Technology nerd, Creative Marketer, Technical Salesman and expert cappucino maker.
-
-[**Click here for the webinar quiz**](managing-energy-with-the-internet-of-things-quiz.pdf)

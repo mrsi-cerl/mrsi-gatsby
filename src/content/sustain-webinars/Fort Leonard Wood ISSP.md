@@ -23,5 +23,3 @@ Annette Stumpf is a Research Architect and Principal Investigator at our Constru
 
 Sue Bevelheimer
 Sue Bevelheimer is a Community Planner and Project Manager also at CERL. Her efforts include installation sustainability planning and implementation, and Clean Water Act-related environmental compliance.
-
-**The quiz is not yet available**

@@ -7,14 +7,14 @@ file_library_root_path: content/Model RFP/MILCON/
 
 <div>
   <div style="width: 128px; float: left; margin: 1em 2em 1em 0;">
-    <a href="https://rfpwizard.mrsi.erdc.dren.mil/wizards/mbpw/Client/MTApp.application"><img src="./mbp-wizard-256x256.png"/ alt="Model RFP Wizard"></a>
+    <a href="https://rfpwizard.mrsi.erdc.dren.mil/wizards/mbpw/Client/MTApp.application"><img src="/admin/images/uploads/mbp-wizard-256x256.png"/ alt="Model RFP Wizard"></a>
     <em>
     Please use Internet Explorer or Edge to start the Wizard.
     </em>
   </div>
 </div>
 
-[Click here to start the Wizard](https://rfpwizard.mrsi.erdc.dren.mil/wizards/mbpw/Client/MTApp.application) *using Internet Explorer or Edge.*
+[Click here to start the Wizard](https://rfpwizard.mrsi.erdc.dren.mil/wizards/mbpw/Client/MTApp.application) _using Internet Explorer or Edge._
 
 The RFP Wizard for MILCON D-B is an application for creating a Request For Proposal (RFP) using U.S. Army Corps of Engineers (USACE) approved Model RFP templates for new U.S. Army Military Construction (MILCON) Design-Build (D-B) projects.
 

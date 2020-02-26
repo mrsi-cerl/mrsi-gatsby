@@ -11,5 +11,3 @@ slug: /sustain/webinars/infrared-thermal-imaging-of-buildings-and-infrastructure
 This Webinar Course covers thermodynamics basics and uses of thermal imaging for facilities managers. Imagery and explanations include building heat and air, roofs, interior and exterior walls and infrastructures, including waterways, above ground and under ground piping such as water supply, storm water, sewer, steam, hot water and chilled water. presented by Greg Stockton, President and Founder of Stockton Infrared Thermographic Services, Inc.
 
 Link to DCO Connect: https://connectcol.dco.dod.mil/irimaging/
-
-**The quiz is not yet available**

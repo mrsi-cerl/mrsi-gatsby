@@ -305,7 +305,6 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Project Coordinates', name: 'project_coordinates', widget: 'string' }
-      - { label: 'Project Coordinates2', name: 'project_coordinates2', widget: 'map' }
       - {
         label: "Image Gallery",
         name: "carousel_images",
@@ -324,3 +323,86 @@ collections:
         name: "doc_type",
         widget: "string",
       }
+  - name: sustain-webinars
+    label: Sustain Webinars
+    label_singular: Sustain Webinar
+    description: Sustain Webinar
+    folder: src/content/sustain-webinars
+    create: false
+    delete: false
+    extension: md
+    identifier_field: title
+    editor: {preview: false}
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Webinar Presenter', name: 'sustain_webinar_presenter', widget: 'string' }
+      - { label: 'YouTube Video ID', name: 'sustain_webinar_youtube_video_id', widget: 'string' }
+      - { label: 'Webinar Broadcast Date', name: 'sustain_webinar_broadcast_date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - {
+        label: "Document Type",
+        name: "doc_type",
+        widget: "string",
+      }
+      - {
+        label: "Slug",
+        name: "slug",
+        widget: "string",
+      }
+      - { label: 'Path to Webinar Quiz', name: 'sustain_webinar_quiz_path', widget: 'string' }
+  - name: generic-pages
+    label: Generic Pages
+    label_singular: Generic Page
+    description: These are all generic pages that use the same simple frontmatter
+    folder: src/content/generic-pages
+    create: false
+    delete: false
+    extension: md
+    identifier_field: title
+    editor: {preview: false}
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - {
+        label: "Document Type",
+        name: "doc_type",
+        widget: "string",
+      }
+      - {
+        label: "Slug",
+        name: "slug",
+        widget: "string",
+      }
+      - {
+        label: "Related Links",
+        name: "related_links",
+        widget: "list",
+        fields:
+          [
+            { label: "Link Caption", name: "caption", widget: "string" },
+            { label: "Link URL", name: "url", widget: "string" },
+          ],
+      }
+      - {
+        label: "File Library Root Path",
+        name: "file_library_root_path",
+        widget: "string",
+        required: false
+      }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: other-pages
+    label: Other Pages
+    label_singular: Other Page
+    description: These are all pages that have unique frontmatter schemas
+    editor: {preview: false}
+    files:
+      - label: "CRST Subject Matter Experts"
+        name: "CRST_SME"
+        file: "src/content/other-pages/subject_matter_experts.md"
+        fields:
+          - label: "SME"
+            name: "sme"
+            widget: list
+            fields:
+              - { label: "Subject Matter", name: "subject_matter", widget: "string" }
+              - { label: "Expert Email", name: "expert_email", widget: "string" }
+              - { label: "Expert Name", name: "expert_email", widget: "string" }

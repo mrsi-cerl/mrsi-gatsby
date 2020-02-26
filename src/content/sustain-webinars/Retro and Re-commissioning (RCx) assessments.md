@@ -3,7 +3,7 @@ title: Retro and Re-commissioning (RCx) assessments
 sustain_webinar_presenter: Brian Clark
 sustain_webinar_youtube_video_id: KEOLBmmIFbk
 sustain_webinar_broadcast_date: Tuesday, May 03, 2016
-sustain_webinar_quiz_path:
+sustain_webinar_quiz_path: retro-and-re-commissioning-rcx-assessments-quiz.pdf
 doc_type: sustain_webinar
 slug: /sustain/webinars/retro-and-re-commissioning-rcx-assessments
 ---
@@ -18,5 +18,3 @@ Topics will include:
 6. RCx training opportunities through the Presidio RCx Practicum
 
 Presenter: Brian Clark, USACE CERL Energy Branch Mechanical Engineer
-
-[**Click here for the webinar quiz**](retro-and-re-commissioning-rcx-assessments-quiz.pdf)
