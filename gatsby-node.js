@@ -1,5 +1,6 @@
 const path = require(`path`)
 
+// holds a mapping from doc_type -> template
 const templates = {
   facility_page: path.resolve("./src/templates/facility-page.js"),
   cos_page: path.resolve("./src/templates/cos-page.js"),
@@ -12,6 +13,7 @@ const templates = {
 exports.createPages = ({ graphql, actions }) => {
   const { createPage, createRedirect } = actions
 
+  // redirect old waiver process link to new link since its referenced in a publication
   createRedirect({
     fromPath: `/waiverprocess/`,
     isPermanent: true,
@@ -26,6 +28,7 @@ exports.createPages = ({ graphql, actions }) => {
     toPath: `/cos/waiver-process/`,
   })
 
+  // create pages for each markdown file if it is not a draft and its doc_type has a matching template
   return graphql(`
     {
       allMarkdownRemark {
@@ -41,14 +44,11 @@ exports.createPages = ({ graphql, actions }) => {
     }
   `).then(result => {
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-      if (node.frontmatter.doc_type in templates) {
-        //console.log("[ creating page ] " + node.frontmatter.slug)
+      if (!node.frontmatter.draft && node.frontmatter.doc_type in templates) {
         createPage({
           path: node.frontmatter.slug,
           component: templates[node.frontmatter.doc_type],
           context: {
-            // Data passed to context is available
-            // in page queries as GraphQL variables.
             slug: node.frontmatter.slug,
           },
         })
@@ -57,7 +57,7 @@ exports.createPages = ({ graphql, actions }) => {
   })
 }
 
-/// Below allows us to use uswds
+/// Below allows us to use USWDS
 
 const webpack = require("webpack")
 const uswdsRoot = "node_modules/uswds"

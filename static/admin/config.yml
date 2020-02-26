@@ -400,9 +400,16 @@ collections:
         file: "src/content/other-pages/subject_matter_experts.md"
         fields:
           - label: "SME"
-            name: "sme"
+            name: "subject_matter_experts"
             widget: list
             fields:
               - { label: "Subject Matter", name: "subject_matter", widget: "string" }
+              - { label: "Expert Name", name: "expert_name", widget: "string" }
               - { label: "Expert Email", name: "expert_email", widget: "string" }
-              - { label: "Expert Name", name: "expert_email", widget: "string" }
+          - {
+            label: "Document Type",
+            name: "doc_type",
+            widget: "string",
+          }
+          
+              

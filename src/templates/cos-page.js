@@ -58,6 +58,7 @@ export const query = graphql`
             cos_short_name
             facility_long_name
             facility_short_name
+            carousel_images
             related_links {
               url
               caption
