@@ -7714,7 +7714,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "10/24/2019 15:59:12",
+"LastModified": "02/27/2020 11:32:14",
 "Key": "content/cos/sam/asb/Library/Archive",
 "extension": "",
 "Size": ""
@@ -7742,7 +7742,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "10/24/2019 15:59:40",
+"LastModified": "02/27/2020 11:32:20",
 "Key": "content/cos/sam/asb/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -7774,6 +7774,20 @@
 "Key": "content/cos/sam/asb/Library/Archive/20190926_ASB Hangar_A-100 - NOTIONAL FLOOR PLAN.DWG",
 "extension": ".DWG",
 "Size": "414623"
+},
+{
+"name": "20191018_ASB Hangar - A-100 - COMPOSITE FLOOR PLAN.DWG",
+"LastModified": "10/24/2019 15:59:40",
+"Key": "content/cos/sam/asb/Library/Archive/20191018_ASB Hangar - A-100 - COMPOSITE FLOOR PLAN.DWG",
+"extension": ".DWG",
+"Size": "503142"
+},
+{
+"name": "20191018_ASB Hangar_Combined Folio.pdf",
+"LastModified": "10/24/2019 15:59:41",
+"Key": "content/cos/sam/asb/Library/Archive/20191018_ASB Hangar_Combined Folio.pdf",
+"extension": ".pdf",
+"Size": "5151830"
 },
 {
 "name": "Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
@@ -7853,18 +7867,18 @@
 "Size": "448545"
 },
 {
-"name": "20191018_ASB Hangar - A-100 - COMPOSITE FLOOR PLAN.DWG",
-"LastModified": "10/24/2019 15:59:40",
-"Key": "content/cos/sam/asb/Library/Standard Designs/20191018_ASB Hangar - A-100 - COMPOSITE FLOOR PLAN.DWG",
-"extension": ".DWG",
-"Size": "503142"
+"name": "20200226 COS ASB Combined Folio.pdf",
+"LastModified": "02/27/2020 11:32:17",
+"Key": "content/cos/sam/asb/Library/Standard Designs/20200226 COS ASB Combined Folio.pdf",
+"extension": ".pdf",
+"Size": "3217521"
 },
 {
-"name": "20191018_ASB Hangar_Combined Folio.pdf",
-"LastModified": "10/24/2019 15:59:41",
-"Key": "content/cos/sam/asb/Library/Standard Designs/20191018_ASB Hangar_Combined Folio.pdf",
-"extension": ".pdf",
-"Size": "5151830"
+"name": "20200226_ASB Hangar_FLOOR PLAN.DWG",
+"LastModified": "02/27/2020 11:32:20",
+"Key": "content/cos/sam/asb/Library/Standard Designs/20200226_ASB Hangar_FLOOR PLAN.DWG",
+"extension": ".DWG",
+"Size": "476330"
 },
 {
 "name": "Library",
@@ -7910,7 +7924,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "01/31/2020 13:25:31",
+"LastModified": "02/27/2020 10:48:11",
 "Key": "content/cos/sam/gsab/Library/Archive",
 "extension": "",
 "Size": ""
@@ -7938,7 +7952,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "01/31/2020 13:25:11",
+"LastModified": "02/27/2020 10:48:21",
 "Key": "content/cos/sam/gsab/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -7956,6 +7970,27 @@
 "Key": "content/cos/sam/gsab/Library/Archive/20190905-gsab-standard-design.pdf",
 "extension": ".pdf",
 "Size": "1177545"
+},
+{
+"name": "20190906_GSAB_4-60x4-47_A-100 - NOTIONAL PLAN - FIRST FLOOR COMPOSITE.DWG",
+"LastModified": "09/26/2019 15:12:21",
+"Key": "content/cos/sam/gsab/Library/Archive/20190906_GSAB_4-60x4-47_A-100 - NOTIONAL PLAN - FIRST FLOOR COMPOSITE.DWG",
+"extension": ".DWG",
+"Size": "396406"
+},
+{
+"name": "20190906_GSAB_4-60x4-47_A-101 - NOTIONAL PLAN - SECOND FLOOR COMPOSITE.DWG",
+"LastModified": "09/26/2019 15:12:29",
+"Key": "content/cos/sam/gsab/Library/Archive/20190906_GSAB_4-60x4-47_A-101 - NOTIONAL PLAN - SECOND FLOOR COMPOSITE.DWG",
+"extension": ".DWG",
+"Size": "1011748"
+},
+{
+"name": "20190916 GSAB COMPOSITE PLANS FOLIO.PDF",
+"LastModified": "10/04/2019 11:19:50",
+"Key": "content/cos/sam/gsab/Library/Archive/20190916 GSAB COMPOSITE PLANS FOLIO.PDF",
+"extension": ".PDF",
+"Size": "4718444"
 },
 {
 "name": "20200130-GSAB-Standard Design.pdf",
@@ -7993,32 +8028,32 @@
 "Size": "100298"
 },
 {
-"name": "20190906_GSAB_4-60x4-47_A-100 - NOTIONAL PLAN - FIRST FLOOR COMPOSITE.DWG",
-"LastModified": "09/26/2019 15:12:21",
-"Key": "content/cos/sam/gsab/Library/Standard Designs/20190906_GSAB_4-60x4-47_A-100 - NOTIONAL PLAN - FIRST FLOOR COMPOSITE.DWG",
-"extension": ".DWG",
-"Size": "396406"
-},
-{
-"name": "20190906_GSAB_4-60x4-47_A-101 - NOTIONAL PLAN - SECOND FLOOR COMPOSITE.DWG",
-"LastModified": "09/26/2019 15:12:29",
-"Key": "content/cos/sam/gsab/Library/Standard Designs/20190906_GSAB_4-60x4-47_A-101 - NOTIONAL PLAN - SECOND FLOOR COMPOSITE.DWG",
-"extension": ".DWG",
-"Size": "1011748"
-},
-{
-"name": "20190916 GSAB COMPOSITE PLANS FOLIO.PDF",
-"LastModified": "10/04/2019 11:19:50",
-"Key": "content/cos/sam/gsab/Library/Standard Designs/20190916 GSAB COMPOSITE PLANS FOLIO.PDF",
-"extension": ".PDF",
-"Size": "4718444"
-},
-{
 "name": "20200131-GSAB-Standard Design.pdf",
 "LastModified": "01/31/2020 13:24:18",
 "Key": "content/cos/sam/gsab/Library/Standard Designs/20200131-GSAB-Standard Design.pdf",
 "extension": ".pdf",
 "Size": "1142855"
+},
+{
+"name": "20200224_AHP GSAB_A-101 - NOTIONAL PLAN - FIRST FLOOR.DWG",
+"LastModified": "02/27/2020 10:48:15",
+"Key": "content/cos/sam/gsab/Library/Standard Designs/20200224_AHP GSAB_A-101 - NOTIONAL PLAN - FIRST FLOOR.DWG",
+"extension": ".DWG",
+"Size": "417215"
+},
+{
+"name": "20200224_AHP GSAB_A-102 - NOTIONAL PLAN - SECOND FLOOR.DWG",
+"LastModified": "02/27/2020 10:48:18",
+"Key": "content/cos/sam/gsab/Library/Standard Designs/20200224_AHP GSAB_A-102 - NOTIONAL PLAN - SECOND FLOOR.DWG",
+"extension": ".DWG",
+"Size": "232318"
+},
+{
+"name": "20200224_AHP_GSAB Hangar_COMPOSITE PDF FOLIO.PDF",
+"LastModified": "02/27/2020 10:48:22",
+"Key": "content/cos/sam/gsab/Library/Standard Designs/20200224_AHP_GSAB Hangar_COMPOSITE PDF FOLIO.PDF",
+"extension": ".PDF",
+"Size": "2933625"
 },
 {
 "name": "Library",
