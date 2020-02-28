@@ -5,7 +5,6 @@ backend:
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
   preview_context: federalist/build
-  open_authoring: true
 
 
 media_folder: static/admin/images/uploads
