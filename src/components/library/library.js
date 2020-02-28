@@ -60,6 +60,12 @@ const getBreadcrumbs = (rootDir, dir) => {
   return crumbs
 }
 
+const getFolderFileCount = (rootDir, data) => {
+  return data.filter(
+    file => file.Key.indexOf(rootDir) === 0 && file.Size !== ""
+  ).length
+}
+
 const getMostRecentFileUpdateDate = (rootDir, data) => {
   const folderItems = data.filter(
     file => file.Key.indexOf(rootDir) === 0 && file.Size !== ""
@@ -74,7 +80,20 @@ const getMostRecentFileUpdateDate = (rootDir, data) => {
       latestDate = item.LastModified
     }
   }
-  return latestDate
+
+  if (latestDate != null) {
+    return (
+      <Moment
+        date={latestDate}
+        format="M/D/YYYY"
+        withTitle
+        titleFormat="DD MMMM YYYY"
+        parse="MM/DD/YYYY HH:mm:ss"
+      />
+    )
+  } else {
+    return ""
+  }
 }
 
 const Library = ({ rootDir, hideBC, hideTitle }) => {
@@ -157,19 +176,28 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                       >
                         {e.name}
                       </span>
-                    </td>
-                    <td />
-                    <td>
-                      <Moment
-                        date={getMostRecentFileUpdateDate(
+                      <span
+                        class="usa-tag"
+                        style={{
+                          padding: "0px 5px",
+                          borderRadius: "5px",
+                          marginLeft: "5px",
+                          fontSize: "13px",
+                          backgroundColor: "#565c65b3",
+                        }}
+                      >
+                        {getFolderFileCount(
                           e.Key,
                           data.allS3ListBucketJson.nodes
                         )}
-                        format="M/D/YYYY"
-                        withTitle
-                        titleFormat="DD MMMM YYYY"
-                        parse="MM/DD/YYYY HH:mm:ss"
-                      />
+                      </span>
+                    </td>
+                    <td />
+                    <td>
+                      {getMostRecentFileUpdateDate(
+                        e.Key,
+                        data.allS3ListBucketJson.nodes
+                      )}
                     </td>
                   </tr>
                 )
