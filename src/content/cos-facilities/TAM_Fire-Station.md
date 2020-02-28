@@ -23,4 +23,4 @@ Off-The-Shelf Design
 
 Fire Station Complex
 
-![Fire Station Complex](./fire-station-complex.png)
+![Fire Station Complex](/admin/images/uploads/fire-station-complex.png)
