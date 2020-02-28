@@ -7686,10 +7686,10 @@
 },
 {
 "name": "20200210 COS AAB Combined Folio.pdf",
-"LastModified": "02/26/2020 13:33:15",
+"LastModified": "02/28/2020 09:17:50",
 "Key": "content/cos/sam/aab/Library/Standard Designs/20200210 COS AAB Combined Folio.pdf",
 "extension": ".pdf",
-"Size": "2307896"
+"Size": "2304795"
 },
 {
 "name": "20200210_AAB Hangar_A-101 - FIRST FLOOR PLAN.dwg",
@@ -7868,10 +7868,10 @@
 },
 {
 "name": "20200226 COS ASB Combined Folio.pdf",
-"LastModified": "02/27/2020 11:32:17",
+"LastModified": "02/28/2020 09:18:05",
 "Key": "content/cos/sam/asb/Library/Standard Designs/20200226 COS ASB Combined Folio.pdf",
 "extension": ".pdf",
-"Size": "3217521"
+"Size": "3215107"
 },
 {
 "name": "20200226_ASB Hangar_FLOOR PLAN.DWG",
@@ -7952,7 +7952,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "02/27/2020 10:48:21",
+"LastModified": "02/28/2020 09:18:47",
 "Key": "content/cos/sam/gsab/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -8049,11 +8049,11 @@
 "Size": "232318"
 },
 {
-"name": "20200224_AHP_GSAB Hangar_COMPOSITE PDF FOLIO.PDF",
-"LastModified": "02/27/2020 10:48:22",
-"Key": "content/cos/sam/gsab/Library/Standard Designs/20200224_AHP_GSAB Hangar_COMPOSITE PDF FOLIO.PDF",
-"extension": ".PDF",
-"Size": "2933625"
+"name": "20200224_COS_GSAB Combined Folio.pdf",
+"LastModified": "02/28/2020 09:18:24",
+"Key": "content/cos/sam/gsab/Library/Standard Designs/20200224_COS_GSAB Combined Folio.pdf",
+"extension": ".pdf",
+"Size": "2929755"
 },
 {
 "name": "Library",
