@@ -18,14 +18,14 @@ The Model RFP is generated using a web-based application called a Wizard.
 
 The Wizards provide standardization while allowing users define project and facility specific Scopes of Work (SOW).
 
-*Please use Internet Explorer or Microsoft Edge to start the Wizard applications. See our FAQ if you are interested in understanding why this is necessary.*
+_Please use Internet Explorer or Microsoft Edge to start the Wizard applications. See our FAQ if you are interested in understanding why this is necessary._
 
 <div style="width: 100%">
     <div style="width: 30%; display: inline-block">
         <a href="https://rfpwizard.mrsi.erdc.dren.mil/wizards/mbpw/Client/MTApp.application">
             <h4>MILCON D-B Wizard</h4>
             <div style="width: 128px; display: inline-block">
-            <img src="./mbp-wizard-256x256.png" alt="Model RFP Wizard"/>
+            <img src="/admin/images/uploads/mbp-wizard-256x256.png" alt="Model RFP Wizard"/>
             </div>
         </a>
     </div>
@@ -33,7 +33,7 @@ The Wizards provide standardization while allowing users define project and faci
         <a href="https://rfpwizard.mrsi.erdc.dren.mil/wizards/srmw/Client/CirceApp.application">
             <h4>Small Projects Wizard</h4>
             <div style="width: 128px; display: inline-block">
-            <img src="./srm-wizard-256x256.png" alt="Small Projects Wizard"/>
+            <img src="/admin/images/uploads/srm-wizard-256x256.png" alt="Small Projects Wizard"/>
             </div>
         </a>
     </div>

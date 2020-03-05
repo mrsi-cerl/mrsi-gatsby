@@ -5,10 +5,8 @@ backend:
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
   preview_context: federalist/build
-  open_authoring: true
 
 
-publish_mode: editorial_workflow
 media_folder: static/admin/images/uploads
 public_folder: /admin/images/uploads
 logo_url: https://mrsi.erdc.dren.mil/admin/images/mrsi-blue-logo.png
