@@ -8295,7 +8295,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:30",
+"LastModified": "03/05/2020 16:27:17",
 "Key": "content/cos/sas/bn-bde-hq/Library",
 "extension": "",
 "Size": ""
@@ -8353,6 +8353,13 @@
 "name": "Legacy Renovation",
 "LastModified": "09/25/2019 08:25:30",
 "Key": "content/cos/sas/bn-bde-hq/Library/Legacy Renovation",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Programmatic Value Engineering Study",
+"LastModified": "03/05/2020 16:27:23",
+"Key": "content/cos/sas/bn-bde-hq/Library/Programmatic Value Engineering Study",
 "extension": "",
 "Size": ""
 },
@@ -8439,6 +8446,13 @@
 "Key": "content/cos/sas/bn-bde-hq/Library/Legacy Renovation/BDE BN CORRECTED FINAL.pdf",
 "extension": ".pdf",
 "Size": "5059119"
+},
+{
+"name": "VE Study - BN_BDE HQ_FEB 2020.pdf",
+"LastModified": "03/05/2020 16:27:24",
+"Key": "content/cos/sas/bn-bde-hq/Library/Programmatic Value Engineering Study/VE Study - BN_BDE HQ_FEB 2020.pdf",
+"extension": ".pdf",
+"Size": "17032856"
 },
 {
 "name": "Bde-Bn_Std_Dgn_Rev_5.2a.pdf",
