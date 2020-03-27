@@ -1,7 +1,7 @@
 ---
 doc_type: facility_page
 facility_category_codes:
-  - 721 21
+  - 72121
 facility_cos_short_name: SWF
 facility_functional_proponent: G-3/5/7
 facility_long_name: Advanced Individual Training Complex
