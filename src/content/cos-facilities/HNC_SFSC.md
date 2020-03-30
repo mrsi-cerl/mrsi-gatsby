@@ -1,7 +1,7 @@
 ---
 doc_type: facility_page
 facility_category_codes:
-  - TBD
+  - "TBD"
 facility_cos_short_name: HNC
 facility_functional_proponent: CFSC
 facility_long_name: Soldier Family Service Center
