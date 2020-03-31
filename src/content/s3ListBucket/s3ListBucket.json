@@ -8834,7 +8834,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:33",
+"LastModified": "03/31/2020 13:04:07",
 "Key": "content/cos/sas/temf/Library",
 "extension": "",
 "Size": ""
@@ -8857,6 +8857,13 @@
 "name": "DD1391 Templates",
 "LastModified": "09/25/2019 08:25:33",
 "Key": "content/cos/sas/temf/Library/DD1391 Templates",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Programmatic Value Engineering Study",
+"LastModified": "03/31/2020 13:04:45",
+"Key": "content/cos/sas/temf/Library/Programmatic Value Engineering Study",
 "extension": "",
 "Size": ""
 },
@@ -8908,6 +8915,13 @@
 "Key": "content/cos/sas/temf/Library/DD1391 Templates/temf_xlarge_fy21.pdf",
 "extension": ".pdf",
 "Size": "12843"
+},
+{
+"name": "VE Study - TEMF Standards_MAR 2020.pdf",
+"LastModified": "03/31/2020 13:00:23",
+"Key": "content/cos/sas/temf/Library/Programmatic Value Engineering Study/VE Study - TEMF Standards_MAR 2020.pdf",
+"extension": ".pdf",
+"Size": "6014962"
 },
 {
 "name": "TEMF_Std_Dgn_Rev_4.4.pdf",
