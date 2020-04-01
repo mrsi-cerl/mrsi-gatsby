@@ -4963,7 +4963,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:02",
+"LastModified": "04/01/2020 15:41:21",
 "Key": "content/cos/nao/epdf/Library",
 "extension": "",
 "Size": ""
@@ -5001,6 +5001,13 @@
 "LastModified": "09/25/2019 08:25:02",
 "Key": "content/cos/nao/epdf/Library/Misc. Documents",
 "extension": ". Documents",
+"Size": ""
+},
+{
+"name": "Programmatic Value Engineering Study",
+"LastModified": "04/01/2020 15:41:31",
+"Key": "content/cos/nao/epdf/Library/Programmatic Value Engineering Study",
+"extension": "",
 "Size": ""
 },
 {
@@ -5142,6 +5149,13 @@
 "Key": "content/cos/nao/epdf/Library/Misc. Documents/VE_Study_for_Dining_Facilities.pdf",
 "extension": ".pdf",
 "Size": "5398783"
+},
+{
+"name": "Final VE Study Report - DFAC - Hard Copy.pdf",
+"LastModified": "04/01/2020 14:53:58",
+"Key": "content/cos/nao/epdf/Library/Programmatic Value Engineering Study/Final VE Study Report - DFAC - Hard Copy.pdf",
+"extension": ".pdf",
+"Size": "9408898"
 },
 {
 "name": "0720_ORTC_DFAC_9-8-09-RFP.pdf",
