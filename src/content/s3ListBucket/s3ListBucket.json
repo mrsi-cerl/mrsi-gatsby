@@ -11011,7 +11011,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/26/2019 16:18:25",
+"LastModified": "04/08/2020 12:55:26",
 "Key": "content/cos/tam/center_home_page/Library",
 "extension": "",
 "Size": ""
@@ -11052,6 +11052,13 @@
 "Size": "2230523"
 },
 {
+"name": "Archives",
+"LastModified": "04/03/2020 08:18:35",
+"Key": "content/cos/tam/center_home_page/Library/Archives",
+"extension": "",
+"Size": ""
+},
+{
 "name": "CUBE Information",
 "LastModified": "09/25/2019 08:26:03",
 "Key": "content/cos/tam/center_home_page/Library/CUBE Information",
@@ -11071,6 +11078,20 @@
 "Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards",
 "extension": "",
 "Size": ""
+},
+{
+"name": "CoS Handbook, 25Feb2020.pdf",
+"LastModified": "04/03/2020 08:19:25",
+"Key": "content/cos/tam/center_home_page/Library/CoS Handbook, 25Feb2020.pdf",
+"extension": ".pdf",
+"Size": "5399969"
+},
+{
+"name": "CoS Handbook, 25Feb2020.pptx",
+"LastModified": "04/08/2020 11:49:28",
+"Key": "content/cos/tam/center_home_page/Library/CoS Handbook, 25Feb2020.pptx",
+"extension": ".pptx",
+"Size": "13488282"
 },
 {
 "name": "cos-cube-build-poland-april2018.pdf",
@@ -11101,20 +11122,6 @@
 "Size": "347207"
 },
 {
-"name": "cos-npf-catalog-may2019.pdf",
-"LastModified": "07/16/2019 06:42:46",
-"Key": "content/cos/tam/center_home_page/Library/cos-npf-catalog-may2019.pdf",
-"extension": ".pdf",
-"Size": "15956345"
-},
-{
-"name": "cos-npf-catalog-may2019.pptx",
-"LastModified": "07/16/2019 06:53:10",
-"Key": "content/cos/tam/center_home_page/Library/cos-npf-catalog-may2019.pptx",
-"extension": ".pptx",
-"Size": "51782359"
-},
-{
 "name": "cube-construction-final.avi",
 "LastModified": "09/04/2018 08:05:55",
 "Key": "content/cos/tam/center_home_page/Library/cube-construction-final.avi",
@@ -11122,39 +11129,25 @@
 "Size": "582203516"
 },
 {
-"name": "final-cos-catalog-20feb2019.pdf",
-"LastModified": "03/13/2019 14:05:24",
-"Key": "content/cos/tam/center_home_page/Library/final-cos-catalog-20feb2019.pdf",
+"name": "FINAL COS Catalog, JAN2020.pdf",
+"LastModified": "04/03/2020 08:19:28",
+"Key": "content/cos/tam/center_home_page/Library/FINAL COS Catalog, JAN2020.pdf",
 "extension": ".pdf",
-"Size": "9660895"
+"Size": "8716935"
 },
 {
-"name": "final-cos-catalog-28sept2018.pdf",
-"LastModified": "11/13/2018 06:50:19",
-"Key": "content/cos/tam/center_home_page/Library/final-cos-catalog-28sept2018.pdf",
-"extension": ".pdf",
-"Size": "7826176"
+"name": "FINAL COS Catalog, JAN2020.pptx",
+"LastModified": "04/08/2020 11:50:35",
+"Key": "content/cos/tam/center_home_page/Library/FINAL COS Catalog, JAN2020.pptx",
+"extension": ".pptx",
+"Size": "20442550"
 },
 {
-"name": "final-cos-catalog-4sept2018.pdf",
-"LastModified": "09/04/2018 12:40:30",
-"Key": "content/cos/tam/center_home_page/Library/final-cos-catalog-4sept2018.pdf",
-"extension": ".pdf",
-"Size": "7498774"
-},
-{
-"name": "tam.jpg",
-"LastModified": "07/16/2015 15:32:30",
-"Key": "content/cos/tam/center_home_page/Library/tam.jpg",
-"extension": ".jpg",
-"Size": "32439"
-},
-{
-"name": "usace-cos-design-builder-28nov18.xlsx",
-"LastModified": "12/11/2018 06:50:03",
-"Key": "content/cos/tam/center_home_page/Library/usace-cos-design-builder-28nov18.xlsx",
+"name": "USACE CoS Design Builder, 7jan19.xlsx",
+"LastModified": "04/08/2020 11:42:06",
+"Key": "content/cos/tam/center_home_page/Library/USACE CoS Design Builder, 7jan19.xlsx",
 "extension": ".xlsx",
-"Size": "9435226"
+"Size": "10929861"
 },
 {
 "name": "usace-cos-design-builder-7jan19.xlsx",
@@ -11164,9 +11157,58 @@
 "Size": "9491532"
 },
 {
+"name": "cos-npf-catalog-may2019.pdf",
+"LastModified": "07/16/2019 06:42:46",
+"Key": "content/cos/tam/center_home_page/Library/Archives/cos-npf-catalog-may2019.pdf",
+"extension": ".pdf",
+"Size": "15956345"
+},
+{
+"name": "cos-npf-catalog-may2019.pptx",
+"LastModified": "07/16/2019 06:53:10",
+"Key": "content/cos/tam/center_home_page/Library/Archives/cos-npf-catalog-may2019.pptx",
+"extension": ".pptx",
+"Size": "51782359"
+},
+{
+"name": "final-cos-catalog-20feb2019.pdf",
+"LastModified": "03/13/2019 14:05:24",
+"Key": "content/cos/tam/center_home_page/Library/Archives/final-cos-catalog-20feb2019.pdf",
+"extension": ".pdf",
+"Size": "9660895"
+},
+{
+"name": "final-cos-catalog-28sept2018.pdf",
+"LastModified": "11/13/2018 06:50:19",
+"Key": "content/cos/tam/center_home_page/Library/Archives/final-cos-catalog-28sept2018.pdf",
+"extension": ".pdf",
+"Size": "7826176"
+},
+{
+"name": "final-cos-catalog-4sept2018.pdf",
+"LastModified": "09/04/2018 12:40:30",
+"Key": "content/cos/tam/center_home_page/Library/Archives/final-cos-catalog-4sept2018.pdf",
+"extension": ".pdf",
+"Size": "7498774"
+},
+{
+"name": "tam.jpg",
+"LastModified": "07/16/2015 15:32:30",
+"Key": "content/cos/tam/center_home_page/Library/Archives/tam.jpg",
+"extension": ".jpg",
+"Size": "32439"
+},
+{
+"name": "usace-cos-design-builder-28nov18.xlsx",
+"LastModified": "12/11/2018 06:50:03",
+"Key": "content/cos/tam/center_home_page/Library/Archives/usace-cos-design-builder-28nov18.xlsx",
+"extension": ".xlsx",
+"Size": "9435226"
+},
+{
 "name": "usace-cos-design-builder1-22oct18.xlsx",
 "LastModified": "11/13/2018 06:51:39",
-"Key": "content/cos/tam/center_home_page/Library/usace-cos-design-builder1-22oct18.xlsx",
+"Key": "content/cos/tam/center_home_page/Library/Archives/usace-cos-design-builder1-22oct18.xlsx",
 "extension": ".xlsx",
 "Size": "9514573"
 },
