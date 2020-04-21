@@ -5768,7 +5768,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:19",
+"LastModified": "04/21/2020 08:35:44",
 "Key": "content/cos/nwo/acp/Library",
 "extension": "",
 "Size": ""
@@ -5781,22 +5781,15 @@
 "Size": "285622"
 },
 {
-"name": "ACP Standard Design DRAFT Electrical Drawings",
-"LastModified": "09/25/2019 08:25:08",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings",
-"extension": "",
-"Size": ""
-},
-{
 "name": "Archive",
-"LastModified": "09/25/2019 08:25:09",
+"LastModified": "04/21/2020 08:33:34",
 "Key": "content/cos/nwo/acp/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:25:10",
+"LastModified": "04/21/2020 08:35:21",
 "Key": "content/cos/nwo/acp/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -5809,15 +5802,8 @@
 "Size": ""
 },
 {
-"name": "Misc. Documents",
-"LastModified": "09/24/2019 10:25:10",
-"Key": "content/cos/nwo/acp/Library/Misc. Documents",
-"extension": ". Documents",
-"Size": ""
-},
-{
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:25:19",
+"LastModified": "04/21/2020 08:38:15",
 "Key": "content/cos/nwo/acp/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -5830,443 +5816,471 @@
 "Size": ""
 },
 {
-"name": "Microstation dgn files Draft Electrical Sheets",
+"name": "2018 Microstation dgn files Interim Electrical Sheets",
 "LastModified": "09/25/2019 08:25:07",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets",
 "extension": "",
 "Size": ""
 },
 {
-"name": "Read Me File and PDFs",
+"name": "2018 Read Me File and PDFs Draft Electrical Sheets",
 "LastModified": "09/25/2019 08:25:07",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets",
 "extension": "",
 "Size": ""
 },
 {
-"name": "SDDCTEA Pdf Drawings",
+"name": "2018 SDDCTEA Pdf Drawings",
 "LastModified": "09/25/2019 08:25:08",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/SDDCTEA Pdf Drawings",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 SDDCTEA Pdf Drawings",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Previous Drawings",
+"LastModified": "04/21/2020 08:37:37",
+"Key": "content/cos/nwo/acp/Library/Archive/Previous Drawings",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Previous Guidance & Criteria",
+"LastModified": "04/21/2020 08:36:23",
+"Key": "content/cos/nwo/acp/Library/Archive/Previous Guidance & Criteria",
 "extension": "",
 "Size": ""
 },
 {
 "name": "acp-stdg-bsd.dgn",
 "LastModified": "03/14/2018 16:12:15",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/acp-stdg-bsd.dgn",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/acp-stdg-bsd.dgn",
 "extension": ".dgn",
 "Size": "86528"
 },
 {
 "name": "default.mvba",
 "LastModified": "03/14/2018 16:12:15",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/default.mvba",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/default.mvba",
 "extension": ".mvba",
 "Size": "8704"
 },
 {
 "name": "e-101-conventional-s-and-s-avb-panels.dgn",
 "LastModified": "06/29/2018 13:55:45",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/e-101-conventional-s-and-s-avb-panels.dgn",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/e-101-conventional-s-and-s-avb-panels.dgn",
 "extension": ".dgn",
 "Size": "117760"
 },
 {
 "name": "e-102-conventional-s-and-s-avb-control-system-diagram.dgn",
 "LastModified": "05/04/2018 08:54:18",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/e-102-conventional-s-and-s-avb-control-system-diagram.dgn",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/e-102-conventional-s-and-s-avb-control-system-diagram.dgn",
 "extension": ".dgn",
 "Size": "181248"
 },
 {
 "name": "e-103-convential-avb-control-sequence-and-details.dgn",
 "LastModified": "09/19/2018 11:17:35",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/e-103-convential-avb-control-sequence-and-details.dgn",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/e-103-convential-avb-control-sequence-and-details.dgn",
 "extension": ".dgn",
 "Size": "181248"
 },
 {
 "name": "e-110-hepd-avb-panels.dgn",
 "LastModified": "06/29/2018 13:55:45",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/e-110-hepd-avb-panels.dgn",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/e-110-hepd-avb-panels.dgn",
 "extension": ".dgn",
 "Size": "115712"
 },
 {
 "name": "e-111-hepd-avb-control-system-diagram.dgn",
 "LastModified": "05/04/2018 08:54:21",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/e-111-hepd-avb-control-system-diagram.dgn",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/e-111-hepd-avb-control-system-diagram.dgn",
 "extension": ".dgn",
 "Size": "183296"
 },
 {
 "name": "e-120-exit-only-avb-panels.dgn",
 "LastModified": "06/29/2018 13:55:46",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/e-120-exit-only-avb-panels.dgn",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/e-120-exit-only-avb-panels.dgn",
 "extension": ".dgn",
 "Size": "108544"
 },
 {
 "name": "e-121-exit-only-avb-control-system-diagram.dgn",
 "LastModified": "05/04/2018 08:54:22",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/e-121-exit-only-avb-control-system-diagram.dgn",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/e-121-exit-only-avb-control-system-diagram.dgn",
 "extension": ".dgn",
 "Size": "181248"
 },
 {
 "name": "e-130-stop-control-avb-panels.dgn",
 "LastModified": "09/19/2018 11:17:38",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/e-130-stop-control-avb-panels.dgn",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/e-130-stop-control-avb-panels.dgn",
 "extension": ".dgn",
 "Size": "104448"
 },
 {
 "name": "e-131-stop-control-avb-control-system-diagram.dgn",
 "LastModified": "05/04/2018 08:54:04",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/e-131-stop-control-avb-control-system-diagram.dgn",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/e-131-stop-control-avb-control-system-diagram.dgn",
 "extension": ".dgn",
 "Size": "181248"
 },
 {
 "name": "e-140-normally-closed-avb-panels.dgn",
 "LastModified": "06/29/2018 13:55:47",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/e-140-normally-closed-avb-panels.dgn",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/e-140-normally-closed-avb-panels.dgn",
 "extension": ".dgn",
 "Size": "114176"
 },
 {
 "name": "e-141-normally-closed-avb-control-system-diagram-barrier.dgn",
 "LastModified": "05/04/2018 08:54:06",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/e-141-normally-closed-avb-control-system-diagram-barrier.dgn",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/e-141-normally-closed-avb-control-system-diagram-barrier.dgn",
 "extension": ".dgn",
 "Size": "193536"
 },
 {
 "name": "e-150-new-island-typical-plan-and-elevation-for-aie.dgn",
 "LastModified": "05/04/2018 08:54:07",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/e-150-new-island-typical-plan-and-elevation-for-aie.dgn",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/e-150-new-island-typical-plan-and-elevation-for-aie.dgn",
 "extension": ".dgn",
 "Size": "138240"
 },
 {
 "name": "e-151-existing-island-typical-plan-and-elevation.dgn",
 "LastModified": "05/04/2018 08:54:08",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/e-151-existing-island-typical-plan-and-elevation.dgn",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/e-151-existing-island-typical-plan-and-elevation.dgn",
 "extension": ".dgn",
 "Size": "104960"
 },
 {
 "name": "e-152-aie-fixed-block.dgn",
 "LastModified": "05/04/2018 08:54:09",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/e-152-aie-fixed-block.dgn",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/e-152-aie-fixed-block.dgn",
 "extension": ".dgn",
 "Size": "125440"
 },
 {
 "name": "e-153-new-island-typical-plan-elevation-for-aie-and-other-systems.dgn",
 "LastModified": "05/04/2018 08:54:10",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/e-153-new-island-typical-plan-elevation-for-aie-and-other-systems.dgn",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/e-153-new-island-typical-plan-elevation-for-aie-and-other-systems.dgn",
 "extension": ".dgn",
 "Size": "148992"
 },
 {
 "name": "e-154-aie-handheld.dgn",
 "LastModified": "05/04/2018 08:54:11",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/e-154-aie-handheld.dgn",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/e-154-aie-handheld.dgn",
 "extension": ".dgn",
 "Size": "133120"
 },
 {
 "name": "e-155-aie-handheld-block.dgn",
 "LastModified": "05/04/2018 08:54:11",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/e-155-aie-handheld-block.dgn",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/e-155-aie-handheld-block.dgn",
 "extension": ".dgn",
 "Size": "125440"
 },
 {
 "name": "el101-lighting-plan.dgn",
 "LastModified": "05/04/2018 08:54:14",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/el101-lighting-plan.dgn",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/el101-lighting-plan.dgn",
 "extension": ".dgn",
 "Size": "529408"
 },
 {
 "name": "ep101-electrical-plan-power-requirements.dgn",
 "LastModified": "05/04/2018 08:54:15",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/ep101-electrical-plan-power-requirements.dgn",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/ep101-electrical-plan-power-requirements.dgn",
 "extension": ".dgn",
 "Size": "157184"
 },
 {
 "name": "ey101-cctv-camera-plan.dgn",
 "LastModified": "05/04/2018 08:54:16",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/ey101-cctv-camera-plan.dgn",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/ey101-cctv-camera-plan.dgn",
 "extension": ".dgn",
 "Size": "158720"
 },
 {
 "name": "ey102-avb-block-diagram.dgn",
 "LastModified": "05/04/2018 08:54:17",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Microstation dgn files Draft Electrical Sheets/ey102-avb-block-diagram.dgn",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets/ey102-avb-block-diagram.dgn",
 "extension": ".dgn",
 "Size": "91136"
 },
 {
 "name": "binder-draft-electrical-sheets.pdf",
 "LastModified": "06/29/2018 13:53:24",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/binder-draft-electrical-sheets.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/binder-draft-electrical-sheets.pdf",
 "extension": ".pdf",
 "Size": "6936072"
 },
 {
 "name": "e-101-conventional-s-and-s-avb-panels.pdf",
 "LastModified": "06/29/2018 13:42:15",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/e-101-conventional-s-and-s-avb-panels.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/e-101-conventional-s-and-s-avb-panels.pdf",
 "extension": ".pdf",
 "Size": "670945"
 },
 {
 "name": "e-102-conventional-s-and-s-avb-control-system-diagram.pdf",
 "LastModified": "05/04/2018 08:32:58",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/e-102-conventional-s-and-s-avb-control-system-diagram.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/e-102-conventional-s-and-s-avb-control-system-diagram.pdf",
 "extension": ".pdf",
 "Size": "351062"
 },
 {
 "name": "e-103-convential-avb-control-sequence-and-details.pdf",
 "LastModified": "09/19/2018 11:09:25",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/e-103-convential-avb-control-sequence-and-details.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/e-103-convential-avb-control-sequence-and-details.pdf",
 "extension": ".pdf",
 "Size": "276170"
 },
 {
 "name": "e-110-hepd-avb-panels.pdf",
 "LastModified": "06/29/2018 13:42:17",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/e-110-hepd-avb-panels.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/e-110-hepd-avb-panels.pdf",
 "extension": ".pdf",
 "Size": "700004"
 },
 {
 "name": "e-111-hepd-avb-control-system-diagram.pdf",
 "LastModified": "05/04/2018 08:33:02",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/e-111-hepd-avb-control-system-diagram.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/e-111-hepd-avb-control-system-diagram.pdf",
 "extension": ".pdf",
 "Size": "383958"
 },
 {
 "name": "e-120-exit-only-avb-panels.pdf",
 "LastModified": "06/29/2018 13:42:06",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/e-120-exit-only-avb-panels.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/e-120-exit-only-avb-panels.pdf",
 "extension": ".pdf",
 "Size": "660553"
 },
 {
 "name": "e-121-exit-only-avb-control-system-diagram.pdf",
 "LastModified": "05/04/2018 08:32:47",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/e-121-exit-only-avb-control-system-diagram.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/e-121-exit-only-avb-control-system-diagram.pdf",
 "extension": ".pdf",
 "Size": "274517"
 },
 {
 "name": "e-130-stop-control-avb-panels.pdf",
 "LastModified": "09/19/2018 11:09:29",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/e-130-stop-control-avb-panels.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/e-130-stop-control-avb-panels.pdf",
 "extension": ".pdf",
 "Size": "635276"
 },
 {
 "name": "e-131-stop-control-avb-control-system-diagram.pdf",
 "LastModified": "05/04/2018 08:32:51",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/e-131-stop-control-avb-control-system-diagram.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/e-131-stop-control-avb-control-system-diagram.pdf",
 "extension": ".pdf",
 "Size": "365408"
 },
 {
 "name": "e-140-normally-closed-avb-panels.pdf",
 "LastModified": "06/29/2018 13:42:13",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/e-140-normally-closed-avb-panels.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/e-140-normally-closed-avb-panels.pdf",
 "extension": ".pdf",
 "Size": "627479"
 },
 {
 "name": "e-141-normally-closed-avb-control-system-diagram-barrier.pdf",
 "LastModified": "03/14/2018 16:02:12",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/e-141-normally-closed-avb-control-system-diagram-barrier.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/e-141-normally-closed-avb-control-system-diagram-barrier.pdf",
 "extension": ".pdf",
 "Size": "367248"
 },
 {
 "name": "e-150-new-island-typical-plan-and-elevation-for-aie.pdf",
 "LastModified": "03/14/2018 16:02:15",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/e-150-new-island-typical-plan-and-elevation-for-aie.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/e-150-new-island-typical-plan-and-elevation-for-aie.pdf",
 "extension": ".pdf",
 "Size": "256524"
 },
 {
 "name": "e-151-existing-island-typical-plan-and-elevation.pdf",
 "LastModified": "03/14/2018 16:02:19",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/e-151-existing-island-typical-plan-and-elevation.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/e-151-existing-island-typical-plan-and-elevation.pdf",
 "extension": ".pdf",
 "Size": "321522"
 },
 {
 "name": "e-152-aie-fixed-block.pdf",
 "LastModified": "03/14/2018 16:02:20",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/e-152-aie-fixed-block.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/e-152-aie-fixed-block.pdf",
 "extension": ".pdf",
 "Size": "104299"
 },
 {
 "name": "e-153-new-island-typical-plan-and-elevation-for-aie-and-other-systems.pdf",
 "LastModified": "03/14/2018 16:02:23",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/e-153-new-island-typical-plan-and-elevation-for-aie-and-other-systems.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/e-153-new-island-typical-plan-and-elevation-for-aie-and-other-systems.pdf",
 "extension": ".pdf",
 "Size": "291262"
 },
 {
 "name": "e-154-aie-handheld.pdf",
 "LastModified": "03/14/2018 16:02:25",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/e-154-aie-handheld.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/e-154-aie-handheld.pdf",
 "extension": ".pdf",
 "Size": "208065"
 },
 {
 "name": "e-155-aie-handheld-block.pdf",
 "LastModified": "03/14/2018 16:02:26",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/e-155-aie-handheld-block.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/e-155-aie-handheld-block.pdf",
 "extension": ".pdf",
 "Size": "96034"
 },
 {
 "name": "el101-lighting-plan.pdf",
 "LastModified": "03/14/2018 16:02:28",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/el101-lighting-plan.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/el101-lighting-plan.pdf",
 "extension": ".pdf",
 "Size": "95992"
 },
 {
 "name": "ep101-electrical-plan-power-requirements.pdf",
 "LastModified": "03/14/2018 16:02:29",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/ep101-electrical-plan-power-requirements.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/ep101-electrical-plan-power-requirements.pdf",
 "extension": ".pdf",
 "Size": "116964"
 },
 {
 "name": "ey101-cctv-camera-plan.pdf",
 "LastModified": "03/14/2018 16:02:30",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/ey101-cctv-camera-plan.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/ey101-cctv-camera-plan.pdf",
 "extension": ".pdf",
 "Size": "122930"
 },
 {
 "name": "ey102-avb-block-diagram.pdf",
 "LastModified": "03/14/2018 16:02:32",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/ey102-avb-block-diagram.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/ey102-avb-block-diagram.pdf",
 "extension": ".pdf",
 "Size": "91767"
 },
 {
 "name": "read-me-draft-electrical-sheets.xlsx",
 "LastModified": "03/14/2018 16:00:40",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/Read Me File and PDFs/read-me-draft-electrical-sheets.xlsx",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets/read-me-draft-electrical-sheets.xlsx",
 "extension": ".xlsx",
 "Size": "12522"
 },
 {
 "name": "sddctea-conus-oconus-high-efficiency-presence-detection_final.pdf",
 "LastModified": "03/14/2018 16:14:04",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/SDDCTEA Pdf Drawings/sddctea-conus-oconus-high-efficiency-presence-detection_final.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 SDDCTEA Pdf Drawings/sddctea-conus-oconus-high-efficiency-presence-detection_final.pdf",
 "extension": ".pdf",
 "Size": "1579072"
 },
 {
 "name": "sddctea-conus-oconus-stop-control-safety-system-final-20-march-15.pdf",
 "LastModified": "03/14/2018 16:14:09",
-"Key": "content/cos/nwo/acp/Library/ACP Standard Design DRAFT Electrical Drawings/SDDCTEA Pdf Drawings/sddctea-conus-oconus-stop-control-safety-system-final-20-march-15.pdf",
+"Key": "content/cos/nwo/acp/Library/Archive/2018 SDDCTEA Pdf Drawings/sddctea-conus-oconus-stop-control-safety-system-final-20-march-15.pdf",
 "extension": ".pdf",
 "Size": "448041"
 },
 {
-"name": "Access Control Point Interim Guidance.pdf",
-"LastModified": "05/20/2015 15:34:04",
-"Key": "content/cos/nwo/acp/Library/Archive/Access Control Point Interim Guidance.pdf",
-"extension": ".pdf",
-"Size": "366762"
-},
-{
-"name": "acp-standard-designcriteria-2009.pdf",
-"LastModified": "10/23/2015 15:23:04",
-"Key": "content/cos/nwo/acp/Library/Archive/acp-standard-designcriteria-2009.pdf",
-"extension": ".pdf",
-"Size": "16798757"
-},
-{
 "name": "Gatehouse, GaurdBooth, Overwatch, Canopy Drawing PDF.zip",
 "LastModified": "05/20/2015 15:34:26",
-"Key": "content/cos/nwo/acp/Library/Archive/Gatehouse, GaurdBooth, Overwatch, Canopy Drawing PDF.zip",
+"Key": "content/cos/nwo/acp/Library/Archive/Previous Drawings/Gatehouse, GaurdBooth, Overwatch, Canopy Drawing PDF.zip",
 "extension": ".zip",
 "Size": "61967926"
 },
 {
 "name": "Gatehouse, GaurdBooth, Overwatch, Canopy Sheets.zip",
 "LastModified": "05/20/2015 15:34:32",
-"Key": "content/cos/nwo/acp/Library/Archive/Gatehouse, GaurdBooth, Overwatch, Canopy Sheets.zip",
+"Key": "content/cos/nwo/acp/Library/Archive/Previous Drawings/Gatehouse, GaurdBooth, Overwatch, Canopy Sheets.zip",
 "extension": ".zip",
 "Size": "30035583"
 },
 {
+"name": "Interim Electrical Drawings Binder July 2017.pdf",
+"LastModified": "03/14/2018 16:07:45",
+"Key": "content/cos/nwo/acp/Library/Archive/Previous Drawings/Interim Electrical Drawings Binder July 2017.pdf",
+"extension": ".pdf",
+"Size": "6823608"
+},
+{
 "name": "VCC 2 Processor Non-Hardened Schedules.zip",
 "LastModified": "05/20/2015 15:34:43",
-"Key": "content/cos/nwo/acp/Library/Archive/VCC 2 Processor Non-Hardened Schedules.zip",
+"Key": "content/cos/nwo/acp/Library/Archive/Previous Drawings/VCC 2 Processor Non-Hardened Schedules.zip",
 "extension": ".zip",
 "Size": "352855"
 },
 {
 "name": "VCC 3 Processor Hardened Schedules.zip",
 "LastModified": "05/20/2015 15:34:52",
-"Key": "content/cos/nwo/acp/Library/Archive/VCC 3 Processor Hardened Schedules.zip",
+"Key": "content/cos/nwo/acp/Library/Archive/Previous Drawings/VCC 3 Processor Hardened Schedules.zip",
 "extension": ".zip",
 "Size": "210956"
 },
 {
 "name": "VCC 3 Processor Non Hardened Schedules.zip",
 "LastModified": "05/20/2015 15:35:05",
-"Key": "content/cos/nwo/acp/Library/Archive/VCC 3 Processor Non Hardened Schedules.zip",
+"Key": "content/cos/nwo/acp/Library/Archive/Previous Drawings/VCC 3 Processor Non Hardened Schedules.zip",
 "extension": ".zip",
 "Size": "210875"
 },
 {
 "name": "VCC 6 Processor Hardened Schedules.zip",
 "LastModified": "05/20/2015 15:35:18",
-"Key": "content/cos/nwo/acp/Library/Archive/VCC 6 Processor Hardened Schedules.zip",
+"Key": "content/cos/nwo/acp/Library/Archive/Previous Drawings/VCC 6 Processor Hardened Schedules.zip",
 "extension": ".zip",
 "Size": "210871"
 },
 {
 "name": "VCC 6 Processor Non Hardened Schedules.zip",
 "LastModified": "05/20/2015 15:35:30",
-"Key": "content/cos/nwo/acp/Library/Archive/VCC 6 Processor Non Hardened Schedules.zip",
+"Key": "content/cos/nwo/acp/Library/Archive/Previous Drawings/VCC 6 Processor Non Hardened Schedules.zip",
 "extension": ".zip",
 "Size": "210873"
 },
 {
 "name": "VCC 9 Processor Hardened Schedules.zip",
 "LastModified": "05/20/2015 15:35:43",
-"Key": "content/cos/nwo/acp/Library/Archive/VCC 9 Processor Hardened Schedules.zip",
+"Key": "content/cos/nwo/acp/Library/Archive/Previous Drawings/VCC 9 Processor Hardened Schedules.zip",
 "extension": ".zip",
 "Size": "59434"
 },
 {
 "name": "VCC 9 Processor Non Hardened Schedules.zip",
 "LastModified": "05/20/2015 15:36:43",
-"Key": "content/cos/nwo/acp/Library/Archive/VCC 9 Processor Non Hardened Schedules.zip",
+"Key": "content/cos/nwo/acp/Library/Archive/Previous Drawings/VCC 9 Processor Non Hardened Schedules.zip",
 "extension": ".zip",
 "Size": "65370426"
 },
 {
-"name": "Access Control Points Army Standard.pdf",
+"name": "Access Control Point Interim Guidance 2009.pdf",
+"LastModified": "05/20/2015 15:34:04",
+"Key": "content/cos/nwo/acp/Library/Archive/Previous Guidance & Criteria/Access Control Point Interim Guidance 2009.pdf",
+"extension": ".pdf",
+"Size": "366762"
+},
+{
+"name": "ACP Standard Design Criteria Jan 2009.pdf",
+"LastModified": "10/23/2015 15:23:04",
+"Key": "content/cos/nwo/acp/Library/Archive/Previous Guidance & Criteria/ACP Standard Design Criteria Jan 2009.pdf",
+"extension": ".pdf",
+"Size": "16798757"
+},
+{
+"name": "Army ACP Standard Design 2013.pdf",
+"LastModified": "05/20/2015 15:34:11",
+"Key": "content/cos/nwo/acp/Library/Archive/Previous Guidance & Criteria/Army ACP Standard Design 2013.pdf",
+"extension": ".pdf",
+"Size": "599188"
+},
+{
+"name": "Access Control Points Army Standard April 2012.pdf",
 "LastModified": "05/20/2015 15:34:05",
-"Key": "content/cos/nwo/acp/Library/Army Standards/Access Control Points Army Standard.pdf",
+"Key": "content/cos/nwo/acp/Library/Army Standards/Access Control Points Army Standard April 2012.pdf",
 "extension": ".pdf",
 "Size": "696412"
 },
@@ -6285,32 +6299,18 @@
 "Size": "885760"
 },
 {
-"name": "Army ACP Standard Design 2013.pdf",
-"LastModified": "05/20/2015 15:34:11",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/Army ACP Standard Design 2013.pdf",
-"extension": ".pdf",
-"Size": "599188"
-},
-{
-"name": "Army ACP Standard Design PDF Drawings.zip",
-"LastModified": "05/20/2015 15:34:12",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/Army ACP Standard Design PDF Drawings.zip",
-"extension": ".zip",
-"Size": "11705564"
-},
-{
-"name": "army-standard-design-2018-10.docx",
+"name": "Army ACP Standard Design Oct 2018.docx",
 "LastModified": "10/03/2018 12:50:06",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/army-standard-design-2018-10.docx",
+"Key": "content/cos/nwo/acp/Library/Standard Designs/Army ACP Standard Design Oct 2018.docx",
 "extension": ".docx",
 "Size": "399857"
 },
 {
-"name": "draft-electrical-drawings-binder.pdf",
-"LastModified": "03/14/2018 16:07:45",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/draft-electrical-drawings-binder.pdf",
-"extension": ".pdf",
-"Size": "6823608"
+"name": "Army ACP Standard Design PDF Drawings May 2013.zip",
+"LastModified": "05/20/2015 15:34:12",
+"Key": "content/cos/nwo/acp/Library/Standard Designs/Army ACP Standard Design PDF Drawings May 2013.zip",
+"extension": ".zip",
+"Size": "11705564"
 },
 {
 "name": "Gatehouse Army Standard Design Analysis.zip",
@@ -6318,6 +6318,13 @@
 "Key": "content/cos/nwo/acp/Library/Standard Designs/Gatehouse Army Standard Design Analysis.zip",
 "extension": ".zip",
 "Size": "25504160"
+},
+{
+"name": "Nov 2019 binder Interim standard design electrical sheets set.pdf",
+"LastModified": "04/21/2020 08:23:54",
+"Key": "content/cos/nwo/acp/Library/Standard Designs/Nov 2019 binder Interim standard design electrical sheets set.pdf",
+"extension": ".pdf",
+"Size": "15952825"
 },
 {
 "name": "VCC 2 Processor Non Hardened Drawing PDF.zip",
