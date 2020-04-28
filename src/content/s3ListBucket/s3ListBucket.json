@@ -7441,7 +7441,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:26",
+"LastModified": "04/28/2020 16:41:41",
 "Key": "content/cos/poh/toq/Library",
 "extension": "",
 "Size": ""
@@ -7454,10 +7454,31 @@
 "Size": "54078"
 },
 {
+"name": "Archives",
+"LastModified": "04/28/2020 16:41:49",
+"Key": "content/cos/poh/toq/Library/Archives",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Army Standards",
+"LastModified": "04/28/2020 16:39:06",
+"Key": "content/cos/poh/toq/Library/Army Standards",
+"extension": "",
+"Size": ""
+},
+{
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:25:26",
+"LastModified": "04/28/2020 16:41:49",
 "Key": "content/cos/poh/toq/Library/DD1391 Templates",
 "extension": "",
+"Size": ""
+},
+{
+"name": "Misc. Documents",
+"LastModified": "04/28/2020 16:40:52",
+"Key": "content/cos/poh/toq/Library/Misc. Documents",
+"extension": ". Documents",
 "Size": ""
 },
 {
@@ -7470,9 +7491,37 @@
 {
 "name": "transtrngofficersqtrs_fy19.pdf",
 "LastModified": "06/01/2017 21:10:28",
-"Key": "content/cos/poh/toq/Library/DD1391 Templates/transtrngofficersqtrs_fy19.pdf",
+"Key": "content/cos/poh/toq/Library/Archives/transtrngofficersqtrs_fy19.pdf",
 "extension": ".pdf",
 "Size": "9013"
+},
+{
+"name": "ORTC Army Standard Feb 2012_Transient Training Officers? Qtrs.pdf",
+"LastModified": "04/28/2020 16:39:03",
+"Key": "content/cos/poh/toq/Library/Army Standards/ORTC Army Standard Feb 2012_Transient Training Officers? Qtrs.pdf",
+"extension": ".pdf",
+"Size": "2662004"
+},
+{
+"name": "ORTC_Transient_Officers_Quarters_FY21 DD1391.pdf",
+"LastModified": "04/28/2020 16:40:17",
+"Key": "content/cos/poh/toq/Library/DD1391 Templates/ORTC_Transient_Officers_Quarters_FY21 DD1391.pdf",
+"extension": ".pdf",
+"Size": "11655"
+},
+{
+"name": "Draft VE Report -ORTC_Transient Officers Quarters.pdf",
+"LastModified": "04/28/2020 16:39:56",
+"Key": "content/cos/poh/toq/Library/Misc. Documents/Draft VE Report -ORTC_Transient Officers Quarters.pdf",
+"extension": ".pdf",
+"Size": "1151198"
+},
+{
+"name": "LEED v4 Score Card_TOQ.PDF",
+"LastModified": "04/28/2020 16:40:14",
+"Key": "content/cos/poh/toq/Library/Misc. Documents/LEED v4 Score Card_TOQ.PDF",
+"extension": ".PDF",
+"Size": "85637"
 },
 {
 "name": "TTOQ - Standard Design_Feb2013.pdf",
