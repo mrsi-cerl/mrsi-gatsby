@@ -4788,14 +4788,14 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:24:59",
+"LastModified": "05/11/2020 08:51:59",
 "Key": "content/cos/nao/cidc/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:24:59",
+"LastModified": "05/11/2020 08:52:30",
 "Key": "content/cos/nao/cidc/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -4897,6 +4897,20 @@
 "Key": "content/cos/nao/cidc/Library/Misc. Documents/flysheet.pdf",
 "extension": ".pdf",
 "Size": "21598"
+},
+{
+"name": "LEED v4 Checklist_1 PAGE_CIDC.pdf",
+"LastModified": "05/11/2020 08:50:21",
+"Key": "content/cos/nao/cidc/Library/Misc. Documents/LEED v4 Checklist_1 PAGE_CIDC.pdf",
+"extension": ".pdf",
+"Size": "607613"
+},
+{
+"name": "5_9_and_10_15_and 24PNCIDC PAR 3.pdf",
+"LastModified": "05/11/2020 08:50:14",
+"Key": "content/cos/nao/cidc/Library/Standard Designs/5_9_and_10_15_and 24PNCIDC PAR 3.pdf",
+"extension": ".pdf",
+"Size": "432941"
 },
 {
 "name": "5_9_and_10_15_and-24pncidc-par-3.pdf",
@@ -7469,7 +7483,7 @@
 },
 {
 "name": "Archives",
-"LastModified": "04/28/2020 16:41:49",
+"LastModified": "05/11/2020 08:57:43",
 "Key": "content/cos/poh/toq/Library/Archives",
 "extension": "",
 "Size": ""
@@ -7497,7 +7511,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "05/04/2020 08:40:40",
+"LastModified": "05/11/2020 08:57:43",
 "Key": "content/cos/poh/toq/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -7508,6 +7522,13 @@
 "Key": "content/cos/poh/toq/Library/Archives/transtrngofficersqtrs_fy19.pdf",
 "extension": ".pdf",
 "Size": "9013"
+},
+{
+"name": "TTOQ - Standard Design_Feb2013.pdf",
+"LastModified": "05/20/2015 15:44:35",
+"Key": "content/cos/poh/toq/Library/Archives/TTOQ - Standard Design_Feb2013.pdf",
+"extension": ".pdf",
+"Size": "323005"
 },
 {
 "name": "ORTC Army Standard Feb 2012_Transient Training Officers Qtrs.pdf",
@@ -7543,13 +7564,6 @@
 "Key": "content/cos/poh/toq/Library/Standard Designs/TOQ_ 11000-Par-3-rev 4.7_May2019.pdf",
 "extension": ".pdf",
 "Size": "317344"
-},
-{
-"name": "TTOQ - Standard Design_Feb2013.pdf",
-"LastModified": "05/20/2015 15:44:35",
-"Key": "content/cos/poh/toq/Library/Standard Designs/TTOQ - Standard Design_Feb2013.pdf",
-"extension": ".pdf",
-"Size": "323005"
 },
 {
 "name": "TTOQ Revised Floor Plans_Feb2013.pdf",
