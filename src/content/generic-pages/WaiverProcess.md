@@ -39,7 +39,7 @@ file_library_root_path: content/cos/Waiver/
 5. The MBP Manager will coordinate with the FDT and COS. Final recommendation will be provided to
    the HQUSACE DCG-MIO. The DCG-MIO will make final approval of the Standard Design Waiver
    request.
-6. ACSIM, IMCOM, the Installation, MSC, GD, and COS will be advised of the HQUSACE decision
+6. DCS G-9, IMCOM, the Installation, MSC, GD, and COS will be advised of the HQUSACE decision
    ASAP. The COS will assess approved waiver for possible permanent change to the current Standard
    Design/Criteria.
 

@@ -3,7 +3,7 @@ doc_type: facility_page
 facility_category_codes:
   - "73010"
 facility_cos_short_name: HNC
-facility_functional_proponent: OACSIM
+facility_functional_proponent: DCS, G-9
 facility_long_name: Fire Station
 facility_short_name: FS
 facility_technical_poc_email: Jelani.A.Ingram@usace.army.mil

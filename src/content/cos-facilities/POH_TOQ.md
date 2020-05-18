@@ -3,7 +3,7 @@ doc_type: facility_page
 facility_category_codes:
   - "72412"
 facility_cos_short_name: POH
-facility_functional_proponent: ACSIM Housing
+facility_functional_proponent: DCS G-9 Housing
 facility_long_name: Transient Officers Quarters
 facility_short_name: TOQ
 facility_technical_poc_email: Paul.M.Kai@usace.army.mil
