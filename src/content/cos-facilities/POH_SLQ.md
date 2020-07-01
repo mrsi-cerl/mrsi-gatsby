@@ -3,7 +3,7 @@ doc_type: facility_page
 facility_category_codes:
   - "72410"
 facility_cos_short_name: POH
-facility_functional_proponent: ACSIM Housing
+facility_functional_proponent: DCS G-9 Housing
 facility_long_name: Senior Leaders Quarters
 facility_short_name: SLQ
 facility_technical_poc_email: Paul.M.Kai@usace.army.mil

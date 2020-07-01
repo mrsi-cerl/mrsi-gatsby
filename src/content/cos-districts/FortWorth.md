@@ -12,7 +12,7 @@ cos_long_name: "Fort Worth"
 cos_short_name: "SWF"
 ---
 
-**Ft. Worth District is one of eight Centers of Standardization (COS) established by the Director of Military Programs in March 2006. The Fort Worth COS supports: Office of Assistant Chief of Staff for Installation Management (OACSIM), Installation Management Command (IMCOM), the Facilities Design Team (FDT), and the Headquarters, U.S. Army Corps of Engineers’ proponent for our assigned facility types.**
+**Ft. Worth District is one of eight Centers of Standardization (COS) established by the Director of Military Programs in March 2006. The Fort Worth COS supports: Office of Deputy Chief of Staff, G-9 (DCS, G-9), Installation Management Command (IMCOM), the Facilities Design Team (FDT), and the Headquarters, U.S. Army Corps of Engineers’ proponent for our assigned facility types.**
 
 ---
 

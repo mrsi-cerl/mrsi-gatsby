@@ -9,7 +9,7 @@ facility_category_codes:
   - "71116"
   - "71117"
 facility_cos_short_name: NAO
-facility_functional_proponent: ACSIM Housing, NAVFAC, AF
+facility_functional_proponent: DCS G-9 Housing, NAVFAC, AF
 facility_long_name: Army Family Housing
 facility_short_name: AFH
 facility_technical_poc_email: matthew.c.scanlon@usace.army.mil

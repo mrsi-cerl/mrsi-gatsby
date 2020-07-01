@@ -9,7 +9,7 @@ facility_category_codes:
   - "21406"
   - "14187"
 facility_cos_short_name: LRL
-facility_functional_proponent: DAMO-TRC, HQDA ACSIM
+facility_functional_proponent: DAMO-TRC, HQDA DCS G-9
 facility_long_name: Operational Readiness Training Complex
 facility_short_name: ORTC
 facility_technical_poc_email: Jennifer.J.Schenkenfelder@usace.army.mil
