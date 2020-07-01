@@ -9681,7 +9681,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:43",
+"LastModified": "07/01/2020 09:07:28",
 "Key": "content/cos/swf/cif/Library",
 "extension": "",
 "Size": ""
@@ -9694,6 +9694,13 @@
 "Size": "198663"
 },
 {
+"name": "Archives",
+"LastModified": "07/01/2020 09:08:40",
+"Key": "content/cos/swf/cif/Library/Archives",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Army Standards",
 "LastModified": "09/25/2019 08:25:43",
 "Key": "content/cos/swf/cif/Library/Army Standards",
@@ -9702,7 +9709,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:25:43",
+"LastModified": "07/01/2020 09:08:40",
 "Key": "content/cos/swf/cif/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -9716,17 +9723,38 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:25:43",
+"LastModified": "07/01/2020 09:07:34",
 "Key": "content/cos/swf/cif/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:25:43",
+"LastModified": "07/01/2020 09:07:03",
 "Key": "content/cos/swf/cif/Library/Standard Designs",
 "extension": "",
 "Size": ""
+},
+{
+"name": "CIF_Narrative w updated CatCode.pdf",
+"LastModified": "05/20/2015 15:47:18",
+"Key": "content/cos/swf/cif/Library/Archives/CIF_Narrative w updated CatCode.pdf",
+"extension": ".pdf",
+"Size": "49980"
+},
+{
+"name": "DD1391_Std_Template CIF Training (2).xls",
+"LastModified": "05/20/2015 15:47:15",
+"Key": "content/cos/swf/cif/Library/Archives/DD1391_Std_Template CIF Training (2).xls",
+"extension": ".xls",
+"Size": "80384"
+},
+{
+"name": "LCCAS.xlsx",
+"LastModified": "05/20/2015 15:47:18",
+"Key": "content/cos/swf/cif/Library/Archives/LCCAS.xlsx",
+"extension": ".xlsx",
+"Size": "36034"
 },
 {
 "name": "Central Issue Facility Army Standard.pdf",
@@ -9734,13 +9762,6 @@
 "Key": "content/cos/swf/cif/Library/Army Standards/Central Issue Facility Army Standard.pdf",
 "extension": ".pdf",
 "Size": "541814"
-},
-{
-"name": "DD1391_Std_Template CIF Training (2).xls",
-"LastModified": "05/20/2015 15:47:15",
-"Key": "content/cos/swf/cif/Library/DD1391 Templates/DD1391_Std_Template CIF Training (2).xls",
-"extension": ".xls",
-"Size": "80384"
 },
 {
 "name": "Fort Bragg CIF Interior.jpg",
@@ -9771,18 +9792,11 @@
 "Size": "1023518"
 },
 {
-"name": "CIF_Narrative w updated CatCode.pdf",
-"LastModified": "05/20/2015 15:47:18",
-"Key": "content/cos/swf/cif/Library/Misc. Documents/CIF_Narrative w updated CatCode.pdf",
-"extension": ".pdf",
-"Size": "49980"
-},
-{
-"name": "LCCAS.xlsx",
-"LastModified": "05/20/2015 15:47:18",
-"Key": "content/cos/swf/cif/Library/Misc. Documents/LCCAS.xlsx",
-"extension": ".xlsx",
-"Size": "36034"
+"name": "CIF LCCA REPORTS.PDF",
+"LastModified": "07/01/2020 09:06:58",
+"Key": "content/cos/swf/cif/Library/Misc. Documents/CIF LCCA REPORTS.PDF",
+"extension": ".PDF",
+"Size": "670732"
 },
 {
 "name": "CIF INITIAL ENTRY.pdf",
@@ -9797,6 +9811,13 @@
 "Key": "content/cos/swf/cif/Library/Standard Designs/CIF LARGE RFI.pdf",
 "extension": ".pdf",
 "Size": "369736"
+},
+{
+"name": "CIF Par 3 - Design Guidance.pdf",
+"LastModified": "07/01/2020 09:07:05",
+"Key": "content/cos/swf/cif/Library/Standard Designs/CIF Par 3 - Design Guidance.pdf",
+"extension": ".pdf",
+"Size": "359865"
 },
 {
 "name": "CIF VOLUME I-A w RoomByRoom_DESIGN ANALYSIS.pdf",
