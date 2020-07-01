@@ -9163,7 +9163,7 @@
 },
 {
 "name": "Archives",
-"LastModified": "09/25/2019 08:25:40",
+"LastModified": "07/01/2020 08:33:15",
 "Key": "content/cos/swf/ait/Library/Archives",
 "extension": "",
 "Size": ""
@@ -9184,14 +9184,14 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:25:40",
+"LastModified": "07/01/2020 08:33:15",
 "Key": "content/cos/swf/ait/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:25:41",
+"LastModified": "07/01/2020 08:33:41",
 "Key": "content/cos/swf/ait/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -9309,6 +9309,20 @@
 "Size": "141608"
 },
 {
+"name": "AIT Complex.JPG",
+"LastModified": "05/20/2015 15:46:52",
+"Key": "content/cos/swf/ait/Library/Archives/AIT Complex.JPG",
+"extension": ".JPG",
+"Size": "431380"
+},
+{
+"name": "ait-bim-presentation.pdf",
+"LastModified": "08/19/2015 11:01:07",
+"Key": "content/cos/swf/ait/Library/Archives/ait-bim-presentation.pdf",
+"extension": ".pdf",
+"Size": "2302624"
+},
+{
 "name": "AIT_Standard_Design_-_B-COF_and_Site.pdf",
 "LastModified": "05/20/2015 15:46:46",
 "Key": "content/cos/swf/ait/Library/Archives/AIT_Standard_Design_-_B-COF_and_Site.pdf",
@@ -9351,18 +9365,25 @@
 "Size": "1373947"
 },
 {
-"name": "AIT Complex.JPG",
-"LastModified": "05/20/2015 15:46:52",
-"Key": "content/cos/swf/ait/Library/Misc. Documents/AIT Complex.JPG",
-"extension": ".JPG",
-"Size": "431380"
+"name": "AIT LCCA Reports.pdf",
+"LastModified": "07/01/2020 08:33:00",
+"Key": "content/cos/swf/ait/Library/Misc. Documents/AIT LCCA Reports.pdf",
+"extension": ".pdf",
+"Size": "3385591"
 },
 {
-"name": "ait-bim-presentation.pdf",
-"LastModified": "08/19/2015 11:01:07",
-"Key": "content/cos/swf/ait/Library/Misc. Documents/ait-bim-presentation.pdf",
+"name": "AIT Programmatic VE Study.pdf",
+"LastModified": "07/01/2020 08:32:57",
+"Key": "content/cos/swf/ait/Library/Misc. Documents/AIT Programmatic VE Study.pdf",
 "extension": ".pdf",
-"Size": "2302624"
+"Size": "5644643"
+},
+{
+"name": "AIT Par-3 Design Guidance.pdf",
+"LastModified": "07/01/2020 08:33:42",
+"Key": "content/cos/swf/ait/Library/Standard Designs/AIT Par-3 Design Guidance.pdf",
+"extension": ".pdf",
+"Size": "524690"
 },
 {
 "name": "ait-bcof-3-story-1st-floor-plan.pdf",
@@ -9485,7 +9506,7 @@
 },
 {
 "name": "Archives",
-"LastModified": "10/29/2019 13:19:39",
+"LastModified": "07/01/2020 08:36:31",
 "Key": "content/cos/swf/bt-osut/Library/Archives",
 "extension": "",
 "Size": ""
@@ -9506,17 +9527,59 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:25:42",
+"LastModified": "07/01/2020 08:35:55",
 "Key": "content/cos/swf/bt-osut/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:25:42",
+"LastModified": "07/01/2020 08:36:31",
 "Key": "content/cos/swf/bt-osut/Library/Standard Designs",
 "extension": "",
 "Size": ""
+},
+{
+"name": "BT 3-Story BCOF 11 x 17 Plot Sheet A101.pdf",
+"LastModified": "05/20/2015 15:47:09",
+"Key": "content/cos/swf/bt-osut/Library/Archives/BT 3-Story BCOF 11 x 17 Plot Sheet A101.pdf",
+"extension": ".pdf",
+"Size": "152174"
+},
+{
+"name": "BT 3-Story BCOF 11 x 17 Plot Sheet A102.pdf",
+"LastModified": "05/20/2015 15:47:09",
+"Key": "content/cos/swf/bt-osut/Library/Archives/BT 3-Story BCOF 11 x 17 Plot Sheet A102.pdf",
+"extension": ".pdf",
+"Size": "169941"
+},
+{
+"name": "BT 3-Story BCOF 11 x 17 Plot Sheet A103.pdf",
+"LastModified": "05/20/2015 15:47:09",
+"Key": "content/cos/swf/bt-osut/Library/Archives/BT 3-Story BCOF 11 x 17 Plot Sheet A103.pdf",
+"extension": ".pdf",
+"Size": "164730"
+},
+{
+"name": "BT BnHQ 11X17 PLOT SHEET A202.pdf",
+"LastModified": "05/20/2015 15:47:10",
+"Key": "content/cos/swf/bt-osut/Library/Archives/BT BnHQ 11X17 PLOT SHEET A202.pdf",
+"extension": ".pdf",
+"Size": "109248"
+},
+{
+"name": "BT_OSUT narrative.pdf",
+"LastModified": "05/20/2015 15:47:08",
+"Key": "content/cos/swf/bt-osut/Library/Archives/BT_OSUT narrative.pdf",
+"extension": ".pdf",
+"Size": "50388"
+},
+{
+"name": "LCCAS.xlsx",
+"LastModified": "05/20/2015 15:47:08",
+"Key": "content/cos/swf/bt-osut/Library/Archives/LCCAS.xlsx",
+"extension": ".xlsx",
+"Size": "36034"
 },
 {
 "name": "BT_OSUT complexes Army Standard.pdf",
@@ -9547,39 +9610,18 @@
 "Size": "242610"
 },
 {
-"name": "BT_OSUT narrative.pdf",
-"LastModified": "05/20/2015 15:47:08",
-"Key": "content/cos/swf/bt-osut/Library/Misc. Documents/BT_OSUT narrative.pdf",
+"name": "BT OSUT LCCA Reports.pdf",
+"LastModified": "07/01/2020 08:35:16",
+"Key": "content/cos/swf/bt-osut/Library/Misc. Documents/BT OSUT LCCA Reports.pdf",
 "extension": ".pdf",
-"Size": "50388"
+"Size": "3510421"
 },
 {
-"name": "LCCAS.xlsx",
-"LastModified": "05/20/2015 15:47:08",
-"Key": "content/cos/swf/bt-osut/Library/Misc. Documents/LCCAS.xlsx",
-"extension": ".xlsx",
-"Size": "36034"
-},
-{
-"name": "BT 3-Story BCOF 11 x 17 Plot Sheet A101.pdf",
-"LastModified": "05/20/2015 15:47:09",
-"Key": "content/cos/swf/bt-osut/Library/Standard Designs/BT 3-Story BCOF 11 x 17 Plot Sheet A101.pdf",
+"name": "BT OSUT Programmtic VE Study.pdf",
+"LastModified": "07/01/2020 08:35:12",
+"Key": "content/cos/swf/bt-osut/Library/Misc. Documents/BT OSUT Programmtic VE Study.pdf",
 "extension": ".pdf",
-"Size": "152174"
-},
-{
-"name": "BT 3-Story BCOF 11 x 17 Plot Sheet A102.pdf",
-"LastModified": "05/20/2015 15:47:09",
-"Key": "content/cos/swf/bt-osut/Library/Standard Designs/BT 3-Story BCOF 11 x 17 Plot Sheet A102.pdf",
-"extension": ".pdf",
-"Size": "169941"
-},
-{
-"name": "BT 3-Story BCOF 11 x 17 Plot Sheet A103.pdf",
-"LastModified": "05/20/2015 15:47:09",
-"Key": "content/cos/swf/bt-osut/Library/Standard Designs/BT 3-Story BCOF 11 x 17 Plot Sheet A103.pdf",
-"extension": ".pdf",
-"Size": "164730"
+"Size": "2936640"
 },
 {
 "name": "BT BCOF - sample set.pdf",
@@ -9587,13 +9629,6 @@
 "Key": "content/cos/swf/bt-osut/Library/Standard Designs/BT BCOF - sample set.pdf",
 "extension": ".pdf",
 "Size": "995059"
-},
-{
-"name": "BT BnHQ 11X17 PLOT SHEET A202.pdf",
-"LastModified": "05/20/2015 15:47:10",
-"Key": "content/cos/swf/bt-osut/Library/Standard Designs/BT BnHQ 11X17 PLOT SHEET A202.pdf",
-"extension": ".pdf",
-"Size": "109248"
 },
 {
 "name": "BT BNHQ DEPARTMENT.jpg",
@@ -9615,6 +9650,13 @@
 "Key": "content/cos/swf/bt-osut/Library/Standard Designs/BT LEB DEPARTMENT.jpg",
 "extension": ".jpg",
 "Size": "565718"
+},
+{
+"name": "BT OSUT Par 3 - Design Guidance.pdf",
+"LastModified": "07/01/2020 08:35:28",
+"Key": "content/cos/swf/bt-osut/Library/Standard Designs/BT OSUT Par 3 - Design Guidance.pdf",
+"extension": ".pdf",
+"Size": "604036"
 },
 {
 "name": "BT_BCOF_DEPARTMENT FL 1.jpg",
@@ -9926,7 +9968,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:44",
+"LastModified": "07/01/2020 08:41:11",
 "Key": "content/cos/swf/gpw/Library",
 "extension": "",
 "Size": ""
@@ -9939,6 +9981,13 @@
 "Size": "118939"
 },
 {
+"name": "Archives",
+"LastModified": "07/01/2020 08:41:18",
+"Key": "content/cos/swf/gpw/Library/Archives",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Installation Projects",
 "LastModified": "09/25/2019 08:25:44",
 "Key": "content/cos/swf/gpw/Library/Installation Projects",
@@ -9947,7 +9996,7 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:25:44",
+"LastModified": "07/01/2020 08:41:18",
 "Key": "content/cos/swf/gpw/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -9960,6 +10009,13 @@
 "Size": ""
 },
 {
+"name": "LCCAS.xlsx",
+"LastModified": "05/20/2015 15:47:27",
+"Key": "content/cos/swf/gpw/Library/Archives/LCCAS.xlsx",
+"extension": ".xlsx",
+"Size": "36034"
+},
+{
 "name": "Fort Polk GPW industrial mezzanine.JPG",
 "LastModified": "05/20/2015 15:47:26",
 "Key": "content/cos/swf/gpw/Library/Installation Projects/Fort Polk GPW industrial mezzanine.JPG",
@@ -9967,11 +10023,11 @@
 "Size": "1822123"
 },
 {
-"name": "LCCAS.xlsx",
-"LastModified": "05/20/2015 15:47:27",
-"Key": "content/cos/swf/gpw/Library/Misc. Documents/LCCAS.xlsx",
-"extension": ".xlsx",
-"Size": "36034"
+"name": "GPW LCCA REPORTS.PDF",
+"LastModified": "07/01/2020 08:38:59",
+"Key": "content/cos/swf/gpw/Library/Misc. Documents/GPW LCCA REPORTS.PDF",
+"extension": ".PDF",
+"Size": "699050"
 },
 {
 "name": "CLIMATE ZONE 2A - GPW LARGE_CONC_ARCH.pdf",
@@ -12880,17 +12936,17 @@
 },
 {
 "name": "SD Waiver Concurrence form (2018).doc",
-"LastModified": "06/12/2018 13:29:57",
+"LastModified": "05/18/2020 13:56:46",
 "Key": "content/cos/Waiver/SD Waiver Concurrence form (2018).doc",
 "extension": ".doc",
-"Size": "38912"
+"Size": "28672"
 },
 {
 "name": "SD Waiver Update (May 11).pdf",
-"LastModified": "10/04/2019 14:06:37",
+"LastModified": "05/18/2020 12:58:05",
 "Key": "content/cos/Waiver/SD Waiver Update (May 11).pdf",
 "extension": ".pdf",
-"Size": "42207"
+"Size": "178638"
 },
 {
 "name": "Carousel",
