@@ -5516,7 +5516,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "02/06/2020 11:19:41",
+"LastModified": "07/20/2020 16:35:54",
 "Key": "content/cos/nao/infosys/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -5548,13 +5548,6 @@
 "Key": "content/cos/nao/infosys/Library/Standard Designs/ISF Facility Planner_May2013.xls",
 "extension": ".xls",
 "Size": "72192"
-},
-{
-"name": "ISF Standards_Jun2014.pdf",
-"LastModified": "05/20/2015 15:32:58",
-"Key": "content/cos/nao/infosys/Library/Standard Designs/ISF Standards_Jun2014.pdf",
-"extension": ".pdf",
-"Size": "1257294"
 },
 {
 "name": "isf-standards_sep2018.pdf",
@@ -6594,7 +6587,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/26/2019 16:36:37",
+"LastModified": "07/20/2020 16:58:45",
 "Key": "content/cos/nwo/chapels/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -6880,32 +6873,11 @@
 "Size": "2270293"
 },
 {
-"name": "FY 15 Large Basic Chapel Standard Design.pdf",
-"LastModified": "05/20/2015 15:42:38",
-"Key": "content/cos/nwo/chapels/Library/Standard Designs/FY 15 Large Basic Chapel Standard Design.pdf",
-"extension": ".pdf",
-"Size": "1093546"
-},
-{
 "name": "FY 15 Large Compact Chapel Standard Design.pdf",
 "LastModified": "05/20/2015 15:42:38",
 "Key": "content/cos/nwo/chapels/Library/Standard Designs/FY 15 Large Compact Chapel Standard Design.pdf",
 "extension": ".pdf",
 "Size": "1284398"
-},
-{
-"name": "FY 15 Large Enhanced Chapel Standard Design.pdf",
-"LastModified": "05/20/2015 15:42:39",
-"Key": "content/cos/nwo/chapels/Library/Standard Designs/FY 15 Large Enhanced Chapel Standard Design.pdf",
-"extension": ".pdf",
-"Size": "1123376"
-},
-{
-"name": "FY 15 Medium Basic Chapel Standard Design.pdf",
-"LastModified": "05/20/2015 15:42:39",
-"Key": "content/cos/nwo/chapels/Library/Standard Designs/FY 15 Medium Basic Chapel Standard Design.pdf",
-"extension": ".pdf",
-"Size": "3634064"
 },
 {
 "name": "FY 15 Medium Compact Chapel Standard Design.pdf",
@@ -6915,32 +6887,11 @@
 "Size": "3334079"
 },
 {
-"name": "FY 15 Medium Enhanced Chapel Standard Design.pdf",
-"LastModified": "05/20/2015 15:42:41",
-"Key": "content/cos/nwo/chapels/Library/Standard Designs/FY 15 Medium Enhanced Chapel Standard Design.pdf",
-"extension": ".pdf",
-"Size": "3151434"
-},
-{
-"name": "FY 15 Small Basic Chapel Standard Design.pdf",
-"LastModified": "05/20/2015 15:42:41",
-"Key": "content/cos/nwo/chapels/Library/Standard Designs/FY 15 Small Basic Chapel Standard Design.pdf",
-"extension": ".pdf",
-"Size": "4460824"
-},
-{
 "name": "FY 15 Small Compact Chapel Standard Design.pdf",
 "LastModified": "05/20/2015 15:42:42",
 "Key": "content/cos/nwo/chapels/Library/Standard Designs/FY 15 Small Compact Chapel Standard Design.pdf",
 "extension": ".pdf",
 "Size": "3388773"
-},
-{
-"name": "FY 15 Small Enhanced Chapel Standard Design.pdf",
-"LastModified": "05/20/2015 15:42:43",
-"Key": "content/cos/nwo/chapels/Library/Standard Designs/FY 15 Small Enhanced Chapel Standard Design.pdf",
-"extension": ".pdf",
-"Size": "3727580"
 },
 {
 "name": "leed-v4-for-building-design-and-construction-_checklist.pdf",
@@ -6986,7 +6937,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/26/2019 16:37:31",
+"LastModified": "07/20/2020 16:47:35",
 "Key": "content/cos/nwo/flc/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -7039,13 +6990,6 @@
 "Key": "content/cos/nwo/flc/Library/Standard Designs/Appendix D - Drawings (FY 12 Chaplain Family Life Center Facility).pdf",
 "extension": ".pdf",
 "Size": "150476"
-},
-{
-"name": "FY 12 Chaplain Family Life Center Standard Design.pdf",
-"LastModified": "05/20/2015 15:42:47",
-"Key": "content/cos/nwo/flc/Library/Standard Designs/FY 12 Chaplain Family Life Center Standard Design.pdf",
-"extension": ".pdf",
-"Size": "1256772"
 },
 {
 "name": "leed-v4-for-building-design-and-construction-_checklist.pdf",
@@ -7280,7 +7224,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:25:25",
+"LastModified": "07/20/2020 16:43:47",
 "Key": "content/cos/nwo/ref/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -7340,27 +7284,6 @@
 "Key": "content/cos/nwo/ref/Library/Misc. Documents/Furniture and Equipment Guidance.docx",
 "extension": ".docx",
 "Size": "37285"
-},
-{
-"name": "2013 - Large Religious Education Facility Standard Design.pdf",
-"LastModified": "05/20/2015 15:44:00",
-"Key": "content/cos/nwo/ref/Library/Standard Designs/2013 - Large Religious Education Facility Standard Design.pdf",
-"extension": ".pdf",
-"Size": "898669"
-},
-{
-"name": "2013 - Medium Religious Education Facility Standard Design.pdf",
-"LastModified": "05/20/2015 15:44:00",
-"Key": "content/cos/nwo/ref/Library/Standard Designs/2013 - Medium Religious Education Facility Standard Design.pdf",
-"extension": ".pdf",
-"Size": "2022479"
-},
-{
-"name": "2013 - Small Religious Education Facility Standard Design.pdf",
-"LastModified": "05/20/2015 15:44:01",
-"Key": "content/cos/nwo/ref/Library/Standard Designs/2013 - Small Religious Education Facility Standard Design.pdf",
-"extension": ".pdf",
-"Size": "1905399"
 },
 {
 "name": "Appendix D - Drawings (Large Religious Education Facility).pdf",
@@ -9184,7 +9107,7 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "07/01/2020 08:33:15",
+"LastModified": "07/21/2020 08:31:39",
 "Key": "content/cos/swf/ait/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -9365,20 +9288,6 @@
 "Size": "1373947"
 },
 {
-"name": "AIT LCCA Reports.pdf",
-"LastModified": "07/01/2020 08:33:00",
-"Key": "content/cos/swf/ait/Library/Misc. Documents/AIT LCCA Reports.pdf",
-"extension": ".pdf",
-"Size": "3385591"
-},
-{
-"name": "AIT Programmatic VE Study.pdf",
-"LastModified": "07/01/2020 08:32:57",
-"Key": "content/cos/swf/ait/Library/Misc. Documents/AIT Programmatic VE Study.pdf",
-"extension": ".pdf",
-"Size": "5644643"
-},
-{
 "name": "AIT Par-3 Design Guidance.pdf",
 "LastModified": "07/01/2020 08:33:42",
 "Key": "content/cos/swf/ait/Library/Standard Designs/AIT Par-3 Design Guidance.pdf",
@@ -9527,7 +9436,7 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "07/01/2020 08:35:55",
+"LastModified": "07/21/2020 08:32:33",
 "Key": "content/cos/swf/bt-osut/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -9608,20 +9517,6 @@
 "Key": "content/cos/swf/bt-osut/Library/Misc. Documents/BT Complex Brochure.pdf",
 "extension": ".pdf",
 "Size": "242610"
-},
-{
-"name": "BT OSUT LCCA Reports.pdf",
-"LastModified": "07/01/2020 08:35:16",
-"Key": "content/cos/swf/bt-osut/Library/Misc. Documents/BT OSUT LCCA Reports.pdf",
-"extension": ".pdf",
-"Size": "3510421"
-},
-{
-"name": "BT OSUT Programmtic VE Study.pdf",
-"LastModified": "07/01/2020 08:35:12",
-"Key": "content/cos/swf/bt-osut/Library/Misc. Documents/BT OSUT Programmtic VE Study.pdf",
-"extension": ".pdf",
-"Size": "2936640"
 },
 {
 "name": "BT BCOF - sample set.pdf",
@@ -9723,7 +9618,7 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "07/01/2020 09:07:34",
+"LastModified": "07/21/2020 08:33:32",
 "Key": "content/cos/swf/cif/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -9790,13 +9685,6 @@
 "Key": "content/cos/swf/cif/Library/Misc. Documents/CIF Exterior Sheet A301.pdf",
 "extension": ".pdf",
 "Size": "1023518"
-},
-{
-"name": "CIF LCCA REPORTS.PDF",
-"LastModified": "07/01/2020 09:06:58",
-"Key": "content/cos/swf/cif/Library/Misc. Documents/CIF LCCA REPORTS.PDF",
-"extension": ".PDF",
-"Size": "670732"
 },
 {
 "name": "CIF INITIAL ENTRY.pdf",
@@ -10017,7 +9905,7 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "07/01/2020 08:41:18",
+"LastModified": "07/21/2020 08:34:45",
 "Key": "content/cos/swf/gpw/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -10042,13 +9930,6 @@
 "Key": "content/cos/swf/gpw/Library/Installation Projects/Fort Polk GPW industrial mezzanine.JPG",
 "extension": ".JPG",
 "Size": "1822123"
-},
-{
-"name": "GPW LCCA REPORTS.PDF",
-"LastModified": "07/01/2020 08:38:59",
-"Key": "content/cos/swf/gpw/Library/Misc. Documents/GPW LCCA REPORTS.PDF",
-"extension": ".PDF",
-"Size": "699050"
 },
 {
 "name": "CLIMATE ZONE 2A - GPW LARGE_CONC_ARCH.pdf",
@@ -10108,17 +9989,24 @@
 },
 {
 "name": "Archives",
-"LastModified": "09/25/2019 08:25:44",
+"LastModified": "07/21/2020 08:18:14",
 "Key": "content/cos/swf/rsb/Library/Archives",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:25:44",
+"LastModified": "07/21/2020 08:18:51",
 "Key": "content/cos/swf/rsb/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
+},
+{
+"name": "LCCAS.xlsx",
+"LastModified": "05/20/2015 15:47:32",
+"Key": "content/cos/swf/rsb/Library/Archives/LCCAS.xlsx",
+"extension": ".xlsx",
+"Size": "36034"
 },
 {
 "name": "RB 11 x 17 Plot Sheet A101.pdf",
@@ -10149,13 +10037,6 @@
 "Size": "4889828"
 },
 {
-"name": "LCCAS.xlsx",
-"LastModified": "05/20/2015 15:47:32",
-"Key": "content/cos/swf/rsb/Library/Misc. Documents/LCCAS.xlsx",
-"extension": ".xlsx",
-"Size": "36034"
-},
-{
 "name": "Planning Criteria for Soldier Readiness Processing.pdf",
 "LastModified": "05/20/2015 15:47:32",
 "Key": "content/cos/swf/rsb/Library/Misc. Documents/Planning Criteria for Soldier Readiness Processing.pdf",
@@ -10164,7 +10045,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:45",
+"LastModified": "07/21/2020 08:29:27",
 "Key": "content/cos/swf/ssa/Library",
 "extension": "",
 "Size": ""
@@ -10178,7 +10059,7 @@
 },
 {
 "name": "Archives",
-"LastModified": "09/25/2019 08:25:45",
+"LastModified": "07/21/2020 08:29:47",
 "Key": "content/cos/swf/ssa/Library/Archives",
 "extension": "",
 "Size": ""
@@ -10198,22 +10079,15 @@
 "Size": ""
 },
 {
-"name": "Installation Projects",
-"LastModified": "09/25/2019 08:25:45",
-"Key": "content/cos/swf/ssa/Library/Installation Projects",
-"extension": "",
-"Size": ""
-},
-{
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:25:45",
+"LastModified": "07/21/2020 08:29:47",
 "Key": "content/cos/swf/ssa/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:25:45",
+"LastModified": "07/21/2020 08:29:05",
 "Key": "content/cos/swf/ssa/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -10224,6 +10098,20 @@
 "Key": "content/cos/swf/ssa/Library/TEMF to SSA Conversion",
 "extension": "",
 "Size": ""
+},
+{
+"name": "44220_Fort Bliss SSA_template_drawings.pdf",
+"LastModified": "05/20/2015 15:47:34",
+"Key": "content/cos/swf/ssa/Library/Archives/44220_Fort Bliss SSA_template_drawings.pdf",
+"extension": ".pdf",
+"Size": "1575582"
+},
+{
+"name": "LCCAS.xlsx",
+"LastModified": "05/20/2015 15:47:35",
+"Key": "content/cos/swf/ssa/Library/Archives/LCCAS.xlsx",
+"extension": ".xlsx",
+"Size": "36034"
 },
 {
 "name": "SUPERSEDED_DD 1391 SupplySptActWarehouse FY13.pdf",
@@ -10254,25 +10142,25 @@
 "Size": "9638"
 },
 {
-"name": "44220_Fort Bliss SSA_template_drawings.pdf",
-"LastModified": "05/20/2015 15:47:34",
-"Key": "content/cos/swf/ssa/Library/Installation Projects/44220_Fort Bliss SSA_template_drawings.pdf",
+"name": "SSA LEED v4 Checklist.pdf",
+"LastModified": "07/21/2020 08:23:25",
+"Key": "content/cos/swf/ssa/Library/Misc. Documents/SSA LEED v4 Checklist.pdf",
 "extension": ".pdf",
-"Size": "1575582"
+"Size": "179409"
+},
+{
+"name": "SSA Programmatic VE Study Report.pdf",
+"LastModified": "07/21/2020 08:23:12",
+"Key": "content/cos/swf/ssa/Library/Misc. Documents/SSA Programmatic VE Study Report.pdf",
+"extension": ".pdf",
+"Size": "2126981"
 },
 {
 "name": "44220_SSA_model_Site_plan.pdf",
 "LastModified": "05/20/2015 15:47:35",
-"Key": "content/cos/swf/ssa/Library/Installation Projects/44220_SSA_model_Site_plan.pdf",
+"Key": "content/cos/swf/ssa/Library/Standard Designs/44220_SSA_model_Site_plan.pdf",
 "extension": ".pdf",
 "Size": "532941"
-},
-{
-"name": "LCCAS.xlsx",
-"LastModified": "05/20/2015 15:47:35",
-"Key": "content/cos/swf/ssa/Library/Misc. Documents/LCCAS.xlsx",
-"extension": ".xlsx",
-"Size": "36034"
 },
 {
 "name": "CLIMATE ZONE 3A - SSA_ARCH.pdf",
@@ -10308,6 +10196,13 @@
 "Key": "content/cos/swf/ssa/Library/Standard Designs/CLIMATE ZONE 5B- SSA WAREHOUSE_ARCH.pdf",
 "extension": ".pdf",
 "Size": "3654527"
+},
+{
+"name": "SSA Par 3 - Design Guidance.pdf",
+"LastModified": "07/21/2020 08:23:08",
+"Key": "content/cos/swf/ssa/Library/Standard Designs/SSA Par 3 - Design Guidance.pdf",
+"extension": ".pdf",
+"Size": "271841"
 },
 {
 "name": "SSA Warehouse 11X17 PLOT SHEET A101.pdf",
@@ -10479,7 +10374,7 @@
 },
 {
 "name": "Library",
-"LastModified": "11/14/2019 14:18:04",
+"LastModified": "07/21/2020 08:25:20",
 "Key": "content/cos/swf/ueph/Library",
 "extension": "",
 "Size": ""
@@ -10492,8 +10387,15 @@
 "Size": "152960"
 },
 {
+"name": "Archives",
+"LastModified": "07/21/2020 08:25:40",
+"Key": "content/cos/swf/ueph/Library/Archives",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:25:47",
+"LastModified": "07/21/2020 08:25:24",
 "Key": "content/cos/swf/ueph/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -10507,22 +10409,29 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:25:47",
+"LastModified": "07/21/2020 08:25:40",
 "Key": "content/cos/swf/ueph/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:25:47",
+"LastModified": "07/21/2020 08:24:28",
 "Key": "content/cos/swf/ueph/Library/Standard Designs",
 "extension": "",
 "Size": ""
 },
 {
+"name": "Ft Benning Renewable Energy (UEPH).pdf",
+"LastModified": "05/20/2015 15:47:54",
+"Key": "content/cos/swf/ueph/Library/Archives/Ft Benning Renewable Energy (UEPH).pdf",
+"extension": ".pdf",
+"Size": "367026"
+},
+{
 "name": "ueph-pp-barracks-army-standard-2003.pdf",
 "LastModified": "06/27/2016 10:52:39",
-"Key": "content/cos/swf/ueph/Library/Army Standards/ueph-pp-barracks-army-standard-2003.pdf",
+"Key": "content/cos/swf/ueph/Library/Archives/ueph-pp-barracks-army-standard-2003.pdf",
 "extension": ".pdf",
 "Size": "6394991"
 },
@@ -10548,18 +10457,18 @@
 "Size": "12026"
 },
 {
-"name": "Ft Benning Renewable Energy (UEPH).pdf",
-"LastModified": "05/20/2015 15:47:54",
-"Key": "content/cos/swf/ueph/Library/Misc. Documents/Ft Benning Renewable Energy (UEPH).pdf",
-"extension": ".pdf",
-"Size": "367026"
-},
-{
 "name": "Rendering_UEPH.JPG",
 "LastModified": "05/20/2015 15:47:56",
 "Key": "content/cos/swf/ueph/Library/Misc. Documents/Rendering_UEPH.JPG",
 "extension": ".JPG",
 "Size": "7999964"
+},
+{
+"name": "UEPH LEED v4 Checklist.pdf",
+"LastModified": "07/21/2020 08:20:40",
+"Key": "content/cos/swf/ueph/Library/Misc. Documents/UEPH LEED v4 Checklist.pdf",
+"extension": ".pdf",
+"Size": "114065"
 },
 {
 "name": "UEPH.jpg",
@@ -10574,6 +10483,13 @@
 "Key": "content/cos/swf/ueph/Library/Standard Designs/UEPH 2-1 Market Style Design_20Apr12 Std Design.pdf",
 "extension": ".pdf",
 "Size": "1088384"
+},
+{
+"name": "UEPH Par 3 - Design Guidance.pdf",
+"LastModified": "07/21/2020 08:20:36",
+"Key": "content/cos/swf/ueph/Library/Standard Designs/UEPH Par 3 - Design Guidance.pdf",
+"extension": ".pdf",
+"Size": "413722"
 },
 {
 "name": "Library",
@@ -14833,7 +14749,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:26:39",
+"LastModified": "07/16/2020 11:51:44",
 "Key": "content/sustain/Library",
 "extension": "",
 "Size": ""
@@ -21256,13 +21172,6 @@
 "Key": "content/sustain/Library/army-contract-review-guidance-oct-2016.docx",
 "extension": ".docx",
 "Size": "45650"
-},
-{
-"name": "opord-2014-80-publication-of-usace-campaign-plan-fy15-19-_signed.pdf",
-"LastModified": "04/23/2015 08:03:57",
-"Key": "content/sustain/Library/opord-2014-80-publication-of-usace-campaign-plan-fy15-19-_signed.pdf",
-"extension": ".pdf",
-"Size": "7214761"
 },
 {
 "name": "2011_eisa_study.pdf",

@@ -28,5 +28,3 @@ Each occupant is allotted 375 gross square feet in buildings three stories or le
 As the UEPH is designed to meet the installations' immediate needs and the local site conditions vary, the building shapes are open to flexible design and are blended with the other installations at the facility to enhance the community atmosphere. The occupancy size, exterior facade and shape of the UEPH will vary from one installation to another.
 
 The Garrison Commander has discretion to add support space for the Mail Access area, Mudroom (interior) or Boot Wash (exterior), or Activity/Dayroom.
-
-The Army Standard for Unaccompanied Enlisted Personnel Housing (UEPH) approved 10 JULY 2012 shall be used for FY15 and beyond, and FY14 where feasible.

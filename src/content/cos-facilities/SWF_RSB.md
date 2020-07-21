@@ -18,7 +18,7 @@ carousel_images:
 ## Description
 
 Reception Station Barracks are required by the Army to house single trainee soldiers and company administrative, training and command operations.
-A new Army standard for this facility is under development, with expected completion date August, 2014. Following approval and publication of new standard, contents of this webpage will be updated to reflect a new 1391 template, and standard design configurations.
+A new Army standard for this facility is under development. Following approval and publication of new standard, contents of this webpage will be updated to reflect a new 1391 template, and standard design configurations.
 
 ## Variations
 
