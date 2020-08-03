@@ -805,7 +805,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:24:25",
+"LastModified": "08/03/2020 09:47:54",
 "Key": "content/cos/hnc/cdc/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -1071,17 +1071,17 @@
 },
 {
 "name": "Archive",
-"LastModified": "09/25/2019 08:24:27",
+"LastModified": "08/03/2020 09:47:54",
 "Key": "content/cos/hnc/cdc/Library/Standard Designs/Archive",
 "extension": "",
 "Size": ""
 },
 {
-"name": "cdc-0-5_-room-by-room-description_final_20190411.pdf",
-"LastModified": "04/11/2019 08:27:11",
-"Key": "content/cos/hnc/cdc/Library/Standard Designs/cdc-0-5_-room-by-room-description_final_20190411.pdf",
+"name": "Room By Room Design Criteria_CDC-0-5 (July2020).pdf",
+"LastModified": "08/03/2020 09:42:48",
+"Key": "content/cos/hnc/cdc/Library/Standard Designs/Room By Room Design Criteria_CDC-0-5 (July2020).pdf",
 "extension": ".pdf",
-"Size": "5228241"
+"Size": "5412705"
 },
 {
 "name": "standard-drawings-cad-cdc-0-5-large-feb-2019.zip",
@@ -1124,6 +1124,13 @@
 "Key": "content/cos/hnc/cdc/Library/Standard Designs/standard-drawings-pdf-cdc-0-5-small-sept-30.pdf",
 "extension": ".pdf",
 "Size": "468000"
+},
+{
+"name": "cdc-0-5_-room-by-room-description_final_20190411.pdf",
+"LastModified": "04/11/2019 08:27:11",
+"Key": "content/cos/hnc/cdc/Library/Standard Designs/Archive/cdc-0-5_-room-by-room-description_final_20190411.pdf",
+"extension": ".pdf",
+"Size": "5228241"
 },
 {
 "name": "Standard_Drawings1_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
@@ -13489,7 +13496,7 @@
 },
 {
 "name": "Policy",
-"LastModified": "09/25/2019 08:26:17",
+"LastModified": "08/03/2020 09:50:47",
 "Key": "content/PDRS/Policy",
 "extension": "",
 "Size": ""
@@ -13946,6 +13953,13 @@
 "name": "FY22 Guidance and Templates",
 "LastModified": "10/10/2019 08:39:34",
 "Key": "content/PDRS/Policy/FY22 Guidance and Templates",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY23 Guidance and Templates",
+"LastModified": "08/03/2020 09:51:02",
+"Key": "content/PDRS/Policy/FY23 Guidance and Templates",
 "extension": "",
 "Size": ""
 },
@@ -14732,6 +14746,13 @@
 "Key": "content/PDRS/Policy/FY22 Guidance and Templates/fy22-timeline.pdf",
 "extension": ".pdf",
 "Size": "108738"
+},
+{
+"name": "Code 2 Guidance_Templates_Appendices Portfolio.pdf",
+"LastModified": "08/03/2020 09:43:50",
+"Key": "content/PDRS/Policy/FY23 Guidance and Templates/Code 2 Guidance_Templates_Appendices Portfolio.pdf",
+"extension": ".pdf",
+"Size": "3002443"
 },
 {
 "name": "backup",
