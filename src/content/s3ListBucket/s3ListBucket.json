@@ -5810,7 +5810,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "04/21/2020 08:33:34",
+"LastModified": "08/03/2020 12:12:31",
 "Key": "content/cos/nwo/acp/Library/Archive",
 "extension": "",
 "Size": ""
@@ -5824,7 +5824,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:25:10",
+"LastModified": "08/03/2020 12:12:41",
 "Key": "content/cos/nwo/acp/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -5877,6 +5877,13 @@
 "Key": "content/cos/nwo/acp/Library/Archive/Previous Guidance & Criteria",
 "extension": "",
 "Size": ""
+},
+{
+"name": "acp-facility-costs-100918.xls",
+"LastModified": "10/10/2018 09:27:09",
+"Key": "content/cos/nwo/acp/Library/Archive/acp-facility-costs-100918.xls",
+"extension": ".xls",
+"Size": "885760"
 },
 {
 "name": "acp-stdg-bsd.dgn",
@@ -6320,11 +6327,32 @@
 "Size": "21417"
 },
 {
-"name": "acp-facility-costs-100918.xls",
-"LastModified": "10/10/2018 09:27:09",
-"Key": "content/cos/nwo/acp/Library/DD1391 Templates/acp-facility-costs-100918.xls",
-"extension": ".xls",
-"Size": "885760"
+"name": "ACP Corridor and Parking Insert.pdf",
+"LastModified": "08/03/2020 12:00:25",
+"Key": "content/cos/nwo/acp/Library/DD1391 Templates/ACP Corridor and Parking Insert.pdf",
+"extension": ".pdf",
+"Size": "247317"
+},
+{
+"name": "ACP Facility Costs 072020 protected.xlsx",
+"LastModified": "08/03/2020 12:00:24",
+"Key": "content/cos/nwo/acp/Library/DD1391 Templates/ACP Facility Costs 072020 protected.xlsx",
+"extension": ".xlsx",
+"Size": "752109"
+},
+{
+"name": "Parking Areas Insert.pdf",
+"LastModified": "08/03/2020 12:00:26",
+"Key": "content/cos/nwo/acp/Library/DD1391 Templates/Parking Areas Insert.pdf",
+"extension": ".pdf",
+"Size": "209087"
+},
+{
+"name": "Search Area Roads Insert.pdf",
+"LastModified": "08/03/2020 12:00:37",
+"Key": "content/cos/nwo/acp/Library/DD1391 Templates/Search Area Roads Insert.pdf",
+"extension": ".pdf",
+"Size": "207545"
 },
 {
 "name": "Army ACP Standard Design Oct 2018.docx",
