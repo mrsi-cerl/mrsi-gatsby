@@ -770,7 +770,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "10/03/2019 11:24:10",
+"LastModified": "08/11/2020 13:09:52",
 "Key": "content/cos/hnc/cdc/Library/Archive",
 "extension": "",
 "Size": ""
@@ -805,7 +805,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "08/03/2020 09:47:54",
+"LastModified": "08/11/2020 13:10:24",
 "Key": "content/cos/hnc/cdc/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -821,6 +821,13 @@
 "name": "Energy Models",
 "LastModified": "09/27/2019 14:19:16",
 "Key": "content/cos/hnc/cdc/Library/Archive/Energy Models",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Standard Designs",
+"LastModified": "08/11/2020 13:10:14",
+"Key": "content/cos/hnc/cdc/Library/Archive/Standard Designs",
 "extension": "",
 "Size": ""
 },
@@ -914,6 +921,55 @@
 "Key": "content/cos/hnc/cdc/Library/Archive/Energy Models/Energy Model - CDC_0-5 Small.pdf",
 "extension": ".pdf",
 "Size": "6110397"
+},
+{
+"name": "cdc-0-5_-room-by-room-description_final_20190411.pdf",
+"LastModified": "04/11/2019 08:27:11",
+"Key": "content/cos/hnc/cdc/Library/Archive/Standard Designs/cdc-0-5_-room-by-room-description_final_20190411.pdf",
+"extension": ".pdf",
+"Size": "5228241"
+},
+{
+"name": "Standard_Drawings1_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
+"LastModified": "05/20/2015 13:51:50",
+"Key": "content/cos/hnc/cdc/Library/Archive/Standard Designs/Standard_Drawings1_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
+"extension": ".zip",
+"Size": "22178081"
+},
+{
+"name": "Standard_Drawings2_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
+"LastModified": "05/20/2015 13:51:54",
+"Key": "content/cos/hnc/cdc/Library/Archive/Standard Designs/Standard_Drawings2_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
+"extension": ".zip",
+"Size": "35718514"
+},
+{
+"name": "Standard_Drawings3_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
+"LastModified": "05/20/2015 13:51:58",
+"Key": "content/cos/hnc/cdc/Library/Archive/Standard Designs/Standard_Drawings3_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
+"extension": ".zip",
+"Size": "26611739"
+},
+{
+"name": "Standard_Drawings_(PDF)_-_CDC_0-5,_Large_(Sep_10).pdf",
+"LastModified": "05/20/2015 13:52:01",
+"Key": "content/cos/hnc/cdc/Library/Archive/Standard Designs/Standard_Drawings_(PDF)_-_CDC_0-5,_Large_(Sep_10).pdf",
+"extension": ".pdf",
+"Size": "1958319"
+},
+{
+"name": "Standard_Drawings_(PDF)_-_CDC_0-5,_Medium_(Sep_10).pdf",
+"LastModified": "05/20/2015 13:52:01",
+"Key": "content/cos/hnc/cdc/Library/Archive/Standard Designs/Standard_Drawings_(PDF)_-_CDC_0-5,_Medium_(Sep_10).pdf",
+"extension": ".pdf",
+"Size": "1793852"
+},
+{
+"name": "Standard_Drawings_(PDF)_-_CDC_0-5,_Small_(Sep_10).pdf",
+"LastModified": "05/20/2015 13:52:01",
+"Key": "content/cos/hnc/cdc/Library/Archive/Standard Designs/Standard_Drawings_(PDF)_-_CDC_0-5,_Small_(Sep_10).pdf",
+"extension": ".pdf",
+"Size": "1380744"
 },
 {
 "name": "CDC age 6wk to 5yr Army Standard.pdf",
@@ -1070,18 +1126,11 @@
 "Size": "8731087"
 },
 {
-"name": "Archive",
-"LastModified": "08/03/2020 09:47:54",
-"Key": "content/cos/hnc/cdc/Library/Standard Designs/Archive",
-"extension": "",
-"Size": ""
-},
-{
 "name": "Room By Room Design Criteria_CDC-0-5 (July2020).pdf",
-"LastModified": "08/03/2020 09:42:48",
+"LastModified": "08/11/2020 12:58:57",
 "Key": "content/cos/hnc/cdc/Library/Standard Designs/Room By Room Design Criteria_CDC-0-5 (July2020).pdf",
 "extension": ".pdf",
-"Size": "5412705"
+"Size": "5410419"
 },
 {
 "name": "standard-drawings-cad-cdc-0-5-large-feb-2019.zip",
@@ -1124,55 +1173,6 @@
 "Key": "content/cos/hnc/cdc/Library/Standard Designs/standard-drawings-pdf-cdc-0-5-small-sept-30.pdf",
 "extension": ".pdf",
 "Size": "468000"
-},
-{
-"name": "cdc-0-5_-room-by-room-description_final_20190411.pdf",
-"LastModified": "04/11/2019 08:27:11",
-"Key": "content/cos/hnc/cdc/Library/Standard Designs/Archive/cdc-0-5_-room-by-room-description_final_20190411.pdf",
-"extension": ".pdf",
-"Size": "5228241"
-},
-{
-"name": "Standard_Drawings1_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
-"LastModified": "05/20/2015 13:51:50",
-"Key": "content/cos/hnc/cdc/Library/Standard Designs/Archive/Standard_Drawings1_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
-"extension": ".zip",
-"Size": "22178081"
-},
-{
-"name": "Standard_Drawings2_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
-"LastModified": "05/20/2015 13:51:54",
-"Key": "content/cos/hnc/cdc/Library/Standard Designs/Archive/Standard_Drawings2_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
-"extension": ".zip",
-"Size": "35718514"
-},
-{
-"name": "Standard_Drawings3_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
-"LastModified": "05/20/2015 13:51:58",
-"Key": "content/cos/hnc/cdc/Library/Standard Designs/Archive/Standard_Drawings3_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
-"extension": ".zip",
-"Size": "26611739"
-},
-{
-"name": "Standard_Drawings_(PDF)_-_CDC_0-5,_Large_(Sep_10).pdf",
-"LastModified": "05/20/2015 13:52:01",
-"Key": "content/cos/hnc/cdc/Library/Standard Designs/Archive/Standard_Drawings_(PDF)_-_CDC_0-5,_Large_(Sep_10).pdf",
-"extension": ".pdf",
-"Size": "1958319"
-},
-{
-"name": "Standard_Drawings_(PDF)_-_CDC_0-5,_Medium_(Sep_10).pdf",
-"LastModified": "05/20/2015 13:52:01",
-"Key": "content/cos/hnc/cdc/Library/Standard Designs/Archive/Standard_Drawings_(PDF)_-_CDC_0-5,_Medium_(Sep_10).pdf",
-"extension": ".pdf",
-"Size": "1793852"
-},
-{
-"name": "Standard_Drawings_(PDF)_-_CDC_0-5,_Small_(Sep_10).pdf",
-"LastModified": "05/20/2015 13:52:01",
-"Key": "content/cos/hnc/cdc/Library/Standard Designs/Archive/Standard_Drawings_(PDF)_-_CDC_0-5,_Small_(Sep_10).pdf",
-"extension": ".pdf",
-"Size": "1380744"
 },
 {
 "name": "Library",
@@ -2898,7 +2898,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "09/27/2019 14:18:39",
+"LastModified": "08/11/2020 13:05:25",
 "Key": "content/cos/hnc/sac/Library/Archive",
 "extension": "",
 "Size": ""
@@ -2933,7 +2933,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:24:36",
+"LastModified": "08/11/2020 13:05:35",
 "Key": "content/cos/hnc/sac/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -2972,6 +2972,13 @@
 "Key": "content/cos/hnc/sac/Library/Archive/sac-6-10_-final_20180507.pdf",
 "extension": ".pdf",
 "Size": "1324422"
+},
+{
+"name": "sac-6-10_room-by-room-description_final_20190411.pdf",
+"LastModified": "04/11/2019 08:29:06",
+"Key": "content/cos/hnc/sac/Library/Archive/sac-6-10_room-by-room-description_final_20190411.pdf",
+"extension": ".pdf",
+"Size": "1325700"
 },
 {
 "name": "cdc_schlage_lrg_fy19.pdf",
@@ -3170,11 +3177,11 @@
 "Size": "2993152"
 },
 {
-"name": "sac-6-10_room-by-room-description_final_20190411.pdf",
-"LastModified": "04/11/2019 08:29:06",
-"Key": "content/cos/hnc/sac/Library/Standard Designs/sac-6-10_room-by-room-description_final_20190411.pdf",
+"name": "Room by Room Design Criteria_SAC-6-10 (July 2020).pdf",
+"LastModified": "08/11/2020 13:04:02",
+"Key": "content/cos/hnc/sac/Library/Standard Designs/Room by Room Design Criteria_SAC-6-10 (July 2020).pdf",
 "extension": ".pdf",
-"Size": "1325700"
+"Size": "1403858"
 },
 {
 "name": "Standard_Drawings_(CAD)_-_CDC_6-10,_Large_(Nov_10).zip",
@@ -3514,7 +3521,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "10/03/2019 11:32:55",
+"LastModified": "08/11/2020 13:06:56",
 "Key": "content/cos/hnc/yc/Library/Archive",
 "extension": "",
 "Size": ""
@@ -3549,7 +3556,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:24:39",
+"LastModified": "08/11/2020 13:12:55",
 "Key": "content/cos/hnc/yc/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -3565,6 +3572,13 @@
 "name": "Energy Models",
 "LastModified": "09/27/2019 14:18:01",
 "Key": "content/cos/hnc/yc/Library/Archive/Energy Models",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Standard Designs",
+"LastModified": "08/11/2020 13:12:55",
+"Key": "content/cos/hnc/yc/Library/Archive/Standard Designs",
 "extension": "",
 "Size": ""
 },
@@ -3707,6 +3721,62 @@
 "Key": "content/cos/hnc/yc/Library/Archive/DD 1391 Templates/youth-ctr_small_small-teen-room_fy19.pdf",
 "extension": ".pdf",
 "Size": "12040"
+},
+{
+"name": "yc-11-18_final_20180507.pdf",
+"LastModified": "05/08/2018 06:07:21",
+"Key": "content/cos/hnc/yc/Library/Archive/Standard Designs/yc-11-18_final_20180507.pdf",
+"extension": ".pdf",
+"Size": "1092404"
+},
+{
+"name": "yc-11-18_room-by-room-description_final_20190411.pdf",
+"LastModified": "04/11/2019 08:30:16",
+"Key": "content/cos/hnc/yc/Library/Archive/Standard Designs/yc-11-18_room-by-room-description_final_20190411.pdf",
+"extension": ".pdf",
+"Size": "1094283"
+},
+{
+"name": "YC_CADD_LARGE.zip",
+"LastModified": "05/20/2015 13:53:53",
+"Key": "content/cos/hnc/yc/Library/Archive/Standard Designs/YC_CADD_LARGE.zip",
+"extension": ".zip",
+"Size": "539194491"
+},
+{
+"name": "YC_CADD_MEDIUM.zip",
+"LastModified": "05/20/2015 13:55:05",
+"Key": "content/cos/hnc/yc/Library/Archive/Standard Designs/YC_CADD_MEDIUM.zip",
+"extension": ".zip",
+"Size": "533450887"
+},
+{
+"name": "YC_CADD_SMALL.zip",
+"LastModified": "05/20/2015 13:56:00",
+"Key": "content/cos/hnc/yc/Library/Archive/Standard Designs/YC_CADD_SMALL.zip",
+"extension": ".zip",
+"Size": "330965973"
+},
+{
+"name": "YC_DRAWINGS_LARGE-JAN2013.pdf",
+"LastModified": "05/20/2015 13:56:21",
+"Key": "content/cos/hnc/yc/Library/Archive/Standard Designs/YC_DRAWINGS_LARGE-JAN2013.pdf",
+"extension": ".pdf",
+"Size": "4140961"
+},
+{
+"name": "YC_DRAWINGS_MEDIUM-JAN2013.pdf",
+"LastModified": "05/20/2015 13:56:21",
+"Key": "content/cos/hnc/yc/Library/Archive/Standard Designs/YC_DRAWINGS_MEDIUM-JAN2013.pdf",
+"extension": ".pdf",
+"Size": "4187557"
+},
+{
+"name": "YC_DRAWINGS_SMALL-JAN2013.pdf",
+"LastModified": "05/20/2015 13:56:22",
+"Key": "content/cos/hnc/yc/Library/Archive/Standard Designs/YC_DRAWINGS_SMALL-JAN2013.pdf",
+"extension": ".pdf",
+"Size": "4000321"
 },
 {
 "name": "Youth Center Army Standard.pdf",
@@ -3905,11 +3975,11 @@
 "Size": "2993152"
 },
 {
-"name": "Archive",
-"LastModified": "09/25/2019 08:24:54",
-"Key": "content/cos/hnc/yc/Library/Standard Designs/Archive",
-"extension": "",
-"Size": ""
+"name": "Room by Room Design Criteria_YC-11-18 (July 2020).pdf",
+"LastModified": "08/11/2020 12:58:40",
+"Key": "content/cos/hnc/yc/Library/Standard Designs/Room by Room Design Criteria_YC-11-18 (July 2020).pdf",
+"extension": ".pdf",
+"Size": "1212567"
 },
 {
 "name": "standard-drawings-cad-yc-11-18-large-feb-2019.zip",
@@ -3952,62 +4022,6 @@
 "Key": "content/cos/hnc/yc/Library/Standard Designs/standard-drawings-pdf-yc-11-18-small-feb-2019.pdf",
 "extension": ".pdf",
 "Size": "181652"
-},
-{
-"name": "yc-11-18_room-by-room-description_final_20190411.pdf",
-"LastModified": "04/11/2019 08:30:16",
-"Key": "content/cos/hnc/yc/Library/Standard Designs/yc-11-18_room-by-room-description_final_20190411.pdf",
-"extension": ".pdf",
-"Size": "1094283"
-},
-{
-"name": "yc-11-18_final_20180507.pdf",
-"LastModified": "05/08/2018 06:07:21",
-"Key": "content/cos/hnc/yc/Library/Standard Designs/Archive/yc-11-18_final_20180507.pdf",
-"extension": ".pdf",
-"Size": "1092404"
-},
-{
-"name": "YC_CADD_LARGE.zip",
-"LastModified": "05/20/2015 13:53:53",
-"Key": "content/cos/hnc/yc/Library/Standard Designs/Archive/YC_CADD_LARGE.zip",
-"extension": ".zip",
-"Size": "539194491"
-},
-{
-"name": "YC_CADD_MEDIUM.zip",
-"LastModified": "05/20/2015 13:55:05",
-"Key": "content/cos/hnc/yc/Library/Standard Designs/Archive/YC_CADD_MEDIUM.zip",
-"extension": ".zip",
-"Size": "533450887"
-},
-{
-"name": "YC_CADD_SMALL.zip",
-"LastModified": "05/20/2015 13:56:00",
-"Key": "content/cos/hnc/yc/Library/Standard Designs/Archive/YC_CADD_SMALL.zip",
-"extension": ".zip",
-"Size": "330965973"
-},
-{
-"name": "YC_DRAWINGS_LARGE-JAN2013.pdf",
-"LastModified": "05/20/2015 13:56:21",
-"Key": "content/cos/hnc/yc/Library/Standard Designs/Archive/YC_DRAWINGS_LARGE-JAN2013.pdf",
-"extension": ".pdf",
-"Size": "4140961"
-},
-{
-"name": "YC_DRAWINGS_MEDIUM-JAN2013.pdf",
-"LastModified": "05/20/2015 13:56:21",
-"Key": "content/cos/hnc/yc/Library/Standard Designs/Archive/YC_DRAWINGS_MEDIUM-JAN2013.pdf",
-"extension": ".pdf",
-"Size": "4187557"
-},
-{
-"name": "YC_DRAWINGS_SMALL-JAN2013.pdf",
-"LastModified": "05/20/2015 13:56:22",
-"Key": "content/cos/hnc/yc/Library/Standard Designs/Archive/YC_DRAWINGS_SMALL-JAN2013.pdf",
-"extension": ".pdf",
-"Size": "4000321"
 },
 {
 "name": "Library",
@@ -5824,7 +5838,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "08/03/2020 12:12:41",
+"LastModified": "08/03/2020 12:16:51",
 "Key": "content/cos/nwo/acp/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
