@@ -7609,7 +7609,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "02/18/2020 11:38:27",
+"LastModified": "08/14/2020 09:29:01",
 "Key": "content/cos/sam/aab/Library/Archive",
 "extension": "",
 "Size": ""
@@ -7637,7 +7637,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "02/26/2020 13:33:19",
+"LastModified": "08/14/2020 09:29:07",
 "Key": "content/cos/sam/aab/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -7669,6 +7669,13 @@
 "Key": "content/cos/sam/aab/Library/Archive/20190822_aab-hangar-floor-plans-and-ffe-plans.pdf",
 "extension": ".pdf",
 "Size": "2384055"
+},
+{
+"name": "20190823-aab-standard-design.pdf",
+"LastModified": "08/23/2019 17:43:58",
+"Key": "content/cos/sam/aab/Library/Archive/20190823-aab-standard-design.pdf",
+"extension": ".pdf",
+"Size": "1195917"
 },
 {
 "name": "Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
@@ -7769,13 +7776,6 @@
 "Size": "142398"
 },
 {
-"name": "20190823-aab-standard-design.pdf",
-"LastModified": "08/23/2019 17:43:58",
-"Key": "content/cos/sam/aab/Library/Standard Designs/20190823-aab-standard-design.pdf",
-"extension": ".pdf",
-"Size": "1195917"
-},
-{
 "name": "20200210 COS AAB Combined Folio.pdf",
 "LastModified": "02/28/2020 09:17:50",
 "Key": "content/cos/sam/aab/Library/Standard Designs/20200210 COS AAB Combined Folio.pdf",
@@ -7797,6 +7797,13 @@
 "Size": "249841"
 },
 {
+"name": "20200728-AAB-Standard Design.pdf",
+"LastModified": "08/14/2020 09:25:55",
+"Key": "content/cos/sam/aab/Library/Standard Designs/20200728-AAB-Standard Design.pdf",
+"extension": ".pdf",
+"Size": "939018"
+},
+{
 "name": "Library",
 "LastModified": "10/24/2019 15:58:51",
 "Key": "content/cos/sam/asb/Library",
@@ -7805,7 +7812,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "02/27/2020 11:32:14",
+"LastModified": "08/14/2020 09:28:42",
 "Key": "content/cos/sam/asb/Library/Archive",
 "extension": "",
 "Size": ""
@@ -7833,7 +7840,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "02/27/2020 11:32:20",
+"LastModified": "08/14/2020 09:28:42",
 "Key": "content/cos/sam/asb/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -7865,6 +7872,13 @@
 "Key": "content/cos/sam/asb/Library/Archive/20190926_ASB Hangar_A-100 - NOTIONAL FLOOR PLAN.DWG",
 "extension": ".DWG",
 "Size": "414623"
+},
+{
+"name": "20191018 ASB-Standard Design.pdf",
+"LastModified": "10/24/2019 15:59:40",
+"Key": "content/cos/sam/asb/Library/Archive/20191018 ASB-Standard Design.pdf",
+"extension": ".pdf",
+"Size": "448545"
 },
 {
 "name": "20191018_ASB Hangar - A-100 - COMPOSITE FLOOR PLAN.DWG",
@@ -7951,13 +7965,6 @@
 "Size": "227198"
 },
 {
-"name": "20191018 ASB-Standard Design.pdf",
-"LastModified": "10/24/2019 15:59:40",
-"Key": "content/cos/sam/asb/Library/Standard Designs/20191018 ASB-Standard Design.pdf",
-"extension": ".pdf",
-"Size": "448545"
-},
-{
 "name": "20200226 COS ASB Combined Folio.pdf",
 "LastModified": "02/28/2020 09:18:05",
 "Key": "content/cos/sam/asb/Library/Standard Designs/20200226 COS ASB Combined Folio.pdf",
@@ -7970,6 +7977,13 @@
 "Key": "content/cos/sam/asb/Library/Standard Designs/20200226_ASB Hangar_FLOOR PLAN.DWG",
 "extension": ".DWG",
 "Size": "476330"
+},
+{
+"name": "20200728-ASB-Standard Design.pdf",
+"LastModified": "08/14/2020 09:25:55",
+"Key": "content/cos/sam/asb/Library/Standard Designs/20200728-ASB-Standard Design.pdf",
+"extension": ".pdf",
+"Size": "772848"
 },
 {
 "name": "Library",
@@ -8015,7 +8029,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "02/27/2020 10:48:11",
+"LastModified": "08/14/2020 09:29:53",
 "Key": "content/cos/sam/gsab/Library/Archive",
 "extension": "",
 "Size": ""
@@ -8043,7 +8057,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "02/28/2020 09:18:47",
+"LastModified": "08/14/2020 09:30:06",
 "Key": "content/cos/sam/gsab/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -8091,6 +8105,13 @@
 "Size": "1142988"
 },
 {
+"name": "20200131-GSAB-Standard Design.pdf",
+"LastModified": "01/31/2020 13:24:18",
+"Key": "content/cos/sam/gsab/Library/Archive/20200131-GSAB-Standard Design.pdf",
+"extension": ".pdf",
+"Size": "1142855"
+},
+{
 "name": "Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
 "LastModified": "05/20/2015 15:44:51",
 "Key": "content/cos/sam/gsab/Library/Army Standards/Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
@@ -8119,13 +8140,6 @@
 "Size": "100298"
 },
 {
-"name": "20200131-GSAB-Standard Design.pdf",
-"LastModified": "01/31/2020 13:24:18",
-"Key": "content/cos/sam/gsab/Library/Standard Designs/20200131-GSAB-Standard Design.pdf",
-"extension": ".pdf",
-"Size": "1142855"
-},
-{
 "name": "20200224_AHP GSAB_A-101 - NOTIONAL PLAN - FIRST FLOOR.DWG",
 "LastModified": "02/27/2020 10:48:15",
 "Key": "content/cos/sam/gsab/Library/Standard Designs/20200224_AHP GSAB_A-101 - NOTIONAL PLAN - FIRST FLOOR.DWG",
@@ -8145,6 +8159,13 @@
 "Key": "content/cos/sam/gsab/Library/Standard Designs/20200224_COS_GSAB Combined Folio.pdf",
 "extension": ".pdf",
 "Size": "2929755"
+},
+{
+"name": "20200728-GSAB-Standard Design.pdf",
+"LastModified": "08/14/2020 09:25:53",
+"Key": "content/cos/sam/gsab/Library/Standard Designs/20200728-GSAB-Standard Design.pdf",
+"extension": ".pdf",
+"Size": "1397171"
 },
 {
 "name": "Library",
