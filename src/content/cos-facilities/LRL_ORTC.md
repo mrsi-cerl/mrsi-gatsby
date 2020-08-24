@@ -55,15 +55,20 @@ Facility requirements are predicated on current force structure alignments estab
 
 Battalion set is composed of:
 
-| Facility Type             | ​CATCD (1) | GSF (4)                            | ​Notes                                                                                   |
-| ------------------------- | ---------- | ---------------------------------- | ---------------------------------------------------------------------------------------- |
-| Battalion Headquarters​   | ​14184     | ​7,107                             | ​​                                                                                       |
-| Barracks​                 | ​72114     | ​30,669 ea bldg. or 61,227 ea bldg | Four 2-Story Bldgs per battalion set, or Two 4-Story Bldgs per battalion set             |
-| Officer’s Quarters (2)    | ​72412     | 22,857​                            | ​                                                                                        |
-| ​​Dining Facility (3)     | ​72212     | ​17,440 or 21,290                  | ​​720PN (Small) - Supports 1 Battalion set or 1428PN (Large) - Supports 2 Battalion sets |
-| Company Headquarters​     | ​14186     | ​19,579                            | ​​Supports Six Companies                                                                 |
-| Vehicle Maintenance Shop​ | ​21406     | 10,200                             | ​Motor Pool Hardstand (33,000 SY)                                                        |
-| Brigade Headquarters​     | ​14187     | ​10,241                            | ​One required per six battalion complex                                                  |
+### ORTC FACILITY CATEGORY CODE & FLOOR AREA (V4.7 UPDATE SEPTEMBER 2020)
+
+| Facility Type                                                        | Category Code | \* Standard Design Area | Notes                                                                                                 |
+| -------------------------------------------------------------------- | ------------- | ----------------------- | ----------------------------------------------------------------------------------------------------- |
+| (BNHQ) Battalion Headquarters Building: Transient Training           | 14184         | 7,075 SF                | The Army Standard maximum square footage requirement is 7,400 GSF per Battalion.                      |
+| (BKS2) 2-Story Barracks: Transient Training (4 per Battalion)        | 72114         | 30,669 SF/ea            | The Army Standard square footage varies by number of soldiers.                                        |
+| (BKS4) 4-Story Barracks: Transient Training (2 per Battalion)        | 72114         | 61,338SF/ea             | The Army Standard square footage varies by number of soldiers.                                        |
+| (OQ) Officers Quarters (Senior Leaders Quarters): Transient Training | 72412         | 23,030 SF               | POH is COS 2-Story. The Army Standard square footage requirements varies by number of senior leaders. |
+| (SMDF) Dining Facility: Transient Training - Small                   | 72212         | 17,015 SF               | NAO is COS. The Army Standard maximum square footage requirement is 18,000 GSF (feeds one Battalion). |
+| (LGDF) Dining Facility: Transient Training - Large                   | 72212         | 20,786 SF               | NAO is COS. The Army Standard maximum square footage requirement is 21,300 GSF (feeds two Battalion). |
+| (COHQ) Company Headquarters Building: Transient Training             | 14186         | 19,579 SF               | The Army Standard maximum square footage requirement is 3,300 GSF per Company.                        |
+| (VMS) Vehicle Maintenance Shop: Transient Training                   | 21406         | 10,200 SF               | Includes Warehouse. Standard maximum square footage requirement is 10,200 GSF per Battalion.          |
+| Motor Pool Hardstand                                                 | 85210         | 33,000 SY               | SY required excludes building footprints                                                              |
+| (BGHQ) Brigade Headquarters Building: Transient Training             | 14187         | 10,238 SF               | Include with 6 Battalions. Standard maximum square footage requirement is 10,300 GSF per Brigade.     |
 
 (1) No Cat Code exists for the ORTC Complex. When identifying a project, utilize the cat code of largest facility.
 

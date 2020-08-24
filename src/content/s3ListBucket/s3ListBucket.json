@@ -4284,7 +4284,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:24:57",
+"LastModified": "08/24/2020 08:27:06",
 "Key": "content/cos/lrl/ortc/Library",
 "extension": "",
 "Size": ""
@@ -4402,6 +4402,13 @@
 "Size": "476510"
 },
 {
+"name": "Archives",
+"LastModified": "08/24/2020 08:26:23",
+"Key": "content/cos/lrl/ortc/Library/Archives",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Army Standards",
 "LastModified": "09/25/2019 08:24:56",
 "Key": "content/cos/lrl/ortc/Library/Army Standards",
@@ -4416,11 +4423,25 @@
 "Size": ""
 },
 {
+"name": "Misc. Documents",
+"LastModified": "08/24/2020 08:27:23",
+"Key": "content/cos/lrl/ortc/Library/Misc. Documents",
+"extension": ". Documents",
+"Size": ""
+},
+{
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:24:57",
+"LastModified": "08/24/2020 08:26:35",
 "Key": "content/cos/lrl/ortc/Library/Standard Designs",
 "extension": "",
 "Size": ""
+},
+{
+"name": "ORTC Standard Design V4.6 24AUG2012.pdf",
+"LastModified": "05/20/2015 15:27:32",
+"Key": "content/cos/lrl/ortc/Library/Archives/ORTC Standard Design V4.6 24AUG2012.pdf",
+"extension": ".pdf",
+"Size": "18867802"
 },
 {
 "name": "ORTC Army Standard.pdf",
@@ -4486,6 +4507,13 @@
 "Size": "13403"
 },
 {
+"name": "LEED v4 Checklist- COS-ORTC.XLSX",
+"LastModified": "08/24/2020 08:17:28",
+"Key": "content/cos/lrl/ortc/Library/Misc. Documents/LEED v4 Checklist- COS-ORTC.XLSX",
+"extension": ".XLSX",
+"Size": "34368"
+},
+{
 "name": "ORTC Furnishings v4.4 121411.pdf",
 "LastModified": "05/20/2015 15:27:30",
 "Key": "content/cos/lrl/ortc/Library/Standard Designs/ORTC Furnishings v4.4 121411.pdf",
@@ -4493,11 +4521,11 @@
 "Size": "3514844"
 },
 {
-"name": "ORTC Standard Design V4.6 24AUG2012.pdf",
-"LastModified": "05/20/2015 15:27:32",
-"Key": "content/cos/lrl/ortc/Library/Standard Designs/ORTC Standard Design V4.6 24AUG2012.pdf",
+"name": "ORTC Standard Design V4.7 SEPT2020.pdf",
+"LastModified": "08/24/2020 08:17:31",
+"Key": "content/cos/lrl/ortc/Library/Standard Designs/ORTC Standard Design V4.7 SEPT2020.pdf",
 "extension": ".pdf",
-"Size": "18867802"
+"Size": "3541856"
 },
 {
 "name": "afh",
