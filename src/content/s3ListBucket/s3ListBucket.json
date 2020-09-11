@@ -4592,7 +4592,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:24:58",
+"LastModified": "09/11/2020 08:46:02",
 "Key": "content/cos/nao/afh/Library",
 "extension": "",
 "Size": ""
@@ -4605,8 +4605,15 @@
 "Size": "81896"
 },
 {
+"name": "Archives",
+"LastModified": "09/11/2020 08:46:08",
+"Key": "content/cos/nao/afh/Library/Archives",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:24:57",
+"LastModified": "09/11/2020 08:46:42",
 "Key": "content/cos/nao/afh/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -4627,10 +4634,17 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:24:58",
+"LastModified": "09/11/2020 08:46:23",
 "Key": "content/cos/nao/afh/Library/Standard Designs",
 "extension": "",
 "Size": ""
+},
+{
+"name": "UFC 4-711-02A Army Family Housing Supplement DRAFT dated May 2013.pdf",
+"LastModified": "05/20/2015 15:32:11",
+"Key": "content/cos/nao/afh/Library/Archives/UFC 4-711-02A Army Family Housing Supplement DRAFT dated May 2013.pdf",
+"extension": ".pdf",
+"Size": "487406"
 },
 {
 "name": "Army Fam Housing Army Standard.pdf",
@@ -4645,6 +4659,13 @@
 "Key": "content/cos/nao/afh/Library/Army Standards/ufc_4_711_01_2018.pdf",
 "extension": ".pdf",
 "Size": "1793677"
+},
+{
+"name": "ufc_4_711_01_20200909_proposed change_1.pdf",
+"LastModified": "09/11/2020 08:40:57",
+"Key": "content/cos/nao/afh/Library/Army Standards/ufc_4_711_01_20200909_proposed change_1.pdf",
+"extension": ".pdf",
+"Size": "2886103"
 },
 {
 "name": "fam_housing_col_fy20.pdf",
@@ -4808,11 +4829,11 @@
 "Size": "1221609"
 },
 {
-"name": "UFC 4-711-02A Army Family Housing Supplement DRAFT dated May 2013.pdf",
-"LastModified": "05/20/2015 15:32:11",
-"Key": "content/cos/nao/afh/Library/Standard Designs/UFC 4-711-02A Army Family Housing Supplement DRAFT dated May 2013.pdf",
+"name": "AFH_ch3_20200909.pdf",
+"LastModified": "09/11/2020 08:40:53",
+"Key": "content/cos/nao/afh/Library/Standard Designs/AFH_ch3_20200909.pdf",
 "extension": ".pdf",
-"Size": "487406"
+"Size": "1082388"
 },
 {
 "name": "Library",
