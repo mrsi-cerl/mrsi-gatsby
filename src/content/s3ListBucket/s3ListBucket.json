@@ -5894,7 +5894,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "04/21/2020 08:38:15",
+"LastModified": "09/30/2020 15:42:30",
 "Key": "content/cos/nwo/acp/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -5936,7 +5936,7 @@
 },
 {
 "name": "Previous Guidance & Criteria",
-"LastModified": "04/21/2020 08:36:23",
+"LastModified": "09/30/2020 15:42:30",
 "Key": "content/cos/nwo/acp/Library/Archive/Previous Guidance & Criteria",
 "extension": "",
 "Size": ""
@@ -6376,6 +6376,13 @@
 "Size": "599188"
 },
 {
+"name": "Army ACP Standard Design Oct 2018.docx",
+"LastModified": "10/03/2018 12:50:06",
+"Key": "content/cos/nwo/acp/Library/Archive/Previous Guidance & Criteria/Army ACP Standard Design Oct 2018.docx",
+"extension": ".docx",
+"Size": "399857"
+},
+{
 "name": "Access Control Points Army Standard April 2012.pdf",
 "LastModified": "05/20/2015 15:34:05",
 "Key": "content/cos/nwo/acp/Library/Army Standards/Access Control Points Army Standard April 2012.pdf",
@@ -6418,11 +6425,25 @@
 "Size": "207545"
 },
 {
-"name": "Army ACP Standard Design Oct 2018.docx",
-"LastModified": "10/03/2018 12:50:06",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/Army ACP Standard Design Oct 2018.docx",
-"extension": ".docx",
-"Size": "399857"
+"name": "Appendix C Threat Path Calculations Example Sept 2020.pdf",
+"LastModified": "09/30/2020 15:39:10",
+"Key": "content/cos/nwo/acp/Library/Standard Designs/Appendix C Threat Path Calculations Example Sept 2020.pdf",
+"extension": ".pdf",
+"Size": "14719003"
+},
+{
+"name": "Appendix D Design Guidance Instructions Sept 2020.pdf",
+"LastModified": "09/30/2020 15:39:10",
+"Key": "content/cos/nwo/acp/Library/Standard Designs/Appendix D Design Guidance Instructions Sept 2020.pdf",
+"extension": ".pdf",
+"Size": "254933"
+},
+{
+"name": "Appendix E AVB and PVB Calculations Sept 2020.pdf",
+"LastModified": "09/30/2020 15:38:53",
+"Key": "content/cos/nwo/acp/Library/Standard Designs/Appendix E AVB and PVB Calculations Sept 2020.pdf",
+"extension": ".pdf",
+"Size": "2479091"
 },
 {
 "name": "Army ACP Standard Design PDF Drawings May 2013.zip",
@@ -6430,6 +6451,13 @@
 "Key": "content/cos/nwo/acp/Library/Standard Designs/Army ACP Standard Design PDF Drawings May 2013.zip",
 "extension": ".zip",
 "Size": "11705564"
+},
+{
+"name": "Army ACP Standard Design Sept 2020.pdf",
+"LastModified": "09/30/2020 15:38:54",
+"Key": "content/cos/nwo/acp/Library/Standard Designs/Army ACP Standard Design Sept 2020.pdf",
+"extension": ".pdf",
+"Size": "1000116"
 },
 {
 "name": "Gatehouse Army Standard Design Analysis.zip",
@@ -14070,7 +14098,7 @@
 },
 {
 "name": "FY23 Guidance and Templates",
-"LastModified": "09/14/2020 17:14:14",
+"LastModified": "09/30/2020 15:36:25",
 "Key": "content/PDRS/Policy/FY23 Guidance and Templates",
 "extension": "",
 "Size": ""
@@ -14858,6 +14886,20 @@
 "Key": "content/PDRS/Policy/FY22 Guidance and Templates/fy22-timeline.pdf",
 "extension": ".pdf",
 "Size": "108738"
+},
+{
+"name": "Appdx H Attachment_CSRA template FY17 rev4b.xlsm",
+"LastModified": "09/30/2020 15:28:41",
+"Key": "content/PDRS/Policy/FY23 Guidance and Templates/Appdx H Attachment_CSRA template FY17 rev4b.xlsm",
+"extension": ".xlsm",
+"Size": "388878"
+},
+{
+"name": "Appedx H Attachment_AE SOW - CSRA.doc",
+"LastModified": "09/30/2020 15:28:44",
+"Key": "content/PDRS/Policy/FY23 Guidance and Templates/Appedx H Attachment_AE SOW - CSRA.doc",
+"extension": ".doc",
+"Size": "76288"
 },
 {
 "name": "Appendix H_CSRA_Portfolio.pdf",
