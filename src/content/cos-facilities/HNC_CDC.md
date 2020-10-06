@@ -4,6 +4,8 @@ facility_category_codes:
   - "74017"
 facility_cos_short_name: HNC
 facility_functional_proponent: G-9
+cos_manager_name: Jeremiah R. Haley
+cos_manager_email: Jeremiah.R.Haley@usace.army.mil
 facility_long_name: Child Development Center
 facility_short_name: CDC
 facility_technical_poc_email: Jelani.A.Ingram@usace.army.mil
