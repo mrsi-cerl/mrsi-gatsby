@@ -13629,7 +13629,7 @@
 },
 {
 "name": "Meeting Minutes",
-"LastModified": "09/25/2019 08:26:14",
+"LastModified": "10/09/2020 11:12:41",
 "Key": "content/PDRS/Meeting Minutes",
 "extension": "",
 "Size": ""
@@ -13792,6 +13792,13 @@
 "name": "FY22 Meeting Minutes",
 "LastModified": "05/04/2020 12:12:13",
 "Key": "content/PDRS/Meeting Minutes/FY22 Meeting Minutes",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY23 Meeting Minutes",
+"LastModified": "10/09/2020 11:13:01",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes",
 "extension": "",
 "Size": ""
 },
@@ -14081,6 +14088,48 @@
 "Key": "content/PDRS/Meeting Minutes/FY22 Meeting Minutes/SWD PDR Telecons 4_21_2020.pdf",
 "extension": ".pdf",
 "Size": "182411"
+},
+{
+"name": "Draft_NWD PDR Telecons 9_29_20.pdf",
+"LastModified": "10/09/2020 11:12:57",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/Draft_NWD PDR Telecons 9_29_20.pdf",
+"extension": ".pdf",
+"Size": "170696"
+},
+{
+"name": "NAD PDR Telecons 9_29_20.pdf",
+"LastModified": "10/09/2020 11:12:58",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/NAD PDR Telecons 9_29_20.pdf",
+"extension": ".pdf",
+"Size": "212153"
+},
+{
+"name": "POD PDR Telecons 9_23_20.pdf",
+"LastModified": "10/09/2020 11:12:59",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/POD PDR Telecons 9_23_20.pdf",
+"extension": ".pdf",
+"Size": "192811"
+},
+{
+"name": "SAD PDR Telecons 9_29_20.pdf",
+"LastModified": "10/09/2020 11:13:00",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SAD PDR Telecons 9_29_20.pdf",
+"extension": ".pdf",
+"Size": "199351"
+},
+{
+"name": "SPD PDR Telecons 9_29_20.pdf",
+"LastModified": "10/09/2020 11:13:01",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SPD PDR Telecons 9_29_20.pdf",
+"extension": ".pdf",
+"Size": "172978"
+},
+{
+"name": "SWD PDR Telecons 9_29_20.pdf",
+"LastModified": "10/09/2020 11:13:02",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SWD PDR Telecons 9_29_20.pdf",
+"extension": ".pdf",
+"Size": "197498"
 },
 {
 "name": "ARCHIVES",
