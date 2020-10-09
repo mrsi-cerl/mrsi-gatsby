@@ -8,6 +8,8 @@ facility_long_name: School Age Center
 facility_short_name: SAC
 facility_technical_poc_email: Jelani.A.Ingram@usace.army.mil
 facility_technical_poc_name: Jelani Ingram
+cos_manager_name: Jeremiah R. Haley
+cos_manager_email: Jeremiah.R.Haley@usace.army.mil
 file_library_root_path: "content/cos/hnc/sac/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/sac/

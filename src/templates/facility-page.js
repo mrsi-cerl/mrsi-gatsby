@@ -48,8 +48,17 @@ export default ({ data, pageContext }) => {
     {
       title: "COS Manager:",
       value: (
-        <a href={"mailto:" + cos.frontmatter.cos_manager_email}>
-          {cos.frontmatter.cos_manager_name}
+        <a
+          href={
+            "mailto:" +
+            (facility.frontmatter.cos_manager_email
+              ? facility.frontmatter.cos_manager_email
+              : cos.frontmatter.cos_manager_email)
+          }
+        >
+          {facility.frontmatter.cos_manager_name
+            ? facility.frontmatter.cos_manager_name
+            : cos.frontmatter.cos_manager_name}
         </a>
       ),
     },
