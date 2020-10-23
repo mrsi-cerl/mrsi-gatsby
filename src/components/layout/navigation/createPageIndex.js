@@ -5,6 +5,10 @@ const pages = {
       slug: "/cos/",
     },
     {
+      caption: "Facilities",
+      slug: "/cos/facilities",
+    },
+    {
       caption: "Army Standards",
       slug: "/cos/army-standards",
     },
