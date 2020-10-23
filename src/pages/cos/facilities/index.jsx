@@ -52,7 +52,10 @@ const ArmyStandards = ({ data }) => {
               </td>
               <td>
                 {e.node.frontmatter.carousel_images ? (
-                  <img src={e.node.frontmatter.carousel_images[0]}></img>
+                  <img
+                    style={{ maxWidth: 113 }}
+                    src={e.node.frontmatter.carousel_images[0]}
+                  ></img>
                 ) : null}
               </td>
             </tr>
