@@ -1,6 +1,6 @@
 import React from "react"
 import closeIcon from "../../../../images/close-blue-60v-alt.svg"
-import { Link } from "gatsby"
+import Link from "../../../link"
 import cx from "classnames"
 import styles from "./mobile-nav.module.css"
 import { Accordion, AccordionButton, AccordionContent } from "uswds-react"
@@ -34,7 +34,8 @@ function createAccordionList(p, idx, currPath) {
           <ul className="usa-sidenav__sublist">
             {p.children.map((e, index) => {
               return (
-                <li key={e.caption}
+                <li
+                  key={e.caption}
                   className={cx("usa-sidenav__item", {
                     "usa-current": e.slug === currPath,
                   })}
@@ -63,7 +64,8 @@ function createNavList(pages, currPath) {
       return createAccordionList(p, idx, currPath)
     } else {
       return (
-        <li key={p.slug}
+        <li
+          key={p.slug}
           className={cx("usa-sidenav__item", {
             "usa-current": p.slug === currPath,
           })}
@@ -94,7 +96,10 @@ function getMobileNav(pages, path) {
       title: "Sustain",
     },
   ].map(
-    (e, idx) => [<h5 key={e.key}>{e.title}</h5>, createNavList(pages[e.key], path)]
+    (e, idx) => [
+      <h5 key={e.key}>{e.title}</h5>,
+      createNavList(pages[e.key], path),
+    ]
     // <div className={"usa-nav__primary-item"}>
     //   <Accordion>
     //     <AccordionButton
@@ -132,7 +137,9 @@ const MobileNav = ({ pages, path }) => (
     >
       <span className="usa-sr-only">Close</span>
     </button>
-    <ul className="usa-sidenav usa-nav__primary">{getMobileNav(pages, path)}</ul>
+    <ul className="usa-sidenav usa-nav__primary">
+      {getMobileNav(pages, path)}
+    </ul>
   </nav>
 )
 
