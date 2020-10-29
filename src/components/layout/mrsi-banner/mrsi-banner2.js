@@ -2,7 +2,7 @@ import React from "react"
 import mrsiLogo from "../../../images/mrsi-blue-logo.png"
 import hamMenu from "../../../images/ham-menu-icon.svg"
 import styles from "./mrsi-banner2.module.css"
-import { Link } from "gatsby"
+import Link from "../../link"
 
 const MrsiBanner = () => {
   return (

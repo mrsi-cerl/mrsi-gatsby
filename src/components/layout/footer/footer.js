@@ -2,7 +2,7 @@ import React from "react"
 import styles from "./footer.module.css"
 import cx from "classnames"
 import usaceLogo from "../../../images/usace-logo-color.svg"
-import { Link } from "gatsby"
+import Link from "../../link"
 
 const Footer = () => (
   <div className="usa-footer__primary-section">

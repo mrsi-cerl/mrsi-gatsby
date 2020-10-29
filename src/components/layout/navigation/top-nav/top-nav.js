@@ -1,5 +1,5 @@
 import React from "react"
-import { Link } from "gatsby"
+import Link from "../../../link"
 import cx from "classnames"
 import styles from "./top-nav.module.css"
 

@@ -3,7 +3,7 @@ doc_type: facility_page
 facility_category_codes:
   - "17136"
 facility_cos_short_name: NAO
-facility_functional_proponent: G3
+facility_functional_proponent: G3/TRADOC
 facility_long_name: Automation-Aided Instruction
 facility_short_name: CRXXI
 facility_technical_poc_email: matthew.c.scanlon@usace.army.mil
@@ -17,7 +17,7 @@ carousel_images:
 
 ## Description
 
-The Automation-Aided Instructional Building is a building predominantly used for digital training that meets the technical requirements of the legacy "Classroom XX1, level 3" described in TRADOC 350-70 for distance-learning capabilities (see classroom technology levels listed below) and which is single-purposed with either fixed automation equipment and/or fixed furnishings or other supporting infrastructure features that preclude flexible classroom use (ie ability to move student stations/tables). For example, the typical distance-enabled computer lab-type classroom with its fixed computer stations would fall in this category because it cannot be reasonably used for other than broadcasted computerized instruction. It is important to note that the mere presence of networked student computer workstations, which is becoming increasing prevalent in today's classrooms, does not in itself qualify a building for Catcode 17136. In reference to Current TRADOC technology requirements listed below, use Catcode 17136 when this single purposed classroom technology level is a level 3 or greater. Use Catcode 17120 in all other cases. In either case, apply the General Instruction Building (GIB) Standard Design Criteria for building planning and design. Due to the unique and highly sophisticated requirements associated with most simulator-type buildings, use Catcode 172xx for facilities that conduct training in simulators such as 17210, Simulator Building (Motion-Based); 17211, Simulator Building (Non-Motion Based); 17213, Simulation Center; and 17214, Battle Lab. Although Automation-Aided Instructional Buildings may contain simulators, it is recommended to use the appropriate Catcode-specific DD Form 1391 in order to adequately capture the inherently greater cost.
+Automation-Aided Instructional Facilities utilize the General Instruction Buildings (GIB) Standard Design Criteria, which is found in the GIB portal. The Automation-Aided Instructional category applies to classrooms (usually within a GIB but occasionally a stand-alone building) used predominantly for digital training that meets the technical requirements of the legacy "Classroom XX1, level 3" described in TRADOC 350-70 for distance-learning (see classroom technology levels listed below) and/or is single-purposed with fixed equipment, furnishings, or other training devices that preclude flexible classroom use (ie ability to move student stations/tables). They are differentiated from other classrooms by their dedicated single use. For example, the typical distance-enabled computer lab-type classroom with its fixed computer stations would fall in this category because it cannot be used for other than broadcasted computerized instruction. It is important to note that the mere presence of networked student computer workstations does not in itself qualify a building for Catcode 17136. In reference to Current TRADOC technology requirements listed below, use Catcode 17136 when this single purposed classroom technology level is a level 3 or greater. Use Catcode 17120 in all other cases. In either case, apply the General Instruction Building (GIB) Standard Design Criteria for building planning and design. Use Catcode 172xx for facilities that conduct training in simulators such as 17210, Simulator Building (Motion-Based); 17211, Simulator Building (Non-Motion Based); 17213, Simulation Center; and 17214, Battle Lab. Although Automation-Aided Instructional Buildings may contain simulators, it is recommended to use the appropriate Catcode-specific DD Form 1391 in order to adequately capture the inherently greater cost.
 
 ## Variations
 
@@ -33,6 +33,8 @@ _Level 4:_ These classrooms are designed to support simulations and simulators. 
 
 _Level 5:_ This classroom will be based on a virtual reality environment. While there are some pilot projects underway, a general requirement for classrooms with this capability has not been identified at this time.
 
-Note that TRADOC is conducting a review of the above listed technology levels and a revision is anticipated in the future.
+Note that TRADOC conducts periodic reviews of the above listed technology levels and revisions should be anticipated.
 
 It is important to note that the technology levels are not classroom size dependent, and classroom sizes for all levels of technology are provided within the General Instruction Building (GIB) Standard Design Criteria (Catcode 17120), which provide requirements and guidance to address the wide variety of curriculum and supporting facilities requirements.
+
+Refer to General Instruction Building portal for DD1391 templates, Standard Design Criteria, and other guidance documents. See below for example classroom layouts. These are not mandatory.

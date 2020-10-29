@@ -1,5 +1,5 @@
 import React from "react"
-import { Link } from "gatsby"
+import Link from "../components/link"
 import bgImg from "./../images/ResizedUsaceConstruction.jpg"
 import Layout from "../components/layout/layout"
 
@@ -95,10 +95,9 @@ const IndexPage = () => (
             <p>
               Through the use of curated content developed by USACE Subject
               Matter Experts, the Model RFP guides users in the development of
-              Requests for Proposal (RFP). This helps ensure
-              compliance with the latest policies, regulations, and best
-              practices; improves quality; and reduces the time required
-              to develop RFP.
+              Requests for Proposal (RFP). This helps ensure compliance with the
+              latest policies, regulations, and best practices; improves
+              quality; and reduces the time required to develop RFP.
             </p>
 
             <p>

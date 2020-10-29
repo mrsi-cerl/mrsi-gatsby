@@ -1,5 +1,5 @@
 import React from "react"
-import { Link } from "gatsby"
+import Link from "../../../link"
 import cx from "classnames"
 import styles from "./side-nav.module.css"
 import { Accordion, AccordionButton, AccordionContent } from "uswds-react"
@@ -33,7 +33,8 @@ function createAcordianList(p, idx, currPath) {
           <ul className="usa-sidenav__sublist">
             {p.children.map((e, index) => {
               return (
-                <li key={e.slug}
+                <li
+                  key={e.slug}
                   className={cx("usa-sidenav__item", {
                     "usa-current": e.slug === currPath,
                   })}
@@ -62,7 +63,8 @@ function createNavList(pages, currPath) {
       return createAcordianList(p, idx, currPath)
     } else {
       return (
-        <li key={p.slug}
+        <li
+          key={p.slug}
           className={cx("usa-sidenav__item", {
             "usa-current": p.slug === currPath,
           })}
