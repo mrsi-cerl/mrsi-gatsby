@@ -13629,7 +13629,7 @@
 },
 {
 "name": "Meeting Minutes",
-"LastModified": "10/09/2020 11:12:41",
+"LastModified": "11/04/2020 09:27:14",
 "Key": "content/PDRS/Meeting Minutes",
 "extension": "",
 "Size": ""
@@ -13776,15 +13776,8 @@
 },
 {
 "name": "Archive",
-"LastModified": "09/25/2019 08:26:13",
+"LastModified": "11/04/2020 09:27:14",
 "Key": "content/PDRS/Meeting Minutes/Archive",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY21 Meeting Minutes",
-"LastModified": "09/25/2019 08:26:14",
-"Key": "content/PDRS/Meeting Minutes/FY21 Meeting Minutes",
 "extension": "",
 "Size": ""
 },
@@ -13797,7 +13790,7 @@
 },
 {
 "name": "FY23 Meeting Minutes",
-"LastModified": "10/09/2020 11:13:01",
+"LastModified": "11/04/2020 09:26:56",
 "Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes",
 "extension": "",
 "Size": ""
@@ -13820,6 +13813,13 @@
 "name": "FY20 Meeting Minutes",
 "LastModified": "09/25/2019 08:26:14",
 "Key": "content/PDRS/Meeting Minutes/Archive/FY20 Meeting Minutes",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY21 Meeting Minutes",
+"LastModified": "09/25/2019 08:26:14",
+"Key": "content/PDRS/Meeting Minutes/Archive/FY21 Meeting Minutes",
 "extension": "",
 "Size": ""
 },
@@ -13987,63 +13987,63 @@
 {
 "name": "final_nad-1st-round-pdr-telecons-01_17_2019.pdf",
 "LastModified": "05/20/2019 15:11:24",
-"Key": "content/PDRS/Meeting Minutes/FY21 Meeting Minutes/final_nad-1st-round-pdr-telecons-01_17_2019.pdf",
+"Key": "content/PDRS/Meeting Minutes/Archive/FY21 Meeting Minutes/final_nad-1st-round-pdr-telecons-01_17_2019.pdf",
 "extension": ".pdf",
 "Size": "232561"
 },
 {
 "name": "final_nad-2nd-round-pdr-telecons-2_05_2019.docx",
 "LastModified": "03/08/2019 09:13:44",
-"Key": "content/PDRS/Meeting Minutes/FY21 Meeting Minutes/final_nad-2nd-round-pdr-telecons-2_05_2019.docx",
+"Key": "content/PDRS/Meeting Minutes/Archive/FY21 Meeting Minutes/final_nad-2nd-round-pdr-telecons-2_05_2019.docx",
 "extension": ".docx",
 "Size": "31937"
 },
 {
 "name": "final_poj-pdr-telecons-08_15_2018.pdf",
 "LastModified": "12/11/2018 08:11:00",
-"Key": "content/PDRS/Meeting Minutes/FY21 Meeting Minutes/final_poj-pdr-telecons-08_15_2018.pdf",
+"Key": "content/PDRS/Meeting Minutes/Archive/FY21 Meeting Minutes/final_poj-pdr-telecons-08_15_2018.pdf",
 "extension": ".pdf",
 "Size": "132398"
 },
 {
 "name": "final_sad-round-2-pdr-telecons-04_02_2019.pdf",
 "LastModified": "05/20/2019 14:46:56",
-"Key": "content/PDRS/Meeting Minutes/FY21 Meeting Minutes/final_sad-round-2-pdr-telecons-04_02_2019.pdf",
+"Key": "content/PDRS/Meeting Minutes/Archive/FY21 Meeting Minutes/final_sad-round-2-pdr-telecons-04_02_2019.pdf",
 "extension": ".pdf",
 "Size": "170521"
 },
 {
 "name": "final_spd-pdr-telecons-10_2_2018.pdf",
 "LastModified": "01/29/2019 09:35:14",
-"Key": "content/PDRS/Meeting Minutes/FY21 Meeting Minutes/final_spd-pdr-telecons-10_2_2018.pdf",
+"Key": "content/PDRS/Meeting Minutes/Archive/FY21 Meeting Minutes/final_spd-pdr-telecons-10_2_2018.pdf",
 "extension": ".pdf",
 "Size": "141703"
 },
 {
 "name": "final_swd-pdr-telecons-10_30_2018.pdf",
 "LastModified": "12/11/2018 08:28:33",
-"Key": "content/PDRS/Meeting Minutes/FY21 Meeting Minutes/final_swd-pdr-telecons-10_30_2018.pdf",
+"Key": "content/PDRS/Meeting Minutes/Archive/FY21 Meeting Minutes/final_swd-pdr-telecons-10_30_2018.pdf",
 "extension": ".pdf",
 "Size": "201634"
 },
 {
 "name": "nau-round-2-pdr-telecons-5_16_2019.pdf",
 "LastModified": "05/20/2019 15:14:36",
-"Key": "content/PDRS/Meeting Minutes/FY21 Meeting Minutes/nau-round-2-pdr-telecons-5_16_2019.pdf",
+"Key": "content/PDRS/Meeting Minutes/Archive/FY21 Meeting Minutes/nau-round-2-pdr-telecons-5_16_2019.pdf",
 "extension": ".pdf",
 "Size": "231170"
 },
 {
 "name": "nwd-round-2-pdr-telecons-5_14_2019.pdf",
 "LastModified": "05/20/2019 15:18:54",
-"Key": "content/PDRS/Meeting Minutes/FY21 Meeting Minutes/nwd-round-2-pdr-telecons-5_14_2019.pdf",
+"Key": "content/PDRS/Meeting Minutes/Archive/FY21 Meeting Minutes/nwd-round-2-pdr-telecons-5_14_2019.pdf",
 "extension": ".pdf",
 "Size": "176549"
 },
 {
 "name": "poh-round-2-pdr-telecons-5_14_19.pdf",
 "LastModified": "05/20/2019 15:15:29",
-"Key": "content/PDRS/Meeting Minutes/FY21 Meeting Minutes/poh-round-2-pdr-telecons-5_14_19.pdf",
+"Key": "content/PDRS/Meeting Minutes/Archive/FY21 Meeting Minutes/poh-round-2-pdr-telecons-5_14_19.pdf",
 "extension": ".pdf",
 "Size": "189347"
 },
@@ -14090,46 +14090,46 @@
 "Size": "182411"
 },
 {
-"name": "Draft_NWD PDR Telecons 9_29_20.pdf",
-"LastModified": "10/09/2020 11:12:57",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/Draft_NWD PDR Telecons 9_29_20.pdf",
+"name": "NAD PDR Telecons 10_27_20.pdf",
+"LastModified": "11/04/2020 09:26:08",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/NAD PDR Telecons 10_27_20.pdf",
 "extension": ".pdf",
-"Size": "170696"
+"Size": "272736"
 },
 {
-"name": "NAD PDR Telecons 9_29_20.pdf",
-"LastModified": "10/09/2020 11:12:58",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/NAD PDR Telecons 9_29_20.pdf",
+"name": "NWD PDR Telecons 10_27_20.pdf",
+"LastModified": "11/04/2020 09:26:09",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/NWD PDR Telecons 10_27_20.pdf",
 "extension": ".pdf",
-"Size": "212153"
+"Size": "207233"
 },
 {
-"name": "POD PDR Telecons 9_23_20.pdf",
-"LastModified": "10/09/2020 11:12:59",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/POD PDR Telecons 9_23_20.pdf",
+"name": "POD PDR Telecons 10_21_20.pdf",
+"LastModified": "11/04/2020 09:26:10",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/POD PDR Telecons 10_21_20.pdf",
 "extension": ".pdf",
-"Size": "192811"
+"Size": "203800"
 },
 {
-"name": "SAD PDR Telecons 9_29_20.pdf",
-"LastModified": "10/09/2020 11:13:00",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SAD PDR Telecons 9_29_20.pdf",
+"name": "SAD PDR Telecons 10_27_20.pdf",
+"LastModified": "11/04/2020 09:26:11",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SAD PDR Telecons 10_27_20.pdf",
 "extension": ".pdf",
-"Size": "199351"
+"Size": "246004"
 },
 {
-"name": "SPD PDR Telecons 9_29_20.pdf",
-"LastModified": "10/09/2020 11:13:01",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SPD PDR Telecons 9_29_20.pdf",
+"name": "SPD PDR Telecons 10_27_20.pdf",
+"LastModified": "11/04/2020 09:26:12",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SPD PDR Telecons 10_27_20.pdf",
 "extension": ".pdf",
-"Size": "172978"
+"Size": "207502"
 },
 {
-"name": "SWD PDR Telecons 9_29_20.pdf",
-"LastModified": "10/09/2020 11:13:02",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SWD PDR Telecons 9_29_20.pdf",
+"name": "SWD PDR Telecons 10_27_20.pdf",
+"LastModified": "11/04/2020 09:26:13",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SWD PDR Telecons 10_27_20.pdf",
 "extension": ".pdf",
-"Size": "197498"
+"Size": "239386"
 },
 {
 "name": "ARCHIVES",
