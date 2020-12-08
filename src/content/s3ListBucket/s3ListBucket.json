@@ -4879,7 +4879,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "05/11/2020 08:52:30",
+"LastModified": "12/08/2020 12:01:08",
 "Key": "content/cos/nao/cidc/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -4997,13 +4997,6 @@
 "Size": "432941"
 },
 {
-"name": "5_9_and_10_15_and-24pncidc-par-3.pdf",
-"LastModified": "08/31/2018 13:29:46",
-"Key": "content/cos/nao/cidc/Library/Standard Designs/5_9_and_10_15_and-24pncidc-par-3.pdf",
-"extension": ".pdf",
-"Size": "292945"
-},
-{
 "name": "Library",
 "LastModified": "09/25/2019 08:24:59",
 "Key": "content/cos/nao/crxxi/Library",
@@ -5082,7 +5075,7 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:24:59",
+"LastModified": "12/08/2020 11:56:01",
 "Key": "content/cos/nao/epdf/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -5110,7 +5103,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:25:03",
+"LastModified": "12/08/2020 11:59:05",
 "Key": "content/cos/nao/epdf/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -5130,9 +5123,37 @@
 "Size": "2498075"
 },
 {
+"name": "AIT Dining Facility",
+"LastModified": "12/08/2020 09:18:28",
+"Key": "content/cos/nao/epdf/Library/Army Standards/AIT Dining Facility",
+"extension": "",
+"Size": ""
+},
+{
+"name": "ORTC and Transient Training Dining Facility",
+"LastModified": "12/08/2020 11:54:49",
+"Key": "content/cos/nao/epdf/Library/Army Standards/ORTC and Transient Training Dining Facility",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Permanent Party Dining Facility",
+"LastModified": "12/08/2020 11:56:01",
+"Key": "content/cos/nao/epdf/Library/Army Standards/Permanent Party Dining Facility",
+"extension": "",
+"Size": ""
+},
+{
+"name": "README.txt",
+"LastModified": "12/08/2020 11:54:29",
+"Key": "content/cos/nao/epdf/Library/Army Standards/ORTC and Transient Training Dining Facility/README.txt",
+"extension": ".txt",
+"Size": "142"
+},
+{
 "name": "Enlisted Personnel Dining Facilities Army Standard.pdf",
 "LastModified": "05/20/2015 15:32:24",
-"Key": "content/cos/nao/epdf/Library/Army Standards/Enlisted Personnel Dining Facilities Army Standard.pdf",
+"Key": "content/cos/nao/epdf/Library/Army Standards/Permanent Party Dining Facility/Enlisted Personnel Dining Facilities Army Standard.pdf",
 "extension": ".pdf",
 "Size": "2490508"
 },
@@ -5256,88 +5277,25 @@
 "Size": "9408898"
 },
 {
-"name": "0720_ORTC_DFAC_9-8-09-RFP.pdf",
-"LastModified": "05/20/2015 15:32:40",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/0720_ORTC_DFAC_9-8-09-RFP.pdf",
-"extension": ".pdf",
-"Size": "1501360"
+"name": "AIT Dining Facility",
+"LastModified": "12/08/2020 11:59:05",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/AIT Dining Facility",
+"extension": "",
+"Size": ""
 },
 {
-"name": "1300PP-Drawings.pdf",
-"LastModified": "05/20/2015 15:32:40",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/1300PP-Drawings.pdf",
-"extension": ".pdf",
-"Size": "8157700"
+"name": "ORTC and Transient Training Dining Facility",
+"LastModified": "12/08/2020 11:58:36",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/ORTC and Transient Training Dining Facility",
+"extension": "",
+"Size": ""
 },
 {
-"name": "1300PP-Specs-11_46__01_01.pdf",
-"LastModified": "05/20/2015 15:32:41",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/1300PP-Specs-11_46__01_01.pdf",
-"extension": ".pdf",
-"Size": "302808"
-},
-{
-"name": "1300TNG-Drawings.pdf",
-"LastModified": "05/20/2015 15:32:42",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/1300TNG-Drawings.pdf",
-"extension": ".pdf",
-"Size": "6886286"
-},
-{
-"name": "1300TNG-Specs-11_46__01_06.pdf",
-"LastModified": "05/20/2015 15:32:43",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/1300TNG-Specs-11_46__01_06.pdf",
-"extension": ".pdf",
-"Size": "233082"
-},
-{
-"name": "1428_ORTC_DFAC_9-8-09-RFP.pdf",
-"LastModified": "05/20/2015 15:32:43",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/1428_ORTC_DFAC_9-8-09-RFP.pdf",
-"extension": ".pdf",
-"Size": "1555651"
-},
-{
-"name": "2600TNG-Drawings.pdf",
-"LastModified": "05/20/2015 15:32:44",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/2600TNG-Drawings.pdf",
-"extension": ".pdf",
-"Size": "10347298"
-},
-{
-"name": "2600TNG-Specs-11_46__01_02.pdf",
-"LastModified": "05/20/2015 15:32:45",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/2600TNG-Specs-11_46__01_02.pdf",
-"extension": ".pdf",
-"Size": "230627"
-},
-{
-"name": "500PP-Drawings.pdf",
-"LastModified": "05/20/2015 15:32:45",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/500PP-Drawings.pdf",
-"extension": ".pdf",
-"Size": "7654874"
-},
-{
-"name": "500PP-Specs-11_46__01_04.pdf",
-"LastModified": "05/20/2015 15:32:46",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/500PP-Specs-11_46__01_04.pdf",
-"extension": ".pdf",
-"Size": "290033"
-},
-{
-"name": "800PP-Drawings.pdf",
-"LastModified": "05/20/2015 15:32:46",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/800PP-Drawings.pdf",
-"extension": ".pdf",
-"Size": "7748565"
-},
-{
-"name": "800PP-Specs-11_46__01_05.pdf",
-"LastModified": "05/20/2015 15:32:47",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/800PP-Specs-11_46__01_05.pdf",
-"extension": ".pdf",
-"Size": "290165"
+"name": "Permanent Part Dining Facility",
+"LastModified": "12/08/2020 11:57:03",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility",
+"extension": "",
+"Size": ""
 },
 {
 "name": "dfac-design-criteria_20180723.pdf",
@@ -5354,11 +5312,95 @@
 "Size": "17694"
 },
 {
+"name": "1300TNG-Drawings.pdf",
+"LastModified": "05/20/2015 15:32:42",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/AIT Dining Facility/1300TNG-Drawings.pdf",
+"extension": ".pdf",
+"Size": "6886286"
+},
+{
+"name": "1300TNG-Specs-11_46__01_06.pdf",
+"LastModified": "05/20/2015 15:32:43",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/AIT Dining Facility/1300TNG-Specs-11_46__01_06.pdf",
+"extension": ".pdf",
+"Size": "233082"
+},
+{
+"name": "2600TNG-Drawings.pdf",
+"LastModified": "05/20/2015 15:32:44",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/AIT Dining Facility/2600TNG-Drawings.pdf",
+"extension": ".pdf",
+"Size": "10347298"
+},
+{
+"name": "2600TNG-Specs-11_46__01_02.pdf",
+"LastModified": "05/20/2015 15:32:45",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/AIT Dining Facility/2600TNG-Specs-11_46__01_02.pdf",
+"extension": ".pdf",
+"Size": "230627"
+},
+{
+"name": "0720_ORTC_DFAC_9-8-09-RFP.pdf",
+"LastModified": "05/20/2015 15:32:40",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/ORTC and Transient Training Dining Facility/0720_ORTC_DFAC_9-8-09-RFP.pdf",
+"extension": ".pdf",
+"Size": "1501360"
+},
+{
+"name": "1428_ORTC_DFAC_9-8-09-RFP.pdf",
+"LastModified": "05/20/2015 15:32:43",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/ORTC and Transient Training Dining Facility/1428_ORTC_DFAC_9-8-09-RFP.pdf",
+"extension": ".pdf",
+"Size": "1555651"
+},
+{
 "name": "standard_transient_dfac-ortc.pdf",
 "LastModified": "08/06/2019 12:14:05",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/standard_transient_dfac-ortc.pdf",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/ORTC and Transient Training Dining Facility/standard_transient_dfac-ortc.pdf",
 "extension": ".pdf",
 "Size": "4480524"
+},
+{
+"name": "1300PP-Drawings.pdf",
+"LastModified": "05/20/2015 15:32:40",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/1300PP-Drawings.pdf",
+"extension": ".pdf",
+"Size": "8157700"
+},
+{
+"name": "1300PP-Specs-11_46__01_01.pdf",
+"LastModified": "05/20/2015 15:32:41",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/1300PP-Specs-11_46__01_01.pdf",
+"extension": ".pdf",
+"Size": "302808"
+},
+{
+"name": "500PP-Drawings.pdf",
+"LastModified": "05/20/2015 15:32:45",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/500PP-Drawings.pdf",
+"extension": ".pdf",
+"Size": "7654874"
+},
+{
+"name": "500PP-Specs-11_46__01_04.pdf",
+"LastModified": "05/20/2015 15:32:46",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/500PP-Specs-11_46__01_04.pdf",
+"extension": ".pdf",
+"Size": "290033"
+},
+{
+"name": "800PP-Drawings.pdf",
+"LastModified": "05/20/2015 15:32:46",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/800PP-Drawings.pdf",
+"extension": ".pdf",
+"Size": "7748565"
+},
+{
+"name": "800PP-Specs-11_46__01_05.pdf",
+"LastModified": "05/20/2015 15:32:47",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/800PP-Specs-11_46__01_05.pdf",
+"extension": ".pdf",
+"Size": "290165"
 },
 {
 "name": "Library",
