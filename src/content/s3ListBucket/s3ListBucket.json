@@ -5054,7 +5054,7 @@
 },
 {
 "name": "Library",
-"LastModified": "04/01/2020 15:41:21",
+"LastModified": "12/10/2020 09:41:51",
 "Key": "content/cos/nao/epdf/Library",
 "extension": "",
 "Size": ""
@@ -5088,8 +5088,15 @@
 "Size": ""
 },
 {
+"name": "Food Service Codes and Standards",
+"LastModified": "12/10/2020 09:42:08",
+"Key": "content/cos/nao/epdf/Library/Food Service Codes and Standards",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:25:02",
+"LastModified": "12/10/2020 09:41:35",
 "Key": "content/cos/nao/epdf/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -5124,7 +5131,7 @@
 },
 {
 "name": "AIT Dining Facility",
-"LastModified": "12/08/2020 09:18:28",
+"LastModified": "12/10/2020 09:42:50",
 "Key": "content/cos/nao/epdf/Library/Army Standards/AIT Dining Facility",
 "extension": "",
 "Size": ""
@@ -5142,6 +5149,13 @@
 "Key": "content/cos/nao/epdf/Library/Army Standards/Permanent Party Dining Facility",
 "extension": "",
 "Size": ""
+},
+{
+"name": "README.txt",
+"LastModified": "12/10/2020 09:44:28",
+"Key": "content/cos/nao/epdf/Library/Army Standards/AIT Dining Facility/README.txt",
+"extension": ".txt",
+"Size": "159"
 },
 {
 "name": "README.txt",
@@ -5207,25 +5221,18 @@
 "Size": "13199"
 },
 {
-"name": "1391s_for_COS_FY11_scope_review.pdf",
-"LastModified": "05/20/2015 15:32:25",
-"Key": "content/cos/nao/epdf/Library/Misc. Documents/1391s_for_COS_FY11_scope_review.pdf",
+"name": "TB_MED_530_MAR 2019.pdf",
+"LastModified": "12/10/2020 09:40:04",
+"Key": "content/cos/nao/epdf/Library/Food Service Codes and Standards/TB_MED_530_MAR 2019.pdf",
 "extension": ".pdf",
-"Size": "611190"
+"Size": "4865404"
 },
 {
-"name": "ORTC-VE.pdf",
-"LastModified": "05/20/2015 15:32:27",
-"Key": "content/cos/nao/epdf/Library/Misc. Documents/ORTC-VE.pdf",
+"name": "LEED v4 - DFAC.pdf",
+"LastModified": "12/10/2020 09:39:58",
+"Key": "content/cos/nao/epdf/Library/Misc. Documents/LEED v4 - DFAC.pdf",
 "extension": ".pdf",
-"Size": "25887021"
-},
-{
-"name": "Proposed_LEED_Strategy_-_EPDF.pdf",
-"LastModified": "05/20/2015 15:32:29",
-"Key": "content/cos/nao/epdf/Library/Misc. Documents/Proposed_LEED_Strategy_-_EPDF.pdf",
-"extension": ".pdf",
-"Size": "37463"
+"Size": "551445"
 },
 {
 "name": "SCHEME_1_DFAC_PROTOTYPES_SID.pdf",
@@ -5256,13 +5263,6 @@
 "Size": "13709010"
 },
 {
-"name": "tbmed530.pdf",
-"LastModified": "05/20/2015 15:32:37",
-"Key": "content/cos/nao/epdf/Library/Misc. Documents/tbmed530.pdf",
-"extension": ".pdf",
-"Size": "19084769"
-},
-{
 "name": "VE_Study_for_Dining_Facilities.pdf",
 "LastModified": "05/20/2015 15:32:39",
 "Key": "content/cos/nao/epdf/Library/Misc. Documents/VE_Study_for_Dining_Facilities.pdf",
@@ -5285,7 +5285,7 @@
 },
 {
 "name": "ORTC and Transient Training Dining Facility",
-"LastModified": "12/08/2020 11:58:36",
+"LastModified": "12/10/2020 09:39:17",
 "Key": "content/cos/nao/epdf/Library/Standard Designs/ORTC and Transient Training Dining Facility",
 "extension": "",
 "Size": ""
@@ -5338,20 +5338,6 @@
 "Key": "content/cos/nao/epdf/Library/Standard Designs/AIT Dining Facility/2600TNG-Specs-11_46__01_02.pdf",
 "extension": ".pdf",
 "Size": "230627"
-},
-{
-"name": "0720_ORTC_DFAC_9-8-09-RFP.pdf",
-"LastModified": "05/20/2015 15:32:40",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/ORTC and Transient Training Dining Facility/0720_ORTC_DFAC_9-8-09-RFP.pdf",
-"extension": ".pdf",
-"Size": "1501360"
-},
-{
-"name": "1428_ORTC_DFAC_9-8-09-RFP.pdf",
-"LastModified": "05/20/2015 15:32:43",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/ORTC and Transient Training Dining Facility/1428_ORTC_DFAC_9-8-09-RFP.pdf",
-"extension": ".pdf",
-"Size": "1555651"
 },
 {
 "name": "standard_transient_dfac-ortc.pdf",
