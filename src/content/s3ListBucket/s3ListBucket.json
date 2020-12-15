@@ -4858,7 +4858,7 @@
 },
 {
 "name": "Adapt-Build Models",
-"LastModified": "09/25/2019 08:24:59",
+"LastModified": "12/15/2020 08:19:27",
 "Key": "content/cos/nao/cidc/Library/Adapt-Build Models",
 "extension": "",
 "Size": ""
@@ -4885,60 +4885,11 @@
 "Size": ""
 },
 {
-"name": "CIC BTH DESIGN ANALYSIS.pdf",
-"LastModified": "05/20/2015 15:32:12",
-"Key": "content/cos/nao/cidc/Library/Adapt-Build Models/CIC BTH DESIGN ANALYSIS.pdf",
-"extension": ".pdf",
-"Size": "6718666"
-},
-{
-"name": "CIC BTH FULL SET.pdf",
-"LastModified": "05/20/2015 15:32:13",
-"Key": "content/cos/nao/cidc/Library/Adapt-Build Models/CIC BTH FULL SET.pdf",
-"extension": ".pdf",
-"Size": "4353141"
-},
-{
-"name": "CIC DET 24 DESIGN ANALYSIS.pdf",
-"LastModified": "05/20/2015 15:32:14",
-"Key": "content/cos/nao/cidc/Library/Adapt-Build Models/CIC DET 24 DESIGN ANALYSIS.pdf",
-"extension": ".pdf",
-"Size": "2925726"
-},
-{
-"name": "CIC DET 24 FULL SET.pdf",
-"LastModified": "05/20/2015 15:32:14",
-"Key": "content/cos/nao/cidc/Library/Adapt-Build Models/CIC DET 24 FULL SET.pdf",
-"extension": ".pdf",
-"Size": "2950274"
-},
-{
-"name": "CIC RA 10-15 DESIGN ANALYSIS.pdf",
-"LastModified": "05/20/2015 15:32:15",
-"Key": "content/cos/nao/cidc/Library/Adapt-Build Models/CIC RA 10-15 DESIGN ANALYSIS.pdf",
-"extension": ".pdf",
-"Size": "3809960"
-},
-{
-"name": "CIC RA 5-9 DESIGN ANALYSIS.pdf",
-"LastModified": "05/20/2015 15:32:16",
-"Key": "content/cos/nao/cidc/Library/Adapt-Build Models/CIC RA 5-9 DESIGN ANALYSIS.pdf",
-"extension": ".pdf",
-"Size": "3572454"
-},
-{
-"name": "CIC RA 5-9 FULL SET.pdf",
-"LastModified": "05/20/2015 15:32:17",
-"Key": "content/cos/nao/cidc/Library/Adapt-Build Models/CIC RA 5-9 FULL SET.pdf",
-"extension": ".pdf",
-"Size": "7602296"
-},
-{
-"name": "cic-ra-10-15-full-set.pdf",
-"LastModified": "08/31/2018 13:32:19",
-"Key": "content/cos/nao/cidc/Library/Adapt-Build Models/cic-ra-10-15-full-set.pdf",
-"extension": ".pdf",
-"Size": "3757984"
+"name": "README.txt",
+"LastModified": "12/15/2020 08:19:49",
+"Key": "content/cos/nao/cidc/Library/Adapt-Build Models/README.txt",
+"extension": ".txt",
+"Size": "59"
 },
 {
 "name": "cidc_large_fy20.pdf",
