@@ -159,7 +159,6 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
             <tr>
               <th>Name</th>
               <th>Size</th>
-              <th>Last Modified</th>
             </tr>
           </thead>
           <tbody>
@@ -193,12 +192,6 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                       </span>
                     </td>
                     <td />
-                    <td>
-                      {getMostRecentFileUpdateDate(
-                        e.Key,
-                        data.allS3ListBucketJson.nodes
-                      )}
-                    </td>
                   </tr>
                 )
               } else {
@@ -218,15 +211,6 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                       </a>
                     </td>
                     <td>{e.readableSize}</td>
-                    <td>
-                      <Moment
-                        date={e.LastModified}
-                        format="M/D/YYYY"
-                        parse="MM/DD/YYYY HH:mm:ss"
-                        withTitle
-                        titleFormat="DD MMMM YYYY"
-                      />
-                    </td>
                   </tr>
                 )
               }
