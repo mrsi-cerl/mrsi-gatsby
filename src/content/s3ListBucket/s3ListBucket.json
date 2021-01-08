@@ -4578,7 +4578,7 @@
 },
 {
 "name": "meps",
-"LastModified": "09/25/2019 08:25:05",
+"LastModified": "01/08/2021 09:30:36",
 "Key": "content/cos/nao/meps",
 "extension": "",
 "Size": ""
@@ -5544,7 +5544,7 @@
 },
 {
 "name": "Old",
-"LastModified": "02/06/2020 11:19:41",
+"LastModified": "01/08/2021 09:25:38",
 "Key": "content/cos/nao/infosys/Old",
 "extension": "",
 "Size": ""
@@ -5558,7 +5558,7 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:25:05",
+"LastModified": "01/08/2021 09:25:38",
 "Key": "content/cos/nao/infosys/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -5569,13 +5569,6 @@
 "Key": "content/cos/nao/infosys/Library/Standard Designs",
 "extension": "",
 "Size": ""
-},
-{
-"name": "Info_Systems_Facility_Standard_Design_-_All.pdf",
-"LastModified": "05/20/2015 15:32:57",
-"Key": "content/cos/nao/infosys/Library/Misc. Documents/Info_Systems_Facility_Standard_Design_-_All.pdf",
-"extension": ".pdf",
-"Size": "968695"
 },
 {
 "name": "PLan_dated_Feb_2010.pdf",
@@ -5599,6 +5592,13 @@
 "Size": "72192"
 },
 {
+"name": "Info_Systems_Facility_Standard_Design_-_All.pdf",
+"LastModified": "05/20/2015 15:32:57",
+"Key": "content/cos/nao/infosys/Old/Info_Systems_Facility_Standard_Design_-_All.pdf",
+"extension": ".pdf",
+"Size": "968695"
+},
+{
 "name": "isf-standards_sep2018.pdf",
 "LastModified": "07/23/2019 16:10:08",
 "Key": "content/cos/nao/infosys/Old/isf-standards_sep2018.pdf",
@@ -5607,8 +5607,15 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:05",
+"LastModified": "01/08/2021 09:30:47",
 "Key": "content/cos/nao/meps/Library",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Old",
+"LastModified": "01/08/2021 09:30:48",
+"Key": "content/cos/nao/meps/Old",
 "extension": "",
 "Size": ""
 },
@@ -5643,49 +5650,49 @@
 {
 "name": "DD1391 Templates",
 "LastModified": "09/25/2019 08:25:05",
-"Key": "content/cos/nao/meps/Library/DD1391 Templates",
+"Key": "content/cos/nao/meps/Old/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Standard Designs",
 "LastModified": "09/25/2019 08:25:05",
-"Key": "content/cos/nao/meps/Library/Standard Designs",
+"Key": "content/cos/nao/meps/Old/Standard Designs",
 "extension": "",
 "Size": ""
 },
 {
 "name": "meps_medium_fy19.pdf",
 "LastModified": "06/20/2018 16:07:27",
-"Key": "content/cos/nao/meps/Library/DD1391 Templates/meps_medium_fy19.pdf",
+"Key": "content/cos/nao/meps/Old/DD1391 Templates/meps_medium_fy19.pdf",
 "extension": ".pdf",
 "Size": "9224"
 },
 {
 "name": "meps_small_fy19.pdf",
 "LastModified": "06/20/2018 16:08:13",
-"Key": "content/cos/nao/meps/Library/DD1391 Templates/meps_small_fy19.pdf",
+"Key": "content/cos/nao/meps/Old/DD1391 Templates/meps_small_fy19.pdf",
 "extension": ".pdf",
 "Size": "9227"
 },
 {
 "name": "MEPS_Standard_Drawings_(CAL).ZIP",
 "LastModified": "05/20/2015 15:32:59",
-"Key": "content/cos/nao/meps/Library/Standard Designs/MEPS_Standard_Drawings_(CAL).ZIP",
+"Key": "content/cos/nao/meps/Old/Standard Designs/MEPS_Standard_Drawings_(CAL).ZIP",
 "extension": ".ZIP",
 "Size": "2789557"
 },
 {
 "name": "Room_Features_Matrix.xls",
 "LastModified": "05/20/2015 15:33:00",
-"Key": "content/cos/nao/meps/Library/Standard Designs/Room_Features_Matrix.xls",
+"Key": "content/cos/nao/meps/Old/Standard Designs/Room_Features_Matrix.xls",
 "extension": ".xls",
 "Size": "80896"
 },
 {
 "name": "USMEPCOM_Design_Guide OCT 2013.PDF",
 "LastModified": "05/20/2015 15:33:01",
-"Key": "content/cos/nao/meps/Library/Standard Designs/USMEPCOM_Design_Guide OCT 2013.PDF",
+"Key": "content/cos/nao/meps/Old/Standard Designs/USMEPCOM_Design_Guide OCT 2013.PDF",
 "extension": ".PDF",
 "Size": "7582797"
 },
