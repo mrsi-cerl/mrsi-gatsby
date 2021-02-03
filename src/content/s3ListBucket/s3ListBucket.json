@@ -5215,7 +5215,7 @@
 },
 {
 "name": "AIT Dining Facility",
-"LastModified": "12/08/2020 11:59:05",
+"LastModified": "02/03/2021 12:02:08",
 "Key": "content/cos/nao/epdf/Library/Standard Designs/AIT Dining Facility",
 "extension": "",
 "Size": ""
@@ -5229,7 +5229,7 @@
 },
 {
 "name": "Permanent Part Dining Facility",
-"LastModified": "12/08/2020 11:57:03",
+"LastModified": "02/03/2021 12:03:11",
 "Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility",
 "extension": "",
 "Size": ""
@@ -5249,25 +5249,11 @@
 "Size": "17694"
 },
 {
-"name": "1300TNG-Drawings.pdf",
-"LastModified": "05/20/2015 15:32:42",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/AIT Dining Facility/1300TNG-Drawings.pdf",
-"extension": ".pdf",
-"Size": "6886286"
-},
-{
 "name": "1300TNG-Specs-11_46__01_06.pdf",
 "LastModified": "05/20/2015 15:32:43",
 "Key": "content/cos/nao/epdf/Library/Standard Designs/AIT Dining Facility/1300TNG-Specs-11_46__01_06.pdf",
 "extension": ".pdf",
 "Size": "233082"
-},
-{
-"name": "2600TNG-Drawings.pdf",
-"LastModified": "05/20/2015 15:32:44",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/AIT Dining Facility/2600TNG-Drawings.pdf",
-"extension": ".pdf",
-"Size": "10347298"
 },
 {
 "name": "2600TNG-Specs-11_46__01_02.pdf",
@@ -5284,13 +5270,6 @@
 "Size": "4480524"
 },
 {
-"name": "1300PP-Drawings.pdf",
-"LastModified": "05/20/2015 15:32:40",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/1300PP-Drawings.pdf",
-"extension": ".pdf",
-"Size": "8157700"
-},
-{
 "name": "1300PP-Specs-11_46__01_01.pdf",
 "LastModified": "05/20/2015 15:32:41",
 "Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/1300PP-Specs-11_46__01_01.pdf",
@@ -5298,25 +5277,11 @@
 "Size": "302808"
 },
 {
-"name": "500PP-Drawings.pdf",
-"LastModified": "05/20/2015 15:32:45",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/500PP-Drawings.pdf",
-"extension": ".pdf",
-"Size": "7654874"
-},
-{
 "name": "500PP-Specs-11_46__01_04.pdf",
 "LastModified": "05/20/2015 15:32:46",
 "Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/500PP-Specs-11_46__01_04.pdf",
 "extension": ".pdf",
 "Size": "290033"
-},
-{
-"name": "800PP-Drawings.pdf",
-"LastModified": "05/20/2015 15:32:46",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/800PP-Drawings.pdf",
-"extension": ".pdf",
-"Size": "7748565"
 },
 {
 "name": "800PP-Specs-11_46__01_05.pdf",
