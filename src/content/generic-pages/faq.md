@@ -18,7 +18,7 @@ The MRSI sites are only approved to handle **unclassified** documents. Only cont
 Our applications are delivered as Microsoft ClickOnce applications and install on your computer in a private sandbox for security.
 
 #### Which web browser should I use?
-While our website should be compatible with any modern web browser and Internet Explorer, our Wizard applications require that you use either Microsoft Edge or Internet Explorer. We use Microsoft's ClickOnce technology for the deployment of our Wizard applications to your desktop.
+While our website should be compatible with any modern web browser and Internet Explorer, our Wizard applications require that you use Internet Explorer only. We use Microsoft's ClickOnce technology for the deployment of our Wizard applications to your desktop.
 
 Neither Chrome nor Firefox support this technology out-of-the-box. They do, however  have plugins/extensions available that enable this capability. *Note that you must have the ability to install plugins/extensions to use this option. Most government employees do not have the permissions required to do this.*
 
