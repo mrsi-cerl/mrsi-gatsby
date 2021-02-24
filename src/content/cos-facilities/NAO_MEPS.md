@@ -6,9 +6,9 @@ facility_cos_short_name: NAO
 facility_functional_proponent: DOD
 facility_long_name: Military Entrance Processing Station
 facility_short_name: MEPS
-facility_technical_poc_email: terry.l.deglandon@usace.army.mil
-facility_technical_poc_name: Terry Deglandon
-file_library_root_path: "content/cos/nao/meps/Library/"
+facility_technical_poc_email: matthew.c.scanlon@usace.army.mil
+facility_technical_poc_name: Matthew Scanlon
+file_library_root_path: ""
 page_last_reviewed: 1 January 1970
 slug: /cos/nao/meps/
 carousel_images:
@@ -29,3 +29,7 @@ Additional Information: IBC Occupancy Classification B Occupancy. The facility i
 ## Variations
 
 There are no variations for this facility standard design.
+
+## Status
+
+**The MEPS standard is currently inactive. Contact the COS for more information.**

@@ -16,7 +16,7 @@ cos_short_name: "NAO"
 
 ---
 
-![HQ](./norfolk-district.jpg)
+![HQ](/admin/images/uploads/norfolk-district.jpg "HQ")
 
 The district is a civil works and military district in the North Atlantic Division of USACE and employees approximately 360 staff. The district primarily serves watersheds and military installations across Virginia. Military installations include Joint Base Eustis-Langley, Fort Lee, Defense Supply Center Richmond, Fort Pickett, Fort AP Hill, and Radford Ammunition Plant. Customers include the Army, Air Force, NASA, Arlington National Cemetery, Department of Defense Education Activity (DoDEA) and other federal agencies.
 
