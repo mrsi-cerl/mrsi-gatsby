@@ -8925,7 +8925,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:25:33",
+"LastModified": "02/24/2021 15:16:19",
 "Key": "content/cos/sas/temf/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -8980,11 +8980,11 @@
 "Size": "6014962"
 },
 {
-"name": "TEMF_Std_Dgn_Rev_4.4.pdf",
-"LastModified": "05/20/2015 15:46:27",
-"Key": "content/cos/sas/temf/Library/Standard Designs/TEMF_Std_Dgn_Rev_4.4.pdf",
+"name": "TEMF_Std_Dgn_Rev_5.0.pdf",
+"LastModified": "02/24/2021 15:11:54",
+"Key": "content/cos/sas/temf/Library/Standard Designs/TEMF_Std_Dgn_Rev_5.0.pdf",
 "extension": ".pdf",
-"Size": "1387772"
+"Size": "1722736"
 },
 {
 "name": "bragg_temf.rvt",
@@ -13097,7 +13097,7 @@
 },
 {
 "name": "Meeting Minutes",
-"LastModified": "11/04/2020 09:27:14",
+"LastModified": "02/24/2021 15:18:51",
 "Key": "content/PDRS/Meeting Minutes",
 "extension": "",
 "Size": ""
@@ -13244,21 +13244,14 @@
 },
 {
 "name": "Archive",
-"LastModified": "11/04/2020 09:27:14",
+"LastModified": "02/24/2021 15:18:51",
 "Key": "content/PDRS/Meeting Minutes/Archive",
 "extension": "",
 "Size": ""
 },
 {
-"name": "FY22 Meeting Minutes",
-"LastModified": "05/04/2020 12:12:13",
-"Key": "content/PDRS/Meeting Minutes/FY22 Meeting Minutes",
-"extension": "",
-"Size": ""
-},
-{
 "name": "FY23 Meeting Minutes",
-"LastModified": "02/08/2021 13:01:17",
+"LastModified": "02/24/2021 15:13:36",
 "Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes",
 "extension": "",
 "Size": ""
@@ -13288,6 +13281,13 @@
 "name": "FY21 Meeting Minutes",
 "LastModified": "09/25/2019 08:26:14",
 "Key": "content/PDRS/Meeting Minutes/Archive/FY21 Meeting Minutes",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY22 Meeting Minutes",
+"LastModified": "05/04/2020 12:12:13",
+"Key": "content/PDRS/Meeting Minutes/Archive/FY22 Meeting Minutes",
 "extension": "",
 "Size": ""
 },
@@ -13518,86 +13518,86 @@
 {
 "name": "NAD PDR Telecons 4_21_2020.pdf",
 "LastModified": "05/04/2020 08:46:37",
-"Key": "content/PDRS/Meeting Minutes/FY22 Meeting Minutes/NAD PDR Telecons 4_21_2020.pdf",
+"Key": "content/PDRS/Meeting Minutes/Archive/FY22 Meeting Minutes/NAD PDR Telecons 4_21_2020.pdf",
 "extension": ".pdf",
 "Size": "315697"
 },
 {
 "name": "NWD PDR Telecons 4_21_20.pdf",
 "LastModified": "05/04/2020 08:46:39",
-"Key": "content/PDRS/Meeting Minutes/FY22 Meeting Minutes/NWD PDR Telecons 4_21_20.pdf",
+"Key": "content/PDRS/Meeting Minutes/Archive/FY22 Meeting Minutes/NWD PDR Telecons 4_21_20.pdf",
 "extension": ".pdf",
 "Size": "194872"
 },
 {
 "name": "POD PDR Telecons 4_22_20 v.pdf",
 "LastModified": "05/04/2020 08:46:41",
-"Key": "content/PDRS/Meeting Minutes/FY22 Meeting Minutes/POD PDR Telecons 4_22_20 v.pdf",
+"Key": "content/PDRS/Meeting Minutes/Archive/FY22 Meeting Minutes/POD PDR Telecons 4_22_20 v.pdf",
 "extension": ".pdf",
 "Size": "249526"
 },
 {
 "name": "SAD_SAM PDR Telecons 4_21_2020.pdf",
 "LastModified": "05/04/2020 08:46:44",
-"Key": "content/PDRS/Meeting Minutes/FY22 Meeting Minutes/SAD_SAM PDR Telecons 4_21_2020.pdf",
+"Key": "content/PDRS/Meeting Minutes/Archive/FY22 Meeting Minutes/SAD_SAM PDR Telecons 4_21_2020.pdf",
 "extension": ".pdf",
 "Size": "217169"
 },
 {
 "name": "SPD PDR Telecons 4_21_20.pdf",
 "LastModified": "05/04/2020 08:46:46",
-"Key": "content/PDRS/Meeting Minutes/FY22 Meeting Minutes/SPD PDR Telecons 4_21_20.pdf",
+"Key": "content/PDRS/Meeting Minutes/Archive/FY22 Meeting Minutes/SPD PDR Telecons 4_21_20.pdf",
 "extension": ".pdf",
 "Size": "179857"
 },
 {
 "name": "SWD PDR Telecons 4_21_2020.pdf",
 "LastModified": "05/04/2020 08:46:49",
-"Key": "content/PDRS/Meeting Minutes/FY22 Meeting Minutes/SWD PDR Telecons 4_21_2020.pdf",
+"Key": "content/PDRS/Meeting Minutes/Archive/FY22 Meeting Minutes/SWD PDR Telecons 4_21_2020.pdf",
 "extension": ".pdf",
 "Size": "182411"
 },
 {
-"name": "NAD PDR Telecons 02_02_21.pdf",
-"LastModified": "02/08/2021 13:01:13",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/NAD PDR Telecons 02_02_21.pdf",
+"name": "NAD PDR Telecons 02_16_21.pdf",
+"LastModified": "02/24/2021 15:13:31",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/NAD PDR Telecons 02_16_21.pdf",
 "extension": ".pdf",
-"Size": "317992"
+"Size": "330611"
 },
 {
-"name": "NWD PDR Telecons 02_02_21.pdf",
-"LastModified": "02/08/2021 13:01:14",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/NWD PDR Telecons 02_02_21.pdf",
+"name": "NWD PDR Telecons 02_16_21.pdf",
+"LastModified": "02/24/2021 15:13:33",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/NWD PDR Telecons 02_16_21.pdf",
 "extension": ".pdf",
-"Size": "213298"
+"Size": "207431"
 },
 {
-"name": "POD PDR Telecons 01_27_21.pdf",
-"LastModified": "02/08/2021 13:01:15",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/POD PDR Telecons 01_27_21.pdf",
+"name": "POD PDR Telecons 02_10_21.pdf",
+"LastModified": "02/24/2021 15:13:34",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/POD PDR Telecons 02_10_21.pdf",
 "extension": ".pdf",
-"Size": "234850"
+"Size": "227873"
 },
 {
-"name": "SAD PDR Telecons 02_02_21.pdf",
-"LastModified": "02/08/2021 13:01:16",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SAD PDR Telecons 02_02_21.pdf",
+"name": "SAD PDR Telecons 02_16_21.pdf",
+"LastModified": "02/24/2021 15:13:35",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SAD PDR Telecons 02_16_21.pdf",
 "extension": ".pdf",
-"Size": "275488"
+"Size": "253110"
 },
 {
-"name": "SPD PDR Telecons 02_02_21.pdf",
-"LastModified": "02/08/2021 13:01:16",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SPD PDR Telecons 02_02_21.pdf",
+"name": "SPD PDR Telecons 02_16_21.pdf",
+"LastModified": "02/24/2021 15:13:36",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SPD PDR Telecons 02_16_21.pdf",
 "extension": ".pdf",
-"Size": "212547"
+"Size": "206043"
 },
 {
-"name": "SWD PDR Telecons 02_02_21.pdf",
-"LastModified": "02/08/2021 13:01:17",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SWD PDR Telecons 02_02_21.pdf",
+"name": "SWD PDR Telecons 02_16_21.pdf",
+"LastModified": "02/24/2021 15:13:37",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SWD PDR Telecons 02_16_21.pdf",
 "extension": ".pdf",
-"Size": "261111"
+"Size": "244746"
 },
 {
 "name": "ARCHIVES",
