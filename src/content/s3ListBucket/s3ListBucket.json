@@ -8344,14 +8344,14 @@
 },
 {
 "name": "temf",
-"LastModified": "09/25/2019 08:25:33",
+"LastModified": "03/04/2021 09:45:40",
 "Key": "content/cos/sas/temf",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Library",
-"LastModified": "03/05/2020 16:27:17",
+"LastModified": "03/04/2021 09:46:01",
 "Key": "content/cos/sas/bn-bde-hq/Library",
 "extension": "",
 "Size": ""
@@ -8410,6 +8410,13 @@
 "LastModified": "09/25/2019 08:25:30",
 "Key": "content/cos/sas/bn-bde-hq/Library/Legacy Renovation",
 "extension": "",
+"Size": ""
+},
+{
+"name": "Misc. Documents",
+"LastModified": "03/04/2021 09:46:14",
+"Key": "content/cos/sas/bn-bde-hq/Library/Misc. Documents",
+"extension": ". Documents",
 "Size": ""
 },
 {
@@ -8502,6 +8509,13 @@
 "Key": "content/cos/sas/bn-bde-hq/Library/Legacy Renovation/BDE BN CORRECTED FINAL.pdf",
 "extension": ".pdf",
 "Size": "5059119"
+},
+{
+"name": "LEED v4 Score Card - BN-BDE HQ.pdf",
+"LastModified": "03/04/2021 09:44:23",
+"Key": "content/cos/sas/bn-bde-hq/Library/Misc. Documents/LEED v4 Score Card - BN-BDE HQ.pdf",
+"extension": ".pdf",
+"Size": "100207"
 },
 {
 "name": "VE Study - BN_BDE HQ_FEB 2020.pdf",
@@ -8764,7 +8778,7 @@
 },
 {
 "name": "Library",
-"LastModified": "02/26/2020 13:30:11",
+"LastModified": "03/04/2021 09:44:15",
 "Key": "content/cos/sas/cof/Library",
 "extension": "",
 "Size": ""
@@ -8826,6 +8840,13 @@
 "Size": ""
 },
 {
+"name": "Misc. Documents",
+"LastModified": "03/04/2021 09:45:01",
+"Key": "content/cos/sas/cof/Library/Misc. Documents",
+"extension": ". Documents",
+"Size": ""
+},
+{
 "name": "Programmatic Value Engineering Study",
 "LastModified": "02/26/2020 13:30:29",
 "Key": "content/cos/sas/cof/Library/Programmatic Value Engineering Study",
@@ -8875,6 +8896,13 @@
 "Size": "31451315"
 },
 {
+"name": "LEED v4 Score Card - COF.pdf",
+"LastModified": "03/04/2021 09:44:29",
+"Key": "content/cos/sas/cof/Library/Misc. Documents/LEED v4 Score Card - COF.pdf",
+"extension": ".pdf",
+"Size": "100110"
+},
+{
 "name": "VE Study - COF Standards_FEB 2020.pdf",
 "LastModified": "02/26/2020 13:30:29",
 "Key": "content/cos/sas/cof/Library/Programmatic Value Engineering Study/VE Study - COF Standards_FEB 2020.pdf",
@@ -8890,7 +8918,7 @@
 },
 {
 "name": "Library",
-"LastModified": "03/31/2020 13:04:07",
+"LastModified": "03/04/2021 09:45:40",
 "Key": "content/cos/sas/temf/Library",
 "extension": "",
 "Size": ""
@@ -8914,6 +8942,13 @@
 "LastModified": "09/25/2019 08:25:33",
 "Key": "content/cos/sas/temf/Library/DD1391 Templates",
 "extension": "",
+"Size": ""
+},
+{
+"name": "Misc. Documents",
+"LastModified": "03/04/2021 09:45:31",
+"Key": "content/cos/sas/temf/Library/Misc. Documents",
+"extension": ". Documents",
 "Size": ""
 },
 {
@@ -8971,6 +9006,13 @@
 "Key": "content/cos/sas/temf/Library/DD1391 Templates/temf_xlarge_fy21.pdf",
 "extension": ".pdf",
 "Size": "12843"
+},
+{
+"name": "LEED v4 Score Card - TEMF.pdf",
+"LastModified": "03/04/2021 09:44:42",
+"Key": "content/cos/sas/temf/Library/Misc. Documents/LEED v4 Score Card - TEMF.pdf",
+"extension": ".pdf",
+"Size": "100133"
 },
 {
 "name": "VE Study - TEMF Standards_MAR 2020.pdf",
