@@ -7378,7 +7378,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:25:26",
+"LastModified": "03/05/2021 09:52:14",
 "Key": "content/cos/poh/slq/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -7389,6 +7389,13 @@
 "Key": "content/cos/poh/slq/Library/Misc. Documents/LEED v4 Score Card_SLQ .pdf",
 "extension": ".pdf",
 "Size": "85638"
+},
+{
+"name": "SLQ 11000-Para 3 Rev 4.7 Jan2021.pdf",
+"LastModified": "03/05/2021 09:45:52",
+"Key": "content/cos/poh/slq/Library/Standard Designs/SLQ 11000-Para 3 Rev 4.7 Jan2021.pdf",
+"extension": ".pdf",
+"Size": "363184"
 },
 {
 "name": "slq-standard-design-plans-6414.pdf",
@@ -7413,7 +7420,7 @@
 },
 {
 "name": "Archives",
-"LastModified": "05/11/2020 08:57:43",
+"LastModified": "03/05/2021 09:56:51",
 "Key": "content/cos/poh/toq/Library/Archives",
 "extension": "",
 "Size": ""
@@ -7441,10 +7448,17 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "05/11/2020 08:57:43",
+"LastModified": "03/05/2021 09:57:14",
 "Key": "content/cos/poh/toq/Library/Standard Designs",
 "extension": "",
 "Size": ""
+},
+{
+"name": "TOQ_ 11000-Par-3-rev 4.7_May2019.pdf",
+"LastModified": "05/04/2020 08:39:23",
+"Key": "content/cos/poh/toq/Library/Archives/TOQ_ 11000-Par-3-rev 4.7_May2019.pdf",
+"extension": ".pdf",
+"Size": "317344"
 },
 {
 "name": "transtrngofficersqtrs_fy19.pdf",
@@ -7489,11 +7503,11 @@
 "Size": "85637"
 },
 {
-"name": "TOQ_ 11000-Par-3-rev 4.7_May2019.pdf",
-"LastModified": "05/04/2020 08:39:23",
-"Key": "content/cos/poh/toq/Library/Standard Designs/TOQ_ 11000-Par-3-rev 4.7_May2019.pdf",
+"name": "TOQ Standard Design narrative, Para 3_Rev 4.8 Feb2021.pdf",
+"LastModified": "03/05/2021 09:50:45",
+"Key": "content/cos/poh/toq/Library/Standard Designs/TOQ Standard Design narrative, Para 3_Rev 4.8 Feb2021.pdf",
 "extension": ".pdf",
-"Size": "317344"
+"Size": "287475"
 },
 {
 "name": "TTOQ Revised Floor Plans_Feb2013.pdf",
