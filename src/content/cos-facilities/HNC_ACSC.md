@@ -16,6 +16,7 @@ cos_manager_email: Jeremiah.R.Haley@usace.army.mil
 file_library_root_path: content/cos/hnc/acsc/Library/
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/acsc/
+draft: true
 ---
 
 ## Description

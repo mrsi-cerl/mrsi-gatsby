@@ -21,6 +21,7 @@ carousel_images:
   - /admin/images/uploads/img01306-20130227-1542.jpg
   - /admin/images/uploads/img01267-20130227-1353.jpg
   - /admin/images/uploads/img01287-20130227-1430.jpg
+draft: true
 ---
 
 ## Description

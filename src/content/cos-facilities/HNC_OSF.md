@@ -20,6 +20,7 @@ page_last_reviewed: 1 January 1970
 slug: /cos/hnc/osf/
 carousel_images:
   - /admin/images/uploads/Football-Field-Design.jpg
+draft: true
 ---
 
 ##Description
