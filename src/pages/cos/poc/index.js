@@ -14,7 +14,9 @@ function compare(a, b) {
 
 const getAllFacilities = data =>
   data.allMarkdownRemark.edges.filter(
-    edge => edge.node.frontmatter.doc_type === "facility_page"
+    edge =>
+      edge.node.frontmatter.doc_type === "facility_page" &&
+      !edge.node.frontmatter.draft
   )
 
 const getCOSForFacility = (data, cos) =>
@@ -108,6 +110,7 @@ export const query = graphql`
             facility_cos_short_name
             facility_technical_poc_name
             slug
+            draft
           }
         }
       }

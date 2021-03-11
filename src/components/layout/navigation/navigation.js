@@ -32,6 +32,7 @@ const Navigation = ({ path, hideSideNav, sideNavStyle, children, center }) => {
               file_library_root_path
               page_last_reviewed
               slug
+              draft
             }
             html
           }
@@ -40,7 +41,15 @@ const Navigation = ({ path, hideSideNav, sideNavStyle, children, center }) => {
     }
   `)
 
-  const pages = getPages(data, path)
+  const nonDraftData = {
+    allMarkdownRemark: {
+      edges: data.allMarkdownRemark.edges.filter(
+        e => !e.node.frontmatter.draft
+      ),
+    },
+  }
+
+  const pages = getPages(nonDraftData, path)
 
   const getStyle = () => (center ? { maxWidth: 1000, margin: "auto" } : {})
 

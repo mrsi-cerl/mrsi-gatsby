@@ -37,6 +37,7 @@ exports.createPages = ({ graphql, actions }) => {
             frontmatter {
               doc_type
               slug
+              draft
             }
           }
         }

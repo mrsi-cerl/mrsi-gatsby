@@ -7,7 +7,9 @@ import Table from "react-bootstrap/Table"
 
 const ArmyStandards = ({ data }) => {
   const facilities = data.allMarkdownRemark.edges.filter(
-    e => e.node.frontmatter.doc_type === "facility_page"
+    e =>
+      e.node.frontmatter.doc_type === "facility_page" &&
+      !e.node.frontmatter.draft
   )
   facilities.sort((a, b) => {
     if (
@@ -84,6 +86,7 @@ export const query = graphql`
             file_library_root_path
             page_last_reviewed
             slug
+            draft
           }
         }
       }
