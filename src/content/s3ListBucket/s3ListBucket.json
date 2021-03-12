@@ -5726,7 +5726,7 @@
 },
 {
 "name": "Library",
-"LastModified": "04/21/2020 08:35:44",
+"LastModified": "03/12/2021 09:14:53",
 "Key": "content/cos/nwo/acp/Library",
 "extension": "",
 "Size": ""
@@ -5739,8 +5739,15 @@
 "Size": "285622"
 },
 {
+"name": "2021 Binder PDF Sheets by Discipline",
+"LastModified": "03/12/2021 09:02:50",
+"Key": "content/cos/nwo/acp/Library/2021 Binder PDF Sheets by Discipline",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Archive",
-"LastModified": "08/03/2020 12:12:31",
+"LastModified": "03/12/2021 09:22:21",
 "Key": "content/cos/nwo/acp/Library/Archive",
 "extension": "",
 "Size": ""
@@ -5760,9 +5767,23 @@
 "Size": ""
 },
 {
+"name": "Individual 2021 PDF Sheets",
+"LastModified": "03/12/2021 08:59:50",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Standard Designs",
-"LastModified": "09/30/2020 15:42:30",
+"LastModified": "03/12/2021 09:23:42",
 "Key": "content/cos/nwo/acp/Library/Standard Designs",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Standard Drawings",
+"LastModified": "03/12/2021 09:35:07",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings",
 "extension": "",
 "Size": ""
 },
@@ -5770,6 +5791,41 @@
 "name": "Sustainability Checklist",
 "LastModified": "09/25/2019 08:25:19",
 "Key": "content/cos/nwo/acp/Library/Sustainability Checklist",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Architectural sheets Feb 2021 binder file.pdf",
+"LastModified": "03/12/2021 08:19:01",
+"Key": "content/cos/nwo/acp/Library/2021 Binder PDF Sheets by Discipline/Architectural sheets Feb 2021 binder file.pdf",
+"extension": ".pdf",
+"Size": "2379949"
+},
+{
+"name": "Civil sheets Feb 2021 binder file.pdf",
+"LastModified": "03/12/2021 08:19:01",
+"Key": "content/cos/nwo/acp/Library/2021 Binder PDF Sheets by Discipline/Civil sheets Feb 2021 binder file.pdf",
+"extension": ".pdf",
+"Size": "2572637"
+},
+{
+"name": "Electrical Sheets Feb 2021 binder file.pdf",
+"LastModified": "03/12/2021 08:19:01",
+"Key": "content/cos/nwo/acp/Library/2021 Binder PDF Sheets by Discipline/Electrical Sheets Feb 2021 binder file.pdf",
+"extension": ".pdf",
+"Size": "13585309"
+},
+{
+"name": "Interior Sheets Feb 2021 binder file.pdf",
+"LastModified": "03/12/2021 08:19:02",
+"Key": "content/cos/nwo/acp/Library/2021 Binder PDF Sheets by Discipline/Interior Sheets Feb 2021 binder file.pdf",
+"extension": ".pdf",
+"Size": "929936"
+},
+{
+"name": "2013 ACP Standard Drawings",
+"LastModified": "03/12/2021 09:23:42",
+"Key": "content/cos/nwo/acp/Library/Archive/2013 ACP Standard Drawings",
 "extension": "",
 "Size": ""
 },
@@ -5795,6 +5851,13 @@
 "Size": ""
 },
 {
+"name": "2019 Interim Electrical Sheets",
+"LastModified": "03/12/2021 09:22:52",
+"Key": "content/cos/nwo/acp/Library/Archive/2019 Interim Electrical Sheets",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Previous Drawings",
 "LastModified": "04/21/2020 08:37:37",
 "Key": "content/cos/nwo/acp/Library/Archive/Previous Drawings",
@@ -5814,6 +5877,111 @@
 "Key": "content/cos/nwo/acp/Library/Archive/acp-facility-costs-100918.xls",
 "extension": ".xls",
 "Size": "885760"
+},
+{
+"name": "Army ACP Standard Design PDF Drawings May 2013.zip",
+"LastModified": "05/20/2015 15:34:12",
+"Key": "content/cos/nwo/acp/Library/Archive/2013 ACP Standard Drawings/Army ACP Standard Design PDF Drawings May 2013.zip",
+"extension": ".zip",
+"Size": "11705564"
+},
+{
+"name": "VCC 2 Processor Non Hardened Drawing PDF.zip",
+"LastModified": "05/20/2015 15:34:37",
+"Key": "content/cos/nwo/acp/Library/Archive/2013 ACP Standard Drawings/VCC 2 Processor Non Hardened Drawing PDF.zip",
+"extension": ".zip",
+"Size": "18120832"
+},
+{
+"name": "VCC 2 Processor Non Hardened Sheets.zip",
+"LastModified": "05/20/2015 15:34:39",
+"Key": "content/cos/nwo/acp/Library/Archive/2013 ACP Standard Drawings/VCC 2 Processor Non Hardened Sheets.zip",
+"extension": ".zip",
+"Size": "15447573"
+},
+{
+"name": "VCC 3 Processor Hardened Drawing PDF.zip",
+"LastModified": "05/20/2015 15:34:46",
+"Key": "content/cos/nwo/acp/Library/Archive/2013 ACP Standard Drawings/VCC 3 Processor Hardened Drawing PDF.zip",
+"extension": ".zip",
+"Size": "39279212"
+},
+{
+"name": "VCC 3 Processor Hardened Sheets.zip",
+"LastModified": "05/20/2015 15:34:55",
+"Key": "content/cos/nwo/acp/Library/Archive/2013 ACP Standard Drawings/VCC 3 Processor Hardened Sheets.zip",
+"extension": ".zip",
+"Size": "37805829"
+},
+{
+"name": "VCC 3 Processor Non Hardened Drawing PDF.zip",
+"LastModified": "05/20/2015 15:35:00",
+"Key": "content/cos/nwo/acp/Library/Archive/2013 ACP Standard Drawings/VCC 3 Processor Non Hardened Drawing PDF.zip",
+"extension": ".zip",
+"Size": "38500001"
+},
+{
+"name": "VCC 3 Processor Non Hardened Sheets.zip",
+"LastModified": "05/20/2015 15:35:07",
+"Key": "content/cos/nwo/acp/Library/Archive/2013 ACP Standard Drawings/VCC 3 Processor Non Hardened Sheets.zip",
+"extension": ".zip",
+"Size": "36448098"
+},
+{
+"name": "VCC 6 Processor Hardened Drawing PDF.zip",
+"LastModified": "05/20/2015 15:35:12",
+"Key": "content/cos/nwo/acp/Library/Archive/2013 ACP Standard Drawings/VCC 6 Processor Hardened Drawing PDF.zip",
+"extension": ".zip",
+"Size": "40220841"
+},
+{
+"name": "VCC 6 Processor Hardened Sheets.zip",
+"LastModified": "05/20/2015 15:35:20",
+"Key": "content/cos/nwo/acp/Library/Archive/2013 ACP Standard Drawings/VCC 6 Processor Hardened Sheets.zip",
+"extension": ".zip",
+"Size": "32988850"
+},
+{
+"name": "VCC 6 Processor Non Hardened Drawing PDF.zip",
+"LastModified": "05/20/2015 15:35:24",
+"Key": "content/cos/nwo/acp/Library/Archive/2013 ACP Standard Drawings/VCC 6 Processor Non Hardened Drawing PDF.zip",
+"extension": ".zip",
+"Size": "39177682"
+},
+{
+"name": "VCC 6 Processor Non Hardened Sheets.zip",
+"LastModified": "05/20/2015 15:35:32",
+"Key": "content/cos/nwo/acp/Library/Archive/2013 ACP Standard Drawings/VCC 6 Processor Non Hardened Sheets.zip",
+"extension": ".zip",
+"Size": "28948392"
+},
+{
+"name": "VCC 9 Processor Hardened Drawing PDF.zip",
+"LastModified": "05/20/2015 15:35:39",
+"Key": "content/cos/nwo/acp/Library/Archive/2013 ACP Standard Drawings/VCC 9 Processor Hardened Drawing PDF.zip",
+"extension": ".zip",
+"Size": "41125461"
+},
+{
+"name": "VCC 9 Processor Hardened Sheets.zip",
+"LastModified": "05/20/2015 15:35:45",
+"Key": "content/cos/nwo/acp/Library/Archive/2013 ACP Standard Drawings/VCC 9 Processor Hardened Sheets.zip",
+"extension": ".zip",
+"Size": "25110113"
+},
+{
+"name": "VCC 9 Processor Non Hardened Drawing PDF.zip",
+"LastModified": "05/20/2015 15:35:51",
+"Key": "content/cos/nwo/acp/Library/Archive/2013 ACP Standard Drawings/VCC 9 Processor Non Hardened Drawing PDF.zip",
+"extension": ".zip",
+"Size": "39416523"
+},
+{
+"name": "VCC 9 Processor Non Hardened Sheets.zip",
+"LastModified": "05/20/2015 15:36:49",
+"Key": "content/cos/nwo/acp/Library/Archive/2013 ACP Standard Drawings/VCC 9 Processor Non Hardened Sheets.zip",
+"extension": ".zip",
+"Size": "34914749"
 },
 {
 "name": "acp-stdg-bsd.dgn",
@@ -6152,6 +6320,13 @@
 "Size": "448041"
 },
 {
+"name": "Nov 2019 binder Interim standard design electrical sheets set.pdf",
+"LastModified": "04/21/2020 08:23:54",
+"Key": "content/cos/nwo/acp/Library/Archive/2019 Interim Electrical Sheets/Nov 2019 binder Interim standard design electrical sheets set.pdf",
+"extension": ".pdf",
+"Size": "15952825"
+},
+{
 "name": "Gatehouse, GaurdBooth, Overwatch, Canopy Drawing PDF.zip",
 "LastModified": "05/20/2015 15:34:26",
 "Key": "content/cos/nwo/acp/Library/Archive/Previous Drawings/Gatehouse, GaurdBooth, Overwatch, Canopy Drawing PDF.zip",
@@ -6292,6 +6467,594 @@
 "Size": "207545"
 },
 {
+"name": "ACP-STDA-100CS.pdf",
+"LastModified": "03/12/2021 08:59:37",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDA-100CS.pdf",
+"extension": ".pdf",
+"Size": "145216"
+},
+{
+"name": "ACP-STDA-100G1.pdf",
+"LastModified": "03/12/2021 08:59:39",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDA-100G1.pdf",
+"extension": ".pdf",
+"Size": "218631"
+},
+{
+"name": "ACP-STDA-100GB.pdf",
+"LastModified": "03/12/2021 08:59:41",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDA-100GB.pdf",
+"extension": ".pdf",
+"Size": "126288"
+},
+{
+"name": "ACP-STDA-100ID.pdf",
+"LastModified": "03/12/2021 08:59:43",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDA-100ID.pdf",
+"extension": ".pdf",
+"Size": "115516"
+},
+{
+"name": "ACP-STDA-100O.pdf",
+"LastModified": "03/12/2021 08:59:45",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDA-100O.pdf",
+"extension": ".pdf",
+"Size": "452511"
+},
+{
+"name": "ACP-STDA-100POV.pdf",
+"LastModified": "03/12/2021 08:59:47",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDA-100POV.pdf",
+"extension": ".pdf",
+"Size": "133425"
+},
+{
+"name": "ACP-STDA-100S1.pdf",
+"LastModified": "03/12/2021 08:59:50",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDA-100S1.pdf",
+"extension": ".pdf",
+"Size": "133653"
+},
+{
+"name": "ACP-STDA-100S2.pdf",
+"LastModified": "03/12/2021 08:59:52",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDA-100S2.pdf",
+"extension": ".pdf",
+"Size": "157790"
+},
+{
+"name": "ACP-STDA-100T.pdf",
+"LastModified": "03/12/2021 08:56:44",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDA-100T.pdf",
+"extension": ".pdf",
+"Size": "103489"
+},
+{
+"name": "ACP-STDA-100V2.pdf",
+"LastModified": "03/12/2021 08:56:46",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDA-100V2.pdf",
+"extension": ".pdf",
+"Size": "130503"
+},
+{
+"name": "ACP-STDA-100V3.pdf",
+"LastModified": "03/12/2021 08:56:48",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDA-100V3.pdf",
+"extension": ".pdf",
+"Size": "124531"
+},
+{
+"name": "ACP-STDA-100V6.pdf",
+"LastModified": "03/12/2021 08:56:51",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDA-100V6.pdf",
+"extension": ".pdf",
+"Size": "127557"
+},
+{
+"name": "ACP-STDA-100V9.pdf",
+"LastModified": "03/12/2021 08:56:53",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDA-100V9.pdf",
+"extension": ".pdf",
+"Size": "130502"
+},
+{
+"name": "ACP-STDA-100VS.pdf",
+"LastModified": "03/12/2021 08:56:55",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDA-100VS.pdf",
+"extension": ".pdf",
+"Size": "141812"
+},
+{
+"name": "ACP-STDA-200G1.pdf",
+"LastModified": "03/12/2021 08:56:57",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDA-200G1.pdf",
+"extension": ".pdf",
+"Size": "619393"
+},
+{
+"name": "ACP-STDA-200ID.pdf",
+"LastModified": "03/12/2021 08:57:00",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDA-200ID.pdf",
+"extension": ".pdf",
+"Size": "126018"
+},
+{
+"name": "ACP-STDA-200V3.pdf",
+"LastModified": "03/12/2021 08:57:01",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDA-200V3.pdf",
+"extension": ".pdf",
+"Size": "88123"
+},
+{
+"name": "ACP-STDA-200V6.pdf",
+"LastModified": "03/12/2021 08:57:04",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDA-200V6.pdf",
+"extension": ".pdf",
+"Size": "87105"
+},
+{
+"name": "ACP-STDA-200V9.pdf",
+"LastModified": "03/12/2021 08:57:06",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDA-200V9.pdf",
+"extension": ".pdf",
+"Size": "88045"
+},
+{
+"name": "ACP-STDC001.pdf",
+"LastModified": "03/12/2021 08:57:08",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDC001.pdf",
+"extension": ".pdf",
+"Size": "129341"
+},
+{
+"name": "ACP-STDC301.pdf",
+"LastModified": "03/12/2021 08:57:10",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDC301.pdf",
+"extension": ".pdf",
+"Size": "134501"
+},
+{
+"name": "ACP-STDC302.pdf",
+"LastModified": "03/12/2021 08:57:12",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDC302.pdf",
+"extension": ".pdf",
+"Size": "111173"
+},
+{
+"name": "ACP-STDC303.pdf",
+"LastModified": "03/12/2021 08:57:14",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDC303.pdf",
+"extension": ".pdf",
+"Size": "101533"
+},
+{
+"name": "ACP-STDC304.pdf",
+"LastModified": "03/12/2021 08:57:16",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDC304.pdf",
+"extension": ".pdf",
+"Size": "77272"
+},
+{
+"name": "ACP-STDC307.pdf",
+"LastModified": "03/12/2021 08:57:19",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDC307.pdf",
+"extension": ".pdf",
+"Size": "150427"
+},
+{
+"name": "ACP-STDC308.pdf",
+"LastModified": "03/12/2021 08:57:21",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDC308.pdf",
+"extension": ".pdf",
+"Size": "122002"
+},
+{
+"name": "ACP-STDC312.pdf",
+"LastModified": "03/12/2021 08:57:23",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDC312.pdf",
+"extension": ".pdf",
+"Size": "92076"
+},
+{
+"name": "ACP-STDC313.pdf",
+"LastModified": "03/12/2021 08:57:25",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDC313.pdf",
+"extension": ".pdf",
+"Size": "94526"
+},
+{
+"name": "ACP-STDC316.pdf",
+"LastModified": "03/12/2021 08:57:27",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDC316.pdf",
+"extension": ".pdf",
+"Size": "718723"
+},
+{
+"name": "ACP-STDC901.pdf",
+"LastModified": "03/12/2021 08:57:29",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDC901.pdf",
+"extension": ".pdf",
+"Size": "94269"
+},
+{
+"name": "ACP-STDC902.pdf",
+"LastModified": "03/12/2021 08:57:32",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDC902.pdf",
+"extension": ".pdf",
+"Size": "130064"
+},
+{
+"name": "ACP-STDC903.pdf",
+"LastModified": "03/12/2021 08:57:34",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDC903.pdf",
+"extension": ".pdf",
+"Size": "91747"
+},
+{
+"name": "ACP-STDC909.pdf",
+"LastModified": "03/12/2021 08:57:36",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDC909.pdf",
+"extension": ".pdf",
+"Size": "177510"
+},
+{
+"name": "ACP-STDC910.pdf",
+"LastModified": "03/12/2021 08:57:38",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDC910.pdf",
+"extension": ".pdf",
+"Size": "148833"
+},
+{
+"name": "ACP-STDC913.pdf",
+"LastModified": "03/12/2021 08:57:40",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDC913.pdf",
+"extension": ".pdf",
+"Size": "149895"
+},
+{
+"name": "ACP-STDC914.pdf",
+"LastModified": "03/12/2021 08:57:42",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDC914.pdf",
+"extension": ".pdf",
+"Size": "130420"
+},
+{
+"name": "ACP-STDE-100O OVERWATCH AVB OPERATING PANEL PEDESTAL DETAIL.pdf",
+"LastModified": "03/12/2021 08:57:45",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-100O OVERWATCH AVB OPERATING PANEL PEDESTAL DETAIL.pdf",
+"extension": ".pdf",
+"Size": "198341"
+},
+{
+"name": "ACP-STDE-101 HYBRID BEACON AVB CONTROL PANELS.pdf",
+"LastModified": "03/12/2021 08:57:47",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-101 HYBRID BEACON AVB CONTROL PANELS.pdf",
+"extension": ".pdf",
+"Size": "787259"
+},
+{
+"name": "ACP-STDE-102 HYBRID BEACON CONTROL SYSTEM DIAGRAM.pdf",
+"LastModified": "03/12/2021 08:57:49",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-102 HYBRID BEACON CONTROL SYSTEM DIAGRAM.pdf",
+"extension": ".pdf",
+"Size": "422801"
+},
+{
+"name": "ACP-STDE-103 HYBRID BEACON CONTROL SEQUENCE AND DETAILS.pdf",
+"LastModified": "03/12/2021 08:57:51",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-103 HYBRID BEACON CONTROL SEQUENCE AND DETAILS.pdf",
+"extension": ".pdf",
+"Size": "357540"
+},
+{
+"name": "ACP-STDE-110 HEPD AVB CONTROL PANELS.pdf",
+"LastModified": "03/12/2021 08:57:55",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-110 HEPD AVB CONTROL PANELS.pdf",
+"extension": ".pdf",
+"Size": "826843"
+},
+{
+"name": "ACP-STDE-111 HEPD CONTROL SYSTEM DIAGRAM.pdf",
+"LastModified": "03/12/2021 08:57:58",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-111 HEPD CONTROL SYSTEM DIAGRAM.pdf",
+"extension": ".pdf",
+"Size": "384456"
+},
+{
+"name": "ACP-STDE-112 HEPD CONTROL SEQUENCE AND DETAILS.pdf",
+"LastModified": "03/12/2021 08:58:00",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-112 HEPD CONTROL SEQUENCE AND DETAILS.pdf",
+"extension": ".pdf",
+"Size": "310270"
+},
+{
+"name": "ACP-STDE-120 HYBRID BEACON AND STOP CONTROL AVB CONTROL PANELS.pdf",
+"LastModified": "03/12/2021 08:58:03",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-120 HYBRID BEACON AND STOP CONTROL AVB CONTROL PANELS.pdf",
+"extension": ".pdf",
+"Size": "766500"
+},
+{
+"name": "ACP-STDE-121 HYBRID BEACON AND STOP  CONTROL SYSTEM DIAGRAM.pdf",
+"LastModified": "03/12/2021 08:58:05",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-121 HYBRID BEACON AND STOP  CONTROL SYSTEM DIAGRAM.pdf",
+"extension": ".pdf",
+"Size": "425212"
+},
+{
+"name": "ACP-STDE-122 HYBRID BEACON AND STOP CONTROL SEQUENCE AND DETAILS.pdf",
+"LastModified": "03/12/2021 08:58:08",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-122 HYBRID BEACON AND STOP CONTROL SEQUENCE AND DETAILS.pdf",
+"extension": ".pdf",
+"Size": "436956"
+},
+{
+"name": "ACP-STDE-130 STOP CONTROL AVB CONTROL PANELS.pdf",
+"LastModified": "03/12/2021 08:58:11",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-130 STOP CONTROL AVB CONTROL PANELS.pdf",
+"extension": ".pdf",
+"Size": "742054"
+},
+{
+"name": "ACP-STDE-131 STOP CONTROL - CONTROL SYSTEM DIAGRAM.pdf",
+"LastModified": "03/12/2021 08:58:14",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-131 STOP CONTROL - CONTROL SYSTEM DIAGRAM.pdf",
+"extension": ".pdf",
+"Size": "373086"
+},
+{
+"name": "ACP-STDE-132 STOP CONTROL -  CONTROL SEQUENCE.pdf",
+"LastModified": "03/12/2021 08:58:16",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-132 STOP CONTROL -  CONTROL SEQUENCE.pdf",
+"extension": ".pdf",
+"Size": "173995"
+},
+{
+"name": "ACP-STDE-140 FULL CONTAINMENT AVB PANELS - MASTER.pdf",
+"LastModified": "03/12/2021 08:58:18",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-140 FULL CONTAINMENT AVB PANELS - MASTER.pdf",
+"extension": ".pdf",
+"Size": "569504"
+},
+{
+"name": "ACP-STDE-141 FULL CONTAINMENT AVB CONTROL PANELS - OTHER PANELS.pdf",
+"LastModified": "03/12/2021 08:58:21",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-141 FULL CONTAINMENT AVB CONTROL PANELS - OTHER PANELS.pdf",
+"extension": ".pdf",
+"Size": "441392"
+},
+{
+"name": "ACP-STDE-142 FULL CONTAINMENT CONTROL SYSTEM DIAGRAM.pdf",
+"LastModified": "03/12/2021 08:58:23",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-142 FULL CONTAINMENT CONTROL SYSTEM DIAGRAM.pdf",
+"extension": ".pdf",
+"Size": "411280"
+},
+{
+"name": "ACP-STDE-143 FULL CONTAINMENT CONTROL SEQUENCE W TRAFFIC ARMS.pdf",
+"LastModified": "03/12/2021 08:58:25",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-143 FULL CONTAINMENT CONTROL SEQUENCE W TRAFFIC ARMS.pdf",
+"extension": ".pdf",
+"Size": "312459"
+},
+{
+"name": "ACP-STDE-144 FULL CONTAINMENT CONTROL SEQUENCE WO TRAFFIC ARMS.pdf",
+"LastModified": "03/12/2021 08:58:27",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-144 FULL CONTAINMENT CONTROL SEQUENCE WO TRAFFIC ARMS.pdf",
+"extension": ".pdf",
+"Size": "264374"
+},
+{
+"name": "ACP-STDE-150 NEW ISLAND TYPICAL PLAN and ELEVATION FOR AIE.pdf",
+"LastModified": "03/12/2021 08:58:30",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-150 NEW ISLAND TYPICAL PLAN and ELEVATION FOR AIE.pdf",
+"extension": ".pdf",
+"Size": "280742"
+},
+{
+"name": "ACP-STDE-151 EXISTING ISLAND TYPICAL PLAN and ELEVATION.pdf",
+"LastModified": "03/12/2021 08:58:32",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-151 EXISTING ISLAND TYPICAL PLAN and ELEVATION.pdf",
+"extension": ".pdf",
+"Size": "347762"
+},
+{
+"name": "ACP-STDE-152 AIE FIXED BLOCK DIAGRAM.pdf",
+"LastModified": "03/12/2021 08:58:34",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-152 AIE FIXED BLOCK DIAGRAM.pdf",
+"extension": ".pdf",
+"Size": "119584"
+},
+{
+"name": "ACP-STDE-153 TYPICAL ISLAND TYPICAL PLAN & ELEVATION FOR AIE and OTHER SYSTEMS.pdf",
+"LastModified": "03/12/2021 08:58:37",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-153 TYPICAL ISLAND TYPICAL PLAN & ELEVATION FOR AIE and OTHER SYSTEMS.pdf",
+"extension": ".pdf",
+"Size": "318286"
+},
+{
+"name": "ACP-STDE-154 AIE HANDHELD.pdf",
+"LastModified": "03/12/2021 08:58:39",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-154 AIE HANDHELD.pdf",
+"extension": ".pdf",
+"Size": "228668"
+},
+{
+"name": "ACP-STDE-155 AIE HANDHELD BLOCK DIAGRAM.pdf",
+"LastModified": "03/12/2021 08:58:41",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-155 AIE HANDHELD BLOCK DIAGRAM.pdf",
+"extension": ".pdf",
+"Size": "110628"
+},
+{
+"name": "ACP-STDE-160 CONVENTIONAL SIGNS AND SIGNALS AVB CONTROL PANELS.pdf",
+"LastModified": "03/12/2021 08:58:45",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-160 CONVENTIONAL SIGNS AND SIGNALS AVB CONTROL PANELS.pdf",
+"extension": ".pdf",
+"Size": "802872"
+},
+{
+"name": "ACP-STDE-161 R Y G CONVENTIONAL SIGNS AND SIGNALS SYSTEM DIAGRAM.pdf",
+"LastModified": "03/12/2021 08:58:47",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-161 R Y G CONVENTIONAL SIGNS AND SIGNALS SYSTEM DIAGRAM.pdf",
+"extension": ".pdf",
+"Size": "419656"
+},
+{
+"name": "ACP-STDE-162 HYBRID BEACON CONVENTIONAL SIGNS AND SIGNALS SYSTEM DIAGRAM.pdf",
+"LastModified": "03/12/2021 08:58:49",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-162 HYBRID BEACON CONVENTIONAL SIGNS AND SIGNALS SYSTEM DIAGRAM.pdf",
+"extension": ".pdf",
+"Size": "420883"
+},
+{
+"name": "ACP-STDE-163 CONVENTIONAL SIGNS AND SIGNALS CONTROL SEQUENCE AND DETAILS.pdf",
+"LastModified": "03/12/2021 08:58:52",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-163 CONVENTIONAL SIGNS AND SIGNALS CONTROL SEQUENCE AND DETAILS.pdf",
+"extension": ".pdf",
+"Size": "360097"
+},
+{
+"name": "ACP-STDE-170 HEPD 2015 AVB CONTROL PANELS.pdf",
+"LastModified": "03/12/2021 08:58:54",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-170 HEPD 2015 AVB CONTROL PANELS.pdf",
+"extension": ".pdf",
+"Size": "842820"
+},
+{
+"name": "ACP-STDE-171 HEPD 2015  CONTROL SYSTEM DIAGRAM.pdf",
+"LastModified": "03/12/2021 08:58:57",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-171 HEPD 2015  CONTROL SYSTEM DIAGRAM.pdf",
+"extension": ".pdf",
+"Size": "392638"
+},
+{
+"name": "ACP-STDE-172 HEPD 2015 CONTROL SEQUENCE AND DETAILS.pdf",
+"LastModified": "03/12/2021 08:58:59",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDE-172 HEPD 2015 CONTROL SEQUENCE AND DETAILS.pdf",
+"extension": ".pdf",
+"Size": "420583"
+},
+{
+"name": "ACP-STDEL101 LIGHTING PLAN.pdf",
+"LastModified": "03/12/2021 08:59:01",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDEL101 LIGHTING PLAN.pdf",
+"extension": ".pdf",
+"Size": "113893"
+},
+{
+"name": "ACP-STDEP101 GENERAL ELECTRICAL PLAN POWER REQUIREMENTS.pdf",
+"LastModified": "03/12/2021 08:59:03",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDEP101 GENERAL ELECTRICAL PLAN POWER REQUIREMENTS.pdf",
+"extension": ".pdf",
+"Size": "129769"
+},
+{
+"name": "ACP-STDEY101 CCTV CAMERA PLAN.pdf",
+"LastModified": "03/12/2021 08:59:05",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDEY101 CCTV CAMERA PLAN.pdf",
+"extension": ".pdf",
+"Size": "142375"
+},
+{
+"name": "ACP-STDEY102 AVB BLOCK DIAGRAM.pdf",
+"LastModified": "03/12/2021 08:59:08",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDEY102 AVB BLOCK DIAGRAM.pdf",
+"extension": ".pdf",
+"Size": "112408"
+},
+{
+"name": "ACP-STDG-001.pdf",
+"LastModified": "03/12/2021 08:59:10",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDG-001.pdf",
+"extension": ".pdf",
+"Size": "77318"
+},
+{
+"name": "ACP-STDG-002.pdf",
+"LastModified": "03/12/2021 08:59:12",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDG-002.pdf",
+"extension": ".pdf",
+"Size": "658880"
+},
+{
+"name": "ACP-STDG-003.pdf",
+"LastModified": "03/12/2021 08:59:15",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDG-003.pdf",
+"extension": ".pdf",
+"Size": "739610"
+},
+{
+"name": "ACP-STDG-004.pdf",
+"LastModified": "03/12/2021 08:59:17",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDG-004.pdf",
+"extension": ".pdf",
+"Size": "490220"
+},
+{
+"name": "ACP-STDI-100CS.pdf",
+"LastModified": "03/12/2021 08:59:19",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDI-100CS.pdf",
+"extension": ".pdf",
+"Size": "168540"
+},
+{
+"name": "ACP-STDI-100S1.pdf",
+"LastModified": "03/12/2021 08:59:21",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDI-100S1.pdf",
+"extension": ".pdf",
+"Size": "94855"
+},
+{
+"name": "ACP-STDI-100S2.pdf",
+"LastModified": "03/12/2021 08:59:23",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDI-100S2.pdf",
+"extension": ".pdf",
+"Size": "107844"
+},
+{
+"name": "ACP-STDI-100V2.pdf",
+"LastModified": "03/12/2021 08:59:26",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDI-100V2.pdf",
+"extension": ".pdf",
+"Size": "99926"
+},
+{
+"name": "ACP-STDI-100V3.pdf",
+"LastModified": "03/12/2021 08:59:28",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDI-100V3.pdf",
+"extension": ".pdf",
+"Size": "123522"
+},
+{
+"name": "ACP-STDI-100V6.pdf",
+"LastModified": "03/12/2021 08:59:30",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDI-100V6.pdf",
+"extension": ".pdf",
+"Size": "128795"
+},
+{
+"name": "ACP-STDI-100V9.pdf",
+"LastModified": "03/12/2021 08:59:32",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDI-100V9.pdf",
+"extension": ".pdf",
+"Size": "134836"
+},
+{
+"name": "ACP-STDI-100VS.pdf",
+"LastModified": "03/12/2021 08:59:34",
+"Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets/ACP-STDI-100VS.pdf",
+"extension": ".pdf",
+"Size": "107533"
+},
+{
+"name": "Facility Design Analysis 2013",
+"LastModified": "03/12/2021 09:18:12",
+"Key": "content/cos/nwo/acp/Library/Standard Designs/Facility Design Analysis 2013",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Appendix C Threat Path Calculations Example Sept 2020.pdf",
 "LastModified": "09/30/2020 15:39:10",
 "Key": "content/cos/nwo/acp/Library/Standard Designs/Appendix C Threat Path Calculations Example Sept 2020.pdf",
@@ -6313,13 +7076,6 @@
 "Size": "2479091"
 },
 {
-"name": "Army ACP Standard Design PDF Drawings May 2013.zip",
-"LastModified": "05/20/2015 15:34:12",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/Army ACP Standard Design PDF Drawings May 2013.zip",
-"extension": ".zip",
-"Size": "11705564"
-},
-{
 "name": "Army ACP Standard Design Sept 2020.pdf",
 "LastModified": "09/30/2020 15:38:54",
 "Key": "content/cos/nwo/acp/Library/Standard Designs/Army ACP Standard Design Sept 2020.pdf",
@@ -6329,163 +7085,100 @@
 {
 "name": "Gatehouse Army Standard Design Analysis.zip",
 "LastModified": "05/20/2015 15:34:14",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/Gatehouse Army Standard Design Analysis.zip",
+"Key": "content/cos/nwo/acp/Library/Standard Designs/Facility Design Analysis 2013/Gatehouse Army Standard Design Analysis.zip",
 "extension": ".zip",
 "Size": "25504160"
 },
 {
-"name": "Nov 2019 binder Interim standard design electrical sheets set.pdf",
-"LastModified": "04/21/2020 08:23:54",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/Nov 2019 binder Interim standard design electrical sheets set.pdf",
-"extension": ".pdf",
-"Size": "15952825"
-},
-{
-"name": "VCC 2 Processor Non Hardened Drawing PDF.zip",
-"LastModified": "05/20/2015 15:34:37",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/VCC 2 Processor Non Hardened Drawing PDF.zip",
-"extension": ".zip",
-"Size": "18120832"
-},
-{
-"name": "VCC 2 Processor Non Hardened Sheets.zip",
-"LastModified": "05/20/2015 15:34:39",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/VCC 2 Processor Non Hardened Sheets.zip",
-"extension": ".zip",
-"Size": "15447573"
-},
-{
 "name": "VCC 2 Processor Non Hardened Standards Design Analysis.zip",
 "LastModified": "05/20/2015 15:34:40",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/VCC 2 Processor Non Hardened Standards Design Analysis.zip",
+"Key": "content/cos/nwo/acp/Library/Standard Designs/Facility Design Analysis 2013/VCC 2 Processor Non Hardened Standards Design Analysis.zip",
 "extension": ".zip",
 "Size": "4548998"
 },
 {
-"name": "VCC 3 Processor Hardened Drawing PDF.zip",
-"LastModified": "05/20/2015 15:34:46",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/VCC 3 Processor Hardened Drawing PDF.zip",
-"extension": ".zip",
-"Size": "39279212"
-},
-{
-"name": "VCC 3 Processor Hardened Sheets.zip",
-"LastModified": "05/20/2015 15:34:55",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/VCC 3 Processor Hardened Sheets.zip",
-"extension": ".zip",
-"Size": "37805829"
-},
-{
 "name": "VCC 3 Processor Hardened Standard Design Analysis.zip",
 "LastModified": "05/20/2015 15:34:58",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/VCC 3 Processor Hardened Standard Design Analysis.zip",
+"Key": "content/cos/nwo/acp/Library/Standard Designs/Facility Design Analysis 2013/VCC 3 Processor Hardened Standard Design Analysis.zip",
 "extension": ".zip",
 "Size": "2599668"
 },
 {
-"name": "VCC 3 Processor Non Hardened Drawing PDF.zip",
-"LastModified": "05/20/2015 15:35:00",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/VCC 3 Processor Non Hardened Drawing PDF.zip",
-"extension": ".zip",
-"Size": "38500001"
-},
-{
-"name": "VCC 3 Processor Non Hardened Sheets.zip",
-"LastModified": "05/20/2015 15:35:07",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/VCC 3 Processor Non Hardened Sheets.zip",
-"extension": ".zip",
-"Size": "36448098"
-},
-{
 "name": "VCC 3 Processor Non Hardened Standard Design Analysis.zip",
 "LastModified": "05/20/2015 15:35:10",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/VCC 3 Processor Non Hardened Standard Design Analysis.zip",
+"Key": "content/cos/nwo/acp/Library/Standard Designs/Facility Design Analysis 2013/VCC 3 Processor Non Hardened Standard Design Analysis.zip",
 "extension": ".zip",
 "Size": "2516253"
 },
 {
-"name": "VCC 6 Processor Hardened Drawing PDF.zip",
-"LastModified": "05/20/2015 15:35:12",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/VCC 6 Processor Hardened Drawing PDF.zip",
-"extension": ".zip",
-"Size": "40220841"
-},
-{
-"name": "VCC 6 Processor Hardened Sheets.zip",
-"LastModified": "05/20/2015 15:35:20",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/VCC 6 Processor Hardened Sheets.zip",
-"extension": ".zip",
-"Size": "32988850"
-},
-{
 "name": "VCC 6 Processor Hardened Standard Design Analysis.zip",
 "LastModified": "05/20/2015 15:35:22",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/VCC 6 Processor Hardened Standard Design Analysis.zip",
+"Key": "content/cos/nwo/acp/Library/Standard Designs/Facility Design Analysis 2013/VCC 6 Processor Hardened Standard Design Analysis.zip",
 "extension": ".zip",
 "Size": "2055743"
 },
 {
-"name": "VCC 6 Processor Non Hardened Drawing PDF.zip",
-"LastModified": "05/20/2015 15:35:24",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/VCC 6 Processor Non Hardened Drawing PDF.zip",
-"extension": ".zip",
-"Size": "39177682"
-},
-{
-"name": "VCC 6 Processor Non Hardened Sheets.zip",
-"LastModified": "05/20/2015 15:35:32",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/VCC 6 Processor Non Hardened Sheets.zip",
-"extension": ".zip",
-"Size": "28948392"
-},
-{
 "name": "VCC 6 Processor Non-Hardened Standard Design Analysis.zip",
 "LastModified": "05/20/2015 15:35:34",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/VCC 6 Processor Non-Hardened Standard Design Analysis.zip",
+"Key": "content/cos/nwo/acp/Library/Standard Designs/Facility Design Analysis 2013/VCC 6 Processor Non-Hardened Standard Design Analysis.zip",
 "extension": ".zip",
 "Size": "1974313"
 },
 {
 "name": "VCC 9 Processor - Hardened Standard Design Analysis.zip",
 "LastModified": "05/20/2015 15:35:34",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/VCC 9 Processor - Hardened Standard Design Analysis.zip",
+"Key": "content/cos/nwo/acp/Library/Standard Designs/Facility Design Analysis 2013/VCC 9 Processor - Hardened Standard Design Analysis.zip",
 "extension": ".zip",
 "Size": "2913709"
 },
 {
 "name": "VCC 9 Processor - Non-Hardened Standard Design Analysis.zip",
 "LastModified": "05/20/2015 15:35:35",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/VCC 9 Processor - Non-Hardened Standard Design Analysis.zip",
+"Key": "content/cos/nwo/acp/Library/Standard Designs/Facility Design Analysis 2013/VCC 9 Processor - Non-Hardened Standard Design Analysis.zip",
 "extension": ".zip",
 "Size": "3023996"
 },
 {
-"name": "VCC 9 Processor Hardened Drawing PDF.zip",
-"LastModified": "05/20/2015 15:35:39",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/VCC 9 Processor Hardened Drawing PDF.zip",
-"extension": ".zip",
-"Size": "41125461"
+"name": "ACP-STD Drawing Binder 24 Feb 2021.pdf",
+"LastModified": "03/12/2021 08:16:50",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/ACP-STD Drawing Binder 24 Feb 2021.pdf",
+"extension": ".pdf",
+"Size": "21336386"
 },
 {
-"name": "VCC 9 Processor Hardened Sheets.zip",
-"LastModified": "05/20/2015 15:35:45",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/VCC 9 Processor Hardened Sheets.zip",
+"name": "Architect dgn 2021 files.zip",
+"LastModified": "03/12/2021 08:19:13",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/Architect dgn 2021 files.zip",
 "extension": ".zip",
-"Size": "25110113"
+"Size": "4139640"
 },
 {
-"name": "VCC 9 Processor Non Hardened Drawing PDF.zip",
-"LastModified": "05/20/2015 15:35:51",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/VCC 9 Processor Non Hardened Drawing PDF.zip",
+"name": "Civil dgn 2021 files.zip",
+"LastModified": "03/12/2021 08:19:13",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/Civil dgn 2021 files.zip",
 "extension": ".zip",
-"Size": "39416523"
+"Size": "4178405"
 },
 {
-"name": "VCC 9 Processor Non Hardened Sheets.zip",
-"LastModified": "05/20/2015 15:36:49",
-"Key": "content/cos/nwo/acp/Library/Standard Designs/VCC 9 Processor Non Hardened Sheets.zip",
+"name": "Electrical dgn 2021 files.zip",
+"LastModified": "03/12/2021 08:19:13",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/Electrical dgn 2021 files.zip",
 "extension": ".zip",
-"Size": "34914749"
+"Size": "4575941"
+},
+{
+"name": "General dgn 2021 files.zip",
+"LastModified": "03/12/2021 08:19:13",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/General dgn 2021 files.zip",
+"extension": ".zip",
+"Size": "436449"
+},
+{
+"name": "Interior dgn 2021 files.zip",
+"LastModified": "03/12/2021 08:19:13",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/Interior dgn 2021 files.zip",
+"extension": ".zip",
+"Size": "2253755"
 },
 {
 "name": "leed-v4-for-building-design-and-construction-_2018-acp.pdf",
@@ -7378,7 +8071,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "03/05/2021 09:52:14",
+"LastModified": "03/12/2021 08:15:34",
 "Key": "content/cos/poh/slq/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -7396,13 +8089,6 @@
 "Key": "content/cos/poh/slq/Library/Standard Designs/SLQ 11000-Para 3 Rev 4.7 Jan2021.pdf",
 "extension": ".pdf",
 "Size": "363184"
-},
-{
-"name": "slq-standard-design-plans-6414.pdf",
-"LastModified": "06/26/2015 14:09:04",
-"Key": "content/cos/poh/slq/Library/Standard Designs/slq-standard-design-plans-6414.pdf",
-"extension": ".pdf",
-"Size": "4210052"
 },
 {
 "name": "Library",
