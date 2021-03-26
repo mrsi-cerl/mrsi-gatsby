@@ -16,6 +16,7 @@ carousel_images:
   - /admin/images/uploads/la-meps-4-ceremony-room.jpg
   - /admin/images/uploads/la-meps-2-reception-graphics.jpg
   - /admin/images/uploads/la-meps-1-reception.jpg
+draft: true
 ---
 
 ## Description
