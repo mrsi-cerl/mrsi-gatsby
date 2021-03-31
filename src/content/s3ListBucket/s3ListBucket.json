@@ -770,7 +770,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:24:22",
+"LastModified": "03/26/2021 14:31:46",
 "Key": "content/cos/hnc/cdc/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -798,7 +798,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:24:21",
+"LastModified": "03/26/2021 14:31:46",
 "Key": "content/cos/hnc/cdc/Library/Archive/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -844,6 +844,27 @@
 "Key": "content/cos/hnc/cdc/Library/Archive/Room-by-Room_Descriptions_-_CDC_0-5_(Sep_10).pdf",
 "extension": ".pdf",
 "Size": "8201762"
+},
+{
+"name": "cdc-0-5-large_fy20.pdf",
+"LastModified": "08/27/2018 10:03:14",
+"Key": "content/cos/hnc/cdc/Library/Archive/DD1391 Templates/cdc-0-5-large_fy20.pdf",
+"extension": ".pdf",
+"Size": "25015"
+},
+{
+"name": "cdc-0-5-med_fy20.pdf",
+"LastModified": "08/27/2018 10:03:10",
+"Key": "content/cos/hnc/cdc/Library/Archive/DD1391 Templates/cdc-0-5-med_fy20.pdf",
+"extension": ".pdf",
+"Size": "25347"
+},
+{
+"name": "cdc-0-5-small_fy20.pdf",
+"LastModified": "08/27/2018 10:03:06",
+"Key": "content/cos/hnc/cdc/Library/Archive/DD1391 Templates/cdc-0-5-small_fy20.pdf",
+"extension": ".pdf",
+"Size": "24991"
 },
 {
 "name": "cdc_infanttoddler_lrg_fy19.pdf",
@@ -963,27 +984,6 @@
 "Key": "content/cos/hnc/cdc/Library/Army Standards/CDC age 6wk to 5yr Army Standard.pdf",
 "extension": ".pdf",
 "Size": "8457269"
-},
-{
-"name": "cdc-0-5-large_fy20.pdf",
-"LastModified": "08/27/2018 10:03:14",
-"Key": "content/cos/hnc/cdc/Library/DD1391 Templates/cdc-0-5-large_fy20.pdf",
-"extension": ".pdf",
-"Size": "25015"
-},
-{
-"name": "cdc-0-5-med_fy20.pdf",
-"LastModified": "08/27/2018 10:03:10",
-"Key": "content/cos/hnc/cdc/Library/DD1391 Templates/cdc-0-5-med_fy20.pdf",
-"extension": ".pdf",
-"Size": "25347"
-},
-{
-"name": "cdc-0-5-small_fy20.pdf",
-"LastModified": "08/27/2018 10:03:06",
-"Key": "content/cos/hnc/cdc/Library/DD1391 Templates/cdc-0-5-small_fy20.pdf",
-"extension": ".pdf",
-"Size": "24991"
 },
 {
 "name": "Color Scheme",
