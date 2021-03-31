@@ -63,7 +63,7 @@
 },
 {
 "name": "hnc",
-"LastModified": "09/27/2019 14:17:41",
+"LastModified": "03/31/2021 16:15:55",
 "Key": "content/cos/hnc",
 "extension": "",
 "Size": ""
@@ -244,9 +244,16 @@
 "Size": ""
 },
 {
-"name": "cdc",
+"name": "cdcsa",
+"LastModified": "09/25/2019 08:24:33",
+"Key": "content/cos/hnc/cdcsa",
+"extension": "",
+"Size": ""
+},
+{
+"name": "cdcu6",
 "LastModified": "09/25/2019 08:24:17",
-"Key": "content/cos/hnc/cdc",
+"Key": "content/cos/hnc/cdcu6",
 "extension": "",
 "Size": ""
 },
@@ -300,16 +307,9 @@
 "Size": ""
 },
 {
-"name": "pff",
+"name": "pfc",
 "LastModified": "09/25/2019 08:24:31",
-"Key": "content/cos/hnc/pff",
-"extension": "",
-"Size": ""
-},
-{
-"name": "sac",
-"LastModified": "09/25/2019 08:24:33",
-"Key": "content/cos/hnc/sac",
+"Key": "content/cos/hnc/pfc",
 "extension": "",
 "Size": ""
 },
@@ -665,498 +665,946 @@
 },
 {
 "name": "Library",
-"LastModified": "10/03/2019 11:25:53",
-"Key": "content/cos/hnc/cdc/Library",
+"LastModified": "03/31/2021 16:08:55",
+"Key": "content/cos/hnc/cdcsa/Library",
 "extension": "",
 "Size": ""
 },
 {
-"name": "Activity Play Room.jpg",
-"LastModified": "05/20/2015 13:51:31",
-"Key": "content/cos/hnc/cdc/Activity Play Room.jpg",
+"name": "Bldg 11898@FtBliss,TX(PN64096).jpg",
+"LastModified": "05/20/2015 13:52:43",
+"Key": "content/cos/hnc/cdcsa/Bldg 11898@FtBliss,TX(PN64096).jpg",
 "extension": ".jpg",
-"Size": "51689"
+"Size": "65118"
 },
 {
-"name": "Activity Room Picture.jpg",
-"LastModified": "05/20/2015 13:51:31",
-"Key": "content/cos/hnc/cdc/Activity Room Picture.jpg",
+"name": "Bldg 20616 @ Ft Leonardwood, KS (PN54914).jpg",
+"LastModified": "05/20/2015 13:52:43",
+"Key": "content/cos/hnc/cdcsa/Bldg 20616 @ Ft Leonardwood, KS (PN54914).jpg",
 "extension": ".jpg",
-"Size": "68360"
+"Size": "48269"
 },
 {
-"name": "CDC_IT Rendering.jpg",
-"LastModified": "05/20/2015 13:51:31",
-"Key": "content/cos/hnc/cdc/CDC_IT Rendering.jpg",
+"name": "Bldg 6204@Ft Carson,CO(PN56192).jpg",
+"LastModified": "05/20/2015 13:52:43",
+"Key": "content/cos/hnc/cdcsa/Bldg 6204@Ft Carson,CO(PN56192).jpg",
 "extension": ".jpg",
-"Size": "55483"
+"Size": "74082"
 },
 {
-"name": "Cover Picture.jpg",
-"LastModified": "05/20/2015 13:51:31",
-"Key": "content/cos/hnc/cdc/Cover Picture.jpg",
+"name": "CDC_SABIMRendering.jpg",
+"LastModified": "05/20/2015 13:52:44",
+"Key": "content/cos/hnc/cdcsa/CDC_SABIMRendering.jpg",
 "extension": ".jpg",
-"Size": "65504"
+"Size": "40346"
 },
 {
-"name": "Diaper Changing Station.jpg",
-"LastModified": "05/20/2015 13:51:32",
-"Key": "content/cos/hnc/cdc/Diaper Changing Station.jpg",
+"name": "cover123.jpg",
+"LastModified": "05/20/2015 13:52:44",
+"Key": "content/cos/hnc/cdcsa/cover123.jpg",
 "extension": ".jpg",
-"Size": "51533"
+"Size": "58092"
 },
 {
-"name": "DSCF Picture.jpg",
-"LastModified": "05/20/2015 13:51:32",
-"Key": "content/cos/hnc/cdc/DSCF Picture.jpg",
+"name": "IMG00138-20120328-1138_jpg.jpg",
+"LastModified": "05/20/2015 13:52:44",
+"Key": "content/cos/hnc/cdcsa/IMG00138-20120328-1138_jpg.jpg",
 "extension": ".jpg",
-"Size": "41662"
+"Size": "74450"
 },
 {
-"name": "DSCN3134.jpg",
-"LastModified": "05/20/2015 13:51:32",
-"Key": "content/cos/hnc/cdc/DSCN3134.jpg",
+"name": "IMG00357-20120419-0925_jpg.jpg",
+"LastModified": "05/20/2015 13:52:44",
+"Key": "content/cos/hnc/cdcsa/IMG00357-20120419-0925_jpg.jpg",
 "extension": ".jpg",
-"Size": "41232"
+"Size": "44826"
 },
 {
-"name": "Fort Benning.jpg",
-"LastModified": "05/20/2015 13:51:32",
-"Key": "content/cos/hnc/cdc/Fort Benning.jpg",
+"name": "IMG00957-20121018-0938_jpg.jpg",
+"LastModified": "05/20/2015 13:52:45",
+"Key": "content/cos/hnc/cdcsa/IMG00957-20121018-0938_jpg.jpg",
 "extension": ".jpg",
-"Size": "43717"
+"Size": "32736"
 },
 {
-"name": "Front Picture.jpg",
-"LastModified": "05/20/2015 13:51:33",
-"Key": "content/cos/hnc/cdc/Front Picture.jpg",
+"name": "IMG02412-20131218-1218_jpg.jpg",
+"LastModified": "05/20/2015 13:52:45",
+"Key": "content/cos/hnc/cdcsa/IMG02412-20131218-1218_jpg.jpg",
 "extension": ".jpg",
-"Size": "63894"
+"Size": "52284"
 },
 {
-"name": "Kitchen and Washing Station.jpg",
-"LastModified": "05/20/2015 13:51:33",
-"Key": "content/cos/hnc/cdc/Kitchen and Washing Station.jpg",
+"name": "may2011135.jpg",
+"LastModified": "05/20/2015 13:53:06",
+"Key": "content/cos/hnc/cdcsa/may2011135.jpg",
 "extension": ".jpg",
-"Size": "89531"
-},
-{
-"name": "Playground.jpg",
-"LastModified": "05/20/2015 13:52:02",
-"Key": "content/cos/hnc/cdc/Playground.jpg",
-"extension": ".jpg",
-"Size": "98535"
-},
-{
-"name": "Reception Counter.jpg",
-"LastModified": "05/20/2015 13:52:02",
-"Key": "content/cos/hnc/cdc/Reception Counter.jpg",
-"extension": ".jpg",
-"Size": "64957"
+"Size": "64767"
 },
 {
 "name": "Archive",
-"LastModified": "08/11/2020 13:09:52",
-"Key": "content/cos/hnc/cdc/Library/Archive",
+"LastModified": "08/11/2020 13:05:25",
+"Key": "content/cos/hnc/cdcsa/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:24:21",
-"Key": "content/cos/hnc/cdc/Library/Army Standards",
+"LastModified": "09/25/2019 08:24:33",
+"Key": "content/cos/hnc/cdcsa/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "03/26/2021 14:31:46",
-"Key": "content/cos/hnc/cdc/Library/DD1391 Templates",
+"LastModified": "09/25/2019 08:24:33",
+"Key": "content/cos/hnc/cdcsa/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Example Projects",
 "LastModified": "09/27/2019 14:13:41",
-"Key": "content/cos/hnc/cdc/Library/Example Projects",
+"Key": "content/cos/hnc/cdcsa/Library/Example Projects",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Docs (VE, LCCA, LEED, etc...)",
-"LastModified": "10/03/2019 11:31:57",
-"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
+"LastModified": "03/31/2021 16:08:36",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
 "extension": ".)",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "08/11/2020 13:10:24",
-"Key": "content/cos/hnc/cdc/Library/Standard Designs",
+"LastModified": "08/11/2020 13:05:35",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs",
+"extension": "",
+"Size": ""
+},
+{
+"name": "DD 1391 Templates",
+"LastModified": "09/25/2019 08:24:33",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/DD 1391 Templates",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Energy Models",
+"LastModified": "09/27/2019 14:18:01",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/Energy Models",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Room-by-Room_Descriptions_-_CDC_6-10_(Oct_10).pdf",
+"LastModified": "05/20/2015 13:52:51",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/Room-by-Room_Descriptions_-_CDC_6-10_(Oct_10).pdf",
+"extension": ".pdf",
+"Size": "374624"
+},
+{
+"name": "sac-6-10_-final_20180403.pdf",
+"LastModified": "04/03/2018 11:03:10",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/sac-6-10_-final_20180403.pdf",
+"extension": ".pdf",
+"Size": "1324073"
+},
+{
+"name": "sac-6-10_-final_20180507.pdf",
+"LastModified": "05/08/2018 06:01:57",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/sac-6-10_-final_20180507.pdf",
+"extension": ".pdf",
+"Size": "1324422"
+},
+{
+"name": "sac-6-10_room-by-room-description_final_20190411.pdf",
+"LastModified": "04/11/2019 08:29:06",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/sac-6-10_room-by-room-description_final_20190411.pdf",
+"extension": ".pdf",
+"Size": "1325700"
+},
+{
+"name": "cdc_schlage_lrg_fy19.pdf",
+"LastModified": "08/27/2018 11:11:50",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/DD 1391 Templates/cdc_schlage_lrg_fy19.pdf",
+"extension": ".pdf",
+"Size": "12022"
+},
+{
+"name": "cdc_schlage_medium_fy19.pdf",
+"LastModified": "08/27/2018 11:11:50",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/DD 1391 Templates/cdc_schlage_medium_fy19.pdf",
+"extension": ".pdf",
+"Size": "12026"
+},
+{
+"name": "cdc_schlage_small_fy19.pdf",
+"LastModified": "08/27/2018 11:11:50",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/DD 1391 Templates/cdc_schlage_small_fy19.pdf",
+"extension": ".pdf",
+"Size": "12108"
+},
+{
+"name": "cdc_school_large_fy18.pdf",
+"LastModified": "08/16/2016 10:32:23",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/DD 1391 Templates/cdc_school_large_fy18.pdf",
+"extension": ".pdf",
+"Size": "11855"
+},
+{
+"name": "cdc_school_med_fy18.pdf",
+"LastModified": "08/16/2016 10:32:23",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/DD 1391 Templates/cdc_school_med_fy18.pdf",
+"extension": ".pdf",
+"Size": "11856"
+},
+{
+"name": "cdc_school_small_fy18.pdf",
+"LastModified": "08/16/2016 10:32:24",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/DD 1391 Templates/cdc_school_small_fy18.pdf",
+"extension": ".pdf",
+"Size": "11940"
+},
+{
+"name": "CDC age six to ten AS.pdf",
+"LastModified": "05/20/2015 13:52:46",
+"Key": "content/cos/hnc/cdcsa/Library/Army Standards/CDC age six to ten AS.pdf",
+"extension": ".pdf",
+"Size": "120691"
+},
+{
+"name": "cdc-schl-age-large_fy20.pdf",
+"LastModified": "08/27/2018 10:12:08",
+"Key": "content/cos/hnc/cdcsa/Library/DD1391 Templates/cdc-schl-age-large_fy20.pdf",
+"extension": ".pdf",
+"Size": "12142"
+},
+{
+"name": "cdc-schl-age-med_fy20.pdf",
+"LastModified": "08/27/2018 10:12:04",
+"Key": "content/cos/hnc/cdcsa/Library/DD1391 Templates/cdc-schl-age-med_fy20.pdf",
+"extension": ".pdf",
+"Size": "24898"
+},
+{
+"name": "cdc-schl-age-small_fy20.pdf",
+"LastModified": "08/27/2018 10:12:00",
+"Key": "content/cos/hnc/cdcsa/Library/DD1391 Templates/cdc-schl-age-small_fy20.pdf",
+"extension": ".pdf",
+"Size": "25789"
+},
+{
+"name": "Color Scheme",
+"LastModified": "09/27/2019 14:13:33",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Color Scheme",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Energy Models",
+"LastModified": "09/27/2019 14:13:11",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models",
+"extension": "",
+"Size": ""
+},
+{
+"name": "POTR Reports",
+"LastModified": "09/27/2019 14:13:23",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports",
+"extension": "",
+"Size": ""
+},
+{
+"name": "0 TOILET FIXTURE GRAB BAR SCHEDULE 072214.xlsx",
+"LastModified": "05/20/2015 13:52:47",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/0 TOILET FIXTURE GRAB BAR SCHEDULE 072214.xlsx",
+"extension": ".xlsx",
+"Size": "23331"
+},
+{
+"name": "cdc-6-10-leed-v4-checklist.xls",
+"LastModified": "06/29/2015 12:14:50",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/cdc-6-10-leed-v4-checklist.xls",
+"extension": ".xls",
+"Size": "148480"
+},
+{
+"name": "Change_Proposal_and_Tracking_Form.pdf",
+"LastModified": "05/20/2015 13:52:47",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Change_Proposal_and_Tracking_Form.pdf",
+"extension": ".pdf",
+"Size": "149025"
+},
+{
+"name": "Energy Model - SAC Large.pdf",
+"LastModified": "05/20/2015 13:52:48",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Model - SAC Large.pdf",
+"extension": ".pdf",
+"Size": "5502009"
+},
+{
+"name": "Energy Model - SAC Medium.pdf",
+"LastModified": "05/20/2015 13:52:49",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Model - SAC Medium.pdf",
+"extension": ".pdf",
+"Size": "5652317"
+},
+{
+"name": "Energy Model - SAC Small.pdf",
+"LastModified": "05/20/2015 13:52:50",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Model - SAC Small.pdf",
+"extension": ".pdf",
+"Size": "4038789"
+},
+{
+"name": "LEED_Checklist_Medium_CDC_6-10_Apr-21_.pdf",
+"LastModified": "03/31/2021 16:04:39",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED_Checklist_Medium_CDC_6-10_Apr-21_.pdf",
+"extension": ".pdf",
+"Size": "119603"
+},
+{
+"name": "PRIMARY COLOR SCHEME 8_15_14.pdf",
+"LastModified": "05/20/2015 13:52:50",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/PRIMARY COLOR SCHEME 8_15_14.pdf",
+"extension": ".pdf",
+"Size": "135836"
+},
+{
+"name": "RFP Wizard Input - CDC (Aug-11).pdf",
+"LastModified": "05/20/2015 13:52:51",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP Wizard Input - CDC (Aug-11).pdf",
+"extension": ".pdf",
+"Size": "43566"
+},
+{
+"name": "RFP_Wizard_Input_CDC_6-10_Apr-21_.pdf",
+"LastModified": "03/31/2021 16:04:54",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP_Wizard_Input_CDC_6-10_Apr-21_.pdf",
+"extension": ".pdf",
+"Size": "97927"
+},
+{
+"name": "SAC POTR Reports - FY11.pdf",
+"LastModified": "05/20/2015 13:52:51",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/SAC POTR Reports - FY11.pdf",
+"extension": ".pdf",
+"Size": "1055389"
+},
+{
+"name": "SAC POTR Reports - FY12.pdf",
+"LastModified": "05/20/2015 13:52:52",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/SAC POTR Reports - FY12.pdf",
+"extension": ".pdf",
+"Size": "5163757"
+},
+{
+"name": "SAC POTR Reports - FY13.pdf",
+"LastModified": "05/20/2015 13:52:53",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/SAC POTR Reports - FY13.pdf",
+"extension": ".pdf",
+"Size": "5748577"
+},
+{
+"name": "SAC POTR Reports - FY14.pdf",
+"LastModified": "05/20/2015 13:52:54",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/SAC POTR Reports - FY14.pdf",
+"extension": ".pdf",
+"Size": "2226000"
+},
+{
+"name": "sac-variations.jpg",
+"LastModified": "06/30/2015 11:50:39",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/sac-variations.jpg",
+"extension": ".jpg",
+"Size": "58358"
+},
+{
+"name": "SOUTHWEST COLOR SCHEME 8_15_14.pdf",
+"LastModified": "05/20/2015 13:52:55",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/SOUTHWEST COLOR SCHEME 8_15_14.pdf",
+"extension": ".pdf",
+"Size": "141247"
+},
+{
+"name": "Utility_Demands_Estimate_(Apr_10).xls",
+"LastModified": "05/20/2015 13:52:55",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Utility_Demands_Estimate_(Apr_10).xls",
+"extension": ".xls",
+"Size": "2993152"
+},
+{
+"name": "Room by Room Design Criteria_SAC-6-10 (July 2020).pdf",
+"LastModified": "08/11/2020 13:04:02",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Room by Room Design Criteria_SAC-6-10 (July 2020).pdf",
+"extension": ".pdf",
+"Size": "1403858"
+},
+{
+"name": "Standard_Drawings_(CAD)_-_CDC_6-10,_Large_(Nov_10).zip",
+"LastModified": "05/20/2015 13:52:56",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_(CAD)_-_CDC_6-10,_Large_(Nov_10).zip",
+"extension": ".zip",
+"Size": "16494902"
+},
+{
+"name": "Standard_Drawings_(CAD)_-_CDC_6-10,_Medium_(Nov_10).zip",
+"LastModified": "05/20/2015 13:52:59",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_(CAD)_-_CDC_6-10,_Medium_(Nov_10).zip",
+"extension": ".zip",
+"Size": "15570663"
+},
+{
+"name": "Standard_Drawings_(CAD)_-_CDC_6-10,_Small_(Nov_10).zip",
+"LastModified": "05/20/2015 13:53:01",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_(CAD)_-_CDC_6-10,_Small_(Nov_10).zip",
+"extension": ".zip",
+"Size": "11163541"
+},
+{
+"name": "Standard_Drawings_(CAD)_-_CDC_6-10,_Wing_(Nov_10).zip",
+"LastModified": "05/20/2015 13:53:02",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_(CAD)_-_CDC_6-10,_Wing_(Nov_10).zip",
+"extension": ".zip",
+"Size": "2754214"
+},
+{
+"name": "Standard_Drawings_(PDF)_-_CDC_6-10,_Large_(Nov_10).pdf",
+"LastModified": "05/20/2015 13:53:03",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_(PDF)_-_CDC_6-10,_Large_(Nov_10).pdf",
+"extension": ".pdf",
+"Size": "3676536"
+},
+{
+"name": "Standard_Drawings_(PDF)_-_CDC_6-10,_Medium_(Nov_10).pdf",
+"LastModified": "05/20/2015 13:53:04",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_(PDF)_-_CDC_6-10,_Medium_(Nov_10).pdf",
+"extension": ".pdf",
+"Size": "3743793"
+},
+{
+"name": "Standard_Drawings_(PDF)_-_CDC_6-10,_Small_(Nov_10).pdf",
+"LastModified": "05/20/2015 13:53:05",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_(PDF)_-_CDC_6-10,_Small_(Nov_10).pdf",
+"extension": ".pdf",
+"Size": "3925042"
+},
+{
+"name": "Standard_Drawings_(PDF)_-_CDC_6-10,_Wing_(Nov_10).pdf",
+"LastModified": "05/20/2015 13:53:05",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_(PDF)_-_CDC_6-10,_Wing_(Nov_10).pdf",
+"extension": ".pdf",
+"Size": "2576243"
+},
+{
+"name": "Library",
+"LastModified": "10/03/2019 11:25:53",
+"Key": "content/cos/hnc/cdcu6/Library",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Activity Play Room.jpg",
+"LastModified": "05/20/2015 13:51:31",
+"Key": "content/cos/hnc/cdcu6/Activity Play Room.jpg",
+"extension": ".jpg",
+"Size": "51689"
+},
+{
+"name": "Activity Room Picture.jpg",
+"LastModified": "05/20/2015 13:51:31",
+"Key": "content/cos/hnc/cdcu6/Activity Room Picture.jpg",
+"extension": ".jpg",
+"Size": "68360"
+},
+{
+"name": "CDC_IT Rendering.jpg",
+"LastModified": "05/20/2015 13:51:31",
+"Key": "content/cos/hnc/cdcu6/CDC_IT Rendering.jpg",
+"extension": ".jpg",
+"Size": "55483"
+},
+{
+"name": "Cover Picture.jpg",
+"LastModified": "05/20/2015 13:51:31",
+"Key": "content/cos/hnc/cdcu6/Cover Picture.jpg",
+"extension": ".jpg",
+"Size": "65504"
+},
+{
+"name": "Diaper Changing Station.jpg",
+"LastModified": "05/20/2015 13:51:32",
+"Key": "content/cos/hnc/cdcu6/Diaper Changing Station.jpg",
+"extension": ".jpg",
+"Size": "51533"
+},
+{
+"name": "DSCF Picture.jpg",
+"LastModified": "05/20/2015 13:51:32",
+"Key": "content/cos/hnc/cdcu6/DSCF Picture.jpg",
+"extension": ".jpg",
+"Size": "41662"
+},
+{
+"name": "DSCN3134.jpg",
+"LastModified": "05/20/2015 13:51:32",
+"Key": "content/cos/hnc/cdcu6/DSCN3134.jpg",
+"extension": ".jpg",
+"Size": "41232"
+},
+{
+"name": "Fort Benning.jpg",
+"LastModified": "05/20/2015 13:51:32",
+"Key": "content/cos/hnc/cdcu6/Fort Benning.jpg",
+"extension": ".jpg",
+"Size": "43717"
+},
+{
+"name": "Front Picture.jpg",
+"LastModified": "05/20/2015 13:51:33",
+"Key": "content/cos/hnc/cdcu6/Front Picture.jpg",
+"extension": ".jpg",
+"Size": "63894"
+},
+{
+"name": "Kitchen and Washing Station.jpg",
+"LastModified": "05/20/2015 13:51:33",
+"Key": "content/cos/hnc/cdcu6/Kitchen and Washing Station.jpg",
+"extension": ".jpg",
+"Size": "89531"
+},
+{
+"name": "Playground.jpg",
+"LastModified": "05/20/2015 13:52:02",
+"Key": "content/cos/hnc/cdcu6/Playground.jpg",
+"extension": ".jpg",
+"Size": "98535"
+},
+{
+"name": "Reception Counter.jpg",
+"LastModified": "05/20/2015 13:52:02",
+"Key": "content/cos/hnc/cdcu6/Reception Counter.jpg",
+"extension": ".jpg",
+"Size": "64957"
+},
+{
+"name": "Archive",
+"LastModified": "08/11/2020 13:09:52",
+"Key": "content/cos/hnc/cdcu6/Library/Archive",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Army Standards",
+"LastModified": "09/25/2019 08:24:21",
+"Key": "content/cos/hnc/cdcu6/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
 "LastModified": "03/26/2021 14:31:46",
-"Key": "content/cos/hnc/cdc/Library/Archive/DD1391 Templates",
+"Key": "content/cos/hnc/cdcu6/Library/DD1391 Templates",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Example Projects",
+"LastModified": "09/27/2019 14:13:41",
+"Key": "content/cos/hnc/cdcu6/Library/Example Projects",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Misc. Docs (VE, LCCA, LEED, etc...)",
+"LastModified": "03/31/2021 16:08:13",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
+"extension": ".)",
+"Size": ""
+},
+{
+"name": "Standard Designs",
+"LastModified": "08/11/2020 13:10:24",
+"Key": "content/cos/hnc/cdcu6/Library/Standard Designs",
+"extension": "",
+"Size": ""
+},
+{
+"name": "DD1391 Templates",
+"LastModified": "03/26/2021 14:31:46",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Energy Models",
 "LastModified": "09/27/2019 14:19:16",
-"Key": "content/cos/hnc/cdc/Library/Archive/Energy Models",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Energy Models",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Standard Designs",
 "LastModified": "08/11/2020 13:10:14",
-"Key": "content/cos/hnc/cdc/Library/Archive/Standard Designs",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs",
 "extension": "",
 "Size": ""
 },
 {
 "name": "cdc-0-5-leed-v4-checklist.xls",
 "LastModified": "06/29/2015 11:51:44",
-"Key": "content/cos/hnc/cdc/Library/Archive/cdc-0-5-leed-v4-checklist.xls",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/cdc-0-5-leed-v4-checklist.xls",
 "extension": ".xls",
 "Size": "148480"
 },
 {
 "name": "cdc-0-5_-final_20180201.pdf",
 "LastModified": "02/14/2018 10:38:58",
-"Key": "content/cos/hnc/cdc/Library/Archive/cdc-0-5_-final_20180201.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/cdc-0-5_-final_20180201.pdf",
 "extension": ".pdf",
 "Size": "5282080"
 },
 {
 "name": "cdc-0-5_-final_20180507.pdf",
 "LastModified": "05/08/2018 05:54:21",
-"Key": "content/cos/hnc/cdc/Library/Archive/cdc-0-5_-final_20180507.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/cdc-0-5_-final_20180507.pdf",
 "extension": ".pdf",
 "Size": "5283429"
 },
 {
 "name": "Room-by-Room_Descriptions_-_CDC_0-5_(Sep_10).pdf",
 "LastModified": "05/20/2015 13:51:46",
-"Key": "content/cos/hnc/cdc/Library/Archive/Room-by-Room_Descriptions_-_CDC_0-5_(Sep_10).pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Room-by-Room_Descriptions_-_CDC_0-5_(Sep_10).pdf",
 "extension": ".pdf",
 "Size": "8201762"
 },
 {
 "name": "cdc-0-5-large_fy20.pdf",
 "LastModified": "08/27/2018 10:03:14",
-"Key": "content/cos/hnc/cdc/Library/Archive/DD1391 Templates/cdc-0-5-large_fy20.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates/cdc-0-5-large_fy20.pdf",
 "extension": ".pdf",
 "Size": "25015"
 },
 {
 "name": "cdc-0-5-med_fy20.pdf",
 "LastModified": "08/27/2018 10:03:10",
-"Key": "content/cos/hnc/cdc/Library/Archive/DD1391 Templates/cdc-0-5-med_fy20.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates/cdc-0-5-med_fy20.pdf",
 "extension": ".pdf",
 "Size": "25347"
 },
 {
 "name": "cdc-0-5-small_fy20.pdf",
 "LastModified": "08/27/2018 10:03:06",
-"Key": "content/cos/hnc/cdc/Library/Archive/DD1391 Templates/cdc-0-5-small_fy20.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates/cdc-0-5-small_fy20.pdf",
 "extension": ".pdf",
 "Size": "24991"
 },
 {
 "name": "cdc_infanttoddler_lrg_fy19.pdf",
 "LastModified": "08/27/2018 11:09:41",
-"Key": "content/cos/hnc/cdc/Library/Archive/DD1391 Templates/cdc_infanttoddler_lrg_fy19.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates/cdc_infanttoddler_lrg_fy19.pdf",
 "extension": ".pdf",
 "Size": "12159"
 },
 {
 "name": "cdc_infanttoddler_medium_fy19.pdf",
 "LastModified": "08/27/2018 11:09:40",
-"Key": "content/cos/hnc/cdc/Library/Archive/DD1391 Templates/cdc_infanttoddler_medium_fy19.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates/cdc_infanttoddler_medium_fy19.pdf",
 "extension": ".pdf",
 "Size": "12162"
 },
 {
 "name": "cdc_infanttoddler_small_fy19.pdf",
 "LastModified": "08/27/2018 11:09:40",
-"Key": "content/cos/hnc/cdc/Library/Archive/DD1391 Templates/cdc_infanttoddler_small_fy19.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates/cdc_infanttoddler_small_fy19.pdf",
 "extension": ".pdf",
 "Size": "12142"
 },
 {
 "name": "cdc_infant_large_fy18.pdf",
 "LastModified": "07/26/2016 09:22:56",
-"Key": "content/cos/hnc/cdc/Library/Archive/DD1391 Templates/cdc_infant_large_fy18.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates/cdc_infant_large_fy18.pdf",
 "extension": ".pdf",
 "Size": "11996"
 },
 {
 "name": "cdc_infant_med_fy18.pdf",
 "LastModified": "07/26/2016 09:22:55",
-"Key": "content/cos/hnc/cdc/Library/Archive/DD1391 Templates/cdc_infant_med_fy18.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates/cdc_infant_med_fy18.pdf",
 "extension": ".pdf",
 "Size": "11998"
 },
 {
 "name": "cdc_infant_small_fy18pdf.pdf",
 "LastModified": "07/26/2016 09:22:55",
-"Key": "content/cos/hnc/cdc/Library/Archive/DD1391 Templates/cdc_infant_small_fy18pdf.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates/cdc_infant_small_fy18pdf.pdf",
 "extension": ".pdf",
 "Size": "11976"
 },
 {
 "name": "Energy Model - CDC 0-5 Large.pdf",
 "LastModified": "05/20/2015 13:51:41",
-"Key": "content/cos/hnc/cdc/Library/Archive/Energy Models/Energy Model - CDC 0-5 Large.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Energy Models/Energy Model - CDC 0-5 Large.pdf",
 "extension": ".pdf",
 "Size": "12464318"
 },
 {
 "name": "Energy Model - CDC_0-5 Medium.pdf",
 "LastModified": "05/20/2015 13:51:43",
-"Key": "content/cos/hnc/cdc/Library/Archive/Energy Models/Energy Model - CDC_0-5 Medium.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Energy Models/Energy Model - CDC_0-5 Medium.pdf",
 "extension": ".pdf",
 "Size": "11206623"
 },
 {
 "name": "Energy Model - CDC_0-5 Small.pdf",
 "LastModified": "05/20/2015 13:51:45",
-"Key": "content/cos/hnc/cdc/Library/Archive/Energy Models/Energy Model - CDC_0-5 Small.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Energy Models/Energy Model - CDC_0-5 Small.pdf",
 "extension": ".pdf",
 "Size": "6110397"
 },
 {
 "name": "cdc-0-5_-room-by-room-description_final_20190411.pdf",
 "LastModified": "04/11/2019 08:27:11",
-"Key": "content/cos/hnc/cdc/Library/Archive/Standard Designs/cdc-0-5_-room-by-room-description_final_20190411.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/cdc-0-5_-room-by-room-description_final_20190411.pdf",
 "extension": ".pdf",
 "Size": "5228241"
 },
 {
 "name": "Standard_Drawings1_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
 "LastModified": "05/20/2015 13:51:50",
-"Key": "content/cos/hnc/cdc/Library/Archive/Standard Designs/Standard_Drawings1_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/Standard_Drawings1_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
 "extension": ".zip",
 "Size": "22178081"
 },
 {
 "name": "Standard_Drawings2_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
 "LastModified": "05/20/2015 13:51:54",
-"Key": "content/cos/hnc/cdc/Library/Archive/Standard Designs/Standard_Drawings2_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/Standard_Drawings2_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
 "extension": ".zip",
 "Size": "35718514"
 },
 {
 "name": "Standard_Drawings3_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
 "LastModified": "05/20/2015 13:51:58",
-"Key": "content/cos/hnc/cdc/Library/Archive/Standard Designs/Standard_Drawings3_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/Standard_Drawings3_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
 "extension": ".zip",
 "Size": "26611739"
 },
 {
 "name": "Standard_Drawings_(PDF)_-_CDC_0-5,_Large_(Sep_10).pdf",
 "LastModified": "05/20/2015 13:52:01",
-"Key": "content/cos/hnc/cdc/Library/Archive/Standard Designs/Standard_Drawings_(PDF)_-_CDC_0-5,_Large_(Sep_10).pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/Standard_Drawings_(PDF)_-_CDC_0-5,_Large_(Sep_10).pdf",
 "extension": ".pdf",
 "Size": "1958319"
 },
 {
 "name": "Standard_Drawings_(PDF)_-_CDC_0-5,_Medium_(Sep_10).pdf",
 "LastModified": "05/20/2015 13:52:01",
-"Key": "content/cos/hnc/cdc/Library/Archive/Standard Designs/Standard_Drawings_(PDF)_-_CDC_0-5,_Medium_(Sep_10).pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/Standard_Drawings_(PDF)_-_CDC_0-5,_Medium_(Sep_10).pdf",
 "extension": ".pdf",
 "Size": "1793852"
 },
 {
 "name": "Standard_Drawings_(PDF)_-_CDC_0-5,_Small_(Sep_10).pdf",
 "LastModified": "05/20/2015 13:52:01",
-"Key": "content/cos/hnc/cdc/Library/Archive/Standard Designs/Standard_Drawings_(PDF)_-_CDC_0-5,_Small_(Sep_10).pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/Standard_Drawings_(PDF)_-_CDC_0-5,_Small_(Sep_10).pdf",
 "extension": ".pdf",
 "Size": "1380744"
 },
 {
 "name": "CDC age 6wk to 5yr Army Standard.pdf",
 "LastModified": "05/20/2015 13:51:34",
-"Key": "content/cos/hnc/cdc/Library/Army Standards/CDC age 6wk to 5yr Army Standard.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Army Standards/CDC age 6wk to 5yr Army Standard.pdf",
 "extension": ".pdf",
 "Size": "8457269"
 },
 {
 "name": "Color Scheme",
 "LastModified": "10/03/2019 11:24:22",
-"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Color Scheme",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Color Scheme",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Energy Models",
 "LastModified": "10/03/2019 11:24:36",
-"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models",
 "extension": "",
 "Size": ""
 },
 {
 "name": "POTR Reports",
 "LastModified": "10/03/2019 11:23:59",
-"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports",
 "extension": "",
 "Size": ""
 },
 {
 "name": "0 TOILET FIXTURE GRAB BAR SCHEDULE 072214.xlsx",
 "LastModified": "05/20/2015 13:51:36",
-"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/0 TOILET FIXTURE GRAB BAR SCHEDULE 072214.xlsx",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/0 TOILET FIXTURE GRAB BAR SCHEDULE 072214.xlsx",
 "extension": ".xlsx",
 "Size": "23331"
 },
 {
 "name": "cdc-variations.jpg",
 "LastModified": "06/30/2015 11:35:29",
-"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/cdc-variations.jpg",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/cdc-variations.jpg",
 "extension": ".jpg",
 "Size": "52751"
 },
 {
 "name": "Change_Proposal_and_Tracking_Form.pdf",
 "LastModified": "05/20/2015 13:51:40",
-"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Change_Proposal_and_Tracking_Form.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Change_Proposal_and_Tracking_Form.pdf",
 "extension": ".pdf",
 "Size": "149025"
 },
 {
 "name": "Final LCCA Report - CDC 0-5.pdf",
 "LastModified": "10/03/2019 09:29:56",
-"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Final LCCA Report - CDC 0-5.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Final LCCA Report - CDC 0-5.pdf",
 "extension": ".pdf",
 "Size": "1068746"
 },
 {
 "name": "Final VE Report - CDC 0-5.pdf",
 "LastModified": "10/03/2019 09:30:00",
-"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Final VE Report - CDC 0-5.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Final VE Report - CDC 0-5.pdf",
 "extension": ".pdf",
 "Size": "9660363"
 },
 {
 "name": "LEED Checklist-Medium CDC.PDF",
 "LastModified": "10/03/2019 09:30:00",
-"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium CDC.PDF",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium CDC.PDF",
 "extension": ".PDF",
 "Size": "165438"
 },
 {
 "name": "LEED Checklist-Medium CDC.XLSX",
 "LastModified": "10/03/2019 09:30:01",
-"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium CDC.XLSX",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium CDC.XLSX",
 "extension": ".XLSX",
 "Size": "43607"
 },
 {
+"name": "LEED_Checklist_Medium_CDC_0-5_Apr-21_.pdf",
+"LastModified": "03/31/2021 16:04:34",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED_Checklist_Medium_CDC_0-5_Apr-21_.pdf",
+"extension": ".pdf",
+"Size": "119601"
+},
+{
 "name": "RFP Wizard Input - CDC (Aug-11).pdf",
 "LastModified": "05/20/2015 13:51:45",
-"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP Wizard Input - CDC (Aug-11).pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP Wizard Input - CDC (Aug-11).pdf",
 "extension": ".pdf",
 "Size": "43566"
 },
 {
+"name": "RFP_Wizard_Input_CDC_0-5_Apr-21_.pdf",
+"LastModified": "03/31/2021 16:04:49",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP_Wizard_Input_CDC_0-5_Apr-21_.pdf",
+"extension": ".pdf",
+"Size": "98934"
+},
+{
 "name": "ufc-cancelled.docx",
 "LastModified": "10/14/2015 15:02:21",
-"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/ufc-cancelled.docx",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/ufc-cancelled.docx",
 "extension": ".docx",
 "Size": "12669"
 },
 {
 "name": "PRIMARY COLOR SCHEME 8_15_14.pdf",
 "LastModified": "05/20/2015 13:51:45",
-"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Color Scheme/PRIMARY COLOR SCHEME 8_15_14.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Color Scheme/PRIMARY COLOR SCHEME 8_15_14.pdf",
 "extension": ".pdf",
 "Size": "135836"
 },
 {
 "name": "SOUTHWEST COLOR SCHEME 8_15_14.pdf",
 "LastModified": "05/20/2015 13:51:47",
-"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Color Scheme/SOUTHWEST COLOR SCHEME 8_15_14.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Color Scheme/SOUTHWEST COLOR SCHEME 8_15_14.pdf",
 "extension": ".pdf",
 "Size": "141247"
 },
 {
 "name": "Utility_Demands_Estimate_(Apr_10).xls",
 "LastModified": "05/20/2015 13:51:48",
-"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models/Utility_Demands_Estimate_(Apr_10).xls",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models/Utility_Demands_Estimate_(Apr_10).xls",
 "extension": ".xls",
 "Size": "2993152"
 },
 {
 "name": "CDC POTR Reports - FY11.pdf",
 "LastModified": "05/20/2015 13:51:37",
-"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/CDC POTR Reports - FY11.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/CDC POTR Reports - FY11.pdf",
 "extension": ".pdf",
 "Size": "1702370"
 },
 {
 "name": "CDC POTR Reports - FY12.pdf",
 "LastModified": "05/20/2015 13:51:37",
-"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/CDC POTR Reports - FY12.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/CDC POTR Reports - FY12.pdf",
 "extension": ".pdf",
 "Size": "8857735"
 },
 {
 "name": "CDC POTR Reports - FY13.pdf",
 "LastModified": "05/20/2015 13:51:39",
-"Key": "content/cos/hnc/cdc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/CDC POTR Reports - FY13.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/CDC POTR Reports - FY13.pdf",
 "extension": ".pdf",
 "Size": "8731087"
 },
 {
 "name": "Room By Room Design Criteria_CDC-0-5 (July2020).pdf",
 "LastModified": "08/11/2020 12:58:57",
-"Key": "content/cos/hnc/cdc/Library/Standard Designs/Room By Room Design Criteria_CDC-0-5 (July2020).pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/Room By Room Design Criteria_CDC-0-5 (July2020).pdf",
 "extension": ".pdf",
 "Size": "5410419"
 },
 {
 "name": "standard-drawings-cad-cdc-0-5-large-feb-2019.zip",
 "LastModified": "02/22/2019 10:32:46",
-"Key": "content/cos/hnc/cdc/Library/Standard Designs/standard-drawings-cad-cdc-0-5-large-feb-2019.zip",
+"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/standard-drawings-cad-cdc-0-5-large-feb-2019.zip",
 "extension": ".zip",
 "Size": "4073911"
 },
 {
 "name": "standard-drawings-cad-cdc-0-5-medium-feb-2019.zip",
 "LastModified": "02/22/2019 10:32:25",
-"Key": "content/cos/hnc/cdc/Library/Standard Designs/standard-drawings-cad-cdc-0-5-medium-feb-2019.zip",
+"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/standard-drawings-cad-cdc-0-5-medium-feb-2019.zip",
 "extension": ".zip",
 "Size": "108231"
 },
 {
 "name": "standard-drawings-cad-cdc-0-5-small-feb-2019.zip",
 "LastModified": "02/22/2019 10:32:22",
-"Key": "content/cos/hnc/cdc/Library/Standard Designs/standard-drawings-cad-cdc-0-5-small-feb-2019.zip",
+"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/standard-drawings-cad-cdc-0-5-small-feb-2019.zip",
 "extension": ".zip",
 "Size": "1213954"
 },
 {
 "name": "standard-drawings-pdf-cdc-0-5-large-sept-30.pdf",
 "LastModified": "09/28/2018 13:39:56",
-"Key": "content/cos/hnc/cdc/Library/Standard Designs/standard-drawings-pdf-cdc-0-5-large-sept-30.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/standard-drawings-pdf-cdc-0-5-large-sept-30.pdf",
 "extension": ".pdf",
 "Size": "1160723"
 },
 {
 "name": "standard-drawings-pdf-cdc-0-5-medium-sept-30.pdf",
 "LastModified": "09/28/2018 13:40:25",
-"Key": "content/cos/hnc/cdc/Library/Standard Designs/standard-drawings-pdf-cdc-0-5-medium-sept-30.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/standard-drawings-pdf-cdc-0-5-medium-sept-30.pdf",
 "extension": ".pdf",
 "Size": "6492571"
 },
 {
 "name": "standard-drawings-pdf-cdc-0-5-small-sept-30.pdf",
 "LastModified": "09/28/2018 13:40:06",
-"Key": "content/cos/hnc/cdc/Library/Standard Designs/standard-drawings-pdf-cdc-0-5-small-sept-30.pdf",
+"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/standard-drawings-pdf-cdc-0-5-small-sept-30.pdf",
 "extension": ".pdf",
 "Size": "468000"
 },
@@ -2213,1017 +2661,597 @@
 {
 "name": "Library",
 "LastModified": "10/03/2019 11:29:14",
-"Key": "content/cos/hnc/pff/Library",
+"Key": "content/cos/hnc/pfc/Library",
 "extension": "",
 "Size": ""
 },
 {
 "name": "100_8684_JPG.jpg",
 "LastModified": "05/20/2015 13:52:27",
-"Key": "content/cos/hnc/pff/100_8684_JPG.jpg",
+"Key": "content/cos/hnc/pfc/100_8684_JPG.jpg",
 "extension": ".jpg",
 "Size": "69794"
 },
 {
 "name": "100_8698_JPG.jpg",
 "LastModified": "05/20/2015 13:52:28",
-"Key": "content/cos/hnc/pff/100_8698_JPG.jpg",
+"Key": "content/cos/hnc/pfc/100_8698_JPG.jpg",
 "extension": ".jpg",
 "Size": "44573"
 },
 {
 "name": "100_8701_JPG.jpg",
 "LastModified": "05/20/2015 13:52:28",
-"Key": "content/cos/hnc/pff/100_8701_JPG.jpg",
+"Key": "content/cos/hnc/pfc/100_8701_JPG.jpg",
 "extension": ".jpg",
 "Size": "101763"
 },
 {
 "name": "20130211_135632_jpg.jpg",
 "LastModified": "05/20/2015 13:52:28",
-"Key": "content/cos/hnc/pff/20130211_135632_jpg.jpg",
+"Key": "content/cos/hnc/pfc/20130211_135632_jpg.jpg",
 "extension": ".jpg",
 "Size": "52055"
 },
 {
 "name": "20130512_200115_jpg.jpg",
 "LastModified": "05/20/2015 13:52:28",
-"Key": "content/cos/hnc/pff/20130512_200115_jpg.jpg",
+"Key": "content/cos/hnc/pfc/20130512_200115_jpg.jpg",
 "extension": ".jpg",
 "Size": "70061"
 },
 {
 "name": "Bldg 20751@Ft Bliss,TX(PN64614).jpg",
 "LastModified": "05/20/2015 13:52:29",
-"Key": "content/cos/hnc/pff/Bldg 20751@Ft Bliss,TX(PN64614).jpg",
+"Key": "content/cos/hnc/pfc/Bldg 20751@Ft Bliss,TX(PN64614).jpg",
 "extension": ".jpg",
 "Size": "35595"
 },
 {
 "name": "cover_jpg.jpg",
 "LastModified": "05/20/2015 13:52:29",
-"Key": "content/cos/hnc/pff/cover_jpg.jpg",
+"Key": "content/cos/hnc/pfc/cover_jpg.jpg",
 "extension": ".jpg",
 "Size": "35548"
 },
 {
 "name": "front_jpg.jpg",
 "LastModified": "05/20/2015 13:52:29",
-"Key": "content/cos/hnc/pff/front_jpg.jpg",
+"Key": "content/cos/hnc/pfc/front_jpg.jpg",
 "extension": ".jpg",
 "Size": "54355"
 },
 {
 "name": "IMG00786-20120927-0934_jpg.jpg",
 "LastModified": "05/20/2015 13:52:29",
-"Key": "content/cos/hnc/pff/IMG00786-20120927-0934_jpg.jpg",
+"Key": "content/cos/hnc/pfc/IMG00786-20120927-0934_jpg.jpg",
 "extension": ".jpg",
 "Size": "69537"
 },
 {
 "name": "IMG00803-20120927-1005_jpg.jpg",
 "LastModified": "05/20/2015 13:52:30",
-"Key": "content/cos/hnc/pff/IMG00803-20120927-1005_jpg.jpg",
+"Key": "content/cos/hnc/pfc/IMG00803-20120927-1005_jpg.jpg",
 "extension": ".jpg",
 "Size": "90320"
 },
 {
 "name": "IMG00825-20120927-1035_jpg.jpg",
 "LastModified": "05/20/2015 13:52:30",
-"Key": "content/cos/hnc/pff/IMG00825-20120927-1035_jpg.jpg",
+"Key": "content/cos/hnc/pfc/IMG00825-20120927-1035_jpg.jpg",
 "extension": ".jpg",
 "Size": "90195"
 },
 {
 "name": "IMG00896-20121017-1435_jpg.jpg",
 "LastModified": "05/20/2015 13:52:30",
-"Key": "content/cos/hnc/pff/IMG00896-20121017-1435_jpg.jpg",
+"Key": "content/cos/hnc/pfc/IMG00896-20121017-1435_jpg.jpg",
 "extension": ".jpg",
 "Size": "52932"
 },
 {
 "name": "IMG02477-20131219-1358_jpg.jpg",
 "LastModified": "05/20/2015 13:52:31",
-"Key": "content/cos/hnc/pff/IMG02477-20131219-1358_jpg.jpg",
+"Key": "content/cos/hnc/pfc/IMG02477-20131219-1358_jpg.jpg",
 "extension": ".jpg",
 "Size": "75153"
 },
 {
 "name": "IMG02504-20131219-1445_jpg.jpg",
 "LastModified": "05/20/2015 13:52:31",
-"Key": "content/cos/hnc/pff/IMG02504-20131219-1445_jpg.jpg",
+"Key": "content/cos/hnc/pfc/IMG02504-20131219-1445_jpg.jpg",
 "extension": ".jpg",
 "Size": "76597"
 },
 {
 "name": "IMG02516-20140711-1054_jpg.jpg",
 "LastModified": "05/20/2015 13:52:31",
-"Key": "content/cos/hnc/pff/IMG02516-20140711-1054_jpg.jpg",
+"Key": "content/cos/hnc/pfc/IMG02516-20140711-1054_jpg.jpg",
 "extension": ".jpg",
 "Size": "67690"
 },
 {
 "name": "IMG02518-20140711-1056_jpg.jpg",
 "LastModified": "05/20/2015 13:52:31",
-"Key": "content/cos/hnc/pff/IMG02518-20140711-1056_jpg.jpg",
+"Key": "content/cos/hnc/pfc/IMG02518-20140711-1056_jpg.jpg",
 "extension": ".jpg",
 "Size": "77722"
 },
 {
 "name": "IMG02550-20140711-1130_jpg.jpg",
 "LastModified": "05/20/2015 13:52:32",
-"Key": "content/cos/hnc/pff/IMG02550-20140711-1130_jpg.jpg",
+"Key": "content/cos/hnc/pfc/IMG02550-20140711-1130_jpg.jpg",
 "extension": ".jpg",
 "Size": "82887"
 },
 {
 "name": "may2011_431.jpg",
 "LastModified": "07/01/2015 11:34:47",
-"Key": "content/cos/hnc/pff/may2011_431.jpg",
+"Key": "content/cos/hnc/pfc/may2011_431.jpg",
 "extension": ".jpg",
 "Size": "87007"
 },
 {
 "name": "may2011_438.jpg",
 "LastModified": "07/01/2015 11:34:51",
-"Key": "content/cos/hnc/pff/may2011_438.jpg",
+"Key": "content/cos/hnc/pfc/may2011_438.jpg",
 "extension": ".jpg",
 "Size": "510560"
 },
 {
 "name": "may2011_447.jpg",
 "LastModified": "07/01/2015 11:34:51",
-"Key": "content/cos/hnc/pff/may2011_447.jpg",
+"Key": "content/cos/hnc/pfc/may2011_447.jpg",
 "extension": ".jpg",
 "Size": "536611"
 },
 {
 "name": "oct_01_2012_205.jpg",
 "LastModified": "07/01/2015 11:34:52",
-"Key": "content/cos/hnc/pff/oct_01_2012_205.jpg",
+"Key": "content/cos/hnc/pfc/oct_01_2012_205.jpg",
 "extension": ".jpg",
 "Size": "616902"
 },
 {
 "name": "P1010948_JPG.jpg",
 "LastModified": "05/20/2015 13:52:42",
-"Key": "content/cos/hnc/pff/P1010948_JPG.jpg",
+"Key": "content/cos/hnc/pfc/P1010948_JPG.jpg",
 "extension": ".jpg",
 "Size": "68501"
 },
 {
 "name": "Archive",
 "LastModified": "10/03/2019 11:29:56",
-"Key": "content/cos/hnc/pff/Library/Archive",
+"Key": "content/cos/hnc/pfc/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
 "LastModified": "09/25/2019 08:24:32",
-"Key": "content/cos/hnc/pff/Library/Army Standards",
+"Key": "content/cos/hnc/pfc/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
 "LastModified": "09/25/2019 08:24:32",
-"Key": "content/cos/hnc/pff/Library/DD1391 Templates",
+"Key": "content/cos/hnc/pfc/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Example Projects",
 "LastModified": "09/27/2019 14:13:41",
-"Key": "content/cos/hnc/pff/Library/Example Projects",
+"Key": "content/cos/hnc/pfc/Library/Example Projects",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Docs (VE, LCCA, LEED, etc...)",
 "LastModified": "10/03/2019 11:31:04",
-"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
+"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
 "extension": ".)",
 "Size": ""
 },
 {
 "name": "Standard Designs",
 "LastModified": "09/25/2019 08:24:33",
-"Key": "content/cos/hnc/pff/Library/Standard Designs",
+"Key": "content/cos/hnc/pfc/Library/Standard Designs",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Energy Models",
 "LastModified": "09/27/2019 14:18:01",
-"Key": "content/cos/hnc/pff/Library/Archive/Energy Models",
+"Key": "content/cos/hnc/pfc/Library/Archive/Energy Models",
 "extension": "",
 "Size": ""
 },
 {
 "name": "pff-leed-v4-checklist.xls",
 "LastModified": "06/29/2015 12:14:25",
-"Key": "content/cos/hnc/pff/Library/Archive/pff-leed-v4-checklist.xls",
+"Key": "content/cos/hnc/pfc/Library/Archive/pff-leed-v4-checklist.xls",
 "extension": ".xls",
 "Size": "130560"
 },
 {
 "name": "physical-fitness-facility_extra_small_25-meter-pool_fy18.pdf",
 "LastModified": "08/16/2016 12:00:35",
-"Key": "content/cos/hnc/pff/Library/Archive/physical-fitness-facility_extra_small_25-meter-pool_fy18.pdf",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_extra_small_25-meter-pool_fy18.pdf",
 "extension": ".pdf",
 "Size": "13053"
 },
 {
 "name": "physical-fitness-facility_extra_small_50-meter-pool_fy18.pdf",
 "LastModified": "08/16/2016 12:00:19",
-"Key": "content/cos/hnc/pff/Library/Archive/physical-fitness-facility_extra_small_50-meter-pool_fy18.pdf",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_extra_small_50-meter-pool_fy18.pdf",
 "extension": ".pdf",
 "Size": "13155"
 },
 {
 "name": "physical-fitness-facility_extra_small_fy18.pdf",
 "LastModified": "08/16/2016 12:00:22",
-"Key": "content/cos/hnc/pff/Library/Archive/physical-fitness-facility_extra_small_fy18.pdf",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_extra_small_fy18.pdf",
 "extension": ".pdf",
 "Size": "12878"
 },
 {
 "name": "physical-fitness-facility_large_25-meter-pool_fy18.pdf",
 "LastModified": "08/16/2016 12:00:23",
-"Key": "content/cos/hnc/pff/Library/Archive/physical-fitness-facility_large_25-meter-pool_fy18.pdf",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_large_25-meter-pool_fy18.pdf",
 "extension": ".pdf",
 "Size": "13152"
 },
 {
 "name": "physical-fitness-facility_large_50-meter-pool_fy18.pdf",
 "LastModified": "08/16/2016 12:00:24",
-"Key": "content/cos/hnc/pff/Library/Archive/physical-fitness-facility_large_50-meter-pool_fy18.pdf",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_large_50-meter-pool_fy18.pdf",
 "extension": ".pdf",
 "Size": "13154"
 },
 {
 "name": "physical-fitness-facility_large_fy18.pdf",
 "LastModified": "08/16/2016 12:00:26",
-"Key": "content/cos/hnc/pff/Library/Archive/physical-fitness-facility_large_fy18.pdf",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_large_fy18.pdf",
 "extension": ".pdf",
 "Size": "12956"
 },
 {
 "name": "physical-fitness-facility_medium_25-meter-pool_fy18.pdf",
 "LastModified": "08/16/2016 12:00:28",
-"Key": "content/cos/hnc/pff/Library/Archive/physical-fitness-facility_medium_25-meter-pool_fy18.pdf",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_medium_25-meter-pool_fy18.pdf",
 "extension": ".pdf",
 "Size": "13212"
 },
 {
 "name": "physical-fitness-facility_medium_50-meter-pool_fy18.pdf",
 "LastModified": "08/16/2016 12:00:29",
-"Key": "content/cos/hnc/pff/Library/Archive/physical-fitness-facility_medium_50-meter-pool_fy18.pdf",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_medium_50-meter-pool_fy18.pdf",
 "extension": ".pdf",
 "Size": "13214"
 },
 {
 "name": "physical-fitness-facility_medium__fy18.pdf",
 "LastModified": "08/16/2016 12:00:27",
-"Key": "content/cos/hnc/pff/Library/Archive/physical-fitness-facility_medium__fy18.pdf",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_medium__fy18.pdf",
 "extension": ".pdf",
 "Size": "12976"
 },
 {
 "name": "physical-fitness-facility_small_25-meter-pool_fy18.pdf",
 "LastModified": "08/16/2016 12:00:30",
-"Key": "content/cos/hnc/pff/Library/Archive/physical-fitness-facility_small_25-meter-pool_fy18.pdf",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_small_25-meter-pool_fy18.pdf",
 "extension": ".pdf",
 "Size": "13155"
 },
 {
 "name": "physical-fitness-facility_small_50-meter-pool_fy18.pdf",
 "LastModified": "08/16/2016 12:00:33",
-"Key": "content/cos/hnc/pff/Library/Archive/physical-fitness-facility_small_50-meter-pool_fy18.pdf",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_small_50-meter-pool_fy18.pdf",
 "extension": ".pdf",
 "Size": "13237"
 },
 {
 "name": "physical-fitness-facility_small_fy18.pdf",
 "LastModified": "08/16/2016 12:00:34",
-"Key": "content/cos/hnc/pff/Library/Archive/physical-fitness-facility_small_fy18.pdf",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_small_fy18.pdf",
 "extension": ".pdf",
 "Size": "12867"
 },
 {
 "name": "physical_fitness_fac_extrasmall_25meterpool_fy19.pdf",
 "LastModified": "08/27/2018 11:06:56",
-"Key": "content/cos/hnc/pff/Library/Archive/physical_fitness_fac_extrasmall_25meterpool_fy19.pdf",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical_fitness_fac_extrasmall_25meterpool_fy19.pdf",
 "extension": ".pdf",
 "Size": "13217"
 },
 {
 "name": "physical_fitness_fac_extrasmall_50meterpool_fy19.pdf",
 "LastModified": "08/27/2018 11:06:53",
-"Key": "content/cos/hnc/pff/Library/Archive/physical_fitness_fac_extrasmall_50meterpool_fy19.pdf",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical_fitness_fac_extrasmall_50meterpool_fy19.pdf",
 "extension": ".pdf",
 "Size": "13318"
 },
 {
 "name": "physical_fitness_fac_large_25meterpool_fy19.pdf",
 "LastModified": "08/27/2018 11:06:53",
-"Key": "content/cos/hnc/pff/Library/Archive/physical_fitness_fac_large_25meterpool_fy19.pdf",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical_fitness_fac_large_25meterpool_fy19.pdf",
 "extension": ".pdf",
 "Size": "13325"
 },
 {
 "name": "physical_fitness_fac_large_50meterpool_fy19.pdf",
 "LastModified": "08/27/2018 11:06:54",
-"Key": "content/cos/hnc/pff/Library/Archive/physical_fitness_fac_large_50meterpool_fy19.pdf",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical_fitness_fac_large_50meterpool_fy19.pdf",
 "extension": ".pdf",
 "Size": "13324"
 },
 {
 "name": "physical_fitness_fac_medium_25meterpool_fy19.pdf",
 "LastModified": "08/27/2018 11:06:54",
-"Key": "content/cos/hnc/pff/Library/Archive/physical_fitness_fac_medium_25meterpool_fy19.pdf",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical_fitness_fac_medium_25meterpool_fy19.pdf",
 "extension": ".pdf",
 "Size": "13377"
 },
 {
 "name": "physical_fitness_fac_medium_50meterpool_fy19.pdf",
 "LastModified": "08/27/2018 11:06:54",
-"Key": "content/cos/hnc/pff/Library/Archive/physical_fitness_fac_medium_50meterpool_fy19.pdf",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical_fitness_fac_medium_50meterpool_fy19.pdf",
 "extension": ".pdf",
 "Size": "13383"
 },
 {
 "name": "physical_fitness_fac_small_25meterpool_fy19.pdf",
 "LastModified": "08/27/2018 11:06:55",
-"Key": "content/cos/hnc/pff/Library/Archive/physical_fitness_fac_small_25meterpool_fy19.pdf",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical_fitness_fac_small_25meterpool_fy19.pdf",
 "extension": ".pdf",
 "Size": "13318"
 },
 {
 "name": "physical_fitness_fac_small_50meterpool_fy19.pdf",
 "LastModified": "08/27/2018 11:06:55",
-"Key": "content/cos/hnc/pff/Library/Archive/physical_fitness_fac_small_50meterpool_fy19.pdf",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical_fitness_fac_small_50meterpool_fy19.pdf",
 "extension": ".pdf",
 "Size": "13318"
 },
 {
 "name": "Physical Fitness Facility.pdf",
 "LastModified": "05/20/2015 13:52:32",
-"Key": "content/cos/hnc/pff/Library/Army Standards/Physical Fitness Facility.pdf",
+"Key": "content/cos/hnc/pfc/Library/Army Standards/Physical Fitness Facility.pdf",
 "extension": ".pdf",
 "Size": "1671957"
 },
 {
 "name": "physical_fitness_fac_large.pdf",
 "LastModified": "08/27/2018 11:05:49",
-"Key": "content/cos/hnc/pff/Library/DD1391 Templates/physical_fitness_fac_large.pdf",
+"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/physical_fitness_fac_large.pdf",
 "extension": ".pdf",
 "Size": "13133"
 },
 {
 "name": "physical_fitness_fac_medium.pdf",
 "LastModified": "08/27/2018 11:05:55",
-"Key": "content/cos/hnc/pff/Library/DD1391 Templates/physical_fitness_fac_medium.pdf",
+"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/physical_fitness_fac_medium.pdf",
 "extension": ".pdf",
 "Size": "13143"
 },
 {
 "name": "physical_fitness_fac_small.pdf",
 "LastModified": "08/27/2018 11:06:00",
-"Key": "content/cos/hnc/pff/Library/DD1391 Templates/physical_fitness_fac_small.pdf",
+"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/physical_fitness_fac_small.pdf",
 "extension": ".pdf",
 "Size": "13123"
 },
 {
 "name": "physical_fitness_fac_xsmall.pdf",
 "LastModified": "08/27/2018 11:06:08",
-"Key": "content/cos/hnc/pff/Library/DD1391 Templates/physical_fitness_fac_xsmall.pdf",
+"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/physical_fitness_fac_xsmall.pdf",
 "extension": ".pdf",
 "Size": "13138"
 },
 {
 "name": "phy_fitness_ex-small_25-meter-pool_fy20.pdf",
 "LastModified": "08/27/2018 10:42:03",
-"Key": "content/cos/hnc/pff/Library/DD1391 Templates/phy_fitness_ex-small_25-meter-pool_fy20.pdf",
+"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_ex-small_25-meter-pool_fy20.pdf",
 "extension": ".pdf",
 "Size": "20873"
 },
 {
 "name": "phy_fitness_ex-small_50-meter-pool_fy20.pdf",
 "LastModified": "08/27/2018 10:42:09",
-"Key": "content/cos/hnc/pff/Library/DD1391 Templates/phy_fitness_ex-small_50-meter-pool_fy20.pdf",
+"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_ex-small_50-meter-pool_fy20.pdf",
 "extension": ".pdf",
 "Size": "21045"
 },
 {
 "name": "phy_fitness_lrg_25-meter-pool_fy20.pdf",
 "LastModified": "08/27/2018 10:42:14",
-"Key": "content/cos/hnc/pff/Library/DD1391 Templates/phy_fitness_lrg_25-meter-pool_fy20.pdf",
+"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_lrg_25-meter-pool_fy20.pdf",
 "extension": ".pdf",
 "Size": "21108"
 },
 {
 "name": "phy_fitness_lrg_50-meter-pool_fy20.pdf",
 "LastModified": "08/27/2018 10:42:22",
-"Key": "content/cos/hnc/pff/Library/DD1391 Templates/phy_fitness_lrg_50-meter-pool_fy20.pdf",
+"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_lrg_50-meter-pool_fy20.pdf",
 "extension": ".pdf",
 "Size": "21105"
 },
 {
 "name": "phy_fitness_med_25-meter-pool_fy20.pdf",
 "LastModified": "08/27/2018 10:42:26",
-"Key": "content/cos/hnc/pff/Library/DD1391 Templates/phy_fitness_med_25-meter-pool_fy20.pdf",
+"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_med_25-meter-pool_fy20.pdf",
 "extension": ".pdf",
 "Size": "21166"
 },
 {
 "name": "phy_fitness_med_50-meter-pool_fy20.pdf",
 "LastModified": "08/27/2018 10:42:30",
-"Key": "content/cos/hnc/pff/Library/DD1391 Templates/phy_fitness_med_50-meter-pool_fy20.pdf",
+"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_med_50-meter-pool_fy20.pdf",
 "extension": ".pdf",
 "Size": "21160"
 },
 {
 "name": "phy_fitness_small_25-meter-pool_fy20.pdf",
 "LastModified": "08/27/2018 10:42:34",
-"Key": "content/cos/hnc/pff/Library/DD1391 Templates/phy_fitness_small_25-meter-pool_fy20.pdf",
+"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_small_25-meter-pool_fy20.pdf",
 "extension": ".pdf",
 "Size": "21119"
 },
 {
 "name": "phy_fitness_small_50-meter-pool_fy20.pdf",
 "LastModified": "08/27/2018 10:42:39",
-"Key": "content/cos/hnc/pff/Library/DD1391 Templates/phy_fitness_small_50-meter-pool_fy20.pdf",
+"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_small_50-meter-pool_fy20.pdf",
 "extension": ".pdf",
 "Size": "21117"
 },
 {
 "name": "Energy Models",
 "LastModified": "10/03/2019 11:30:13",
-"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models",
+"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models",
 "extension": "",
 "Size": ""
 },
 {
 "name": "POTR Reports",
 "LastModified": "10/03/2019 11:29:30",
-"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports",
+"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Change_Proposal_and_Tracking_Form.pdf",
 "LastModified": "05/20/2015 13:52:35",
-"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Change_Proposal_and_Tracking_Form.pdf",
+"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Change_Proposal_and_Tracking_Form.pdf",
 "extension": ".pdf",
 "Size": "149025"
 },
 {
 "name": "Final VE Report - PFF- Physical Fitness Facility.pdf",
 "LastModified": "10/03/2019 09:29:58",
-"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Final VE Report - PFF- Physical Fitness Facility.pdf",
+"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Final VE Report - PFF- Physical Fitness Facility.pdf",
 "extension": ".pdf",
 "Size": "1895154"
 },
 {
 "name": "LEED Checklist-Medium PFF.PDF",
 "LastModified": "10/03/2019 09:30:04",
-"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium PFF.PDF",
+"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium PFF.PDF",
 "extension": ".PDF",
 "Size": "165530"
 },
 {
 "name": "LEED Checklist-Medium PFF.xlsx",
 "LastModified": "10/03/2019 09:30:05",
-"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium PFF.xlsx",
+"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium PFF.xlsx",
 "extension": ".xlsx",
 "Size": "43689"
 },
 {
 "name": "natorium-facilities-leed-v4-checklist.xls",
 "LastModified": "06/29/2015 12:14:25",
-"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/natorium-facilities-leed-v4-checklist.xls",
+"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/natorium-facilities-leed-v4-checklist.xls",
 "extension": ".xls",
 "Size": "130560"
 },
 {
 "name": "pff-variations.jpg",
 "LastModified": "06/29/2015 11:19:41",
-"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/pff-variations.jpg",
+"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/pff-variations.jpg",
 "extension": ".jpg",
 "Size": "115905"
 },
 {
 "name": "RFP Wizard Input - PFF (Aug-11) (1).pdf",
 "LastModified": "05/20/2015 13:52:37",
-"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP Wizard Input - PFF (Aug-11) (1).pdf",
+"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP Wizard Input - PFF (Aug-11) (1).pdf",
 "extension": ".pdf",
 "Size": "63824"
 },
 {
 "name": "RFP Wizard Input - PFF (Aug-11).pdf",
 "LastModified": "05/20/2015 13:52:38",
-"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP Wizard Input - PFF (Aug-11).pdf",
+"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP Wizard Input - PFF (Aug-11).pdf",
 "extension": ".pdf",
 "Size": "63824"
 },
 {
 "name": "RFP Wizard Input - PFF Natatorium (Mar_11).pdf",
 "LastModified": "05/20/2015 13:52:38",
-"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP Wizard Input - PFF Natatorium (Mar_11).pdf",
+"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP Wizard Input - PFF Natatorium (Mar_11).pdf",
 "extension": ".pdf",
 "Size": "1162937"
 },
 {
 "name": "ufc-cancelled.docx",
 "LastModified": "10/14/2015 15:03:04",
-"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/ufc-cancelled.docx",
+"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/ufc-cancelled.docx",
 "extension": ".docx",
 "Size": "12669"
 },
 {
 "name": "Utility_Demands_Estimate_(Apr_10).xls",
 "LastModified": "05/20/2015 13:52:39",
-"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models/Utility_Demands_Estimate_(Apr_10).xls",
+"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models/Utility_Demands_Estimate_(Apr_10).xls",
 "extension": ".xls",
 "Size": "2993152"
 },
 {
 "name": "PFF POTR Reports - FY11.pdf",
 "LastModified": "05/20/2015 13:52:36",
-"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/PFF POTR Reports - FY11.pdf",
+"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/PFF POTR Reports - FY11.pdf",
 "extension": ".pdf",
 "Size": "295122"
 },
 {
 "name": "PFF POTR Reports - FY12.pdf",
 "LastModified": "05/20/2015 13:52:36",
-"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/PFF POTR Reports - FY12.pdf",
+"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/PFF POTR Reports - FY12.pdf",
 "extension": ".pdf",
 "Size": "4198645"
 },
 {
 "name": "PFF POTR Reports - FY13.pdf",
 "LastModified": "05/20/2015 13:52:37",
-"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/PFF POTR Reports - FY13.pdf",
+"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/PFF POTR Reports - FY13.pdf",
 "extension": ".pdf",
 "Size": "3073898"
 },
 {
 "name": "pff-potr-reports-fy14.pdf",
 "LastModified": "08/11/2017 15:32:06",
-"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/pff-potr-reports-fy14.pdf",
+"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/pff-potr-reports-fy14.pdf",
 "extension": ".pdf",
 "Size": "1051287"
 },
 {
 "name": "pff-potr-reports-fy15.pdf",
 "LastModified": "08/11/2017 15:30:41",
-"Key": "content/cos/hnc/pff/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/pff-potr-reports-fy15.pdf",
+"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports/pff-potr-reports-fy15.pdf",
 "extension": ".pdf",
 "Size": "2530028"
 },
 {
 "name": "Archive",
 "LastModified": "09/25/2019 08:24:33",
-"Key": "content/cos/hnc/pff/Library/Standard Designs/Archive",
+"Key": "content/cos/hnc/pfc/Library/Standard Designs/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "technical-criteria-010716.pdf",
 "LastModified": "01/07/2016 16:56:49",
-"Key": "content/cos/hnc/pff/Library/Standard Designs/technical-criteria-010716.pdf",
+"Key": "content/cos/hnc/pfc/Library/Standard Designs/technical-criteria-010716.pdf",
 "extension": ".pdf",
 "Size": "3809807"
 },
 {
 "name": "XX - PREVIOUS EDITION - Technical Criteria for U.S. Army Physical Fitness Facilities (Jun_10).pdf",
 "LastModified": "05/20/2015 13:52:41",
-"Key": "content/cos/hnc/pff/Library/Standard Designs/Archive/XX - PREVIOUS EDITION - Technical Criteria for U.S. Army Physical Fitness Facilities (Jun_10).pdf",
+"Key": "content/cos/hnc/pfc/Library/Standard Designs/Archive/XX - PREVIOUS EDITION - Technical Criteria for U.S. Army Physical Fitness Facilities (Jun_10).pdf",
 "extension": ".pdf",
 "Size": "3163295"
-},
-{
-"name": "Library",
-"LastModified": "09/27/2019 14:15:24",
-"Key": "content/cos/hnc/sac/Library",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Bldg 11898@FtBliss,TX(PN64096).jpg",
-"LastModified": "05/20/2015 13:52:43",
-"Key": "content/cos/hnc/sac/Bldg 11898@FtBliss,TX(PN64096).jpg",
-"extension": ".jpg",
-"Size": "65118"
-},
-{
-"name": "Bldg 20616 @ Ft Leonardwood, KS (PN54914).jpg",
-"LastModified": "05/20/2015 13:52:43",
-"Key": "content/cos/hnc/sac/Bldg 20616 @ Ft Leonardwood, KS (PN54914).jpg",
-"extension": ".jpg",
-"Size": "48269"
-},
-{
-"name": "Bldg 6204@Ft Carson,CO(PN56192).jpg",
-"LastModified": "05/20/2015 13:52:43",
-"Key": "content/cos/hnc/sac/Bldg 6204@Ft Carson,CO(PN56192).jpg",
-"extension": ".jpg",
-"Size": "74082"
-},
-{
-"name": "CDC_SABIMRendering.jpg",
-"LastModified": "05/20/2015 13:52:44",
-"Key": "content/cos/hnc/sac/CDC_SABIMRendering.jpg",
-"extension": ".jpg",
-"Size": "40346"
-},
-{
-"name": "cover123.jpg",
-"LastModified": "05/20/2015 13:52:44",
-"Key": "content/cos/hnc/sac/cover123.jpg",
-"extension": ".jpg",
-"Size": "58092"
-},
-{
-"name": "IMG00138-20120328-1138_jpg.jpg",
-"LastModified": "05/20/2015 13:52:44",
-"Key": "content/cos/hnc/sac/IMG00138-20120328-1138_jpg.jpg",
-"extension": ".jpg",
-"Size": "74450"
-},
-{
-"name": "IMG00357-20120419-0925_jpg.jpg",
-"LastModified": "05/20/2015 13:52:44",
-"Key": "content/cos/hnc/sac/IMG00357-20120419-0925_jpg.jpg",
-"extension": ".jpg",
-"Size": "44826"
-},
-{
-"name": "IMG00957-20121018-0938_jpg.jpg",
-"LastModified": "05/20/2015 13:52:45",
-"Key": "content/cos/hnc/sac/IMG00957-20121018-0938_jpg.jpg",
-"extension": ".jpg",
-"Size": "32736"
-},
-{
-"name": "IMG02412-20131218-1218_jpg.jpg",
-"LastModified": "05/20/2015 13:52:45",
-"Key": "content/cos/hnc/sac/IMG02412-20131218-1218_jpg.jpg",
-"extension": ".jpg",
-"Size": "52284"
-},
-{
-"name": "may2011135.jpg",
-"LastModified": "05/20/2015 13:53:06",
-"Key": "content/cos/hnc/sac/may2011135.jpg",
-"extension": ".jpg",
-"Size": "64767"
-},
-{
-"name": "Archive",
-"LastModified": "08/11/2020 13:05:25",
-"Key": "content/cos/hnc/sac/Library/Archive",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Army Standards",
-"LastModified": "09/25/2019 08:24:33",
-"Key": "content/cos/hnc/sac/Library/Army Standards",
-"extension": "",
-"Size": ""
-},
-{
-"name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:24:33",
-"Key": "content/cos/hnc/sac/Library/DD1391 Templates",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Example Projects",
-"LastModified": "09/27/2019 14:13:41",
-"Key": "content/cos/hnc/sac/Library/Example Projects",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Misc. Documents",
-"LastModified": "09/27/2019 14:16:27",
-"Key": "content/cos/hnc/sac/Library/Misc. Documents",
-"extension": ". Documents",
-"Size": ""
-},
-{
-"name": "Standard Designs",
-"LastModified": "08/11/2020 13:05:35",
-"Key": "content/cos/hnc/sac/Library/Standard Designs",
-"extension": "",
-"Size": ""
-},
-{
-"name": "DD 1391 Templates",
-"LastModified": "09/25/2019 08:24:33",
-"Key": "content/cos/hnc/sac/Library/Archive/DD 1391 Templates",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Energy Models",
-"LastModified": "09/27/2019 14:18:01",
-"Key": "content/cos/hnc/sac/Library/Archive/Energy Models",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Room-by-Room_Descriptions_-_CDC_6-10_(Oct_10).pdf",
-"LastModified": "05/20/2015 13:52:51",
-"Key": "content/cos/hnc/sac/Library/Archive/Room-by-Room_Descriptions_-_CDC_6-10_(Oct_10).pdf",
-"extension": ".pdf",
-"Size": "374624"
-},
-{
-"name": "sac-6-10_-final_20180403.pdf",
-"LastModified": "04/03/2018 11:03:10",
-"Key": "content/cos/hnc/sac/Library/Archive/sac-6-10_-final_20180403.pdf",
-"extension": ".pdf",
-"Size": "1324073"
-},
-{
-"name": "sac-6-10_-final_20180507.pdf",
-"LastModified": "05/08/2018 06:01:57",
-"Key": "content/cos/hnc/sac/Library/Archive/sac-6-10_-final_20180507.pdf",
-"extension": ".pdf",
-"Size": "1324422"
-},
-{
-"name": "sac-6-10_room-by-room-description_final_20190411.pdf",
-"LastModified": "04/11/2019 08:29:06",
-"Key": "content/cos/hnc/sac/Library/Archive/sac-6-10_room-by-room-description_final_20190411.pdf",
-"extension": ".pdf",
-"Size": "1325700"
-},
-{
-"name": "cdc_schlage_lrg_fy19.pdf",
-"LastModified": "08/27/2018 11:11:50",
-"Key": "content/cos/hnc/sac/Library/Archive/DD 1391 Templates/cdc_schlage_lrg_fy19.pdf",
-"extension": ".pdf",
-"Size": "12022"
-},
-{
-"name": "cdc_schlage_medium_fy19.pdf",
-"LastModified": "08/27/2018 11:11:50",
-"Key": "content/cos/hnc/sac/Library/Archive/DD 1391 Templates/cdc_schlage_medium_fy19.pdf",
-"extension": ".pdf",
-"Size": "12026"
-},
-{
-"name": "cdc_schlage_small_fy19.pdf",
-"LastModified": "08/27/2018 11:11:50",
-"Key": "content/cos/hnc/sac/Library/Archive/DD 1391 Templates/cdc_schlage_small_fy19.pdf",
-"extension": ".pdf",
-"Size": "12108"
-},
-{
-"name": "cdc_school_large_fy18.pdf",
-"LastModified": "08/16/2016 10:32:23",
-"Key": "content/cos/hnc/sac/Library/Archive/DD 1391 Templates/cdc_school_large_fy18.pdf",
-"extension": ".pdf",
-"Size": "11855"
-},
-{
-"name": "cdc_school_med_fy18.pdf",
-"LastModified": "08/16/2016 10:32:23",
-"Key": "content/cos/hnc/sac/Library/Archive/DD 1391 Templates/cdc_school_med_fy18.pdf",
-"extension": ".pdf",
-"Size": "11856"
-},
-{
-"name": "cdc_school_small_fy18.pdf",
-"LastModified": "08/16/2016 10:32:24",
-"Key": "content/cos/hnc/sac/Library/Archive/DD 1391 Templates/cdc_school_small_fy18.pdf",
-"extension": ".pdf",
-"Size": "11940"
-},
-{
-"name": "CDC age six to ten AS.pdf",
-"LastModified": "05/20/2015 13:52:46",
-"Key": "content/cos/hnc/sac/Library/Army Standards/CDC age six to ten AS.pdf",
-"extension": ".pdf",
-"Size": "120691"
-},
-{
-"name": "cdc-schl-age-large_fy20.pdf",
-"LastModified": "08/27/2018 10:12:08",
-"Key": "content/cos/hnc/sac/Library/DD1391 Templates/cdc-schl-age-large_fy20.pdf",
-"extension": ".pdf",
-"Size": "12142"
-},
-{
-"name": "cdc-schl-age-med_fy20.pdf",
-"LastModified": "08/27/2018 10:12:04",
-"Key": "content/cos/hnc/sac/Library/DD1391 Templates/cdc-schl-age-med_fy20.pdf",
-"extension": ".pdf",
-"Size": "24898"
-},
-{
-"name": "cdc-schl-age-small_fy20.pdf",
-"LastModified": "08/27/2018 10:12:00",
-"Key": "content/cos/hnc/sac/Library/DD1391 Templates/cdc-schl-age-small_fy20.pdf",
-"extension": ".pdf",
-"Size": "25789"
-},
-{
-"name": "Color Scheme",
-"LastModified": "09/27/2019 14:13:33",
-"Key": "content/cos/hnc/sac/Library/Misc. Documents/Color Scheme",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Energy Models",
-"LastModified": "09/27/2019 14:13:11",
-"Key": "content/cos/hnc/sac/Library/Misc. Documents/Energy Models",
-"extension": "",
-"Size": ""
-},
-{
-"name": "POTR Reports",
-"LastModified": "09/27/2019 14:13:23",
-"Key": "content/cos/hnc/sac/Library/Misc. Documents/POTR Reports",
-"extension": "",
-"Size": ""
-},
-{
-"name": "0 TOILET FIXTURE GRAB BAR SCHEDULE 072214.xlsx",
-"LastModified": "05/20/2015 13:52:47",
-"Key": "content/cos/hnc/sac/Library/Misc. Documents/0 TOILET FIXTURE GRAB BAR SCHEDULE 072214.xlsx",
-"extension": ".xlsx",
-"Size": "23331"
-},
-{
-"name": "cdc-6-10-leed-v4-checklist.xls",
-"LastModified": "06/29/2015 12:14:50",
-"Key": "content/cos/hnc/sac/Library/Misc. Documents/cdc-6-10-leed-v4-checklist.xls",
-"extension": ".xls",
-"Size": "148480"
-},
-{
-"name": "Change_Proposal_and_Tracking_Form.pdf",
-"LastModified": "05/20/2015 13:52:47",
-"Key": "content/cos/hnc/sac/Library/Misc. Documents/Change_Proposal_and_Tracking_Form.pdf",
-"extension": ".pdf",
-"Size": "149025"
-},
-{
-"name": "Energy Model - SAC Large.pdf",
-"LastModified": "05/20/2015 13:52:48",
-"Key": "content/cos/hnc/sac/Library/Misc. Documents/Energy Model - SAC Large.pdf",
-"extension": ".pdf",
-"Size": "5502009"
-},
-{
-"name": "Energy Model - SAC Medium.pdf",
-"LastModified": "05/20/2015 13:52:49",
-"Key": "content/cos/hnc/sac/Library/Misc. Documents/Energy Model - SAC Medium.pdf",
-"extension": ".pdf",
-"Size": "5652317"
-},
-{
-"name": "Energy Model - SAC Small.pdf",
-"LastModified": "05/20/2015 13:52:50",
-"Key": "content/cos/hnc/sac/Library/Misc. Documents/Energy Model - SAC Small.pdf",
-"extension": ".pdf",
-"Size": "4038789"
-},
-{
-"name": "PRIMARY COLOR SCHEME 8_15_14.pdf",
-"LastModified": "05/20/2015 13:52:50",
-"Key": "content/cos/hnc/sac/Library/Misc. Documents/PRIMARY COLOR SCHEME 8_15_14.pdf",
-"extension": ".pdf",
-"Size": "135836"
-},
-{
-"name": "RFP Wizard Input - CDC (Aug-11).pdf",
-"LastModified": "05/20/2015 13:52:51",
-"Key": "content/cos/hnc/sac/Library/Misc. Documents/RFP Wizard Input - CDC (Aug-11).pdf",
-"extension": ".pdf",
-"Size": "43566"
-},
-{
-"name": "SAC POTR Reports - FY11.pdf",
-"LastModified": "05/20/2015 13:52:51",
-"Key": "content/cos/hnc/sac/Library/Misc. Documents/SAC POTR Reports - FY11.pdf",
-"extension": ".pdf",
-"Size": "1055389"
-},
-{
-"name": "SAC POTR Reports - FY12.pdf",
-"LastModified": "05/20/2015 13:52:52",
-"Key": "content/cos/hnc/sac/Library/Misc. Documents/SAC POTR Reports - FY12.pdf",
-"extension": ".pdf",
-"Size": "5163757"
-},
-{
-"name": "SAC POTR Reports - FY13.pdf",
-"LastModified": "05/20/2015 13:52:53",
-"Key": "content/cos/hnc/sac/Library/Misc. Documents/SAC POTR Reports - FY13.pdf",
-"extension": ".pdf",
-"Size": "5748577"
-},
-{
-"name": "SAC POTR Reports - FY14.pdf",
-"LastModified": "05/20/2015 13:52:54",
-"Key": "content/cos/hnc/sac/Library/Misc. Documents/SAC POTR Reports - FY14.pdf",
-"extension": ".pdf",
-"Size": "2226000"
-},
-{
-"name": "sac-variations.jpg",
-"LastModified": "06/30/2015 11:50:39",
-"Key": "content/cos/hnc/sac/Library/Misc. Documents/sac-variations.jpg",
-"extension": ".jpg",
-"Size": "58358"
-},
-{
-"name": "SOUTHWEST COLOR SCHEME 8_15_14.pdf",
-"LastModified": "05/20/2015 13:52:55",
-"Key": "content/cos/hnc/sac/Library/Misc. Documents/SOUTHWEST COLOR SCHEME 8_15_14.pdf",
-"extension": ".pdf",
-"Size": "141247"
-},
-{
-"name": "Utility_Demands_Estimate_(Apr_10).xls",
-"LastModified": "05/20/2015 13:52:55",
-"Key": "content/cos/hnc/sac/Library/Misc. Documents/Utility_Demands_Estimate_(Apr_10).xls",
-"extension": ".xls",
-"Size": "2993152"
-},
-{
-"name": "Room by Room Design Criteria_SAC-6-10 (July 2020).pdf",
-"LastModified": "08/11/2020 13:04:02",
-"Key": "content/cos/hnc/sac/Library/Standard Designs/Room by Room Design Criteria_SAC-6-10 (July 2020).pdf",
-"extension": ".pdf",
-"Size": "1403858"
-},
-{
-"name": "Standard_Drawings_(CAD)_-_CDC_6-10,_Large_(Nov_10).zip",
-"LastModified": "05/20/2015 13:52:56",
-"Key": "content/cos/hnc/sac/Library/Standard Designs/Standard_Drawings_(CAD)_-_CDC_6-10,_Large_(Nov_10).zip",
-"extension": ".zip",
-"Size": "16494902"
-},
-{
-"name": "Standard_Drawings_(CAD)_-_CDC_6-10,_Medium_(Nov_10).zip",
-"LastModified": "05/20/2015 13:52:59",
-"Key": "content/cos/hnc/sac/Library/Standard Designs/Standard_Drawings_(CAD)_-_CDC_6-10,_Medium_(Nov_10).zip",
-"extension": ".zip",
-"Size": "15570663"
-},
-{
-"name": "Standard_Drawings_(CAD)_-_CDC_6-10,_Small_(Nov_10).zip",
-"LastModified": "05/20/2015 13:53:01",
-"Key": "content/cos/hnc/sac/Library/Standard Designs/Standard_Drawings_(CAD)_-_CDC_6-10,_Small_(Nov_10).zip",
-"extension": ".zip",
-"Size": "11163541"
-},
-{
-"name": "Standard_Drawings_(CAD)_-_CDC_6-10,_Wing_(Nov_10).zip",
-"LastModified": "05/20/2015 13:53:02",
-"Key": "content/cos/hnc/sac/Library/Standard Designs/Standard_Drawings_(CAD)_-_CDC_6-10,_Wing_(Nov_10).zip",
-"extension": ".zip",
-"Size": "2754214"
-},
-{
-"name": "Standard_Drawings_(PDF)_-_CDC_6-10,_Large_(Nov_10).pdf",
-"LastModified": "05/20/2015 13:53:03",
-"Key": "content/cos/hnc/sac/Library/Standard Designs/Standard_Drawings_(PDF)_-_CDC_6-10,_Large_(Nov_10).pdf",
-"extension": ".pdf",
-"Size": "3676536"
-},
-{
-"name": "Standard_Drawings_(PDF)_-_CDC_6-10,_Medium_(Nov_10).pdf",
-"LastModified": "05/20/2015 13:53:04",
-"Key": "content/cos/hnc/sac/Library/Standard Designs/Standard_Drawings_(PDF)_-_CDC_6-10,_Medium_(Nov_10).pdf",
-"extension": ".pdf",
-"Size": "3743793"
-},
-{
-"name": "Standard_Drawings_(PDF)_-_CDC_6-10,_Small_(Nov_10).pdf",
-"LastModified": "05/20/2015 13:53:05",
-"Key": "content/cos/hnc/sac/Library/Standard Designs/Standard_Drawings_(PDF)_-_CDC_6-10,_Small_(Nov_10).pdf",
-"extension": ".pdf",
-"Size": "3925042"
-},
-{
-"name": "Standard_Drawings_(PDF)_-_CDC_6-10,_Wing_(Nov_10).pdf",
-"LastModified": "05/20/2015 13:53:05",
-"Key": "content/cos/hnc/sac/Library/Standard Designs/Standard_Drawings_(PDF)_-_CDC_6-10,_Wing_(Nov_10).pdf",
-"extension": ".pdf",
-"Size": "2576243"
 },
 {
 "name": "Library",
@@ -3535,7 +3563,7 @@
 },
 {
 "name": "Misc. Docs (VE, LCCA, LEED, etc...)",
-"LastModified": "10/03/2019 11:33:09",
+"LastModified": "03/31/2021 16:09:10",
 "Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
 "extension": ".)",
 "Size": ""
@@ -3933,11 +3961,25 @@
 "Size": "43593"
 },
 {
+"name": "LEED_Checklist-Medium_CDC_YC_Apr-21_.pdf",
+"LastModified": "03/31/2021 16:04:43",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED_Checklist-Medium_CDC_YC_Apr-21_.pdf",
+"extension": ".pdf",
+"Size": "119732"
+},
+{
 "name": "RFP_Wizard_Input_-_YAC_(May_09).pdf",
 "LastModified": "05/20/2015 13:53:22",
 "Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP_Wizard_Input_-_YAC_(May_09).pdf",
 "extension": ".pdf",
 "Size": "98156"
+},
+{
+"name": "RFP_Wizard_Input_YC_Apr-21__-_Copy.pdf",
+"LastModified": "03/31/2021 16:04:59",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP_Wizard_Input_YC_Apr-21__-_Copy.pdf",
+"extension": ".pdf",
+"Size": "96033"
 },
 {
 "name": "Room_Descriptions_(Nov_10).pdf",
@@ -5509,24 +5551,24 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "01/08/2021 09:25:38",
+"LastModified": "03/31/2021 16:11:13",
 "Key": "content/cos/nao/infosys/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "07/20/2020 16:35:54",
+"LastModified": "03/31/2021 16:11:32",
 "Key": "content/cos/nao/infosys/Library/Standard Designs",
 "extension": "",
 "Size": ""
 },
 {
-"name": "PLan_dated_Feb_2010.pdf",
-"LastModified": "05/20/2015 15:32:57",
-"Key": "content/cos/nao/infosys/Library/Misc. Documents/PLan_dated_Feb_2010.pdf",
+"name": "example_floor_plans.pdf",
+"LastModified": "03/31/2021 16:10:47",
+"Key": "content/cos/nao/infosys/Library/Misc. Documents/example_floor_plans.pdf",
 "extension": ".pdf",
-"Size": "55551"
+"Size": "263470"
 },
 {
 "name": "TR08014_I3MP_Guide_Facilities_Final_15JUL08.pdf",
@@ -5536,11 +5578,11 @@
 "Size": "599206"
 },
 {
-"name": "ISF Facility Planner_May2013.xls",
-"LastModified": "05/20/2015 15:32:57",
-"Key": "content/cos/nao/infosys/Library/Standard Designs/ISF Facility Planner_May2013.xls",
+"name": "ISF_Facility_Planner.xls",
+"LastModified": "03/31/2021 16:10:56",
+"Key": "content/cos/nao/infosys/Library/Standard Designs/ISF_Facility_Planner.xls",
 "extension": ".xls",
-"Size": "72192"
+"Size": "76800"
 },
 {
 "name": "Library",
