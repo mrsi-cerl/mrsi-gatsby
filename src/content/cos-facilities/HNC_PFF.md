@@ -6,8 +6,8 @@ facility_cos_short_name: HNC
 facility_functional_proponent: G-9
 facility_long_name: Physical Fitness Facility
 facility_short_name: PFF
-cos_manager_name: Jeremiah R. Haley
-cos_manager_email: Jeremiah.R.Haley@usace.army.mil
+cos_manager_name: Jerry Haley
+cos_manager_email: jeremiah.r.haley@usace.army.mil
 facility_technical_poc_email: Ross.Allen@usace.army.mil
 facility_technical_poc_name: Ross Allen
 file_library_root_path: "content/cos/hnc/pff/Library/"

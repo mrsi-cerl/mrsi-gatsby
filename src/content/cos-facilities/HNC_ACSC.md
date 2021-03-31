@@ -9,10 +9,10 @@ facility_cos_short_name: HNC
 facility_functional_proponent: CFSC
 facility_long_name: Army Community Service Center
 facility_short_name: ACSC
-facility_technical_poc_email: marilyn.l.scott@usace.army.mil
-facility_technical_poc_name: Marilyn Scott
-cos_manager_name: Jeremiah R. Haley
-cos_manager_email: Jeremiah.R.Haley@usace.army.mil
+facility_technical_poc_email: joshua.p.arnett@usace.army.mil
+facility_technical_poc_name: Josh Arnett
+cos_manager_name: Jerry Haley
+cos_manager_email: jeremiah.r.haley@usace.army.mil
 file_library_root_path: content/cos/hnc/acsc/Library/
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/acsc/

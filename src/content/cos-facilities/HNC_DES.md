@@ -6,10 +6,10 @@ facility_cos_short_name: HNC
 facility_functional_proponent: OPMG
 facility_long_name: Directorate of Emergency Services Facility
 facility_short_name: DES
-facility_technical_poc_email: Jelani.A.Ingram@usace.army.mil
-facility_technical_poc_name: Jelani Ingram
-cos_manager_name: Jeremiah R. Haley
-cos_manager_email: Jeremiah.R.Haley@usace.army.mil
+facility_technical_poc_email: chris.a.shepherd@usace.army.mil
+facility_technical_poc_name: Chris Shepherd
+cos_manager_name: Jerry Haley
+cos_manager_email: jeremiah.r.haley@usace.army.mil
 file_library_root_path: "content/cos/hnc/des/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/des/

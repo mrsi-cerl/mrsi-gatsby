@@ -13,8 +13,8 @@ facility_long_name: Outdoor Sports Facilities
 facility_short_name: OSF
 facility_technical_poc_email: Ross.Allen@usace.army.mil
 facility_technical_poc_name: Ross Allen
-cos_manager_name: Jeremiah R. Haley
-cos_manager_email: Jeremiah.R.Haley@usace.army.mil
+cos_manager_name: Jerry Haley
+cos_manager_email: jeremiah.r.haley@usace.army.mil
 file_library_root_path: "content/cos/hnc/osf/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/osf/
