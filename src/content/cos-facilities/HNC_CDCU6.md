@@ -6,13 +6,13 @@ facility_cos_short_name: HNC
 facility_functional_proponent: G-9
 cos_manager_name: Jerry Haley
 cos_manager_email: jeremiah.r.haley@usace.army.mil
-facility_long_name: Child Development Center
-facility_short_name: CDC
+facility_long_name: Child Development Center - Under 6 Years of Age
+facility_short_name: CDCU6
 facility_technical_poc_email: michael.r.johnson2@usace.army.mil
 facility_technical_poc_name: Michael Johnson
-file_library_root_path: "content/cos/hnc/cdc/Library/"
+file_library_root_path: "content/cos/hnc/cdcu6/Library/"
 page_last_reviewed: 1 January 1970
-slug: /cos/hnc/cdc/
+slug: /cos/hnc/cdcu6/
 carousel_images:
   - /admin/images/uploads/Reception-Counter.jpg
   - /admin/images/uploads/Activity-Play-Room.jpg
@@ -32,7 +32,7 @@ carousel_images:
 
 ## Description
 
-A CDC is used by the Army to support readiness of families by reducing the conflict between military mission workforce requirements and parental responsibilities. CDC facilities covered in this standard were developed to support the needs of children 6 weeks – 5 years of age.
+A CDCU6 is used by the Army to support readiness of families by reducing the conflict between military mission workforce requirements and parental responsibilities. CDCU6 facilities covered in this standard were developed to support the needs of children 6 weeks – 5 years of age.
 
 ## Variations
 
