@@ -1,5 +1,5 @@
 $root_path="D:\inetpub\wwwroot\MRSI\"
-$save_location="C:\Users\hcarr\Desktop\s3ListBucket.json"
+$save_location="d:\temp\s3ListBucket.json"
 
 $ls = Get-ChildItem -Path $root_path -Recurse | Select-Object -Property LastWriteTime, FullName, Name, Extension, Length
 
