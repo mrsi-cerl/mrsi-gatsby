@@ -742,21 +742,21 @@
 },
 {
 "name": "Archive",
-"LastModified": "08/11/2020 13:05:25",
+"LastModified": "04/05/2021 11:16:01",
 "Key": "content/cos/hnc/cdcsa/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:24:33",
+"LastModified": "04/05/2021 11:12:47",
 "Key": "content/cos/hnc/cdcsa/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:24:33",
+"LastModified": "04/05/2021 11:13:07",
 "Key": "content/cos/hnc/cdcsa/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -770,31 +770,52 @@
 },
 {
 "name": "Misc. Docs (VE, LCCA, LEED, etc...)",
-"LastModified": "03/31/2021 16:08:36",
+"LastModified": "04/05/2021 11:14:31",
 "Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
 "extension": ".)",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "08/11/2020 13:05:35",
+"LastModified": "04/05/2021 11:16:01",
 "Key": "content/cos/hnc/cdcsa/Library/Standard Designs",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD 1391 Templates",
-"LastModified": "09/25/2019 08:24:33",
+"LastModified": "04/05/2021 11:13:07",
 "Key": "content/cos/hnc/cdcsa/Library/Archive/DD 1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Energy Models",
-"LastModified": "09/27/2019 14:18:01",
+"LastModified": "04/05/2021 11:14:49",
 "Key": "content/cos/hnc/cdcsa/Library/Archive/Energy Models",
 "extension": "",
 "Size": ""
+},
+{
+"name": "CDC age six to ten AS.pdf",
+"LastModified": "05/20/2015 13:52:46",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/CDC age six to ten AS.pdf",
+"extension": ".pdf",
+"Size": "120691"
+},
+{
+"name": "cdc-6-10-leed-v4-checklist.xls",
+"LastModified": "06/29/2015 12:14:50",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/cdc-6-10-leed-v4-checklist.xls",
+"extension": ".xls",
+"Size": "148480"
+},
+{
+"name": "RFP Wizard Input - CDC (Aug-11).pdf",
+"LastModified": "05/20/2015 13:52:51",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/RFP Wizard Input - CDC (Aug-11).pdf",
+"extension": ".pdf",
+"Size": "43566"
 },
 {
 "name": "Room-by-Room_Descriptions_-_CDC_6-10_(Oct_10).pdf",
@@ -802,6 +823,34 @@
 "Key": "content/cos/hnc/cdcsa/Library/Archive/Room-by-Room_Descriptions_-_CDC_6-10_(Oct_10).pdf",
 "extension": ".pdf",
 "Size": "374624"
+},
+{
+"name": "SAC POTR Reports - FY11.pdf",
+"LastModified": "05/20/2015 13:52:51",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/SAC POTR Reports - FY11.pdf",
+"extension": ".pdf",
+"Size": "1055389"
+},
+{
+"name": "SAC POTR Reports - FY12.pdf",
+"LastModified": "05/20/2015 13:52:52",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/SAC POTR Reports - FY12.pdf",
+"extension": ".pdf",
+"Size": "5163757"
+},
+{
+"name": "SAC POTR Reports - FY13.pdf",
+"LastModified": "05/20/2015 13:52:53",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/SAC POTR Reports - FY13.pdf",
+"extension": ".pdf",
+"Size": "5748577"
+},
+{
+"name": "SAC POTR Reports - FY14.pdf",
+"LastModified": "05/20/2015 13:52:54",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/SAC POTR Reports - FY14.pdf",
+"extension": ".pdf",
+"Size": "2226000"
 },
 {
 "name": "sac-6-10_-final_20180403.pdf",
@@ -823,6 +872,90 @@
 "Key": "content/cos/hnc/cdcsa/Library/Archive/sac-6-10_room-by-room-description_final_20190411.pdf",
 "extension": ".pdf",
 "Size": "1325700"
+},
+{
+"name": "Standard_Drawings_(CAD)_-_CDC_6-10,_Large_(Nov_10).zip",
+"LastModified": "05/20/2015 13:52:56",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/Standard_Drawings_(CAD)_-_CDC_6-10,_Large_(Nov_10).zip",
+"extension": ".zip",
+"Size": "16494902"
+},
+{
+"name": "Standard_Drawings_(CAD)_-_CDC_6-10,_Medium_(Nov_10).zip",
+"LastModified": "05/20/2015 13:52:59",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/Standard_Drawings_(CAD)_-_CDC_6-10,_Medium_(Nov_10).zip",
+"extension": ".zip",
+"Size": "15570663"
+},
+{
+"name": "Standard_Drawings_(CAD)_-_CDC_6-10,_Small_(Nov_10).zip",
+"LastModified": "05/20/2015 13:53:01",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/Standard_Drawings_(CAD)_-_CDC_6-10,_Small_(Nov_10).zip",
+"extension": ".zip",
+"Size": "11163541"
+},
+{
+"name": "Standard_Drawings_(CAD)_-_CDC_6-10,_Wing_(Nov_10).zip",
+"LastModified": "05/20/2015 13:53:02",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/Standard_Drawings_(CAD)_-_CDC_6-10,_Wing_(Nov_10).zip",
+"extension": ".zip",
+"Size": "2754214"
+},
+{
+"name": "Standard_Drawings_(PDF)_-_CDC_6-10,_Large_(Nov_10).pdf",
+"LastModified": "05/20/2015 13:53:03",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/Standard_Drawings_(PDF)_-_CDC_6-10,_Large_(Nov_10).pdf",
+"extension": ".pdf",
+"Size": "3676536"
+},
+{
+"name": "Standard_Drawings_(PDF)_-_CDC_6-10,_Medium_(Nov_10).pdf",
+"LastModified": "05/20/2015 13:53:04",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/Standard_Drawings_(PDF)_-_CDC_6-10,_Medium_(Nov_10).pdf",
+"extension": ".pdf",
+"Size": "3743793"
+},
+{
+"name": "Standard_Drawings_(PDF)_-_CDC_6-10,_Small_(Nov_10).pdf",
+"LastModified": "05/20/2015 13:53:05",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/Standard_Drawings_(PDF)_-_CDC_6-10,_Small_(Nov_10).pdf",
+"extension": ".pdf",
+"Size": "3925042"
+},
+{
+"name": "Standard_Drawings_(PDF)_-_CDC_6-10,_Wing_(Nov_10).pdf",
+"LastModified": "05/20/2015 13:53:05",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/Standard_Drawings_(PDF)_-_CDC_6-10,_Wing_(Nov_10).pdf",
+"extension": ".pdf",
+"Size": "2576243"
+},
+{
+"name": "Utility_Demands_Estimate_(Apr_10).xls",
+"LastModified": "05/20/2015 13:52:55",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/Utility_Demands_Estimate_(Apr_10).xls",
+"extension": ".xls",
+"Size": "2993152"
+},
+{
+"name": "cdc-schl-age-large_fy20.pdf",
+"LastModified": "08/27/2018 10:12:08",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/DD 1391 Templates/cdc-schl-age-large_fy20.pdf",
+"extension": ".pdf",
+"Size": "12142"
+},
+{
+"name": "cdc-schl-age-med_fy20.pdf",
+"LastModified": "08/27/2018 10:12:04",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/DD 1391 Templates/cdc-schl-age-med_fy20.pdf",
+"extension": ".pdf",
+"Size": "24898"
+},
+{
+"name": "cdc-schl-age-small_fy20.pdf",
+"LastModified": "08/27/2018 10:12:00",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/DD 1391 Templates/cdc-schl-age-small_fy20.pdf",
+"extension": ".pdf",
+"Size": "25789"
 },
 {
 "name": "cdc_schlage_lrg_fy19.pdf",
@@ -867,32 +1000,25 @@
 "Size": "11940"
 },
 {
-"name": "CDC age six to ten AS.pdf",
-"LastModified": "05/20/2015 13:52:46",
-"Key": "content/cos/hnc/cdcsa/Library/Army Standards/CDC age six to ten AS.pdf",
+"name": "Energy Model - SAC Large.pdf",
+"LastModified": "05/20/2015 13:52:48",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/Energy Models/Energy Model - SAC Large.pdf",
 "extension": ".pdf",
-"Size": "120691"
+"Size": "5502009"
 },
 {
-"name": "cdc-schl-age-large_fy20.pdf",
-"LastModified": "08/27/2018 10:12:08",
-"Key": "content/cos/hnc/cdcsa/Library/DD1391 Templates/cdc-schl-age-large_fy20.pdf",
+"name": "Energy Model - SAC Medium.pdf",
+"LastModified": "05/20/2015 13:52:49",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/Energy Models/Energy Model - SAC Medium.pdf",
 "extension": ".pdf",
-"Size": "12142"
+"Size": "5652317"
 },
 {
-"name": "cdc-schl-age-med_fy20.pdf",
-"LastModified": "08/27/2018 10:12:04",
-"Key": "content/cos/hnc/cdcsa/Library/DD1391 Templates/cdc-schl-age-med_fy20.pdf",
+"name": "Energy Model - SAC Small.pdf",
+"LastModified": "05/20/2015 13:52:50",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/Energy Models/Energy Model - SAC Small.pdf",
 "extension": ".pdf",
-"Size": "24898"
-},
-{
-"name": "cdc-schl-age-small_fy20.pdf",
-"LastModified": "08/27/2018 10:12:00",
-"Key": "content/cos/hnc/cdcsa/Library/DD1391 Templates/cdc-schl-age-small_fy20.pdf",
-"extension": ".pdf",
-"Size": "25789"
+"Size": "4038789"
 },
 {
 "name": "Color Scheme",
@@ -923,39 +1049,11 @@
 "Size": "23331"
 },
 {
-"name": "cdc-6-10-leed-v4-checklist.xls",
-"LastModified": "06/29/2015 12:14:50",
-"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/cdc-6-10-leed-v4-checklist.xls",
-"extension": ".xls",
-"Size": "148480"
-},
-{
 "name": "Change_Proposal_and_Tracking_Form.pdf",
 "LastModified": "05/20/2015 13:52:47",
 "Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Change_Proposal_and_Tracking_Form.pdf",
 "extension": ".pdf",
 "Size": "149025"
-},
-{
-"name": "Energy Model - SAC Large.pdf",
-"LastModified": "05/20/2015 13:52:48",
-"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Model - SAC Large.pdf",
-"extension": ".pdf",
-"Size": "5502009"
-},
-{
-"name": "Energy Model - SAC Medium.pdf",
-"LastModified": "05/20/2015 13:52:49",
-"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Model - SAC Medium.pdf",
-"extension": ".pdf",
-"Size": "5652317"
-},
-{
-"name": "Energy Model - SAC Small.pdf",
-"LastModified": "05/20/2015 13:52:50",
-"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Model - SAC Small.pdf",
-"extension": ".pdf",
-"Size": "4038789"
 },
 {
 "name": "LEED_Checklist_Medium_CDC_6-10_Apr-21_.pdf",
@@ -972,46 +1070,11 @@
 "Size": "135836"
 },
 {
-"name": "RFP Wizard Input - CDC (Aug-11).pdf",
-"LastModified": "05/20/2015 13:52:51",
-"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP Wizard Input - CDC (Aug-11).pdf",
-"extension": ".pdf",
-"Size": "43566"
-},
-{
 "name": "RFP_Wizard_Input_CDC_6-10_Apr-21_.pdf",
 "LastModified": "03/31/2021 16:04:54",
 "Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP_Wizard_Input_CDC_6-10_Apr-21_.pdf",
 "extension": ".pdf",
 "Size": "97927"
-},
-{
-"name": "SAC POTR Reports - FY11.pdf",
-"LastModified": "05/20/2015 13:52:51",
-"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/SAC POTR Reports - FY11.pdf",
-"extension": ".pdf",
-"Size": "1055389"
-},
-{
-"name": "SAC POTR Reports - FY12.pdf",
-"LastModified": "05/20/2015 13:52:52",
-"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/SAC POTR Reports - FY12.pdf",
-"extension": ".pdf",
-"Size": "5163757"
-},
-{
-"name": "SAC POTR Reports - FY13.pdf",
-"LastModified": "05/20/2015 13:52:53",
-"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/SAC POTR Reports - FY13.pdf",
-"extension": ".pdf",
-"Size": "5748577"
-},
-{
-"name": "SAC POTR Reports - FY14.pdf",
-"LastModified": "05/20/2015 13:52:54",
-"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/SAC POTR Reports - FY14.pdf",
-"extension": ".pdf",
-"Size": "2226000"
 },
 {
 "name": "sac-variations.jpg",
@@ -1028,74 +1091,11 @@
 "Size": "141247"
 },
 {
-"name": "Utility_Demands_Estimate_(Apr_10).xls",
-"LastModified": "05/20/2015 13:52:55",
-"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Utility_Demands_Estimate_(Apr_10).xls",
-"extension": ".xls",
-"Size": "2993152"
-},
-{
 "name": "Room by Room Design Criteria_SAC-6-10 (July 2020).pdf",
 "LastModified": "08/11/2020 13:04:02",
 "Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Room by Room Design Criteria_SAC-6-10 (July 2020).pdf",
 "extension": ".pdf",
 "Size": "1403858"
-},
-{
-"name": "Standard_Drawings_(CAD)_-_CDC_6-10,_Large_(Nov_10).zip",
-"LastModified": "05/20/2015 13:52:56",
-"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_(CAD)_-_CDC_6-10,_Large_(Nov_10).zip",
-"extension": ".zip",
-"Size": "16494902"
-},
-{
-"name": "Standard_Drawings_(CAD)_-_CDC_6-10,_Medium_(Nov_10).zip",
-"LastModified": "05/20/2015 13:52:59",
-"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_(CAD)_-_CDC_6-10,_Medium_(Nov_10).zip",
-"extension": ".zip",
-"Size": "15570663"
-},
-{
-"name": "Standard_Drawings_(CAD)_-_CDC_6-10,_Small_(Nov_10).zip",
-"LastModified": "05/20/2015 13:53:01",
-"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_(CAD)_-_CDC_6-10,_Small_(Nov_10).zip",
-"extension": ".zip",
-"Size": "11163541"
-},
-{
-"name": "Standard_Drawings_(CAD)_-_CDC_6-10,_Wing_(Nov_10).zip",
-"LastModified": "05/20/2015 13:53:02",
-"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_(CAD)_-_CDC_6-10,_Wing_(Nov_10).zip",
-"extension": ".zip",
-"Size": "2754214"
-},
-{
-"name": "Standard_Drawings_(PDF)_-_CDC_6-10,_Large_(Nov_10).pdf",
-"LastModified": "05/20/2015 13:53:03",
-"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_(PDF)_-_CDC_6-10,_Large_(Nov_10).pdf",
-"extension": ".pdf",
-"Size": "3676536"
-},
-{
-"name": "Standard_Drawings_(PDF)_-_CDC_6-10,_Medium_(Nov_10).pdf",
-"LastModified": "05/20/2015 13:53:04",
-"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_(PDF)_-_CDC_6-10,_Medium_(Nov_10).pdf",
-"extension": ".pdf",
-"Size": "3743793"
-},
-{
-"name": "Standard_Drawings_(PDF)_-_CDC_6-10,_Small_(Nov_10).pdf",
-"LastModified": "05/20/2015 13:53:05",
-"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_(PDF)_-_CDC_6-10,_Small_(Nov_10).pdf",
-"extension": ".pdf",
-"Size": "3925042"
-},
-{
-"name": "Standard_Drawings_(PDF)_-_CDC_6-10,_Wing_(Nov_10).pdf",
-"LastModified": "05/20/2015 13:53:05",
-"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_(PDF)_-_CDC_6-10,_Wing_(Nov_10).pdf",
-"extension": ".pdf",
-"Size": "2576243"
 },
 {
 "name": "Library",
@@ -1190,14 +1190,14 @@
 },
 {
 "name": "Archive",
-"LastModified": "08/11/2020 13:09:52",
+"LastModified": "04/05/2021 11:17:48",
 "Key": "content/cos/hnc/cdcu6/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:24:21",
+"LastModified": "04/05/2021 11:16:31",
 "Key": "content/cos/hnc/cdcu6/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -1218,7 +1218,7 @@
 },
 {
 "name": "Misc. Docs (VE, LCCA, LEED, etc...)",
-"LastModified": "03/31/2021 16:08:13",
+"LastModified": "04/05/2021 11:17:48",
 "Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
 "extension": ".)",
 "Size": ""
@@ -1239,7 +1239,7 @@
 },
 {
 "name": "Energy Models",
-"LastModified": "09/27/2019 14:19:16",
+"LastModified": "04/05/2021 11:16:58",
 "Key": "content/cos/hnc/cdcu6/Library/Archive/Energy Models",
 "extension": "",
 "Size": ""
@@ -1250,6 +1250,13 @@
 "Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs",
 "extension": "",
 "Size": ""
+},
+{
+"name": "CDC age 6wk to 5yr Army Standard.pdf",
+"LastModified": "05/20/2015 13:51:34",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/CDC age 6wk to 5yr Army Standard.pdf",
+"extension": ".pdf",
+"Size": "8457269"
 },
 {
 "name": "cdc-0-5-leed-v4-checklist.xls",
@@ -1271,6 +1278,27 @@
 "Key": "content/cos/hnc/cdcu6/Library/Archive/cdc-0-5_-final_20180507.pdf",
 "extension": ".pdf",
 "Size": "5283429"
+},
+{
+"name": "LEED Checklist-Medium CDC.PDF",
+"LastModified": "10/03/2019 09:30:00",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/LEED Checklist-Medium CDC.PDF",
+"extension": ".PDF",
+"Size": "165438"
+},
+{
+"name": "LEED Checklist-Medium CDC.XLSX",
+"LastModified": "10/03/2019 09:30:01",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/LEED Checklist-Medium CDC.XLSX",
+"extension": ".XLSX",
+"Size": "43607"
+},
+{
+"name": "RFP Wizard Input - CDC (Aug-11).pdf",
+"LastModified": "05/20/2015 13:51:45",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/RFP Wizard Input - CDC (Aug-11).pdf",
+"extension": ".pdf",
+"Size": "43566"
 },
 {
 "name": "Room-by-Room_Descriptions_-_CDC_0-5_(Sep_10).pdf",
@@ -1364,6 +1392,13 @@
 "Size": "6110397"
 },
 {
+"name": "Utility_Demands_Estimate_(Apr_10).xls",
+"LastModified": "05/20/2015 13:51:48",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Energy Models/Utility_Demands_Estimate_(Apr_10).xls",
+"extension": ".xls",
+"Size": "2993152"
+},
+{
 "name": "cdc-0-5_-room-by-room-description_final_20190411.pdf",
 "LastModified": "04/11/2019 08:27:11",
 "Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/cdc-0-5_-room-by-room-description_final_20190411.pdf",
@@ -1413,23 +1448,9 @@
 "Size": "1380744"
 },
 {
-"name": "CDC age 6wk to 5yr Army Standard.pdf",
-"LastModified": "05/20/2015 13:51:34",
-"Key": "content/cos/hnc/cdcu6/Library/Army Standards/CDC age 6wk to 5yr Army Standard.pdf",
-"extension": ".pdf",
-"Size": "8457269"
-},
-{
 "name": "Color Scheme",
 "LastModified": "10/03/2019 11:24:22",
 "Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Color Scheme",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Energy Models",
-"LastModified": "10/03/2019 11:24:36",
-"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models",
 "extension": "",
 "Size": ""
 },
@@ -1476,32 +1497,11 @@
 "Size": "9660363"
 },
 {
-"name": "LEED Checklist-Medium CDC.PDF",
-"LastModified": "10/03/2019 09:30:00",
-"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium CDC.PDF",
-"extension": ".PDF",
-"Size": "165438"
-},
-{
-"name": "LEED Checklist-Medium CDC.XLSX",
-"LastModified": "10/03/2019 09:30:01",
-"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium CDC.XLSX",
-"extension": ".XLSX",
-"Size": "43607"
-},
-{
 "name": "LEED_Checklist_Medium_CDC_0-5_Apr-21_.pdf",
 "LastModified": "03/31/2021 16:04:34",
 "Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED_Checklist_Medium_CDC_0-5_Apr-21_.pdf",
 "extension": ".pdf",
 "Size": "119601"
-},
-{
-"name": "RFP Wizard Input - CDC (Aug-11).pdf",
-"LastModified": "05/20/2015 13:51:45",
-"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP Wizard Input - CDC (Aug-11).pdf",
-"extension": ".pdf",
-"Size": "43566"
 },
 {
 "name": "RFP_Wizard_Input_CDC_0-5_Apr-21_.pdf",
@@ -1530,13 +1530,6 @@
 "Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Color Scheme/SOUTHWEST COLOR SCHEME 8_15_14.pdf",
 "extension": ".pdf",
 "Size": "141247"
-},
-{
-"name": "Utility_Demands_Estimate_(Apr_10).xls",
-"LastModified": "05/20/2015 13:51:48",
-"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models/Utility_Demands_Estimate_(Apr_10).xls",
-"extension": ".xls",
-"Size": "2993152"
 },
 {
 "name": "CDC POTR Reports - FY11.pdf",
@@ -2009,7 +2002,7 @@
 },
 {
 "name": "Archives",
-"LastModified": "04/02/2021 12:43:58",
+"LastModified": "04/05/2021 11:18:44",
 "Key": "content/cos/hnc/fs/Library/Archives",
 "extension": "",
 "Size": ""
@@ -2037,7 +2030,7 @@
 },
 {
 "name": "Misc. Docs (VE, LCCA, LEED, etc...)",
-"LastModified": "04/02/2021 12:44:46",
+"LastModified": "04/05/2021 11:18:44",
 "Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
 "extension": ".)",
 "Size": ""
@@ -2076,6 +2069,34 @@
 "Key": "content/cos/hnc/fs/Library/Archives/firestation-leed-v4-checklist.xls",
 "extension": ".xls",
 "Size": "130560"
+},
+{
+"name": "LEED Checklist-Medium HQ_FS.PDF",
+"LastModified": "10/03/2019 09:30:04",
+"Key": "content/cos/hnc/fs/Library/Archives/LEED Checklist-Medium HQ_FS.PDF",
+"extension": ".PDF",
+"Size": "122176"
+},
+{
+"name": "LEED Checklist-Medium HQ_FS.XLSX",
+"LastModified": "10/03/2019 09:30:03",
+"Key": "content/cos/hnc/fs/Library/Archives/LEED Checklist-Medium HQ_FS.XLSX",
+"extension": ".XLSX",
+"Size": "43627"
+},
+{
+"name": "RFP Wizard Input - FS (Aug-11).pdf",
+"LastModified": "05/20/2015 13:52:16",
+"Key": "content/cos/hnc/fs/Library/Archives/RFP Wizard Input - FS (Aug-11).pdf",
+"extension": ".pdf",
+"Size": "47668"
+},
+{
+"name": "Room-by-Room_Descriptions_-_FS_(Nov_10).pdf",
+"LastModified": "05/20/2015 13:52:17",
+"Key": "content/cos/hnc/fs/Library/Archives/Room-by-Room_Descriptions_-_FS_(Nov_10).pdf",
+"extension": ".pdf",
+"Size": "2806122"
 },
 {
 "name": "Standard_Drawings_-_HQ_FS_One_Company_(Nov_10).pdf",
@@ -2365,20 +2386,6 @@
 "Size": "54784"
 },
 {
-"name": "LEED Checklist-Medium HQ_FS.PDF",
-"LastModified": "10/03/2019 09:30:04",
-"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium HQ_FS.PDF",
-"extension": ".PDF",
-"Size": "122176"
-},
-{
-"name": "LEED Checklist-Medium HQ_FS.XLSX",
-"LastModified": "10/03/2019 09:30:03",
-"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium HQ_FS.XLSX",
-"extension": ".XLSX",
-"Size": "43627"
-},
-{
 "name": "LEED_Checklist-Medium_HQ_FS.pdf",
 "LastModified": "04/02/2021 12:41:14",
 "Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED_Checklist-Medium_HQ_FS.pdf",
@@ -2386,25 +2393,11 @@
 "Size": "119594"
 },
 {
-"name": "RFP Wizard Input - FS (Aug-11).pdf",
-"LastModified": "05/20/2015 13:52:16",
-"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP Wizard Input - FS (Aug-11).pdf",
-"extension": ".pdf",
-"Size": "47668"
-},
-{
 "name": "RFP_Wizard_Input_Fire_Station__Mar2021_.pdf",
 "LastModified": "04/02/2021 12:41:19",
 "Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP_Wizard_Input_Fire_Station__Mar2021_.pdf",
 "extension": ".pdf",
 "Size": "106847"
-},
-{
-"name": "Room-by-Room_Descriptions_-_FS_(Nov_10).pdf",
-"LastModified": "05/20/2015 13:52:17",
-"Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Room-by-Room_Descriptions_-_FS_(Nov_10).pdf",
-"extension": ".pdf",
-"Size": "2806122"
 },
 {
 "name": "Satellite Area Requirements.xls",
@@ -2849,14 +2842,14 @@
 },
 {
 "name": "Archive",
-"LastModified": "10/03/2019 11:29:56",
+"LastModified": "04/05/2021 11:19:45",
 "Key": "content/cos/hnc/pfc/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:24:32",
+"LastModified": "04/05/2021 11:19:20",
 "Key": "content/cos/hnc/pfc/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -2877,7 +2870,7 @@
 },
 {
 "name": "Misc. Docs (VE, LCCA, LEED, etc...)",
-"LastModified": "10/03/2019 11:31:04",
+"LastModified": "04/05/2021 11:19:45",
 "Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
 "extension": ".)",
 "Size": ""
@@ -2897,11 +2890,39 @@
 "Size": ""
 },
 {
+"name": "LEED Checklist-Medium PFF.PDF",
+"LastModified": "10/03/2019 09:30:04",
+"Key": "content/cos/hnc/pfc/Library/Archive/LEED Checklist-Medium PFF.PDF",
+"extension": ".PDF",
+"Size": "165530"
+},
+{
+"name": "LEED Checklist-Medium PFF.xlsx",
+"LastModified": "10/03/2019 09:30:05",
+"Key": "content/cos/hnc/pfc/Library/Archive/LEED Checklist-Medium PFF.xlsx",
+"extension": ".xlsx",
+"Size": "43689"
+},
+{
+"name": "natorium-facilities-leed-v4-checklist.xls",
+"LastModified": "06/29/2015 12:14:25",
+"Key": "content/cos/hnc/pfc/Library/Archive/natorium-facilities-leed-v4-checklist.xls",
+"extension": ".xls",
+"Size": "130560"
+},
+{
 "name": "pff-leed-v4-checklist.xls",
 "LastModified": "06/29/2015 12:14:25",
 "Key": "content/cos/hnc/pfc/Library/Archive/pff-leed-v4-checklist.xls",
 "extension": ".xls",
 "Size": "130560"
+},
+{
+"name": "Physical Fitness Facility.pdf",
+"LastModified": "05/20/2015 13:52:32",
+"Key": "content/cos/hnc/pfc/Library/Archive/Physical Fitness Facility.pdf",
+"extension": ".pdf",
+"Size": "1671957"
 },
 {
 "name": "physical-fitness-facility_extra_small_25-meter-pool_fy18.pdf",
@@ -3044,11 +3065,25 @@
 "Size": "13318"
 },
 {
-"name": "Physical Fitness Facility.pdf",
-"LastModified": "05/20/2015 13:52:32",
-"Key": "content/cos/hnc/pfc/Library/Army Standards/Physical Fitness Facility.pdf",
+"name": "RFP Wizard Input - PFF (Aug-11) (1).pdf",
+"LastModified": "05/20/2015 13:52:37",
+"Key": "content/cos/hnc/pfc/Library/Archive/RFP Wizard Input - PFF (Aug-11) (1).pdf",
 "extension": ".pdf",
-"Size": "1671957"
+"Size": "63824"
+},
+{
+"name": "RFP Wizard Input - PFF (Aug-11).pdf",
+"LastModified": "05/20/2015 13:52:38",
+"Key": "content/cos/hnc/pfc/Library/Archive/RFP Wizard Input - PFF (Aug-11).pdf",
+"extension": ".pdf",
+"Size": "63824"
+},
+{
+"name": "RFP Wizard Input - PFF Natatorium (Mar_11).pdf",
+"LastModified": "05/20/2015 13:52:38",
+"Key": "content/cos/hnc/pfc/Library/Archive/RFP Wizard Input - PFF Natatorium (Mar_11).pdf",
+"extension": ".pdf",
+"Size": "1162937"
 },
 {
 "name": "physical_fitness_fac_large.pdf",
@@ -3163,53 +3198,11 @@
 "Size": "1895154"
 },
 {
-"name": "LEED Checklist-Medium PFF.PDF",
-"LastModified": "10/03/2019 09:30:04",
-"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium PFF.PDF",
-"extension": ".PDF",
-"Size": "165530"
-},
-{
-"name": "LEED Checklist-Medium PFF.xlsx",
-"LastModified": "10/03/2019 09:30:05",
-"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium PFF.xlsx",
-"extension": ".xlsx",
-"Size": "43689"
-},
-{
-"name": "natorium-facilities-leed-v4-checklist.xls",
-"LastModified": "06/29/2015 12:14:25",
-"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/natorium-facilities-leed-v4-checklist.xls",
-"extension": ".xls",
-"Size": "130560"
-},
-{
 "name": "pff-variations.jpg",
 "LastModified": "06/29/2015 11:19:41",
 "Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/pff-variations.jpg",
 "extension": ".jpg",
 "Size": "115905"
-},
-{
-"name": "RFP Wizard Input - PFF (Aug-11) (1).pdf",
-"LastModified": "05/20/2015 13:52:37",
-"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP Wizard Input - PFF (Aug-11) (1).pdf",
-"extension": ".pdf",
-"Size": "63824"
-},
-{
-"name": "RFP Wizard Input - PFF (Aug-11).pdf",
-"LastModified": "05/20/2015 13:52:38",
-"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP Wizard Input - PFF (Aug-11).pdf",
-"extension": ".pdf",
-"Size": "63824"
-},
-{
-"name": "RFP Wizard Input - PFF Natatorium (Mar_11).pdf",
-"LastModified": "05/20/2015 13:52:38",
-"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP Wizard Input - PFF Natatorium (Mar_11).pdf",
-"extension": ".pdf",
-"Size": "1162937"
 },
 {
 "name": "ufc-cancelled.docx",
@@ -3563,14 +3556,14 @@
 },
 {
 "name": "Archive",
-"LastModified": "08/11/2020 13:06:56",
+"LastModified": "04/05/2021 11:20:55",
 "Key": "content/cos/hnc/yc/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:24:38",
+"LastModified": "04/05/2021 11:20:05",
 "Key": "content/cos/hnc/yc/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -3591,7 +3584,7 @@
 },
 {
 "name": "Misc. Docs (VE, LCCA, LEED, etc...)",
-"LastModified": "03/31/2021 16:09:10",
+"LastModified": "04/05/2021 11:20:55",
 "Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
 "extension": ".)",
 "Size": ""
@@ -3625,6 +3618,69 @@
 "Size": ""
 },
 {
+"name": "Design_Narrative_(Nov_10).pdf",
+"LastModified": "05/20/2015 13:53:20",
+"Key": "content/cos/hnc/yc/Library/Archive/Design_Narrative_(Nov_10).pdf",
+"extension": ".pdf",
+"Size": "282440"
+},
+{
+"name": "Equipment_List_-_YAC,_Kitchen_(Oct_08).pdf",
+"LastModified": "05/20/2015 13:53:21",
+"Key": "content/cos/hnc/yc/Library/Archive/Equipment_List_-_YAC,_Kitchen_(Oct_08).pdf",
+"extension": ".pdf",
+"Size": "16216"
+},
+{
+"name": "Finish Schedule - Cool (May 2011).pdf",
+"LastModified": "05/20/2015 13:53:21",
+"Key": "content/cos/hnc/yc/Library/Archive/Finish Schedule - Cool (May 2011).pdf",
+"extension": ".pdf",
+"Size": "17372"
+},
+{
+"name": "Finish Schedule - Warm (May 2011).pdf",
+"LastModified": "05/20/2015 13:53:21",
+"Key": "content/cos/hnc/yc/Library/Archive/Finish Schedule - Warm (May 2011).pdf",
+"extension": ".pdf",
+"Size": "16515"
+},
+{
+"name": "Finishes and Patterns (Mar 2011).pdf",
+"LastModified": "05/20/2015 13:53:21",
+"Key": "content/cos/hnc/yc/Library/Archive/Finishes and Patterns (Mar 2011).pdf",
+"extension": ".pdf",
+"Size": "355166"
+},
+{
+"name": "LEED Checklist-Medium YC.PDF",
+"LastModified": "10/03/2019 09:30:06",
+"Key": "content/cos/hnc/yc/Library/Archive/LEED Checklist-Medium YC.PDF",
+"extension": ".PDF",
+"Size": "122223"
+},
+{
+"name": "LEED Checklist-Medium YC.XLSX",
+"LastModified": "10/03/2019 09:30:07",
+"Key": "content/cos/hnc/yc/Library/Archive/LEED Checklist-Medium YC.XLSX",
+"extension": ".XLSX",
+"Size": "43593"
+},
+{
+"name": "RFP_Wizard_Input_-_YAC_(May_09).pdf",
+"LastModified": "05/20/2015 13:53:22",
+"Key": "content/cos/hnc/yc/Library/Archive/RFP_Wizard_Input_-_YAC_(May_09).pdf",
+"extension": ".pdf",
+"Size": "98156"
+},
+{
+"name": "Room_Descriptions_(Nov_10).pdf",
+"LastModified": "05/20/2015 13:53:22",
+"Key": "content/cos/hnc/yc/Library/Archive/Room_Descriptions_(Nov_10).pdf",
+"extension": ".pdf",
+"Size": "158348"
+},
+{
 "name": "yac-leed-v4-checklist.xls",
 "LastModified": "06/29/2015 12:18:08",
 "Key": "content/cos/hnc/yc/Library/Archive/yac-leed-v4-checklist.xls",
@@ -3637,6 +3693,13 @@
 "Key": "content/cos/hnc/yc/Library/Archive/yc-11-18_final_20180201.pdf",
 "extension": ".pdf",
 "Size": "1112961"
+},
+{
+"name": "Youth Center Army Standard.pdf",
+"LastModified": "05/20/2015 13:53:18",
+"Key": "content/cos/hnc/yc/Library/Archive/Youth Center Army Standard.pdf",
+"extension": ".pdf",
+"Size": "7374787"
 },
 {
 "name": "youth-ctr_large_large-teen-room_fy18.pdf",
@@ -3821,13 +3884,6 @@
 "Size": "4000321"
 },
 {
-"name": "Youth Center Army Standard.pdf",
-"LastModified": "05/20/2015 13:53:18",
-"Key": "content/cos/hnc/yc/Library/Army Standards/Youth Center Army Standard.pdf",
-"extension": ".pdf",
-"Size": "7374787"
-},
-{
 "name": "youth_activity_ctr_fy20-large-no_teen_rm.pdf",
 "LastModified": "08/27/2018 10:22:08",
 "Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr_fy20-large-no_teen_rm.pdf",
@@ -3926,20 +3982,6 @@
 "Size": "149025"
 },
 {
-"name": "Design_Narrative_(Nov_10).pdf",
-"LastModified": "05/20/2015 13:53:20",
-"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Design_Narrative_(Nov_10).pdf",
-"extension": ".pdf",
-"Size": "282440"
-},
-{
-"name": "Equipment_List_-_YAC,_Kitchen_(Oct_08).pdf",
-"LastModified": "05/20/2015 13:53:21",
-"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Equipment_List_-_YAC,_Kitchen_(Oct_08).pdf",
-"extension": ".pdf",
-"Size": "16216"
-},
-{
 "name": "Final LCCA Report - YC 11-18.pdf",
 "LastModified": "10/03/2019 09:29:56",
 "Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Final LCCA Report - YC 11-18.pdf",
@@ -3954,41 +3996,6 @@
 "Size": "14235161"
 },
 {
-"name": "Finish Schedule - Cool (May 2011).pdf",
-"LastModified": "05/20/2015 13:53:21",
-"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Finish Schedule - Cool (May 2011).pdf",
-"extension": ".pdf",
-"Size": "17372"
-},
-{
-"name": "Finish Schedule - Warm (May 2011).pdf",
-"LastModified": "05/20/2015 13:53:21",
-"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Finish Schedule - Warm (May 2011).pdf",
-"extension": ".pdf",
-"Size": "16515"
-},
-{
-"name": "Finishes and Patterns (Mar 2011).pdf",
-"LastModified": "05/20/2015 13:53:21",
-"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Finishes and Patterns (Mar 2011).pdf",
-"extension": ".pdf",
-"Size": "355166"
-},
-{
-"name": "LEED Checklist-Medium YC.PDF",
-"LastModified": "10/03/2019 09:30:06",
-"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium YC.PDF",
-"extension": ".PDF",
-"Size": "122223"
-},
-{
-"name": "LEED Checklist-Medium YC.XLSX",
-"LastModified": "10/03/2019 09:30:07",
-"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium YC.XLSX",
-"extension": ".XLSX",
-"Size": "43593"
-},
-{
 "name": "LEED_Checklist-Medium_CDC_YC_Apr-21_.pdf",
 "LastModified": "03/31/2021 16:04:43",
 "Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED_Checklist-Medium_CDC_YC_Apr-21_.pdf",
@@ -3996,25 +4003,11 @@
 "Size": "119732"
 },
 {
-"name": "RFP_Wizard_Input_-_YAC_(May_09).pdf",
-"LastModified": "05/20/2015 13:53:22",
-"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP_Wizard_Input_-_YAC_(May_09).pdf",
-"extension": ".pdf",
-"Size": "98156"
-},
-{
 "name": "RFP_Wizard_Input_YC_Apr-21__-_Copy.pdf",
 "LastModified": "03/31/2021 16:04:59",
 "Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP_Wizard_Input_YC_Apr-21__-_Copy.pdf",
 "extension": ".pdf",
 "Size": "96033"
-},
-{
-"name": "Room_Descriptions_(Nov_10).pdf",
-"LastModified": "05/20/2015 13:53:22",
-"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Room_Descriptions_(Nov_10).pdf",
-"extension": ".pdf",
-"Size": "158348"
 },
 {
 "name": "yc-variations.jpg",
