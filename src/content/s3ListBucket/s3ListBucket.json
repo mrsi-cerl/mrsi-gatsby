@@ -749,7 +749,7 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "04/05/2021 11:12:47",
+"LastModified": "04/07/2021 13:01:10",
 "Key": "content/cos/hnc/cdcsa/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -1021,6 +1021,13 @@
 "Size": "4038789"
 },
 {
+"name": "Army_Standard_CDC_6-10_Apr2021_.pdf",
+"LastModified": "04/07/2021 12:58:27",
+"Key": "content/cos/hnc/cdcsa/Library/Army Standards/Army_Standard_CDC_6-10_Apr2021_.pdf",
+"extension": ".pdf",
+"Size": "151306"
+},
+{
 "name": "Color Scheme",
 "LastModified": "09/27/2019 14:13:33",
 "Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Color Scheme",
@@ -1197,7 +1204,7 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "04/05/2021 11:16:31",
+"LastModified": "04/07/2021 13:00:48",
 "Key": "content/cos/hnc/cdcu6/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -1446,6 +1453,13 @@
 "Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/Standard_Drawings_(PDF)_-_CDC_0-5,_Small_(Sep_10).pdf",
 "extension": ".pdf",
 "Size": "1380744"
+},
+{
+"name": "Army_Standard_CDC_0-5_Apr2021_.pdf",
+"LastModified": "04/07/2021 12:58:23",
+"Key": "content/cos/hnc/cdcu6/Library/Army Standards/Army_Standard_CDC_0-5_Apr2021_.pdf",
+"extension": ".pdf",
+"Size": "785673"
 },
 {
 "name": "Color Scheme",
@@ -3563,7 +3577,7 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "04/05/2021 11:20:05",
+"LastModified": "04/07/2021 13:01:23",
 "Key": "content/cos/hnc/yc/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -3882,6 +3896,13 @@
 "Key": "content/cos/hnc/yc/Library/Archive/Standard Designs/YC_DRAWINGS_SMALL-JAN2013.pdf",
 "extension": ".pdf",
 "Size": "4000321"
+},
+{
+"name": "Army_Standard_Youth_Center_Apr2021_.pdf",
+"LastModified": "04/07/2021 12:58:32",
+"Key": "content/cos/hnc/yc/Library/Army Standards/Army_Standard_Youth_Center_Apr2021_.pdf",
+"extension": ".pdf",
+"Size": "755385"
 },
 {
 "name": "youth_activity_ctr_fy20-large-no_teen_rm.pdf",
