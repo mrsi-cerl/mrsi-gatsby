@@ -12,8 +12,8 @@ facility_cos_short_name: NAO
 facility_functional_proponent: DCS G-9 Housing, NAVFAC, AF
 facility_long_name: Army Family Housing
 facility_short_name: AFH
-facility_technical_poc_email: matthew.c.scanlon@usace.army.mil
-facility_technical_poc_name: Matthew Scanlon
+facility_technical_poc_email: matthew.c.scanlon@usace.army.mil;elizabeth.a.white@usace.army.mil
+facility_technical_poc_name: Matthew Scanlon and Beth White
 file_library_root_path: "content/cos/nao/afh/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nao/afh/

@@ -7,8 +7,8 @@ facility_cos_short_name: NAO
 facility_functional_proponent: G4/JCCOE
 facility_long_name: Enlisted Personnel Dining Facility (EPDF)
 facility_short_name: EPDF
-facility_technical_poc_email: matthew.c.scanlon@usace.army.mil
-facility_technical_poc_name: Matthew Scanlon
+facility_technical_poc_email: matthew.c.scanlon@usace.army.mil;elizabeth.a.white@usace.army.mil
+facility_technical_poc_name: Matthew Scanlon and Beth White
 file_library_root_path: "content/cos/nao/epdf/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nao/epdf/
@@ -41,7 +41,6 @@ as a minimum average attendance. Feeding requirements less than the smallest or
 greater than the largest programming range would require an alternative feed
 procedure such as sharing another dining facility.
 
-
 **Trainee Dining Facility (aka AIT Dining Facility)** - 72210
 
 The 1300 Person Training Dining Facility (TNG) and 2600 Person TNG Army Standard
@@ -63,4 +62,3 @@ The 720 Person and 1428 Operational Readiness Training Complex (ORTC) Dining Fac
 _These are not the same as Permanent Party and Training Dining Facility standards and should not be used in lieu of them._
 
 The [Louisville District](https://mrsi.erdc.dren.mil/cos/lrl/) is the COS for the [ORTC Complex](https://mrsi.erdc.dren.mil/cos/lrl/ortc/).
-
