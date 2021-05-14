@@ -2884,7 +2884,7 @@
 },
 {
 "name": "Misc. Docs (VE, LCCA, LEED, etc...)",
-"LastModified": "04/05/2021 11:19:45",
+"LastModified": "05/14/2021 09:08:37",
 "Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
 "extension": ".)",
 "Size": ""
@@ -3210,6 +3210,20 @@
 "Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Final VE Report - PFF- Physical Fitness Facility.pdf",
 "extension": ".pdf",
 "Size": "1895154"
+},
+{
+"name": "LEED_Checklist-Medium_PFF_Sept2019.PDF",
+"LastModified": "05/14/2021 09:07:47",
+"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED_Checklist-Medium_PFF_Sept2019.PDF",
+"extension": ".PDF",
+"Size": "165530"
+},
+{
+"name": "LEED_Checklist-Medium_PFF_Sept2019.xlsx",
+"LastModified": "05/14/2021 09:07:43",
+"Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED_Checklist-Medium_PFF_Sept2019.xlsx",
+"extension": ".xlsx",
+"Size": "43689"
 },
 {
 "name": "pff-variations.jpg",
@@ -5607,14 +5621,14 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "04/15/2021 11:38:53",
+"LastModified": "05/14/2021 09:10:04",
 "Key": "content/cos/nao/infosys/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "03/31/2021 16:11:32",
+"LastModified": "05/14/2021 09:10:23",
 "Key": "content/cos/nao/infosys/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -5636,16 +5650,9 @@
 {
 "name": "TR08014_I3MP_Guide_Facilities_Final_15JUL08.pdf",
 "LastModified": "05/20/2015 15:32:57",
-"Key": "content/cos/nao/infosys/Library/Misc. Documents/TR08014_I3MP_Guide_Facilities_Final_15JUL08.pdf",
+"Key": "content/cos/nao/infosys/Library/Standard Designs/TR08014_I3MP_Guide_Facilities_Final_15JUL08.pdf",
 "extension": ".pdf",
 "Size": "599206"
-},
-{
-"name": "ISF_Facility_Planner.xls",
-"LastModified": "03/31/2021 16:10:56",
-"Key": "content/cos/nao/infosys/Library/Standard Designs/ISF_Facility_Planner.xls",
-"extension": ".xls",
-"Size": "76800"
 },
 {
 "name": "Library",
@@ -9954,7 +9961,7 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "04/02/2021 12:27:37",
+"LastModified": "05/14/2021 09:11:23",
 "Key": "content/cos/swf/ait/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -10142,9 +10149,9 @@
 "Size": "3390426"
 },
 {
-"name": "AIT LEED v4 Checklist.pdf",
+"name": "AIT LEED v4 Checklist_April_2021.pdf",
 "LastModified": "03/31/2021 16:53:25",
-"Key": "content/cos/swf/ait/Library/Misc. Documents/AIT LEED v4 Checklist.pdf",
+"Key": "content/cos/swf/ait/Library/Misc. Documents/AIT LEED v4 Checklist_April_2021.pdf",
 "extension": ".pdf",
 "Size": "162039"
 },
@@ -11270,7 +11277,7 @@
 },
 {
 "name": "Library",
-"LastModified": "07/21/2020 08:25:20",
+"LastModified": "05/14/2021 09:16:21",
 "Key": "content/cos/swf/ueph/Library",
 "extension": "",
 "Size": ""
@@ -11305,9 +11312,16 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "04/15/2021 11:29:49",
+"LastModified": "05/14/2021 09:20:15",
 "Key": "content/cos/swf/ueph/Library/Misc. Documents",
 "extension": ". Documents",
+"Size": ""
+},
+{
+"name": "Programmatic VE Study",
+"LastModified": "05/14/2021 09:19:59",
+"Key": "content/cos/swf/ueph/Library/Programmatic VE Study",
+"extension": "",
 "Size": ""
 },
 {
@@ -11353,13 +11367,6 @@
 "Size": "12026"
 },
 {
-"name": "Programmatic UEPH VE Study.pdf",
-"LastModified": "03/31/2021 16:33:46",
-"Key": "content/cos/swf/ueph/Library/Misc. Documents/Programmatic UEPH VE Study.pdf",
-"extension": ".pdf",
-"Size": "3382722"
-},
-{
 "name": "Rendering_UEPH.JPG",
 "LastModified": "05/20/2015 15:47:56",
 "Key": "content/cos/swf/ueph/Library/Misc. Documents/Rendering_UEPH.JPG",
@@ -11386,6 +11393,20 @@
 "Key": "content/cos/swf/ueph/Library/Misc. Documents/UEPH.jpg",
 "extension": ".jpg",
 "Size": "152960"
+},
+{
+"name": "2011 UEPH VE Study.pdf",
+"LastModified": "05/14/2021 09:18:06",
+"Key": "content/cos/swf/ueph/Library/Programmatic VE Study/2011 UEPH VE Study.pdf",
+"extension": ".pdf",
+"Size": "31193661"
+},
+{
+"name": "OVx Validation of UEPH Standard Design Compliance for VE-final (1).pdf",
+"LastModified": "05/14/2021 09:17:51",
+"Key": "content/cos/swf/ueph/Library/Programmatic VE Study/OVx Validation of UEPH Standard Design Compliance for VE-final (1).pdf",
+"extension": ".pdf",
+"Size": "123811"
 },
 {
 "name": "UEPH 2-1 Market Style Design_20Apr12 Std Design.pdf",
