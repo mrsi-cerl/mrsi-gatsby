@@ -82,3 +82,25 @@ The SAWS is a modular structure that is 2 bays wide (14.6M), and typically 7 bay
 ![MUTE Doors Open Render](/admin/images/uploads/mute-doors-open.png)
 
 The MUTE is a modular structure with slightly different Bay Sizes (6.2M x 6M). The facility is 2 Bays (12.4M) Wide and typically 15 Bays (90.5M) long. The Envelope is constructed out of Metal, and is designed to be shortened or stretched by Bay lengths. This is a great choice for Storage, Maintenance or the Fire Station.
+
+### 8. CUBE Tower (Currently Under Design, 21 May 2021)
+
+![CUBE Tower Envelope Floor Plan](/admin/images/uploads/CUBE-Tower-FY21-floorplan.jpg)
+
+![CUBE Tower Envelope Render](/admin/images/uploads/FY21-CUBE-Tower.jpg)
+
+The CUBE Tower (currently under design) is a four (4) story wood structure based off the original CUBE design. Its footprint is 16’ x 16’ with stairs in the interior. The envelope maintains as many original CUBE parts as possible. It is a great choice for a guard tower or watch tower.
+
+### 9. CUBE Wide (Currently Under Design, 21 May 2021)
+
+![CUBE Wide Envelope](/admin/images/uploads/DOUBLE-WIDE-CUBE.jpg)
+
+The CUBE Wide (Currently under design) is essentially two CUBEs put together with a breezeway in between. The CUBE Wide is very similar to the SAWS design, but it is easier to construct and does not have a concrete foundation.
+
+### 10. Weather Shelter
+
+![Weather Shelter Render](/admin/images/uploads/weather-shelter-rendering.jpg)
+
+![Weather Shelter Envelope](/admin/images/uploads/weather-shelter-floor-plan.png)
+
+The Weather Shelter was originally designed to house CH-47 helicopters with office space. This design is also available as a one story version for use as a warehouse. Its dimensions are 26 m x 38.3 m which is an area of 961 m2.

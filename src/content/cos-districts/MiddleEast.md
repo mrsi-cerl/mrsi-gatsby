@@ -6,8 +6,8 @@ related_links:
     url: "http://tam.usace.army.mil/"
 page_last_reviewed: "Wednesday, March 13, 2019"
 doc_type: "cos_page"
-cos_manager_name: "Tricia Torok"
-cos_manager_email: "Patricia.L.Torok@usace.army.mil"
+cos_manager_name: "Dan Echols"
+cos_manager_email: "Daniel.b.echols@usace.army.mil "
 cos_long_name: "Middle East"
 cos_short_name: "TAM"
 ---
@@ -34,6 +34,15 @@ The CoS accomplishes these responsibilities through:
 - developing base camp layout utilizing standard designs
 - conceptualizing and designing all facilities for base camps
 - creating innovative construction solutions for customers
+
+The CoS guiding principles:
+
+- Maximize use of local materials and methods
+- Minimize use of heavy equipment
+- Eliminate of fire sprinklers
+- Maximize troop constructability
+- Minimize maintenance inventory
+- Eliminate load bearing interior walls
 
 Full Service 3D Printing and High Resolution 3D modeling/animation
 
