@@ -5628,7 +5628,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "05/14/2021 09:10:23",
+"LastModified": "05/28/2021 10:27:09",
 "Key": "content/cos/nao/infosys/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -5648,11 +5648,11 @@
 "Size": "77312"
 },
 {
-"name": "TR08014_I3MP_Guide_Facilities_Final_15JUL08.pdf",
-"LastModified": "05/20/2015 15:32:57",
-"Key": "content/cos/nao/infosys/Library/Standard Designs/TR08014_I3MP_Guide_Facilities_Final_15JUL08.pdf",
+"name": "Infosys_May_2021.pdf",
+"LastModified": "05/28/2021 10:22:02",
+"Key": "content/cos/nao/infosys/Library/Standard Designs/Infosys_May_2021.pdf",
 "extension": ".pdf",
-"Size": "599206"
+"Size": "46026"
 },
 {
 "name": "Library",
@@ -10514,7 +10514,7 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "04/02/2021 12:31:11",
+"LastModified": "05/28/2021 10:27:57",
 "Key": "content/cos/swf/cif/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -10590,9 +10590,9 @@
 "Size": "675644"
 },
 {
-"name": "CIF LEED v4 Checklist.pdf",
+"name": "CIF LEED v4 Checklist April 2021.pdf",
 "LastModified": "03/31/2021 16:53:45",
-"Key": "content/cos/swf/cif/Library/Misc. Documents/CIF LEED v4 Checklist.pdf",
+"Key": "content/cos/swf/cif/Library/Misc. Documents/CIF LEED v4 Checklist April 2021.pdf",
 "extension": ".pdf",
 "Size": "206791"
 },
