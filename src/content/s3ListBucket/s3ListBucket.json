@@ -63,7 +63,7 @@
 },
 {
 "name": "hnc",
-"LastModified": "03/31/2021 16:15:55",
+"LastModified": "06/11/2021 09:04:41",
 "Key": "content/cos/hnc",
 "extension": "",
 "Size": ""
@@ -317,6 +317,13 @@
 "name": "sfsc",
 "LastModified": "09/25/2019 08:24:36",
 "Key": "content/cos/hnc/sfsc",
+"extension": "",
+"Size": ""
+},
+{
+"name": "sprc",
+"LastModified": "06/11/2021 09:06:10",
+"Key": "content/cos/hnc/sprc",
 "extension": "",
 "Size": ""
 },
@@ -3350,6 +3357,69 @@
 "Key": "content/cos/hnc/sfsc/Library/Misc. Documents/sfsc-leed-v4-checklist.xls",
 "extension": ".xls",
 "Size": "130560"
+},
+{
+"name": "Library",
+"LastModified": "06/11/2021 09:07:07",
+"Key": "content/cos/hnc/sprc/Library",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Archive",
+"LastModified": "06/11/2021 09:06:21",
+"Key": "content/cos/hnc/sprc/Library/Archive",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Army Standards",
+"LastModified": "06/11/2021 09:11:01",
+"Key": "content/cos/hnc/sprc/Library/Army Standards",
+"extension": "",
+"Size": ""
+},
+{
+"name": "DD1391 Templates",
+"LastModified": "06/11/2021 09:06:35",
+"Key": "content/cos/hnc/sprc/Library/DD1391 Templates",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Example Projects",
+"LastModified": "06/11/2021 09:07:07",
+"Key": "content/cos/hnc/sprc/Library/Example Projects",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Misc. Docs (VE, LCCA, LEED, etc...)",
+"LastModified": "06/11/2021 09:06:48",
+"Key": "content/cos/hnc/sprc/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
+"extension": ".)",
+"Size": ""
+},
+{
+"name": "Standard Designs",
+"LastModified": "06/11/2021 09:06:56",
+"Key": "content/cos/hnc/sprc/Library/Standard Designs",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Army_Standard_Approval_Memo_SPRC_June_2021.pdf",
+"LastModified": "06/11/2021 08:46:56",
+"Key": "content/cos/hnc/sprc/Library/Army Standards/Army_Standard_Approval_Memo_SPRC_June_2021.pdf",
+"extension": ".pdf",
+"Size": "205380"
+},
+{
+"name": "Army_Standard_SPRC_20210505.pdf",
+"LastModified": "06/11/2021 08:47:00",
+"Key": "content/cos/hnc/sprc/Library/Army Standards/Army_Standard_SPRC_20210505.pdf",
+"extension": ".pdf",
+"Size": "143480"
 },
 {
 "name": "Library",
@@ -8785,14 +8855,14 @@
 },
 {
 "name": "Archive",
-"LastModified": "08/14/2020 09:29:53",
+"LastModified": "06/11/2021 09:29:09",
 "Key": "content/cos/sam/gsab/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:25:28",
+"LastModified": "06/11/2021 09:29:09",
 "Key": "content/cos/sam/gsab/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -8870,9 +8940,23 @@
 {
 "name": "Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
 "LastModified": "05/20/2015 15:44:51",
-"Key": "content/cos/sam/gsab/Library/Army Standards/Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
+"Key": "content/cos/sam/gsab/Library/Archive/Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
 "extension": ".pdf",
 "Size": "1813826"
+},
+{
+"name": "Army_Standard_Approval_Memo_HGR_June_2021.pdf",
+"LastModified": "06/11/2021 08:46:30",
+"Key": "content/cos/sam/gsab/Library/Army Standards/Army_Standard_Approval_Memo_HGR_June_2021.pdf",
+"extension": ".pdf",
+"Size": "201323"
+},
+{
+"name": "Army_Standard_Aviation_Maintenance_Hangar_20210506.pdf",
+"LastModified": "06/11/2021 08:47:06",
+"Key": "content/cos/sam/gsab/Library/Army Standards/Army_Standard_Aviation_Maintenance_Hangar_20210506.pdf",
+"extension": ".pdf",
+"Size": "935196"
 },
 {
 "name": "DD1391 General_Support_Aviation_Battalion_Hangar_FY21.pdf",
@@ -9590,7 +9674,7 @@
 },
 {
 "name": "Library",
-"LastModified": "03/04/2021 09:44:15",
+"LastModified": "06/11/2021 09:17:22",
 "Key": "content/cos/sas/cof/Library",
 "extension": "",
 "Size": ""
@@ -9631,8 +9715,15 @@
 "Size": "251211"
 },
 {
+"name": "Archive",
+"LastModified": "06/11/2021 09:17:39",
+"Key": "content/cos/sas/cof/Library/Archive",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:25:32",
+"LastModified": "06/11/2021 09:17:59",
 "Key": "content/cos/sas/cof/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -9675,9 +9766,23 @@
 {
 "name": "COF_Army_Stds.pdf",
 "LastModified": "05/20/2015 15:46:23",
-"Key": "content/cos/sas/cof/Library/Army Standards/COF_Army_Stds.pdf",
+"Key": "content/cos/sas/cof/Library/Archive/COF_Army_Stds.pdf",
 "extension": ".pdf",
 "Size": "689187"
+},
+{
+"name": "Army_Standard_Approval_Memo_COF_June_2021.pdf",
+"LastModified": "06/11/2021 08:46:39",
+"Key": "content/cos/sas/cof/Library/Army Standards/Army_Standard_Approval_Memo_COF_June_2021.pdf",
+"extension": ".pdf",
+"Size": "201353"
+},
+{
+"name": "Army_Standard_COF_20210511.pdf",
+"LastModified": "06/11/2021 08:47:10",
+"Key": "content/cos/sas/cof/Library/Army Standards/Army_Standard_COF_20210511.pdf",
+"extension": ".pdf",
+"Size": "183962"
 },
 {
 "name": "cof-3-co-detached-admin-200-pn-_fy21.pdf",
@@ -9730,7 +9835,7 @@
 },
 {
 "name": "Library",
-"LastModified": "03/04/2021 09:45:40",
+"LastModified": "06/11/2021 09:23:41",
 "Key": "content/cos/sas/temf/Library",
 "extension": "",
 "Size": ""
@@ -9743,8 +9848,15 @@
 "Size": "161893"
 },
 {
+"name": "Archive",
+"LastModified": "06/11/2021 09:23:55",
+"Key": "content/cos/sas/temf/Library/Archive",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:25:33",
+"LastModified": "06/11/2021 09:24:04",
 "Key": "content/cos/sas/temf/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -9787,9 +9899,23 @@
 {
 "name": "TEMF Army Std.pdf",
 "LastModified": "05/20/2015 15:46:25",
-"Key": "content/cos/sas/temf/Library/Army Standards/TEMF Army Std.pdf",
+"Key": "content/cos/sas/temf/Library/Archive/TEMF Army Std.pdf",
 "extension": ".pdf",
 "Size": "462817"
+},
+{
+"name": "Army_Standard_Approval_Memo_TEMF_June_2021.pdf",
+"LastModified": "06/11/2021 08:46:49",
+"Key": "content/cos/sas/temf/Library/Army Standards/Army_Standard_Approval_Memo_TEMF_June_2021.pdf",
+"extension": ".pdf",
+"Size": "201491"
+},
+{
+"name": "Army_Standard_TEMF_20210506.pdf",
+"LastModified": "06/11/2021 08:46:26",
+"Key": "content/cos/sas/temf/Library/Army Standards/Army_Standard_TEMF_20210506.pdf",
+"extension": ".pdf",
+"Size": "216636"
 },
 {
 "name": "temf_large_fy21.pdf",
@@ -11018,7 +11144,7 @@
 },
 {
 "name": "Library",
-"LastModified": "07/21/2020 08:29:27",
+"LastModified": "06/11/2021 09:22:52",
 "Key": "content/cos/swf/ssa/Library",
 "extension": "",
 "Size": ""
@@ -11031,15 +11157,15 @@
 "Size": "73473"
 },
 {
-"name": "Archives",
-"LastModified": "07/21/2020 08:29:47",
-"Key": "content/cos/swf/ssa/Library/Archives",
+"name": "Archive",
+"LastModified": "06/11/2021 09:22:41",
+"Key": "content/cos/swf/ssa/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:25:45",
+"LastModified": "06/11/2021 09:23:04",
 "Key": "content/cos/swf/ssa/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -11075,37 +11201,51 @@
 {
 "name": "44220_Fort Bliss SSA_template_drawings.pdf",
 "LastModified": "05/20/2015 15:47:34",
-"Key": "content/cos/swf/ssa/Library/Archives/44220_Fort Bliss SSA_template_drawings.pdf",
+"Key": "content/cos/swf/ssa/Library/Archive/44220_Fort Bliss SSA_template_drawings.pdf",
 "extension": ".pdf",
 "Size": "1575582"
 },
 {
 "name": "LCCAS.xlsx",
 "LastModified": "05/20/2015 15:47:35",
-"Key": "content/cos/swf/ssa/Library/Archives/LCCAS.xlsx",
+"Key": "content/cos/swf/ssa/Library/Archive/LCCAS.xlsx",
 "extension": ".xlsx",
 "Size": "36034"
 },
 {
 "name": "SUPERSEDED_DD 1391 SupplySptActWarehouse FY13.pdf",
 "LastModified": "05/20/2015 15:47:33",
-"Key": "content/cos/swf/ssa/Library/Archives/SUPERSEDED_DD 1391 SupplySptActWarehouse FY13.pdf",
+"Key": "content/cos/swf/ssa/Library/Archive/SUPERSEDED_DD 1391 SupplySptActWarehouse FY13.pdf",
 "extension": ".pdf",
 "Size": "11601"
 },
 {
+"name": "Supply Support Activity Army Standard.pdf",
+"LastModified": "05/20/2015 15:47:33",
+"Key": "content/cos/swf/ssa/Library/Archive/Supply Support Activity Army Standard.pdf",
+"extension": ".pdf",
+"Size": "3517972"
+},
+{
 "name": "SupplySupportActy_SSA Warehouse1391_FY15.pdf",
 "LastModified": "05/20/2015 15:47:33",
-"Key": "content/cos/swf/ssa/Library/Archives/SupplySupportActy_SSA Warehouse1391_FY15.pdf",
+"Key": "content/cos/swf/ssa/Library/Archive/SupplySupportActy_SSA Warehouse1391_FY15.pdf",
 "extension": ".pdf",
 "Size": "13449"
 },
 {
-"name": "Supply Support Activity Army Standard.pdf",
-"LastModified": "05/20/2015 15:47:33",
-"Key": "content/cos/swf/ssa/Library/Army Standards/Supply Support Activity Army Standard.pdf",
+"name": "Army_Standard_Approval_Memo_SSA_June_2021.pdf",
+"LastModified": "06/11/2021 08:46:44",
+"Key": "content/cos/swf/ssa/Library/Army Standards/Army_Standard_Approval_Memo_SSA_June_2021.pdf",
 "extension": ".pdf",
-"Size": "3517972"
+"Size": "201898"
+},
+{
+"name": "Army_Standard_Supply_Support_Activity_20210506.pdf",
+"LastModified": "06/11/2021 08:46:21",
+"Key": "content/cos/swf/ssa/Library/Army Standards/Army_Standard_Supply_Support_Activity_20210506.pdf",
+"extension": ".pdf",
+"Size": "197819"
 },
 {
 "name": "supply_storage_activity_warehouse_fy21.pdf",
@@ -14259,7 +14399,7 @@
 },
 {
 "name": "FY23 Meeting Minutes",
-"LastModified": "02/24/2021 15:13:36",
+"LastModified": "06/11/2021 09:31:09",
 "Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes",
 "extension": "",
 "Size": ""
@@ -14566,46 +14706,46 @@
 "Size": "182411"
 },
 {
-"name": "NAD PDR Telecons 02_16_21.pdf",
-"LastModified": "02/24/2021 15:13:31",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/NAD PDR Telecons 02_16_21.pdf",
+"name": "NAD_PDR_Telecons_06_08_21.pdf",
+"LastModified": "06/11/2021 09:30:34",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/NAD_PDR_Telecons_06_08_21.pdf",
 "extension": ".pdf",
-"Size": "330611"
+"Size": "477043"
 },
 {
-"name": "NWD PDR Telecons 02_16_21.pdf",
-"LastModified": "02/24/2021 15:13:33",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/NWD PDR Telecons 02_16_21.pdf",
+"name": "NWD_PDR_Telecons_06_08_21.pdf",
+"LastModified": "06/11/2021 09:30:30",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/NWD_PDR_Telecons_06_08_21.pdf",
 "extension": ".pdf",
-"Size": "207431"
+"Size": "265830"
 },
 {
-"name": "POD PDR Telecons 02_10_21.pdf",
-"LastModified": "02/24/2021 15:13:34",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/POD PDR Telecons 02_10_21.pdf",
+"name": "POD_PDR_Telecons_06_02_21.pdf",
+"LastModified": "06/11/2021 09:30:25",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/POD_PDR_Telecons_06_02_21.pdf",
 "extension": ".pdf",
-"Size": "227873"
+"Size": "295141"
 },
 {
-"name": "SAD PDR Telecons 02_16_21.pdf",
-"LastModified": "02/24/2021 15:13:35",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SAD PDR Telecons 02_16_21.pdf",
+"name": "SAD_PDR_Telecons_06_08_21.pdf",
+"LastModified": "06/11/2021 09:30:21",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SAD_PDR_Telecons_06_08_21.pdf",
 "extension": ".pdf",
-"Size": "253110"
+"Size": "413525"
 },
 {
-"name": "SPD PDR Telecons 02_16_21.pdf",
-"LastModified": "02/24/2021 15:13:36",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SPD PDR Telecons 02_16_21.pdf",
+"name": "SPD_PDR_Telecons_06_08_21.pdf",
+"LastModified": "06/11/2021 09:29:40",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SPD_PDR_Telecons_06_08_21.pdf",
 "extension": ".pdf",
-"Size": "206043"
+"Size": "270499"
 },
 {
-"name": "SWD PDR Telecons 02_16_21.pdf",
-"LastModified": "02/24/2021 15:13:37",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SWD PDR Telecons 02_16_21.pdf",
+"name": "SWD_PDR_Telecons_06_08_21.pdf",
+"LastModified": "06/11/2021 09:29:35",
+"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SWD_PDR_Telecons_06_08_21.pdf",
 "extension": ".pdf",
-"Size": "244746"
+"Size": "311086"
 },
 {
 "name": "ARCHIVES",
