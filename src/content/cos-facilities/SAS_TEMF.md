@@ -6,8 +6,8 @@ facility_cos_short_name: SAS
 facility_functional_proponent: DCS, G-4
 facility_long_name: Tactical Equipment Maintenance Facility
 facility_short_name: TEMF
-facility_technical_poc_email: jason.whittaker@usace.army.mil
-facility_technical_poc_name: Jason Whittaker
+facility_technical_poc_email: Sara.C.Murphy@usace.army.mil
+facility_technical_poc_name: Sara Murphy
 file_library_root_path: "content/cos/sas/temf/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/sas/temf/

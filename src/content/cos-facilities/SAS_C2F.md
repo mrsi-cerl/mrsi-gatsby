@@ -6,8 +6,8 @@ facility_cos_short_name: SAS
 facility_functional_proponent: DCS, G-3
 facility_long_name: Echelons Above Brigade Command & Control Facility
 facility_short_name: C2F
-facility_technical_poc_email: jeffrey.stein@usace.army.mil
-facility_technical_poc_name: Jeff Stein
+facility_technical_poc_email: Sara.C.Murphy@usace.army.mil
+facility_technical_poc_name: Sara Murphy
 file_library_root_path: "content/cos/sas/c2f/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/sas/c2f/
