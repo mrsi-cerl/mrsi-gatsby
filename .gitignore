@@ -70,3 +70,4 @@ yarn-error.log
 
 # stores credentials for access to s3 bucket
 AWS-Config.json
+.vscode/settings.json

@@ -24,7 +24,7 @@ export default () => (
       </p>
       <p>&nbsp;</p>
       <p>
-        <strong>The Program Manager is:</strong> Beth Brucker
+        <strong>The Program Manager is:</strong> Patrick Edwards
       </p>
       <p>&nbsp;</p>
       <p>
