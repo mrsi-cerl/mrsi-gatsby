@@ -784,7 +784,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "04/05/2021 11:16:01",
+"LastModified": "08/09/2021 08:54:13",
 "Key": "content/cos/hnc/cdcsa/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -1105,11 +1105,67 @@
 "Size": "141247"
 },
 {
+"name": "CAD_Drawing_SAC-6-10_Wing_Cover_Sheet__June_2021_.dwg",
+"LastModified": "08/09/2021 08:42:44",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/CAD_Drawing_SAC-6-10_Wing_Cover_Sheet__June_2021_.dwg",
+"extension": ".dwg",
+"Size": "43479"
+},
+{
+"name": "CAD_Drawing_SAC-6-10_Wing_Floor_Plan__June_2021_.dwg",
+"LastModified": "08/09/2021 08:42:29",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/CAD_Drawing_SAC-6-10_Wing_Floor_Plan__June_2021_.dwg",
+"extension": ".dwg",
+"Size": "228821"
+},
+{
+"name": "CAD_Drawing_SAC-6-10_Wing_Site_Plan__June_2021_.dwg",
+"LastModified": "08/09/2021 08:42:39",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/CAD_Drawing_SAC-6-10_Wing_Site_Plan__June_2021_.dwg",
+"extension": ".dwg",
+"Size": "122600"
+},
+{
+"name": "CDC_Drawing_SAC-6-10_Wing_Toilets__June_2021_.dwg",
+"LastModified": "08/09/2021 08:42:35",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/CDC_Drawing_SAC-6-10_Wing_Toilets__June_2021_.dwg",
+"extension": ".dwg",
+"Size": "1326945"
+},
+{
 "name": "Room by Room Design Criteria_SAC-6-10 (July 2020).pdf",
 "LastModified": "08/11/2020 13:04:02",
 "Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Room by Room Design Criteria_SAC-6-10 (July 2020).pdf",
 "extension": ".pdf",
 "Size": "1403858"
+},
+{
+"name": "Standard_Drawings_SAC-6-10_Large__June_2021_.pdf",
+"LastModified": "08/09/2021 08:53:23",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_SAC-6-10_Large__June_2021_.pdf",
+"extension": ".pdf",
+"Size": "530376"
+},
+{
+"name": "Standard_Drawings_SAC-6-10_Med__June_2021_.pdf",
+"LastModified": "08/09/2021 08:53:28",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_SAC-6-10_Med__June_2021_.pdf",
+"extension": ".pdf",
+"Size": "514897"
+},
+{
+"name": "Standard_Drawings_SAC-6-10_Small__June_2021_.pdf",
+"LastModified": "08/09/2021 08:53:34",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_SAC-6-10_Small__June_2021_.pdf",
+"extension": ".pdf",
+"Size": "465572"
+},
+{
+"name": "Standard_Drawings_SAC-6-10_Wing__June_2021_.pdf",
+"LastModified": "08/09/2021 08:53:44",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_SAC-6-10_Wing__June_2021_.pdf",
+"extension": ".pdf",
+"Size": "2159342"
 },
 {
 "name": "Library",
@@ -8435,14 +8491,14 @@
 },
 {
 "name": "Archive",
-"LastModified": "08/14/2020 09:29:01",
+"LastModified": "08/09/2021 08:37:45",
 "Key": "content/cos/sam/aab/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:25:26",
+"LastModified": "08/09/2021 08:38:26",
 "Key": "content/cos/sam/aab/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -8506,9 +8562,23 @@
 {
 "name": "Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
 "LastModified": "05/20/2015 15:44:44",
-"Key": "content/cos/sam/aab/Library/Army Standards/Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
+"Key": "content/cos/sam/aab/Library/Archive/Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
 "extension": ".pdf",
 "Size": "1813826"
+},
+{
+"name": "Army_Standard_Approval_Memo_HGR_June_2021.pdf",
+"LastModified": "06/11/2021 08:46:30",
+"Key": "content/cos/sam/aab/Library/Army Standards/Army_Standard_Approval_Memo_HGR_June_2021.pdf",
+"extension": ".pdf",
+"Size": "201323"
+},
+{
+"name": "Army_Standard_Aviation_Maintenance_Hangar_20210506.pdf",
+"LastModified": "06/11/2021 08:47:06",
+"Key": "content/cos/sam/aab/Library/Army Standards/Army_Standard_Aviation_Maintenance_Hangar_20210506.pdf",
+"extension": ".pdf",
+"Size": "935196"
 },
 {
 "name": "AAB_Aircraft Maintenance Hangar_FY21.pdf",
@@ -8638,14 +8708,14 @@
 },
 {
 "name": "Archive",
-"LastModified": "08/14/2020 09:28:42",
+"LastModified": "08/09/2021 08:38:51",
 "Key": "content/cos/sam/asb/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:25:28",
+"LastModified": "08/09/2021 08:39:06",
 "Key": "content/cos/sam/asb/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -8723,9 +8793,23 @@
 {
 "name": "Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
 "LastModified": "05/20/2015 15:44:47",
-"Key": "content/cos/sam/asb/Library/Army Standards/Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
+"Key": "content/cos/sam/asb/Library/Archive/Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
 "extension": ".pdf",
 "Size": "1813826"
+},
+{
+"name": "Army_Standard_Approval_Memo_HGR_June_2021.pdf",
+"LastModified": "06/11/2021 08:46:30",
+"Key": "content/cos/sam/asb/Library/Army Standards/Army_Standard_Approval_Memo_HGR_June_2021.pdf",
+"extension": ".pdf",
+"Size": "201323"
+},
+{
+"name": "Army_Standard_Aviation_Maintenance_Hangar_20210506.pdf",
+"LastModified": "06/11/2021 08:47:06",
+"Key": "content/cos/sam/asb/Library/Army Standards/Army_Standard_Aviation_Maintenance_Hangar_20210506.pdf",
+"extension": ".pdf",
+"Size": "935196"
 },
 {
 "name": "aviation-support-bn-hangar-dd1391_fy21.pdf",
@@ -14756,7 +14840,7 @@
 },
 {
 "name": "FY22 Guidance and Templates",
-"LastModified": "10/10/2019 08:39:34",
+"LastModified": "07/12/2021 15:37:01",
 "Key": "content/PDRS/Policy/FY22 Guidance and Templates",
 "extension": "",
 "Size": ""
