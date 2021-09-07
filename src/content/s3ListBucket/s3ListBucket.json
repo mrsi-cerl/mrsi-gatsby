@@ -777,7 +777,7 @@
 },
 {
 "name": "Misc. Docs (VE, LCCA, LEED, etc...)",
-"LastModified": "04/15/2021 11:33:53",
+"LastModified": "09/07/2021 09:42:34",
 "Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
 "extension": ".)",
 "Size": ""
@@ -1070,6 +1070,27 @@
 "Size": "149025"
 },
 {
+"name": "Final VE Report_SAC-6-10 (July 2021).pdf",
+"LastModified": "09/01/2021 11:05:43",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Final VE Report_SAC-6-10 (July 2021).pdf",
+"extension": ".pdf",
+"Size": "37772164"
+},
+{
+"name": "Finish_Boards_SAC-6-10__July_2021_.pdf",
+"LastModified": "09/07/2021 09:42:24",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Finish_Boards_SAC-6-10__July_2021_.pdf",
+"extension": ".pdf",
+"Size": "2828336"
+},
+{
+"name": "Finish_Schedule_SAC-6-10__July_2021_.pdf",
+"LastModified": "09/07/2021 09:42:18",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Finish_Schedule_SAC-6-10__July_2021_.pdf",
+"extension": ".pdf",
+"Size": "112119"
+},
+{
 "name": "LEED_Checklist_Medium_CDC_6-10_Apr-21_.pdf",
 "LastModified": "03/31/2021 16:04:39",
 "Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED_Checklist_Medium_CDC_6-10_Apr-21_.pdf",
@@ -1288,7 +1309,7 @@
 },
 {
 "name": "Misc. Docs (VE, LCCA, LEED, etc...)",
-"LastModified": "04/15/2021 11:33:42",
+"LastModified": "09/07/2021 09:41:04",
 "Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
 "extension": ".)",
 "Size": ""
@@ -1572,6 +1593,20 @@
 "Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Final VE Report - CDC 0-5.pdf",
 "extension": ".pdf",
 "Size": "9660363"
+},
+{
+"name": "Finish_Boards_CDC-0-5__July_2021_.pdf",
+"LastModified": "09/07/2021 09:40:30",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Finish_Boards_CDC-0-5__July_2021_.pdf",
+"extension": ".pdf",
+"Size": "2828336"
+},
+{
+"name": "Finish_Schedule_CDC-0-5__July_2021_.pdf",
+"LastModified": "09/07/2021 09:40:24",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Finish_Schedule_CDC-0-5__July_2021_.pdf",
+"extension": ".pdf",
+"Size": "112119"
 },
 {
 "name": "LEED_Checklist_Medium_CDC_0-5_Apr-21_.pdf",
@@ -3738,7 +3773,7 @@
 },
 {
 "name": "Misc. Docs (VE, LCCA, LEED, etc...)",
-"LastModified": "04/15/2021 11:33:24",
+"LastModified": "09/07/2021 09:39:45",
 "Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
 "extension": ".)",
 "Size": ""
@@ -4155,6 +4190,20 @@
 "Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Final VE Report - YC 11-18.pdf",
 "extension": ".pdf",
 "Size": "14235161"
+},
+{
+"name": "Finish_Boards_YAC__July_2021_.pdf",
+"LastModified": "09/07/2021 09:36:43",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Finish_Boards_YAC__July_2021_.pdf",
+"extension": ".pdf",
+"Size": "2828336"
+},
+{
+"name": "Finish_Schedule_YAC__July_2021_.pdf",
+"LastModified": "09/07/2021 09:37:00",
+"Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Finish_Schedule_YAC__July_2021_.pdf",
+"extension": ".pdf",
+"Size": "112119"
 },
 {
 "name": "LEED_Checklist-Medium_CDC_YC_Apr-21_.pdf",
