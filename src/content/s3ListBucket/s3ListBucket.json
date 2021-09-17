@@ -14385,7 +14385,7 @@
 },
 {
 "name": "Policy",
-"LastModified": "08/03/2020 09:50:47",
+"LastModified": "09/17/2021 09:16:45",
 "Key": "content/PDRS/Policy",
 "extension": "",
 "Size": ""
@@ -14882,22 +14882,15 @@
 },
 {
 "name": "ARCHIVES",
-"LastModified": "09/25/2019 08:26:17",
+"LastModified": "09/17/2021 09:16:45",
 "Key": "content/PDRS/Policy/ARCHIVES",
 "extension": "",
 "Size": ""
 },
 {
-"name": "FY22 Guidance and Templates",
-"LastModified": "07/12/2021 15:37:01",
-"Key": "content/PDRS/Policy/FY22 Guidance and Templates",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY23 Guidance and Templates",
-"LastModified": "10/29/2020 15:19:32",
-"Key": "content/PDRS/Policy/FY23 Guidance and Templates",
+"name": "FY24 Guidance and Templates",
+"LastModified": "09/17/2021 09:17:04",
+"Key": "content/PDRS/Policy/FY24 Guidance and Templates",
 "extension": "",
 "Size": ""
 },
@@ -14982,6 +14975,20 @@
 "name": "FY21 Guidance and Templates",
 "LastModified": "09/25/2019 08:26:17",
 "Key": "content/PDRS/Policy/ARCHIVES/FY21 Guidance and Templates",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY22 Guidance and Templates",
+"LastModified": "07/12/2021 15:37:01",
+"Key": "content/PDRS/Policy/ARCHIVES/FY22 Guidance and Templates",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY23 Guidance and Templates",
+"LastModified": "10/29/2020 15:19:32",
+"Key": "content/PDRS/Policy/ARCHIVES/FY23 Guidance and Templates",
 "extension": "",
 "Size": ""
 },
@@ -15618,107 +15625,212 @@
 {
 "name": "07052-1-appendix-a-points-of-contacts.pdf",
 "LastModified": "06/05/2019 13:18:06",
-"Key": "content/PDRS/Policy/FY22 Guidance and Templates/07052-1-appendix-a-points-of-contacts.pdf",
+"Key": "content/PDRS/Policy/ARCHIVES/FY22 Guidance and Templates/07052-1-appendix-a-points-of-contacts.pdf",
 "extension": ".pdf",
 "Size": "125233"
 },
 {
 "name": "07052-2-appendix-b-acronyms-and-abbreviations.pdf",
 "LastModified": "06/05/2019 13:16:30",
-"Key": "content/PDRS/Policy/FY22 Guidance and Templates/07052-2-appendix-b-acronyms-and-abbreviations.pdf",
+"Key": "content/PDRS/Policy/ARCHIVES/FY22 Guidance and Templates/07052-2-appendix-b-acronyms-and-abbreviations.pdf",
 "extension": ".pdf",
 "Size": "127259"
 },
 {
 "name": "07052-3-appendix-c-acquisition-strategy-template.doc",
 "LastModified": "06/05/2019 13:13:23",
-"Key": "content/PDRS/Policy/FY22 Guidance and Templates/07052-3-appendix-c-acquisition-strategy-template.doc",
+"Key": "content/PDRS/Policy/ARCHIVES/FY22 Guidance and Templates/07052-3-appendix-c-acquisition-strategy-template.doc",
 "extension": ".doc",
 "Size": "47616"
 },
 {
 "name": "ar-420_1-code-2-35-design.pdf",
 "LastModified": "06/05/2019 13:13:27",
-"Key": "content/PDRS/Policy/FY22 Guidance and Templates/ar-420_1-code-2-35-design.pdf",
+"Key": "content/PDRS/Policy/ARCHIVES/FY22 Guidance and Templates/ar-420_1-code-2-35-design.pdf",
 "extension": ".pdf",
 "Size": "16054"
 },
 {
 "name": "army-milcon-instructions-for-code2-june-2019.pdf",
 "LastModified": "06/05/2019 13:13:32",
-"Key": "content/PDRS/Policy/FY22 Guidance and Templates/army-milcon-instructions-for-code2-june-2019.pdf",
+"Key": "content/PDRS/Policy/ARCHIVES/FY22 Guidance and Templates/army-milcon-instructions-for-code2-june-2019.pdf",
 "extension": ".pdf",
 "Size": "261357"
 },
 {
 "name": "Code 2_District Certification Memo.pdf",
 "LastModified": "10/10/2019 08:39:35",
-"Key": "content/PDRS/Policy/FY22 Guidance and Templates/Code 2_District Certification Memo.pdf",
+"Key": "content/PDRS/Policy/ARCHIVES/FY22 Guidance and Templates/Code 2_District Certification Memo.pdf",
 "extension": ".pdf",
 "Size": "1384897"
 },
 {
 "name": "eng-3086-instructions_-5-june-2019.pdf",
 "LastModified": "06/05/2019 13:16:44",
-"Key": "content/PDRS/Policy/FY22 Guidance and Templates/eng-3086-instructions_-5-june-2019.pdf",
+"Key": "content/PDRS/Policy/ARCHIVES/FY22 Guidance and Templates/eng-3086-instructions_-5-june-2019.pdf",
 "extension": ".pdf",
 "Size": "275879"
 },
 {
 "name": "fy22-pdr-lite-template.docx",
 "LastModified": "06/05/2019 13:16:48",
-"Key": "content/PDRS/Policy/FY22 Guidance and Templates/fy22-pdr-lite-template.docx",
+"Key": "content/PDRS/Policy/ARCHIVES/FY22 Guidance and Templates/fy22-pdr-lite-template.docx",
 "extension": ".docx",
 "Size": "92039"
 },
 {
 "name": "fy22-pdr-template.docx",
 "LastModified": "06/05/2019 13:16:53",
-"Key": "content/PDRS/Policy/FY22 Guidance and Templates/fy22-pdr-template.docx",
+"Key": "content/PDRS/Policy/ARCHIVES/FY22 Guidance and Templates/fy22-pdr-template.docx",
 "extension": ".docx",
 "Size": "100342"
 },
 {
 "name": "fy22-timeline.pdf",
 "LastModified": "06/05/2019 12:37:18",
-"Key": "content/PDRS/Policy/FY22 Guidance and Templates/fy22-timeline.pdf",
+"Key": "content/PDRS/Policy/ARCHIVES/FY22 Guidance and Templates/fy22-timeline.pdf",
 "extension": ".pdf",
 "Size": "108738"
 },
 {
 "name": "Appdx H Attachment_CSRA template FY17 rev4b.xlsm",
 "LastModified": "09/30/2020 15:28:41",
-"Key": "content/PDRS/Policy/FY23 Guidance and Templates/Appdx H Attachment_CSRA template FY17 rev4b.xlsm",
+"Key": "content/PDRS/Policy/ARCHIVES/FY23 Guidance and Templates/Appdx H Attachment_CSRA template FY17 rev4b.xlsm",
 "extension": ".xlsm",
 "Size": "388878"
 },
 {
 "name": "Appedx H Attachment_AE SOW - CSRA.doc",
 "LastModified": "09/30/2020 15:28:44",
-"Key": "content/PDRS/Policy/FY23 Guidance and Templates/Appedx H Attachment_AE SOW - CSRA.doc",
+"Key": "content/PDRS/Policy/ARCHIVES/FY23 Guidance and Templates/Appedx H Attachment_AE SOW - CSRA.doc",
 "extension": ".doc",
 "Size": "76288"
 },
 {
 "name": "Appendix C Acquisition Strategy Template.pdf",
 "LastModified": "10/29/2020 14:41:26",
-"Key": "content/PDRS/Policy/FY23 Guidance and Templates/Appendix C Acquisition Strategy Template.pdf",
+"Key": "content/PDRS/Policy/ARCHIVES/FY23 Guidance and Templates/Appendix C Acquisition Strategy Template.pdf",
 "extension": ".pdf",
 "Size": "135182"
 },
 {
 "name": "Appendix H_CSRA_Portfolio.pdf",
 "LastModified": "09/14/2020 15:56:49",
-"Key": "content/PDRS/Policy/FY23 Guidance and Templates/Appendix H_CSRA_Portfolio.pdf",
+"Key": "content/PDRS/Policy/ARCHIVES/FY23 Guidance and Templates/Appendix H_CSRA_Portfolio.pdf",
 "extension": ".pdf",
 "Size": "1544541"
 },
 {
 "name": "Code 2 Guidance_Templates_Appendices Portfolio.pdf",
 "LastModified": "09/14/2020 15:56:53",
-"Key": "content/PDRS/Policy/FY23 Guidance and Templates/Code 2 Guidance_Templates_Appendices Portfolio.pdf",
+"Key": "content/PDRS/Policy/ARCHIVES/FY23 Guidance and Templates/Code 2 Guidance_Templates_Appendices Portfolio.pdf",
 "extension": ".pdf",
 "Size": "3089558"
+},
+{
+"name": "1_Instructions for FY24 MCA_AFH Design Code 2.pdf",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Policy/FY24 Guidance and Templates/1_Instructions for FY24 MCA_AFH Design Code 2.pdf",
+"extension": ".pdf",
+"Size": "261137"
+},
+{
+"name": "Appendix A _Points of Contact.pdf",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix A _Points of Contact.pdf",
+"extension": ".pdf",
+"Size": "118212"
+},
+{
+"name": "Appendix B_Acronyms and Abbreviations.pdf",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix B_Acronyms and Abbreviations.pdf",
+"extension": ".pdf",
+"Size": "62341"
+},
+{
+"name": "Appendix Ca_FY24 Code 2 Process Timeline_New Design Starts.pdf",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix Ca_FY24 Code 2 Process Timeline_New Design Starts.pdf",
+"extension": ".pdf",
+"Size": "166798"
+},
+{
+"name": "Appendix Cb_FY24 Code 2 Process Timeline_Previous FY Start.pdf",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix Cb_FY24 Code 2 Process Timeline_Previous FY Start.pdf",
+"extension": ".pdf",
+"Size": "143667"
+},
+{
+"name": "Appendix D_FY24 PDR Template Links.docx",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix D_FY24 PDR Template Links.docx",
+"extension": ".docx",
+"Size": "22229"
+},
+{
+"name": "Appendix E_FY24 Acquisition Strategy Template.docx",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix E_FY24 Acquisition Strategy Template.docx",
+"extension": ".docx",
+"Size": "27172"
+},
+{
+"name": "Appendix F_FY24 ENG 3086 Instructions.pdf",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix F_FY24 ENG 3086 Instructions.pdf",
+"extension": ".pdf",
+"Size": "215830"
+},
+{
+"name": "Appendix G_FY24 District Certification Guidance.pdf",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix G_FY24 District Certification Guidance.pdf",
+"extension": ".pdf",
+"Size": "584698"
+},
+{
+"name": "Appendix H 7.0_DCA Assessment and Risk Neutral Estimate Guidance.pdf",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix H 7.0_DCA Assessment and Risk Neutral Estimate Guidance.pdf",
+"extension": ".pdf",
+"Size": "123281"
+},
+{
+"name": "Appendix H 7.1_USD Lord memo 17 Mar 20.pdf",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix H 7.1_USD Lord memo 17 Mar 20.pdf",
+"extension": ".pdf",
+"Size": "232323"
+},
+{
+"name": "Appendix H 7.2_CSRA Notes for AE Task Orders 2021 09 08.pdf",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix H 7.2_CSRA Notes for AE Task Orders 2021 09 08.pdf",
+"extension": ".pdf",
+"Size": "128885"
+},
+{
+"name": "Appendix H 7.3_CSRA_Guidance.pdf",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix H 7.3_CSRA_Guidance.pdf",
+"extension": ".pdf",
+"Size": "1240899"
+},
+{
+"name": "Appendix H 7.4_CSRA Template FY21 Rev 4.xlsx",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix H 7.4_CSRA Template FY21 Rev 4.xlsx",
+"extension": ".xlsx",
+"Size": "329011"
+},
+{
+"name": "Appendix H 7.5_Contingency Table 8 Jul 2021.xlsx",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix H 7.5_Contingency Table 8 Jul 2021.xlsx",
+"extension": ".xlsx",
+"Size": "24953"
 },
 {
 "name": "CX-KR Documents",
