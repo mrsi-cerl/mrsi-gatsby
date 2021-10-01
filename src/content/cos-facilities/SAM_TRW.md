@@ -17,7 +17,7 @@ facility_long_name: TOE Rotary Wing Aviation Battalion Aircraft Maintenance Hang
 facility_short_name: TRW
 facility_technical_poc_email: john.j.wahlers@usace.army.mil
 facility_technical_poc_name: John Wahlers
-file_library_root_path: "content/cos/sam/trmw/Library/"
+file_library_root_path: "content/cos/sam/trw/Library/"
 page_last_reviewed: 1 Oct 2021
 slug: /cos/sam/trw/
 carousel_images:
