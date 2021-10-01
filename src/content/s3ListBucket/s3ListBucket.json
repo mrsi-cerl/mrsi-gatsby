@@ -98,7 +98,7 @@
 },
 {
 "name": "sam",
-"LastModified": "09/26/2019 09:59:59",
+"LastModified": "10/01/2021 10:41:56",
 "Key": "content/cos/sam",
 "extension": "",
 "Size": ""
@@ -1316,7 +1316,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "08/11/2020 13:10:24",
+"LastModified": "10/01/2021 09:38:51",
 "Key": "content/cos/hnc/cdcu6/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -1337,7 +1337,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "08/11/2020 13:10:14",
+"LastModified": "10/01/2021 09:32:31",
 "Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs",
 "extension": "",
 "Size": ""
@@ -1495,6 +1495,55 @@
 "Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/cdc-0-5_-room-by-room-description_final_20190411.pdf",
 "extension": ".pdf",
 "Size": "5228241"
+},
+{
+"name": "Room By Room Design Criteria_CDC-0-5 (July2020).pdf",
+"LastModified": "08/11/2020 12:58:57",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/Room By Room Design Criteria_CDC-0-5 (July2020).pdf",
+"extension": ".pdf",
+"Size": "5410419"
+},
+{
+"name": "standard-drawings-cad-cdc-0-5-large-feb-2019.zip",
+"LastModified": "02/22/2019 10:32:46",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/standard-drawings-cad-cdc-0-5-large-feb-2019.zip",
+"extension": ".zip",
+"Size": "4073911"
+},
+{
+"name": "standard-drawings-cad-cdc-0-5-medium-feb-2019.zip",
+"LastModified": "02/22/2019 10:32:25",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/standard-drawings-cad-cdc-0-5-medium-feb-2019.zip",
+"extension": ".zip",
+"Size": "108231"
+},
+{
+"name": "standard-drawings-cad-cdc-0-5-small-feb-2019.zip",
+"LastModified": "02/22/2019 10:32:22",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/standard-drawings-cad-cdc-0-5-small-feb-2019.zip",
+"extension": ".zip",
+"Size": "1213954"
+},
+{
+"name": "standard-drawings-pdf-cdc-0-5-large-sept-30.pdf",
+"LastModified": "09/28/2018 13:39:56",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/standard-drawings-pdf-cdc-0-5-large-sept-30.pdf",
+"extension": ".pdf",
+"Size": "1160723"
+},
+{
+"name": "standard-drawings-pdf-cdc-0-5-medium-sept-30.pdf",
+"LastModified": "09/28/2018 13:40:25",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/standard-drawings-pdf-cdc-0-5-medium-sept-30.pdf",
+"extension": ".pdf",
+"Size": "6492571"
+},
+{
+"name": "standard-drawings-pdf-cdc-0-5-small-sept-30.pdf",
+"LastModified": "09/28/2018 13:40:06",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/standard-drawings-pdf-cdc-0-5-small-sept-30.pdf",
+"extension": ".pdf",
+"Size": "468000"
 },
 {
 "name": "Standard_Drawings1_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
@@ -1665,53 +1714,53 @@
 "Size": "8731087"
 },
 {
-"name": "Room By Room Design Criteria_CDC-0-5 (July2020).pdf",
-"LastModified": "08/11/2020 12:58:57",
-"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/Room By Room Design Criteria_CDC-0-5 (July2020).pdf",
-"extension": ".pdf",
-"Size": "5410419"
-},
-{
-"name": "standard-drawings-cad-cdc-0-5-large-feb-2019.zip",
-"LastModified": "02/22/2019 10:32:46",
-"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/standard-drawings-cad-cdc-0-5-large-feb-2019.zip",
+"name": "CAD Standard Drawings_CDC-0-5_large_Sep 2021.zip",
+"LastModified": "10/01/2021 09:26:40",
+"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/CAD Standard Drawings_CDC-0-5_large_Sep 2021.zip",
 "extension": ".zip",
-"Size": "4073911"
+"Size": "2243759"
 },
 {
-"name": "standard-drawings-cad-cdc-0-5-medium-feb-2019.zip",
-"LastModified": "02/22/2019 10:32:25",
-"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/standard-drawings-cad-cdc-0-5-medium-feb-2019.zip",
+"name": "CAD Standard Drawings_CDC-0-5_medium_Sep 2021.zip",
+"LastModified": "10/01/2021 09:26:47",
+"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/CAD Standard Drawings_CDC-0-5_medium_Sep 2021.zip",
 "extension": ".zip",
-"Size": "108231"
+"Size": "17998987"
 },
 {
-"name": "standard-drawings-cad-cdc-0-5-small-feb-2019.zip",
-"LastModified": "02/22/2019 10:32:22",
-"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/standard-drawings-cad-cdc-0-5-small-feb-2019.zip",
+"name": "CAD Standard Drawings_CDC-0-5_small_Sep 2021.zip",
+"LastModified": "10/01/2021 09:26:43",
+"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/CAD Standard Drawings_CDC-0-5_small_Sep 2021.zip",
 "extension": ".zip",
-"Size": "1213954"
+"Size": "1416986"
 },
 {
-"name": "standard-drawings-pdf-cdc-0-5-large-sept-30.pdf",
-"LastModified": "09/28/2018 13:39:56",
-"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/standard-drawings-pdf-cdc-0-5-large-sept-30.pdf",
+"name": "Room by Room Design Criteria_CDC-0-5_Sep 2021.pdf",
+"LastModified": "10/01/2021 09:26:48",
+"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/Room by Room Design Criteria_CDC-0-5_Sep 2021.pdf",
 "extension": ".pdf",
-"Size": "1160723"
+"Size": "6936610"
 },
 {
-"name": "standard-drawings-pdf-cdc-0-5-medium-sept-30.pdf",
-"LastModified": "09/28/2018 13:40:25",
-"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/standard-drawings-pdf-cdc-0-5-medium-sept-30.pdf",
+"name": "Standard Drawings_CDC-0-5_large_Sep 2021.pdf",
+"LastModified": "10/01/2021 09:26:47",
+"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/Standard Drawings_CDC-0-5_large_Sep 2021.pdf",
 "extension": ".pdf",
-"Size": "6492571"
+"Size": "1340468"
 },
 {
-"name": "standard-drawings-pdf-cdc-0-5-small-sept-30.pdf",
-"LastModified": "09/28/2018 13:40:06",
-"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/standard-drawings-pdf-cdc-0-5-small-sept-30.pdf",
+"name": "Standard Drawings_CDC-0-5_medium_Sep 2021.pdf",
+"LastModified": "10/01/2021 09:26:44",
+"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/Standard Drawings_CDC-0-5_medium_Sep 2021.pdf",
 "extension": ".pdf",
-"Size": "468000"
+"Size": "1858975"
+},
+{
+"name": "Standard Drawings_CDC-0-5_small_Sep 2021.pdf",
+"LastModified": "10/01/2021 09:26:46",
+"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/Standard Drawings_CDC-0-5_small_Sep 2021.pdf",
+"extension": ".pdf",
+"Size": "857518"
 },
 {
 "name": "Library",
@@ -3493,7 +3542,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "06/11/2021 09:06:56",
+"LastModified": "10/01/2021 09:21:11",
 "Key": "content/cos/hnc/sprc/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -3511,6 +3560,62 @@
 "Key": "content/cos/hnc/sprc/Library/Army Standards/Army_Standard_SPRC_20210505.pdf",
 "extension": ".pdf",
 "Size": "143480"
+},
+{
+"name": "Design_Guide_SPRC_FULL_TIER1_Sep_2021.pdf",
+"LastModified": "10/01/2021 09:18:36",
+"Key": "content/cos/hnc/sprc/Library/Standard Designs/Design_Guide_SPRC_FULL_TIER1_Sep_2021.pdf",
+"extension": ".pdf",
+"Size": "485627"
+},
+{
+"name": "Design_Guide_SPRC_FULL_TIER2_Sep_2021.pdf",
+"LastModified": "10/01/2021 09:18:31",
+"Key": "content/cos/hnc/sprc/Library/Standard Designs/Design_Guide_SPRC_FULL_TIER2_Sep_2021.pdf",
+"extension": ".pdf",
+"Size": "503311"
+},
+{
+"name": "Design_Guide_SPRC_MEDIUM_Sep_2021.pdf",
+"LastModified": "10/01/2021 09:18:25",
+"Key": "content/cos/hnc/sprc/Library/Standard Designs/Design_Guide_SPRC_MEDIUM_Sep_2021.pdf",
+"extension": ".pdf",
+"Size": "353270"
+},
+{
+"name": "Design_Guide_SPRC_TRADOC_RECONDITIONING_Sep_2021.pdf",
+"LastModified": "10/01/2021 09:18:19",
+"Key": "content/cos/hnc/sprc/Library/Standard Designs/Design_Guide_SPRC_TRADOC_RECONDITIONING_Sep_2021.pdf",
+"extension": ".pdf",
+"Size": "123241"
+},
+{
+"name": "Design_Guide_SPRC_TRADOC_STRUCTURE_Sep_2021.pdf",
+"LastModified": "10/01/2021 09:18:12",
+"Key": "content/cos/hnc/sprc/Library/Standard Designs/Design_Guide_SPRC_TRADOC_STRUCTURE_Sep_2021.pdf",
+"extension": ".pdf",
+"Size": "1032582"
+},
+{
+"name": "Standard_Design_SPRC_Full_Standard_Tier_1___2_Sept_2021.pdf",
+"LastModified": "10/01/2021 09:18:06",
+"Key": "content/cos/hnc/sprc/Library/Standard Designs/Standard_Design_SPRC_Full_Standard_Tier_1___2_Sept_2021.pdf",
+"extension": ".pdf",
+"Size": "176229"
+},
+{
+"name": "Standard_Design_SPRC_Medium_Sept_2021.pdf",
+"LastModified": "10/01/2021 09:18:00",
+"Key": "content/cos/hnc/sprc/Library/Standard Designs/Standard_Design_SPRC_Medium_Sept_2021.pdf",
+"extension": ".pdf",
+"Size": "120417"
+},
+{
+"name": "Standard_Design_SPRC_TRADOC_Sept_2021.pdf",
+"LastModified": "10/01/2021 09:17:55",
+"Key": "content/cos/hnc/sprc/Library/Standard Designs/Standard_Design_SPRC_TRADOC_Sept_2021.pdf",
+"extension": ".pdf",
+"Size": "157341"
 },
 {
 "name": "Library",
@@ -8525,6 +8630,13 @@
 "Size": ""
 },
 {
+"name": "trw",
+"LastModified": "10/01/2021 10:42:33",
+"Key": "content/cos/sam/trw",
+"extension": "",
+"Size": ""
+},
+{
 "name": "uas",
 "LastModified": "09/25/2019 08:25:29",
 "Key": "content/cos/sam/uas",
@@ -9139,6 +9251,83 @@
 "Key": "content/cos/sam/gsab/Library/Standard Designs/20200728-GSAB-Standard Design.pdf",
 "extension": ".pdf",
 "Size": "1397171"
+},
+{
+"name": "Library",
+"LastModified": "10/01/2021 10:43:19",
+"Key": "content/cos/sam/trw/Library",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Archive",
+"LastModified": "10/01/2021 10:42:37",
+"Key": "content/cos/sam/trw/Library/Archive",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Army Standards",
+"LastModified": "10/01/2021 10:44:13",
+"Key": "content/cos/sam/trw/Library/Army Standards",
+"extension": "",
+"Size": ""
+},
+{
+"name": "DD1391 Templates",
+"LastModified": "10/01/2021 10:42:55",
+"Key": "content/cos/sam/trw/Library/DD1391 Templates",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Misc. Documents",
+"LastModified": "10/01/2021 10:44:48",
+"Key": "content/cos/sam/trw/Library/Misc. Documents",
+"extension": ". Documents",
+"Size": ""
+},
+{
+"name": "Standard Designs",
+"LastModified": "10/01/2021 10:44:38",
+"Key": "content/cos/sam/trw/Library/Standard Designs",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Army_Standard_Approval_Memo_HGR_June_2021.pdf",
+"LastModified": "10/01/2021 09:58:38",
+"Key": "content/cos/sam/trw/Library/Army Standards/Army_Standard_Approval_Memo_HGR_June_2021.pdf",
+"extension": ".pdf",
+"Size": "201323"
+},
+{
+"name": "Army_Standard_Aviation_Maintenance_Hangar_20210506.pdf",
+"LastModified": "10/01/2021 09:58:38",
+"Key": "content/cos/sam/trw/Library/Army Standards/Army_Standard_Aviation_Maintenance_Hangar_20210506.pdf",
+"extension": ".pdf",
+"Size": "935196"
+},
+{
+"name": "leed-v4-template_8-2019.xls",
+"LastModified": "10/01/2021 09:58:38",
+"Key": "content/cos/sam/trw/Library/Misc. Documents/leed-v4-template_8-2019.xls",
+"extension": ".xls",
+"Size": "154112"
+},
+{
+"name": "2021-09-30 SAM AVN-COS TOE Rotary Wing MEDIUM Standard Design.pdf",
+"LastModified": "10/01/2021 09:58:38",
+"Key": "content/cos/sam/trw/Library/Standard Designs/2021-09-30 SAM AVN-COS TOE Rotary Wing MEDIUM Standard Design.pdf",
+"extension": ".pdf",
+"Size": "16403789"
+},
+{
+"name": "2021-09-30 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
+"LastModified": "10/01/2021 09:58:38",
+"Key": "content/cos/sam/trw/Library/Standard Designs/2021-09-30 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
+"extension": ".pdf",
+"Size": "525449"
 },
 {
 "name": "Library",

@@ -4,7 +4,7 @@ facility_category_codes:
   - "21110 (11370, 11340, 21470, and 44222)"
 facility_cos_short_name: SAM
 facility_functional_proponent: DCS, G4
-facility_long_name: Attack Reconnaissance/Assault Battalion Hangar
+facility_long_name: Attack Reconnaissance/Assault Battalion Hangar (ARCHIVED)
 facility_short_name: AAB
 facility_technical_poc_email: john.j.wahlers@usace.army.mil
 facility_technical_poc_name: John Wahlers
@@ -21,6 +21,10 @@ carousel_images:
   - /admin/images/uploads/img_4284.jpg
   - /admin/images/uploads/module-view_fy14-aab-hangar-jblm.jpg
 ---
+
+## NOTICE
+
+_After September 30 2021, this Standard Design is no longer valid for programming or design of Aircraft Maintenance facilities, whether new, repair or renovation. Contact COS for available Standard Designs._
 
 ## Description
 

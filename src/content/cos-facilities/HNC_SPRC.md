@@ -4,7 +4,7 @@ facility_category_codes:
   - "TBD"
 facility_cos_short_name: HNC
 facility_functional_proponent: Army DCS G3/5/7
-facility_long_name: Soldier Performance Readiness Center (DRAFT)
+facility_long_name: Soldier Performance Readiness Center
 facility_short_name: SPRC
 cos_manager_name: Jerry Haley
 cos_manager_email: jeremiah.r.haley@usace.army.mil
@@ -33,3 +33,5 @@ dedicated for the weekly training designed to generate lethal Soldiers who are
 physically fit and mentally tough to engage with and overmatch the enemy in multidomain operations.
 
 ## Variations
+
+No variation in facility standard design.

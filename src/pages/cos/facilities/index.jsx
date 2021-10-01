@@ -1,9 +1,8 @@
-import React from "react"
 import { graphql, Link } from "gatsby"
-import Layout from "../../../components/layout/layout"
-import { Accordion, AccordionButton, AccordionContent } from "uswds-react"
-import Library from "../../../components/library/library"
+import React from "react"
 import Table from "react-bootstrap/Table"
+
+import Layout from "../../../components/layout/layout"
 
 const ArmyStandards = ({ data }) => {
   const facilities = data.allMarkdownRemark.edges.filter(
@@ -57,6 +56,7 @@ const ArmyStandards = ({ data }) => {
                   <img
                     style={{ maxWidth: 113 }}
                     src={e.node.frontmatter.carousel_images[0]}
+                    alt="facility image or rendering"
                   ></img>
                 ) : null}
               </td>
