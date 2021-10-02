@@ -18,7 +18,7 @@ The Model RFP is generated using a web-based application called a Wizard.
 
 The Wizards provide standardization while allowing users define project and facility specific Scopes of Work (SOW).
 
-_Please use Internet Explorer to start the Wizard applications. See our FAQ if you are interested in understanding why this is necessary._
+_Please use Internet Explorer or Microsoft Edge to start the Wizard applications. See our FAQ if you are interested in understanding why this is necessary._
 
 <div style="width: 100%">
     <div style="width: 30%; display: inline-block">
