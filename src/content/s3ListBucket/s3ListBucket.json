@@ -1078,14 +1078,14 @@
 },
 {
 "name": "Finish_Boards_SAC-6-10__July_2021_.pdf",
-"LastModified": "09/07/2021 09:42:24",
+"LastModified": "10/18/2021 16:37:40",
 "Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Finish_Boards_SAC-6-10__July_2021_.pdf",
 "extension": ".pdf",
 "Size": "2828336"
 },
 {
 "name": "Finish_Schedule_SAC-6-10__July_2021_.pdf",
-"LastModified": "09/07/2021 09:42:18",
+"LastModified": "10/18/2021 16:37:35",
 "Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Finish_Schedule_SAC-6-10__July_2021_.pdf",
 "extension": ".pdf",
 "Size": "112119"
@@ -1645,14 +1645,14 @@
 },
 {
 "name": "Finish_Boards_CDC-0-5__July_2021_.pdf",
-"LastModified": "09/07/2021 09:40:30",
+"LastModified": "10/18/2021 16:38:06",
 "Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Finish_Boards_CDC-0-5__July_2021_.pdf",
 "extension": ".pdf",
 "Size": "2828336"
 },
 {
 "name": "Finish_Schedule_CDC-0-5__July_2021_.pdf",
-"LastModified": "09/07/2021 09:40:24",
+"LastModified": "10/18/2021 16:38:01",
 "Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Finish_Schedule_CDC-0-5__July_2021_.pdf",
 "extension": ".pdf",
 "Size": "112119"
@@ -2198,7 +2198,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "04/02/2021 12:43:58",
+"LastModified": "10/18/2021 16:20:56",
 "Key": "content/cos/hnc/fs/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -2622,6 +2622,13 @@
 "Key": "content/cos/hnc/fs/Library/Standard Designs/Standard_Design_Fire_Station__Mar2021_.pdf",
 "extension": ".pdf",
 "Size": "5139889"
+},
+{
+"name": "Standard_Drawings_Set_One_Company_HQ_Fire_Station_Sep_2021.pdf",
+"LastModified": "10/18/2021 16:19:29",
+"Key": "content/cos/hnc/fs/Library/Standard Designs/Standard_Drawings_Set_One_Company_HQ_Fire_Station_Sep_2021.pdf",
+"extension": ".pdf",
+"Size": "336133"
 },
 {
 "name": "Library",
@@ -4298,14 +4305,14 @@
 },
 {
 "name": "Finish_Boards_YAC__July_2021_.pdf",
-"LastModified": "09/07/2021 09:36:43",
+"LastModified": "10/18/2021 16:21:03",
 "Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Finish_Boards_YAC__July_2021_.pdf",
 "extension": ".pdf",
 "Size": "2828336"
 },
 {
 "name": "Finish_Schedule_YAC__July_2021_.pdf",
-"LastModified": "09/07/2021 09:37:00",
+"LastModified": "10/18/2021 16:20:54",
 "Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Finish_Schedule_YAC__July_2021_.pdf",
 "extension": ".pdf",
 "Size": "112119"
@@ -10038,7 +10045,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "06/11/2021 09:17:39",
+"LastModified": "10/18/2021 16:08:14",
 "Key": "content/cos/sas/cof/Library/Archive",
 "extension": "",
 "Size": ""
@@ -10080,7 +10087,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "03/15/2021 11:19:49",
+"LastModified": "10/18/2021 16:08:14",
 "Key": "content/cos/sas/cof/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -10091,6 +10098,13 @@
 "Key": "content/cos/sas/cof/Library/Archive/COF_Army_Stds.pdf",
 "extension": ".pdf",
 "Size": "689187"
+},
+{
+"name": "COF_Std_Dgn_Rev_5.0.pdf",
+"LastModified": "03/15/2021 11:16:34",
+"Key": "content/cos/sas/cof/Library/Archive/COF_Std_Dgn_Rev_5.0.pdf",
+"extension": ".pdf",
+"Size": "1641991"
 },
 {
 "name": "Army_Standard_Approval_Memo_COF_June_2021.pdf",
@@ -10149,11 +10163,11 @@
 "Size": "3773339"
 },
 {
-"name": "COF_Std_Dgn_Rev_5.0.pdf",
-"LastModified": "03/15/2021 11:16:34",
-"Key": "content/cos/sas/cof/Library/Standard Designs/COF_Std_Dgn_Rev_5.0.pdf",
+"name": "COF_Std_Dgn_Rev_5.1.pdf",
+"LastModified": "10/18/2021 16:00:28",
+"Key": "content/cos/sas/cof/Library/Standard Designs/COF_Std_Dgn_Rev_5.1.pdf",
 "extension": ".pdf",
-"Size": "1641991"
+"Size": "2064421"
 },
 {
 "name": "Library",
@@ -10171,7 +10185,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "06/11/2021 09:23:55",
+"LastModified": "10/18/2021 16:08:41",
 "Key": "content/cos/sas/temf/Library/Archive",
 "extension": "",
 "Size": ""
@@ -10206,7 +10220,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "02/24/2021 15:16:19",
+"LastModified": "10/18/2021 16:08:41",
 "Key": "content/cos/sas/temf/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -10224,6 +10238,13 @@
 "Key": "content/cos/sas/temf/Library/Archive/TEMF Army Std.pdf",
 "extension": ".pdf",
 "Size": "462817"
+},
+{
+"name": "TEMF_Std_Dgn_Rev_5.0.pdf",
+"LastModified": "02/24/2021 15:11:54",
+"Key": "content/cos/sas/temf/Library/Archive/TEMF_Std_Dgn_Rev_5.0.pdf",
+"extension": ".pdf",
+"Size": "1722736"
 },
 {
 "name": "Army_Standard_Approval_Memo_TEMF_June_2021.pdf",
@@ -10282,11 +10303,11 @@
 "Size": "6014962"
 },
 {
-"name": "TEMF_Std_Dgn_Rev_5.0.pdf",
-"LastModified": "02/24/2021 15:11:54",
-"Key": "content/cos/sas/temf/Library/Standard Designs/TEMF_Std_Dgn_Rev_5.0.pdf",
+"name": "TEMF_Std_Dgn_Rev_5.1.pdf",
+"LastModified": "10/18/2021 16:00:24",
+"Key": "content/cos/sas/temf/Library/Standard Designs/TEMF_Std_Dgn_Rev_5.1.pdf",
 "extension": ".pdf",
-"Size": "1722736"
+"Size": "1670933"
 },
 {
 "name": "bragg_temf.rvt",
