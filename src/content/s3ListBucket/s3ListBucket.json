@@ -11774,14 +11774,14 @@
 },
 {
 "name": "Archives",
-"LastModified": "07/21/2020 08:25:40",
+"LastModified": "11/18/2021 16:43:23",
 "Key": "content/cos/swf/ueph/Library/Archives",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "07/21/2020 08:25:24",
+"LastModified": "11/18/2021 16:43:23",
 "Key": "content/cos/swf/ueph/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -11831,9 +11831,16 @@
 {
 "name": "ueph-pp-barracks-army-standard-2012.pdf",
 "LastModified": "06/27/2016 10:53:23",
-"Key": "content/cos/swf/ueph/Library/Army Standards/ueph-pp-barracks-army-standard-2012.pdf",
+"Key": "content/cos/swf/ueph/Library/Archives/ueph-pp-barracks-army-standard-2012.pdf",
 "extension": ".pdf",
 "Size": "326079"
+},
+{
+"name": "Army_Standard_for_Perm_Party_UH_E1-E6s_CATCD_72111_16_Nov_2021.pdf",
+"LastModified": "11/18/2021 16:38:48",
+"Key": "content/cos/swf/ueph/Library/Army Standards/Army_Standard_for_Perm_Party_UH_E1-E6s_CATCD_72111_16_Nov_2021.pdf",
+"extension": ".pdf",
+"Size": "320963"
 },
 {
 "name": "ueph-199pn-4-floors-_fy21.pdf",
