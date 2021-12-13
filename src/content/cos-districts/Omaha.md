@@ -6,8 +6,8 @@ related_links:
     url: "http://www.nwo.usace.army.mil/"
 page_last_reviewed: "Tuesday, August 14, 2018"
 doc_type: "cos_page"
-cos_manager_name: "Robert Saari"
-cos_manager_email: "robert.b.saari@usace.army.mil"
+cos_manager_name: "Damon Birkby"
+cos_manager_email: "Damon.M.Birkby@usace.army.mil"
 cos_long_name: "Omaha"
 cos_short_name: "NWO"
 ---
