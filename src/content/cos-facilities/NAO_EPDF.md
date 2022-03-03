@@ -7,8 +7,8 @@ facility_cos_short_name: NAO
 facility_functional_proponent: G4/JCCOE
 facility_long_name: Enlisted Personnel Dining Facility (EPDF)
 facility_short_name: EPDF
-facility_technical_poc_email: matthew.c.scanlon@usace.army.mil;elizabeth.a.white@usace.army.mil
-facility_technical_poc_name: Matthew Scanlon and Beth White
+facility_technical_poc_email: matthew.c.scanlon@usace.army.mil
+facility_technical_poc_name: Matthew Scanlon
 file_library_root_path: "content/cos/nao/epdf/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nao/epdf/
