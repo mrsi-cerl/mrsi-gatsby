@@ -11,14 +11,14 @@ subject_matter_experts:
     expert_email: susan.d.nachtigall.civ@mail.mil?subject=CRST%20SME%20Request%20CAD
     expert_name: Susan Nachtigall
   - subject_matter: Planning Charrettes
-    expert_email: donna.l.thompson@usace.army.mil; amanda.h.weinert@usace.army.mil?subject=CRST%20SME%20Request%20Planning%20Charrettes
-    expert_name: Donna Thompson / Amanda Weinert
+    expert_email: amanda.h.weinert@usace.army.mil?subject=CRST%20SME%20Request%20Planning%20Charrettes
+    expert_name: Amanda Weinert
   - subject_matter: Military Construction (MILCON)
     expert_email: susan.d.nachtigall@usace.army.mil?subject=CRST%20SME%20Request%20MILCON
     expert_name: Susan Nachtigall
   - subject_matter: Military Business Process (MBP)
-    expert_email: donna.l.thompson@usace.army.mil; amanda.h.weinert@usace.army.mil?subject=CRST%20SME%20Request%20MBP
-    expert_name: Donna Thompson / Amanda Weinert
+    expert_email: amanda.h.weinert@usace.army.mil?subject=CRST%20SME%20Request%20MBP
+    expert_name: Amanda Weinert
   - subject_matter: Model MILCON RFP Development
     expert_email: MRSI_Support@usace.army.mil?subject=CRST%20SME%20Request%20Model%20RFP
     expert_name: Patrick Edwards
@@ -26,8 +26,8 @@ subject_matter_experts:
     expert_email: MRSI_Support@usace.army.mil?subject=CRST%20SME%20Request%20SRM%20RFP
     expert_name: Patrick Edwards
   - subject_matter: Parametric Design Report (PDR/3086)
-    expert_email: donna.l.thompson@usace.army.mil; amanda.h.weinert@usace.army.mil?subject=CRST%20SME%20Request%20PDR/3086
-    expert_name: Donna Thompson / Amanda Weinert
+    expert_email: amanda.h.weinert@usace.army.mil?subject=CRST%20SME%20Request%20PDR/3086
+    expert_name: Amanda Weinert
   - subject_matter: Training Range Design & Construction
     expert_email: william.c.stephenson@usace.army.mil; susan.d.nachtigall.civ@mail.mil?subject=CRST%20SME%20Request%20Range%20Design
     expert_name: William Stephenson / Susan Nachtigall
@@ -38,11 +38,11 @@ subject_matter_experts:
     expert_email: susan.d.nachtigall@usace.army.mil?subject=CRST%20SME%20Request%20Standards%20&%20Criteria
     expert_name: Susan Nachtigall
   - subject_matter: Stationing & Plans Analysis
-    expert_email: donna.l.thompson@usace.army.mil; amanda.h.weinert@usace.army.mil?subject=CRST%20SME%20Request%20Installation%20Plans
-    expert_name: Donna Thompson / Amanda Weinert
+    expert_email: amanda.h.weinert@usace.army.mil?subject=CRST%20SME%20Request%20Installation%20Plans
+    expert_name: Amanda Weinert
   - subject_matter: Installation Plans
-    expert_email: donna.l.thompson@usace.army.mil; amanda.h.weinert@usace.army.mil?subject=CRST%20SME%20Request%20Stationing%20&%20Plans%20Analysis
-    expert_name: Donna Thompson / Amanda Weinert
+    expert_email: amanda.h.weinert@usace.army.mil?subject=CRST%20SME%20Request%20Stationing%20&%20Plans%20Analysis
+    expert_name: Amanda Weinert
   - subject_matter: Logistic Facilities
     expert_email: ravin.l.howell@usace.army.mil; susan.d.nachtigall.civ@mail.mil?subject=CRST%20SME%20Request%20Logistics%20Facilities
     expert_name: Ravin Howell / Susan Nachtigall

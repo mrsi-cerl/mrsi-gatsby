@@ -21,6 +21,6 @@ The Code 2 and Code 3 Design Directives for Army MILCON require the submission a
 
 This tool was developed by ERDC-CERL at the request of HQ USACE. If you have questions about the software or the website, please email our support team and we'll help you as soon as we're able.
 
-For PDR support, including access to projects, please contact either Donna Thompson or Amanda Weinert.
+For PDR support, including access to projects, please contact Amanda Weinert.
 
 **Please Note:** In order to log in to the PDRS Wizard application, you will need a MRSI Wizard account. To request a MRSI account, please send an email to MRSI Support from the email address you wish to use as your account login (preferably a .mil or .gov address) and we will set one up for you.
