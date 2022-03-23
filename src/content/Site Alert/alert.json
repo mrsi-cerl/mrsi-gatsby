@@ -1,17 +1,17 @@
 [
   {
-    "startDate": "10:05  10/01/2019",
+    "startDate": "10:05  03/23/2019",
     "endDate": "10:05  10/01/2019",
     "message": "TESTING",
     "level": "error",
     "title": "Error status"
   },
   {
-    "startDate": "10:05  10/01/2019",
-    "endDate": "10:05  10/01/2019",
-    "message": "TESTING",
+    "startDate": "15:26  03/23/2022",
+    "endDate": "18:05  03/25/2022",
+    "message": "The MRSI suite of applications (MILCON D-B, Small Projects, and PDRS wizards) and the COS file libraries on this site are scheduled for server maintenance from 5pm CT Wed March 23 through Friday March 25. The Wizards will not be available during this time. Sorry for any inconvenience.",
     "level": "info",
-    "title": "Informative status"
+    "title": "Server Maintenance"
   },
   {
     "startDate": "10:05  10/01/2019",
