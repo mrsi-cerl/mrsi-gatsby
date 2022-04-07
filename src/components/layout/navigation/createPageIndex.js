@@ -177,7 +177,7 @@ function getPages(data, currSlug) {
   const sustainPages = getSustainPages(data)
 
   const cxPages = {
-    caption: "Centers of Expertise",
+    caption: "Subject Matter Areas",
     slug: "/sustain/cx",
     children: sustainPages.cxPageData,
   }
