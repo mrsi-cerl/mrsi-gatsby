@@ -26,11 +26,11 @@ const SustainPOC = ({ data }) => {
   const tableData = getTableData(data)
   return (
     <Layout path="/sustain/poc" MaxWidth={700} centerContent>
-      <h1>Centers of Expertise POC</h1>
+      <h1>Subject Matter Points of Contact</h1>
       <table className="usa-table">
         <thead>
           <tr>
-            <th>Center of Expertise</th>
+            <th>Subject Matter Area</th>
             <th>MSC Program Manager</th>
             <th>MSC Technical Lead</th>
             <th>HQ USACE Proponent</th>

@@ -63,7 +63,7 @@ const pages = {
       slug: "/sustain/",
     },
     {
-      caption: "Centers of Expertise POC",
+      caption: "Subject Matter Points of Contact",
       slug: "/sustain/poc",
     },
     {

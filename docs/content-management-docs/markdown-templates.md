@@ -7,7 +7,7 @@ This document outlines the templates for each doc_type and the steps needed to a
 - [COS Center]()
 - [COS Facility]()
 - [Generic Page]()
-- [Sustain Center of Expertise]()
+- [Sustain Subject Matter Area]()
 - [Sustain Knowledge Resource]()
 - [Sustain Webinar Page]()
 - [Sustain Events]()
@@ -92,9 +92,9 @@ related_links:
 
 ```
 
-## Sustain Center of Expertise
+## Sustain Subject Matter Area
 
-To create a new Sustain Center of Expertise page, create a new markdown page in the content folder with the template below. Replace the info in the template with your own data.
+To create a new Sustain Subject Matter Area page, create a new markdown page in the content folder with the template below. Replace the info in the template with your own data.
 
 Adding a new markdown file to the content folder will automatically add this page to the Sustain side-nav
 

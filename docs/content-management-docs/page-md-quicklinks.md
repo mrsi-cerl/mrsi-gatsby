@@ -111,7 +111,7 @@ This is a list of links to markdown files in the content folder. The purpose of 
 ## Sustain
 
 - [Sustain: About](../../src/content/Sustain/Sustain%20Home.md)
-- Centers of Expertise
+- Subject Matter Areas
   - [Commissioning](../../src/content/Sustain/centers-of-expertise/commissioning/commissioning.md)
   - [Energy Modeling](../../src/content/Sustain/centers-of-expertise/energy-modeling/energy-modeling.md)
   - [Eco-Charrette and Conceptual Modeling](../../src/content/Sustain/centers-of-expertise/eco-charrette/eco-charrette.md)
