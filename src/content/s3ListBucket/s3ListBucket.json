@@ -7896,24 +7896,24 @@
 },
 {
 "name": "Appendix D - Drawings (FY 15 Large Basic Chapel Facility).pdf",
-"LastModified": "05/20/2015 15:42:33",
+"LastModified": "03/03/2022 16:13:24",
 "Key": "content/cos/nwo/chapels/Library/Standard Designs/Appendix D - Drawings (FY 15 Large Basic Chapel Facility).pdf",
 "extension": ".pdf",
-"Size": "557992"
+"Size": "562148"
 },
 {
 "name": "Appendix D - Drawings (FY 15 Large Compact Chapel).pdf",
-"LastModified": "05/20/2015 15:42:34",
+"LastModified": "03/04/2022 08:41:52",
 "Key": "content/cos/nwo/chapels/Library/Standard Designs/Appendix D - Drawings (FY 15 Large Compact Chapel).pdf",
 "extension": ".pdf",
-"Size": "783937"
+"Size": "784888"
 },
 {
 "name": "Appendix D - Drawings (FY 15 Large Enhanced Chapel).pdf",
-"LastModified": "05/20/2015 15:42:35",
+"LastModified": "03/04/2022 09:29:07",
 "Key": "content/cos/nwo/chapels/Library/Standard Designs/Appendix D - Drawings (FY 15 Large Enhanced Chapel).pdf",
 "extension": ".pdf",
-"Size": "470778"
+"Size": "474928"
 },
 {
 "name": "Appendix D - Drawings (FY 15 Medium Basic Chapel Facility).pdf",
@@ -11494,7 +11494,7 @@
 },
 {
 "name": "Library",
-"LastModified": "06/11/2021 09:22:52",
+"LastModified": "04/14/2022 18:13:41",
 "Key": "content/cos/swf/ssa/Library",
 "extension": "",
 "Size": ""
@@ -11536,15 +11536,8 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "07/21/2020 08:29:05",
+"LastModified": "04/14/2022 18:11:38",
 "Key": "content/cos/swf/ssa/Library/Standard Designs",
-"extension": "",
-"Size": ""
-},
-{
-"name": "TEMF to SSA Conversion",
-"LastModified": "09/25/2019 08:25:46",
-"Key": "content/cos/swf/ssa/Library/TEMF to SSA Conversion",
 "extension": "",
 "Size": ""
 },
@@ -11626,48 +11619,6 @@
 "Size": "2126981"
 },
 {
-"name": "44220_SSA_model_Site_plan.pdf",
-"LastModified": "05/20/2015 15:47:35",
-"Key": "content/cos/swf/ssa/Library/Standard Designs/44220_SSA_model_Site_plan.pdf",
-"extension": ".pdf",
-"Size": "532941"
-},
-{
-"name": "CLIMATE ZONE 3A - SSA_ARCH.pdf",
-"LastModified": "05/20/2015 15:47:36",
-"Key": "content/cos/swf/ssa/Library/Standard Designs/CLIMATE ZONE 3A - SSA_ARCH.pdf",
-"extension": ".pdf",
-"Size": "4133104"
-},
-{
-"name": "CLIMATE ZONE 3B-SSA WAREHOUSE_ARCH.pdf",
-"LastModified": "05/20/2015 15:47:36",
-"Key": "content/cos/swf/ssa/Library/Standard Designs/CLIMATE ZONE 3B-SSA WAREHOUSE_ARCH.pdf",
-"extension": ".pdf",
-"Size": "4020632"
-},
-{
-"name": "CLIMATE ZONE 4A-SSA WAREHOUSE_ARCH.pdf",
-"LastModified": "05/20/2015 15:47:37",
-"Key": "content/cos/swf/ssa/Library/Standard Designs/CLIMATE ZONE 4A-SSA WAREHOUSE_ARCH.pdf",
-"extension": ".pdf",
-"Size": "4228076"
-},
-{
-"name": "CLIMATE ZONE 5A-SSA WAREHOUSE_ARCH.pdf",
-"LastModified": "05/20/2015 15:47:38",
-"Key": "content/cos/swf/ssa/Library/Standard Designs/CLIMATE ZONE 5A-SSA WAREHOUSE_ARCH.pdf",
-"extension": ".pdf",
-"Size": "3662813"
-},
-{
-"name": "CLIMATE ZONE 5B- SSA WAREHOUSE_ARCH.pdf",
-"LastModified": "05/20/2015 15:47:38",
-"Key": "content/cos/swf/ssa/Library/Standard Designs/CLIMATE ZONE 5B- SSA WAREHOUSE_ARCH.pdf",
-"extension": ".pdf",
-"Size": "3654527"
-},
-{
 "name": "SSA Par 3 - Design Guidance.pdf",
 "LastModified": "07/21/2020 08:23:08",
 "Key": "content/cos/swf/ssa/Library/Standard Designs/SSA Par 3 - Design Guidance.pdf",
@@ -11675,95 +11626,11 @@
 "Size": "271841"
 },
 {
-"name": "SSA Warehouse 11X17 PLOT SHEET A101.pdf",
-"LastModified": "05/20/2015 15:47:39",
-"Key": "content/cos/swf/ssa/Library/Standard Designs/SSA Warehouse 11X17 PLOT SHEET A101.pdf",
+"name": "SSA Warehouse Standard Design.pdf",
+"LastModified": "04/07/2022 10:34:32",
+"Key": "content/cos/swf/ssa/Library/Standard Designs/SSA Warehouse Standard Design.pdf",
 "extension": ".pdf",
-"Size": "81477"
-},
-{
-"name": "SSA Warehouse 11X17 PLOT SHEET A201.pdf",
-"LastModified": "05/20/2015 15:47:39",
-"Key": "content/cos/swf/ssa/Library/Standard Designs/SSA Warehouse 11X17 PLOT SHEET A201.pdf",
-"extension": ".pdf",
-"Size": "108114"
-},
-{
-"name": "SSA Warehouse 11X17 PLOT SHEET A301.pdf",
-"LastModified": "05/20/2015 15:47:39",
-"Key": "content/cos/swf/ssa/Library/Standard Designs/SSA Warehouse 11X17 PLOT SHEET A301.pdf",
-"extension": ".pdf",
-"Size": "931565"
-},
-{
-"name": "SSA_DA.pdf",
-"LastModified": "05/20/2015 15:47:40",
-"Key": "content/cos/swf/ssa/Library/Standard Designs/SSA_DA.pdf",
-"extension": ".pdf",
-"Size": "1308679"
-},
-{
-"name": "g44-m-seminar-4.pdf",
-"LastModified": "08/19/2015 11:13:26",
-"Key": "content/cos/swf/ssa/Library/TEMF to SSA Conversion/g44-m-seminar-4.pdf",
-"extension": ".pdf",
-"Size": "1050660"
-},
-{
-"name": "g44-m-temf-conversion-briefing-20130723.pdf",
-"LastModified": "08/19/2015 11:13:26",
-"Key": "content/cos/swf/ssa/Library/TEMF to SSA Conversion/g44-m-temf-conversion-briefing-20130723.pdf",
-"extension": ".pdf",
-"Size": "1132829"
-},
-{
-"name": "jltv.pdf",
-"LastModified": "08/19/2015 11:13:26",
-"Key": "content/cos/swf/ssa/Library/TEMF to SSA Conversion/jltv.pdf",
-"extension": ".pdf",
-"Size": "46516"
-},
-{
-"name": "temf-5-to-ssa-conversion-master-20130820.pdf",
-"LastModified": "08/19/2015 11:13:26",
-"Key": "content/cos/swf/ssa/Library/TEMF to SSA Conversion/temf-5-to-ssa-conversion-master-20130820.pdf",
-"extension": ".pdf",
-"Size": "726429"
-},
-{
-"name": "temf-to-ssa-conversion-master-2.pdf",
-"LastModified": "08/19/2015 11:13:26",
-"Key": "content/cos/swf/ssa/Library/TEMF to SSA Conversion/temf-to-ssa-conversion-master-2.pdf",
-"extension": ".pdf",
-"Size": "528362"
-},
-{
-"name": "temf-to-ssa-conversion-master-20130820.pdf",
-"LastModified": "08/19/2015 11:13:26",
-"Key": "content/cos/swf/ssa/Library/TEMF to SSA Conversion/temf-to-ssa-conversion-master-20130820.pdf",
-"extension": ".pdf",
-"Size": "362056"
-},
-{
-"name": "temf-to-ssa-conversion-master.pdf",
-"LastModified": "08/19/2015 11:13:27",
-"Key": "content/cos/swf/ssa/Library/TEMF to SSA Conversion/temf-to-ssa-conversion-master.pdf",
-"extension": ".pdf",
-"Size": "716072"
-},
-{
-"name": "temf-to-ssa-conversion-master1.pdf",
-"LastModified": "08/19/2015 11:13:27",
-"Key": "content/cos/swf/ssa/Library/TEMF to SSA Conversion/temf-to-ssa-conversion-master1.pdf",
-"extension": ".pdf",
-"Size": "448841"
-},
-{
-"name": "temf-to-ssa-conversion.pdf",
-"LastModified": "08/19/2015 11:13:27",
-"Key": "content/cos/swf/ssa/Library/TEMF to SSA Conversion/temf-to-ssa-conversion.pdf",
-"extension": ".pdf",
-"Size": "427832"
+"Size": "5651620"
 },
 {
 "name": "Library",
@@ -11816,7 +11683,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "07/21/2020 08:24:28",
+"LastModified": "03/24/2022 16:34:56",
 "Key": "content/cos/swf/ueph/Library/Standard Designs",
 "extension": "",
 "Size": ""
