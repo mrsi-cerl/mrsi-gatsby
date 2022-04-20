@@ -9268,7 +9268,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "12/20/2021 09:36:10",
+"LastModified": "04/20/2022 16:06:45",
 "Key": "content/cos/sam/trw/Library/Archive",
 "extension": "",
 "Size": ""
@@ -9296,7 +9296,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "01/05/2022 11:49:00",
+"LastModified": "04/20/2022 16:07:14",
 "Key": "content/cos/sam/trw/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -9307,6 +9307,20 @@
 "Key": "content/cos/sam/trw/Library/Archive/2021-09-30 SAM AVN-COS TOE Rotary Wing MEDIUM Standard Design.pdf",
 "extension": ".pdf",
 "Size": "16403789"
+},
+{
+"name": "2021-09-30 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
+"LastModified": "10/01/2021 09:58:38",
+"Key": "content/cos/sam/trw/Library/Archive/2021-09-30 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
+"extension": ".pdf",
+"Size": "525449"
+},
+{
+"name": "2021-12-20_SAM_AVN-COS_TOE_Rotary_Wing_MEDIUM_STANDARD_DESIGN.pdf",
+"LastModified": "01/05/2022 11:44:49",
+"Key": "content/cos/sam/trw/Library/Archive/2021-12-20_SAM_AVN-COS_TOE_Rotary_Wing_MEDIUM_STANDARD_DESIGN.pdf",
+"extension": ".pdf",
+"Size": "8577768"
 },
 {
 "name": "Army_Standard_Approval_Memo_HGR_June_2021.pdf",
@@ -9330,18 +9344,18 @@
 "Size": "154112"
 },
 {
-"name": "2021-09-30 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
-"LastModified": "10/01/2021 09:58:38",
-"Key": "content/cos/sam/trw/Library/Standard Designs/2021-09-30 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
+"name": "2022-04-19 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
+"LastModified": "04/19/2022 08:30:00",
+"Key": "content/cos/sam/trw/Library/Standard Designs/2022-04-19 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
 "extension": ".pdf",
-"Size": "525449"
+"Size": "9633498"
 },
 {
-"name": "2021-12-20_SAM_AVN-COS_TOE_Rotary_Wing_MEDIUM_STANDARD_DESIGN.pdf",
-"LastModified": "01/05/2022 11:44:49",
-"Key": "content/cos/sam/trw/Library/Standard Designs/2021-12-20_SAM_AVN-COS_TOE_Rotary_Wing_MEDIUM_STANDARD_DESIGN.pdf",
+"name": "2022-04-19 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
+"LastModified": "04/19/2022 08:30:00",
+"Key": "content/cos/sam/trw/Library/Standard Designs/2022-04-19 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
 "extension": ".pdf",
-"Size": "8577768"
+"Size": "440366"
 },
 {
 "name": "Library",
