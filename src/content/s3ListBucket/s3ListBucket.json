@@ -4795,7 +4795,7 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "08/24/2020 08:27:23",
+"LastModified": "04/25/2022 16:15:04",
 "Key": "content/cos/lrl/ortc/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -4883,6 +4883,13 @@
 "Key": "content/cos/lrl/ortc/Library/DD1391 Templates/sample-dd1391-ortc-with-720-pn-dfac_fy18.pdf",
 "extension": ".pdf",
 "Size": "13403"
+},
+{
+"name": "DFAC INTERIORS STANDARD.pdf",
+"LastModified": "04/25/2022 13:47:00",
+"Key": "content/cos/lrl/ortc/Library/Misc. Documents/DFAC INTERIORS STANDARD.pdf",
+"extension": ".pdf",
+"Size": "9925752"
 },
 {
 "name": "LEED v4 Checklist- COS-ORTC.XLSX",
