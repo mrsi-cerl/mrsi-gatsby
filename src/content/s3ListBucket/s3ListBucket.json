@@ -9289,7 +9289,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "10/01/2021 10:42:55",
+"LastModified": "06/13/2022 19:10:51",
 "Key": "content/cos/sam/trw/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -9342,6 +9342,20 @@
 "Key": "content/cos/sam/trw/Library/Army Standards/Army_Standard_Aviation_Maintenance_Hangar_20210506.pdf",
 "extension": ".pdf",
 "Size": "935196"
+},
+{
+"name": "2022 June 1391 TRW ExtraLarge.pdf",
+"LastModified": "06/10/2022 13:39:00",
+"Key": "content/cos/sam/trw/Library/DD1391 Templates/2022 June 1391 TRW ExtraLarge.pdf",
+"extension": ".pdf",
+"Size": "24163"
+},
+{
+"name": "2022 June 1391 TRW Medium.pdf",
+"LastModified": "06/10/2022 13:39:00",
+"Key": "content/cos/sam/trw/Library/DD1391 Templates/2022 June 1391 TRW Medium.pdf",
+"extension": ".pdf",
+"Size": "24260"
 },
 {
 "name": "leed-v4-template_8-2019.xls",
@@ -14469,7 +14483,7 @@
 },
 {
 "name": "Policy",
-"LastModified": "09/17/2021 09:16:45",
+"LastModified": "06/13/2022 19:06:26",
 "Key": "content/PDRS/Policy",
 "extension": "",
 "Size": ""
@@ -14975,6 +14989,13 @@
 "name": "FY24 Guidance and Templates",
 "LastModified": "02/02/2022 14:35:14",
 "Key": "content/PDRS/Policy/FY24 Guidance and Templates",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY25 Guidance and Templates",
+"LastModified": "06/13/2022 19:08:05",
+"Key": "content/PDRS/Policy/FY25 Guidance and Templates",
 "extension": "",
 "Size": ""
 },
@@ -15915,6 +15936,20 @@
 "Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix H 7.4_CSRA Template FY21 Rev 4.xlsx",
 "extension": ".xlsx",
 "Size": "329011"
+},
+{
+"name": "Appendix E_FY25 Acquisition Strategy Template.docx",
+"LastModified": "06/13/2022 15:34:00",
+"Key": "content/PDRS/Policy/FY25 Guidance and Templates/Appendix E_FY25 Acquisition Strategy Template.docx",
+"extension": ".docx",
+"Size": "27279"
+},
+{
+"name": "Instructions for FY25 Army MILCON Code 2.pdf",
+"LastModified": "06/13/2022 15:36:00",
+"Key": "content/PDRS/Policy/FY25 Guidance and Templates/Instructions for FY25 Army MILCON Code 2.pdf",
+"extension": ".pdf",
+"Size": "1239457"
 },
 {
 "name": "CX-KR Documents",

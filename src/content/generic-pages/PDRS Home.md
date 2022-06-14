@@ -23,4 +23,6 @@ This tool was developed by ERDC-CERL at the request of HQ USACE. If you have que
 
 For PDR support, including access to projects, please contact <a href="mailto:amanda.h.weinert@usace.army.mil">Amanda Weinert</a> and/or <a href="mailto:rachel.m.phillips@usace.army.mil">Rachel Phillips</a>.
 
+**Please Note:** For new project(s) please go to the new [MRSI Wizard-Version 3](https://wizards.mrsi.erdc.dren.mil/). Once you have signed into the new wizard with your CAC, please contact Amanda or Rachel and ask them to grant you access to the new PDRS Wizard.
+
 **Please Note:** In order to log in to the PDRS Wizard application, you will need a MRSI Wizard account. To request a MRSI account, please send an email to MRSI Support from the email address you wish to use as your account login (preferably a .mil or .gov address) and we will set one up for you.
