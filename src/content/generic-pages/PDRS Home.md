@@ -22,6 +22,9 @@ This tool was developed by ERDC-CERL at the request of HQ USACE. If you have que
 
 For PDR support, including access to the PDRS Wizard itself and particular projects therein, please contact <a href="mailto:amanda.h.weinert@usace.army.mil">Amanda Weinert</a> or <a href="mailto:rachel.m.phillips@usace.army.mil">Rachel Phillips</a>.
 
-**If this is your first time using the new, browser-based PDRS Wizard:** Once you have signed into the new wizard with your CAC, please contact Amanda or Rachel and ask them to grant you access to the new PDRS Wizard application.
+**If this is your first time using the new, browser-based PDRS Wizard:** Once you have signed into the new wizard using your Login.gov account, please contact Amanda or Rachel so they can assign you to a project.
 
 **Please note: For project(s) prior to FY25**, please go to the classic [PDRS Wizard](https://rfpwizard.mrsi.erdc.dren.mil/wizards/pdrsw/Client/WizardApplication.application). In order to log in to the classic PDRS Wizard application, you will still need to use a MRSI Wizard account just as before. If you do not have one and need to request a new MRSI account, please send an email to MRSI Support from the email address you wish to use as your account login (preferably a .mil or .gov address) and we will set one up for you.
+
+### Policy and Guidance
+FY25 Guidance and Templates are found in `Home / Policy / FY25 Guidance and Templates`.
