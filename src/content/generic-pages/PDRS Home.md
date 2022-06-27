@@ -9,22 +9,23 @@ file_library_root_path: content/PDRS/
   <div style="width: 128px; float: left; margin: 1em 2em 1em 0;">
     <a href="https://wizards.mrsi.erdc.dren.mil/"><img src="/admin/images/uploads/mbp-wizard-256x256.png" alt="The new, browser-based PDRS Wizard for projects dated FY25 and beyond."/></a>
     <em>
-    Click here to start the new, browser-based PDRS Wizard for projects dated FY25 and beyond.
+    FY25 Program - Click here to start the new, browser-based PDRS Wizard.
     </em>
   </div>
 </div>
 
-[Click here to start the new, browser-based PDRS Wizard](https://wizards.mrsi.erdc.dren.mil/) **for projects dated FY25 and beyond**.
+## [FY25 Click here to start the new, browser-based PDRS Wizard](https://wizards.mrsi.erdc.dren.mil/).
 
-The Code 2 and Code 3 Design Directives for Army MILCON require the submission and approval of the Parametric Design Report (PDR) and ENG Form 3086 cost estimate. This Parametric Design Report System (PDRS) Wizard is a browser-based tool for the preparation, reporting and submission of the required PDR. The PDR must first be approved before the ENG Form 3086 is submitted. While the ENG3086 status is also tracked in the PDRS Wizard, it is not prepared within this system.
+To access the new PDRS Wizard you will need to create a Login.gov account and sign into the new Wizard. Once this step is complete, please contact [Rachel Phillips](mailto:rachel.m.phillips@usace.army.mil) or [Amanda Weinert](mailto:amanda.h.weinert@usace.army.mil) for any questions regarding the PDRS Wizard or Code 2 process.
 
-This tool was developed by ERDC-CERL at the request of HQ USACE. If you have questions about the software or the website, please email our support team and we will help you as soon as we are able.
+## Policy and Guidance
 
-For PDR support, including access to the PDRS Wizard itself and particular projects therein, please contact <a href="mailto:amanda.h.weinert@usace.army.mil">Amanda Weinert</a> or <a href="mailto:rachel.m.phillips@usace.army.mil">Rachel Phillips</a>.
+[Army MILCON Code 2 Design Process and Procedures](https://rfpwizard.mrsi.erdc.dren.mil/MRSI/content/PDRS/Policy/FY25%20Guidance%20and%20Templates/1_Instructions%20for%20FY25%20Army%20MILCON%20Code%202.pdf) provides guidance, outlines the Code 2 process milestones and instructions for submitting PDR, 3086, and 35% Design Certification deliverables.
 
-**If this is your first time using the new, browser-based PDRS Wizard:** Once you have signed into the new wizard using your Login.gov account, please contact Amanda or Rachel so they can assign you to a project.
+## Previous FY Projects
 
 **Please note: For project(s) prior to FY25**, please go to the classic [PDRS Wizard](https://rfpwizard.mrsi.erdc.dren.mil/wizards/pdrsw/Client/WizardApplication.application). In order to log in to the classic PDRS Wizard application, you will still need to use a MRSI Wizard account just as before. If you do not have one and need to request a new MRSI account, please send an email to MRSI Support from the email address you wish to use as your account login (preferably a .mil or .gov address) and we will set one up for you.
 
-### Policy and Guidance
-FY25 Guidance and Templates are found in `Home / Policy / FY25 Guidance and Templates`.
+## About
+
+This tool was developed by ERDC-CERL for HQ USACE. If you have questions about the software or the website, please email the [MRSI support team](mailto:mrsi_support@usace.army.mil).
