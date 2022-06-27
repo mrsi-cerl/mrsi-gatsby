@@ -7,10 +7,7 @@ file_library_root_path: content/PDRS/
 
 <div>
   <div style="width: 128px; float: left; margin: 1em 2em 1em 0;">
-    <a href="https://wizards.mrsi.erdc.dren.mil/"><img src="/admin/images/uploads/mbp-wizard-256x256.png" alt="PDRS Wizard application"/>
-    <em>
-    FY25 Program - Click to start the new, browser-based PDRS Wizard.
-    </em></a>
+    <a href="https://wizards.mrsi.erdc.dren.mil/"><img src="/admin/images/uploads/mbp-wizard-256x256.png" alt="PDRS Wizard application"/></a>
   </div>
 </div>
 
