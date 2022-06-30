@@ -5404,7 +5404,7 @@
 },
 {
 "name": "Archives",
-"LastModified": "09/25/2019 08:24:59",
+"LastModified": "06/30/2022 10:55:13",
 "Key": "content/cos/nao/epdf/Library/Archives",
 "extension": "",
 "Size": ""
@@ -5446,10 +5446,24 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "12/08/2020 11:59:05",
+"LastModified": "06/30/2022 10:55:13",
 "Key": "content/cos/nao/epdf/Library/Standard Designs",
 "extension": "",
 "Size": ""
+},
+{
+"name": "dfac-design-criteria_20180723.pdf",
+"LastModified": "09/06/2018 12:57:35",
+"Key": "content/cos/nao/epdf/Library/Archives/dfac-design-criteria_20180723.pdf",
+"extension": ".pdf",
+"Size": "660527"
+},
+{
+"name": "Dining_Facility_Sizing_Criteria_-_Apr08.pdf",
+"LastModified": "05/20/2015 15:32:48",
+"Key": "content/cos/nao/epdf/Library/Archives/Dining_Facility_Sizing_Criteria_-_Apr08.pdf",
+"extension": ".pdf",
+"Size": "17694"
 },
 {
 "name": "EPDF Army Standard 20090717.pdf",
@@ -5634,18 +5648,18 @@
 "Size": ""
 },
 {
-"name": "dfac-design-criteria_20180723.pdf",
-"LastModified": "09/06/2018 12:57:35",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/dfac-design-criteria_20180723.pdf",
+"name": "DFAC PAR 3_Criteria_20220622.pdf",
+"LastModified": "06/28/2022 12:33:24",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/DFAC PAR 3_Criteria_20220622.pdf",
 "extension": ".pdf",
-"Size": "660527"
+"Size": "661133"
 },
 {
-"name": "Dining_Facility_Sizing_Criteria_-_Apr08.pdf",
-"LastModified": "05/20/2015 15:32:48",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/Dining_Facility_Sizing_Criteria_-_Apr08.pdf",
+"name": "DFAC sizing criteria_AFSC_revised_FY22 July 2020.pdf",
+"LastModified": "06/28/2022 12:27:58",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/DFAC sizing criteria_AFSC_revised_FY22 July 2020.pdf",
 "extension": ".pdf",
-"Size": "17694"
+"Size": "104222"
 },
 {
 "name": "1300TNG-Specs-11_46__01_06.pdf",
@@ -10227,7 +10241,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "10/18/2021 16:08:41",
+"LastModified": "06/30/2022 10:52:51",
 "Key": "content/cos/sas/temf/Library/Archive",
 "extension": "",
 "Size": ""
@@ -10241,7 +10255,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:25:33",
+"LastModified": "06/30/2022 10:52:59",
 "Key": "content/cos/sas/temf/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -10282,11 +10296,39 @@
 "Size": "462817"
 },
 {
+"name": "temf_large_fy21.pdf",
+"LastModified": "07/31/2019 15:09:43",
+"Key": "content/cos/sas/temf/Library/Archive/temf_large_fy21.pdf",
+"extension": ".pdf",
+"Size": "12845"
+},
+{
+"name": "temf_med_fy21.pdf",
+"LastModified": "07/31/2019 15:10:01",
+"Key": "content/cos/sas/temf/Library/Archive/temf_med_fy21.pdf",
+"extension": ".pdf",
+"Size": "12831"
+},
+{
+"name": "temf_sm_fy21.pdf",
+"LastModified": "07/31/2019 15:10:21",
+"Key": "content/cos/sas/temf/Library/Archive/temf_sm_fy21.pdf",
+"extension": ".pdf",
+"Size": "12832"
+},
+{
 "name": "TEMF_Std_Dgn_Rev_5.0.pdf",
 "LastModified": "02/24/2021 15:11:54",
 "Key": "content/cos/sas/temf/Library/Archive/TEMF_Std_Dgn_Rev_5.0.pdf",
 "extension": ".pdf",
 "Size": "1722736"
+},
+{
+"name": "temf_xlarge_fy21.pdf",
+"LastModified": "07/31/2019 15:10:37",
+"Key": "content/cos/sas/temf/Library/Archive/temf_xlarge_fy21.pdf",
+"extension": ".pdf",
+"Size": "12843"
 },
 {
 "name": "Army_Standard_Approval_Memo_TEMF_June_2021.pdf",
@@ -10303,32 +10345,32 @@
 "Size": "216636"
 },
 {
-"name": "temf_large_fy21.pdf",
-"LastModified": "07/31/2019 15:09:43",
-"Key": "content/cos/sas/temf/Library/DD1391 Templates/temf_large_fy21.pdf",
+"name": "TEMF_ XLARGE_FY22_20220426.pdf",
+"LastModified": "06/30/2022 10:06:22",
+"Key": "content/cos/sas/temf/Library/DD1391 Templates/TEMF_ XLARGE_FY22_20220426.pdf",
 "extension": ".pdf",
-"Size": "12845"
+"Size": "36371"
 },
 {
-"name": "temf_med_fy21.pdf",
-"LastModified": "07/31/2019 15:10:01",
-"Key": "content/cos/sas/temf/Library/DD1391 Templates/temf_med_fy21.pdf",
+"name": "TEMF_LARGE_ FY 22_20220426.pdf",
+"LastModified": "06/30/2022 10:06:20",
+"Key": "content/cos/sas/temf/Library/DD1391 Templates/TEMF_LARGE_ FY 22_20220426.pdf",
 "extension": ".pdf",
-"Size": "12831"
+"Size": "34484"
 },
 {
-"name": "temf_sm_fy21.pdf",
-"LastModified": "07/31/2019 15:10:21",
-"Key": "content/cos/sas/temf/Library/DD1391 Templates/temf_sm_fy21.pdf",
+"name": "TEMF_MEDIUM_FY 22_20220426.pdf",
+"LastModified": "06/30/2022 10:06:21",
+"Key": "content/cos/sas/temf/Library/DD1391 Templates/TEMF_MEDIUM_FY 22_20220426.pdf",
 "extension": ".pdf",
-"Size": "12832"
+"Size": "34417"
 },
 {
-"name": "temf_xlarge_fy21.pdf",
-"LastModified": "07/31/2019 15:10:37",
-"Key": "content/cos/sas/temf/Library/DD1391 Templates/temf_xlarge_fy21.pdf",
+"name": "TEMF_SMALL_FY 22_20220426.pdf",
+"LastModified": "06/30/2022 10:06:21",
+"Key": "content/cos/sas/temf/Library/DD1391 Templates/TEMF_SMALL_FY 22_20220426.pdf",
 "extension": ".pdf",
-"Size": "12843"
+"Size": "34411"
 },
 {
 "name": "LEED v4 Score Card - TEMF.pdf",
