@@ -9632,7 +9632,7 @@
 },
 {
 "name": "Library",
-"LastModified": "03/04/2021 09:46:01",
+"LastModified": "06/30/2022 16:00:00",
 "Key": "content/cos/sas/bn-bde-hq/Library",
 "extension": "",
 "Size": ""
@@ -9673,6 +9673,13 @@
 "Size": "175502"
 },
 {
+"name": "Archive",
+"LastModified": "06/30/2022 16:00:18",
+"Key": "content/cos/sas/bn-bde-hq/Library/Archive",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Army Standards",
 "LastModified": "09/25/2019 08:25:30",
 "Key": "content/cos/sas/bn-bde-hq/Library/Army Standards",
@@ -9681,7 +9688,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:25:30",
+"LastModified": "06/30/2022 16:00:40",
 "Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -9715,6 +9722,69 @@
 "Size": ""
 },
 {
+"name": "bn-hq-wclssrm_large_fy21.pdf",
+"LastModified": "07/31/2019 14:58:34",
+"Key": "content/cos/sas/bn-bde-hq/Library/Archive/bn-hq-wclssrm_large_fy21.pdf",
+"extension": ".pdf",
+"Size": "11472"
+},
+{
+"name": "bn-hq-wclssrm_medium_fy21.pdf",
+"LastModified": "07/31/2019 14:59:53",
+"Key": "content/cos/sas/bn-bde-hq/Library/Archive/bn-hq-wclssrm_medium_fy21.pdf",
+"extension": ".pdf",
+"Size": "11478"
+},
+{
+"name": "bn-hq-wclssrm_small_fy21.pdf",
+"LastModified": "07/31/2019 15:00:13",
+"Key": "content/cos/sas/bn-bde-hq/Library/Archive/bn-hq-wclssrm_small_fy21.pdf",
+"extension": ".pdf",
+"Size": "11475"
+},
+{
+"name": "bn-hq-wclssrm_x-large_fy21.pdf",
+"LastModified": "07/31/2019 15:00:34",
+"Key": "content/cos/sas/bn-bde-hq/Library/Archive/bn-hq-wclssrm_x-large_fy21.pdf",
+"extension": ".pdf",
+"Size": "11585"
+},
+{
+"name": "brigade_hqs_large_fy21.pdf",
+"LastModified": "08/01/2019 06:25:11",
+"Key": "content/cos/sas/bn-bde-hq/Library/Archive/brigade_hqs_large_fy21.pdf",
+"extension": ".pdf",
+"Size": "11573"
+},
+{
+"name": "brigade_hqs_medium_fy21.pdf",
+"LastModified": "07/31/2019 14:56:50",
+"Key": "content/cos/sas/bn-bde-hq/Library/Archive/brigade_hqs_medium_fy21.pdf",
+"extension": ".pdf",
+"Size": "11583"
+},
+{
+"name": "brigade_hqs_small_fy21.pdf",
+"LastModified": "07/31/2019 14:57:28",
+"Key": "content/cos/sas/bn-bde-hq/Library/Archive/brigade_hqs_small_fy21.pdf",
+"extension": ".pdf",
+"Size": "11577"
+},
+{
+"name": "brigade_hqs_x-large_fy21.pdf",
+"LastModified": "07/31/2019 14:57:49",
+"Key": "content/cos/sas/bn-bde-hq/Library/Archive/brigade_hqs_x-large_fy21.pdf",
+"extension": ".pdf",
+"Size": "11613"
+},
+{
+"name": "brigade_hqs_x-small_fy21.pdf",
+"LastModified": "07/31/2019 14:58:05",
+"Key": "content/cos/sas/bn-bde-hq/Library/Archive/brigade_hqs_x-small_fy21.pdf",
+"extension": ".pdf",
+"Size": "11601"
+},
+{
 "name": "Bde-Bn Hq Army Standard.pdf",
 "LastModified": "05/20/2015 15:46:07",
 "Key": "content/cos/sas/bn-bde-hq/Library/Army Standards/Bde-Bn Hq Army Standard.pdf",
@@ -9722,67 +9792,67 @@
 "Size": "729069"
 },
 {
-"name": "bn-hq-wclssrm_large_fy21.pdf",
-"LastModified": "07/31/2019 14:58:34",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/bn-hq-wclssrm_large_fy21.pdf",
+"name": "Battalion Headquarters wClassrooms_Large_FY 22_20220603.pdf",
+"LastModified": "06/30/2022 12:02:02",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Battalion Headquarters wClassrooms_Large_FY 22_20220603.pdf",
 "extension": ".pdf",
-"Size": "11472"
+"Size": "21508"
 },
 {
-"name": "bn-hq-wclssrm_medium_fy21.pdf",
-"LastModified": "07/31/2019 14:59:53",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/bn-hq-wclssrm_medium_fy21.pdf",
+"name": "Battalion Headquarters wClassrooms_Medium_FY 22_20220603.pdf",
+"LastModified": "06/30/2022 12:02:01",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Battalion Headquarters wClassrooms_Medium_FY 22_20220603.pdf",
 "extension": ".pdf",
-"Size": "11478"
+"Size": "32230"
 },
 {
-"name": "bn-hq-wclssrm_small_fy21.pdf",
-"LastModified": "07/31/2019 15:00:13",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/bn-hq-wclssrm_small_fy21.pdf",
+"name": "Battalion Headquarters wClassrooms_Small_FY 22_20220603.pdf",
+"LastModified": "06/30/2022 12:02:01",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Battalion Headquarters wClassrooms_Small_FY 22_20220603.pdf",
 "extension": ".pdf",
-"Size": "11475"
+"Size": "32096"
 },
 {
-"name": "bn-hq-wclssrm_x-large_fy21.pdf",
-"LastModified": "07/31/2019 15:00:34",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/bn-hq-wclssrm_x-large_fy21.pdf",
+"name": "Battalion Headquarters wClassrooms_XLarge_FY 22_20220603.pdf",
+"LastModified": "06/30/2022 12:02:00",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Battalion Headquarters wClassrooms_XLarge_FY 22_20220603.pdf",
 "extension": ".pdf",
-"Size": "11585"
+"Size": "32123"
 },
 {
-"name": "brigade_hqs_large_fy21.pdf",
-"LastModified": "08/01/2019 06:25:11",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/brigade_hqs_large_fy21.pdf",
+"name": "Brigade Headquarters_Large_FY 22_20220603.pdf",
+"LastModified": "06/30/2022 12:05:42",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Brigade Headquarters_Large_FY 22_20220603.pdf",
 "extension": ".pdf",
-"Size": "11573"
+"Size": "35528"
 },
 {
-"name": "brigade_hqs_medium_fy21.pdf",
-"LastModified": "07/31/2019 14:56:50",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/brigade_hqs_medium_fy21.pdf",
+"name": "Brigade Headquarters_Medium_FY 22_20220603.pdf",
+"LastModified": "06/30/2022 12:05:43",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Brigade Headquarters_Medium_FY 22_20220603.pdf",
 "extension": ".pdf",
-"Size": "11583"
+"Size": "35324"
 },
 {
-"name": "brigade_hqs_small_fy21.pdf",
-"LastModified": "07/31/2019 14:57:28",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/brigade_hqs_small_fy21.pdf",
+"name": "Brigade Headquarters_Small_FY 22_20220603.pdf",
+"LastModified": "06/30/2022 12:05:44",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Brigade Headquarters_Small_FY 22_20220603.pdf",
 "extension": ".pdf",
-"Size": "11577"
+"Size": "35327"
 },
 {
-"name": "brigade_hqs_x-large_fy21.pdf",
-"LastModified": "07/31/2019 14:57:49",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/brigade_hqs_x-large_fy21.pdf",
+"name": "Brigade Headquarters_XLarge_FY 22_20220603.pdf",
+"LastModified": "06/30/2022 12:05:45",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Brigade Headquarters_XLarge_FY 22_20220603.pdf",
 "extension": ".pdf",
-"Size": "11613"
+"Size": "35354"
 },
 {
-"name": "brigade_hqs_x-small_fy21.pdf",
-"LastModified": "07/31/2019 14:58:05",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/brigade_hqs_x-small_fy21.pdf",
+"name": "Brigade Headquarters_XSmall_FY 22_20220603.pdf",
+"LastModified": "06/30/2022 12:05:47",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Brigade Headquarters_XSmall_FY 22_20220603.pdf",
 "extension": ".pdf",
-"Size": "11601"
+"Size": "35364"
 },
 {
 "name": "BDE BN CORRECTED FINAL.pdf",
@@ -9898,7 +9968,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:31",
+"LastModified": "06/30/2022 16:01:40",
 "Key": "content/cos/sas/c2f/Library",
 "extension": "",
 "Size": ""
@@ -9932,6 +10002,13 @@
 "Size": "196590"
 },
 {
+"name": "Archive",
+"LastModified": "06/30/2022 16:01:43",
+"Key": "content/cos/sas/c2f/Library/Archive",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Army Standards",
 "LastModified": "09/25/2019 08:25:31",
 "Key": "content/cos/sas/c2f/Library/Army Standards",
@@ -9940,7 +10017,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:25:31",
+"LastModified": "06/30/2022 16:01:43",
 "Key": "content/cos/sas/c2f/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -9960,6 +10037,13 @@
 "Size": ""
 },
 {
+"name": "command_control-facility_echelons-above-brigade_fy21.pdf",
+"LastModified": "07/31/2019 15:01:23",
+"Key": "content/cos/sas/c2f/Library/Archive/command_control-facility_echelons-above-brigade_fy21.pdf",
+"extension": ".pdf",
+"Size": "11507"
+},
+{
 "name": "C2F Army Standard.pdf",
 "LastModified": "05/20/2015 15:46:16",
 "Key": "content/cos/sas/c2f/Library/Army Standards/C2F Army Standard.pdf",
@@ -9967,11 +10051,11 @@
 "Size": "2078409"
 },
 {
-"name": "command_control-facility_echelons-above-brigade_fy21.pdf",
-"LastModified": "07/31/2019 15:01:23",
-"Key": "content/cos/sas/c2f/Library/DD1391 Templates/command_control-facility_echelons-above-brigade_fy21.pdf",
+"name": "Command and Control Facility_Echelons Above Brigade_FY 22_20220603.pdf",
+"LastModified": "06/30/2022 12:05:20",
+"Key": "content/cos/sas/c2f/Library/DD1391 Templates/Command and Control Facility_Echelons Above Brigade_FY 22_20220603.pdf",
 "extension": ".pdf",
-"Size": "11507"
+"Size": "35413"
 },
 {
 "name": "C2F Program Spreadsheet",
