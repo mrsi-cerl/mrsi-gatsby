@@ -105,7 +105,7 @@
 },
 {
 "name": "sas",
-"LastModified": "09/26/2019 10:00:50",
+"LastModified": "07/06/2022 10:27:47",
 "Key": "content/cos/sas",
 "extension": "",
 "Size": ""
@@ -9624,6 +9624,13 @@
 "Size": ""
 },
 {
+"name": "gpmf-lrc",
+"LastModified": "07/06/2022 10:28:00",
+"Key": "content/cos/sas/gpmf-lrc",
+"extension": "",
+"Size": ""
+},
+{
 "name": "temf",
 "LastModified": "03/04/2021 09:45:40",
 "Key": "content/cos/sas/temf",
@@ -10308,6 +10315,48 @@
 "Key": "content/cos/sas/cof/Library/Standard Designs/COF_Std_Dgn_Rev_5.1.pdf",
 "extension": ".pdf",
 "Size": "2064421"
+},
+{
+"name": "Library",
+"LastModified": "07/06/2022 10:29:09",
+"Key": "content/cos/sas/gpmf-lrc/Library",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Army Standards",
+"LastModified": "07/06/2022 13:38:18",
+"Key": "content/cos/sas/gpmf-lrc/Library/Army Standards",
+"extension": "",
+"Size": ""
+},
+{
+"name": "DD1391 Templates",
+"LastModified": "07/06/2022 10:28:17",
+"Key": "content/cos/sas/gpmf-lrc/Library/DD1391 Templates",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Standard Designs",
+"LastModified": "07/06/2022 10:28:26",
+"Key": "content/cos/sas/gpmf-lrc/Library/Standard Designs",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Army_Standard_Approval_Memo_GPMF-LRC_20220511.pdf",
+"LastModified": "07/06/2022 08:53:53",
+"Key": "content/cos/sas/gpmf-lrc/Library/Army Standards/Army_Standard_Approval_Memo_GPMF-LRC_20220511.pdf",
+"extension": ".pdf",
+"Size": "143247"
+},
+{
+"name": "Army_Standard_GPMF_ 20220511.pdf",
+"LastModified": "07/06/2022 08:56:17",
+"Key": "content/cos/sas/gpmf-lrc/Library/Army Standards/Army_Standard_GPMF_ 20220511.pdf",
+"extension": ".pdf",
+"Size": "359195"
 },
 {
 "name": "Library",
