@@ -56,7 +56,7 @@ const ArmyStandards = ({ data }) => {
                   <img
                     style={{ maxWidth: 113 }}
                     src={e.node.frontmatter.carousel_images[0]}
-                    alt="facility image or rendering"
+                    alt="example of the facility"
                   ></img>
                 ) : null}
               </td>
