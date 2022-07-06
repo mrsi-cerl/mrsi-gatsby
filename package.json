@@ -24,7 +24,7 @@
     "google-map-react": "^1.1.5",
     "lodash": "^4.17.21",
     "material-table": "^1.57.2",
-    "moment": "^2.29.2",
+    "moment": "^2.29.4",
     "pngquant-bin": "^5.0.2",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
