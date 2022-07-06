@@ -1,22 +1,21 @@
-import React, { useState } from "react"
-import { useStaticQuery, graphql } from "gatsby"
-import ls from "./library-helpers"
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { faFolder } from "@fortawesome/free-solid-svg-icons"
 import {
-  faFilePdf,
-  faFileWord,
-  faFileImage,
-  faFileVideo,
-  faFilePowerpoint,
+  faFileAlt,
   faFileArchive,
   faFileExcel,
-  faFileAlt,
+  faFileImage,
+  faFilePdf,
+  faFilePowerpoint,
+  faFileVideo,
+  faFileWord,
 } from "@fortawesome/free-regular-svg-icons"
-import styles from "./library.module.css"
+import { faFolder } from "@fortawesome/free-solid-svg-icons"
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import cx from "classnames"
-import Moment from "react-moment"
-import moment from "moment"
+import { graphql, useStaticQuery } from "gatsby"
+import React, { useState } from "react"
+
+import ls from "./library-helpers"
+import styles from "./library.module.css"
 
 const fileTypeIcons = {
   pdf: <FontAwesomeIcon icon={faFilePdf} />,
@@ -32,7 +31,7 @@ const fileTypeIcons = {
   xls: <FontAwesomeIcon icon={faFileExcel} />,
 }
 
-const getFileIcon = path => {
+const getFileIcon = (path) => {
   const splitPath = path.split(".")
   const ext = splitPath[splitPath.length - 1].toLowerCase()
   if (fileTypeIcons.hasOwnProperty(ext)) {
@@ -62,39 +61,39 @@ const getBreadcrumbs = (rootDir, dir) => {
 
 const getFolderFileCount = (rootDir, data) => {
   return data.filter(
-    file => file.Key.indexOf(rootDir) === 0 && file.Size !== ""
+    (file) => file.Key.indexOf(rootDir) === 0 && file.Size !== ""
   ).length
 }
 
-const getMostRecentFileUpdateDate = (rootDir, data) => {
-  const folderItems = data.filter(
-    file => file.Key.indexOf(rootDir) === 0 && file.Size !== ""
-  )
-  let latestDate = null
-  for (let item of folderItems) {
-    if (latestDate) {
-      if (moment(item.LastModified).isAfter(latestDate)) {
-        latestDate = item.LastModified
-      }
-    } else {
-      latestDate = item.LastModified
-    }
-  }
+// const getMostRecentFileUpdateDate = (rootDir, data) => {
+//   const folderItems = data.filter(
+//     file => file.Key.indexOf(rootDir) === 0 && file.Size !== ""
+//   )
+//   let latestDate = null
+//   for (let item of folderItems) {
+//     if (latestDate) {
+//       if (moment(item.LastModified).isAfter(latestDate)) {
+//         latestDate = item.LastModified
+//       }
+//     } else {
+//       latestDate = item.LastModified
+//     }
+//   }
 
-  if (latestDate != null) {
-    return (
-      <Moment
-        date={latestDate}
-        format="M/D/YYYY"
-        withTitle
-        titleFormat="DD MMMM YYYY"
-        parse="MM/DD/YYYY HH:mm:ss"
-      />
-    )
-  } else {
-    return ""
-  }
-}
+//   if (latestDate != null) {
+//     return (
+//       <Moment
+//         date={latestDate}
+//         format="M/D/YYYY"
+//         withTitle
+//         titleFormat="DD MMMM YYYY"
+//         parse="MM/DD/YYYY HH:mm:ss"
+//       />
+//     )
+//   } else {
+//     return ""
+//   }
+// }
 
 const Library = ({ rootDir, hideBC, hideTitle }) => {
   const [dir, setDir] = useState(rootDir)
@@ -122,7 +121,9 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
         {hideBC ? null : (
           <div className={styles.bc}>
             <span
+              role="link"
               onClick={() => setDir(rootDir)}
+              onKeyUp={() => setDir(rootDir)}
               style={{ paddingRight: 5 }}
               className={cx({
                 [styles.pointer]: bc.length > 0,
@@ -136,7 +137,10 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
             {bc.map((e, idx) => (
               <>
                 <span
+                  role="link"
+                  tabIndex={idx}
                   onClick={() => setDir(e.path)}
+                  onKeyUp={() => setDir(e.path)}
                   style={{ padding: 5 }}
                   className={cx({
                     [styles.bcGrey]: bc.length === idx + 1,
@@ -171,6 +175,7 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                       <span
                         style={{ marginLeft: 10 }}
                         onClick={() => setDir(e.Key + "/")}
+                        onKeyUp={() => setDir(e.Key + "/")}
                         className={styles.pointer}
                       >
                         {e.name}
