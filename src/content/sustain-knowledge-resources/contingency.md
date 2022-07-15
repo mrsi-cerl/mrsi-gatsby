@@ -17,8 +17,8 @@ sustain_msc_program_manager_name: Dan Lyons
 sustain_msc_technical_lead_email: Dale.R.Hartmann@usace.army.mil
 sustain_msc_technical_lead_name: Dale Hartmann
 
-sustain_hq_usace_proponent_email: Zenovia.D.Wilcox@usace.army.mil
-sustain_hq_usace_proponent_name: Zenovia Wilcox
+sustain_hq_usace_proponent_email: edward.citzler@usace.army.mil
+sustain_hq_usace_proponent_name: Edward Citzler
 
 sustain_erdc_liaison_email: Kurt.Kinnevan@usace.army.mil
 sustain_erdc_liaison_name: Kurt Kinnevan

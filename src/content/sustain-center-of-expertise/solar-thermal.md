@@ -4,14 +4,14 @@ carousel_images:
   - /admin/images/uploads/solar20thermal_800_resize.jpg
 title: Solar Thermal
 
-sustain_msc_program_manager_email: Mike.Cockrell@usace.army.mil
-sustain_msc_program_manager_name: Mike Cockrell
+sustain_msc_program_manager_email: matthew.milliorn@usace.army.mil
+sustain_msc_program_manager_name: Matthew Milliorn
 
-sustain_msc_technical_lead_email: Gilbert.Valla@usace.army.mil
-sustain_msc_technical_lead_name: Gilbert Valla
+sustain_msc_technical_lead_email: kirk.a.williams@usace.army.mil
+sustain_msc_technical_lead_name: Kirk Williams
 
-sustain_hq_usace_proponent_email: Timothy.D.Gordon@usace.army.mil
-sustain_hq_usace_proponent_name: Tim Gordon
+sustain_hq_usace_proponent_email: edward.citzler@usace.army.mil
+sustain_hq_usace_proponent_name: Edward Citzler
 
 sustain_erdc_liaison_email: William.J.Stein@usace.army.mil
 sustain_erdc_liaison_name: Bill Stein

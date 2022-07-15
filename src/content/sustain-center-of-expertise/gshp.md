@@ -10,8 +10,8 @@ sustain_msc_program_manager_name: Don Johantges
 sustain_msc_technical_lead_email: Hope.R.Evans@usace.army.mil
 sustain_msc_technical_lead_name: Hope Evans
 
-sustain_hq_usace_proponent_email: Eric.Mucklow@usace.army.mil
-sustain_hq_usace_proponent_name: Eric Mucklow
+sustain_hq_usace_proponent_email: edward.citzler@usace.army.mil
+sustain_hq_usace_proponent_name: Edward Citzler
 
 sustain_erdc_liaison_email: jim.p.miller@usace.army.mil
 sustain_erdc_liaison_name: Jim Miller

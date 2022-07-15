@@ -10,8 +10,8 @@ sustain_msc_program_manager_email: Donald.E.Johantges@usace.army.mil
 sustain_msc_technical_lead_name: Brandon Martin
 sustain_msc_technical_lead_email: Brandon.A.Martin@usace.army.mil
 
-sustain_hq_usace_proponent_name: Eric Mucklow
-sustain_hq_usace_proponent_email: Eric.Mucklow@usace.army.mil
+sustain_hq_usace_proponent_name: Edward Citzler
+sustain_hq_usace_proponent_email: edward.citzler@usace.army.mil
 
 sustain_erdc_liaison_name: Annette Stumpf
 sustain_erdc_liaison_email: Annette.L.Stumpf@usace.army.mil
