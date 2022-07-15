@@ -14,8 +14,8 @@ sustain_msc_program_manager_name: Lori Arakawa
 sustain_msc_technical_lead_email: John.R.Parrish@usace.army.mil;Thomas.E.Sessa@usace.army.mil
 sustain_msc_technical_lead_name: John Parrish and Thomas Sessa
 
-sustain_hq_usace_proponent_email: Eric.Mucklow@usace.army.mil
-sustain_hq_usace_proponent_name: Eric Mucklow
+sustain_hq_usace_proponent_email: edward.citzler@usace.army.mil
+sustain_hq_usace_proponent_name: Edward Citzler
 
 sustain_erdc_liaison_email: William.J.Stein@usace.army.mil
 sustain_erdc_liaison_name: Bill Stein

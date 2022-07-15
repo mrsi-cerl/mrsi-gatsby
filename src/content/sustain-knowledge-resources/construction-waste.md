@@ -15,8 +15,8 @@ sustain_msc_program_manager_name: Jeanette Fiess
 sustain_msc_technical_lead_email: Ned.A.Shepherd@usace.army.mil
 sustain_msc_technical_lead_name: Ned Shepherd
 
-sustain_hq_usace_proponent_email: Zenovia.D.Wilcox@usace.army.mil
-sustain_hq_usace_proponent_name: Zenovia Wilcox
+sustain_hq_usace_proponent_email: edward.citzler@usace.army.mil
+sustain_hq_usace_proponent_name: Edward Citzler
 
 sustain_erdc_liaison_email: Giselle.Rodriguez@usace.army.mil
 sustain_erdc_liaison_name: Giselle Rodriguez

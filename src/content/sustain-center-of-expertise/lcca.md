@@ -10,8 +10,8 @@ sustain_msc_program_manager_name: Lori Arakawa
 sustain_msc_technical_lead_email: Aaron.A.Klapheck@usace.army.mil
 sustain_msc_technical_lead_name: Aaron Klapheck
 
-sustain_hq_usace_proponent_email: Zenovia.D.Wilcox@usace.army.mil
-sustain_hq_usace_proponent_name: Zenovia Wilcox
+sustain_hq_usace_proponent_email: edward.citzler@usace.army.mil
+sustain_hq_usace_proponent_name: Edward Citzler
 
 sustain_erdc_liaison_email: Richard.J.Liesen@usace.army.mil
 sustain_erdc_liaison_name: Richard Liesen

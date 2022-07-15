@@ -5,14 +5,14 @@ carousel_images:
 
 title: Waste-to-Energy
 
-sustain_msc_program_manager_email: Michael.Cockrell@usace.army.mil
-sustain_msc_program_manager_name: Mike Cockrell
+sustain_msc_program_manager_email: matthew.milliorn@usace.army.mil
+sustain_msc_program_manager_name: Matthew Milliorn
 
-sustain_msc_technical_lead_email: Daniel.Berndt@usace.army.mil
-sustain_msc_technical_lead_name: Daniel Berndt
+sustain_msc_technical_lead_email: kirk.a.williams@usace.army.mil
+sustain_msc_technical_lead_name: Kirk Williams
 
-sustain_hq_usace_proponent_email: Eric.Mucklow@usace.army.mil
-sustain_hq_usace_proponent_name: Eric Mucklow
+sustain_hq_usace_proponent_email: edward.citzler@usace.army.mil
+sustain_hq_usace_proponent_name: Edward Citzler
 
 sustain_erdc_liaison_email: Stephen.D.Cosper@usace.army.mil
 sustain_erdc_liaison_name: Steve Cosper
