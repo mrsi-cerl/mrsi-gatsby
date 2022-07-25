@@ -11718,7 +11718,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "06/11/2021 09:22:41",
+"LastModified": "07/25/2022 14:33:50",
 "Key": "content/cos/swf/ssa/Library/Archive",
 "extension": "",
 "Size": ""
@@ -11739,14 +11739,14 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "04/02/2021 12:34:30",
+"LastModified": "07/25/2022 14:33:50",
 "Key": "content/cos/swf/ssa/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "04/14/2022 18:11:38",
+"LastModified": "07/25/2022 14:33:09",
 "Key": "content/cos/swf/ssa/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -11764,6 +11764,20 @@
 "Key": "content/cos/swf/ssa/Library/Archive/LCCAS.xlsx",
 "extension": ".xlsx",
 "Size": "36034"
+},
+{
+"name": "SSA LCCA REPORTS.pdf",
+"LastModified": "03/31/2021 16:16:58",
+"Key": "content/cos/swf/ssa/Library/Archive/SSA LCCA REPORTS.pdf",
+"extension": ".pdf",
+"Size": "1761689"
+},
+{
+"name": "SSA Programmatic VE Study Report.pdf",
+"LastModified": "07/21/2020 08:23:12",
+"Key": "content/cos/swf/ssa/Library/Archive/SSA Programmatic VE Study Report.pdf",
+"extension": ".pdf",
+"Size": "2126981"
 },
 {
 "name": "SUPERSEDED_DD 1391 SupplySptActWarehouse FY13.pdf",
@@ -11808,11 +11822,11 @@
 "Size": "9638"
 },
 {
-"name": "SSA LCCA REPORTS.pdf",
-"LastModified": "03/31/2021 16:16:58",
-"Key": "content/cos/swf/ssa/Library/Misc. Documents/SSA LCCA REPORTS.pdf",
+"name": "COS SSA-Combined Whole Building LCCA.pdf",
+"LastModified": "07/25/2022 10:17:22",
+"Key": "content/cos/swf/ssa/Library/Misc. Documents/COS SSA-Combined Whole Building LCCA.pdf",
 "extension": ".pdf",
-"Size": "1761689"
+"Size": "856486"
 },
 {
 "name": "SSA LEED v4 Checklist.pdf",
@@ -11820,13 +11834,6 @@
 "Key": "content/cos/swf/ssa/Library/Misc. Documents/SSA LEED v4 Checklist.pdf",
 "extension": ".pdf",
 "Size": "179409"
-},
-{
-"name": "SSA Programmatic VE Study Report.pdf",
-"LastModified": "07/21/2020 08:23:12",
-"Key": "content/cos/swf/ssa/Library/Misc. Documents/SSA Programmatic VE Study Report.pdf",
-"extension": ".pdf",
-"Size": "2126981"
 },
 {
 "name": "SSA Par 3 - Design Guidance.pdf",
@@ -11841,6 +11848,13 @@
 "Key": "content/cos/swf/ssa/Library/Standard Designs/SSA Warehouse Standard Design.pdf",
 "extension": ".pdf",
 "Size": "5651620"
+},
+{
+"name": "Standard Design Concept Site Plan.pdf",
+"LastModified": "07/25/2022 10:17:22",
+"Key": "content/cos/swf/ssa/Library/Standard Designs/Standard Design Concept Site Plan.pdf",
+"extension": ".pdf",
+"Size": "278671"
 },
 {
 "name": "Library",
@@ -15169,7 +15183,7 @@
 },
 {
 "name": "FY25 Guidance and Templates",
-"LastModified": "06/27/2022 15:13:03",
+"LastModified": "07/25/2022 14:35:49",
 "Key": "content/PDRS/Policy/FY25 Guidance and Templates",
 "extension": "",
 "Size": ""
@@ -16118,6 +16132,13 @@
 "Key": "content/PDRS/Policy/FY25 Guidance and Templates/1_Instructions for FY25 Army MILCON Code 2.pdf",
 "extension": ".pdf",
 "Size": "3301919"
+},
+{
+"name": "FY25 PDR Desktop Reference.pdf",
+"LastModified": "07/25/2022 09:42:18",
+"Key": "content/PDRS/Policy/FY25 Guidance and Templates/FY25 PDR Desktop Reference.pdf",
+"extension": ".pdf",
+"Size": "373742"
 },
 {
 "name": "CX-KR Documents",
