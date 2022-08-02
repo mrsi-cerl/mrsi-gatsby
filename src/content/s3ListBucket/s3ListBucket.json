@@ -4564,7 +4564,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:24:56",
+"LastModified": "08/02/2022 15:46:52",
 "Key": "content/cos/lrl/jc/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -4612,32 +4612,11 @@
 "Size": "270522"
 },
 {
-"name": "judicial-center_fy20.pdf",
-"LastModified": "08/08/2018 10:56:09",
-"Key": "content/cos/lrl/jc/Library/DD1391 Templates/judicial-center_fy20.pdf",
+"name": "Judicial_Center_wCourtroom_FY 22 20220729.pdf",
+"LastModified": "07/29/2022 11:37:00",
+"Key": "content/cos/lrl/jc/Library/DD1391 Templates/Judicial_Center_wCourtroom_FY 22 20220729.pdf",
 "extension": ".pdf",
-"Size": "19913"
-},
-{
-"name": "judicial_center_wcourtroom_fy21.pdf",
-"LastModified": "07/18/2019 06:37:32",
-"Key": "content/cos/lrl/jc/Library/DD1391 Templates/judicial_center_wcourtroom_fy21.pdf",
-"extension": ".pdf",
-"Size": "9421"
-},
-{
-"name": "judicial_cent_w_courtroom_fy18.pdf",
-"LastModified": "06/30/2016 13:21:22",
-"Key": "content/cos/lrl/jc/Library/DD1391 Templates/judicial_cent_w_courtroom_fy18.pdf",
-"extension": ".pdf",
-"Size": "9438"
-},
-{
-"name": "sample-dd1391-judicial-center-w-courtroom-fy19.pdf",
-"LastModified": "05/18/2017 13:33:23",
-"Key": "content/cos/lrl/jc/Library/DD1391 Templates/sample-dd1391-judicial-center-w-courtroom-fy19.pdf",
-"extension": ".pdf",
-"Size": "9430"
+"Size": "19430"
 },
 {
 "name": "LEED v4 Checklist-Judicial Center COS.XLSX",
@@ -4788,7 +4767,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:24:57",
+"LastModified": "08/02/2022 15:48:36",
 "Key": "content/cos/lrl/ortc/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -4829,60 +4808,11 @@
 "Size": "2662004"
 },
 {
-"name": "ortc-with-1428-pn-dfac_fy20.pdf",
-"LastModified": "08/08/2018 10:51:36",
-"Key": "content/cos/lrl/ortc/Library/DD1391 Templates/ortc-with-1428-pn-dfac_fy20.pdf",
+"name": "Operational_Readiness_Training_Complex_ORTC_FY22 20220729.pdf",
+"LastModified": "07/29/2022 11:37:00",
+"Key": "content/cos/lrl/ortc/Library/DD1391 Templates/Operational_Readiness_Training_Complex_ORTC_FY22 20220729.pdf",
 "extension": ".pdf",
-"Size": "24654"
-},
-{
-"name": "ortc-with-1428-pn-dfac_fy21.pdf",
-"LastModified": "07/18/2019 06:38:31",
-"Key": "content/cos/lrl/ortc/Library/DD1391 Templates/ortc-with-1428-pn-dfac_fy21.pdf",
-"extension": ".pdf",
-"Size": "13337"
-},
-{
-"name": "ortc-with-720-pn-dfac_fy20.pdf",
-"LastModified": "08/08/2018 10:51:30",
-"Key": "content/cos/lrl/ortc/Library/DD1391 Templates/ortc-with-720-pn-dfac_fy20.pdf",
-"extension": ".pdf",
-"Size": "24651"
-},
-{
-"name": "ortc-with-720-pn-dfac_fy21.pdf",
-"LastModified": "07/18/2019 06:38:31",
-"Key": "content/cos/lrl/ortc/Library/DD1391 Templates/ortc-with-720-pn-dfac_fy21.pdf",
-"extension": ".pdf",
-"Size": "13329"
-},
-{
-"name": "sample-dd1391-ortc-with-1428-pn-dfac-fy19.pdf",
-"LastModified": "05/18/2017 13:37:05",
-"Key": "content/cos/lrl/ortc/Library/DD1391 Templates/sample-dd1391-ortc-with-1428-pn-dfac-fy19.pdf",
-"extension": ".pdf",
-"Size": "13599"
-},
-{
-"name": "sample-dd1391-ortc-with-1428-pn-dfac_fy18.pdf",
-"LastModified": "06/30/2016 08:51:34",
-"Key": "content/cos/lrl/ortc/Library/DD1391 Templates/sample-dd1391-ortc-with-1428-pn-dfac_fy18.pdf",
-"extension": ".pdf",
-"Size": "13417"
-},
-{
-"name": "sample-dd1391-ortc-with-720-pn-dfac-fy19.pdf",
-"LastModified": "05/18/2017 13:37:14",
-"Key": "content/cos/lrl/ortc/Library/DD1391 Templates/sample-dd1391-ortc-with-720-pn-dfac-fy19.pdf",
-"extension": ".pdf",
-"Size": "13575"
-},
-{
-"name": "sample-dd1391-ortc-with-720-pn-dfac_fy18.pdf",
-"LastModified": "06/30/2016 08:51:33",
-"Key": "content/cos/lrl/ortc/Library/DD1391 Templates/sample-dd1391-ortc-with-720-pn-dfac_fy18.pdf",
-"extension": ".pdf",
-"Size": "13403"
+"Size": "20706"
 },
 {
 "name": "DFAC INTERIORS STANDARD.pdf",
@@ -9919,7 +9849,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:25:30",
+"LastModified": "08/02/2022 15:44:15",
 "Key": "content/cos/sas/bwf/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -9939,32 +9869,32 @@
 "Size": "252546"
 },
 {
-"name": "battifield-weather-spt-fac_large-detachment_fy21.pdf",
-"LastModified": "07/31/2019 15:11:09",
-"Key": "content/cos/sas/bwf/Library/DD1391 Templates/battifield-weather-spt-fac_large-detachment_fy21.pdf",
+"name": "Battlefield_Weather_Support_Facility_Large_Squadron_Forms_FY 22_20220720.pdf",
+"LastModified": "07/20/2022 09:56:00",
+"Key": "content/cos/sas/bwf/Library/DD1391 Templates/Battlefield_Weather_Support_Facility_Large_Squadron_Forms_FY 22_20220720.pdf",
 "extension": ".pdf",
-"Size": "11569"
+"Size": "32335"
 },
 {
-"name": "battifield-weather-spt-fac_large-squadron_fy21.pdf",
-"LastModified": "07/31/2019 15:11:28",
-"Key": "content/cos/sas/bwf/Library/DD1391 Templates/battifield-weather-spt-fac_large-squadron_fy21.pdf",
+"name": "Battlefield_Weather_Support_Facility_Small_Detachment_Forms_FY 22_20220720.pdf",
+"LastModified": "07/20/2022 09:56:00",
+"Key": "content/cos/sas/bwf/Library/DD1391 Templates/Battlefield_Weather_Support_Facility_Small_Detachment_Forms_FY 22_20220720.pdf",
 "extension": ".pdf",
-"Size": "11571"
+"Size": "32583"
 },
 {
-"name": "battifield-weather-spt-fac_small-squadron_fy21.pdf",
-"LastModified": "07/31/2019 15:12:07",
-"Key": "content/cos/sas/bwf/Library/DD1391 Templates/battifield-weather-spt-fac_small-squadron_fy21.pdf",
+"name": "Battlefield_Weather_Support_Facility_Small_Squadron_Forms_FY 22_20220720.pdf",
+"LastModified": "07/20/2022 09:56:00",
+"Key": "content/cos/sas/bwf/Library/DD1391 Templates/Battlefield_Weather_Support_Facility_Small_Squadron_Forms_FY 22_20220720.pdf",
 "extension": ".pdf",
-"Size": "11564"
+"Size": "32594"
 },
 {
-"name": "battlefield-weather-spt-fac_small-detachment_fy21.pdf",
-"LastModified": "07/31/2019 15:11:48",
-"Key": "content/cos/sas/bwf/Library/DD1391 Templates/battlefield-weather-spt-fac_small-detachment_fy21.pdf",
+"name": "Battlefiled_Weather_Support_Facility_Large_Detachment_Forms_FY 22_20220720.pdf",
+"LastModified": "07/20/2022 09:56:00",
+"Key": "content/cos/sas/bwf/Library/DD1391 Templates/Battlefiled_Weather_Support_Facility_Large_Detachment_Forms_FY 22_20220720.pdf",
 "extension": ".pdf",
-"Size": "11566"
+"Size": "40553"
 },
 {
 "name": "BWF_Std_Dgn-Rev_1.3.pdf",
@@ -10318,7 +10248,7 @@
 },
 {
 "name": "Library",
-"LastModified": "07/06/2022 10:29:09",
+"LastModified": "08/02/2022 15:42:56",
 "Key": "content/cos/sas/gpmf-lrc/Library",
 "extension": "",
 "Size": ""
@@ -10327,20 +10257,6 @@
 "name": "Army Standards",
 "LastModified": "07/06/2022 13:38:18",
 "Key": "content/cos/sas/gpmf-lrc/Library/Army Standards",
-"extension": "",
-"Size": ""
-},
-{
-"name": "DD1391 Templates",
-"LastModified": "07/06/2022 10:28:17",
-"Key": "content/cos/sas/gpmf-lrc/Library/DD1391 Templates",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Standard Designs",
-"LastModified": "07/06/2022 10:28:26",
-"Key": "content/cos/sas/gpmf-lrc/Library/Standard Designs",
 "extension": "",
 "Size": ""
 },
