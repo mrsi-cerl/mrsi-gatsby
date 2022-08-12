@@ -8,7 +8,7 @@ facility_long_name: Tactical Unmanned Aircraft Systems Maintenance Hangar
 facility_short_name: TUAS
 facility_technical_poc_email: john.j.wahlers@usace.army.mil
 facility_technical_poc_name: John Wahlers
-file_library_root_path: "content/cos/sam/uas/Library/"
+file_library_root_path: "content/cos/sam/tuas/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/sam/tuas/
 carousel_images:
