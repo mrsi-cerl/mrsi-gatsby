@@ -1,7 +1,7 @@
 ---
 doc_type: facility_page
 facility_category_codes:
-  - 21110 (11370, 11340, 21470, and 44222)
+  - 21110 (11370, 11340, 21470, 14179, and 44222)
 facility_cos_short_name: SAM
 facility_functional_proponent: DCS, G4
 facility_long_name: Fixed Wing Aviation Unit Aircraft Maintenance Hangar 
