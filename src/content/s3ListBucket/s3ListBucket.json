@@ -98,7 +98,7 @@
 },
 {
 "name": "sam",
-"LastModified": "08/12/2022 10:22:25",
+"LastModified": "08/12/2022 14:12:02",
 "Key": "content/cos/sam",
 "extension": "",
 "Size": ""
@@ -8588,6 +8588,20 @@
 "Size": ""
 },
 {
+"name": "tda",
+"LastModified": "08/12/2022 14:01:06",
+"Key": "content/cos/sam/tda",
+"extension": "",
+"Size": ""
+},
+{
+"name": "tdafw",
+"LastModified": "08/12/2022 14:07:44",
+"Key": "content/cos/sam/tdafw",
+"extension": "",
+"Size": ""
+},
+{
 "name": "trw",
 "LastModified": "10/01/2021 10:42:33",
 "Key": "content/cos/sam/trw",
@@ -8598,13 +8612,6 @@
 "name": "tuas",
 "LastModified": "08/12/2022 10:21:37",
 "Key": "content/cos/sam/tuas",
-"extension": "",
-"Size": ""
-},
-{
-"name": "uas",
-"LastModified": "09/25/2019 08:25:29",
-"Key": "content/cos/sam/uas",
 "extension": "",
 "Size": ""
 },
@@ -9219,6 +9226,48 @@
 },
 {
 "name": "Library",
+"LastModified": "08/12/2022 14:01:51",
+"Key": "content/cos/sam/tda/Library",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Army Standards",
+"LastModified": "08/12/2022 14:03:21",
+"Key": "content/cos/sam/tda/Library/Army Standards",
+"extension": "",
+"Size": ""
+},
+{
+"name": "TDA_Aviation_Unit_Army_Standard_2022-05-11.pdf",
+"LastModified": "08/12/2022 14:03:25",
+"Key": "content/cos/sam/tda/Library/Army Standards/TDA_Aviation_Unit_Army_Standard_2022-05-11.pdf",
+"extension": ".pdf",
+"Size": "957201"
+},
+{
+"name": "Library",
+"LastModified": "08/12/2022 14:07:45",
+"Key": "content/cos/sam/tdafw/Library",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Army Standards",
+"LastModified": "08/12/2022 14:13:25",
+"Key": "content/cos/sam/tdafw/Library/Army Standards",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Fixed_Wing_Aviation_Unit_Army_Standard_2022-05-11.pdf",
+"LastModified": "08/12/2022 14:13:16",
+"Key": "content/cos/sam/tdafw/Library/Army Standards/Fixed_Wing_Aviation_Unit_Army_Standard_2022-05-11.pdf",
+"extension": ".pdf",
+"Size": "685542"
+},
+{
+"name": "Library",
 "LastModified": "10/01/2021 10:43:19",
 "Key": "content/cos/sam/trw/Library",
 "extension": "",
@@ -9522,202 +9571,6 @@
 "name": "standard_design_uas_group3_drwgs.pdf",
 "LastModified": "07/29/2019 18:22:41",
 "Key": "content/cos/sam/tuas/Library/Standard Designs/standard_design_uas_group3_drwgs.pdf",
-"extension": ".pdf",
-"Size": "5731941"
-},
-{
-"name": "Library",
-"LastModified": "10/10/2019 13:44:40",
-"Key": "content/cos/sam/uas/Library",
-"extension": "",
-"Size": ""
-},
-{
-"name": "fbtx-hangar-2015.jpg",
-"LastModified": "04/20/2017 13:50:44",
-"Key": "content/cos/sam/uas/fbtx-hangar-2015.jpg",
-"extension": ".jpg",
-"Size": "442469"
-},
-{
-"name": "fdny-exterior-a.jpg",
-"LastModified": "07/09/2018 17:03:35",
-"Key": "content/cos/sam/uas/fdny-exterior-a.jpg",
-"extension": ".jpg",
-"Size": "1274992"
-},
-{
-"name": "fica-steelframe-d-2016.jpg",
-"LastModified": "02/24/2017 15:41:40",
-"Key": "content/cos/sam/uas/fica-steelframe-d-2016.jpg",
-"extension": ".jpg",
-"Size": "8900579"
-},
-{
-"name": "fort-irwin-uas-under-construction-1.jpg",
-"LastModified": "07/10/2018 09:38:13",
-"Key": "content/cos/sam/uas/fort-irwin-uas-under-construction-1.jpg",
-"extension": ".jpg",
-"Size": "2297852"
-},
-{
-"name": "fort-irwin-uas-under-construction.jpg",
-"LastModified": "07/10/2018 09:42:17",
-"Key": "content/cos/sam/uas/fort-irwin-uas-under-construction.jpg",
-"extension": ".jpg",
-"Size": "518385"
-},
-{
-"name": "frks-ext-hgrdr-a-2016.jpg",
-"LastModified": "02/24/2017 15:41:23",
-"Key": "content/cos/sam/uas/frks-ext-hgrdr-a-2016.jpg",
-"extension": ".jpg",
-"Size": "2828720"
-},
-{
-"name": "gray-eagle-hangar-fort-stewart_page_1.jpg",
-"LastModified": "07/10/2018 09:17:17",
-"Key": "content/cos/sam/uas/gray-eagle-hangar-fort-stewart_page_1.jpg",
-"extension": ".jpg",
-"Size": "272977"
-},
-{
-"name": "hangar-jan-ft-bliss.jpg",
-"LastModified": "07/10/2018 09:50:42",
-"Key": "content/cos/sam/uas/hangar-jan-ft-bliss.jpg",
-"extension": ".jpg",
-"Size": "508809"
-},
-{
-"name": "p8220001.jpg",
-"LastModified": "09/22/2016 10:00:39",
-"Key": "content/cos/sam/uas/p8220001.jpg",
-"extension": ".jpg",
-"Size": "2560094"
-},
-{
-"name": "UAS_Exterior_Aerial_Medium.jpg",
-"LastModified": "05/20/2015 15:45:52",
-"Key": "content/cos/sam/uas/UAS_Exterior_Aerial_Medium.jpg",
-"extension": ".jpg",
-"Size": "50545"
-},
-{
-"name": "UAS_Exterior_Entry_Medium.jpg",
-"LastModified": "05/20/2015 15:45:52",
-"Key": "content/cos/sam/uas/UAS_Exterior_Entry_Medium.jpg",
-"extension": ".jpg",
-"Size": "33763"
-},
-{
-"name": "UAS_Hangar.jpg",
-"LastModified": "05/20/2015 15:45:52",
-"Key": "content/cos/sam/uas/UAS_Hangar.jpg",
-"extension": ".jpg",
-"Size": "33947"
-},
-{
-"name": "unmanned-aircraft-systems-fort-hood.jpg",
-"LastModified": "07/10/2018 09:38:06",
-"Key": "content/cos/sam/uas/unmanned-aircraft-systems-fort-hood.jpg",
-"extension": ".jpg",
-"Size": "238543"
-},
-{
-"name": "Archive",
-"LastModified": "10/15/2019 13:26:21",
-"Key": "content/cos/sam/uas/Library/Archive",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Army Standards",
-"LastModified": "09/25/2019 08:25:29",
-"Key": "content/cos/sam/uas/Library/Army Standards",
-"extension": "",
-"Size": ""
-},
-{
-"name": "DD1391 Templates",
-"LastModified": "10/15/2019 13:26:21",
-"Key": "content/cos/sam/uas/Library/DD1391 Templates",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Misc. Documents",
-"LastModified": "09/25/2019 08:25:29",
-"Key": "content/cos/sam/uas/Library/Misc. Documents",
-"extension": ". Documents",
-"Size": ""
-},
-{
-"name": "Standard Designs",
-"LastModified": "10/10/2019 13:44:47",
-"Key": "content/cos/sam/uas/Library/Standard Designs",
-"extension": "",
-"Size": ""
-},
-{
-"name": "leed-v4-template_8-2019.xls",
-"LastModified": "09/04/2019 21:06:07",
-"Key": "content/cos/sam/uas/Library/leed-v4-template_8-2019.xls",
-"extension": ".xls",
-"Size": "154112"
-},
-{
-"name": "hangar_uas_maintenance_fy19.pdf",
-"LastModified": "06/05/2018 15:21:25",
-"Key": "content/cos/sam/uas/Library/Archive/hangar_uas_maintenance_fy19.pdf",
-"extension": ".pdf",
-"Size": "22281"
-},
-{
-"name": "standard_design_uas_group4_hangar 2 JUL 2018.pdf",
-"LastModified": "07/29/2019 18:27:24",
-"Key": "content/cos/sam/uas/Library/Archive/standard_design_uas_group4_hangar 2 JUL 2018.pdf",
-"extension": ".pdf",
-"Size": "5836879"
-},
-{
-"name": "Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
-"LastModified": "05/20/2015 15:45:48",
-"Key": "content/cos/sam/uas/Library/Army Standards/Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
-"extension": ".pdf",
-"Size": "1813826"
-},
-{
-"name": "uas-maintenance-hangar-dd1391-fy20.pdf",
-"LastModified": "07/09/2018 16:32:02",
-"Key": "content/cos/sam/uas/Library/DD1391 Templates/uas-maintenance-hangar-dd1391-fy20.pdf",
-"extension": ".pdf",
-"Size": "34054"
-},
-{
-"name": "uas_maintenance-hangar-dd1391_fy21.pdf",
-"LastModified": "09/04/2019 20:54:29",
-"Key": "content/cos/sam/uas/Library/DD1391 Templates/uas_maintenance-hangar-dd1391_fy21.pdf",
-"extension": ".pdf",
-"Size": "22306"
-},
-{
-"name": "UAS_Hangar_FFandE_List_Dated_Dec_2013.xlsx",
-"LastModified": "05/20/2015 15:45:50",
-"Key": "content/cos/sam/uas/Library/Misc. Documents/UAS_Hangar_FFandE_List_Dated_Dec_2013.xlsx",
-"extension": ".xlsx",
-"Size": "33311"
-},
-{
-"name": "Standard Design UAS Group 4 Hangar 1 OCT 19.pdf",
-"LastModified": "10/10/2019 13:42:23",
-"Key": "content/cos/sam/uas/Library/Standard Designs/Standard Design UAS Group 4 Hangar 1 OCT 19.pdf",
-"extension": ".pdf",
-"Size": "7798564"
-},
-{
-"name": "standard_design_uas_group3_drwgs.pdf",
-"LastModified": "07/29/2019 18:22:41",
-"Key": "content/cos/sam/uas/Library/Standard Designs/standard_design_uas_group3_drwgs.pdf",
 "extension": ".pdf",
 "Size": "5731941"
 },
