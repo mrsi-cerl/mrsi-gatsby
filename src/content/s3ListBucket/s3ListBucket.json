@@ -98,7 +98,7 @@
 },
 {
 "name": "sam",
-"LastModified": "10/01/2021 10:41:56",
+"LastModified": "08/12/2022 10:22:25",
 "Key": "content/cos/sam",
 "extension": "",
 "Size": ""
@@ -8595,6 +8595,13 @@
 "Size": ""
 },
 {
+"name": "tuas",
+"LastModified": "08/12/2022 10:21:37",
+"Key": "content/cos/sam/tuas",
+"extension": "",
+"Size": ""
+},
+{
 "name": "uas",
 "LastModified": "09/25/2019 08:25:29",
 "Key": "content/cos/sam/uas",
@@ -9321,6 +9328,202 @@
 "Key": "content/cos/sam/trw/Library/Standard Designs/2022-04-19 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
 "extension": ".pdf",
 "Size": "440366"
+},
+{
+"name": "Library",
+"LastModified": "10/10/2019 13:44:40",
+"Key": "content/cos/sam/tuas/Library",
+"extension": "",
+"Size": ""
+},
+{
+"name": "fbtx-hangar-2015.jpg",
+"LastModified": "04/20/2017 13:50:44",
+"Key": "content/cos/sam/tuas/fbtx-hangar-2015.jpg",
+"extension": ".jpg",
+"Size": "442469"
+},
+{
+"name": "fdny-exterior-a.jpg",
+"LastModified": "07/09/2018 17:03:35",
+"Key": "content/cos/sam/tuas/fdny-exterior-a.jpg",
+"extension": ".jpg",
+"Size": "1274992"
+},
+{
+"name": "fica-steelframe-d-2016.jpg",
+"LastModified": "02/24/2017 15:41:40",
+"Key": "content/cos/sam/tuas/fica-steelframe-d-2016.jpg",
+"extension": ".jpg",
+"Size": "8900579"
+},
+{
+"name": "fort-irwin-uas-under-construction-1.jpg",
+"LastModified": "07/10/2018 09:38:13",
+"Key": "content/cos/sam/tuas/fort-irwin-uas-under-construction-1.jpg",
+"extension": ".jpg",
+"Size": "2297852"
+},
+{
+"name": "fort-irwin-uas-under-construction.jpg",
+"LastModified": "07/10/2018 09:42:17",
+"Key": "content/cos/sam/tuas/fort-irwin-uas-under-construction.jpg",
+"extension": ".jpg",
+"Size": "518385"
+},
+{
+"name": "frks-ext-hgrdr-a-2016.jpg",
+"LastModified": "02/24/2017 15:41:23",
+"Key": "content/cos/sam/tuas/frks-ext-hgrdr-a-2016.jpg",
+"extension": ".jpg",
+"Size": "2828720"
+},
+{
+"name": "gray-eagle-hangar-fort-stewart_page_1.jpg",
+"LastModified": "07/10/2018 09:17:17",
+"Key": "content/cos/sam/tuas/gray-eagle-hangar-fort-stewart_page_1.jpg",
+"extension": ".jpg",
+"Size": "272977"
+},
+{
+"name": "hangar-jan-ft-bliss.jpg",
+"LastModified": "07/10/2018 09:50:42",
+"Key": "content/cos/sam/tuas/hangar-jan-ft-bliss.jpg",
+"extension": ".jpg",
+"Size": "508809"
+},
+{
+"name": "p8220001.jpg",
+"LastModified": "09/22/2016 10:00:39",
+"Key": "content/cos/sam/tuas/p8220001.jpg",
+"extension": ".jpg",
+"Size": "2560094"
+},
+{
+"name": "UAS_Exterior_Aerial_Medium.jpg",
+"LastModified": "05/20/2015 15:45:52",
+"Key": "content/cos/sam/tuas/UAS_Exterior_Aerial_Medium.jpg",
+"extension": ".jpg",
+"Size": "50545"
+},
+{
+"name": "UAS_Exterior_Entry_Medium.jpg",
+"LastModified": "05/20/2015 15:45:52",
+"Key": "content/cos/sam/tuas/UAS_Exterior_Entry_Medium.jpg",
+"extension": ".jpg",
+"Size": "33763"
+},
+{
+"name": "UAS_Hangar.jpg",
+"LastModified": "05/20/2015 15:45:52",
+"Key": "content/cos/sam/tuas/UAS_Hangar.jpg",
+"extension": ".jpg",
+"Size": "33947"
+},
+{
+"name": "unmanned-aircraft-systems-fort-hood.jpg",
+"LastModified": "07/10/2018 09:38:06",
+"Key": "content/cos/sam/tuas/unmanned-aircraft-systems-fort-hood.jpg",
+"extension": ".jpg",
+"Size": "238543"
+},
+{
+"name": "Archive",
+"LastModified": "10/15/2019 13:26:21",
+"Key": "content/cos/sam/tuas/Library/Archive",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Army Standards",
+"LastModified": "09/25/2019 08:25:29",
+"Key": "content/cos/sam/tuas/Library/Army Standards",
+"extension": "",
+"Size": ""
+},
+{
+"name": "DD1391 Templates",
+"LastModified": "10/15/2019 13:26:21",
+"Key": "content/cos/sam/tuas/Library/DD1391 Templates",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Misc. Documents",
+"LastModified": "09/25/2019 08:25:29",
+"Key": "content/cos/sam/tuas/Library/Misc. Documents",
+"extension": ". Documents",
+"Size": ""
+},
+{
+"name": "Standard Designs",
+"LastModified": "10/10/2019 13:44:47",
+"Key": "content/cos/sam/tuas/Library/Standard Designs",
+"extension": "",
+"Size": ""
+},
+{
+"name": "leed-v4-template_8-2019.xls",
+"LastModified": "09/04/2019 21:06:07",
+"Key": "content/cos/sam/tuas/Library/leed-v4-template_8-2019.xls",
+"extension": ".xls",
+"Size": "154112"
+},
+{
+"name": "hangar_uas_maintenance_fy19.pdf",
+"LastModified": "06/05/2018 15:21:25",
+"Key": "content/cos/sam/tuas/Library/Archive/hangar_uas_maintenance_fy19.pdf",
+"extension": ".pdf",
+"Size": "22281"
+},
+{
+"name": "standard_design_uas_group4_hangar 2 JUL 2018.pdf",
+"LastModified": "07/29/2019 18:27:24",
+"Key": "content/cos/sam/tuas/Library/Archive/standard_design_uas_group4_hangar 2 JUL 2018.pdf",
+"extension": ".pdf",
+"Size": "5836879"
+},
+{
+"name": "Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
+"LastModified": "05/20/2015 15:45:48",
+"Key": "content/cos/sam/tuas/Library/Army Standards/Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
+"extension": ".pdf",
+"Size": "1813826"
+},
+{
+"name": "uas-maintenance-hangar-dd1391-fy20.pdf",
+"LastModified": "07/09/2018 16:32:02",
+"Key": "content/cos/sam/tuas/Library/DD1391 Templates/uas-maintenance-hangar-dd1391-fy20.pdf",
+"extension": ".pdf",
+"Size": "34054"
+},
+{
+"name": "uas_maintenance-hangar-dd1391_fy21.pdf",
+"LastModified": "09/04/2019 20:54:29",
+"Key": "content/cos/sam/tuas/Library/DD1391 Templates/uas_maintenance-hangar-dd1391_fy21.pdf",
+"extension": ".pdf",
+"Size": "22306"
+},
+{
+"name": "UAS_Hangar_FFandE_List_Dated_Dec_2013.xlsx",
+"LastModified": "05/20/2015 15:45:50",
+"Key": "content/cos/sam/tuas/Library/Misc. Documents/UAS_Hangar_FFandE_List_Dated_Dec_2013.xlsx",
+"extension": ".xlsx",
+"Size": "33311"
+},
+{
+"name": "Standard Design UAS Group 4 Hangar 1 OCT 19.pdf",
+"LastModified": "10/10/2019 13:42:23",
+"Key": "content/cos/sam/tuas/Library/Standard Designs/Standard Design UAS Group 4 Hangar 1 OCT 19.pdf",
+"extension": ".pdf",
+"Size": "7798564"
+},
+{
+"name": "standard_design_uas_group3_drwgs.pdf",
+"LastModified": "07/29/2019 18:22:41",
+"Key": "content/cos/sam/tuas/Library/Standard Designs/standard_design_uas_group3_drwgs.pdf",
+"extension": ".pdf",
+"Size": "5731941"
 },
 {
 "name": "Library",
@@ -15092,7 +15295,7 @@
 },
 {
 "name": "FY24 Guidance and Templates",
-"LastModified": "02/02/2022 14:35:14",
+"LastModified": "08/12/2022 09:42:25",
 "Key": "content/PDRS/Policy/FY24 Guidance and Templates",
 "extension": "",
 "Size": ""
@@ -15945,9 +16148,9 @@
 "Size": "261137"
 },
 {
-"name": "Appdendix_H_7.5_ContingencyTable_Revised1FEB22.xlsx",
-"LastModified": "02/02/2022 14:18:19",
-"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appdendix_H_7.5_ContingencyTable_Revised1FEB22.xlsx",
+"name": "Appdendix H_7.5_ContingencyTable_Revised1FEB22.xlsx",
+"LastModified": "08/12/2022 09:40:28",
+"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appdendix H_7.5_ContingencyTable_Revised1FEB22.xlsx",
 "extension": ".xlsx",
 "Size": "24823"
 },
@@ -16002,7 +16205,7 @@
 },
 {
 "name": "Appendix G_FY24 District Certification Guidance.pdf",
-"LastModified": "02/02/2022 14:18:58",
+"LastModified": "08/12/2022 09:40:42",
 "Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix G_FY24 District Certification Guidance.pdf",
 "extension": ".pdf",
 "Size": "587624"
