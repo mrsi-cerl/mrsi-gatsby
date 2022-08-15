@@ -20,6 +20,7 @@ carousel_images:
   - /admin/images/uploads/img_4247.jpg
   - /admin/images/uploads/img_4284.jpg
   - /admin/images/uploads/module-view_fy14-aab-hangar-jblm.jpg
+draft: true
 ---
 
 ## NOTICE

@@ -19,6 +19,7 @@ carousel_images:
   - /admin/images/uploads/20150129_hp_asb_0867.jpg
   - /admin/images/uploads/20150129_hp_asb_0908.jpg
   - /admin/images/uploads/20150129_hp_asb_1312.jpg
+draft: true
 ---
 
 ## NOTICE
