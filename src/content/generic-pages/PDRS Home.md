@@ -13,7 +13,7 @@ file_library_root_path: content/PDRS/
 
 ## [FY25 Click here to start the new, browser-based PDRS Wizard](https://wizards.mrsi.erdc.dren.mil/).
 
-To access the new PDRS Wizard you will need to create a Login.gov account and sign into the new Wizard. Once this step is complete, please contact [Rachel M. Phillips](mailto:rachel.m.phillips@usace.army.mil) or [Amanda Weinert](mailto:amanda.h.weinert@usace.army.mil) for any questions regarding the PDRS Wizard or Code 2 process.
+To access the new PDRS Wizard you will need to use a Login.gov account with your official work email address. Once this step is complete, please contact [Rachel M. Phillips](mailto:rachel.m.phillips@usace.army.mil) or [Amanda Weinert](mailto:amanda.h.weinert@usace.army.mil) for project assignment and questions regarding the PDRS Wizard or Code 2 process.
 
 ## Policy and Guidance
 
