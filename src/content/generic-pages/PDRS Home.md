@@ -17,7 +17,9 @@ To access the new PDRS Wizard you will need to use a Login.gov account with your
 
 ## Policy and Guidance
 
-[Army MILCON Code 2 Design Process and Procedures](https://rfpwizard.mrsi.erdc.dren.mil/MRSI/content/PDRS/Policy/FY25%20Guidance%20and%20Templates/1_Instructions%20for%20FY25%20Army%20MILCON%20Code%202.pdf) provides guidance, outlines the Code 2 process milestones and instructions for submitting PDR, 3086, and 35% Design Certification deliverables.
+[Army MILCON Code 2 Design Process and Procedures](https://rfpwizard.mrsi.erdc.dren.mil/MRSI/content/PDRS/Policy/FY25%20Guidance%20and%20Templates/1_Instructions%20for%20FY25%20Army%20MILCON%20Code%202.pdf) provides guidance, outlines the Code 2 process milestones and instructions for submitting PDR, 3086, and 35% Design Certification deliverables. _Updated to include the ENG 3086 Instructions._
+
+The [ENG 3086 Instructions](https://rfpwizard.mrsi.erdc.dren.mil/MRSI/content/PDRS/Policy/FY25%20Guidance%20and%20Templates/Appendix%20F_FY25%20ENG%203086%20Instructions.pdf) have been published. Download them separately or as part of the updated Army MILCON Code 2 Design Process and Procedures document above.
 
 The [PDR Desktop Reference](https://rfpwizard.mrsi.erdc.dren.mil/MRSI/content/PDRS/Policy/FY25%20Guidance%20and%20Templates/FY25%20PDR%20Desktop%20Reference.pdf) is being provided so PDTs have a print of the sections and instructions for completion of the PDR for use outside the PDRS Wizard application. This is to be used as a guide during meetings and to inform the PDT on the information that will be required to complete the PDR in the PDRS Wizard application.
 
