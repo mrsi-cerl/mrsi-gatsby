@@ -10206,7 +10206,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:25:32",
+"LastModified": "08/30/2022 15:06:11",
 "Key": "content/cos/sas/cof/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -10268,18 +10268,18 @@
 "Size": "183962"
 },
 {
-"name": "cof-3-co-detached-admin-200-pn-_fy21.pdf",
-"LastModified": "07/31/2019 15:08:51",
-"Key": "content/cos/sas/cof/Library/DD1391 Templates/cof-3-co-detached-admin-200-pn-_fy21.pdf",
+"name": "Company_Operations_Facility_Co3_Detached 20220829.pdf",
+"LastModified": "08/30/2022 11:49:00",
+"Key": "content/cos/sas/cof/Library/DD1391 Templates/Company_Operations_Facility_Co3_Detached 20220829.pdf",
 "extension": ".pdf",
-"Size": "11866"
+"Size": "41529"
 },
 {
-"name": "cof-4-co-integrated-admin-199-pn-_fy21.pdf",
-"LastModified": "07/31/2019 15:09:13",
-"Key": "content/cos/sas/cof/Library/DD1391 Templates/cof-4-co-integrated-admin-199-pn-_fy21.pdf",
+"name": "Company_Operations_Facility_Co4_Integrated 20220829.pdf",
+"LastModified": "08/30/2022 11:49:00",
+"Key": "content/cos/sas/cof/Library/DD1391 Templates/Company_Operations_Facility_Co4_Integrated 20220829.pdf",
 "extension": ".pdf",
-"Size": "11932"
+"Size": "40013"
 },
 {
 "name": "COF Legacy Facilities Revit File.rvt",
