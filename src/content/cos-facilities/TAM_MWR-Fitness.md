@@ -7,8 +7,8 @@ facility_cos_short_name: TAM
 facility_functional_proponent: ""
 facility_long_name: MWR-Fitness
 facility_short_name: MWR-Fitness
-facility_technical_poc_email: Patricia.L.Torok@usace.army.mil
-facility_technical_poc_name: Tricia Torok
+facility_technical_poc_email: Ivelisse.Ayala@usace.army.mil
+facility_technical_poc_name: Evy Ayala
 file_library_root_path: "content/cos/tam/mwr-fitness/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/mwr-fitness/
