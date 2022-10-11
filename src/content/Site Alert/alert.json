@@ -1,7 +1,7 @@
 [
   {
     "startDate": "9:05  10/11/2022",
-    "endDate": "18:00  10/12/2022",
+    "endDate": "18:00  10/11/2022",
     "message": "Our applications are currently offline. The admin team is aware and are working to restore operations.",
     "level": "error",
     "title": "MRSI Wizard Outage"
