@@ -1,10 +1,10 @@
 [
   {
-    "startDate": "10:05  03/23/2019",
-    "endDate": "10:05  10/01/2019",
-    "message": "TESTING",
+    "startDate": "9:05  10/11/2022",
+    "endDate": "18:00  10/12/2022",
+    "message": "Our applications are currently offline. The admin team is aware and are working to restore operations.",
     "level": "error",
-    "title": "Error status"
+    "title": "MRSI Wizard Outage"
   },
   {
     "startDate": "15:26  03/23/2022",
