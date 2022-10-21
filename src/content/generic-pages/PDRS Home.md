@@ -6,14 +6,28 @@ file_library_root_path: content/PDRS/
 ---
 
 <div>
-  <div style="width: 128px; float: left; margin: 1em 2em 1em 0;">
+  <div style="width: 128px; float: left; margin: 1em 2em 2em 0;">
     <a href="https://wizards.mrsi.erdc.dren.mil/"><img src="/admin/images/uploads/mbp-wizard-256x256.png" alt="PDRS Wizard application"/></a>
+
   </div>
+
+  **[FY25 Click here to start the new, browser-based PDRS Wizard](https://wizards.mrsi.erdc.dren.mil/).**
+
 </div>
 
-## [FY25 Click here to start the new, browser-based PDRS Wizard](https://wizards.mrsi.erdc.dren.mil/).
+### To access the new PDRS Wizard
 
-To access the new PDRS Wizard you will need to use a Login.gov account with your official work email address. Once this step is complete, please contact [Rachel M. Phillips](mailto:rachel.m.phillips@usace.army.mil) or [Amanda Weinert](mailto:amanda.h.weinert@usace.army.mil) for project assignment and questions regarding the PDRS Wizard or Code 2 process.
+1. Create a [Login.gov](https://secure.login.gov/sign_up/enter_email) account _using your official work email account_.
+2. Log into the Wizard using the link above.
+3. Then email [Rachel M. Phillips](mailto:rachel.m.phillips@usace.army.mil) or [Amanda Weinert](mailto:amanda.h.weinert@usace.army.mil) for project assignment (or PDT Members that already have access to the project).
+
+<div style="clear: both">
+
+### Questions?
+- Questions about your project or the PDR, contact Rachel or Amanda.
+- Tech support for the MRSI Wizard, contact the [MRSI support team](mailto:mrsi_support@usace.army.mil)
+
+</div>
 
 ## Policy and Guidance
 
