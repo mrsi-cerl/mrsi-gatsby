@@ -8463,7 +8463,7 @@
 },
 {
 "name": "Archives",
-"LastModified": "03/05/2021 09:56:51",
+"LastModified": "10/31/2022 15:08:32",
 "Key": "content/cos/poh/toq/Library/Archives",
 "extension": "",
 "Size": ""
@@ -8477,7 +8477,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "04/28/2020 16:41:49",
+"LastModified": "10/31/2022 15:08:55",
 "Key": "content/cos/poh/toq/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -8495,6 +8495,13 @@
 "Key": "content/cos/poh/toq/Library/Standard Designs",
 "extension": "",
 "Size": ""
+},
+{
+"name": "ORTC_Transient_Officers_Quarters_FY21 DD1391.pdf",
+"LastModified": "04/28/2020 16:40:17",
+"Key": "content/cos/poh/toq/Library/Archives/ORTC_Transient_Officers_Quarters_FY21 DD1391.pdf",
+"extension": ".pdf",
+"Size": "11655"
 },
 {
 "name": "TOQ_ 11000-Par-3-rev 4.7_May2019.pdf",
@@ -8525,11 +8532,11 @@
 "Size": "2662004"
 },
 {
-"name": "ORTC_Transient_Officers_Quarters_FY21 DD1391.pdf",
-"LastModified": "04/28/2020 16:40:17",
-"Key": "content/cos/poh/toq/Library/DD1391 Templates/ORTC_Transient_Officers_Quarters_FY21 DD1391.pdf",
+"name": "Transient Officer Quarters-Operational Readiness Training Complex FY22.pdf",
+"LastModified": "10/27/2022 08:33:00",
+"Key": "content/cos/poh/toq/Library/DD1391 Templates/Transient Officer Quarters-Operational Readiness Training Complex FY22.pdf",
 "extension": ".pdf",
-"Size": "11655"
+"Size": "27332"
 },
 {
 "name": "Draft VE Report -ORTC_Transient Officers Quarters.pdf",
