@@ -5285,7 +5285,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "11/02/2022 10:42:55",
+"LastModified": "11/02/2022 10:43:04",
 "Key": "content/cos/nao/crxxi/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -17451,7 +17451,7 @@
 },
 {
 "name": "Design Tools",
-"LastModified": "09/26/2019 09:44:56",
+"LastModified": "11/04/2022 11:16:27",
 "Key": "content/sustain/CX-KR Documents/LID/Design Tools",
 "extension": "",
 "Size": ""
@@ -17686,6 +17686,13 @@
 "Key": "content/sustain/CX-KR Documents/LID/Design Tools/army-lid-planning-and-cost-tool_june2018.accdb",
 "extension": ".accdb",
 "Size": "28164096"
+},
+{
+"name": "army-lid-planning-and-cost-tool_june2018.zip",
+"LastModified": "11/04/2022 11:17:45",
+"Key": "content/sustain/CX-KR Documents/LID/Design Tools/army-lid-planning-and-cost-tool_june2018.zip",
+"extension": ".zip",
+"Size": "4774699"
 },
 {
 "name": "webinar-1_army-lid-planning-and-cost-tool-intro.mp4",
