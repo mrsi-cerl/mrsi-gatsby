@@ -1,6 +1,6 @@
 [ {
 "name": "content",
-"LastModified": "01/08/2021 09:56:38",
+"LastModified": "11/09/2022 09:54:09",
 "Key": "content",
 "extension": "",
 "Size": ""
@@ -11,6 +11,13 @@
 "Key": "about_this_folder.txt",
 "extension": ".txt",
 "Size": "314"
+},
+{
+"name": "coe",
+"LastModified": "11/09/2022 10:23:35",
+"Key": "content/coe",
+"extension": "",
+"Size": ""
 },
 {
 "name": "cos",
@@ -53,6 +60,363 @@
 "Key": "content/sustain",
 "extension": "",
 "Size": ""
+},
+{
+"name": "coe_home_page",
+"LastModified": "11/09/2022 09:54:35",
+"Key": "content/coe/coe_home_page",
+"extension": "",
+"Size": ""
+},
+{
+"name": "mcx",
+"LastModified": "11/09/2022 10:22:27",
+"Key": "content/coe/mcx",
+"extension": "",
+"Size": ""
+},
+{
+"name": "tcx",
+"LastModified": "11/09/2022 10:23:35",
+"Key": "content/coe/tcx",
+"extension": "",
+"Size": ""
+},
+{
+"name": "fp",
+"LastModified": "11/09/2022 10:26:01",
+"Key": "content/coe/tcx/fp",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Library",
+"LastModified": "11/09/2022 10:25:35",
+"Key": "content/coe/tcx/fp/Library",
+"extension": "",
+"Size": ""
+},
+{
+"name": "AIT Complex.JPG",
+"LastModified": "05/20/2015 15:46:42",
+"Key": "content/coe/tcx/fp/AIT Complex.JPG",
+"extension": ".JPG",
+"Size": "431380"
+},
+{
+"name": "Archives",
+"LastModified": "11/09/2022 10:25:14",
+"Key": "content/coe/tcx/fp/Library/Archives",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Army Standards",
+"LastModified": "11/09/2022 10:25:17",
+"Key": "content/coe/tcx/fp/Library/Army Standards",
+"extension": "",
+"Size": ""
+},
+{
+"name": "DD1391 Templates",
+"LastModified": "11/09/2022 10:25:21",
+"Key": "content/coe/tcx/fp/Library/DD1391 Templates",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Misc. Documents",
+"LastModified": "11/09/2022 10:25:32",
+"Key": "content/coe/tcx/fp/Library/Misc. Documents",
+"extension": ". Documents",
+"Size": ""
+},
+{
+"name": "Standard Designs",
+"LastModified": "11/09/2022 10:25:59",
+"Key": "content/coe/tcx/fp/Library/Standard Designs",
+"extension": "",
+"Size": ""
+},
+{
+"name": "1391 Template FY13 Advncd Individul Trn Cmplx-Dining 1300 PN.PDF",
+"LastModified": "05/20/2015 15:46:42",
+"Key": "content/coe/tcx/fp/Library/Archives/1391 Template FY13 Advncd Individul Trn Cmplx-Dining 1300 PN.PDF",
+"extension": ".PDF",
+"Size": "12449"
+},
+{
+"name": "1391 Template FY13 Advncd Individul Trn Cmplx-Dining 2600 PN.PDF",
+"LastModified": "05/20/2015 15:46:42",
+"Key": "content/coe/tcx/fp/Library/Archives/1391 Template FY13 Advncd Individul Trn Cmplx-Dining 2600 PN.PDF",
+"extension": ".PDF",
+"Size": "12448"
+},
+{
+"name": "1391_AIT_Complex_FY13.pdf",
+"LastModified": "05/20/2015 15:46:43",
+"Key": "content/coe/tcx/fp/Library/Archives/1391_AIT_Complex_FY13.pdf",
+"extension": ".pdf",
+"Size": "7579"
+},
+{
+"name": "AIT 3-STORY BCOF 11 x 17 Plot Sheet A102.pdf",
+"LastModified": "05/20/2015 15:46:43",
+"Key": "content/coe/tcx/fp/Library/Archives/AIT 3-STORY BCOF 11 x 17 Plot Sheet A102.pdf",
+"extension": ".pdf",
+"Size": "187057"
+},
+{
+"name": "AIT 3-STORY BCOF 11 x 17 Plot Sheet A201.pdf",
+"LastModified": "05/20/2015 15:46:43",
+"Key": "content/coe/tcx/fp/Library/Archives/AIT 3-STORY BCOF 11 x 17 Plot Sheet A201.pdf",
+"extension": ".pdf",
+"Size": "991701"
+},
+{
+"name": "AIT BCOF 11 x 17 Plot Sheet A101.pdf",
+"LastModified": "05/20/2015 15:46:43",
+"Key": "content/coe/tcx/fp/Library/Archives/AIT BCOF 11 x 17 Plot Sheet A101.pdf",
+"extension": ".pdf",
+"Size": "165624"
+},
+{
+"name": "AIT BCOF-1st Floor Plan.pdf",
+"LastModified": "05/20/2015 15:46:44",
+"Key": "content/coe/tcx/fp/Library/Archives/AIT BCOF-1st Floor Plan.pdf",
+"extension": ".pdf",
+"Size": "458224"
+},
+{
+"name": "AIT BCOF-2nd Floor Plan.pdf",
+"LastModified": "05/20/2015 15:46:44",
+"Key": "content/coe/tcx/fp/Library/Archives/AIT BCOF-2nd Floor Plan.pdf",
+"extension": ".pdf",
+"Size": "543770"
+},
+{
+"name": "AIT BCOF-Roof Plan.pdf",
+"LastModified": "05/20/2015 15:46:44",
+"Key": "content/coe/tcx/fp/Library/Archives/AIT BCOF-Roof Plan.pdf",
+"extension": ".pdf",
+"Size": "29256"
+},
+{
+"name": "AIT BNHQ 11 x 17 Plot Sheet A101 A-101 (1).pdf",
+"LastModified": "05/20/2015 15:46:44",
+"Key": "content/coe/tcx/fp/Library/Archives/AIT BNHQ 11 x 17 Plot Sheet A101 A-101 (1).pdf",
+"extension": ".pdf",
+"Size": "232545"
+},
+{
+"name": "AIT BNHQ 11 x 17 Plot Sheet A201 A-201 (1).pdf",
+"LastModified": "05/20/2015 15:46:45",
+"Key": "content/coe/tcx/fp/Library/Archives/AIT BNHQ 11 x 17 Plot Sheet A201 A-201 (1).pdf",
+"extension": ".pdf",
+"Size": "217283"
+},
+{
+"name": "AIT BNHQ 11 x 17 Plot Sheet A202 A-202 (1).pdf",
+"LastModified": "05/20/2015 15:46:45",
+"Key": "content/coe/tcx/fp/Library/Archives/AIT BNHQ 11 x 17 Plot Sheet A202 A-202 (1).pdf",
+"extension": ".pdf",
+"Size": "140032"
+},
+{
+"name": "AIT BNHQ 11 x 17 Plot Sheet A301 A-301 (1).pdf",
+"LastModified": "05/20/2015 15:46:45",
+"Key": "content/coe/tcx/fp/Library/Archives/AIT BNHQ 11 x 17 Plot Sheet A301 A-301 (1).pdf",
+"extension": ".pdf",
+"Size": "209206"
+},
+{
+"name": "AIT Complex (Dining Fac 1300 PN)_FY15.pdf",
+"LastModified": "05/20/2015 15:46:46",
+"Key": "content/coe/tcx/fp/Library/Archives/AIT Complex (Dining Fac 1300 PN)_FY15.pdf",
+"extension": ".pdf",
+"Size": "14405"
+},
+{
+"name": "AIT Complex (Dining Fac 2600 PN)_FY15.pdf",
+"LastModified": "05/20/2015 15:46:46",
+"Key": "content/coe/tcx/fp/Library/Archives/AIT Complex (Dining Fac 2600 PN)_FY15.pdf",
+"extension": ".pdf",
+"Size": "14409"
+},
+{
+"name": "AIT Complex - BCOF-Attic Plan.pdf",
+"LastModified": "05/20/2015 15:46:46",
+"Key": "content/coe/tcx/fp/Library/Archives/AIT Complex - BCOF-Attic Plan.pdf",
+"extension": ".pdf",
+"Size": "141608"
+},
+{
+"name": "AIT Complex.JPG",
+"LastModified": "05/20/2015 15:46:52",
+"Key": "content/coe/tcx/fp/Library/Archives/AIT Complex.JPG",
+"extension": ".JPG",
+"Size": "431380"
+},
+{
+"name": "ait-bim-presentation.pdf",
+"LastModified": "08/19/2015 11:01:07",
+"Key": "content/coe/tcx/fp/Library/Archives/ait-bim-presentation.pdf",
+"extension": ".pdf",
+"Size": "2302624"
+},
+{
+"name": "AIT_Standard_Design_-_B-COF_and_Site.pdf",
+"LastModified": "05/20/2015 15:46:46",
+"Key": "content/coe/tcx/fp/Library/Archives/AIT_Standard_Design_-_B-COF_and_Site.pdf",
+"extension": ".pdf",
+"Size": "1062998"
+},
+{
+"name": "superseded_ait-bnhq-website-floor-plan.pdf",
+"LastModified": "08/19/2015 10:56:47",
+"Key": "content/coe/tcx/fp/Library/Archives/superseded_ait-bnhq-website-floor-plan.pdf",
+"extension": ".pdf",
+"Size": "305505"
+},
+{
+"name": "AIT Complex Army Standard.pdf",
+"LastModified": "05/20/2015 15:46:47",
+"Key": "content/coe/tcx/fp/Library/Army Standards/AIT Complex Army Standard.pdf",
+"extension": ".pdf",
+"Size": "431270"
+},
+{
+"name": "ait-complex_1300-pn_fy21.pdf",
+"LastModified": "08/24/2019 13:24:41",
+"Key": "content/coe/tcx/fp/Library/DD1391 Templates/ait-complex_1300-pn_fy21.pdf",
+"extension": ".pdf",
+"Size": "14533"
+},
+{
+"name": "ait-complex_2600-pn_fy21.pdf",
+"LastModified": "08/24/2019 13:24:57",
+"Key": "content/coe/tcx/fp/Library/DD1391 Templates/ait-complex_2600-pn_fy21.pdf",
+"extension": ".pdf",
+"Size": "14534"
+},
+{
+"name": "AIT 5 Story Fly-Around Low Res.wmv",
+"LastModified": "05/20/2015 15:46:50",
+"Key": "content/coe/tcx/fp/Library/Misc. Documents/AIT 5 Story Fly-Around Low Res.wmv",
+"extension": ".wmv",
+"Size": "1373947"
+},
+{
+"name": "AIT LCCA Reports.pdf",
+"LastModified": "03/31/2021 15:28:38",
+"Key": "content/coe/tcx/fp/Library/Misc. Documents/AIT LCCA Reports.pdf",
+"extension": ".pdf",
+"Size": "3390426"
+},
+{
+"name": "AIT LEED v4 Checklist_April_2021.pdf",
+"LastModified": "03/31/2021 16:53:25",
+"Key": "content/coe/tcx/fp/Library/Misc. Documents/AIT LEED v4 Checklist_April_2021.pdf",
+"extension": ".pdf",
+"Size": "162039"
+},
+{
+"name": "AIT Programmatic VE Study.pdf",
+"LastModified": "03/31/2021 15:28:38",
+"Key": "content/coe/tcx/fp/Library/Misc. Documents/AIT Programmatic VE Study.pdf",
+"extension": ".pdf",
+"Size": "5698510"
+},
+{
+"name": "AIT Par-3 Design Guidance.pdf",
+"LastModified": "07/01/2020 08:33:42",
+"Key": "content/coe/tcx/fp/Library/Standard Designs/AIT Par-3 Design Guidance.pdf",
+"extension": ".pdf",
+"Size": "524690"
+},
+{
+"name": "ait-bcof-3-story-1st-floor-plan.pdf",
+"LastModified": "08/19/2015 11:06:18",
+"Key": "content/coe/tcx/fp/Library/Standard Designs/ait-bcof-3-story-1st-floor-plan.pdf",
+"extension": ".pdf",
+"Size": "439510"
+},
+{
+"name": "ait-bcof-3-story-2nd-floor-plan.pdf",
+"LastModified": "08/19/2015 11:06:18",
+"Key": "content/coe/tcx/fp/Library/Standard Designs/ait-bcof-3-story-2nd-floor-plan.pdf",
+"extension": ".pdf",
+"Size": "366846"
+},
+{
+"name": "ait-bcof-3-story-3rd-floor-plan.pdf",
+"LastModified": "08/19/2015 11:06:18",
+"Key": "content/coe/tcx/fp/Library/Standard Designs/ait-bcof-3-story-3rd-floor-plan.pdf",
+"extension": ".pdf",
+"Size": "389282"
+},
+{
+"name": "ait-bcof-3-story-birds-eye-perspective.pdf",
+"LastModified": "08/19/2015 11:06:18",
+"Key": "content/coe/tcx/fp/Library/Standard Designs/ait-bcof-3-story-birds-eye-perspective.pdf",
+"extension": ".pdf",
+"Size": "393195"
+},
+{
+"name": "ait-bcof-3-story-entrance-options.pdf",
+"LastModified": "08/19/2015 11:06:18",
+"Key": "content/coe/tcx/fp/Library/Standard Designs/ait-bcof-3-story-entrance-options.pdf",
+"extension": ".pdf",
+"Size": "266944"
+},
+{
+"name": "ait-bcof-3-story-main-elevations.pdf",
+"LastModified": "08/19/2015 11:06:18",
+"Key": "content/coe/tcx/fp/Library/Standard Designs/ait-bcof-3-story-main-elevations.pdf",
+"extension": ".pdf",
+"Size": "397120"
+},
+{
+"name": "ait-bcof-3-story-side-elevations.pdf",
+"LastModified": "08/19/2015 11:06:18",
+"Key": "content/coe/tcx/fp/Library/Standard Designs/ait-bcof-3-story-side-elevations.pdf",
+"extension": ".pdf",
+"Size": "212216"
+},
+{
+"name": "ait-bcof-standard-design-presentation.pdf",
+"LastModified": "08/19/2015 11:06:19",
+"Key": "content/coe/tcx/fp/Library/Standard Designs/ait-bcof-standard-design-presentation.pdf",
+"extension": ".pdf",
+"Size": "2013370"
+},
+{
+"name": "ait-bdhq-sample-set.pdf",
+"LastModified": "08/19/2015 11:06:18",
+"Key": "content/coe/tcx/fp/Library/Standard Designs/ait-bdhq-sample-set.pdf",
+"extension": ".pdf",
+"Size": "1168995"
+},
+{
+"name": "ait-bdhq-website-floor-plan.pdf",
+"LastModified": "08/19/2015 11:06:18",
+"Key": "content/coe/tcx/fp/Library/Standard Designs/ait-bdhq-website-floor-plan.pdf",
+"extension": ".pdf",
+"Size": "261337"
+},
+{
+"name": "ait-complex-bn-hq-floor-plans.pdf",
+"LastModified": "08/19/2015 11:06:18",
+"Key": "content/coe/tcx/fp/Library/Standard Designs/ait-complex-bn-hq-floor-plans.pdf",
+"extension": ".pdf",
+"Size": "543824"
+},
+{
+"name": "ait-complex-conceptual-facility-designs-20140901.pdf",
+"LastModified": "08/19/2015 11:06:19",
+"Key": "content/coe/tcx/fp/Library/Standard Designs/ait-complex-conceptual-facility-designs-20140901.pdf",
+"extension": ".pdf",
+"Size": "4490578"
 },
 {
 "name": "cos_home_page",
