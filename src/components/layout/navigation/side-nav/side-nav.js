@@ -80,6 +80,8 @@ function getSideNav(pages, path) {
   let currPage = ""
   if (path.includes("/cos")) {
     currPage = "COS"
+//  } else if (path.includes("/coe")) {
+//    currPage = "COE"
   } else if (path.includes("/crst")) {
     currPage = "CRST"
   } else if (path.includes("/model-rfp")) {
