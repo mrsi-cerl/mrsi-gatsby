@@ -1,13 +1,13 @@
 ---
 doc_type: center_page
-facility_category_codes:
+center_category_codes:
   - "72121"
-facility_cos_short_name: SWF
-facility_functional_proponent: G-3/5/7
-facility_long_name: Technical Center of Expertise for Aircraft Hangar Fire Protection
-facility_short_name: FP
-facility_technical_poc_email: Javier.A.Fano@usace.army.mil
-facility_technical_poc_name: Javier Fano
+center_cos_short_name: SWF
+center_functional_proponent: G-3/5/7
+center_long_name: Technical Center of Expertise for Aircraft Hangar Fire Protection
+center_short_name: FP
+center_technical_poc_email: Javier.A.Fano@usace.army.mil
+center_technical_poc_name: Javier Fano
 file_library_root_path: "content/coe/tcx/fp/Library/"
 page_last_reviewed: 1 January 1970
 slug: /coe/fp/
