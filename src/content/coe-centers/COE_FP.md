@@ -1,5 +1,5 @@
 ---
-doc_type: center_page
+doc_type: facilty_page
 facility_category_codes:
   - "72121"
 facility_cos_short_name: SWF
