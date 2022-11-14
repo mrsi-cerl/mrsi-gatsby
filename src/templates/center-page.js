@@ -38,7 +38,7 @@ export default ({ data, pageContext }) => {
       value: center.frontmatter.center_functional_proponent,
     },
     {
-      title: "Technical POC:",
+      title: "HQ POC:",
       value: (
         <a href={"mailto:" + center.frontmatter.center_technical_poc_email}>
           {center.frontmatter.center_technical_poc_name}
@@ -46,7 +46,7 @@ export default ({ data, pageContext }) => {
       ),
     },
     {
-      title: "COS Manager:",
+      title: "CX POC:",
       value: (
         <a
           href={
