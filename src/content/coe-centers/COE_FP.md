@@ -12,7 +12,7 @@ file_library_root_path: "content/coe/tcx/fp/Library/"
 page_last_reviewed: 1 January 1970
 slug: /coe/fp/
 carousel_images:
-  - /admin/images/uploads/Placeholder Picture.JPG
+  - /admin/images/uploads/Placeholder-Picture.JPG
 ---
 
 ## About
