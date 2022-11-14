@@ -4,27 +4,34 @@ facility_category_codes:
   - "72121"
 facility_cos_short_name: SWF
 facility_functional_proponent: G-3/5/7
-facility_long_name: Advanced Individual Training Complex
-facility_short_name: AIT
+facility_long_name: Technical Center of Expertise for Aircraft Hangar Fire Protection
+facility_short_name: FP
 facility_technical_poc_email: Javier.A.Fano@usace.army.mil
 facility_technical_poc_name: Javier Fano
 file_library_root_path: "content/coe/tcx/fp/Library/"
 page_last_reviewed: 1 January 1970
 slug: /coe/fp/
 carousel_images:
-  - /admin/images/uploads/AIT-Complex.JPG
+  - /admin/images/uploads/Placeholder Picture.JPG
 ---
 
-The AIT Complex provides living and training facilities for soldiers during their advanced individual training.
+## About
 
-## Description
+The **Aircraft Hangar Fire Protection Center** is capable of providing the following functions:
+ 1. Technical review of aircraft hangar designs performed by, or administered by USACE commands.
+ 2. Review of contractor submittals, including equipment data, shop drawings, and calculations applicable to fire protection systems.
+ 3. Assist USACE commands in conducting final acceptance testing of hangar fire protection systems.
+ 4. Provide consultation services for design, installation, testing, and maintenance of aircraft hangar fire protection systems.
+ 5. Develop technical guidance and guide specifications for hangar fire protection systems.
 
-Advanced Individual Training (AIT) complexes are required by the Army to encompass living, dining, training, and administrative/command operations. AIT Complexes are comprised of Barracks/Company Operations Facilities (B/COF), Dining Facility (DFAC), Battalion Headquarters (BNHQ), and Lawn Equipment Storage Buildings (LEB). These facilities, with outdoor training areas and any additional support facilities are arranged on the site as a unit to allow the battalion to live, eat, train, and work together. When multiple battalions are organized under a brigade, a Brigade Headquarters (BDE HQ) may also be programmed in the AIT Complex.
+## Section Heading
 
-B/COF is comprised of living quarters, toilets, multi-purpose rooms, storage, company operations and other support spaces. DFAC is comprised of delivery, storage, food preparation, cleaning, serving, and seated dining; field feeding components should be evaluated at the 1391 Charrette to determine if they will be a requirement for the proposed DFAC. BNHQ is comprised of administration, special functions, storage, and multi-purpose room components for personnel assigned to work in those facilities. BDE HQ is comprised of administrative and special function components for personnel assigned to work in those facilities. LEB provides storage for maintenance equipment and materials. The site includes a running track, physical training (PT) pits, vehicular and service access drives, and parking areas.
+Swine filet mignon id kielbasa, deserunt elit jowl fugiat porchetta cupim dolore ham hock labore short loin. Tail spare ribs turducken venison sunt excepteur dolore capicola jerky velit ea. Aute elit tempor chislic. Jowl nostrud turducken sirloin andouille, porchetta hamburger. Ribeye irure esse biltong frankfurter dolore exercitation sunt aute mollit drumstick. Pancetta ut duis salami bacon. Flank id cupidatat ea.
 
-## Variations
+Boudin aliquip sausage, tri-tip kielbasa reprehenderit sint in beef prosciutto qui nulla exercitation meatball shankle. Consequat ground round short ribs spare ribs, beef in meatball sausage sint pork nisi veniam deserunt excepteur. In velit aliqua hamburger pastrami ipsum picanha. Non eiusmod turkey, consequat lorem exercitation elit. Pork loin venison magna corned beef, labore incididunt qui. Alcatra ut nisi turducken.
 
-Standard Designs are site adapted as required for construction at each individual complex.
+## Another Section Heading
 
-Standard design documentation for the two DFAC configurations (1300PN and 2600PN) for this complex is provided on the Norfolk COS webpage.
+Sausage ball tip doner, labore brisket nostrud kielbasa tongue. Deserunt boudin labore ut, culpa nisi ea hamburger incididunt shankle cow frankfurter. Alcatra mollit drumstick veniam frankfurter shoulder. Quis fatback pork chop andouille shoulder in jerky sint pancetta. Pastrami flank filet mignon eiusmod meatloaf pork belly ut meatball.
+
+Meatloaf anim aliqua veniam chislic enim sed ex venison ipsum nulla pork chop sausage. Esse pariatur proident spare ribs drumstick jerky, andouille porchetta in mollit ipsum pastrami magna tri-tip. Ham hock rump cillum turkey veniam. Commodo laborum eiusmod chislic swine mollit elit ut andouille tempor ipsum ad labore.
