@@ -98,7 +98,7 @@
 },
 {
 "name": "fp",
-"LastModified": "11/09/2022 10:26:01",
+"LastModified": "11/14/2022 14:17:13",
 "Key": "content/coe/tcx/fp",
 "extension": "",
 "Size": ""
@@ -116,6 +116,13 @@
 "Key": "content/coe/tcx/fp/AIT Complex.JPG",
 "extension": ".JPG",
 "Size": "431380"
+},
+{
+"name": "Placeholder Picture.JPG",
+"LastModified": "11/14/2022 14:14:09",
+"Key": "content/coe/tcx/fp/Placeholder Picture.JPG",
+"extension": ".JPG",
+"Size": "1889622"
 },
 {
 "name": "Example File.pdf",
