@@ -16,21 +16,21 @@ function getData(slug, data) {
   const center = data.allMarkdownRemark.edges.filter(
     edge => edge.node.frontmatter.slug === slug
   )[0].node
-  // then find the cos associated with this facility
-  const cos = data.allMarkdownRemark.edges.filter(
+  // then find the cos associated with this center
+  const coe = data.allMarkdownRemark.edges.filter(
     edge =>
-      edge.node.frontmatter.cos_short_name ===
-      facility.frontmatter.center_cos_short_name
+      edge.node.frontmatter.coe_short_name ===
+      center.frontmatter.center_coe_short_name
   )[0].node
 
   return {
-    facility,
-    cos,
+    center,
+    coe,
   }
 }
 
 export default ({ data, pageContext }) => {
-  const { center, cos } = getData(pageContext.slug, data)
+  const { center, coe } = getData(pageContext.slug, data)
   // console.log(center)
   const tableData = [
     {
@@ -51,14 +51,14 @@ export default ({ data, pageContext }) => {
         <a
           href={
             "mailto:" +
-            (center.frontmatter.cos_manager_email
-              ? center.frontmatter.cos_manager_email
-              : cos.frontmatter.cos_manager_email)
+            (center.frontmatter.coe_manager_email
+              ? center.frontmatter.coe_manager_email
+              : coe.frontmatter.coe_manager_email)
           }
         >
-          {center.frontmatter.cos_manager_name
-            ? center.frontmatter.cos_manager_name
-            : cos.frontmatter.cos_manager_name}
+          {center.frontmatter.coe_manager_name
+            ? center.frontmatter.coe_manager_name
+            : coe.frontmatter.coe_manager_name}
         </a>
       ),
     },
@@ -85,7 +85,7 @@ export default ({ data, pageContext }) => {
           className={"md"}
           dangerouslySetInnerHTML={{ __html: center.html }}
         />
-        <Library rootDir={facility.frontmatter.file_library_root_path} />
+        <Library rootDir={center.frontmatter.file_library_root_path} />
       </div>
     </Layout>
   )
@@ -97,10 +97,6 @@ export const query = graphql`
       edges {
         node {
           frontmatter {
-            cos_long_name
-            cos_manager_email
-            cos_manager_name
-            cos_short_name
             center_long_name
             carousel_images
             center_short_name
@@ -112,7 +108,6 @@ export const query = graphql`
             center_technical_poc_email
             doc_type
             center_category_codes
-            center_cos_short_name
             center_functional_proponent
             center_technical_poc_name
             file_library_root_path

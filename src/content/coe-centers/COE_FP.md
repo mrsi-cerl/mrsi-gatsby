@@ -2,7 +2,6 @@
 doc_type: center_page
 center_category_codes:
   - "72121"
-center_cos_short_name: SWF
 center_functional_proponent: G-3/5/7
 center_long_name: Technical Center of Expertise for Aircraft Hangar Fire Protection
 center_short_name: FP
