@@ -35,32 +35,27 @@ export default ({ data, pageContext }) => {
   const tableData = [
     {
         title: "Name of Center:",
-        value: center.frontmatter.center_functional_proponent,
+        value: center.frontmatter.name_of_center,
     },
     {
         title: "Place of Center:",
-        value: center.frontmatter.center_functional_proponent,
+        value: center.frontmatter.place_of_center,
     },
     {
         title: "MCX or TCX:",
-        value: center.frontmatter.center_functional_proponent,
+        value: center.frontmatter.center_type,
     },
     {
         title: "Website:",
         value: (
-            <a
-              href={
-                "" +
-                (center.frontmatter.website)
-                }
-            >
-                {center.frontmatter.website}
-            </a>
-       ),
-    },
+          <a href={center.frontmatter.website} target="_blank" rel="noopener noreferrer">
+            {center.frontmatter.website}
+          </a>
+        )
+},
     {
         title: "Center POC:",
-        value: (center.frontmatter.center_poc_name),
+        value: center.frontmatter.center_poc_name,
     },
     {
         title: "Phone Number of Center POC:",
@@ -100,7 +95,7 @@ export default ({ data, pageContext }) => {
         value: center.frontmatter.recertification_date
     },
     {
-      title: "Functional Proponent:",
+      title: "Functional Proponent: (SES)",
       value: center.frontmatter.center_functional_proponent,
     },
   ]
@@ -146,7 +141,7 @@ export const query = graphql`
             mcx_er_number
             mcx_er_publication_date
             activation_date
-            recertification_date: 8-Mar-18
+            recertification_date
             center_functional_proponent
             file_library_root_path
             page_last_reviewed
