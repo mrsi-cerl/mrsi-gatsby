@@ -34,44 +34,81 @@ export default ({ data, pageContext }) => {
   // console.log(center)
   const tableData = [
     {
+        title: "Name of Center:",
+        value: center.frontmatter.center_functional_proponent,
+    },
+    {
+        title: "Place of Center:",
+        value: center.frontmatter.center_functional_proponent,
+    },
+    {
+        title: "MCX or TCX:",
+        value: center.frontmatter.center_functional_proponent,
+    },
+    {
+        title: "Website:",
+        value: (
+            <a
+              href={
+                "" +
+                (center.frontmatter.website)
+                }
+            >
+                {center.frontmatter.website}
+            </a>
+       ),
+    },
+    {
+        title: "Center POC:",
+        value: (center.frontmatter.center_poc_name),
+    },
+    {
+        title: "Phone Number of Center POC:",
+        value: (
+          <a
+            href={
+              "tel:" +
+              (center.frontmatter.center_poc_phone_number)
+            }
+          >
+            {center.frontmatter.center_poc_phone_number}
+          </a>
+        ),
+    },
+    {
+        title: "HQ POC:",
+        value: center.frontmatter.hq_poc_name,
+    },
+    {
+        title: "HQ Div:",
+        value: center.frontmatter.hq_division,
+    },
+    {
+        title: "ER Number (MCX only):",
+        value: center.frontmatter.mcx_er_number
+    },
+    {
+        title: "Publication Date of ER:",
+        value: center.frontmatter.mcx_er_publication_date
+    },
+    {
+        title: "Date of Activation:",
+        value: center.frontmatter.activation_date
+    },
+    {
+        title: "Recertification Date:",
+        value: center.frontmatter.recertification_date
+    },
+    {
       title: "Functional Proponent:",
       value: center.frontmatter.center_functional_proponent,
-    },
-    {
-      title: "HQ POC:",
-      value: (
-        <a href={"mailto:" + center.frontmatter.center_technical_poc_email}>
-          {center.frontmatter.center_technical_poc_name}
-        </a>
-      ),
-    },
-    {
-      title: "CX POC:",
-      value: (
-        <a
-          href={
-            "mailto:" +
-            (center.frontmatter.coe_manager_email
-              ? center.frontmatter.coe_manager_email
-              : coe.frontmatter.coe_manager_email)
-          }
-        >
-          {center.frontmatter.coe_manager_name
-            ? center.frontmatter.coe_manager_name
-            : coe.frontmatter.coe_manager_name}
-        </a>
-      ),
-    },
-    {
-      title: "Category Code(s):",
-      value: center.frontmatter.center_category_codes.join(", "),
     },
   ]
 
   return (
     <Layout path={pageContext.slug} MaxWidth={700} centerContent>
       <div style={{ paddingLeft: 20 }}>
-        <h1>{center.frontmatter.center_long_name}</h1>
+        <h1>{center.frontmatter.name_of_center}</h1>
         <div className="grid-row">
           <div className="tablet:grid-col">
             <Carousel imgs={center.frontmatter.carousel_images} />
@@ -97,22 +134,29 @@ export const query = graphql`
       edges {
         node {
           frontmatter {
-            center_long_name
-            carousel_images
-            center_short_name
-            related_links {
-              url
-              caption
-            }
-            title
-            center_technical_poc_email
             doc_type
-            center_category_codes
+            name_of_center
+            place_of_center
+            center_type
+            website
+            center_poc_name
+            center_poc_phone_number
+            hq_poc_name
+            hq_division
+            mcx_er_number
+            mcx_er_publication_date
+            activation_date
+            recertification_date: 8-Mar-18
             center_functional_proponent
-            center_technical_poc_name
             file_library_root_path
             page_last_reviewed
+            related_links {
+                url
+                caption
+            }
+            title
             slug
+            carousel_images
           }
           html
         }

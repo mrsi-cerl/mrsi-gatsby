@@ -1,12 +1,18 @@
 ---
 doc_type: center_page
-center_category_codes:
-  - "72121"
-center_functional_proponent: G-3/5/7
-center_long_name: Technical Center of Expertise for Aircraft Hangar Fire Protection
-center_short_name: FP
-center_technical_poc_email: Javier.A.Fano@usace.army.mil
-center_technical_poc_name: Javier Fano
+name_of_center: Aircraft Hangar Fire Protection
+place_of_center: TAM
+center_type: TCX
+website: "https://www.tam.usace.army.mil/Business-With-Us/Hangar-Fire-Protection/"
+center_poc_name: Samuel George
+center_poc_phone_number: 540-665-3632
+hq_poc_name: John Wilkus
+hq_division: E&C
+mcx_er_number: N/A
+mcx_er_publication_date: N/A
+activation_date: N/A
+recertification_date: 8-Mar-18
+center_functional_proponent: Pete Perez
 file_library_root_path: "content/coe/tcx/fp/Library/"
 page_last_reviewed: 1 January 1970
 slug: /coe/fp/
