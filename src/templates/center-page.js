@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout/layout"
 import Library from "../components/library/library"
@@ -7,7 +7,7 @@ import Carousel from "../components/mrsi-carousel"
 import MrsiTable from "../components/mrsi-table"
 
 function getData(slug, data) {
-  // find the cneter that matches this pages slug
+  // find the center that matches this pages slug
   const center = data.allMarkdownRemark.edges.filter(
     edge => edge.node.frontmatter.slug === slug
   )[0].node
@@ -18,7 +18,6 @@ function getData(slug, data) {
 }
 
 export default ({ data, pageContext }) => {
-  // const { center, coe } = getData(pageContext.slug, data);
   const { center } = getData(pageContext.slug, data);
   // console.log(center)
   const tableData = [
