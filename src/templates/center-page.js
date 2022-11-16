@@ -14,7 +14,7 @@ function getData(slug, data) {
 
   return {
     center
-  };
+  }
 }
 
 export default ({ data, pageContext }) => {
