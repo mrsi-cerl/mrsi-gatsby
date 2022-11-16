@@ -1,13 +1,8 @@
-import React from "react"
+import React from "react";
 import { graphql } from "gatsby"
 import Layout from "../components/layout/layout"
 import Library from "../components/library/library"
 import Carousel from "../components/mrsi-carousel"
-
-// import Card from "react-bootstrap/Card"
-// import Breadcrumb from "react-bootstrap/Breadcrumb"
-// import ListGroup from "react-bootstrap/ListGroup"
-// import Table from "react-bootstrap/Table"
 
 import MrsiTable from "../components/mrsi-table"
 
@@ -16,21 +11,15 @@ function getData(slug, data) {
   const center = data.allMarkdownRemark.edges.filter(
     edge => edge.node.frontmatter.slug === slug
   )[0].node
-  // then find the cos associated with this center
-  const coe = data.allMarkdownRemark.edges.filter(
-    edge =>
-      edge.node.frontmatter.coe_short_name ===
-      center.frontmatter.center_coe_short_name
-  )[0].node
 
   return {
-    center,
-    coe,
-  }
+    center
+  };
 }
 
 export default ({ data, pageContext }) => {
-  const { center, coe } = getData(pageContext.slug, data)
+  // const { center, coe } = getData(pageContext.slug, data);
+  const { center } = getData(pageContext.slug, data);
   // console.log(center)
   const tableData = [
     {
