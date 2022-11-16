@@ -2,7 +2,6 @@
 doc_type: facility_page
 facility_category_codes:
   - ""
-  - ""
 facility_cos_short_name: TAM
 facility_functional_proponent: ""
 facility_long_name: MWR-Fitness
