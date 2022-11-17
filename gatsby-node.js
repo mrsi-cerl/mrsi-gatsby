@@ -4,7 +4,7 @@ const path = require(`path`)
 const templates = {
   facility_page: path.resolve("./src/templates/facility-page.js"),
   coe_ctx_page: path.resolve("./src/templates/coe-ctx-page.js"),
-  coe_mtx_page: path.resolve("./src/templates/coe-mtx-page.js"),
+  coe_mcx_page: path.resolve("./src/templates/coe-mcx-page.js"),
   cos_page: path.resolve("./src/templates/cos-page.js"),
   coe_page: path.resolve("./src/templates/coe-page.js"),
   sustain_kr_page: path.resolve("./src/templates/sustain-kr-cx-page.js"),

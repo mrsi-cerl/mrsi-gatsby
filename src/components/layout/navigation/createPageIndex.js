@@ -190,11 +190,11 @@ function getSustainPages(data) {
 function getCenterPages(data) {
   const ctxPageData = getAllOfDocType(data, "coe_ctx_page").map(e => ({
     slug: e.node.frontmatter.slug,
-    caption: e.node.frontmatter.name_of_center + " CX",
+    caption: e.node.frontmatter.title,
   }))
   const mcxPageData = getAllOfDocType(data, "coe_mcx_page").map(e => ({
     slug: e.node.frontmatter.slug,
-    caption: e.node.frontmatter.name_of_center + " MCX",
+    caption: e.node.frontmatter.title,
   }))
 
   return {

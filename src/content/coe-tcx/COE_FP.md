@@ -1,5 +1,6 @@
 ---
 doc_type: coe_ctx_page
+title: Aircraft Hangar Fire Protection
 name_of_center: Aircraft Hangar Fire Protection
 place_of_center: TAM
 center_type: TCX
