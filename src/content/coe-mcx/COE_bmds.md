@@ -1,5 +1,5 @@
 ---
-doc_type: coe_mtx_page
+doc_type: coe_mcx_page
 name_of_center: Ballistic Missile Defense System Program
 place_of_center: HNC
 center_type: MCX
