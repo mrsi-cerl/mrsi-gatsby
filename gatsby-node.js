@@ -3,7 +3,8 @@ const path = require(`path`)
 // holds a mapping from doc_type -> template
 const templates = {
   facility_page: path.resolve("./src/templates/facility-page.js"),
-  center_page: path.resolve("./src/templates/center-page.js"),
+  coe_ctx_page: path.resolve("./src/templates/coe-ctx-page.js"),
+  coe_mtx_page: path.resolve("./src/templates/coe-mtx-page.js"),
   cos_page: path.resolve("./src/templates/cos-page.js"),
   coe_page: path.resolve("./src/templates/coe-page.js"),
   sustain_kr_page: path.resolve("./src/templates/sustain-kr-cx-page.js"),

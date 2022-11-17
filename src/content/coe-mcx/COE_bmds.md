@@ -1,5 +1,5 @@
 ---
-doc_type: center_page
+doc_type: coe_mtx_page
 name_of_center: Ballistic Missile Defense System Program
 place_of_center: HNC
 center_type: MCX
@@ -15,7 +15,7 @@ recertification_date: 10-Nov-21
 center_functional_proponent: Stacey Hirata and Pete Perez
 file_library_root_path: "content/coe/mcx/bmds/Library/"
 page_last_reviewed: 1 January 1970
-slug: /coe/bmds
+slug: /coe/mcx/bmds/
 carousel_images:
   - /admin/images/uploads/Placeholder-Picture.JPG
 ---

@@ -1,5 +1,5 @@
 ---
-doc_type: center_page
+doc_type: coe_ctx_page
 name_of_center: Aircraft Hangar Fire Protection
 place_of_center: TAM
 center_type: TCX
@@ -15,7 +15,7 @@ recertification_date: 8-Mar-18
 center_functional_proponent: Pete Perez
 file_library_root_path: "content/coe/tcx/fp/Library/"
 page_last_reviewed: 1 January 1970
-slug: /coe/fp
+slug: /coe/tcx/fp/
 carousel_images:
   - /admin/images/uploads/Placeholder-Picture.JPG
 ---

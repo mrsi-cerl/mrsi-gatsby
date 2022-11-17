@@ -176,14 +176,30 @@ function getSustainPages(data) {
   }
 }
 
-function getCOEPages(data) {
-  const centerPageData = getAllOfDocType(data, "center_page").map(e => ({
+// function getCenterPages(data) {
+//   const centerPageData = getAllOfDocType(data, "center_page").map(e => ({
+//     slug: e.node.frontmatter.slug,
+//     caption: e.node.frontmatter.name_of_center,
+//   }))
+
+//   return {
+//     centerPageData
+//   }
+// }
+
+function getCenterPages(data) {
+  const ctxPageData = getAllOfDocType(data, "coe_ctx_page").map(e => ({
     slug: e.node.frontmatter.slug,
     caption: e.node.frontmatter.name_of_center,
   }))
+  const mcxPageData = getAllOfDocType(data, "coe_mcx_page").map(e => ({
+    slug: e.node.frontmatter.slug,
+    caption: e.node.frontmatter.title,
+  }))
 
   return {
-    centerPageData
+    ctxPageData,
+    mcxPageData,
   }
 }
 
@@ -192,12 +208,19 @@ function getPages(data, currSlug) {
   const cosPages = getCOSPages(data)
   allPages.COS = allPages.COS.concat(cosPages)
   const sustainPages = getSustainPages(data)
-  const coePages = getCOEPages(data)
-  const centerPages = {
+  const coePages = getCenterPages(data)
+  const ctxPages = {
     caption: "Centers of Expertise",
-    slug: "/coe",
-    children: coePages.centerPageData,
+    slug: "/coe/tcx",
+    children: coePages.ctxPageData,
   }
+  const mcxPages = {
+    caption: "Mandatory Centers of Expertise",
+    slug: "/coe/mcx",
+    children: coePages.mcxPageData,
+  }
+  allPages.COE.splice(2, 0, ctxPages)
+  allPages.COE.splice(2, 0, mcxPages)
   const cxPages = {
     caption: "Subject Matter Areas",
     slug: "/sustain/cx",
@@ -208,8 +231,6 @@ function getPages(data, currSlug) {
     slug: "/sustain/kr",
     children: sustainPages.krPageData,
   }
-
-  allPages.COE.splice(2, 0, centerPages)
   allPages.SUSTAIN.splice(2, 0, krPages)
   allPages.SUSTAIN.splice(2, 0, cxPages)
 
