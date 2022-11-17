@@ -1,33 +1,28 @@
 ---
 doc_type: center_page
-name_of_center: Aircraft Hangar Fire Protection
-place_of_center: TAM
-center_type: TCX
-website: "https://www.tam.usace.army.mil/Business-With-Us/Hangar-Fire-Protection/"
-center_poc_name: Samuel George
-center_poc_phone_number: 540-665-3632
-hq_poc_name: John Wilkus
-hq_division: E&C
-mcx_er_number: N/A
-mcx_er_publication_date: N/A
-activation_date: N/A
-recertification_date: 8-Mar-18
-center_functional_proponent: Pete Perez
-file_library_root_path: "content/coe/tcx/fp/Library/"
+name_of_center: Ballistic Missile Defense System Program
+place_of_center: HNC
+center_type: MCX
+website: "https://www.hnc.usace.army.mil/Media/Fact-Sheets/Fact-Sheet-Article-View/Article/622664/ballistic-missile-defense/"
+center_poc_name: Jeff Watts Chief, Missile Defense MCX
+center_poc_phone_number: 256-895-1945
+hq_poc_name: MP - Facundo Funes; EC - Scott Wick
+hq_division: MP (EC identified in ER)
+mcx_er_number: ER 1110-2-8163
+mcx_er_publication_date: 30-Sept-16
+activation_date: 1-Jan-67
+recertification_date: 10-Nov-21
+center_functional_proponent: Stacey Hirata and Pete Perez
+file_library_root_path: "content/coe/mcx/bmd/Library/"
 page_last_reviewed: 1 January 1970
-slug: /coe/fp
+slug: /coe/bmds
 carousel_images:
   - /admin/images/uploads/Placeholder-Picture.JPG
 ---
 
 ## About
 
-The **Aircraft Hangar Fire Protection Center** is capable of providing the following functions:
- 1. Technical review of aircraft hangar designs performed by, or administered by USACE commands.
- 2. Review of contractor submittals, including equipment data, shop drawings, and calculations applicable to fire protection systems.
- 3. Assist USACE commands in conducting final acceptance testing of hangar fire protection systems.
- 4. Provide consultation services for design, installation, testing, and maintenance of aircraft hangar fire protection systems.
- 5. Develop technical guidance and guide specifications for hangar fire protection systems.
+The **Ballistic Missile Defense Systems (BMDS) MCX**, established per ER 1110-2-8163 (30 Sep 2016), provides expert ballistic missile defense system support services to all HQUSACE elements, divisions, districts, laboratories, field operations, Missile Defense Agency (MDA), and other DOD agencies. 
 
 ## Section Heading
 

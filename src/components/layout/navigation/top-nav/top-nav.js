@@ -5,6 +5,7 @@ import styles from "./top-nav.module.css"
 
 const TopNav = ({ path }) => {
   const prefix = ""
+  const coe = path.startsWith(prefix + "/coe")
   const cos = path.startsWith(prefix + "/cos")
   const crst = path.startsWith(prefix + "/crst")
   const modelrfp = path.startsWith(prefix + "/model-rfp")
@@ -14,6 +15,13 @@ const TopNav = ({ path }) => {
   return (
     <nav className={cx(styles.nav, "site-nav-secondary")}>
       <ul>
+      <li
+          className={cx(styles.item, "usa-nav__submenu-item", {
+            [styles.current]: coe,
+          })}
+        >
+          <Link to="/coe">COE</Link>
+        </li>
         <li
           className={cx(styles.item, "usa-nav__submenu-item", {
             [styles.current]: cos,

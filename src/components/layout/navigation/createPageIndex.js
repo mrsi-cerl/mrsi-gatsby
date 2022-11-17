@@ -1,4 +1,10 @@
 const pages = {
+  COE: [
+    {
+      caption: "About COE",
+      slug: "/coe/",
+    },
+  ],
   COS: [
     {
       caption: "About COS",
@@ -27,12 +33,12 @@ const pages = {
   ],
   CRST: [
     {
-      slug: "/crst/",
-      caption: "About CRST",
-    },
-    {
       caption: "Subject Matter Experts",
       slug: "/crst/subject-matter-experts",
+    },
+    {
+      slug: "/crst/",
+      caption: "About CRST",
     },
   ],
   MODELRFP: [
@@ -170,12 +176,28 @@ function getSustainPages(data) {
   }
 }
 
+function getCOEPages(data) {
+  const centerPageData = getAllOfDocType(data, "center_page").map(e => ({
+    slug: e.node.frontmatter.slug,
+    caption: e.node.frontmatter.name_of_center,
+  }))
+
+  return {
+    centerPageData
+  }
+}
+
 function getPages(data, currSlug) {
   const allPages = JSON.parse(JSON.stringify(pages))
   const cosPages = getCOSPages(data)
   allPages.COS = allPages.COS.concat(cosPages)
   const sustainPages = getSustainPages(data)
-
+  const coePages = getCOEPages(data)
+  const centerPages = {
+    caption: "Centers of Expertise",
+    slug: "/coe",
+    children: coePages.centerPageData,
+  }
   const cxPages = {
     caption: "Subject Matter Areas",
     slug: "/sustain/cx",
@@ -187,6 +209,7 @@ function getPages(data, currSlug) {
     children: sustainPages.krPageData,
   }
 
+  allPages.COE.splice(2, 0, centerPages)
   allPages.SUSTAIN.splice(2, 0, krPages)
   allPages.SUSTAIN.splice(2, 0, cxPages)
 
