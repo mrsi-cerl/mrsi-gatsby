@@ -13,7 +13,7 @@ mcx_er_publication_date: 30-Sept-16
 activation_date: 1-Jan-67
 recertification_date: 10-Nov-21
 center_functional_proponent: Stacey Hirata and Pete Perez
-file_library_root_path: "content/coe/mcx/bmd/Library/"
+file_library_root_path: "content/coe/mcx/bmds/Library/"
 page_last_reviewed: 1 January 1970
 slug: /coe/bmds
 carousel_images:
