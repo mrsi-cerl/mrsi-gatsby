@@ -15,47 +15,47 @@ const TopNav = ({ path }) => {
   return (
     <nav className={cx(styles.nav, "site-nav-secondary")}>
       <ul>
-      <li
-          className={cx(styles.item, "usa-nav__submenu-item", {
-            [styles.current]: coe,
-          })}
-        >
-          <Link to="/coe">COE</Link>
-        </li>
         <li
           className={cx(styles.item, "usa-nav__submenu-item", {
             [styles.current]: cos,
           })}
         >
-          <Link to="/cos">COS</Link>
+          <Link to="/cos" title="Centers of Standardization">COS</Link>
         </li>
         <li
           className={cx(styles.item, "usa-nav__submenu-item", {
             [styles.current]: crst,
           })}
         >
-          <Link to="/crst">CRST</Link>
+          <Link to="/crst" title="Combat Readiness Support Team">CRST</Link>
+        </li>
+        <li
+          className={cx(styles.item, "usa-nav__submenu-item", {
+            [styles.current]: coe,
+          })}
+        >
+          <Link to="/coe" title="Centers of Expertise">CX</Link>
         </li>
         <li
           className={cx(styles.item, "usa-nav__submenu-item", {
             [styles.current]: modelrfp,
           })}
         >
-          <Link to="/model-rfp">Model RFP</Link>
+          <Link to="/model-rfp" title="Model Request for Proposal">Model RFP</Link>
         </li>
         <li
           className={cx(styles.item, "usa-nav__submenu-item", {
             [styles.current]: pdrs,
           })}
         >
-          <Link to="/pdrs">PDRS</Link>
+          <Link to="/pdrs" title="Parametric Design Report System">PDRS</Link>
         </li>
         <li
           className={cx(styles.item, "usa-nav__submenu-item", {
             [styles.current]: sustain,
           })}
         >
-          <Link to="/sustain">Sustainability</Link>
+          <Link to="/sustain" title="Engineering & Construction Sustainability CX">Sustainability</Link>
         </li>
         <li>
           <form
