@@ -176,18 +176,9 @@ function getSustainPages(data) {
   }
 }
 
-// function getCenterPages(data) {
-//   const centerPageData = getAllOfDocType(data, "center_page").map(e => ({
-//     slug: e.node.frontmatter.slug,
-//     caption: e.node.frontmatter.name_of_center,
-//   }))
-
-//   return {
-//     centerPageData
-//   }
-// }
-
 function getCenterPages(data) {
+  //caption: below MUST be frontmatter.title (not, for example, frontmatter.name_of_center) for
+  //some reason. If any other frontmatter is used, the text in the accordian menus is undefined.
   const ctxPageData = getAllOfDocType(data, "coe_ctx_page").map(e => ({
     slug: e.node.frontmatter.slug,
     caption: e.node.frontmatter.title,
@@ -205,9 +196,10 @@ function getCenterPages(data) {
 
 function getPages(data, currSlug) {
   const allPages = JSON.parse(JSON.stringify(pages))
+
   const cosPages = getCOSPages(data)
   allPages.COS = allPages.COS.concat(cosPages)
-  const sustainPages = getSustainPages(data)
+  
   const coePages = getCenterPages(data)
   const ctxPages = {
     caption: "Centers of Expertise",
@@ -221,6 +213,8 @@ function getPages(data, currSlug) {
   }
   allPages.COE.splice(2, 0, ctxPages)
   allPages.COE.splice(2, 0, mcxPages)
+
+  const sustainPages = getSustainPages(data)
   const cxPages = {
     caption: "Subject Matter Areas",
     slug: "/sustain/cx",
