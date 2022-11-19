@@ -6,7 +6,7 @@ import Layout from "../components/layout/layout"
 import cosIcon from "../images/cos-icon.svg"
 import pdrsIcon from "../images/pdrs-icon.svg"
 import rfpIcon from "../images/wizard-icon.svg"
-import sustainIcon from "../images/sustain-icon.svg"
+//import sustainIcon from "../images/sustain-icon.svg"
 
 const iconStyle = {
   marginBottom: ".5rem",
@@ -41,7 +41,7 @@ const IndexPage = () => (
     </section>
     <section className="usa-section usa-graphic-list grid-container">
       <div className="grid-row grid-gap">
-        <div className="desktop:grid-col-3 tablet:grid-col-6 usa-media-block margin-bottom-3 desktop:margin-bottom-0">
+        <div className="desktop:grid-col-4 tablet:grid-col-7 usa-media-block margin-bottom-3 desktop:margin-bottom-0">
           <img
             className="usa-media-block__img"
             style={iconStyle}
@@ -62,7 +62,7 @@ const IndexPage = () => (
             </p>
           </div>
         </div>
-        <div className="desktop:grid-col-3 tablet:grid-col-6 usa-media-block margin-bottom-3 desktop:margin-bottom-0">
+        <div className="desktop:grid-col-4 tablet:grid-col-7 usa-media-block margin-bottom-3 desktop:margin-bottom-0">
           <img
             className="usa-media-block__img"
             style={iconStyle}
@@ -83,7 +83,7 @@ const IndexPage = () => (
             </p>
           </div>
         </div>
-        <div className="desktop:grid-col-3 tablet:grid-col-6 usa-media-block margin-bottom-3 desktop:margin-bottom-0">
+        <div className="desktop:grid-col-4 tablet:grid-col-7 usa-media-block margin-bottom-3 desktop:margin-bottom-0">
           <img
             className="usa-media-block__img"
             style={iconStyle}
@@ -99,30 +99,9 @@ const IndexPage = () => (
               latest policies, regulations, and best practices; improves
               quality; and reduces the time required to develop RFP.
             </p>
-
+            
             <p>
               <Link to="/model-rfp/">View the Wizards</Link>
-            </p>
-          </div>
-        </div>
-        <div className="desktop:grid-col-3 tablet:grid-col-6 usa-media-block margin-bottom-3 desktop:margin-bottom-0">
-          <img
-            className="usa-media-block__img"
-            style={iconStyle}
-            src={sustainIcon}
-            alt=""
-          />
-          <div className="usa-media-block__body">
-            <h3>Sustainability</h3>
-            <p>
-              The Engineering and Construction Sustainability team is an expert
-              in sustainability. They are an active community with a passion for
-              producing innovative and creative solutions for sustainable design
-              and construction.
-            </p>
-
-            <p>
-              <Link to="/sustain/">Browse Sustainability</Link>
             </p>
           </div>
         </div>

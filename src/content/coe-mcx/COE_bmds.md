@@ -6,19 +6,17 @@ place_of_center: HNC
 center_type: MCX
 website: "https://www.hnc.usace.army.mil/Media/Fact-Sheets/Fact-Sheet-Article-View/Article/622664/ballistic-missile-defense/"
 center_poc_name: Jeff Watts Chief, Missile Defense MCX
-center_poc_phone_number: 256-895-1945
+center_poc_phone_number: (256) 895-1945
 hq_poc_name: MP - Facundo Funes; EC - Scott Wick
 hq_division: MP (EC identified in ER)
 mcx_er_number: ER 1110-2-8163
-mcx_er_publication_date: 30-Sept-16
-activation_date: 1-Jan-67
-recertification_date: 10-Nov-21
+mcx_er_publication_date: 30 Sept 2016
+activation_date: 1 Jan 1967
+recertification_date: 10 Nov 2021
 center_functional_proponent: Stacey Hirata and Pete Perez
 file_library_root_path: "content/coe/mcx/bmds/Library/"
 page_last_reviewed: 1 January 1970
 slug: /coe/mcx/bmds/
-carousel_images:
-  - /admin/images/uploads/Placeholder-Picture.JPG
 ---
 
 ## About

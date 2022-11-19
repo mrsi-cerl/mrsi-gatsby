@@ -6,19 +6,17 @@ place_of_center: TAM
 center_type: TCX
 website: "https://www.tam.usace.army.mil/Business-With-Us/Hangar-Fire-Protection/"
 center_poc_name: Samuel George
-center_poc_phone_number: 540-665-3632
+center_poc_phone_number: (540) 665-3632
 hq_poc_name: John Wilkus
 hq_division: E&C
 mcx_er_number: N/A
 mcx_er_publication_date: N/A
 activation_date: N/A
-recertification_date: 8-Mar-18
+recertification_date: 8 Mar 2018
 center_functional_proponent: Pete Perez
 file_library_root_path: "content/coe/tcx/fp/Library/"
 page_last_reviewed: 1 January 1970
 slug: /coe/tcx/fp/
-carousel_images:
-  - /admin/images/uploads/Placeholder-Picture.JPG
 ---
 
 ## About

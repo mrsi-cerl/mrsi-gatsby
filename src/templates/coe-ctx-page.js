@@ -2,8 +2,6 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout/layout"
 import Library from "../components/library/library"
-import Carousel from "../components/mrsi-carousel"
-
 import MrsiTable from "../components/mrsi-table"
 
 function getData(slug, data) {
@@ -21,10 +19,10 @@ export default ({ data, pageContext }) => {
   const { center } = getData(pageContext.slug, data);
   // console.log(center)
   const tableData = [
-    {
-        title: "Name of Center:",
-        value: center.frontmatter.name_of_center,
-    },
+    // {
+    //     title: "Name of Center:",
+    //     value: center.frontmatter.name_of_center,
+    // },
     {
         title: "Place of Center:",
         value: center.frontmatter.place_of_center,
@@ -37,23 +35,20 @@ export default ({ data, pageContext }) => {
         title: "Website:",
         value: (
           <a href={center.frontmatter.website} target="_blank" rel="noopener noreferrer">
-            {center.frontmatter.website}
+            Click here to visit
           </a>
         )
-},
-    {
-        title: "Center POC:",
-        value: center.frontmatter.center_poc_name,
     },
     {
-        title: "Phone Number of Center POC:",
+        title: "Center POC/Phone Number:",
         value: (
-          <a
+          <a  style={{textDecoration: 'none', color: 'black'}} 
             href={
               "tel:" +
               (center.frontmatter.center_poc_phone_number)
             }
           >
+            {center.frontmatter.center_poc_name} <br/>
             {center.frontmatter.center_poc_phone_number}
           </a>
         ),
@@ -67,14 +62,6 @@ export default ({ data, pageContext }) => {
         value: center.frontmatter.hq_division,
     },
     {
-        title: "ER Number (MCX only):",
-        value: center.frontmatter.mcx_er_number
-    },
-    {
-        title: "Publication Date of ER:",
-        value: center.frontmatter.mcx_er_publication_date
-    },
-    {
         title: "Date of Activation:",
         value: center.frontmatter.activation_date
     },
@@ -83,7 +70,7 @@ export default ({ data, pageContext }) => {
         value: center.frontmatter.recertification_date
     },
     {
-      title: "Functional Proponent: (SES)",
+      title: "Functional Proponent (SES):",
       value: center.frontmatter.center_functional_proponent,
     },
   ]
@@ -93,10 +80,7 @@ export default ({ data, pageContext }) => {
       <div style={{ paddingLeft: 20 }}>
         <h1>{center.frontmatter.name_of_center}</h1>
         <div className="grid-row">
-          <div className="tablet:grid-col">
-            <Carousel imgs={center.frontmatter.carousel_images} />
-          </div>
-          <div className="tablet:grid-col" style={{ paddingLeft: 10 }}>
+        <div className="tablet:grid-col" style={{ whiteSpace: 'nowrap' }}>
             <MrsiTable data={tableData} />
           </div>
         </div>

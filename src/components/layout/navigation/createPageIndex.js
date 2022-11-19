@@ -1,7 +1,7 @@
 const pages = {
   COE: [
     {
-      caption: "About COE",
+      caption: "About CX",
       slug: "/coe/",
     },
   ],
