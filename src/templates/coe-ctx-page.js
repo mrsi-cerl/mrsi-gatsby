@@ -20,19 +20,19 @@ export default ({ data, pageContext }) => {
   // console.log(center)
   const tableData = [
     // {
-    //     title: "Name of Center:",
+    //     title: "Name of Center",
     //     value: center.frontmatter.name_of_center,
     // },
     {
-        title: "Place of Center:",
+        title: "Place of Center",
         value: center.frontmatter.place_of_center,
     },
+    // {
+    //     title: "MCX or TCX",
+    //     value: center.frontmatter.center_type,
+    // },
     {
-        title: "MCX or TCX:",
-        value: center.frontmatter.center_type,
-    },
-    {
-        title: "Website:",
+        title: "Website",
         value: (
           <a href={center.frontmatter.website} target="_blank" rel="noopener noreferrer">
             Click here to visit
@@ -40,7 +40,7 @@ export default ({ data, pageContext }) => {
         )
     },
     {
-        title: "Center POC/Phone Number:",
+        title: "Center POC",
         value: (
           <a  style={{textDecoration: 'none', color: 'black'}} 
             href={
@@ -54,23 +54,23 @@ export default ({ data, pageContext }) => {
         ),
     },
     {
-        title: "HQ POC:",
+        title: "HQ POC",
         value: center.frontmatter.hq_poc_name,
     },
     {
-        title: "HQ Div:",
+        title: "HQ Div",
         value: center.frontmatter.hq_division,
     },
     {
-        title: "Date of Activation:",
+        title: "Date of Activation",
         value: center.frontmatter.activation_date
     },
     {
-        title: "Recertification Date:",
+        title: "Recertification Date",
         value: center.frontmatter.recertification_date
     },
     {
-      title: "Functional Proponent (SES):",
+      title: "Functional Proponent (SES)",
       value: center.frontmatter.center_functional_proponent,
     },
   ]

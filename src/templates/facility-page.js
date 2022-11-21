@@ -34,11 +34,11 @@ export default ({ data, pageContext }) => {
   // console.log(facility)
   const tableData = [
     {
-      title: "Functional Proponent:",
+      title: "Functional Proponent",
       value: facility.frontmatter.facility_functional_proponent,
     },
     {
-      title: "Technical POC:",
+      title: "Technical POC",
       value: (
         <a href={"mailto:" + facility.frontmatter.facility_technical_poc_email}>
           {facility.frontmatter.facility_technical_poc_name}
@@ -46,7 +46,7 @@ export default ({ data, pageContext }) => {
       ),
     },
     {
-      title: "COS Manager:",
+      title: "COS Manager",
       value: (
         <a
           href={
@@ -63,7 +63,7 @@ export default ({ data, pageContext }) => {
       ),
     },
     {
-      title: "Category Code(s):",
+      title: "Category Code(s)",
       value: facility.frontmatter.facility_category_codes.join(", "),
     },
   ]
