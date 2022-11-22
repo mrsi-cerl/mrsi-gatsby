@@ -33,12 +33,12 @@ const pages = {
   ],
   CRST: [
     {
-      caption: "Subject Matter Experts",
-      slug: "/crst/subject-matter-experts",
-    },
-    {
       slug: "/crst/",
       caption: "About CRST",
+    },
+    {
+      caption: "Subject Matter Experts",
+      slug: "/crst/subject-matter-experts",
     },
   ],
   MODELRFP: [
