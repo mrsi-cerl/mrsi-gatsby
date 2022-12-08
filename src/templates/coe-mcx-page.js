@@ -38,8 +38,8 @@ export default ({ data, pageContext }) => {
           Click here to visit
         </a>
       )
-  },
-  {
+    },
+    {
       title: "Center POC",
       value: (
         <a  style={{textDecoration: 'none', color: 'black'}} 
@@ -63,11 +63,19 @@ export default ({ data, pageContext }) => {
     },
     {
         title: "ER Number",
-        value: center.frontmatter.mcx_er_number
+        value: center.frontmatter.er_number
+    },
+    {
+      title: "Website",
+      value: (
+        <a href={center.frontmatter.er_link} target="_blank" rel="noopener noreferrer">
+          Click here to view
+        </a>
+      )
     },
     {
         title: "Publication Date of ER",
-        value: center.frontmatter.mcx_er_publication_date
+        value: center.frontmatter.er_publication_date
     },
     {
         title: "Date of Activation",
