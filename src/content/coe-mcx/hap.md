@@ -14,7 +14,7 @@ er_link: https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/r405 16_Web_FINAL.
 er_publication_date: 29 Sep 16
 activation_date: N/A
 recertification_date: 16 Aug 17
-functional_proponent_(ses): Paula Johnson Muic 
+center_functional_proponent: Paula Johnson Muic 
 // file_library_root_path: "content/coe/mcx/ffacsLibrary/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/ffacs

@@ -14,7 +14,7 @@ er_link: https://www.publications.usace.army.mil/Portals/76/Publications/Enginee
 er_publication_date: 28 Sep 12
 activation_date: FY12
 recertification_date: 12 Jul 17
-functional_proponent_(ses): Pete Perez
+center_functional_proponent: Pete Perez
 // file_library_root_path: "content/coe/mcx/cmacLibrary/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/cmac

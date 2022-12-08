@@ -14,7 +14,7 @@ er_link: https://www.publications.usace.army.mil/Portals/76/Users/182/86/2486/1E
 er_publication_date: 20 Nov 20
 activation_date: N/A
 recertification_date: 27 Sep 18
-functional_proponent_(ses): Stacey Hirata
+center_functional_proponent: Stacey Hirata
 // file_library_root_path: "content/coe/mcx/mdcLibrary/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/mdc

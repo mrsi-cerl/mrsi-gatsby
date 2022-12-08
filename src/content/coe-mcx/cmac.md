@@ -14,7 +14,7 @@ er_link: N/A
 er_publication_date: 7 Dec 1994; Amended 11 Sep 2007 
 activation_date: 7 Dec 94
 recertification_date: 10 Jan 19
-functional_proponent_(ses): Tom Smith/Eric Bush
+center_functional_proponent: Tom Smith/Eric Bush
 // file_library_root_path: "content/coe/mcx/cicuLibrary/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/cicu

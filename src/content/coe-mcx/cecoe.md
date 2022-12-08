@@ -15,7 +15,7 @@ er_publication_date: N/A
 activation_date: 2002 as DX
 2007 as MCX
 recertification_date: 22 Mar 18
-functional_proponent_(ses): Pete Perez
+center_functional_proponent: Pete Perez
 // file_library_root_path: "content/coe/mcx/cecoeLibrary/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/cecoe

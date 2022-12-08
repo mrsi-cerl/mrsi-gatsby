@@ -14,7 +14,7 @@ er_link: https://www.publications.usace.army.mil/Portals/76/Users/182/86/2486/ER
 er_publication_date: 30 Oct 20
 activation_date: 20 Jul 18
 recertification_date: 30 Oct 20
-functional_proponent_(ses): Drew White
+center_functional_proponent: Drew White
 // file_library_root_path: "content/coe/mcx/cscLibrary/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/csc

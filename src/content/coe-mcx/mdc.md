@@ -17,7 +17,7 @@ er_link: https://www.publications.usace.army.mil/Portals/76/ER%2010 1 46%20Combi
 er_publication_date: 26 Mar 90
 activation_date: 17 Oct 88
 recertification_date: 5 Oct 22
-functional_proponent_(ses): Tom Smith
+center_functional_proponent: Tom Smith
 // file_library_root_path: "content/coe/mcx/indcLibrary/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/indc

@@ -14,7 +14,7 @@ er_link: https://www.publications.usace.army.mil/Portals/76/Publications/Enginee
 er_publication_date: 30 Jun 13
 activation_date: N/A
 recertification_date: 10 Jul 17
-functional_proponent_(ses): Pete Perez
+center_functional_proponent: Pete Perez
 // file_library_root_path: "content/coe/mcx/rrpepLibrary/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/rrpep

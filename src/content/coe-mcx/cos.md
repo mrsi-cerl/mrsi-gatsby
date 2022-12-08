@@ -14,7 +14,7 @@ er_link: N/A
 er_publication_date: 21 Apr 16
 activation_date: 6 Mar 06
 recertification_date: 1 Mar 18
-functional_proponent_(ses): Pete Perez
+center_functional_proponent: Pete Perez
 // file_library_root_path: "content/coe/mcx/cosLibrary/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/cos

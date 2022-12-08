@@ -14,7 +14,7 @@ er_link: N/A
 er_publication_date: 1 Jun 06
 activation_date: 1 Nov 94
 recertification_date: 28 Dec 17
-functional_proponent_(ses): Tom Smith
+center_functional_proponent: Tom Smith
 // file_library_root_path: "content/coe/mcx/rmcLibrary/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/rmc

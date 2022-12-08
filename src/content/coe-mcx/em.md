@@ -14,7 +14,7 @@ er_link: https://www.publications.usace.army.mil/Portals/76/Publications/Enginee
 er_publication_date: 30 Apr 12
 activation_date: 13 Oct 11
 recertification_date: 9 Nov 22
-functional_proponent_(ses): Lara Beasley
+center_functional_proponent: Lara Beasley
 // file_library_root_path: "content/coe/mcx/essLibrary/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/ess

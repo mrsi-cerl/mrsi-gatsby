@@ -14,7 +14,7 @@ er_link: https://www.publications.usace.army.mil/Portals/76/Publications/Enginee
 er_publication_date: 30 Sep 22
 activation_date: 1 Jan 87
 recertification_date: 21 Jul 22
-functional_proponent_(ses): Drew White
+center_functional_proponent: Drew White
 // file_library_root_path: "content/coe/mcx/pdcLibrary/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/pdc
