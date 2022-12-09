@@ -4,13 +4,13 @@ title: Welding and Metallurgy Technical Center of Expertise
 name_of_center: Welding and Metallurgy Technical Center of Expertise
 place_of_center: NWP
 center_type: TCX
-website: https://usace.dps.mil/sites/INTRA NWP/SitePages/Welding and Metallurgy Technical Center.aspx?web=1
+website: https://usace.dps.mil/sites/INTRA-NWP/SitePages/Welding-and-Metallurgy-Technical-Center.aspx?web=1
 center_poc_name: Travis Adams
 center_poc_phone_number: 503 808 4954
 hq_poc_name: Chris Westbrook
 hq_division: E&C
-activation_date: 13 Dec 12
-recertification_date: 31 Jan 18
+activation_date: 13 Dec 2012
+recertification_date: 31 Jan 2018
 center_functional_proponent: Pete Perez
 // file_library_root_path: "content/coe/tcx/wmtcxLibrary/" 
 page_last_reviewed: 1 January 1970 

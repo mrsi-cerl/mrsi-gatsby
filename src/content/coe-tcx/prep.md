@@ -4,13 +4,13 @@ title: Power Reliability Enhancement Program (PREP)
 name_of_center: Power Reliability Enhancement Program (PREP)
 place_of_center: HQ
 center_type: TCX
-website: https://www.usace.army.mil/Missions/Military Missions/PREP/
+website: https://www.usace.army.mil/Missions/Military-Missions/PREP/
 center_poc_name: Martha Kiene
 center_poc_phone_number: 703 704 2764
 hq_poc_name: Dawn Carney
 hq_division: E&C
-activation_date: 1 Apr 22
-recertification_date: 1 Apr 22
+activation_date: 01 Apr 2022
+recertification_date: 01 Apr 2022
 center_functional_proponent: Pete Perez
 // file_library_root_path: "content/coe/tcx/prepLibrary/" 
 page_last_reviewed: 1 January 1970 

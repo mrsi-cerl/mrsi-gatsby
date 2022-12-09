@@ -4,20 +4,20 @@ title: Medical Facilities
 name_of_center: Medical Facilities     
 place_of_center: HNC
 center_type: MCX
-website: http://www.hnc.usace.army.mil/Missions/Centers of Expertise
+website: http://www.hnc.usace.army.mil/Missions/Centers-of-Expertise
 center_poc_name: Anthony Travia
 center_poc_phone_number: 703 428 9138
 hq_poc_name: Scott Wick
 hq_division: MP
-er_number: ER 1110 345 721
-er_link: https://www.publications.usace.army.mil/Portals/76/Users/182/86/2486/1ER%201110 345 721.pdf?ver=UOM98EcXWcp HzrHbyxhSw%3d%3d
-er_publication_date: 20 Nov 20
+er_number: ER 1110-345-721
+er_link: https://www.publications.usace.army.mil/Portals/76/Users/182/86/2486/1ER%201110-345-721.pdf?ver=UOM98EcXWcp-HzrHbyxhSw%3d%3d
+er_publication_date: 20 Nov 2020
 activation_date: N/A
-recertification_date: 27 Sep 18
+recertification_date: 27 Sep 2018
 center_functional_proponent: Stacey Hirata
-// file_library_root_path: "content/coe/mcx/mdcLibrary/" 
+// file_library_root_path: "content/coe/mcx/medfacLibrary/" 
 page_last_reviewed: 1 January 1970 
-slug: /coe/mcx/mdc
+slug: /coe/mcx/medfac
 ---
 
 ## About 

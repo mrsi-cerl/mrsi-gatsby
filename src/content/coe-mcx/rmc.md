@@ -9,15 +9,15 @@ center_poc_name: Nathan Snorteland
 center_poc_phone_number: 303 963 4573
 hq_poc_name: Phoebe Percell
 hq_division: E&C
-er_number: ER 10 1 55
-er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_10 1 55.pdf?ver=7DHNWbHj15a1nv3WSg44xQ%3d%3d
-er_publication_date: 30 Jun 13
+er_number: ER 10-1-55
+er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_10-1-55.pdf?ver=7DHNWbHj15a1nv3WSg44xQ%3d%3d
+er_publication_date: 30 Jun 2013
 activation_date: N/A
-recertification_date: 10 Jul 17
+recertification_date: 10 Jul 2017
 center_functional_proponent: Pete Perez
-// file_library_root_path: "content/coe/mcx/rrpepLibrary/" 
+// file_library_root_path: "content/coe/mcx/rmcLibrary/" 
 page_last_reviewed: 1 January 1970 
-slug: /coe/mcx/rrpep
+slug: /coe/mcx/rmc
 ---
 
 ## About 

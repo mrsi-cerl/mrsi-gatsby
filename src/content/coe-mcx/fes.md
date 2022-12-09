@@ -4,20 +4,20 @@ title: Facilities Explosives Safety
 name_of_center: Facilities Explosives Safety    
 place_of_center: HNC
 center_type: MCX
-website: https://www.hnc.usace.army.mil/Media/Fact Sheets/Fact Sheet Article View/Article/482080/facilities explosives safety/
+website: https://www.hnc.usace.army.mil/Media/Fact-Sheets/Fact-Sheet-Article-View/Article/482080/facilities-explosives-safety/
 center_poc_name: Susan Hamilton U.S. Army Engineering & Support Center, Huntsville (CEHNC) Facilities Explosives Safety MCX Program Lead 
 center_poc_phone_number: 256 895 1658 
 hq_poc_name: Rich Ludwitzke
 hq_division: E&C
-er_number: ER 1110 1 8169
-er_link: https://www.publications.usace.army.mil/Portals/76/Users/182/86/2486/ER_1110 1 8169.pdf?ver=IkCQzIJd ykIhLWSGwz1vQ%3d%3d
-er_publication_date: 1 Oct 18
-activation_date: 1 Nov 17
-recertification_date: 1 Oct 18
+er_number: ER 1110-1-8169
+er_link: https://www.publications.usace.army.mil/Portals/76/Users/182/86/2486/ER_1110-1-8169.pdf?ver=IkCQzIJd-ykIhLWSGwz1vQ%3d%3d
+er_publication_date: 01 Oct 2018
+activation_date: 01 Nov 2017
+recertification_date: 01 Oct 2018
 center_functional_proponent: Pete Perez
-// file_library_root_path: "content/coe/mcx/emLibrary/" 
+// file_library_root_path: "content/coe/mcx/fesLibrary/" 
 page_last_reviewed: 1 January 1970 
-slug: /coe/mcx/em
+slug: /coe/mcx/fes
 ---
 
 ## About 

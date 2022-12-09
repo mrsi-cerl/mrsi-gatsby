@@ -9,15 +9,15 @@ center_poc_name: Robert (Ben) Stubbs
 center_poc_phone_number: 601 631 5681
 hq_poc_name: Phoebe Percell
 hq_division: E&C
-er_number: ER 10 1 54
-er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_10 1 54.pdf?ver=jfo8T2wlscv3szoHOpvoBQ%3d%3d
-er_publication_date: 30 Jun 13
+er_number: ER 10-1-54
+er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_10-1-54.pdf?ver=jfo8T2wlscv3szoHOpvoBQ%3d%3d
+er_publication_date: 30 Jun 2013
 activation_date: N/A
-recertification_date: 17 Jan 18
+recertification_date: 17 Jan 2018
 center_functional_proponent: Pete Perez
-// file_library_root_path: "content/coe/mcx/medfacLibrary/" 
+// file_library_root_path: "content/coe/mcx/mmcpcLibrary/" 
 page_last_reviewed: 1 January 1970 
-slug: /coe/mcx/medfac
+slug: /coe/mcx/mmcpc
 ---
 
 ## About 

@@ -66,7 +66,7 @@ export default ({ data, pageContext }) => {
         value: center.frontmatter.er_number
     },
     {
-      title: "Website",
+      title: "ER Link",
       value: (
         <a href={center.frontmatter.er_link} target="_blank" rel="noopener noreferrer">
           Click here to view
@@ -126,8 +126,9 @@ export const query = graphql`
             center_poc_phone_number
             hq_poc_name
             hq_division
-            mcx_er_number
-            mcx_er_publication_date
+            er_number
+            er_link
+            er_publication_date
             activation_date
             recertification_date
             center_functional_proponent

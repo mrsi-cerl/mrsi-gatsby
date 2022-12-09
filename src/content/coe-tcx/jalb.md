@@ -10,7 +10,7 @@ center_poc_phone_number: 228 252 1101
 hq_poc_name: Tiffany Burroughs
 hq_division: OPS
 activation_date: N/A
-recertification_date: 31 Jan 18
+recertification_date: 31 Jan 2018
 center_functional_proponent: Tom Smith
 // file_library_root_path: "content/coe/tcx/jalbLibrary/" 
 page_last_reviewed: 1 January 1970 

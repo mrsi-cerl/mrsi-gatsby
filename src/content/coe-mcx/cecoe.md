@@ -12,9 +12,8 @@ hq_division: E&C
 er_number: no ER estabished yet
 er_link: N/A
 er_publication_date: N/A
-activation_date: 2002 as DX
-2007 as MCX
-recertification_date: 22 Mar 18
+activation_date: 2002 as DX, 2007 as MCX
+recertification_date: 22 Mar 2018
 center_functional_proponent: Pete Perez
 // file_library_root_path: "content/coe/mcx/cecoeLibrary/" 
 page_last_reviewed: 1 January 1970 

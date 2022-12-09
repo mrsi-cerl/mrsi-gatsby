@@ -6,18 +6,18 @@ place_of_center: NWK
 center_type: MCX
 website: https://corpslakes.erdc.dren.mil/employees/sign/sign.cfm
 center_poc_name: Keith Hyde
-center_poc_phone_number: 208.343.0671
+center_poc_phone_number: 208 343 0671
 hq_poc_name: Jeff Krause
 hq_division: OPS
 er_number: no ER estabished yet
 er_link: N/A
-er_publication_date: 1 Jun 06
-activation_date: 1 Nov 94
-recertification_date: 28 Dec 17
+er_publication_date: 01 Jun 2006
+activation_date: 01 Nov 1994
+recertification_date: 28 Dec 2017
 center_functional_proponent: Tom Smith
-// file_library_root_path: "content/coe/mcx/rmcLibrary/" 
+// file_library_root_path: "content/coe/mcx/sspLibrary/" 
 page_last_reviewed: 1 January 1970 
-slug: /coe/mcx/rmc
+slug: /coe/mcx/ssp
 ---
 
 ## About 

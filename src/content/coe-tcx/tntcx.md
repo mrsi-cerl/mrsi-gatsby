@@ -9,8 +9,8 @@ center_poc_name: Ron Kneebone
 center_poc_phone_number: 505 342 3355
 hq_poc_name: Lisa Morales
 hq_division: CW
-activation_date: 24 Nov 15
-recertification_date: 1 May 21
+activation_date: 24 Nov 2015
+recertification_date: 01 May 2021
 center_functional_proponent: Stacy Brown
 // file_library_root_path: "content/coe/tcx/tntcxLibrary/" 
 page_last_reviewed: 1 January 1970 

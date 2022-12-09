@@ -4,20 +4,20 @@ title: Fuel Facilities (Petroleum, Oils and Lubricants)
 name_of_center: Fuel Facilities (Petroleum, Oils and Lubricants)     
 place_of_center: N W O 
 center_type: MCX
-website: http://www.nwo.usace.army.mil/About/Centers of Expertise/Fuel Systems/
-center_poc_name: Jason Burrell Program Manager Fueling Systems (POL MCX) Mandatory Center of Expertise CENWO PM S 
+website: http://www.nwo.usace.army.mil/About/Centers-of-Expertise/Fuel-Systems/
+center_poc_name: Jason Burrell Program Manager Fueling Systems (POL-MCX) Mandatory Center of Expertise CENWO-PM-S 
 center_poc_phone_number: 402 250 3048
 hq_poc_name: John Wilkus
 hq_division: E&C
-er_number: ER1110 1 8167
-er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_1110 1 8167.pdf?ver=b6vxYRi 2USAbe4oCCm0Xw%3d%3d
-er_publication_date: 31 Aug 16
+er_number: ER1110-1-8167
+er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_1110-1-8167.pdf?ver=b6vxYRi-2USAbe4oCCm0Xw%3d%3d
+er_publication_date: 31 Aug 2016
 activation_date: N/A
 recertification_date: N/A
 center_functional_proponent: Pete Perez
-// file_library_root_path: "content/coe/mcx/fesLibrary/" 
+// file_library_root_path: "content/coe/mcx/ffacsLibrary/" 
 page_last_reviewed: 1 January 1970 
-slug: /coe/mcx/fes
+slug: /coe/mcx/ffacs
 ---
 
 ## About 

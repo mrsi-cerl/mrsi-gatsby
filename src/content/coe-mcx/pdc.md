@@ -9,15 +9,15 @@ center_poc_name: Curt Betts
 center_poc_phone_number: 402 995 2376
 hq_poc_name: Rich Ludwitzke and Christopher Westbrook
 hq_division: E&C
-er_number: ER never completed   Rich is workng on this operating off a HQUSACE approved management plan from 29 September 1997.
+er_number: no ER estabished yet
 er_link: N/A
 er_publication_date: N/A
-activation_date: 22 Nov 85
-recertification_date: 31 Jan 18
+activation_date: 22 Nov 1985
+recertification_date: 31 Jan 2018
 center_functional_proponent: Pete Perez
-// file_library_root_path: "content/coe/mcx/mmcpcLibrary/" 
+// file_library_root_path: "content/coe/mcx/pdcLibrary/" 
 page_last_reviewed: 1 January 1970 
-slug: /coe/mcx/mmcpc
+slug: /coe/mcx/pdc
 ---
 
 ## About 

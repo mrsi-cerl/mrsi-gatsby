@@ -1,28 +1,28 @@
 ---
 doc_type: coe_mcx_page 
-title: Centers of Standardization   All COSs 
-name_of_center: Centers of Standardization   All COSs 
-place_of_center: Varies
-center_type: COS
-website: https://mrsi.erdc.dren.mil/cos/
-center_poc_name: Varies
-center_poc_phone_number: N/A
-hq_poc_name: Wick, Scott
+title: Dam Safety Modification
+name_of_center: Dam Safety Modification
+place_of_center: LRH
+center_type: MCX
+website: https://www.lrh.usace.army.mil/Missions/DSMMCX/
+center_poc_name: Don Whitmore
+center_poc_phone_number: 304 399 5221
+hq_poc_name: Phoebe Percell
 hq_division: E&C
-er_number: ER1110 3 113
-er_link: N/A
-er_publication_date: 21 Apr 16
-activation_date: 6 Mar 06
-recertification_date: 1 Mar 18
+er_number: ER 10 1 51
+er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_10-1-51.pdf?ver=hB5_XhbLZkxHxUAvd-k7ug%3d%3d
+er_publication_date: 28 Sep 2012
+activation_date: FY12
+recertification_date: 12 Jul 2017
 center_functional_proponent: Pete Perez
-// file_library_root_path: "content/coe/mcx/cosLibrary/" 
+// file_library_root_path: "content/coe/mcx/dsmLibrary/" 
 page_last_reviewed: 1 January 1970 
-slug: /coe/mcx/cos
+slug: /coe/mcx/dsm
 ---
 
 ## About 
 
-The Army?s Facility Standardization Program continues to be the primary means through which we will deliver standard facilities. The MCX COS standard designs and adapt build models will continue to be used as the baseline solution for execution of all standard facility types 
+The USACE Dam Safety Modification Mandatory Center of Expertise (DSMMCX) provides technical advice, oversight, review and production capability for all aspects of dam modification projects across USACE. 
 
  ## Section Heading 
 

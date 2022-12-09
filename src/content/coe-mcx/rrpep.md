@@ -13,11 +13,11 @@ er_number: Title 10 USC ?18240
 er_link: N/A
 er_publication_date: N/A
 activation_date: N/A
-recertification_date: 4 Dec 18
+recertification_date: 04 Dec 2018
 center_functional_proponent: Michaele Mandulak
-// file_library_root_path: "content/coe/mcx/rtlpLibrary/" 
+// file_library_root_path: "content/coe/mcx/rrpepLibrary/" 
 page_last_reviewed: 1 January 1970 
-slug: /coe/mcx/rtlp
+slug: /coe/mcx/rrpep
 ---
 
 ## About 

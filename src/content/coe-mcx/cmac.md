@@ -7,17 +7,17 @@ center_type: MCX
 website: http://www.mvs.usace.army.mil/Missions/CentersofExpertise/CurationMgmtofArchaeologicalCollections.aspx
 center_poc_name: Jennifer Riordan
 center_poc_phone_number: 314 331 8855
-hq_poc_name: Jeff Krause/     Nancy Brighton
+hq_poc_name: Jeff Krause / Nancy Brighton
 hq_division: CW
 er_number: no ER estabished yet
 er_link: N/A
 er_publication_date: 7 Dec 1994; Amended 11 Sep 2007 
-activation_date: 7 Dec 94
-recertification_date: 10 Jan 19
-center_functional_proponent: Tom Smith/Eric Bush
-// file_library_root_path: "content/coe/mcx/cicuLibrary/" 
+activation_date: 07 Dec 1994
+recertification_date: 10 Jan 2019
+center_functional_proponent: Tom Smith / Eric Bush
+// file_library_root_path: "content/coe/mcx/cmacLibrary/" 
 page_last_reviewed: 1 January 1970 
-slug: /coe/mcx/cicu
+slug: /coe/mcx/cmac
 ---
 
 ## About 

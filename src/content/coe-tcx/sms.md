@@ -10,7 +10,7 @@ center_poc_phone_number: 217 373 4450
 hq_poc_name: Saeed Goodman
 hq_division: IS
 activation_date: N/A
-recertification_date: 1 Feb 18
+recertification_date: 01 Feb 2018
 center_functional_proponent: Drew White
 // file_library_root_path: "content/coe/tcx/smsLibrary/" 
 page_last_reviewed: 1 January 1970 

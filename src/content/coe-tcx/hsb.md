@@ -5,12 +5,12 @@ name_of_center: Historic Structures & Buildings
 place_of_center: NWS
 center_type: TCX
 website: http://www.nws.usace.army.mil/BusinessWithUs/HistoricPreservation.aspx
-center_poc_name: Lys Opp Beckman
+center_poc_name: Lys Opp-Beckman
 center_poc_phone_number: 206 764 3422
-hq_poc_name: Wick, Scott
+hq_poc_name: Scott Wick
 hq_division: E&C
 activation_date: N/A
-recertification_date: 31 Jan 18
+recertification_date: 31 Jan 2018
 center_functional_proponent: Pete Perez
 // file_library_root_path: "content/coe/tcx/hsbLibrary/" 
 page_last_reviewed: 1 January 1970 

@@ -5,13 +5,13 @@ name_of_center: DD1391/Eng Form 3086 Review Center
 place_of_center: HNC
 
 center_type: TCX
-website: http://www.hnc.usace.army.mil/Missions/Centers of Expertise
+website: http://www.hnc.usace.army.mil/Missions/Centers-of-Expertise
 center_poc_name: Jimmie Jackson
 center_poc_phone_number: 256 285 7365
 hq_poc_name: Amanda Weinert
 hq_division: MP
-activation_date: 1 Jan 04
-recertification_date: 12 Feb 18
+activation_date: 01 Jan 2004
+recertification_date: 12 Feb 2018
 center_functional_proponent: Stacey Hirata
 // file_library_root_path: "content/coe/tcx/ddrcLibrary/" 
 page_last_reviewed: 1 January 1970 

@@ -4,13 +4,13 @@ title: Collaboration & Public Participation  Center
 name_of_center: Collaboration & Public Participation  Center    
 place_of_center: IWR
 center_type: TCX
-website: http://www.iwr.usace.army.mil/About/Technical Centers/CPCX Conflict Resolution Public Participation/
+website: http://www.iwr.usace.army.mil/About/Technical-Centers/CPCX-Conflict-Resolution-Public-Participation/
 center_poc_name: Maria Lantz
 center_poc_phone_number: 703 428 9071
 hq_poc_name: Joe Redican
 hq_division: CW
 activation_date: N/A
-recertification_date: 11 Apr 18
+recertification_date: 11 Apr 2018
 center_functional_proponent: Eric Bush
 // file_library_root_path: "content/coe/tcx/cppcLibrary/" 
 page_last_reviewed: 1 January 1970 

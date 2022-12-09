@@ -4,13 +4,13 @@ title: Military Housing Privatization Initiative MHPI Includes PAL, RCI and UPH
 name_of_center: Military Housing Privatization Initiative MHPI Includes PAL, RCI and UPH  
 place_of_center: NAO
 center_type: TCX
-website: https://www.nao.usace.army.mil/Business With Us/RCI Small Installations Privatization Initiative/
-center_poc_name: Donna Carrier Tal
+website: https://www.nao.usace.army.mil/Business-With-Us/RCI-Small-Installations-Privatization-Initiative/
+center_poc_name: Donna Carrier-Tal
 center_poc_phone_number: 757 201 7733
 hq_poc_name: Gary Dye
 hq_division: RE
-activation_date: 14 Jan 02
-recertification_date: 11 Jul 17
+activation_date: 14 Jan 2002
+recertification_date: 11 Jul 2017
 center_functional_proponent: Acting DRE, Michaele Mandulak
 // file_library_root_path: "content/coe/tcx/mhpiLibrary/" 
 page_last_reviewed: 1 January 1970 

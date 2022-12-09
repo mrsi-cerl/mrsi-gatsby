@@ -4,13 +4,13 @@ title: Facility Systems Safety (FASS)
 name_of_center: Facility Systems Safety (FASS)   
 place_of_center: HNC
 center_type: TCX
-website: http://www.hnc.usace.army.mil/Missions/Centers of Expertise
+website: http://www.hnc.usace.army.mil/Missions/Centers-of-Expertise
 center_poc_name: Chad E. House Chief, Facilities & Systems Sustainment Branch US Army Engineering & Support Center Huntsville, AL
 center_poc_phone_number: 256 895 2804
 hq_poc_name: Mark Atkins and Dawn Carney
 hq_division: E&C and Safety
 activation_date: N/A
-recertification_date: 1 Mar 18
+recertification_date: 01 Mar 2018
 center_functional_proponent: Pete Perez
 // file_library_root_path: "content/coe/tcx/fassLibrary/" 
 page_last_reviewed: 1 January 1970 

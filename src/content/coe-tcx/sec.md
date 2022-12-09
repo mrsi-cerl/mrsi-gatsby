@@ -4,13 +4,13 @@ title: Subsurface Exploration Center
 name_of_center: Subsurface Exploration Center    
 place_of_center: SAM
 center_type: TCX
-website: http://www.sam.usace.army.mil/Missions/Military Missions/Engineering/Subsurface Exploration
+website: http://www.sam.usace.army.mil/Missions/Military-Missions/Engineering/Subsurface-Exploration
 center_poc_name: Rhonda Capes
 center_poc_phone_number: 251 694 3406
-hq_poc_name: Goff, Marty
+hq_poc_name: Marty Goff
 hq_division: E&C
 activation_date: N/A
-recertification_date: 22 Jan 18
+recertification_date: 22 Jan 2018
 center_functional_proponent: Pete Perez
 // file_library_root_path: "content/coe/tcx/secLibrary/" 
 page_last_reviewed: 1 January 1970 

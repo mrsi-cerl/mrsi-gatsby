@@ -5,12 +5,12 @@ name_of_center: CAD/BIM Technology Center
 place_of_center: ERDC
 center_type: TCX
 website: https://cadbimcenter.erdc.dren.mil/
-center_poc_name: Mariangelica Carrasquillo Mangual 
+center_poc_name: Mariangelica Carrasquillo-Mangual 
 center_poc_phone_number: 601 634 4485
 hq_poc_name: Jason Fairchild
 hq_division: E&C
 activation_date: N/A
-recertification_date: 26 Jan 18
+recertification_date: 26 Jan 2018
 center_functional_proponent: Pete Perez
 // file_library_root_path: "content/coe/tcx/cbtcLibrary/" 
 page_last_reviewed: 1 January 1970 

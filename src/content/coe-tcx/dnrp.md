@@ -4,14 +4,14 @@ title: DoD National Relocation Program (DNRP)
 name_of_center: DoD National Relocation Program (DNRP)    
 place_of_center: NAB
 center_type: TCX
-website: https://www.nab.usace.army.mil/Business With Us/Real Estate/DNRP/
-center_poc_name: Mike Schaetzle Chief, Dept. of Defense National Relocation Program Baltimore   USACE
+website: https://www.nab.usace.army.mil/Business-With-Us/Real-Estate/DNRP/
+center_poc_name: Mike Schaetzle Chief, Dept. of Defense National Relocation Program Baltimore - USACE
 center_poc_phone_number: 410 962 4177 
-hq_poc_name: William Mysliwiec/ Darvin Smith
+hq_poc_name: William Mysliwiec / Darvin Smith
 hq_division: RE
-activation_date: 1 Jun 87
-recertification_date: 18 Jul 18
-center_functional_proponent: Brenda Johnson Turner
+activation_date: 01 Jun 1987
+recertification_date: 18 Jul 2018
+center_functional_proponent: Brenda Johnson-Turner
 // file_library_root_path: "content/coe/tcx/dnrpLibrary/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/tcx/dnrp

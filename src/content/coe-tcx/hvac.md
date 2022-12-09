@@ -4,13 +4,13 @@ title: Heating, Ventilating, & Air Conditioning
 name_of_center: Heating, Ventilating, & Air Conditioning 
 place_of_center: HNC
 center_type: TCX
-website: http://www.hnc.usace.army.mil/Missions/Centers of Expertise
+website: http://www.hnc.usace.army.mil/Missions/Centers-of-Expertise
 center_poc_name: Sandy Wood
 center_poc_phone_number: 256 895 1718
 hq_poc_name: Tim Gordon
 hq_division: E&C
 activation_date: N/A
-recertification_date: 31 Jan 18
+recertification_date: 31 Jan 2018
 center_functional_proponent: Pete Perez
 // file_library_root_path: "content/coe/tcx/hvacLibrary/" 
 page_last_reviewed: 1 January 1970 

@@ -4,13 +4,13 @@ title: Water Resources Remote Sensing/GIS Technology Center
 name_of_center: Water Resources Remote Sensing/GIS Technology Center 
 place_of_center: CRREL
 center_type: TCX
-website: http://www.erdc.usace.army.mil/Media/FactSheets/FactSheetArticleView/tabid/9254/Article/6215/remote sensinggeographic information systems center.aspx
+website: http://www.erdc.usace.army.mil/Media/FactSheets/FactSheetArticleView/tabid/9254/Article/6215/remote-sensinggeographic-information-systems-center.aspx
 center_poc_name: David Finnegan
 center_poc_phone_number: 603 646 4106
-hq_poc_name: jacob watts
+hq_poc_name: Jacob Watts
 hq_division: E&C
 activation_date: N/A
-recertification_date: 31 Jan 18
+recertification_date: 31 Jan 2018
 center_functional_proponent: Pete Perez
 // file_library_root_path: "content/coe/tcx/wrrstLibrary/" 
 page_last_reviewed: 1 January 1970 

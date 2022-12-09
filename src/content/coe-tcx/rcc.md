@@ -10,7 +10,7 @@ center_poc_phone_number: 678 354 0310
 hq_poc_name: Vanessa Bateman
 hq_division: E&C
 activation_date: N/A
-recertification_date: 6 Dec 18
+recertification_date: 06 Dec 2018
 center_functional_proponent: Pete Perez
 // file_library_root_path: "content/coe/tcx/rccLibrary/" 
 page_last_reviewed: 1 January 1970 
