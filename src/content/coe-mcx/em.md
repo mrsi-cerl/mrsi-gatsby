@@ -6,10 +6,10 @@ place_of_center: HNC
 center_type: MCX
 website: https://www.hnc.usace.army.mil/Missions/Environmental-and-Munitions/
 center_poc_name: John Nebelsick
-center_poc_phone_number: 402 697 2555
+center_poc_phone_number: ? (402) 697-2555
 hq_poc_name: Antonia Giardina and Cathy Forget
 hq_division: ENV
-er_number: ER 10 1 50
+er_number: ER 10-1-50
 er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_10-1-50.pdf?ver=pR9lTjGLJ-tqHDyrUBtrGw%3d%3d
 er_publication_date: 30 Apr 2012
 activation_date: 13 Oct 2011

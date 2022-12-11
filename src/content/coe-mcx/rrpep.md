@@ -6,11 +6,11 @@ place_of_center: SPK
 center_type: MCX
 website: https://www.spk.usace.army.mil/Portals/12/documents/small_business/Virtual%20BOOH%202021/Real_Estate_Division_Information.pdf?ver=noLd6tefpdqaoI6ccsSUCg%3D%3D
 center_poc_name: Lisa Ng
-center_poc_phone_number: 916 557 5225
+center_poc_phone_number: ? (916) 557-5225
 hq_poc_name: Clayton Redmond
 hq_division: RE
 er_number: Title 10 USC ?18240
-er_link: N/A
+er_link: https://mrsi.erdc.dren.mil/404.html
 er_publication_date: N/A
 activation_date: N/A
 recertification_date: 04 Dec 2018

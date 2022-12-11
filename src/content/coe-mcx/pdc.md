@@ -2,15 +2,15 @@
 doc_type: coe_mcx_page 
 title: Protective Design Center (PDC) 
 name_of_center: Protective Design Center (PDC) 
-place_of_center: N W O 
+place_of_center: NWO 
 center_type: MCX
 website: https://www.nwo.usace.army.mil/pdc/home/
 center_poc_name: Curt Betts
-center_poc_phone_number: 402 995 2376
+center_poc_phone_number: ? (402) 995-2376
 hq_poc_name: Rich Ludwitzke and Christopher Westbrook
 hq_division: E&C
-er_number: no ER estabished yet
-er_link: N/A
+er_number: No ER estabished yet
+er_link: https://mrsi.erdc.dren.mil/404.html
 er_publication_date: N/A
 activation_date: 22 Nov 1985
 recertification_date: 31 Jan 2018

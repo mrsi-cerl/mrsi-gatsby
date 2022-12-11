@@ -6,7 +6,7 @@ place_of_center: HNC
 center_type: TCX
 website: http://www.hnc.usace.army.mil/Missions/Centers-of-Expertise
 center_poc_name: Sandy Wood
-center_poc_phone_number: 256 895 1718
+center_poc_phone_number: ? (256) 895-1718
 hq_poc_name: Tim Gordon
 hq_division: E&C
 activation_date: N/A

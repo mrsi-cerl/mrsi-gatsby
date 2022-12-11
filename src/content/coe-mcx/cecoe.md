@@ -6,11 +6,11 @@ place_of_center: NWW
 center_type: MCX
 website: http://www.nww.usace.army.mil/Missions/CostEngineering.aspx
 center_poc_name: Michael Jacobs
-center_poc_phone_number: 509 527 7516
+center_poc_phone_number: ? (509) 527-7516
 hq_poc_name: Mukesh Kumar 
 hq_division: E&C
-er_number: no ER estabished yet
-er_link: N/A
+er_number: No ER estabished yet
+er_link: https://mrsi.erdc.dren.mil/404.html
 er_publication_date: N/A
 activation_date: 2002 as DX, 2007 as MCX
 recertification_date: 22 Mar 2018

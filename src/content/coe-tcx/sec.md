@@ -6,7 +6,7 @@ place_of_center: SAM
 center_type: TCX
 website: http://www.sam.usace.army.mil/Missions/Military-Missions/Engineering/Subsurface-Exploration
 center_poc_name: Rhonda Capes
-center_poc_phone_number: 251 694 3406
+center_poc_phone_number: ? (251) 694-3406
 hq_poc_name: Marty Goff
 hq_division: E&C
 activation_date: N/A

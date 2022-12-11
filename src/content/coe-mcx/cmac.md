@@ -6,11 +6,11 @@ place_of_center: MVS
 center_type: MCX
 website: http://www.mvs.usace.army.mil/Missions/CentersofExpertise/CurationMgmtofArchaeologicalCollections.aspx
 center_poc_name: Jennifer Riordan
-center_poc_phone_number: 314 331 8855
+center_poc_phone_number: ? (314) 331-8855
 hq_poc_name: Jeff Krause / Nancy Brighton
 hq_division: CW
-er_number: no ER estabished yet
-er_link: N/A
+er_number: No ER estabished yet
+er_link: https://mrsi.erdc.dren.mil/404.html
 er_publication_date: 7 Dec 1994; Amended 11 Sep 2007 
 activation_date: 07 Dec 1994
 recertification_date: 10 Jan 2019

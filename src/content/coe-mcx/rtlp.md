@@ -6,7 +6,7 @@ place_of_center: HNC
 center_type: MCX
 website: http://www.hnc.usace.army.mil/Missions/Centers-of-Expertise
 center_poc_name: Bill Stephenson
-center_poc_phone_number: 256 895 1534
+center_poc_phone_number: ? (256) 895-1534
 hq_poc_name: Sue Nachtigall
 hq_division: IS
 er_number: ER 210-3-2, Army Range Program

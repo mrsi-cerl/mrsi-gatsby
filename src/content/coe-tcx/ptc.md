@@ -6,7 +6,7 @@ place_of_center: CERL
 center_type: TCX
 website: http://www.erdc.usace.army.mil/Media/FactSheets/FactSheetArticleView/tabid/9254/Article/476731/paint-technology-center.aspx
 center_poc_name: Brooke Divan
-center_poc_phone_number: 217 373 3364
+center_poc_phone_number: ? (217) 373-3364
 hq_poc_name: Scott Wick
 hq_division: E&C
 activation_date: N/A

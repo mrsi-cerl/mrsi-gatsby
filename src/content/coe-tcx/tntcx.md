@@ -6,7 +6,7 @@ place_of_center: SPA
 center_type: TCX
 website:  https://www.spa.usace.army.mil/Missions/TNTCX/
 center_poc_name: Ron Kneebone
-center_poc_phone_number: 505 342 3355
+center_poc_phone_number: ? (505) 342-3355
 hq_poc_name: Lisa Morales
 hq_division: CW
 activation_date: 24 Nov 2015

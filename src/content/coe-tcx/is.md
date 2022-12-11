@@ -6,7 +6,7 @@ place_of_center: HNC
 center_type: TCX
 website: http://www.hnc.usace.army.mil/Missions/Centers-of-Expertise
 center_poc_name: William "Bill" Craven 
-center_poc_phone_number: 256 368 3071
+center_poc_phone_number: ? (256) 368-3071
 hq_poc_name: Michael Grizer
 hq_division: IRD
 activation_date: 29 Jun 2007
