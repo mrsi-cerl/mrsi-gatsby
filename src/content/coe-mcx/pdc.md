@@ -23,7 +23,8 @@ slug: /coe/mcx/pdc
 ## About 
 
 The MCX for protective design was created to maintain state-of-the-art technical expertise in, and provide expert support to a number of mission areas including Design to conform to DoD Minimum Antiterrorism Standards for Buildings and Design to resist the effects of conventional and nuclear weapons and Design that provides protection from chemical, biological, or radiological agents for people inside buildings.
-•	Electromagnetic Pulse (EMP), HEMP Shield, and Geomagnetic Disturbance protection design, review, testing verification, and maintenance programs.
+
+•&nbsp;&nbsp;&nbsp;&nbsp;Electromagnetic Pulse (EMP), HEMP Shield, and Geomagnetic Disturbance protection design, review, testing verification, and maintenance programs.
 
  ## Section Heading 
 

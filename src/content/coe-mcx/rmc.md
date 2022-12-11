@@ -22,7 +22,7 @@ slug: /coe/mcx/rmc
 
 ## About 
 
-The mission of the RMC is to support Civil Works by managing and assessing risks for dams and levee systems across the Corps, to support dam and levee safety activities throughout the Corps, and to develop policies, methods, tools, and systems to enhance those activities. The RMC serves as a Corps-wide resource for risk-related tools, assessments, knowledge and methods 
+The mission of the RMC is to support Civil Works by managing and assessing risks for dams and levee systems across the Corps, to support dam and levee safety activities throughout the Corps, and to develop policies, methods, tools, and systems to enhance those activities. The RMC serves as a Corps-wide resource for risk-related tools, assessments, knowledge and methods.
 
  ## Section Heading 
 

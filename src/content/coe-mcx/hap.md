@@ -22,7 +22,19 @@ slug: /coe/mcx/hap
 
 ## About 
 
-The Homeowners Assistance Program is capable of providing the following functions: a. Hotline Service Numbers: Savannah 1-800-861-8144; Fort Worth 1-888-231-7751; Sacramento 1-800-811-5532 b. Applicants counselor c. Government acquisition d. Private sale benefits e. Foreclosure benefits 
+The Homeowners Assistance Program is capable of providing the following functions:
+<ol>
+    <li>Hotline Service Numbers:
+        <ul style="list-style-type:none;">
+            <li>Savannah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☎ (800) 861-8144</li>
+            <li>Fort Worth&nbsp;&nbsp;&nbsp;&nbsp;☎ (888) 231-7751</li>
+            <li>Sacramento&nbsp;☎ (800) 811-5532</li>
+        </ul></li>
+    <li>Applicants counselor</li>
+    <li>Government acquisition</li>
+    <li>Private sale benefits</li>
+    <li>Foreclosure benefits</li> 
+</ol>
 
  ## Section Heading 
 

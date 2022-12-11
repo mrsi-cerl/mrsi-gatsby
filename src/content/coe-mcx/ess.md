@@ -22,7 +22,7 @@ slug: /coe/mcx/ess
 
 ## About 
 
-The MCX for electronic security systems (ESS) was created to maintain state-of-the-art technical expertise in, and provide expert support to a number of  mission areas including Review all DD 1391's that identify ESS and-	Support all planning and design charrettes that involve the application of ESS and Perform electronic security surveys 
+The MCX for electronic security systems (ESS) was created to maintain state-of-the-art technical expertise in, and provide expert support to a number of  mission areas including Review all DD 1391's that identify ESS and support all planning and design charrettes that involve the application of ESS and Perform electronic security surveys.
 
  ## Section Heading 
 

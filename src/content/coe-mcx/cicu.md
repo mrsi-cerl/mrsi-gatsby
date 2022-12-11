@@ -26,8 +26,6 @@ The USACE Critical Infrastructure Cybersecurity (UCIC) MCX mission is to assure 
 systems that are owned and operated by USACE are secured and authorized according to
 applicable DoD and Army regulations. The center serves to protect control systems throughout the system development life cycle from internal and external cyber threats and enable the systems to obtain an Authority to Operate (ATO).
 
-https://wiki.usace.army.mil/index.php?title=SWD:_Critical_Infrastructure_Cybersecurity_Mandatory_Center_of_Expertise&redirect=no 
-
  ## Section Heading 
 
  Swine filet mignon id kielbasa, deserunt elit jowl fugiat porchetta cupim dolore ham hock labore short loin. Tail spare ribs turducken venison sunt excepteur dolore capicola jerky velit ea. Aute elit tempor chislic. Jowl nostrud turducken sirloin andouille, porchetta hamburger. Ribeye irure esse biltong frankfurter dolore exercitation sunt aute mollit drumstick. Pancetta ut duis salami bacon. Flank id cupidatat ea. 
