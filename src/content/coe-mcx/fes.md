@@ -6,7 +6,7 @@ place_of_center: HNC
 center_type: MCX
 website: https://www.hnc.usace.army.mil/Media/Fact-Sheets/Fact-Sheet-Article-View/Article/482080/facilities-explosives-safety/
 center_poc_name: Susan Hamilton U.S. Army Engineering & Support Center, Huntsville (CEHNC) Facilities Explosives Safety MCX Program Lead 
-center_poc_phone_number: ? (256) 895-1658 
+center_poc_phone_number: ☎ (256) 895-1658 
 hq_poc_name: Rich Ludwitzke
 hq_division: E&C
 er_number: ER 1110-1-8169

@@ -6,7 +6,7 @@ place_of_center: SAS
 center_type: MCX
 website: http://www.usace.army.mil/Missions/Military-Missions/Real-Estate/HAP
 center_poc_name: Ralph Werthman
-center_poc_phone_number: ? (912) 652-5011
+center_poc_phone_number: ☎ (912) 652-5011
 hq_poc_name: Ben Foo
 hq_division: RE
 er_number: AR 405-16

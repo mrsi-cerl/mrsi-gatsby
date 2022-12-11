@@ -6,7 +6,7 @@ place_of_center: MVR
 center_type: MCX
 website: https://www.mvr.usace.army.mil/About/Offices/Inland-Navigation-Design-Center-INDC/
 center_poc_name: Roger Perk Acting
-center_poc_phone_number: ? (309) 794-5640
+center_poc_phone_number: ☎ (309) 794-5640
 hq_poc_name: Rich Ludwitzke / Tiffany Burroughs
 hq_division: E&C
 er_number: ER1110-1-8168

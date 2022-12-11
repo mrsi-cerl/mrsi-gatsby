@@ -6,7 +6,7 @@ place_of_center: N W O
 center_type: TCX
 website: http://www.nwo.usace.army.mil/About/CentersofExpertise.aspx
 center_poc_name: Tim Gouger primary, Mark Meacham secondary
-center_poc_phone_number: ? (402) 995-2191 / (402) 885-0655
+center_poc_phone_number: ☎ (402) 995-2191 / (402) 885-0655
 hq_poc_name: John Busse
 hq_division: ENV
 activation_date: 13 Jun 1991

@@ -6,7 +6,7 @@ place_of_center: MVS
 center_type: TCX
 website: http://www.mvs.usace.army.mil/Missions/CentersofExpertise/PhotogrammetricMapping.aspx
 center_poc_name: Keith Short
-center_poc_phone_number: ? (314) 331-8867
+center_poc_phone_number: ☎ (314) 331-8867
 hq_poc_name: Jacob Watts
 hq_division: E&C
 activation_date: 01 Oct 1995

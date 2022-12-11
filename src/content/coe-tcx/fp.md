@@ -6,7 +6,7 @@ place_of_center: TAM
 center_type: TCX
 website: https://www.tam.usace.army.mil/Business-With-Us/Hangar-Fire-Protection/
 center_poc_name: Samuel George
-center_poc_phone_number: ? (540) 665-3632
+center_poc_phone_number: ☎ (540) 665-3632
 hq_poc_name: John Wilkus
 hq_division: E&C
 activation_date: N/A
@@ -19,7 +19,7 @@ slug: /coe/tcx/fp
 
 ## About 
 
-The primary customer-reimbursable Technical Center of Expertise ? Fire Protection (TCX-FP) service is to provide professional Fire Protection services (guidance, design reviews, and participation in acceptance testing) to USACE Districts, Department of the Army agencies, Department of the Air Force agencies, and Department of Homeland Security 
+The primary customer-reimbursable Technical Center of Expertise ☎ Fire Protection (TCX-FP) service is to provide professional Fire Protection services (guidance, design reviews, and participation in acceptance testing) to USACE Districts, Department of the Army agencies, Department of the Air Force agencies, and Department of Homeland Security 
 
  ## Section Heading 
 

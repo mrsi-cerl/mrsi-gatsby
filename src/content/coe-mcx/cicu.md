@@ -6,7 +6,7 @@ place_of_center: SWL
 center_type: MCX
 website: https://wiki.usace.army.mil/index.php?title=SWD:_Critical_Infrastructure_Cybersecurity_Mandatory_Center_of_Expertise&redirect=no
 center_poc_name: Phil Copeland
-center_poc_phone_number: ? (501) 340-1777
+center_poc_phone_number: ☎ (501) 340-1777
 hq_poc_name: Meg Gaffney-Smith
 hq_division: CW
 er_number: ER 25-1-113

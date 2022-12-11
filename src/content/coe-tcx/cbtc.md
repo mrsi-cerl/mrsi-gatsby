@@ -6,7 +6,7 @@ place_of_center: ERDC
 center_type: TCX
 website: https://cadbimcenter.erdc.dren.mil/
 center_poc_name: Mariangelica Carrasquillo-Mangual 
-center_poc_phone_number: ? (601) 634-4485
+center_poc_phone_number: ☎ (601) 634-4485
 hq_poc_name: Jason Fairchild
 hq_division: E&C
 activation_date: N/A

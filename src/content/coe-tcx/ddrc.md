@@ -6,7 +6,7 @@ place_of_center: HNC
 center_type: TCX
 website: http://www.hnc.usace.army.mil/Missions/Centers-of-Expertise
 center_poc_name: Jimmie Jackson
-center_poc_phone_number: ? (256) 285-7365
+center_poc_phone_number: ☎ (256) 285-7365
 hq_poc_name: Amanda Weinert
 hq_division: MP
 activation_date: 01 Jan 2004

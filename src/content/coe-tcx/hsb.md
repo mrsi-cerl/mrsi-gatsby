@@ -6,7 +6,7 @@ place_of_center: NWS
 center_type: TCX
 website: http://www.nws.usace.army.mil/BusinessWithUs/HistoricPreservation.aspx
 center_poc_name: Lys Opp-Beckman
-center_poc_phone_number: ? (206) 764-3422
+center_poc_phone_number: ☎ (206) 764-3422
 hq_poc_name: Scott Wick
 hq_division: E&C
 activation_date: N/A
