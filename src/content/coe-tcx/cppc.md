@@ -19,7 +19,7 @@ slug: /coe/tcx/cppc
 
 ## About 
 
-The Conflict-resolution & Public-participation Center (CPCX) assists the Corps in the collaboration, partnering, and public participation in water resources decision making. CPCX�s mission is to help Corps staff anticipate, prevent, and manage water conflicts, ensuring that the interests of the public are addressed in Corps decision making. The center achieves this mission by developing and expanding the application of collaborative tools to improve water resources decision making. 
+The Conflict-resolution & Public-participation Center (CPCX) assists the Corps in the collaboration, partnering, and public participation in water resources decision making. CPCX's mission is to help Corps staff anticipate, prevent, and manage water conflicts, ensuring that the interests of the public are addressed in Corps decision making. The center achieves this mission by developing and expanding the application of collaborative tools to improve water resources decision making. 
 
  ## Section Heading 
 
