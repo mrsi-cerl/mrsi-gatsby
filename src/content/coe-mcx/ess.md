@@ -9,7 +9,7 @@ center_poc_name: Ben Peet and Melinda (Leigh) Young
 center_poc_phone_number: ☎ (256) 200-2316
 hq_poc_name: Nic Ivy
 hq_division: E&C
-er_number: �ER 1110-1-8162
+er_number: ER 1110-1-8162
 er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_1110-1-8162.pdf?ver=PJkE9pjRKsR6QXVKfoqjKQ%3d%3d
 er_publication_date: 31 Jan 2014
 activation_date: N/A
