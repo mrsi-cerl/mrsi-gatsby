@@ -1,11 +1,11 @@
 ---
 doc_type: coe_mcx_page 
-title: Risk Management Center              
-name_of_center: Risk Management Center              
+title: Risk Management Center
+name_of_center: Risk Management Center
 place_of_center: IWR
 center_type: MCX
 website: http://www.iwr.usace.army.mil/About/TechnicalCenters/RMCRiskManagementCenter.aspx
-center_poc_name: Nathan Snorteland 
+center_poc_name: Nathan Snorteland
 center_poc_phone_number: ☎ (303) 963-4573
 hq_poc_name: Phoebe Percell
 hq_division: E&C
@@ -15,7 +15,7 @@ er_publication_date: 30 Jun 2013
 activation_date: N/A
 recertification_date: 10 Jul 2017
 center_functional_proponent: Pete Perez
-// file_library_root_path: "content/coe/mcx/rmcLibrary/" 
+// file_library_root_path: "content/coe/mcx/rmc/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/rmc
 ---

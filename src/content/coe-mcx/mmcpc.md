@@ -15,7 +15,7 @@ er_publication_date: 30 Jun 2013
 activation_date: N/A
 recertification_date: 17 Jan 2018
 center_functional_proponent: Pete Perez
-// file_library_root_path: "content/coe/mcx/mmcpcLibrary/" 
+// file_library_root_path: "content/coe/mcx/mmcpc/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/mmcpc
 ---

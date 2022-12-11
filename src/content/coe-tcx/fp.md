@@ -12,14 +12,14 @@ hq_division: E&C
 activation_date: N/A
 recertification_date: 08 Mar 2018
 center_functional_proponent: Pete Perez
-// file_library_root_path: "content/coe/tcx/fpLibrary/" 
+// file_library_root_path: "content/coe/tcx/fp/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/tcx/fp
 ---
 
 ## About 
 
-The primary customer-reimbursable Technical Center of Expertise ☎ Fire Protection (TCX-FP) service is to provide professional Fire Protection services (guidance, design reviews, and participation in acceptance testing) to USACE Districts, Department of the Army agencies, Department of the Air Force agencies, and Department of Homeland Security 
+The primary customer-reimbursable Technical Center of Expertise – Fire Protection (TCX-FP) service is to provide professional Fire Protection services (guidance, design reviews, and participation in acceptance testing) to USACE Districts, Department of the Army agencies, Department of the Air Force agencies, and Department of Homeland Security.
 
  ## Section Heading 
 

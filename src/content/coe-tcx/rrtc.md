@@ -1,8 +1,8 @@
 ---
 doc_type: coe_ctx_page 
-title: Rapid Response Technical Center of Expertise (Rapid Response SATOC and Rapid Disaster Infrastructure MATOC) 
-name_of_center: Rapid Response Technical Center of Expertise (Rapid Response SATOC and Rapid Disaster Infrastructure MATOC) 
-place_of_center: N W O 
+title: Rapid Response Technical Center of Expertise (Rapid Response SATOC and Rapid Disaster Infrastructure MATOC)
+name_of_center: Rapid Response Technical Center of Expertise (Rapid Response SATOC and Rapid Disaster Infrastructure MATOC)
+place_of_center: N W O
 center_type: TCX
 website: http://www.nwo.usace.army.mil/About/CentersofExpertise.aspx
 center_poc_name: Tim Gouger primary, Mark Meacham secondary
@@ -12,7 +12,7 @@ hq_division: ENV
 activation_date: 13 Jun 1991
 recertification_date: 18 Oct 2021
 center_functional_proponent: Lara Beasley (environmental),  Michael Schultz (IIS - non-environmental)
-// file_library_root_path: "content/coe/tcx/rrtcLibrary/" 
+// file_library_root_path: "content/coe/tcx/rrtc/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/tcx/rrtc
 ---

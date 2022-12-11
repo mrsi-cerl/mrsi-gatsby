@@ -1,7 +1,7 @@
 ---
 doc_type: coe_mcx_page 
-title: Critical Infrastructure Cybersecurity UCIC 
-name_of_center: Critical Infrastructure Cybersecurity UCIC 
+title: Critical Infrastructure Cybersecurity UCIC
+name_of_center: Critical Infrastructure Cybersecurity UCIC
 place_of_center: SWL
 center_type: MCX
 website: https://wiki.usace.army.mil/index.php?title=SWD:_Critical_Infrastructure_Cybersecurity_Mandatory_Center_of_Expertise&redirect=no
@@ -15,7 +15,7 @@ er_publication_date: 31 Jan 2019
 activation_date: 20 Jul 2018
 recertification_date: 20 Jul 2018
 center_functional_proponent: Tom Smith
-// file_library_root_path: "content/coe/mcx/cicuLibrary/" 
+// file_library_root_path: "content/coe/mcx/cicu/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/cicu
 ---
@@ -26,7 +26,7 @@ The USACE Critical Infrastructure Cybersecurity (UCIC) MCX mission is to assure 
 systems that are owned and operated by USACE are secured and authorized according to
 applicable DoD and Army regulations. The center serves to protect control systems throughout the system development life cycle from internal and external cyber threats and enable the systems to obtain an Authority to Operate (ATO).
 
-https://wiki.usace.army.mil/index.php?title=SWD:_Critical_Infrastructure_Cybersecurity_Mandatory_Center_of_Expertise&redirect=no   
+https://wiki.usace.army.mil/index.php?title=SWD:_Critical_Infrastructure_Cybersecurity_Mandatory_Center_of_Expertise&redirect=no 
 
  ## Section Heading 
 

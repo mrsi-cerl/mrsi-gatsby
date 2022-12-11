@@ -15,7 +15,7 @@ er_publication_date: 28 Sep 2012
 activation_date: FY12
 recertification_date: 12 Jul 2017
 center_functional_proponent: Pete Perez
-// file_library_root_path: "content/coe/mcx/dsmLibrary/" 
+// file_library_root_path: "content/coe/mcx/dsm/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/dsm
 ---

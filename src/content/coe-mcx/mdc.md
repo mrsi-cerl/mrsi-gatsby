@@ -1,7 +1,7 @@
 ---
 doc_type: coe_mcx_page 
-title: Marine Design Center 
-name_of_center: Marine Design Center 
+title: Marine Design Center
+name_of_center: Marine Design Center
 place_of_center: NAP
 center_type: MCX
 website: http://www.nap.usace.army.mil/Missions/MarineDesignCenter.aspx
@@ -15,7 +15,7 @@ er_publication_date: 26 Mar 1990
 activation_date: 17 Oct 1988
 recertification_date: 05 Oct 2022
 center_functional_proponent: Tom Smith
-// file_library_root_path: "content/coe/mcx/mdcLibrary/" 
+// file_library_root_path: "content/coe/mcx/mdc/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/mdc
 ---

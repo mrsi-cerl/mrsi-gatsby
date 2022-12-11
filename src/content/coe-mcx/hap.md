@@ -1,7 +1,7 @@
 ---
 doc_type: coe_mcx_page 
-title: Homeowners Assistance Program (HAP) 
-name_of_center: Homeowners Assistance Program (HAP) 
+title: Homeowners Assistance Program (HAP)
+name_of_center: Homeowners Assistance Program (HAP)
 place_of_center: SAS
 center_type: MCX
 website: http://www.usace.army.mil/Missions/Military-Missions/Real-Estate/HAP
@@ -14,8 +14,8 @@ er_link: https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/r405-16_Web_FINAL.
 er_publication_date: 29 Sep 2016
 activation_date: N/A
 recertification_date: 16 Aug 2017
-center_functional_proponent: Paula Johnson-Muic 
-// file_library_root_path: "content/coe/mcx/hapLibrary/" 
+center_functional_proponent: Paula Johnson-Muic
+// file_library_root_path: "content/coe/mcx/hap/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/hap
 ---

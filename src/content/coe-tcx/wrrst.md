@@ -1,7 +1,7 @@
 ---
 doc_type: coe_ctx_page 
-title: Water Resources Remote Sensing/GIS Technology Center 
-name_of_center: Water Resources Remote Sensing/GIS Technology Center 
+title: Water Resources Remote Sensing/GIS Technology Center
+name_of_center: Water Resources Remote Sensing/GIS Technology Center
 place_of_center: CRREL
 center_type: TCX
 website: http://www.erdc.usace.army.mil/Media/FactSheets/FactSheetArticleView/tabid/9254/Article/6215/remote-sensinggeographic-information-systems-center.aspx
@@ -12,7 +12,7 @@ hq_division: E&C
 activation_date: N/A
 recertification_date: 31 Jan 2018
 center_functional_proponent: Pete Perez
-// file_library_root_path: "content/coe/tcx/wrrstLibrary/" 
+// file_library_root_path: "content/coe/tcx/wrrst/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/tcx/wrrst
 ---
@@ -20,10 +20,15 @@ slug: /coe/tcx/wrrst
 ## About 
 
 The Water Resources Remote Sensing/GIS Technology Center is the USACE TCX for Civil Works Remote Sensing and GIS technologies, providing mission essential support to Civil Works Programs. The RS/GIS TCX provides Cost Effective centralized management and support through technology transfer and applications development for Corps mission responsibilities in practice areas including:
-?	Navigation 
-?	Flood and Coastal Storm Damage reduction
-?	Hydropower
-?	Regulatory 
+
+•	Navigation 
+
+•	Flood and Coastal Storm Damage reduction
+
+•	Hydropower
+
+•	Regulatory 
+
 
  ## Section Heading 
 

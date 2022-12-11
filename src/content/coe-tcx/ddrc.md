@@ -1,7 +1,7 @@
 ---
 doc_type: coe_ctx_page 
-title: DD1391/Eng Form 3086 Review Center   
-name_of_center: DD1391/Eng Form 3086 Review Center   
+title: DD1391/Eng Form 3086 Review Center
+name_of_center: DD1391/Eng Form 3086 Review Center
 place_of_center: HNC
 center_type: TCX
 website: http://www.hnc.usace.army.mil/Missions/Centers-of-Expertise
@@ -12,7 +12,7 @@ hq_division: MP
 activation_date: 01 Jan 2004
 recertification_date: 12 Feb 2018
 center_functional_proponent: Stacey Hirata
-// file_library_root_path: "content/coe/tcx/ddrcLibrary/" 
+// file_library_root_path: "content/coe/tcx/ddrc/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/tcx/ddrc
 ---

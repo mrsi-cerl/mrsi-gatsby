@@ -1,7 +1,7 @@
 ---
 doc_type: coe_ctx_page 
-title: Facility Systems Safety (FASS)   
-name_of_center: Facility Systems Safety (FASS)   
+title: Facility Systems Safety (FASS)
+name_of_center: Facility Systems Safety (FASS)
 place_of_center: HNC
 center_type: TCX
 website: http://www.hnc.usace.army.mil/Missions/Centers-of-Expertise
@@ -12,7 +12,7 @@ hq_division: E&C and Safety
 activation_date: N/A
 recertification_date: 01 Mar 2018
 center_functional_proponent: Pete Perez
-// file_library_root_path: "content/coe/tcx/fassLibrary/" 
+// file_library_root_path: "content/coe/tcx/fass/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/tcx/fass
 ---

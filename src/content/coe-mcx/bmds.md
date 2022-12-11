@@ -1,7 +1,7 @@
 ---
 doc_type: coe_mcx_page 
-title: Ballistic Missile Defense System Program     
-name_of_center: Ballistic Missile Defense System Program     
+title: Ballistic Missile Defense System Program
+name_of_center: Ballistic Missile Defense System Program
 place_of_center: HNC
 center_type: MCX
 website: https://www.hnc.usace.army.mil/Media/Fact-Sheets/Fact-Sheet-Article-View/Article/622664/ballistic-missile-defense/
@@ -15,14 +15,14 @@ er_publication_date: 30 Sep 2016
 activation_date: 01 Jan 1967
 recertification_date: 10 Nov 2021
 center_functional_proponent: Stacey Hirata and Pete Perez
-// file_library_root_path: "content/coe/mcx/bmdsLibrary/" 
+// file_library_root_path: "content/coe/mcx/bmds/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/bmds
 ---
 
 ## About 
 
-The Ballistic Missile Defense Systems (BMDS) MCX, established per ER 1110-2-8163 (30 Sep 2016), provides expert ballistic missile defense system support services to all HQUSACE elements, divisions, districts, laboratories, field operations, Missile Defense Agency (MDA), and other DOD agencies.   
+The Ballistic Missile Defense Systems (BMDS) MCX, established per ER 1110-2-8163 (30 Sep 2016), provides expert ballistic missile defense system support services to all HQUSACE elements, divisions, districts, laboratories, field operations, Missile Defense Agency (MDA), and other DOD agencies. 
 
  ## Section Heading 
 

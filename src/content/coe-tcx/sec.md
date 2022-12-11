@@ -1,7 +1,7 @@
 ---
 doc_type: coe_ctx_page 
-title: Subsurface Exploration Center    
-name_of_center: Subsurface Exploration Center    
+title: Subsurface Exploration Center
+name_of_center: Subsurface Exploration Center
 place_of_center: SAM
 center_type: TCX
 website: http://www.sam.usace.army.mil/Missions/Military-Missions/Engineering/Subsurface-Exploration
@@ -12,7 +12,7 @@ hq_division: E&C
 activation_date: N/A
 recertification_date: 22 Jan 2018
 center_functional_proponent: Pete Perez
-// file_library_root_path: "content/coe/tcx/secLibrary/" 
+// file_library_root_path: "content/coe/tcx/sec/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/tcx/sec
 ---

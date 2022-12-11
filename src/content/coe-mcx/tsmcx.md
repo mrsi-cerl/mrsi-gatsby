@@ -1,11 +1,11 @@
 ---
 doc_type: coe_mcx_page 
-title: Transportation Systems Center (TSMCX) 
-name_of_center: Transportation Systems Center (TSMCX) 
-place_of_center: NWO 
+title: Transportation Systems Center (TSMCX)
+name_of_center: Transportation Systems Center (TSMCX)
+place_of_center: NWO
 center_type: MCX
 website: https://transportation.erdc.dren.mil/tsmcx/Default.aspx
-center_poc_name: Steven D. Carter Director, Transportation Systems Center, CENWO-EDT, 
+center_poc_name: Steven D. Carter Director, Transportation Systems Center, CENWO-EDT
 center_poc_phone_number: ☎ (402) 995-2399
 hq_poc_name: Georgette Hlepas
 hq_division: E&C
@@ -15,7 +15,7 @@ er_publication_date: 31 Oct 2016
 activation_date: 01 Jan 1990
 recertification_date: 31 Jan 2018
 center_functional_proponent: Pete Perez
-// file_library_root_path: "content/coe/mcx/tsmcxLibrary/" 
+// file_library_root_path: "content/coe/mcx/tsmcx/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/tsmcx
 ---

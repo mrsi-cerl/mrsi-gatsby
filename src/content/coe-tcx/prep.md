@@ -12,14 +12,14 @@ hq_division: E&C
 activation_date: 01 Apr 2022
 recertification_date: 01 Apr 2022
 center_functional_proponent: Pete Perez
-// file_library_root_path: "content/coe/tcx/prepLibrary/" 
+// file_library_root_path: "content/coe/tcx/prep/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/tcx/prep
 ---
 
 ## About 
 
-The Power Reliability Enhancement Program provides expert power availability and reliability analysis for the electrical and mechanical systems that provide primary and back up power for defense critical infrastructure, which includes Command, Control, Communications, Computer, Cyber, Intelligence, Surveillance and Reconnisance (C5ISR) facilities. PREP identifies single points of failures, troubleshoots, ensures redundency of systems, provides the number of 9s and the number of Ns.  
+The Power Reliability Enhancement Program provides expert power availability and reliability analysis for the electrical and mechanical systems that provide primary and back up power for defense critical infrastructure, which includes Command, Control, Communications, Computer, Cyber, Intelligence, Surveillance and Reconnisance (C5ISR) facilities. PREP identifies single points of failures, troubleshoots, ensures redundency of systems, provides the number of 9s and the number of Ns. 
 
  ## Section Heading 
 

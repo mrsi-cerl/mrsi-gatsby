@@ -1,7 +1,7 @@
 ---
 doc_type: coe_ctx_page 
-title: Heating, Ventilating, & Air Conditioning 
-name_of_center: Heating, Ventilating, & Air Conditioning 
+title: Heating, Ventilating, & Air Conditioning
+name_of_center: Heating, Ventilating, & Air Conditioning
 place_of_center: HNC
 center_type: TCX
 website: http://www.hnc.usace.army.mil/Missions/Centers-of-Expertise
@@ -12,7 +12,7 @@ hq_division: E&C
 activation_date: N/A
 recertification_date: 31 Jan 2018
 center_functional_proponent: Pete Perez
-// file_library_root_path: "content/coe/tcx/hvacLibrary/" 
+// file_library_root_path: "content/coe/tcx/hvac/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/tcx/hvac
 ---
