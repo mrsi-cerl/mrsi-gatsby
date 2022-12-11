@@ -19,18 +19,10 @@ export default ({ data, pageContext }) => {
   const { center } = getData(pageContext.slug, data);
   // console.log(center)
   const tableData = [
-    // {
-    //     title: "Name of Center",
-    //     value: center.frontmatter.name_of_center,
-    // },
     {
         title: "Place of Center",
         value: center.frontmatter.place_of_center,
     },
-    // {
-    //     title: "MCX or TCX",
-    //     value: center.frontmatter.center_type,
-    // },
     {
         title: "Website",
         value: (
@@ -110,21 +102,13 @@ export const query = graphql`
             center_poc_phone_number
             hq_poc_name
             hq_division
-            er_number
-            er_link
-            er_publication_date
             activation_date
             recertification_date
             center_functional_proponent
             file_library_root_path
             page_last_reviewed
-            related_links {
-                url
-                caption
-            }
             title
             slug
-            carousel_images
           }
           html
         }

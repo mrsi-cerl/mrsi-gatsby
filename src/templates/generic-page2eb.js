@@ -44,13 +44,8 @@ export const query = graphql`
             center_functional_proponent
             file_library_root_path
             page_last_reviewed
-            related_links {
-                url
-                caption
-            }
             title
             slug
-            carousel_images
           }
           html
         }
