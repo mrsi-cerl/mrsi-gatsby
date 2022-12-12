@@ -9338,7 +9338,7 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "08/12/2022 14:13:25",
+"LastModified": "12/12/2022 11:09:06",
 "Key": "content/cos/sam/tdafw/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -9349,6 +9349,13 @@
 "Key": "content/cos/sam/tdafw/Library/Army Standards/Fixed_Wing_Aviation_Unit_Army_Standard_2022-05-11.pdf",
 "extension": ".pdf",
 "Size": "685542"
+},
+{
+"name": "standard_design_uas_group4_hangar 2 JUL 2018.pdf",
+"LastModified": "07/29/2019 18:27:24",
+"Key": "content/cos/sam/tdafw/Library/Army Standards/standard_design_uas_group4_hangar 2 JUL 2018.pdf",
+"extension": ".pdf",
+"Size": "5836879"
 },
 {
 "name": "Library",
@@ -9562,7 +9569,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "08/22/2022 14:03:48",
+"LastModified": "12/12/2022 11:09:06",
 "Key": "content/cos/sam/tuas/Library/Archive",
 "extension": "",
 "Size": ""
@@ -9615,13 +9622,6 @@
 "Key": "content/cos/sam/tuas/Library/Archive/hangar_uas_maintenance_fy19.pdf",
 "extension": ".pdf",
 "Size": "22281"
-},
-{
-"name": "standard_design_uas_group4_hangar 2 JUL 2018.pdf",
-"LastModified": "07/29/2019 18:27:24",
-"Key": "content/cos/sam/tuas/Library/Archive/standard_design_uas_group4_hangar 2 JUL 2018.pdf",
-"extension": ".pdf",
-"Size": "5836879"
 },
 {
 "name": "TUAS Aviation Unit Army Standard 2022-05-11.pdf",
