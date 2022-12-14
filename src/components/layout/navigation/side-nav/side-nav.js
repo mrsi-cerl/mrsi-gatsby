@@ -4,8 +4,19 @@ import cx from "classnames"
 import styles from "./side-nav.module.css"
 import { Accordion, AccordionButton, AccordionContent } from "uswds-react"
 
+const compareCaption = (a, b) => {
+  if (a.caption.toLowerCase() < b.caption.toLowerCase()) return -1
+  if (a.caption.toLowerCase() > b.caption.toLowerCase()) return 1
+  return 0
+}
+
 function createAcordianList(p, idx, currPath) {
-  const openAccordian = p.children.find(e => e.slug === currPath) ? true : false
+  const openAccordian = p.children.find((e) => e.slug === currPath)
+    ? true
+    : false
+
+  // don't mutate the original
+  const children = [...p.children].sort(compareCaption)
 
   return (
     <li className="usa-sidenav__item" key={p.slug}>
@@ -19,7 +30,7 @@ function createAcordianList(p, idx, currPath) {
         >
           <span
             className={cx({
-              "usa-current": p in p.children,
+              "usa-current": p in children,
             })}
           >
             {p.caption}
@@ -31,7 +42,7 @@ function createAcordianList(p, idx, currPath) {
           defaultHidden={!openAccordian}
         >
           <ul className="usa-sidenav__sublist">
-            {p.children.map((e, index) => {
+            {children.map((e, index) => {
               return (
                 <li
                   key={e.slug}
@@ -57,8 +68,8 @@ function createAcordianList(p, idx, currPath) {
   )
 }
 
-function createNavList(pages, currPath) {
-  return pages.map((p, idx) => {
+function createNavList(menuItems, currPath) {
+  const menu = menuItems.map((p, idx) => {
     if (p.children) {
       return createAcordianList(p, idx, currPath)
     } else {
@@ -74,6 +85,8 @@ function createNavList(pages, currPath) {
       )
     }
   })
+
+  return menu
 }
 
 function getSideNav(pages, path) {

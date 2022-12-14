@@ -122,6 +122,7 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
           <div className={styles.bc}>
             <span
               role="link"
+              tabIndex={0}
               onClick={() => setDir(rootDir)}
               onKeyUp={() => setDir(rootDir)}
               style={{ paddingRight: 5 }}
@@ -173,6 +174,8 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                     <td>
                       <FontAwesomeIcon icon={faFolder} color="#FFDD66" />
                       <span
+                        role="button"
+                        tabIndex={idx}
                         style={{ marginLeft: 10 }}
                         onClick={() => setDir(e.Key + "/")}
                         onKeyUp={() => setDir(e.Key + "/")}
@@ -181,7 +184,7 @@ const Library = ({ rootDir, hideBC, hideTitle }) => {
                         {e.name}
                       </span>
                       <span
-                        class="usa-tag"
+                        className="usa-tag"
                         style={{
                           padding: "0px 5px",
                           borderRadius: "5px",
