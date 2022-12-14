@@ -44,6 +44,16 @@
     "gatsby"
   ],
   "license": "MIT",
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ],
+    "rules": {
+      "jsx-a11y/click-events-have-key-events": "off",
+      "jsx-a11y/no-noninteractive-element-interactions": "off"
+    }
+  },
   "scripts": {
     "build": "gatsby build",
     "develop": "env-cmd -f .env.development gatsby develop",
