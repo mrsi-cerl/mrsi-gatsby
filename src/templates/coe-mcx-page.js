@@ -56,7 +56,7 @@ export default ({ data, pageContext }) => {
     {
         title: "ER Number",
         value: (
-              mcx.frontmatter.er_number == "No ER established yet"
+              mcx.frontmatter.er_number.toLowerCase() == "No ER established yet".toLowerCase()
                 ?
                   "No ER established yet"
                 :
