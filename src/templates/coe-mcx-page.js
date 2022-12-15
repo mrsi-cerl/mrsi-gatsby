@@ -27,7 +27,7 @@ export default ({ data, pageContext }) => {
       title: "Website",
       value: (
         <a href={center.frontmatter.website} target="_blank" rel="noopener noreferrer">
-          Click here to visit
+            {center.frontmatter.website.length > 50 ? center.frontmatter.website.slice(0, 50) + "..." : center.frontmatter.website}
         </a>
       )
     },
@@ -55,16 +55,12 @@ export default ({ data, pageContext }) => {
     },
     {
         title: "ER Number",
-        value: center.frontmatter.er_number
-    },
-    {
-      title: "ER Link",
-      value: (
-        <a href={center.frontmatter.er_link} target="_blank" rel="noopener noreferrer">
-          Click here to view
-        </a>
-      )
-    },
+        value: (
+          <a href={center.frontmatter.er_link} target="_blank" rel="noopener noreferrer">
+            {center.frontmatter.er_number}
+          </a>
+        )
+      },
     {
         title: "Publication Date of ER",
         value: center.frontmatter.er_publication_date
