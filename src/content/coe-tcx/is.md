@@ -5,7 +5,7 @@ name_of_center: Installation Support
 place_of_center: HNC
 center_type: TCX
 website: http://www.hnc.usace.army.mil/Missions/Centers-of-Expertise
-center_poc_name: William "Bill" Craven
+center_poc_name: Bill Craven
 center_poc_phone_number: ☎ (256) 368-3071
 hq_poc_name: Michael Grizer
 hq_division: IRD
