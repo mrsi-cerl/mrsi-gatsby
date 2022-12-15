@@ -40,8 +40,8 @@ export default ({ data, pageContext }) => {
               (ctx.frontmatter.ctx_poc_phone_number)
             }
           >
-            {ctx.frontmatter.ctx_poc_name} <br/>
-            {ctx.frontmatter.ctx_poc_phone_number}
+            {ctx.frontmatter.center_poc_name} <br/>
+            {ctx.frontmatter.center_poc_phone_number}
           </a>
         ),
     },
