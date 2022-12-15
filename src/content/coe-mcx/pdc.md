@@ -9,7 +9,7 @@ center_poc_name: Curt Betts
 center_poc_phone_number: ☎ (402) 995-2376
 hq_poc_name: Rich Ludwitzke and Christopher Westbrook
 hq_division: E&C
-er_number: No ER estabished yet
+er_number: No ER established yet
 er_link: https://mrsi.erdc.dren.mil/404.html
 er_publication_date: N/A
 activation_date: 22 Nov 1985

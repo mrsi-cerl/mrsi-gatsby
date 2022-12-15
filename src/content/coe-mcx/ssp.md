@@ -9,7 +9,7 @@ center_poc_name: Keith Hyde
 center_poc_phone_number: ☎ (208) 343-0671
 hq_poc_name: Jeff Krause
 hq_division: OPS
-er_number: No ER estabished yet
+er_number: No ER established yet
 er_link: https://mrsi.erdc.dren.mil/404.html
 er_publication_date: 01 Jun 2006
 activation_date: 01 Nov 1994
