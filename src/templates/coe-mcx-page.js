@@ -58,9 +58,9 @@ export default ({ data, pageContext }) => {
         value: (
               mcx.frontmatter.er_number == "No ER estabished yet"
                 ?
-                  "No ER estabished yet"
+                  "No ER established yet"
                 :
-                  <a href={mcx.frontmatter.website} target="_blank" rel="noopener noreferrer">
+                  <a href={mcx.frontmatter.er_link} target="_blank" rel="noopener noreferrer">
                     {mcx.frontmatter.er_number}
                   </a>
         )
