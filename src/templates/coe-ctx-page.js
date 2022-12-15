@@ -27,7 +27,7 @@ export default ({ data, pageContext }) => {
         title: "Website",
         value: (
           <a href={ctx.frontmatter.website} target="_blank" rel="noopener noreferrer">
-            {ctx.frontmatter.website.length > 50 ? ctx.frontmatter.website.slice(0, 50) + "..." : ctx.frontmatter.website}
+            {ctx.frontmatter.title.length > 50 ? ctx.frontmatter.title.slice(0, 50) + "..." : ctx.frontmatter.title}
           </a>
         )
     },
