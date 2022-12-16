@@ -79,8 +79,17 @@ export default ({ data, pageContext }) => {
     },
     {
       title: "Functional Proponent (SES)",
-      value: mcx.frontmatter.center_functional_proponent
-    },
+      value: (
+        mcx.frontmatter.center_functional_proponent.indexOf(",,") > 0
+              ?
+              <div>
+                {mcx.frontmatter.center_functional_proponent.slice(0, mcx.frontmatter.center_functional_proponent.indexOf(",,"))} <br/>
+                {mcx.frontmatter.center_functional_proponent.slice(mcx.frontmatter.center_functional_proponent.indexOf(",,") + 2, 100)}
+              </div>
+              :
+                mcx.frontmatter.center_functional_proponent
+    ) 
+  },
   ]
 
   return (
