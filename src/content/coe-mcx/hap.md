@@ -23,7 +23,7 @@ slug: /coe/mcx/hap
 ## About 
 
 The Homeowners Assistance Program is capable of providing the following functions:
-<ol>
+<ul>
     <li>Hotline Service Numbers:
         <ul style="list-style-type:none;">
             <li>Savannah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☎ (800) 861-8144</li>
@@ -34,7 +34,7 @@ The Homeowners Assistance Program is capable of providing the following function
     <li>Government acquisition</li>
     <li>Private sale benefits</li>
     <li>Foreclosure benefits</li> 
-</ol>
+</ul>
 
  ## Section Heading 
 

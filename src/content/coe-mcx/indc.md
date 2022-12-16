@@ -22,7 +22,7 @@ slug: /coe/mcx/indc
 
 ## About 
 
-The focus of the Inland Navigation Design Center Mandatory Center of Expertise (INDC MCX) is providing engineering design, analysis and review services for studies, new locks, new navigation dams, major rehabilitation of existing inland navigation locks and dams, and significant inland navigation lock and dam O&M projects. 
+The focus of the Inland Navigation Design Center Mandatory Center of Expertise (INDC-MCX) is providing engineering design, analysis, and review services for studies, new locks, new navigation dams, major rehabilitation of existing inland navigation locks and dams, and significant inland navigation lock and dam O&M projects. 
 
  ## Section Heading 
 

@@ -19,7 +19,7 @@ slug: /coe/tcx/rrtc
 
 ## About 
 
-The RR-TCX mission is to provide national and international time-sensitive as well as non-time sensitive support of homeland security/defense, disaster, and infrastructure work where a discretionary and or flexible cost reimbursement contract is required to accomplish the mission to serve the nation in support of all Federal Agencies includes NCP and ESF3 support. 
+The RR-TCX mission is to provide national and international time-sensitive as well as non-time-sensitive support of homeland security/defense, disaster, and infrastructure work where a discretionary and/or flexible cost reimbursement contract is required to accomplish the mission: to serve the nation in support of all Federal Agencies, including NCP and ESF3 support. 
 
  ## Section Heading 
 

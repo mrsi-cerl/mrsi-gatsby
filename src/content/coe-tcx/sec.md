@@ -19,7 +19,7 @@ slug: /coe/tcx/sec
 
 ## About 
 
-The Subsurface Exploration TCX provides technical assistance and guidance to the USACE commands and other Government agencies on all aspects related to Geotechnical and Geologic investigations. Mobile District was selected to manage the TCX due to having over sixty years of successful drilling experience, proven leadership and reliability in the industry, high customer satisfaction, and an extensive knowledge base among its personnel 
+The Subsurface Exploration TCX provides technical assistance and guidance to the USACE commands and other Government agencies on all aspects related to Geotechnical and Geologic investigations. Mobile District was selected to manage the TCX due to having over sixty years of successful drilling experience, proven leadership and reliability in the industry, high customer satisfaction, and an extensive knowledge base among its personnel.
 
  ## Section Heading 
 

@@ -19,7 +19,7 @@ slug: /coe/tcx/hsb
 
 ## About 
 
-The administration and operation of the TCX as the USACE's technical and advisory center on matters of the historic built environment that fall within the agency's scope of responsibility under the National Historic Preservation Act (NHPA). Program standards and guidance are defined primarily in the Secretary of the Interior's Standards for the Rehabilitation of Historic Properties and in Sections 106 and 110 of the NHPA 
+The administration and operation of the TCX as the USACE's technical and advisory center on matters of the historic built environment that fall within the agency's scope of responsibility under the National Historic Preservation Act (NHPA). Program standards and guidance are defined primarily in the Secretary of the Interior's Standards for the Rehabilitation of Historic Properties and in Sections 106 and 110 of the NHPA.
 
  ## Section Heading 
 

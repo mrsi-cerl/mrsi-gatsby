@@ -19,7 +19,7 @@ slug: /coe/tcx/ptc
 
 ## About 
 
-The Paint Technology Center Technical Center of Expertise (PTC-TCX) is assigned to the Construction Engineering Research Laboratories in Champaign, IL. Expertise in areas related to paints and coatings, including corrosion mitigation techniques and high-performance polymer materials, is also available from other personnel at this location. The Paint Technology Center TCX maintains state-of-the-art technical expertise regarding all types of paints and coatings for use on Army military and civil works facilities 
+The Paint Technology Center Technical Center of Expertise (PTC-TCX) is assigned to ERDC’s Construction Engineering Research Laboratory in Champaign, Illinois. Expertise in areas related to paints and coatings, including corrosion mitigation techniques and high-performance polymer materials, is also available from other personnel at this location. The Paint Technology Center TCX maintains state-of-the-art technical expertise regarding all types of paints and coatings for use on Army military and civil works facilities 
 
  ## Section Heading 
 

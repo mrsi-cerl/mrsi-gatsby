@@ -22,7 +22,7 @@ slug: /coe/mcx/hdc
 
 ## About 
 
-The MCX for hydroelectric design was established to consolidate the USACE hydroelectric economic and engineering expertise and workload at a centralized office. HDC is an MCX for hydroelectric power plant economic evaluation, engineering and design and a TCX for large pumping plant engineering and design. 
+The MCX for hydroelectric design was established to consolidate the USACE hydroelectric economic and engineering expertise and workload at a centralized office. HDC is an MCX for hydroelectric power plant economic evaluation, engineering, and design as well as a TCX for large pumping plant engineering and design.
 
  ## Section Heading 
 

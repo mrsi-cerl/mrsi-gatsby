@@ -19,7 +19,7 @@ slug: /coe/tcx/fp
 
 ## About 
 
-The primary customer-reimbursable Technical Center of Expertise – Fire Protection (TCX-FP) service is to provide professional Fire Protection services (guidance, design reviews, and participation in acceptance testing) to USACE Districts, Department of the Army agencies, Department of the Air Force agencies, and Department of Homeland Security.
+The primary customer-reimbursable Technical Center of Expertise—Fire Protection (TCX-FP) service is to provide professional Fire Protection services (guidance, design reviews, and participation in acceptance testing) to USACE Districts, Department of the Army agencies, Department of the Air Force agencies, and Department of Homeland Security.
 
  ## Section Heading 
 

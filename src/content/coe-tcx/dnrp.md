@@ -19,14 +19,14 @@ slug: /coe/tcx/dnrp
 
 ## About 
 
-The Mission of the DNRP is the Recruitment, Retention and Relocation of DoD Civilians. Due to certain tax laws the DNRP is able to buy the home of relocating DoD Civilians, at fair market value.The Defense National Relocation Program is designed to provide the following functions:
-<ol>
+The Mission of the DNRP is the Recruitment, Retention and Relocation of DoD Civilians. Due to certain tax laws the DNRP is able to buy the home of relocating DoD Civilians, at fair market value. The Defense National Relocation Program is designed to provide the following functions:
+<ul>
     <li>Hotline Service: 1-800-344-2501</li>
         <li>Client services counselor</li>
         <li>Destination services</li>
         <li>Guaranteed home sale service with marketing assistance</li>
         <li>Property management </li>
-</ol>
+</ul>
 
  ## Section Heading 
 

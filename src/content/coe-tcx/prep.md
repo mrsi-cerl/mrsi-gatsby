@@ -19,7 +19,7 @@ slug: /coe/tcx/prep
 
 ## About 
 
-The Power Reliability Enhancement Program provides expert power availability and reliability analysis for the electrical and mechanical systems that provide primary and back up power for defense critical infrastructure, which includes Command, Control, Communications, Computer, Cyber, Intelligence, Surveillance and Reconnisance (C5ISR) facilities. PREP identifies single points of failures, troubleshoots, ensures redundency of systems, provides the number of 9s and the number of Ns. 
+The Power Reliability Enhancement Program provides expert power availability and reliability analysis for the electrical and mechanical systems that provide primary and back up power for defense critical infrastructure, which includes Command, Control, Communications, Computer, Cyber, Intelligence, Surveillance and Reconnaissance (C5ISR) facilities. PREP identifies single points of failures, troubleshoots, ensures redundancy of systems, provides the number of 9s and the number of Ns. 
 
  ## Section Heading 
 

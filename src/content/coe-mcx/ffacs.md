@@ -22,7 +22,7 @@ slug: /coe/mcx/ffacs
 
 ## About 
 
-The Petroleum, Oils, Lubricants Technical Center of Expertise (POL-MCX) is a project life cycle prodution center with mandatory authorities.  Its matrix organization consists of project managers, engineers, architects, construction managers, and administrative staff with in the U.S. Army Corps of Engineers, Omaha District. The POL-MCX monitors technological advancements and industry developments relative to military fuel systems and assists in development of design guidance and criteria (UFC) related to military fuel systems. 
+The Petroleum, Oils, Lubricants Technical Center of Expertise (POL-MCX) is a project life cycle production center with mandatory authorities.  Its matrix organization consists of project managers, engineers, architects, construction managers, and administrative staff with in the U.S. Army Corps of Engineers, Omaha District. The POL-MCX monitors technological advancements and industry developments relative to military fuel systems and assists in development of design guidance and criteria (UFC) related to military fuel systems. 
 
  ## Section Heading 
 

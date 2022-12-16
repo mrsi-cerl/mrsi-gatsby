@@ -22,7 +22,7 @@ slug: /coe/mcx/dsm
 
 ## About 
 
-The USACE Dam Safety Modification Mandatory Center of Expertise (DSMMCX) provides technical advice, oversight, review and production capability for all aspects of dam modification projects across USACE. 
+The USACE Dam Safety Modification Mandatory Center of Expertise (DSM-MCX) provides technical advice, oversight, review, and production capability for all aspects of dam modification projects across USACE. 
 
  ## Section Heading 
 

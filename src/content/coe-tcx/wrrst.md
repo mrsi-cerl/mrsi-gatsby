@@ -20,15 +20,12 @@ slug: /coe/tcx/wrrst
 ## About 
 
 The Water Resources Remote Sensing/GIS Technology Center is the USACE TCX for Civil Works Remote Sensing and GIS technologies, providing mission essential support to Civil Works Programs. The RS/GIS TCX provides Cost Effective centralized management and support through technology transfer and applications development for Corps mission responsibilities in practice areas including:
-
-•	Navigation 
-
-•	Flood and Coastal Storm Damage reduction
-
-•	Hydropower
-
-•	Regulatory 
-
+<ul>
+    <li>Navigation</li>
+    <li>Flood and Coastal Storm Damage reduction</li>
+    <li>Hydropower</li>
+    <li>Regulatory</li>
+</ul>
 
  ## Section Heading 
 

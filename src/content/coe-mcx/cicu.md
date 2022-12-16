@@ -23,8 +23,7 @@ slug: /coe/mcx/cicu
 ## About 
 
 The USACE Critical Infrastructure Cybersecurity (UCIC) MCX mission is to assure that new and existing projects and facilities with control
-systems that are owned and operated by USACE are secured and authorized according to
-applicable DoD and Army regulations. The center serves to protect control systems throughout the system development life cycle from internal and external cyber threats and enable the systems to obtain an Authority to Operate (ATO).
+systems that are owned and operated by USACE are secured and authorized according to applicable DoD and Army regulations. The center serves to protect control systems throughout the system development life cycle from internal and external cyber threats as well as to enable the systems to obtain an Authority to Operate (ATO).
 
  ## Section Heading 
 

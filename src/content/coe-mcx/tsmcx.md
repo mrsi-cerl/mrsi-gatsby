@@ -22,7 +22,7 @@ slug: /coe/mcx/tsmcx
 
 ## About 
 
-The Transportation Systems Center (TSC) was established in 1990 to support the Tri-Services (Army, Air Force and Navy) for training, operations, and mobilization by providing expertise in the planning, design, construction, evaluation, and criteria development of military airfields, roads, and railroads. Furthermore, the TSC was also established to provide continuity, standardization, and technical excellence within the Army and as a benefit to all the Department of Defense. 
+The Transportation Systems Center (TSC) was established in 1990 to support the Tri-Services (Army, Air Force, and Navy) for training, operations, and mobilization by providing expertise in the planning, design, construction, evaluation, and criteria development of military airfields, roads, and railroads. Furthermore, the TSC was also established to provide continuity, standardization, and technical excellence within the Army and as a benefit to all of the Department of Defense. 
 
  ## Section Heading 
 

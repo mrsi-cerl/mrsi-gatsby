@@ -22,7 +22,7 @@ slug: /coe/mcx/rtlp
 
 ## About 
 
-RTLP MCX is responsible for reviewing designs, conducting technical support inspections and ensuring Army Standards are maintained and met.  Provides planning, MILCON programming and development of standard designs for Army automated ranges, and DD1391 preparation and validation. 
+RTLP-MCX is responsible for reviewing designs, conducting technical support inspections, and ensuring Army Standards are maintained and met. Provides planning, MILCON programming and development of standard designs for Army automated ranges, and DD1391 preparation and validation. 
 
  ## Section Heading 
 

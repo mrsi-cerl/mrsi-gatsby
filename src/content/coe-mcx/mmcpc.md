@@ -22,7 +22,7 @@ slug: /coe/mcx/mmcpc
 
 ## About 
 
-The Modeling, Mapping and Consequences (MMC) Production Center Mandatory Center of Expertise (MMC MCX) supports the U.S. Army Corps of Engineers (USACE) Institute for Water Resources (IWR), Risk Management Center (RMC) and HQ USACE Office Homeland Security, Critical Infrastructure Protection and Resilience (CIPR), by analyzing the potential consequences of dam and levee infrastructure failures.
+The Modeling, Mapping and Consequences (MMC) Production Center Mandatory Center of Expertise (MMC-MCX) supports the U.S. Army Corps of Engineers (USACE) Institute for Water Resources (IWR); Risk Management Center (RMC); and HQ USACE Office Homeland Security, Critical Infrastructure Protection and Resilience (CIPR) by analyzing the potential consequences of dam and levee infrastructure failures.
 
  ## Section Heading 
 

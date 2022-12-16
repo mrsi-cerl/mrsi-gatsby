@@ -22,7 +22,7 @@ slug: /coe/mcx/mdc
 
 ## About 
 
-The Marine Design Center is the Corps of Engineers center of expertise and experience for the development and application of innovative strategies and technologies for naval architecture and marine engineering. We provide total project management including planning, engineering, and shipbuilding contract management in support of Corps, Army, DOD and other Federal Agencies. The Center is located in Philadelphia District but directly assigned to HQUSACE.and not affiliated with either NAP or NAD.
+The Marine Design Center is the Corps of Engineers center of expertise and experience for the development and application of innovative strategies and technologies for naval architecture and marine engineering. We provide total project management including planning, engineering, and shipbuilding contract management in support of Corps, Army, DOD and other Federal Agencies. The Center is located in Philadelphia District but directly assigned to HQUSACE and not affiliated with either NAP or NAD.
 
  ## Section Heading 
 

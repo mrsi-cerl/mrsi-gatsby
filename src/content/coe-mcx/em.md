@@ -22,7 +22,7 @@ slug: /coe/mcx/em
 
 ## About 
 
-The Environmental and Munitions Center of Expertise is a Quality Assurance organization that provides mandatory document review, project technical support, training development and instruction, and guidance development for environmental and militray munition compliance and clean-up activities. The EM CX is a multi-disciplined, highly skilled and experienced staff who provides the highest degree of technical expertise to the Corps, Army, DoD, EPA and other Stakeholders. 
+The Environmental and Munitions Center of Expertise is a Quality Assurance organization that provides mandatory document review; project technical support; training development and instruction; and guidance development for environmental and military munition compliance/clean-up activities. The EM CX is a multi-disciplined, highly skilled, and experienced staff who provide the highest degree of technical expertise to the Corps, Army, DoD, EPA, and other Stakeholders. 
 
  ## Section Heading 
 

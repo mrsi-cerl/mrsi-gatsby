@@ -23,12 +23,12 @@ slug: /coe/mcx/fes
 ## About 
 
 The Facilities Explosive Safety (FES) MCX, established per ECB 2017-21 (01 Nov 2017), provides expert facilities explosives safety technical support services to all HQUSACE elements, divisions, districts, laboratories, field operations, Army, and other DOD and non-DOD federal agencies.  Technical expertise in this area includes:
-<ol>
+<ul>
     <li>Determining Explosives Safety Separation Distances</li>
-    <li>Determining explosives effects such as overpressure and fragment/debris characeristics</li>
+    <li>Determining explosives effects such as overpressure and fragment/debris characteristics</li>
     <li>Mitigation (protective construction) of explosives effects and</li>
-    <li>Requirements for Lightning Protection Systems for explosives operations and storage.</li>
-</ol>
+    <li>Requirements for Lightning Protection Systems for explosives operations and storage</li>
+</ul>
 
  ## Section Heading 
 

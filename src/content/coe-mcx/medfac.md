@@ -22,7 +22,7 @@ slug: /coe/mcx/medfac
 
 ## About 
 
-The U.S. Army Engineering and Support Center, Huntsville, is the Army Corps of Engineers' Medical Facilities Mandatory Center of Expertise and Standardization (MX). The MX partners with the USACE project delivery teams, regional business centers/divisions, stakeholders and geographical districts to provide medical expertise and the highest-quality medical and medical research facility lifecycle support to the Department of Defense, other federal agencies and foreign governments. 
+The U.S. Army Engineering and Support Center, Huntsville, is the Army Corps of Engineers' Medical Facilities Mandatory Center of Expertise and Standardization (MX). The MX partners with the USACE project delivery teams, regional business centers/divisions, stakeholders, and geographical districts to provide medical expertise and the highest-quality medical and medical research facility lifecycle support to the Department of Defense, other federal agencies, and foreign governments. 
 
  ## Section Heading 
 

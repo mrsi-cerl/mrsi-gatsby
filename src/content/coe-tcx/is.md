@@ -19,7 +19,7 @@ slug: /coe/tcx/is
 
 ## About 
 
-The Engineering and Support Center, Huntsville serves as the Installation Support Center of Expertise. partners with Corps of Engineers' districts and labs to provide support in public works business processes, systems, training and contingency support. It provides quality engineering and design services in areas such as conforming storage facilities, intrusion detection systems, utility monitoring and control systems, and ranges and training lands management. It also provides innovative services in privatization and competitive sourcing; facility operation, maintenance, repair and rehabilitation; fire protection; furniture and furnishings; and environmental planning. The ISCX is committed to providing outstanding mission and quality of life support to military installations. 
+The Engineering and Support Center, Huntsville serves as the Installation Support Center of Expertise. partners with Corps of Engineers' districts and labs to provide support in public works business processes, systems, training and contingency support. It provides quality engineering and design services in areas such as conforming storage facilities; intrusion detection systems: utility monitoring and control systems; and ranges and training lands management. It also provides innovative services in privatization and competitive sourcing; facility operation; maintenance; repair and rehabilitation; fire protection; furniture and furnishings; and environmental planning. The ISCX is committed to providing outstanding mission and quality of life support to military installations. 
 
  ## Section Heading 
 

@@ -19,7 +19,7 @@ slug: /coe/tcx/semc
 
 ## About 
 
-The Survey Engineering and Mapping Technical Center of Expertise (SEMTCX) was established to provide consistency in surveying and mapping projects in the Corps of Engineers and to provide expertise and knowledge in the various areas listed below:
+The Survey Engineering and Mapping Technical Center of Expertise (SEM-TCX) was established to provide consistency in surveying and mapping projects in the Corps of Engineers and to provide expertise and knowledge in the various areas listed below:
 <ul>
 	<li>Horizontal and Vertical Datums (Geodetic and Water Level)</li>
 	<li>Electronic Charting for Navigating</li>

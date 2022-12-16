@@ -19,7 +19,7 @@ slug: /coe/tcx/hdc
 
 ## About 
 
-HDC is an MCX for hydroelectric power plant economic evaluation, engineering and design and a TCX for large pumping plant engineering and design. 
+HDC is an MCX for hydroelectric power plant economic evaluation, engineering, and design as well as a TCX for large pumping plant engineering and design.
 
  ## Section Heading 
 

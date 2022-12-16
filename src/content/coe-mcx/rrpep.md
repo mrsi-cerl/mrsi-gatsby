@@ -10,7 +10,7 @@ center_poc_phone_number: ☎ (916) 557-5225
 hq_poc_name: Clayton Redmond
 hq_division: RE
 er_number: Title 10 USC §18240
-er_link: https://mrsi.erdc.dren.mil/404.html
+er_link: https://www.govinfo.gov/content/pkg/USCODE-2009-title10/pdf/USCODE-2009-title10-subtitleE-partV-chap1803-sec18240.pdf
 er_publication_date: N/A
 activation_date: N/A
 recertification_date: 04 Dec 2018
@@ -21,14 +21,12 @@ slug: /coe/mcx/rrpep
 ---
 
 ## About 
-
-o	Authority for RPX is Title 10 USC §18240.
-
-o	Only a facility of a Reserve Component that is not excess to the needs of the Army Reserve may be exchanged.
-
-o	The value of the replacement facility, or addition to an existing facility, including any utilities, equipment, and furnishings, must be at least equal to the fair market value of the facility conveyed. If the values are unequal, the values may not be equalized by any payment of cash consideration by either party to the agreement.
-
-o	The acquisition of a facility or an addition to an existing facility under this section may include the acquisition of utilities, equipment, and furnishings for the facility. 
+<ul>
+    <li>Authority for RPX is Title 10 USC §18240 (linked above)</li>
+    <li>Only a facility of a Reserve Component that is not excess to the needs of the Army Reserve may be exchanged</li>
+    <li>The value of the replacement facility, or addition to an existing facility, including any utilities, equipment, and furnishings, must be at least equal to the fair market value of the facility conveyed. If the values are unequal, the values may not be equalized by any payment of cash consideration by either party to the agreement</li>
+    <li>The acquisition of a facility or an addition to an existing facility under this section may include the acquisition of utilities, equipment, and furnishings for the facility</li>
+</ul>
 
  ## Section Heading 
 

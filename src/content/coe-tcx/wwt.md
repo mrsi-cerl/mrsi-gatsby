@@ -19,7 +19,7 @@ slug: /coe/tcx/wwt
 
 ## About 
 
-The Water and Wastewater Treatment TCX maintains state of the art technical expertise in the field of Water and Wastewater Treatment. Water and Wastewater Treatment includes potable water supply, treatment, storage and distribution; and domestic wastewater collection, pumping, treatment and disposal 
+The Water and Wastewater Treatment TCX maintains state-of-the-art technical expertise in the field of Water and Wastewater Treatment. Water and Wastewater Treatment includes potable water supply, treatment, storage and distribution; and domestic wastewater collection, pumping, treatment and disposal. 
 
  ## Section Heading 
 

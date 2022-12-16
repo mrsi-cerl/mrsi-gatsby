@@ -22,7 +22,7 @@ slug: /coe/mcx/cecoe
 
 ## About 
 
-The Walla Walla District's Cost Engineering Branch has been established as the Cost Engineering MCX. The MCX serves a critical role in cost support activities for the overall USACE community, with a focus on the Civil Works, Military and Interagency and International Support programs. 
+The Walla Walla District's Cost Engineering Branch has been established as the Cost Engineering MCX. The MCX serves a critical role in cost support activities for the overall USACE community, with a focus on the Civil Works, Military, and Interagency and International Support programs. 
 
  ## Section Heading 
 

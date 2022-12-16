@@ -19,7 +19,7 @@ slug: /coe/tcx/rcc
 
 ## About 
 
-The Roller Compacted Concrete Technology Center (RCCT TCX) consists of networked, selected nationwide experts, including Waterways Experiment Station, providing reimbursable services for a variety of technical services for concrete structures and pavements 
+The Roller Compacted Concrete Technology Center (RCCT-TCX) consists of networked, selected, nationwide experts, including Waterways Experiment Station, providing reimbursable services for a variety of technical services for concrete structures and pavements.
 
  ## Section Heading 
 
