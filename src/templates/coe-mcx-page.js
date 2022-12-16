@@ -80,7 +80,10 @@ export default ({ data, pageContext }) => {
     {
       title: "Functional Proponent (SES)",
       value: (
-        mcx.frontmatter.center_functional_proponent.indexOf(",,") > 0
+          // This is a fix for a corner case wherein there are two functional proponents with clariying text,
+          // thereby making the text too long and the table too wide. Using two commas and a space (name1,, name2)
+          // to separate the two names allows for a line break to be inserted--but just once!
+          mcx.frontmatter.center_functional_proponent.indexOf(",,") > 0
               ?
               <div>
                 {mcx.frontmatter.center_functional_proponent.slice(0, mcx.frontmatter.center_functional_proponent.indexOf(",,"))} <br/>
