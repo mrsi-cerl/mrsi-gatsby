@@ -21,7 +21,7 @@ export default ({ data, pageContext }) => {
   const tableData = [
     {
         title: "Place of Center",
-        value: ctx.frontmatter.place_of_center,
+        value: ctx.frontmatter.place_of_center
     },
     {
         title: "Website",
@@ -63,7 +63,16 @@ export default ({ data, pageContext }) => {
     },
     {
       title: "Functional Proponent (SES)",
-      value: ctx.frontmatter.center_functional_proponent,
+      value: (
+          ctx.frontmatter.center_functional_proponent.indexOf(",,") > 0
+                ?
+                <div>
+                  {ctx.frontmatter.center_functional_proponent.slice(0, ctx.frontmatter.center_functional_proponent.indexOf(",,"))} <br/>
+                  {ctx.frontmatter.center_functional_proponent.slice(ctx.frontmatter.center_functional_proponent.indexOf(",,") + 2, 100)}
+                </div>
+                :
+                  ctx.frontmatter.center_functional_proponent
+      ) 
     },
   ]
 

@@ -14,7 +14,7 @@ er_link: https://www.publications.usace.army.mil/Portals/76/Publications/Enginee
 er_publication_date: 30 Sep 2016
 activation_date: 01 Jan 1967
 recertification_date: 10 Nov 2021
-center_functional_proponent: Stacey Hirata and Pete Perez
+center_functional_proponent: Stacey Hirata / Pete Perez
 // file_library_root_path: "content/coe/mcx/bmds/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/bmds

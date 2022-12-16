@@ -5,7 +5,7 @@ name_of_center: Electronic Security Systems
 place_of_center: HNC
 center_type: MCX
 website: http://www.hnc.usace.army.mil/Media/Fact-Sheets/Fact-Sheet-Article-View/Article/482087/electronic-technology-division-electronic-security-systems/
-center_poc_name: Ben Peet and Melinda (Leigh) Young
+center_poc_name: Ben Peet / Melinda (Leigh) Young
 center_poc_phone_number: ☎ (256) 200-2316
 hq_poc_name: Nic Ivy
 hq_division: E&C

@@ -7,7 +7,7 @@ center_type: MCX
 website: https://www.nwo.usace.army.mil/pdc/home/
 center_poc_name: Curt Betts
 center_poc_phone_number: ☎ (402) 995-2376
-hq_poc_name: Rich Ludwitzke and Christopher Westbrook
+hq_poc_name: Rich Ludwitzke / Christopher Westbrook
 hq_division: E&C
 er_number: No ER established yet
 er_link: https://mrsi.erdc.dren.mil/404.html

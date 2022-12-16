@@ -22,7 +22,12 @@ slug: /coe/mcx/umcs
 
 ## About 
 
-The MCX for Utility Monitoring and Control Systems (UMCS) was created to maintain state-of-the-art technical expertise, and provide expert support, to a number of mission areas including Review all DD 1391s that identify UMCS and Support all planning and design charrettes that involve the application of UMCS and Perform UMCS surveys if required. 
+The MCX for Utility Monitoring and Control Systems (UMCS) was created to maintain state-of-the-art technical expertise and provide expert support to a number of mission areas including:
+<ul>
+    <li>Review all DD 1391s that identify UMCS</li>
+    <li>Support all planning and design charrettes that involve the application of UMCS</li>
+    <li>Perform UMCS surveys if required.</li>
+</ul>
 
  ## Section Heading 
 
