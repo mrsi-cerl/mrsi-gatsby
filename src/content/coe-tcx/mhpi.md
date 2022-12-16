@@ -11,7 +11,7 @@ hq_poc_name: Gary Dye
 hq_division: RE
 activation_date: 14 Jan 2002
 recertification_date: 11 Jul 2017
-center_functional_proponent: Acting DRE, Michaele Mandulak
+center_functional_proponent: Michaele Mandulak (Acting DRE)
 // file_library_root_path: "content/coe/tcx/mhpi/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/tcx/mhpi
