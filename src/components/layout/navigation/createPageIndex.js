@@ -4,6 +4,10 @@ const pages = {
       caption: "About CX",
       slug: "/coe/",
     },
+    {
+      caption: "Points of Contact",
+      slug: "/coe/poc",
+    },
   ],
   COS: [
     {
