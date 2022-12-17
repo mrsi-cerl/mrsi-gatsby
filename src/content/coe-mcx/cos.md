@@ -24,4 +24,5 @@ slug: /coe/mcx/cos
 
 The Army’s Facility Standardization Program continues to be the primary means through which we will deliver standard facilities. The MCX COS standard designs and adapt-build models will continue to be used as the baseline solution for execution of all standard facility types.
 
-Select **COS** from the top menu above to go to the COS portion of the MRSI site. 
+Select **COS** from the top menu above to go to the COS portion of the MRSI site.
+
