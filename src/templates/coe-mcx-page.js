@@ -34,15 +34,22 @@ export default ({ data, pageContext }) => {
     {
       title: "Center POC",
       value: (
-        <a  style={{textDecoration: 'none', color: 'black'}} 
-          href={
-            "tel:" +
-            (mcx.frontmatter.center_poc_phone_number)
-          }
-        >
-          {mcx.frontmatter.center_poc_name} <br/>
-          {mcx.frontmatter.center_poc_phone_number}
-        </a>
+        mcx.frontmatter.slug.toLowerCase() == "/coe/mcx/cfstd"
+        ?
+          <div>
+            Varies <br/>
+            See <a href="../../cos/poc" target="_blank" rel="noopener noreferrer">COS POC</a> page
+          </div>
+        :
+          <a  style={{textDecoration: 'none', color: 'black'}} 
+            href={
+              "tel:" +
+              (mcx.frontmatter.center_poc_phone_number)
+            }
+          >
+            {mcx.frontmatter.center_poc_name} <br/>
+            {mcx.frontmatter.center_poc_phone_number}
+          </a>
       )
   },
   {

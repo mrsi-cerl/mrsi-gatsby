@@ -6,7 +6,7 @@ place_of_center: Varies
 center_type: MCX
 website: https://mrsi.erdc.dren.mil/cos
 center_poc_name: Varies
-center_poc_phone_number: ☎ (000) 000-0001
+center_poc_phone_number: ☎ (000) 000-0000  //replace with link to COS POC page in template
 hq_poc_name: Scott Wick
 hq_division: E&C
 er_number: ER1110-3-113
@@ -24,5 +24,5 @@ slug:  /coe/mcx/cfstd
 
 The Army’s Facility Standardization Program continues to be the primary means through which we will deliver standard facilities. The MCX COS standard designs and adapt-build models will continue to be used as the baseline solution for execution of all standard facility types.
 
-Select **COS** from the top menu above to go to the COS portion of the MRSI site.
+Select <a href="../../cos/">*this link*</a> or **COS** from the top menu above to go to the COS portion of the MRSI site in the current tab.
 
