@@ -1,23 +1,23 @@
 ---
-doc_type: coe_mtx_page 
+doc_type: coe_mcx_page 
 title: Centers of Standardization
 name_of_center: Centers of Standardization
 place_of_center: Varies
 center_type: MCX
-website: ./cos
+website: https://mrsi.erdc.dren.mil/cos
 center_poc_name: Varies
-center_poc_phone_number: ☎ (---) --------
+center_poc_phone_number: ☎ (000) 000-0001
 hq_poc_name: Scott Wick
 hq_division: E&C
 er_number: ER1110-3-113
 er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_1110-3-113.pdf
 er_publication_date: 21 Apr 2016
-activation_date: 06 Mar 2006
+activation_date:  06 Mar 2006
 recertification_date: 01 Mar 2018
 center_functional_proponent: Pete Perez
 // file_library_root_path: "content/coe/mcx/cos/Library/" 
 page_last_reviewed: 1 January 1970 
-slug: /coe/mcx/cos
+slug:  /coe/mcx/cos
 ---
 
 ## About 
