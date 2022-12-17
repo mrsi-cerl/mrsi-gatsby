@@ -10,7 +10,7 @@ center_poc_phone_number: ☎ (---) --------
 hq_poc_name: Scott Wick
 hq_division: E&C
 er_number: ER1110-3-113
-er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_1110-2-8163.pdf?ver=zccDjH50M11uFXTio2zR7w%3d%3d
+er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_1110-3-113.pdf
 er_publication_date: 21 Apr 2016
 activation_date: 06 Mar 2006
 recertification_date: 01 Mar 2018
