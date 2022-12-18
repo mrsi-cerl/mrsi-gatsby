@@ -50,25 +50,22 @@ const CoePOC = ({ data }) => {
                   {e.node.frontmatter.place_of_center}
                 </a>
               </td>
-              <td>
-                {e.node.frontmatter.center_poc_name}
-              </td>
-              <td style={{ whiteSpace: 'nowrap' }}>
-                {e.node.frontmatter.slug.toLowerCase() == "/coe/mcx/cfstd"
-                  ?
-                    <div>
-                      Varies, see <a href="../../cos/poc" target="_blank" rel="noopener noreferrer">COS POC</a> page
-                    </div>
-                  :
-                    <a
-                      href={
-                        "tel:" + e.node.frontmatter.center_poc_phone_number
-                      }
-                    >
+              {e.node.frontmatter.slug.toLowerCase() == "/coe/mcx/cfstd"
+                ?
+                <td colspan={'2'} style={{ textAlign: 'center' }}>
+                  <div>
+                    Varies, see <a href="../../cos/poc" target="_blank" rel="noopener noreferrer">COS Points of Contact</a> page
+                  </div>
+                </td>
+                :
+                <><td>
+                  {e.node.frontmatter.center_poc_name}
+                  </td><td style={{ whiteSpace: 'nowrap' }}>
+                    <a href={"tel:" + e.node.frontmatter.center_poc_phone_number}>
                       {e.node.frontmatter.center_poc_phone_number}
                     </a>
+                  </td></>
                 }
-              </td>
             </tr>
           ))}
         </tbody>
