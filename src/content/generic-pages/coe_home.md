@@ -20,14 +20,14 @@ A **Mandatory Center of Expertise** (or **MCX**) is a USACE organization that ha
                 <i>CX Program Manager<br/>
                 CoP&nbsp;Lead&nbsp;for&nbsp;Civil&nbsp;Works</i><br/>
                 USACE Headquarters<br/>
-                ☎&nbsp;(651)&nbsp;528&#8209;9457<br/>
+                ☎&nbsp;<a href="tel:(651) 528-9457">(651)&nbsp;528&#8209;9457</a><br/>
             </td>
             <td style="border: none; nowrap">
                 <b>Ms. Dawn Carney, PE</b><br/>
                 <i>Chief&nbsp;of&nbsp;Fire&nbsp;Protection,&nbsp;Mechanical,&nbsp;Electrical&nbsp;&&nbsp;Control&nbsp;System&nbsp;Section</i><br/>
                 USACE Headquarters<br/>
                 Washington, DC<br/>
-                ☎&nbsp;(251)&nbsp;656&#8209;2167<br/>
+                ☎&nbsp;<a href="tel:(251) 656-2167">(251)&nbsp;656&#8209;2167</a><br/>
             </td>
         </tr>
     </tbody>
