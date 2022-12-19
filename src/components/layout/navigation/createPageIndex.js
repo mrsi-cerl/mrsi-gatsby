@@ -206,12 +206,12 @@ function getPages(data, currSlug) {
   
   const coePages = getCenterPages(data)
   const ctxPages = {
-    caption: "Technical Centers of Expertise",
+    caption: "Technical Centers          of Expertise",
     slug: "/coe/tcx",
     children: coePages.ctxPageData,
   }
   const mcxPages = {
-    caption: "Mandatory Centers of Expertise",
+    caption: "Mandatory Centers        of Expertise",
     slug: "/coe/mcx",
     children: coePages.mcxPageData,
   }
