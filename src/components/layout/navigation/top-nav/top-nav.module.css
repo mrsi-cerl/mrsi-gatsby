@@ -1,5 +1,5 @@
 .nav {
-  display: none;
+  display: unset;
 }
 
 @media (min-width: 30em) {
