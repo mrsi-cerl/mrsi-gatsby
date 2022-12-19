@@ -9,7 +9,7 @@ file_library_root_path: content/Model RFP/Small Projects/
   <div style="width: 128px; float: left; margin: 1em 2em 1em 0;">
     <a href="https://rfpwizard.mrsi.erdc.dren.mil/wizards/srmw/Client/CirceApp.application"><img src="/admin/images/uploads/srm-wizard-256x256.png" alt="Small Projects Wizard"/></a>
     <em>
-    Please use I<b>Microsoft Edge</b> to start the Wizard.
+    Please use <b>Microsoft Edge</b> to start the Wizard.
     </em>
   </div>
 </div>
