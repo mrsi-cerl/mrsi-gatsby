@@ -4,7 +4,7 @@ title: Hydrologic Engineering Center (HEC)
 name_of_center: Hydrologic Engineering Center (HEC)
 place_of_center: IWR
 center_type: TCX
-website: http://www.hec.usace.army.mil/
+website: https://www.hec.usace.army.mil/
 center_poc_name: Chris Dunn
 center_poc_phone_number: ☎ (530) 756-1104
 hq_poc_name: Sean Smith
