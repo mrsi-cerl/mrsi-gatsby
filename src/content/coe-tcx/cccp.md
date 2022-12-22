@@ -20,9 +20,9 @@ slug: /coe/tcx/cccp
 ## About 
 
 Upon request, this designated TCX is capable of providing the following functions on the Corrosion Control and Cathodic Protection Systems and their related matters:
-
-•	Production of corrosion control and cathodic protection system designs.
-
-•	Consulting services in all phases of corrosion control and cathodic protection system planning, design, construction, final acceptance testing, operation, and maintenance.
-
+<ul>
+    <li>Production of corrosion control and cathodic protection system designs.</li>
+    <li>Consulting services in all phases of corrosion control and cathodic protection system planning, design, construction, final acceptance testing, operation, and maintenance.</li>
+</ul>
+You can reach the Corrosion Control & Cathodic Protection TCX via email at: <a href="mailto:EN.CCPX@usace.army.mil">EN.CCPX@usace.army.mil</a>.
  
