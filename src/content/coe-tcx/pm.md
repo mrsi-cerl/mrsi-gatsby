@@ -25,6 +25,10 @@ The mission of this Center of Expertise (CX) is to provide rapid response, full 
 	<li>A-E Contracting</li>
 	<li>Project Cost Estimation</li>
 	<li>Image Acquisition</li>
+	<li>Photogrammetric map compilation</li>
+	<li>LIDAR data collection and exploitation</li>
+	<li>Photo Interpretation</li>
+	<li>GIS development</li>
 </ul>
 
  
