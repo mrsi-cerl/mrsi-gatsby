@@ -26,12 +26,5 @@
     "message": "TESTING",
     "level": "warning",
     "title": "Warning status"
-  },
-  {
-    "startDate": "9:00  1/09/2023",
-    "endDate": "17:00  1/09/2023",
-    "message": "The MRSI Wizard applications and COS file libraries are currently offline. <br />We have notified sysadmin and hope to have this resolved shortly.",
-    "level": "warning",
-    "title": "MRSI Wizard outage"
   }
 ]
