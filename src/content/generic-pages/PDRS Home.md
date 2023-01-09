@@ -35,6 +35,8 @@ file_library_root_path: content/PDRS/
 
 The [ENG 3086 Instructions](https://rfpwizard.mrsi.erdc.dren.mil/MRSI/content/PDRS/Policy/FY25%20Guidance%20and%20Templates/Appendix%20F_FY25%20ENG%203086%20Instructions.pdf) have been published. Download them separately or as part of the updated Army MILCON Code 2 Design Process and Procedures document above.
 
+**Very Late Add FY25 Projects**: [Supplemental guidance](https://rfpwizard.mrsi.erdc.dren.mil/MRSI/content/PDRS/Policy/FY25%20Guidance%20and%20Templates/Supplemental%20Instructions%20for%20Late%20Add%20FY25s.pdf) and [timeline](https://rfpwizard.mrsi.erdc.dren.mil/MRSI/content/PDRS/Policy/FY25%20Guidance%20and%20Templates/Late%20Add%20FY25%20Timeline.pdf) has been published
+
 The [PDR Desktop Reference](https://rfpwizard.mrsi.erdc.dren.mil/MRSI/content/PDRS/Policy/FY25%20Guidance%20and%20Templates/FY25%20PDR%20Desktop%20Reference.pdf) is being provided so PDTs have a print of the sections and instructions for completion of the PDR for use outside the PDRS Wizard application. This is to be used as a guide during meetings and to inform the PDT on the information that will be required to complete the PDR in the PDRS Wizard application.
 
 ## Previous FY Projects
