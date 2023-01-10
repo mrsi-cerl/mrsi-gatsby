@@ -9338,7 +9338,7 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "12/12/2022 11:09:06",
+"LastModified": "01/10/2023 09:31:18",
 "Key": "content/cos/sam/tdafw/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -9349,13 +9349,6 @@
 "Key": "content/cos/sam/tdafw/Library/Army Standards/Fixed_Wing_Aviation_Unit_Army_Standard_2022-05-11.pdf",
 "extension": ".pdf",
 "Size": "685542"
-},
-{
-"name": "standard_design_uas_group4_hangar 2 JUL 2018.pdf",
-"LastModified": "07/29/2019 18:27:24",
-"Key": "content/cos/sam/tdafw/Library/Army Standards/standard_design_uas_group4_hangar 2 JUL 2018.pdf",
-"extension": ".pdf",
-"Size": "5836879"
 },
 {
 "name": "Library",
