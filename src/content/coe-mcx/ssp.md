@@ -5,8 +5,8 @@ name_of_center: Sign Standards Program
 place_of_center: NWK
 center_type: MCX
 website: https://corpslakes.erdc.dren.mil/employees/sign/sign.cfm
-center_poc_name: Keith Hyde
-center_poc_phone_number: ☎ (208) 343-0671
+center_poc_name: AJ Jensen
+center_poc_phone_number: ☎ (816) 389-3840
 hq_poc_name: Jeff Krause
 hq_division: OPS
 er_number: No ER established yet
