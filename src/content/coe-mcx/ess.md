@@ -7,7 +7,6 @@ center_type: MCX
 website: http://www.hnc.usace.army.mil/Media/Fact-Sheets/Fact-Sheet-Article-View/Article/482087/electronic-technology-division-electronic-security-systems/
 center_poc_name: Melinda "Leigh" Young
 center_poc_phone_number: ☎ (256) 895-1403
-center_email: AskESSMCX@usace.army.mil
 hq_poc_name: Nic Ivy
 hq_division: E&C
 er_number: ER 1110-1-8162
@@ -20,6 +19,8 @@ center_functional_proponent: Pete Perez
 page_last_reviewed: 1 January 1970
 slug: /coe/mcx/ess
 ---
+
+You can also contact this center via email at <a href="mailto:AskESSMCX@usace.army.mil">AskESSMCX@usace.army.mil</a>.
 
 ## About
 
