@@ -3,7 +3,12 @@ import rainwaterMarker from "../images/markers/rainwater.png"
 import changeMarker from "../images/markers/change.png"
 const Marker = ({ tiaData, onclick, $hover, listHover }) => {
   return (
-    <div onClick={() => onclick()}>
+    <div
+      role="button"
+      tabIndex={0}
+      onClick={() => onclick()}
+      onKeyUp={() => onclick()}
+    >
       {listHover ? (
         <img
           style={{ zIndex: listHover ? 9999999 : -9 }}

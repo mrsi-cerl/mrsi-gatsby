@@ -21,7 +21,7 @@ draft: true
 
 ## Description
 
-Every MEPS represents the state of the art in testing, examining and processing applicants for enlistment into the Armed Forces. Each provides "red-carpet" service to every applicant with personalized, efficient and professional attention.
+Every MEPS represents the state-of-the-art in testing, examining and processing applicants for enlistment into the Armed Forces. Each provides "red-carpet" service to every applicant with personalized, efficient and professional attention.
 
 Featuring modern facilities and equipment, today's modern MEPS bears little resemblance to the traditional image of the drab "Induction Station" known by previous generations of American soldiers, Marines, Sailors, airmen and Coast Guardsmen.
 

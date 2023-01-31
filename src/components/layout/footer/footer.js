@@ -47,10 +47,9 @@ const Footer = () => (
       </div>
       <div className="grid-col-10">
         <p>
-          The mission of the U.S. Army Corps of Engineers is to deliver vital
-          public and military engineering services; partnering in peace and war
-          to strengthen our nation’s security, energize the economy and reduce
-          risks from disasters.
+          The mission of the U.S. Army Corps of Engineers is to deliver vital 
+          engineering solutions, in collaboration with our partners, to secure 
+          our Nation, energize our economy, and reduce disaster risk.
         </p>
       </div>
     </div>

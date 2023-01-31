@@ -1,4 +1,14 @@
 const pages = {
+  COE: [
+    {
+      caption: "About CX",
+      slug: "/coe/",
+    },
+    {
+      caption: "Points of Contact",
+      slug: "/coe/poc",
+    },
+  ],
   COS: [
     {
       caption: "About COS",
@@ -170,12 +180,45 @@ function getSustainPages(data) {
   }
 }
 
+function getCenterPages(data) {
+  //caption: below MUST be frontmatter.title (not, for example, frontmatter.name_of_center) for
+  //some reason. If any other frontmatter is used, the text in the accordian menus is undefined.
+  const ctxPageData = getAllOfDocType(data, "coe_ctx_page").map(e => ({
+    slug: e.node.frontmatter.slug,
+    caption: e.node.frontmatter.title,
+  }))
+  const mcxPageData = getAllOfDocType(data, "coe_mcx_page").map(e => ({
+    slug: e.node.frontmatter.slug,
+    caption: e.node.frontmatter.title,
+  }))
+
+  return {
+    ctxPageData,
+    mcxPageData,
+  }
+}
+
 function getPages(data, currSlug) {
   const allPages = JSON.parse(JSON.stringify(pages))
+
   const cosPages = getCOSPages(data)
   allPages.COS = allPages.COS.concat(cosPages)
-  const sustainPages = getSustainPages(data)
+  
+  const coePages = getCenterPages(data)
+  const ctxPages = {
+    caption: "Technical Centers          of Expertise",
+    slug: "/coe/tcx",
+    children: coePages.ctxPageData,
+  }
+  const mcxPages = {
+    caption: "Mandatory Centers        of Expertise",
+    slug: "/coe/mcx",
+    children: coePages.mcxPageData,
+  }
+  allPages.COE.splice(2, 0, ctxPages)
+  allPages.COE.splice(2, 0, mcxPages)
 
+  const sustainPages = getSustainPages(data)
   const cxPages = {
     caption: "Subject Matter Areas",
     slug: "/sustain/cx",
@@ -186,7 +229,6 @@ function getPages(data, currSlug) {
     slug: "/sustain/kr",
     children: sustainPages.krPageData,
   }
-
   allPages.SUSTAIN.splice(2, 0, krPages)
   allPages.SUSTAIN.splice(2, 0, cxPages)
 

@@ -41,9 +41,9 @@ const TechnologyInAction = ({ data }) => {
         <table className="usa-table">
           <tbody>
             {tia
-              .filter(e => e.node.frontmatter.categories.includes(cat))
-              .map(e => (
-                <tr>
+              .filter((e) => e.node.frontmatter.categories.includes(cat))
+              .map((e) => (
+                <tr key={e.node.frontmatter.title}>
                   <td
                     onClick={() => setCurrTech(e.node.frontmatter.title)}
                     onMouseEnter={() =>
@@ -70,10 +70,9 @@ const TechnologyInAction = ({ data }) => {
           defaultZoom={3}
           bootstrapURLKeys={{ key: "AIzaSyB6afAiSLEi2h7axw-swZWNXipUYdwT0NA" }}
         >
-          {tia.map(e => {
-            const [elat, elng] = e.node.frontmatter.project_coordinates.split(
-              ","
-            )
+          {tia.map((e) => {
+            const [elat, elng] =
+              e.node.frontmatter.project_coordinates.split(",")
             return (
               <Marker
                 tiaData={e}
