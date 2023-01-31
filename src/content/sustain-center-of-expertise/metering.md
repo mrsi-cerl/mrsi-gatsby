@@ -4,17 +4,17 @@ carousel_images:
   - /admin/images/uploads/utility20meter_800_resize.jpg
 title: Utility Metering
 
-sustain_msc_program_manager_email: Bryan.Rogers@usace.army.mil
-sustain_msc_program_manager_name: David Rogers
+sustain_msc_program_manager_email: Todd.H.Kirk@usace.army.mil
+sustain_msc_program_manager_name: Todd Kirk
 
-sustain_msc_technical_lead_email: Eric.D.Lynch@usace.army.mil
-sustain_msc_technical_lead_name: Eric Lynch
+sustain_msc_technical_lead_email: Fred.E.Abbitt @usace.army.mil
+sustain_msc_technical_lead_name: Fred Abbitt 
 
-sustain_hq_usace_proponent_email: Bruce.Movahedi@usace.army.mil;David.Williams@usace.army.mil
-sustain_hq_usace_proponent_name: Bruce Movahedi and David Williams
+sustain_hq_usace_proponent_email: Murty.V.Dinivahi@usace.army.mil@usace.army.mil;Shawn.Herrera@usace.army.mil
+sustain_hq_usace_proponent_name: Murty Dinivahi and Shawn Herrera
 
-sustain_erdc_liaison_email: David.M.Schwenk@usace.army.mil
-sustain_erdc_liaison_name: Dave Schwenk
+sustain_erdc_liaison_email: Jay.Tulley@usace.army.mil
+sustain_erdc_liaison_name: Jay Tulley
 
 file_library_root_path: content/sustain/CX-KR Documents/Metering/
 page_last_reviewed: 1 January 1970

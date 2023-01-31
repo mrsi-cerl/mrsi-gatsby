@@ -9338,7 +9338,7 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "12/12/2022 11:09:06",
+"LastModified": "01/10/2023 09:31:18",
 "Key": "content/cos/sam/tdafw/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -9351,13 +9351,6 @@
 "Size": "685542"
 },
 {
-"name": "standard_design_uas_group4_hangar 2 JUL 2018.pdf",
-"LastModified": "07/29/2019 18:27:24",
-"Key": "content/cos/sam/tdafw/Library/Army Standards/standard_design_uas_group4_hangar 2 JUL 2018.pdf",
-"extension": ".pdf",
-"Size": "5836879"
-},
-{
 "name": "Library",
 "LastModified": "10/01/2021 10:43:19",
 "Key": "content/cos/sam/trw/Library",
@@ -9366,7 +9359,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "04/20/2022 16:06:45",
+"LastModified": "01/25/2023 09:44:16",
 "Key": "content/cos/sam/trw/Library/Archive",
 "extension": "",
 "Size": ""
@@ -9394,7 +9387,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "04/20/2022 16:07:14",
+"LastModified": "01/25/2023 09:45:13",
 "Key": "content/cos/sam/trw/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -9419,6 +9412,20 @@
 "Key": "content/cos/sam/trw/Library/Archive/2021-12-20_SAM_AVN-COS_TOE_Rotary_Wing_MEDIUM_STANDARD_DESIGN.pdf",
 "extension": ".pdf",
 "Size": "8577768"
+},
+{
+"name": "2022-04-19 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
+"LastModified": "04/19/2022 08:30:00",
+"Key": "content/cos/sam/trw/Library/Archive/2022-04-19 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
+"extension": ".pdf",
+"Size": "9633498"
+},
+{
+"name": "2022-04-19 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
+"LastModified": "04/19/2022 08:30:00",
+"Key": "content/cos/sam/trw/Library/Archive/2022-04-19 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
+"extension": ".pdf",
+"Size": "440366"
 },
 {
 "name": "Army_Standard_Approval_Memo_HGR_June_2021.pdf",
@@ -9456,18 +9463,32 @@
 "Size": "154112"
 },
 {
-"name": "2022-04-19 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
-"LastModified": "04/19/2022 08:30:00",
-"Key": "content/cos/sam/trw/Library/Standard Designs/2022-04-19 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
+"name": "2023-01-24 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
+"LastModified": "01/24/2023 08:39:29",
+"Key": "content/cos/sam/trw/Library/Standard Designs/2023-01-24 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
 "extension": ".pdf",
-"Size": "9633498"
+"Size": "9415201"
 },
 {
-"name": "2022-04-19 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
-"LastModified": "04/19/2022 08:30:00",
-"Key": "content/cos/sam/trw/Library/Standard Designs/2022-04-19 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
+"name": "2023-01-24 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
+"LastModified": "01/25/2023 08:56:28",
+"Key": "content/cos/sam/trw/Library/Standard Designs/2023-01-24 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
 "extension": ".pdf",
-"Size": "440366"
+"Size": "447643"
+},
+{
+"name": "AVN-COS FY21 MEDIUM STANDARD DESIGN-Floor Plan - 01_Floor Plan_All_EXP.dwg",
+"LastModified": "01/24/2023 08:39:29",
+"Key": "content/cos/sam/trw/Library/Standard Designs/AVN-COS FY21 MEDIUM STANDARD DESIGN-Floor Plan - 01_Floor Plan_All_EXP.dwg",
+"extension": ".dwg",
+"Size": "1578859"
+},
+{
+"name": "AVN-COS FY21 MEDIUM STANDARD DESIGN-Floor Plan - 02_Floor Plan_All_EXP.dwg",
+"LastModified": "01/24/2023 08:39:29",
+"Key": "content/cos/sam/trw/Library/Standard Designs/AVN-COS FY21 MEDIUM STANDARD DESIGN-Floor Plan - 02_Floor Plan_All_EXP.dwg",
+"extension": ".dwg",
+"Size": "546794"
 },
 {
 "name": "Library",
@@ -10696,7 +10717,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:25:40",
+"LastModified": "01/17/2023 15:14:39",
 "Key": "content/cos/swf/ait/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -10863,18 +10884,11 @@
 "Size": "431270"
 },
 {
-"name": "ait-complex_1300-pn_fy21.pdf",
-"LastModified": "08/24/2019 13:24:41",
-"Key": "content/cos/swf/ait/Library/DD1391 Templates/ait-complex_1300-pn_fy21.pdf",
+"name": "Advanced_Individual_Training_AIT_Complex_Template 1391_FY 22_AUG 2022.pdf",
+"LastModified": "01/17/2023 13:35:24",
+"Key": "content/cos/swf/ait/Library/DD1391 Templates/Advanced_Individual_Training_AIT_Complex_Template 1391_FY 22_AUG 2022.pdf",
 "extension": ".pdf",
-"Size": "14533"
-},
-{
-"name": "ait-complex_2600-pn_fy21.pdf",
-"LastModified": "08/24/2019 13:24:57",
-"Key": "content/cos/swf/ait/Library/DD1391 Templates/ait-complex_2600-pn_fy21.pdf",
-"extension": ".pdf",
-"Size": "14534"
+"Size": "19090"
 },
 {
 "name": "AIT 5 Story Fly-Around Low Res.wmv",
@@ -11046,7 +11060,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:25:42",
+"LastModified": "01/17/2023 15:15:16",
 "Key": "content/cos/swf/bt-osut/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -11115,18 +11129,11 @@
 "Size": "1582353"
 },
 {
-"name": "bt_osut-complex_1300-pn_fy21.pdf",
-"LastModified": "08/24/2019 13:26:04",
-"Key": "content/cos/swf/bt-osut/Library/DD1391 Templates/bt_osut-complex_1300-pn_fy21.pdf",
+"name": "Basic_Training_BT_OSUT_Complex_Template 1391_FY 22_AUG 2022.pdf",
+"LastModified": "01/17/2023 13:35:24",
+"Key": "content/cos/swf/bt-osut/Library/DD1391 Templates/Basic_Training_BT_OSUT_Complex_Template 1391_FY 22_AUG 2022.pdf",
 "extension": ".pdf",
-"Size": "12810"
-},
-{
-"name": "bt_osut-complex_2600-pn_fy21.pdf",
-"LastModified": "08/24/2019 13:26:22",
-"Key": "content/cos/swf/bt-osut/Library/DD1391 Templates/bt_osut-complex_2600-pn_fy21.pdf",
-"extension": ".pdf",
-"Size": "12815"
+"Size": "18563"
 },
 {
 "name": "BT Complex Brochure.pdf",
@@ -11788,7 +11795,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:25:45",
+"LastModified": "01/17/2023 15:15:52",
 "Key": "content/cos/swf/ssa/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -11871,11 +11878,11 @@
 "Size": "197819"
 },
 {
-"name": "supply_storage_activity_warehouse_fy21.pdf",
-"LastModified": "08/24/2019 13:27:35",
-"Key": "content/cos/swf/ssa/Library/DD1391 Templates/supply_storage_activity_warehouse_fy21.pdf",
+"name": "Supply_Storage_Activity_Warehouse_Template 1391_FY 22_AUG 2022.pdf",
+"LastModified": "01/17/2023 13:35:24",
+"Key": "content/cos/swf/ssa/Library/DD1391 Templates/Supply_Storage_Activity_Warehouse_Template 1391_FY 22_AUG 2022.pdf",
 "extension": ".pdf",
-"Size": "9638"
+"Size": "16497"
 },
 {
 "name": "COS SSA-Combined Whole Building LCCA.pdf",
@@ -18529,7 +18536,7 @@
 },
 {
 "name": "Policy and Guidance",
-"LastModified": "09/25/2019 08:26:40",
+"LastModified": "01/30/2023 15:10:15",
 "Key": "content/sustain/Library/Policy and Guidance",
 "extension": "",
 "Size": ""
@@ -18575,6 +18582,13 @@
 "Key": "content/sustain/Library/Policy and Guidance/appendix-e-life-cycle-cost-analysis.pdf",
 "extension": ".pdf",
 "Size": "1410343"
+},
+{
+"name": "Army Sustainability Implementation Guide_JAN23.pdf",
+"LastModified": "01/30/2023 10:50:17",
+"Key": "content/sustain/Library/Policy and Guidance/Army Sustainability Implementation Guide_JAN23.pdf",
+"extension": ".pdf",
+"Size": "3091485"
 },
 {
 "name": "ashrae-1891-study-summary-report.pdf",
