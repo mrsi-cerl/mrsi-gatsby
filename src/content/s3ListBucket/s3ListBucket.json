@@ -9331,7 +9331,7 @@
 },
 {
 "name": "Library",
-"LastModified": "08/12/2022 14:07:45",
+"LastModified": "02/14/2023 16:13:32",
 "Key": "content/cos/sam/tdafw/Library",
 "extension": "",
 "Size": ""
@@ -9344,11 +9344,25 @@
 "Size": ""
 },
 {
+"name": "Standard Designs",
+"LastModified": "02/14/2023 16:13:58",
+"Key": "content/cos/sam/tdafw/Library/Standard Designs",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Fixed_Wing_Aviation_Unit_Army_Standard_2022-05-11.pdf",
 "LastModified": "08/12/2022 14:13:16",
 "Key": "content/cos/sam/tdafw/Library/Army Standards/Fixed_Wing_Aviation_Unit_Army_Standard_2022-05-11.pdf",
 "extension": ".pdf",
 "Size": "685542"
+},
+{
+"name": "Standard Design UAS Group 4 Hangar 1 OCT 19.pdf",
+"LastModified": "02/14/2023 16:14:52",
+"Key": "content/cos/sam/tdafw/Library/Standard Designs/Standard Design UAS Group 4 Hangar 1 OCT 19.pdf",
+"extension": ".pdf",
+"Size": "7798564"
 },
 {
 "name": "Library",
