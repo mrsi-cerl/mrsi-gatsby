@@ -12,8 +12,8 @@ facility_cos_short_name: LRL
 facility_functional_proponent: DAMO-TRC, HQDA DCS G-9
 facility_long_name: Operational Readiness Training Complex
 facility_short_name: ORTC
-facility_technical_poc_email: "derek.a.henry@usace.army.mil"
-facility_technical_poc_name: "Derek (Drew) Henry"
+facility_technical_poc_email: "Margaret.K.Thacher@usace.army.mil"
+facility_technical_poc_name: "Margaret (Maggie) Thacher"
 file_library_root_path: "content/cos/lrl/ortc/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/lrl/ortc/

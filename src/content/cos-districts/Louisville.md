@@ -4,10 +4,10 @@ slug: "/cos/lrl/"
 related_links:
   - caption: "Louisville District"
     url: "http://www.lrl.usace.army.mil/"
-page_last_reviewed: "Wednesday, May 08, 2019"
+page_last_reviewed: "Wednesday, Feb 15, 2023"
 doc_type: "cos_page"
-cos_manager_name: "Derek (Drew) Henry"
-cos_manager_email: "derek.a.henry@usace.army.mil"
+cos_manager_name: "Jennifer Henry"
+cos_manager_email: "Jennifer.E.Henry@usace.army.mil"
 cos_long_name: "Louisville "
 cos_short_name: "LRL"
 ---
