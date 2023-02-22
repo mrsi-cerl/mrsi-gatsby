@@ -3612,14 +3612,14 @@
 },
 {
 "name": "Archive",
-"LastModified": "06/11/2021 09:06:21",
+"LastModified": "02/22/2023 13:33:22",
 "Key": "content/cos/hnc/sprc/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "06/11/2021 09:11:01",
+"LastModified": "02/22/2023 13:35:47",
 "Key": "content/cos/hnc/sprc/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -3655,16 +3655,23 @@
 {
 "name": "Army_Standard_Approval_Memo_SPRC_June_2021.pdf",
 "LastModified": "06/11/2021 08:46:56",
-"Key": "content/cos/hnc/sprc/Library/Army Standards/Army_Standard_Approval_Memo_SPRC_June_2021.pdf",
+"Key": "content/cos/hnc/sprc/Library/Archive/Army_Standard_Approval_Memo_SPRC_June_2021.pdf",
 "extension": ".pdf",
 "Size": "205380"
 },
 {
 "name": "Army_Standard_SPRC_20210505.pdf",
 "LastModified": "06/11/2021 08:47:00",
-"Key": "content/cos/hnc/sprc/Library/Army Standards/Army_Standard_SPRC_20210505.pdf",
+"Key": "content/cos/hnc/sprc/Library/Archive/Army_Standard_SPRC_20210505.pdf",
 "extension": ".pdf",
 "Size": "143480"
+},
+{
+"name": "Army_Standard_SPRC_January_2023.pdf",
+"LastModified": "02/22/2023 13:34:29",
+"Key": "content/cos/hnc/sprc/Library/Army Standards/Army_Standard_SPRC_January_2023.pdf",
+"extension": ".pdf",
+"Size": "299574"
 },
 {
 "name": "Design_Guide_SPRC_FULL_TIER1_Sep_2021.pdf",
@@ -10255,8 +10262,15 @@
 },
 {
 "name": "Library",
-"LastModified": "11/16/2021 16:21:39",
+"LastModified": "02/22/2023 13:39:06",
 "Key": "content/cos/sas/center_home_page/Library",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Air Traffic Control Tower - Air Operations Building",
+"LastModified": "02/22/2023 13:41:24",
+"Key": "content/cos/sas/center_home_page/Library/Air Traffic Control Tower - Air Operations Building",
 "extension": "",
 "Size": ""
 },
@@ -10273,6 +10287,13 @@
 "Key": "content/cos/sas/center_home_page/Library/SAS_Standard_Design_Program_Areas__v17_.pdf",
 "extension": ".pdf",
 "Size": "113198"
+},
+{
+"name": "Army Standard for Air Traffic Control Tower - Air Operations Building_January_2023.pdf",
+"LastModified": "02/22/2023 13:40:13",
+"Key": "content/cos/sas/center_home_page/Library/Air Traffic Control Tower - Air Operations Building/Army Standard for Air Traffic Control Tower - Air Operations Building_January_2023.pdf",
+"extension": ".pdf",
+"Size": "476071"
 },
 {
 "name": "Library",
