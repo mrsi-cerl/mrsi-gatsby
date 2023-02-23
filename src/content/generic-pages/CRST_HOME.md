@@ -6,38 +6,30 @@ slug: /crst/
 
 **About the CRST:**
 
-The CRST is a USACE command-wide, service oriented team reporting to the DCG M&IO through the Chief, Installation Support Division and the Director of Military Programs.
+The Combat Readiness Support Team (CRST)  is a command wide team of the USACE. The CRST is within the Planning Branch of the Installation Readiness Division (IRD), Military Programs Directorate.
 
 **Mission:**
 
-- Provide specialized, embedded subject matter experts (SME) to select ARSTAF activities to integrate, coordinate, and synchronize initiatives, concepts, strategies, capabilities, and objectives of the Command with those of the ARSTAF activities to which they augment (as a capability extension).
-
-- Identify, define, and validate facility requirements to ensure they meet functional and operational needs, priorities, and objectives that execute Army imperatives, strategies and plans.
-
-- Assure that facility standards and criteria establish a relevant facility and infrastructure baseline across all DOTMLPF domains.
-
-- Provide consultation and mentorship to USACE on the Army’s missions, plans, and senior leader decisions assuring military relevance in executing the USACE Campaign Plan.
+- Provide a cadre of subject matter experts (SME) to Army Staff (ARSTAF) activities that integrate, coordinate, and synchronize initiatives, concepts, strategies, capabilities, and objectives of the Command with those of the ARSTAF focused on facility and infrastructure requirements, modernization, and readiness .
+- Identify, define, and validate (I-D-V) facility requirements to ensure they meet functional and operational needs, priorities, and objectives.
+- Liaison and collaborate directly with USACE Centers of Standardization (COSs), HQ Program Integration Division (PID), DCS G9, and others to assure facility standards and criteria establish a relevant facility and infrastructure baseline across all DOTMLPF-P domains.
+- Coordinate with and assist ACOMS, USACE Districts, Agencies and others on facility and infrastructure related issues.
+- Provide information and advice to the Command on Army initiatives and Senior Leader decisions related to facility and infrastructure requirements, planning, and programming.
 
 **Facts:**
 
-- CRST SMEs provide direct support to meeting three of four Army imperatives (Sustain, Reset, and Transform) that executes Army Strategic Initiative 14.0 (Adjust Global Footprint). CRST SMEs establish and implement the Command framework for executing engineer roles and responsibilities promulgated in Army regulations and directives through direct support to the ARSTAF.
-
-- Ensure integration of Army priorities and objectives resulting from senior leader decisions or deliberations into the facility and infrastructure lifecycle (e.g., planning, programming, design, construction, and repurposing or retirement) as early as is feasible to minimize impacts or barriers to fully implementing Army Standards, Standard Designs, or Criteria
-
-- Coordinate and synchronize Army priorities and objectives into the execution of Goal 3 (Deliver innovative, resilient, sustainable solutions to the Armed Forces and the Nation) of the USACE Campaign Plan
-
-- Establish a consistent facility and infrastructure baseline that supports Army Campaign Plan implementation within resourcing realities
-
-- Identify and enhance “tools” and processes that consistently deliver facilities and infrastructure conditions that meet warfighter requirements
-
-- Identify, define, coordinate, and adjudicate issues, conflicts, and/or policy interpretation before they result in time consuming or costly impacts to facilities and infrastructure delivery
-
-- Serve as a Command resource for consultation and advice on Army priorities and objectives to assure engineer relevance implementing USACE Campaign Plan Goal 4 (Build and cultivate a competent, disciplined, and resilient team equipped to deliver high quality solutions)
+- The CRST mission is derived from several regulatory sources and fundamentally based on Title 10. USC.  Specifically: Integration of USACE with the ARSTAF (Facilities-Installations), and integration of the  CRST mission with the USACE enterprise as a strategic enabler.
+- CRST members act as SMEs working directly in areas that include MILCON policy and processes, the Army Facilities Standardization Program (AFSP), the Range and Training Land Program (RTLP), the MILCON Requirements and Standardization Integration (MRSI) planning site, and Material Development. 
+- Provides support to the Army in facility and infrastructure analysis in respect to Army Modernization, structure initiatives, stationing decisions and Total Army Analysis.
+- Performs any pre-design support IAW AR 420-1.
+- Ensures the integrity of Facility Standards and Standard Designs throughout the planning and programming process.
+- Produces the Support Facility Annex (SFA), a required annex of the Life Cycle Sustainment Plan (LCSP), which determines the impact of new equipment on facility types and infrastructure IAW 700-127.
+- Identifies, defines, coordinates, and adjudicates, issues that could negatively impact facility and infrastructure delivery to the warfighter.
+- Attends events, i.e., AUSA Annual Meeting/Convention, gathering information and enhancing knowledge related to Army strategies, policies, and initiatives for facilities and infrastructure.
 
 **Organization:**
 
-- The CRST, as a subordinate team within the Programs Branch of the Installation Support Division is matrix organized with members at HQ USACE and 4 forward support, which includes the Range and Training Land and OE MCXs (Ranges) at Huntsville, AL. Principal members of the CRST provide mission execution leadership and management of CRST operations, develop and defend its budget, manage and distribute resources, and manage the performance of team members including establishing and assessing performance objectives and measures. They are responsible for reviewing input to CRST SMEs who augment ARSTAF or other external activities.
-
-- The Program Coordinator, Readiness and Modernization Support (PC RMS) has the overall responsibility of leading, directing, and managing CRST members in the performance of their duties to the Army. There are two Deputies: (1) Modernization Support (DPC MS) and (2) Military Construction (DPC MILCON). They are responsible for the performance and management of team members in their respective functional areas. The DPC MILCON also oversees the Sustainable Range Program through the Program Manager, Range and Training Land Program and the Range office of the Ordnance/Explosive MXC (Huntsville, AL).
-
-- The membership of the team includes SMEs in Operations (G3/5/7); Logistics (G4); Aviation (G3 Avn); MILCON (DCS, G-9); Sustainment Management Systems (SMS) and MILCON Requirements and Standardization Integration (MRSI) (CERL); facilities stationing and planning (LRL); Ranges and UXO (HNC) and Materiel Development (SWF).
+- The membership of the CRST, is made up of 15-20 SMEs and organized into a HQ element and four Forward Support Offices (FSOs) each with an FSO lead.  FSOs are located at the Construction Engineering Research Laboratory (CERL), Louisville District (LRL), Fort Worth District (SWF) and the Huntsville Engineering and Support Center (HNC). FSOs provides subject matter expertise and support consistent with the CRST mission. 
+- The HQ element, located at HQ USACE, consists of the Team Chief, Executive Officer, Logistics (G4) Integration Officer, MILCON Process Manager, and Chief, Strategy and Policy Integration.
+- HQ element personnel provide leadership and management of CRST operations and activities, develop, submit, and monitor its budget, manage and distribute resources, and represent the Team to higher level leadership and others on behalf of the Team’s mission and roles.
+- HQ element provides Program Management and expertise in areas that include the Range and Training Land Program & Ordnance /Explosive (UXO) Removal, Army Ground Systems, Aviation Integration and G3/5/7 Integration.
