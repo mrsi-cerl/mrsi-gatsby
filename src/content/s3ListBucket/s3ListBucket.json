@@ -203,7 +203,7 @@
 },
 {
 "name": "sas",
-"LastModified": "07/06/2022 10:27:47",
+"LastModified": "02/23/2023 16:55:46",
 "Key": "content/cos/sas",
 "extension": "",
 "Size": ""
@@ -9722,6 +9722,13 @@
 "Size": "5731941"
 },
 {
+"name": "aob",
+"LastModified": "02/23/2023 16:56:03",
+"Key": "content/cos/sas/aob",
+"extension": "",
+"Size": ""
+},
+{
 "name": "bn-bde-hq",
 "LastModified": "09/25/2019 08:25:30",
 "Key": "content/cos/sas/bn-bde-hq",
@@ -9769,6 +9776,27 @@
 "Key": "content/cos/sas/temf",
 "extension": "",
 "Size": ""
+},
+{
+"name": "Library",
+"LastModified": "02/23/2023 16:56:20",
+"Key": "content/cos/sas/aob/Library",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Army Standards",
+"LastModified": "02/23/2023 16:57:39",
+"Key": "content/cos/sas/aob/Library/Army Standards",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Army Standard for Air Traffic Control Tower - Air Operations Building_January_2023.pdf",
+"LastModified": "02/22/2023 13:40:13",
+"Key": "content/cos/sas/aob/Library/Army Standards/Army Standard for Air Traffic Control Tower - Air Operations Building_January_2023.pdf",
+"extension": ".pdf",
+"Size": "476071"
 },
 {
 "name": "Library",
@@ -10262,15 +10290,8 @@
 },
 {
 "name": "Library",
-"LastModified": "02/22/2023 13:39:06",
+"LastModified": "02/23/2023 16:58:17",
 "Key": "content/cos/sas/center_home_page/Library",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Air Traffic Control Tower - Air Operations Building",
-"LastModified": "02/22/2023 13:41:24",
-"Key": "content/cos/sas/center_home_page/Library/Air Traffic Control Tower - Air Operations Building",
 "extension": "",
 "Size": ""
 },
@@ -10287,13 +10308,6 @@
 "Key": "content/cos/sas/center_home_page/Library/SAS_Standard_Design_Program_Areas__v17_.pdf",
 "extension": ".pdf",
 "Size": "113198"
-},
-{
-"name": "Army Standard for Air Traffic Control Tower - Air Operations Building_January_2023.pdf",
-"LastModified": "02/22/2023 13:40:13",
-"Key": "content/cos/sas/center_home_page/Library/Air Traffic Control Tower - Air Operations Building/Army Standard for Air Traffic Control Tower - Air Operations Building_January_2023.pdf",
-"extension": ".pdf",
-"Size": "476071"
 },
 {
 "name": "Library",
