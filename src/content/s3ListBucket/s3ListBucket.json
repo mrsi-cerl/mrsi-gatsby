@@ -847,7 +847,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "04/05/2021 11:16:01",
+"LastModified": "03/06/2023 09:17:46",
 "Key": "content/cos/hnc/cdcsa/Library/Archive",
 "extension": "",
 "Size": ""
@@ -882,7 +882,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "08/09/2021 08:54:13",
+"LastModified": "03/06/2023 09:17:46",
 "Key": "content/cos/hnc/cdcsa/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -921,6 +921,13 @@
 "Key": "content/cos/hnc/cdcsa/Library/Archive/RFP Wizard Input - CDC (Aug-11).pdf",
 "extension": ".pdf",
 "Size": "43566"
+},
+{
+"name": "Room by Room Design Criteria_SAC-6-10 (July 2020).pdf",
+"LastModified": "08/11/2020 13:04:02",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/Room by Room Design Criteria_SAC-6-10 (July 2020).pdf",
+"extension": ".pdf",
+"Size": "1403858"
 },
 {
 "name": "Room-by-Room_Descriptions_-_CDC_6-10_(Oct_10).pdf",
@@ -1252,11 +1259,11 @@
 "Size": "1326945"
 },
 {
-"name": "Room by Room Design Criteria_SAC-6-10 (July 2020).pdf",
-"LastModified": "08/11/2020 13:04:02",
-"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Room by Room Design Criteria_SAC-6-10 (July 2020).pdf",
+"name": "SAC-6-10_Standard Design_Feb2023.pdf",
+"LastModified": "03/06/2023 09:07:20",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/SAC-6-10_Standard Design_Feb2023.pdf",
 "extension": ".pdf",
-"Size": "1403858"
+"Size": "824234"
 },
 {
 "name": "Standard_Drawings_SAC-6-10_Large__June_2021_.pdf",
@@ -1414,7 +1421,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "10/01/2021 09:38:51",
+"LastModified": "03/06/2023 09:16:52",
 "Key": "content/cos/hnc/cdcu6/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -1435,7 +1442,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "10/01/2021 09:32:31",
+"LastModified": "03/06/2023 09:16:52",
 "Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs",
 "extension": "",
 "Size": ""
@@ -1600,6 +1607,13 @@
 "Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/Room By Room Design Criteria_CDC-0-5 (July2020).pdf",
 "extension": ".pdf",
 "Size": "5410419"
+},
+{
+"name": "Room by Room Design Criteria_CDC-0-5_Sep 2021.pdf",
+"LastModified": "10/01/2021 09:26:48",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/Room by Room Design Criteria_CDC-0-5_Sep 2021.pdf",
+"extension": ".pdf",
+"Size": "6936610"
 },
 {
 "name": "standard-drawings-cad-cdc-0-5-large-feb-2019.zip",
@@ -1833,11 +1847,11 @@
 "Size": "1416986"
 },
 {
-"name": "Room by Room Design Criteria_CDC-0-5_Sep 2021.pdf",
-"LastModified": "10/01/2021 09:26:48",
-"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/Room by Room Design Criteria_CDC-0-5_Sep 2021.pdf",
+"name": "CDC-0-5_Standard Design_Feb2023.pdf",
+"LastModified": "03/06/2023 09:07:20",
+"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/CDC-0-5_Standard Design_Feb2023.pdf",
 "extension": ".pdf",
-"Size": "6936610"
+"Size": "5035397"
 },
 {
 "name": "Standard Drawings_CDC-0-5_large_Sep 2021.pdf",
