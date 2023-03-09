@@ -18,23 +18,24 @@ file_library_root_path: content/UMMCA/
 
 1. Create a [Login.gov](https://secure.login.gov/sign_up/enter_email) account _using your official work email account_.
 2. Log into the Wizard using the link above.
-3. Then email [HQUSACE UMMCA Natl PgM](mailto:Nelson.P.Rulona@usace.army.mil) to notify that a UMVR is about to be started by District after receipt of a design code for PNxxxxxx.
+3. Then email the [HQUSACE UMMCA National Program Manager](mailto:Nelson.P.Rulona@usace.army.mil) to notify them that a UMVR is about to be started by the District after receipt of a design code for PNxxxxxx.
 
 <div style="clear: both">
 
 ### Questions?
-- For UMMCA questions, contact the NPgM.
-- Tech support for the MRSI Wizard, contact the [MRSI support team](mailto:mrsi_support@usace.army.mil)
+- For UMMCA questions, contact the [National Program Manager](mailto:Nelson.P.Rulona@usace.army.mil).
+- For MRSI Wizard tech support, contact the [MRSI support team](mailto:mrsi_support@usace.army.mil).
 
 </div>
 
 ## Process and Guidance
 
-*As a start, will have a link to show program and process timelines as well as latest guidance docs to inclue the UMVR template.*
+*As a start, will have a link to show program and process timelines as well as latest guidance docs to include the UMVR template. Note that
+ the template is currently presented in the file library, below.*
 
 ## Previous FY Projects
 
-*Could be place to access prior completed UMVR subitted to the Army.*
+*Could be place to access prior completed UMVR submitted to the Army.*
 
 ## About
 

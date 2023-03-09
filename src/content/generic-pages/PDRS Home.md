@@ -25,7 +25,7 @@ file_library_root_path: content/PDRS/
 
 ### Questions?
 - Questions about your project or the PDR, contact Rachel or Amanda.
-- Tech support for the MRSI Wizard, contact the [MRSI support team](mailto:mrsi_support@usace.army.mil)
+- For MRSI Wizard tech support, contact the [MRSI support team](mailto:mrsi_support@usace.army.mil).
 
 </div>
 
