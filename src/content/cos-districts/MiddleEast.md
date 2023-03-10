@@ -48,9 +48,9 @@ Full Service 3D Printing and High Resolution 3D modeling/animation
 
 - To scale interactive 3D models of facilities, layouts, Masterplans, awards, etc.
 
-[![CoS Catalog](/admin/images/uploads/cos-np-overview-TAM.jpg)](https://rfpwizard.mrsi.erdc.dren.mil/MRSI/content/cos/tam/center_home_page/Library/cos-npf-catalog-may2019.pdf)
+[![CoS Overview](/admin/images/uploads/cos-np-overview-TAM.jpg)](https://rfpwizard.mrsi.erdc.dren.mil/MRSI/content/cos/tam/center_home_page/Library/CoS%20Overview.pdf)
 
-[![COS NP Design Builder](/admin/images/uploads/design-builder-preview-TAM.png)](https://rfpwizard.mrsi.erdc.dren.mil/MRSI/content/cos/tam/center_home_page/Library/usace-cos-design-builder-7jan19.xlsx)
+[![COS NP Design Builder](/admin/images/uploads/design-builder-preview-TAM.png)](https://rfpwizard.mrsi.erdc.dren.mil/MRSI/content/cos/tam/center_home_page/Library/USACE-CoS-design-builder-15AUG2022.xlsm)
 
 ![Facility and Masterplan Prints](/admin/images/uploads/3d-facilities-and-masterplan-prints-TAM.png)
 
