@@ -50,7 +50,8 @@ Full Service 3D Printing and High Resolution 3D modeling/animation
 
 [![CoS Overview](/admin/images/uploads/cos-np-overview-TAM.jpg)](https://rfpwizard.mrsi.erdc.dren.mil/MRSI/content/cos/tam/center_home_page/Library/CoS%20Overview.pdf)
 
-[![COS NP Design Builder](/admin/images/uploads/design-builder-preview-TAM.png)](https://rfpwizard.mrsi.erdc.dren.mil/MRSI/content/cos/tam/center_home_page/Library/USACE-CoS-design-builder-Ayala-03MARCH2023.xlsx)
+[![COS NP Design Builder](/admin/images/uploads/design-builder-preview-TAM.png)](https://rfpwizard.mrsi.erdc.dren.mil/MRSI/content/cos/tam/center_home_page/Library/CoS design Builder - must be downloaded - 03MARCH2023.xlsx)
+**<span style="font-size:larger;">NOTE: Design Builder file must be downloaded to run.</span>**
 
 ![Facility and Masterplan Prints](/admin/images/uploads/3d-facilities-and-masterplan-prints-TAM.png)
 
