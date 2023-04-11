@@ -49,7 +49,7 @@
 },
 {
 "name": "PDRS",
-"LastModified": "09/25/2019 08:26:14",
+"LastModified": "04/11/2023 17:30:22",
 "Key": "content/PDRS",
 "extension": "",
 "Size": ""
@@ -14846,6 +14846,13 @@
 "Size": ""
 },
 {
+"name": "FY26 Guidance & Templates",
+"LastModified": "04/11/2023 17:31:20",
+"Key": "content/PDRS/FY26 Guidance & Templates",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Help",
 "LastModified": "09/25/2019 08:26:13",
 "Key": "content/PDRS/Help",
@@ -14970,6 +14977,20 @@
 "Key": "content/PDRS/AAR/FY 13 AAR/presentation-9-wick-ausa-189-1-presentation.pptx",
 "extension": ".pptx",
 "Size": "4437727"
+},
+{
+"name": "Appendix F_FY26 Acquisition Strategy Template.docx",
+"LastModified": "04/11/2023 14:48:00",
+"Key": "content/PDRS/FY26 Guidance & Templates/Appendix F_FY26 Acquisition Strategy Template.docx",
+"extension": ".docx",
+"Size": "27391"
+},
+{
+"name": "Instructions for FY26 Army MILCON Code 2.pdf",
+"LastModified": "04/11/2023 14:50:00",
+"Key": "content/PDRS/FY26 Guidance & Templates/Instructions for FY26 Army MILCON Code 2.pdf",
+"extension": ".pdf",
+"Size": "1247395"
 },
 {
 "name": "pdrswizard_pm.pptx",
