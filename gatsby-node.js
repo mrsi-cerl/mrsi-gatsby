@@ -10,6 +10,7 @@ const templates = {
   sustain_cx_page: path.resolve("./src/templates/sustain-kr-cx-page.js"),
   generic_page: path.resolve("./src/templates/generic-page.js"),
   generic_page2eb: path.resolve("./src/templates/generic-page2eb.js"),
+  generic_page_noSideNav: path.resolve("./src/templates/generic-page-noSideNav.js"),
   sustain_webinar: path.resolve("./src/templates/sustain-webinar-page.js"),
 }
 

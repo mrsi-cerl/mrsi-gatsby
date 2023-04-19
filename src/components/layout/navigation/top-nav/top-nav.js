@@ -35,11 +35,20 @@ const TopNav = ({ path }) => {
         </li>
         <li
           className={cx(styles.item, "usa-nav__submenu-item", {
+            [styles.current]: pdrs,
+          })}
+        >
+          <Link to="/pdrs" title="MILCON Code 2 Process">
+            MCA/AFH Code 2
+          </Link>
+        </li>
+        <li
+          className={cx(styles.item, "usa-nav__submenu-item", {
             [styles.current]: coe,
           })}
         >
           <Link to="/coe" title="Centers of Expertise">
-            CX
+            MCX/CX
           </Link>
         </li>
         <li
@@ -49,15 +58,6 @@ const TopNav = ({ path }) => {
         >
           <Link to="/model-rfp" title="Model Request for Proposal">
             Model RFP
-          </Link>
-        </li>
-        <li
-          className={cx(styles.item, "usa-nav__submenu-item", {
-            [styles.current]: pdrs,
-          })}
-        >
-          <Link to="/pdrs" title="Parametric Design Report System">
-            PDRS
           </Link>
         </li>
         <li

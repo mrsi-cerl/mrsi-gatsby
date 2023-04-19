@@ -12,7 +12,7 @@ export default ({ data, pageContext }) => {
   const lib_path = page.frontmatter.file_library_root_path
 
   return (
-    <Layout path={pageContext.slug} MaxWidth={900} hideSideNav centerContent>
+    <Layout path={pageContext.slug} MaxWidth={950} hideSideNav  centerContent>
       <h1>{page.frontmatter.title}</h1>
       <div className={"md"} dangerouslySetInnerHTML={{ __html: page.html }} />
       <RelatedLinks related_links={page.frontmatter.related_links} />
@@ -27,25 +27,24 @@ export const query = graphql`
       edges {
         node {
           frontmatter {
-            cos_long_name
-            cos_manager_email
-            cos_manager_name
-            cos_short_name
-            facility_long_name
-            facility_short_name
-            related_links {
-              url
-              caption
-            }
-            title
-            facility_technical_poc_email
             doc_type
-            facility_category_codes
-            facility_cos_short_name
-            facility_functional_proponent
-            facility_technical_poc_name
+            name_of_center
+            place_of_center
+            center_type
+            website
+            center_poc_name
+            center_poc_phone_number
+            hq_poc_name
+            hq_division
+            er_number
+            er_link
+            er_publication_date
+            activation_date
+            recertification_date
+            center_functional_proponent
             file_library_root_path
             page_last_reviewed
+            title
             slug
           }
           html

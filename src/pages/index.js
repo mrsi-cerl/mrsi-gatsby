@@ -70,16 +70,16 @@ const IndexPage = () => (
             alt=""
           />
           <div className="usa-media-block__body">
-            <h3>PDRS</h3>
+            <h3>MCA/AFH Code 2</h3>
             <p>
-              The Parametric Design Report System (PDRS) Wizard is a tool for
-              the preparation, submission, reporting and storage of the required
-              Parametric Design Report. An approved PDR is required prior to the
-              ENG Form 3086 submission.
+              The Army’s Code 2 process supports the programming and budget process in advance
+              of budget lock. The PDR document is written, submitted, and reviewed
+              within the MCA Code 2 Wizard. Starting with the FY26 MCA/AFH Program, this 
+              tool is also where the 35% Certification documents will be submitted and reviewed.
             </p>
 
             <p>
-              <Link to="/pdrs/">Visit PDRS</Link>
+              <Link to="/pdrs/">MCA/AFH Code 2</Link>
             </p>
           </div>
         </div>

@@ -49,7 +49,7 @@
 },
 {
 "name": "PDRS",
-"LastModified": "04/11/2023 17:30:22",
+"LastModified": "04/18/2023 19:38:22",
 "Key": "content/PDRS",
 "extension": "",
 "Size": ""
@@ -14839,9 +14839,16 @@
 "Size": "4039168"
 },
 {
-"name": "AAR",
-"LastModified": "09/25/2019 08:26:11",
-"Key": "content/PDRS/AAR",
+"name": "Archive",
+"LastModified": "04/18/2023 19:37:03",
+"Key": "content/PDRS/Archive",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY25 Guidance & Templates",
+"LastModified": "04/18/2023 19:39:30",
+"Key": "content/PDRS/FY25 Guidance & Templates",
 "extension": "",
 "Size": ""
 },
@@ -14853,130 +14860,1523 @@
 "Size": ""
 },
 {
+"name": "FY27 Guidance & Templates (coming soon)",
+"LastModified": "04/18/2023 19:38:04",
+"Key": "content/PDRS/FY27 Guidance & Templates (coming soon)",
+"extension": "",
+"Size": ""
+},
+{
+"name": "AAR",
+"LastModified": "09/25/2019 08:26:11",
+"Key": "content/PDRS/Archive/AAR",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Help",
 "LastModified": "09/25/2019 08:26:13",
-"Key": "content/PDRS/Help",
+"Key": "content/PDRS/Archive/Help",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Meeting Minutes",
-"LastModified": "02/24/2021 15:18:51",
-"Key": "content/PDRS/Meeting Minutes",
+"LastModified": "04/18/2023 19:44:07",
+"Key": "content/PDRS/Archive/Meeting Minutes",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Policy",
-"LastModified": "06/13/2022 19:06:26",
-"Key": "content/PDRS/Policy",
+"LastModified": "04/18/2023 19:41:17",
+"Key": "content/PDRS/Archive/Policy",
 "extension": "",
 "Size": ""
 },
 {
 "name": "FY 13 AAR",
 "LastModified": "09/25/2019 08:26:13",
-"Key": "content/PDRS/AAR/FY 13 AAR",
+"Key": "content/PDRS/Archive/AAR/FY 13 AAR",
 "extension": "",
 "Size": ""
 },
 {
 "name": "agenda-pdr-pc-jun-2011.pdf",
 "LastModified": "06/29/2016 14:19:52",
-"Key": "content/PDRS/AAR/FY 13 AAR/agenda-pdr-pc-jun-2011.pdf",
+"Key": "content/PDRS/Archive/AAR/FY 13 AAR/agenda-pdr-pc-jun-2011.pdf",
 "extension": ".pdf",
 "Size": "52830"
 },
 {
 "name": "attendance-roster.pdf",
 "LastModified": "06/29/2016 14:19:53",
-"Key": "content/PDRS/AAR/FY 13 AAR/attendance-roster.pdf",
+"Key": "content/PDRS/Archive/AAR/FY 13 AAR/attendance-roster.pdf",
 "extension": ".pdf",
 "Size": "296157"
 },
 {
 "name": "final-aar-meeting-mins-june-7_8-2011.pdf",
 "LastModified": "06/29/2016 14:19:53",
-"Key": "content/PDRS/AAR/FY 13 AAR/final-aar-meeting-mins-june-7_8-2011.pdf",
+"Key": "content/PDRS/Archive/AAR/FY 13 AAR/final-aar-meeting-mins-june-7_8-2011.pdf",
 "extension": ".pdf",
 "Size": "68253"
 },
 {
 "name": "presentation-1-intro-slides_hqusace_milcon-ipt-7-june.pptx",
 "LastModified": "06/29/2016 14:20:00",
-"Key": "content/PDRS/AAR/FY 13 AAR/presentation-1-intro-slides_hqusace_milcon-ipt-7-june.pptx",
+"Key": "content/PDRS/Archive/AAR/FY 13 AAR/presentation-1-intro-slides_hqusace_milcon-ipt-7-june.pptx",
 "extension": ".pptx",
 "Size": "2662145"
 },
 {
 "name": "presentation-10-low-impact-development-briefing.ppt",
 "LastModified": "06/29/2016 14:19:51",
-"Key": "content/PDRS/AAR/FY 13 AAR/presentation-10-low-impact-development-briefing.ppt",
+"Key": "content/PDRS/Archive/AAR/FY 13 AAR/presentation-10-low-impact-development-briefing.ppt",
 "extension": ".ppt",
 "Size": "941568"
 },
 {
 "name": "presentation-2-acsim-2011-mca-brief-for-usace-aar-v2.ppt",
 "LastModified": "06/29/2016 14:20:01",
-"Key": "content/PDRS/AAR/FY 13 AAR/presentation-2-acsim-2011-mca-brief-for-usace-aar-v2.ppt",
+"Key": "content/PDRS/Archive/AAR/FY 13 AAR/presentation-2-acsim-2011-mca-brief-for-usace-aar-v2.ppt",
 "extension": ".ppt",
 "Size": "324608"
 },
 {
 "name": "presentation-3-planning-charrette-fy13-code0-3_aar_june2011.ppt",
 "LastModified": "06/29/2016 14:20:27",
-"Key": "content/PDRS/AAR/FY 13 AAR/presentation-3-planning-charrette-fy13-code0-3_aar_june2011.ppt",
+"Key": "content/PDRS/Archive/AAR/FY 13 AAR/presentation-3-planning-charrette-fy13-code0-3_aar_june2011.ppt",
 "extension": ".ppt",
 "Size": "11568640"
 },
 {
 "name": "presentation-4-pdr_3086-issues-and-lessons-3086.pptx",
 "LastModified": "06/29/2016 14:20:33",
-"Key": "content/PDRS/AAR/FY 13 AAR/presentation-4-pdr_3086-issues-and-lessons-3086.pptx",
+"Key": "content/PDRS/Archive/AAR/FY 13 AAR/presentation-4-pdr_3086-issues-and-lessons-3086.pptx",
 "extension": ".pptx",
 "Size": "2377283"
 },
 {
 "name": "presentation-5-msc_district-feedback.pptx",
 "LastModified": "06/29/2016 14:18:55",
-"Key": "content/PDRS/AAR/FY 13 AAR/presentation-5-msc_district-feedback.pptx",
+"Key": "content/PDRS/Archive/AAR/FY 13 AAR/presentation-5-msc_district-feedback.pptx",
 "extension": ".pptx",
 "Size": "2019894"
 },
 {
 "name": "presentation-6-pdr-success-and-corrective-actions-and-energy.pptx",
 "LastModified": "06/29/2016 14:19:07",
-"Key": "content/PDRS/AAR/FY 13 AAR/presentation-6-pdr-success-and-corrective-actions-and-energy.pptx",
+"Key": "content/PDRS/Archive/AAR/FY 13 AAR/presentation-6-pdr-success-and-corrective-actions-and-energy.pptx",
 "extension": ".pptx",
 "Size": "4466439"
 },
 {
 "name": "presentation-7-step.pptx",
 "LastModified": "06/29/2016 14:19:10",
-"Key": "content/PDRS/AAR/FY 13 AAR/presentation-7-step.pptx",
+"Key": "content/PDRS/Archive/AAR/FY 13 AAR/presentation-7-step.pptx",
 "extension": ".pptx",
 "Size": "869761"
 },
 {
 "name": "presentation-8-energy-enhancements-charette-aar-pohl.pptx",
 "LastModified": "06/29/2016 14:19:39",
-"Key": "content/PDRS/AAR/FY 13 AAR/presentation-8-energy-enhancements-charette-aar-pohl.pptx",
+"Key": "content/PDRS/Archive/AAR/FY 13 AAR/presentation-8-energy-enhancements-charette-aar-pohl.pptx",
 "extension": ".pptx",
 "Size": "12522911"
 },
 {
 "name": "presentation-9-supplement-what-ecb-2011-1-means-to-me-flow-chart.docx",
 "LastModified": "06/29/2016 14:19:40",
-"Key": "content/PDRS/AAR/FY 13 AAR/presentation-9-supplement-what-ecb-2011-1-means-to-me-flow-chart.docx",
+"Key": "content/PDRS/Archive/AAR/FY 13 AAR/presentation-9-supplement-what-ecb-2011-1-means-to-me-flow-chart.docx",
 "extension": ".docx",
 "Size": "30483"
 },
 {
 "name": "presentation-9-wick-ausa-189-1-presentation.pptx",
 "LastModified": "06/29/2016 14:19:49",
-"Key": "content/PDRS/AAR/FY 13 AAR/presentation-9-wick-ausa-189-1-presentation.pptx",
+"Key": "content/PDRS/Archive/AAR/FY 13 AAR/presentation-9-wick-ausa-189-1-presentation.pptx",
 "extension": ".pptx",
 "Size": "4437727"
+},
+{
+"name": "pdrswizard_pm.pptx",
+"LastModified": "06/29/2016 14:13:38",
+"Key": "content/PDRS/Archive/Help/pdrswizard_pm.pptx",
+"extension": ".pptx",
+"Size": "1845208"
+},
+{
+"name": "pdrs_pm_flowchart.pdf",
+"LastModified": "06/29/2016 14:13:38",
+"Key": "content/PDRS/Archive/Help/pdrs_pm_flowchart.pdf",
+"extension": ".pdf",
+"Size": "23280"
+},
+{
+"name": "pdrs_reviewer_flowchart.pdf",
+"LastModified": "06/29/2016 14:13:32",
+"Key": "content/PDRS/Archive/Help/pdrs_reviewer_flowchart.pdf",
+"extension": ".pdf",
+"Size": "23413"
+},
+{
+"name": "pdrs_training_intro.pptx",
+"LastModified": "06/29/2016 14:13:32",
+"Key": "content/PDRS/Archive/Help/pdrs_training_intro.pptx",
+"extension": ".pptx",
+"Size": "155004"
+},
+{
+"name": "FY23 Meeting Minutes",
+"LastModified": "06/11/2021 09:31:09",
+"Key": "content/PDRS/Archive/Meeting Minutes/FY23 Meeting Minutes",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Pre-FY23 Meeting Minutes",
+"LastModified": "02/24/2021 15:18:51",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes",
+"extension": "",
+"Size": ""
+},
+{
+"name": "NAD_PDR_Telecons_06_08_21.pdf",
+"LastModified": "06/11/2021 09:30:34",
+"Key": "content/PDRS/Archive/Meeting Minutes/FY23 Meeting Minutes/NAD_PDR_Telecons_06_08_21.pdf",
+"extension": ".pdf",
+"Size": "477043"
+},
+{
+"name": "NWD_PDR_Telecons_06_08_21.pdf",
+"LastModified": "06/11/2021 09:30:30",
+"Key": "content/PDRS/Archive/Meeting Minutes/FY23 Meeting Minutes/NWD_PDR_Telecons_06_08_21.pdf",
+"extension": ".pdf",
+"Size": "265830"
+},
+{
+"name": "POD_PDR_Telecons_06_02_21.pdf",
+"LastModified": "06/11/2021 09:30:25",
+"Key": "content/PDRS/Archive/Meeting Minutes/FY23 Meeting Minutes/POD_PDR_Telecons_06_02_21.pdf",
+"extension": ".pdf",
+"Size": "295141"
+},
+{
+"name": "SAD_PDR_Telecons_06_08_21.pdf",
+"LastModified": "06/11/2021 09:30:21",
+"Key": "content/PDRS/Archive/Meeting Minutes/FY23 Meeting Minutes/SAD_PDR_Telecons_06_08_21.pdf",
+"extension": ".pdf",
+"Size": "413525"
+},
+{
+"name": "SPD_PDR_Telecons_06_08_21.pdf",
+"LastModified": "06/11/2021 09:29:40",
+"Key": "content/PDRS/Archive/Meeting Minutes/FY23 Meeting Minutes/SPD_PDR_Telecons_06_08_21.pdf",
+"extension": ".pdf",
+"Size": "270499"
+},
+{
+"name": "SWD_PDR_Telecons_06_08_21.pdf",
+"LastModified": "06/11/2021 09:29:35",
+"Key": "content/PDRS/Archive/Meeting Minutes/FY23 Meeting Minutes/SWD_PDR_Telecons_06_08_21.pdf",
+"extension": ".pdf",
+"Size": "311086"
+},
+{
+"name": "FY 18 Meeting Minutes",
+"LastModified": "09/25/2019 08:26:13",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY 18 Meeting Minutes",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY 19  & FY 18 UFR Meeting Minutes",
+"LastModified": "09/25/2019 08:26:13",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY 19  & FY 18 UFR Meeting Minutes",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY20 Meeting Minutes",
+"LastModified": "09/25/2019 08:26:14",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY20 Meeting Minutes",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY21 Meeting Minutes",
+"LastModified": "09/25/2019 08:26:14",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY21 Meeting Minutes",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY22 Meeting Minutes",
+"LastModified": "05/04/2020 12:12:13",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY22 Meeting Minutes",
+"extension": "",
+"Size": ""
+},
+{
+"name": "final-nad_lrd_spd_nwd-pdr-telecons-5_31_-2016.docx",
+"LastModified": "06/29/2016 14:02:42",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY 18 Meeting Minutes/final-nad_lrd_spd_nwd-pdr-telecons-5_31_-2016.docx",
+"extension": ".docx",
+"Size": "70350"
+},
+{
+"name": "final-nad_lrd_spd_nwd_pod-pdr-telecons-6_14_-2016.docx",
+"LastModified": "06/29/2016 14:02:42",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY 18 Meeting Minutes/final-nad_lrd_spd_nwd_pod-pdr-telecons-6_14_-2016.docx",
+"extension": ".docx",
+"Size": "81456"
+},
+{
+"name": "final-nad_lrd_spd_nwd_pod-pdr-telecons-6_21_-2016-002.docx",
+"LastModified": "06/29/2016 14:02:40",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY 18 Meeting Minutes/final-nad_lrd_spd_nwd_pod-pdr-telecons-6_21_-2016-002.docx",
+"extension": ".docx",
+"Size": "83283"
+},
+{
+"name": "final-sad-pdr-telecons-5_31_2016.docx",
+"LastModified": "06/29/2016 14:02:41",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY 18 Meeting Minutes/final-sad-pdr-telecons-5_31_2016.docx",
+"extension": ".docx",
+"Size": "46043"
+},
+{
+"name": "final-sad-pdr-telecons-6_14_2016.docx",
+"LastModified": "06/29/2016 14:02:41",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY 18 Meeting Minutes/final-sad-pdr-telecons-6_14_2016.docx",
+"extension": ".docx",
+"Size": "48752"
+},
+{
+"name": "final-sad-pdr-telecons-6_21_2016.docx",
+"LastModified": "06/29/2016 14:02:42",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY 18 Meeting Minutes/final-sad-pdr-telecons-6_21_2016.docx",
+"extension": ".docx",
+"Size": "49905"
+},
+{
+"name": "completed-lrd-pdr-telecons-6_27_2017.pdf",
+"LastModified": "07/14/2017 12:44:43",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY 19  & FY 18 UFR Meeting Minutes/completed-lrd-pdr-telecons-6_27_2017.pdf",
+"extension": ".pdf",
+"Size": "173174"
+},
+{
+"name": "completed-nwd-pdr-telecons-5_9_2017.pdf",
+"LastModified": "05/12/2017 19:37:15",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY 19  & FY 18 UFR Meeting Minutes/completed-nwd-pdr-telecons-5_9_2017.pdf",
+"extension": ".pdf",
+"Size": "146654"
+},
+{
+"name": "completed-spd-pdr-telecons-4_25_2017.pdf",
+"LastModified": "05/12/2017 19:36:39",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY 19  & FY 18 UFR Meeting Minutes/completed-spd-pdr-telecons-4_25_2017.pdf",
+"extension": ".pdf",
+"Size": "138372"
+},
+{
+"name": "completed-tad-pdr-telecons-5_23_2017.pdf",
+"LastModified": "07/14/2017 12:45:48",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY 19  & FY 18 UFR Meeting Minutes/completed-tad-pdr-telecons-5_23_2017.pdf",
+"extension": ".pdf",
+"Size": "142780"
+},
+{
+"name": "nad-pdr-telecons7_11_2017.pdf",
+"LastModified": "07/14/2017 12:44:16",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY 19  & FY 18 UFR Meeting Minutes/nad-pdr-telecons7_11_2017.pdf",
+"extension": ".pdf",
+"Size": "229197"
+},
+{
+"name": "pod-pdr-telecons-7_11_2017.pdf",
+"LastModified": "07/14/2017 12:46:33",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY 19  & FY 18 UFR Meeting Minutes/pod-pdr-telecons-7_11_2017.pdf",
+"extension": ".pdf",
+"Size": "116780"
+},
+{
+"name": "sad-pdr-telecons-7_11_2017.pdf",
+"LastModified": "07/14/2017 12:44:57",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY 19  & FY 18 UFR Meeting Minutes/sad-pdr-telecons-7_11_2017.pdf",
+"extension": ".pdf",
+"Size": "211024"
+},
+{
+"name": "swd-pdr-telecons-6_27_2017.pdf",
+"LastModified": "07/14/2017 12:46:02",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY 19  & FY 18 UFR Meeting Minutes/swd-pdr-telecons-6_27_2017.pdf",
+"extension": ".pdf",
+"Size": "159135"
+},
+{
+"name": "final_lrd-pdr-telecons-3_27_2018.docx",
+"LastModified": "06/19/2018 11:27:25",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY20 Meeting Minutes/final_lrd-pdr-telecons-3_27_2018.docx",
+"extension": ".docx",
+"Size": "34899"
+},
+{
+"name": "final_nad-pdr-telecons-05_29_2018.docx",
+"LastModified": "06/19/2018 11:30:29",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY20 Meeting Minutes/final_nad-pdr-telecons-05_29_2018.docx",
+"extension": ".docx",
+"Size": "74390"
+},
+{
+"name": "final_nau-pdr-telecons-05_17_2018.docx",
+"LastModified": "06/19/2018 11:38:09",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY20 Meeting Minutes/final_nau-pdr-telecons-05_17_2018.docx",
+"extension": ".docx",
+"Size": "46469"
+},
+{
+"name": "final_nwd-pdr-telecons-04_17_2018.docx",
+"LastModified": "06/19/2018 11:27:06",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY20 Meeting Minutes/final_nwd-pdr-telecons-04_17_2018.docx",
+"extension": ".docx",
+"Size": "34302"
+},
+{
+"name": "final_poh-pdr-telecons-6_13_2018.docx",
+"LastModified": "06/19/2018 11:42:17",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY20 Meeting Minutes/final_poh-pdr-telecons-6_13_2018.docx",
+"extension": ".docx",
+"Size": "32286"
+},
+{
+"name": "final_poj-pdr-telecons-04_25_2018.docx",
+"LastModified": "06/19/2018 11:42:01",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY20 Meeting Minutes/final_poj-pdr-telecons-04_25_2018.docx",
+"extension": ".docx",
+"Size": "30475"
+},
+{
+"name": "final_sad-pdr-telecons-05_29_2018.docx",
+"LastModified": "06/19/2018 11:31:13",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY20 Meeting Minutes/final_sad-pdr-telecons-05_29_2018.docx",
+"extension": ".docx",
+"Size": "58087"
+},
+{
+"name": "final_swd-pdr-telecons-04_17_2018.docx",
+"LastModified": "06/19/2018 11:28:17",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY20 Meeting Minutes/final_swd-pdr-telecons-04_17_2018.docx",
+"extension": ".docx",
+"Size": "36978"
+},
+{
+"name": "final_tad-pdr-telecons-4_24_2018.docx",
+"LastModified": "06/19/2018 11:32:55",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY20 Meeting Minutes/final_tad-pdr-telecons-4_24_2018.docx",
+"extension": ".docx",
+"Size": "34592"
+},
+{
+"name": "final_nad-1st-round-pdr-telecons-01_17_2019.pdf",
+"LastModified": "05/20/2019 15:11:24",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY21 Meeting Minutes/final_nad-1st-round-pdr-telecons-01_17_2019.pdf",
+"extension": ".pdf",
+"Size": "232561"
+},
+{
+"name": "final_nad-2nd-round-pdr-telecons-2_05_2019.docx",
+"LastModified": "03/08/2019 09:13:44",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY21 Meeting Minutes/final_nad-2nd-round-pdr-telecons-2_05_2019.docx",
+"extension": ".docx",
+"Size": "31937"
+},
+{
+"name": "final_poj-pdr-telecons-08_15_2018.pdf",
+"LastModified": "12/11/2018 08:11:00",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY21 Meeting Minutes/final_poj-pdr-telecons-08_15_2018.pdf",
+"extension": ".pdf",
+"Size": "132398"
+},
+{
+"name": "final_sad-round-2-pdr-telecons-04_02_2019.pdf",
+"LastModified": "05/20/2019 14:46:56",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY21 Meeting Minutes/final_sad-round-2-pdr-telecons-04_02_2019.pdf",
+"extension": ".pdf",
+"Size": "170521"
+},
+{
+"name": "final_spd-pdr-telecons-10_2_2018.pdf",
+"LastModified": "01/29/2019 09:35:14",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY21 Meeting Minutes/final_spd-pdr-telecons-10_2_2018.pdf",
+"extension": ".pdf",
+"Size": "141703"
+},
+{
+"name": "final_swd-pdr-telecons-10_30_2018.pdf",
+"LastModified": "12/11/2018 08:28:33",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY21 Meeting Minutes/final_swd-pdr-telecons-10_30_2018.pdf",
+"extension": ".pdf",
+"Size": "201634"
+},
+{
+"name": "nau-round-2-pdr-telecons-5_16_2019.pdf",
+"LastModified": "05/20/2019 15:14:36",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY21 Meeting Minutes/nau-round-2-pdr-telecons-5_16_2019.pdf",
+"extension": ".pdf",
+"Size": "231170"
+},
+{
+"name": "nwd-round-2-pdr-telecons-5_14_2019.pdf",
+"LastModified": "05/20/2019 15:18:54",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY21 Meeting Minutes/nwd-round-2-pdr-telecons-5_14_2019.pdf",
+"extension": ".pdf",
+"Size": "176549"
+},
+{
+"name": "poh-round-2-pdr-telecons-5_14_19.pdf",
+"LastModified": "05/20/2019 15:15:29",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY21 Meeting Minutes/poh-round-2-pdr-telecons-5_14_19.pdf",
+"extension": ".pdf",
+"Size": "189347"
+},
+{
+"name": "NAD PDR Telecons 4_21_2020.pdf",
+"LastModified": "05/04/2020 08:46:37",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY22 Meeting Minutes/NAD PDR Telecons 4_21_2020.pdf",
+"extension": ".pdf",
+"Size": "315697"
+},
+{
+"name": "NWD PDR Telecons 4_21_20.pdf",
+"LastModified": "05/04/2020 08:46:39",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY22 Meeting Minutes/NWD PDR Telecons 4_21_20.pdf",
+"extension": ".pdf",
+"Size": "194872"
+},
+{
+"name": "POD PDR Telecons 4_22_20 v.pdf",
+"LastModified": "05/04/2020 08:46:41",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY22 Meeting Minutes/POD PDR Telecons 4_22_20 v.pdf",
+"extension": ".pdf",
+"Size": "249526"
+},
+{
+"name": "SAD_SAM PDR Telecons 4_21_2020.pdf",
+"LastModified": "05/04/2020 08:46:44",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY22 Meeting Minutes/SAD_SAM PDR Telecons 4_21_2020.pdf",
+"extension": ".pdf",
+"Size": "217169"
+},
+{
+"name": "SPD PDR Telecons 4_21_20.pdf",
+"LastModified": "05/04/2020 08:46:46",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY22 Meeting Minutes/SPD PDR Telecons 4_21_20.pdf",
+"extension": ".pdf",
+"Size": "179857"
+},
+{
+"name": "SWD PDR Telecons 4_21_2020.pdf",
+"LastModified": "05/04/2020 08:46:49",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY22 Meeting Minutes/SWD PDR Telecons 4_21_2020.pdf",
+"extension": ".pdf",
+"Size": "182411"
+},
+{
+"name": "FY24 Guidance & Templates",
+"LastModified": "08/12/2022 09:42:25",
+"Key": "content/PDRS/Archive/Policy/FY24 Guidance & Templates",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Pre-FY24 Guidance & Templates",
+"LastModified": "09/17/2021 09:16:45",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates",
+"extension": "",
+"Size": ""
+},
+{
+"name": "1_Instructions for FY24 MCA_AFH Design Code 2.pdf",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Archive/Policy/FY24 Guidance & Templates/1_Instructions for FY24 MCA_AFH Design Code 2.pdf",
+"extension": ".pdf",
+"Size": "261137"
+},
+{
+"name": "Appdendix H_7.5_ContingencyTable_Revised1FEB22.xlsx",
+"LastModified": "08/12/2022 09:40:28",
+"Key": "content/PDRS/Archive/Policy/FY24 Guidance & Templates/Appdendix H_7.5_ContingencyTable_Revised1FEB22.xlsx",
+"extension": ".xlsx",
+"Size": "24823"
+},
+{
+"name": "Appendix A _Points of Contact.pdf",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Archive/Policy/FY24 Guidance & Templates/Appendix A _Points of Contact.pdf",
+"extension": ".pdf",
+"Size": "118212"
+},
+{
+"name": "Appendix B_Acronyms and Abbreviations.pdf",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Archive/Policy/FY24 Guidance & Templates/Appendix B_Acronyms and Abbreviations.pdf",
+"extension": ".pdf",
+"Size": "62341"
+},
+{
+"name": "Appendix Ca_FY24 Code 2 Process Timeline_New Design Starts.pdf",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Archive/Policy/FY24 Guidance & Templates/Appendix Ca_FY24 Code 2 Process Timeline_New Design Starts.pdf",
+"extension": ".pdf",
+"Size": "166798"
+},
+{
+"name": "Appendix Cb_FY24 Code 2 Process Timeline_Previous FY Start.pdf",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Archive/Policy/FY24 Guidance & Templates/Appendix Cb_FY24 Code 2 Process Timeline_Previous FY Start.pdf",
+"extension": ".pdf",
+"Size": "143667"
+},
+{
+"name": "Appendix D_FY24 PDR Template Links.docx",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Archive/Policy/FY24 Guidance & Templates/Appendix D_FY24 PDR Template Links.docx",
+"extension": ".docx",
+"Size": "22229"
+},
+{
+"name": "Appendix E_FY24 Acquisition Strategy Template.docx",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Archive/Policy/FY24 Guidance & Templates/Appendix E_FY24 Acquisition Strategy Template.docx",
+"extension": ".docx",
+"Size": "27172"
+},
+{
+"name": "Appendix F_FY24 ENG 3086 Instructions.pdf",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Archive/Policy/FY24 Guidance & Templates/Appendix F_FY24 ENG 3086 Instructions.pdf",
+"extension": ".pdf",
+"Size": "215830"
+},
+{
+"name": "Appendix G_FY24 District Certification Guidance.pdf",
+"LastModified": "08/12/2022 09:40:42",
+"Key": "content/PDRS/Archive/Policy/FY24 Guidance & Templates/Appendix G_FY24 District Certification Guidance.pdf",
+"extension": ".pdf",
+"Size": "587624"
+},
+{
+"name": "Appendix H 7.0_DCA Assessment and Risk Neutral Estimate Guidance.pdf",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Archive/Policy/FY24 Guidance & Templates/Appendix H 7.0_DCA Assessment and Risk Neutral Estimate Guidance.pdf",
+"extension": ".pdf",
+"Size": "123281"
+},
+{
+"name": "Appendix H 7.1_USD Lord memo 17 Mar 20.pdf",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Archive/Policy/FY24 Guidance & Templates/Appendix H 7.1_USD Lord memo 17 Mar 20.pdf",
+"extension": ".pdf",
+"Size": "232323"
+},
+{
+"name": "Appendix H 7.2_CSRA Notes for AE Task Orders 2021 09 08.pdf",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Archive/Policy/FY24 Guidance & Templates/Appendix H 7.2_CSRA Notes for AE Task Orders 2021 09 08.pdf",
+"extension": ".pdf",
+"Size": "128885"
+},
+{
+"name": "Appendix H 7.3_CSRA_Guidance.pdf",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Archive/Policy/FY24 Guidance & Templates/Appendix H 7.3_CSRA_Guidance.pdf",
+"extension": ".pdf",
+"Size": "1240899"
+},
+{
+"name": "Appendix H 7.4_CSRA Template FY21 Rev 4.xlsx",
+"LastModified": "09/17/2021 09:15:02",
+"Key": "content/PDRS/Archive/Policy/FY24 Guidance & Templates/Appendix H 7.4_CSRA Template FY21 Rev 4.xlsx",
+"extension": ".xlsx",
+"Size": "329011"
+},
+{
+"name": "FY 13 Guidance (Archive)",
+"LastModified": "09/25/2019 08:26:14",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 13 Guidance (Archive)",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY 14 Guidance (Archive)",
+"LastModified": "09/25/2019 08:26:15",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 14 Guidance (Archive)",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY 15 Guidance (Archive)",
+"LastModified": "09/25/2019 08:26:15",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Guidance (Archive)",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY 15 Meeting Minutes (Archive)",
+"LastModified": "09/25/2019 08:26:15",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Meeting Minutes (Archive)",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY 16 Guidance (Archive)",
+"LastModified": "09/25/2019 08:26:16",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 16 Guidance (Archive)",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY 17 Guidance (Archive)",
+"LastModified": "09/25/2019 08:26:16",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 17 Guidance (Archive)",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY 17 Meeting Minutes (Archive)",
+"LastModified": "09/25/2019 08:26:16",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 17 Meeting Minutes (Archive)",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY 18 Guidance (Archive)",
+"LastModified": "09/24/2019 10:28:34",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 18 Guidance (Archive)",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY18 Guidance",
+"LastModified": "09/25/2019 08:26:16",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY18 Guidance",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY19 Guidance",
+"LastModified": "09/25/2019 08:26:16",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY19 Guidance",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY20 Guidance and Templates",
+"LastModified": "09/25/2019 08:26:17",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY20 Guidance and Templates",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY21 Guidance and Templates",
+"LastModified": "09/25/2019 08:26:17",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY21 Guidance and Templates",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY22 Guidance and Templates",
+"LastModified": "07/12/2021 15:37:01",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY22 Guidance and Templates",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY23 Guidance and Templates",
+"LastModified": "10/29/2020 15:19:32",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY23 Guidance and Templates",
+"extension": "",
+"Size": ""
+},
+{
+"name": "070521appendix_a-acronyms_and_abbreviations.pdf",
+"LastModified": "06/29/2016 11:43:43",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 13 Guidance (Archive)/070521appendix_a-acronyms_and_abbreviations.pdf",
+"extension": ".pdf",
+"Size": "68571"
+},
+{
+"name": "070523appendix_c-planning_and_design_data-tab_b-templates.pdf",
+"LastModified": "06/29/2016 11:43:44",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 13 Guidance (Archive)/070523appendix_c-planning_and_design_data-tab_b-templates.pdf",
+"extension": ".pdf",
+"Size": "222080"
+},
+{
+"name": "abbreviated_pdr_template.docx",
+"LastModified": "06/29/2016 11:43:44",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 13 Guidance (Archive)/abbreviated_pdr_template.docx",
+"extension": ".docx",
+"Size": "26925"
+},
+{
+"name": "abbreviated_pdr_template_fy_13_late_adds-npr.docx",
+"LastModified": "06/29/2016 11:43:44",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 13 Guidance (Archive)/abbreviated_pdr_template_fy_13_late_adds-npr.docx",
+"extension": ".docx",
+"Size": "29168"
+},
+{
+"name": "fy13_code-3_directive_sample.pdf",
+"LastModified": "06/29/2016 11:43:39",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 13 Guidance (Archive)/fy13_code-3_directive_sample.pdf",
+"extension": ".pdf",
+"Size": "49395"
+},
+{
+"name": "guidance_instructions-for-fy13-pdr3086.pdf",
+"LastModified": "06/29/2016 11:43:41",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 13 Guidance (Archive)/guidance_instructions-for-fy13-pdr3086.pdf",
+"extension": ".pdf",
+"Size": "331769"
+},
+{
+"name": "pdr_report_format_for_fy13_v2.docx",
+"LastModified": "06/29/2016 11:43:42",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 13 Guidance (Archive)/pdr_report_format_for_fy13_v2.docx",
+"extension": ".docx",
+"Size": "71031"
+},
+{
+"name": "sample_eng_form_3086.pdf",
+"LastModified": "06/29/2016 11:43:42",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 13 Guidance (Archive)/sample_eng_form_3086.pdf",
+"extension": ".pdf",
+"Size": "15773"
+},
+{
+"name": "07052-1-appendix-a-points-of-contacts.pdf",
+"LastModified": "06/29/2016 11:51:13",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 14 Guidance (Archive)/07052-1-appendix-a-points-of-contacts.pdf",
+"extension": ".pdf",
+"Size": "18921"
+},
+{
+"name": "070522-appendix-b-acronyms-and-abbreviations.pdf",
+"LastModified": "06/29/2016 11:51:13",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 14 Guidance (Archive)/070522-appendix-b-acronyms-and-abbreviations.pdf",
+"extension": ".pdf",
+"Size": "10776"
+},
+{
+"name": "07052_appendix-j-eng3086-instructions-_code-3_-fy14.pdf",
+"LastModified": "06/29/2016 11:51:14",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 14 Guidance (Archive)/07052_appendix-j-eng3086-instructions-_code-3_-fy14.pdf",
+"extension": ".pdf",
+"Size": "67504"
+},
+{
+"name": "07052_instructions-for-parametric-design-_code-3_-fy14.pdf",
+"LastModified": "06/29/2016 11:51:10",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 14 Guidance (Archive)/07052_instructions-for-parametric-design-_code-3_-fy14.pdf",
+"extension": ".pdf",
+"Size": "235672"
+},
+{
+"name": "abbreviated_pdr_lite-template-for-fy14.pdf",
+"LastModified": "06/29/2016 11:51:11",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 14 Guidance (Archive)/abbreviated_pdr_lite-template-for-fy14.pdf",
+"extension": ".pdf",
+"Size": "48998"
+},
+{
+"name": "abbreviated_pdr_process.docx",
+"LastModified": "06/29/2016 11:51:11",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 14 Guidance (Archive)/abbreviated_pdr_process.docx",
+"extension": ".docx",
+"Size": "27476"
+},
+{
+"name": "code-1-and-code-3-process_fy13-lateadds-only-npr.pdf",
+"LastModified": "06/29/2016 11:51:12",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 14 Guidance (Archive)/code-1-and-code-3-process_fy13-lateadds-only-npr.pdf",
+"extension": ".pdf",
+"Size": "364245"
+},
+{
+"name": "pdr-report-format-for-fy14.doc",
+"LastModified": "06/29/2016 11:51:13",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 14 Guidance (Archive)/pdr-report-format-for-fy14.doc",
+"extension": ".doc",
+"Size": "151040"
+},
+{
+"name": "07052-1-appendix-a-points-of-contacts.pdf",
+"LastModified": "06/29/2016 11:57:10",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Guidance (Archive)/07052-1-appendix-a-points-of-contacts.pdf",
+"extension": ".pdf",
+"Size": "16673"
+},
+{
+"name": "07052-2-appendix-b-acronyms-and-abbreviations.pdf",
+"LastModified": "06/29/2016 11:57:10",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Guidance (Archive)/07052-2-appendix-b-acronyms-and-abbreviations.pdf",
+"extension": ".pdf",
+"Size": "11408"
+},
+{
+"name": "07052_appendix-j-eng3086-instructions-_code-3_-oct-2012.pdf",
+"LastModified": "06/29/2016 11:57:11",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Guidance (Archive)/07052_appendix-j-eng3086-instructions-_code-3_-oct-2012.pdf",
+"extension": ".pdf",
+"Size": "70444"
+},
+{
+"name": "abbreviated_pdr_process.pdf",
+"LastModified": "06/29/2016 11:57:11",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Guidance (Archive)/abbreviated_pdr_process.pdf",
+"extension": ".pdf",
+"Size": "49272"
+},
+{
+"name": "abbreviated_pdr_template-fy15.docx",
+"LastModified": "06/29/2016 11:57:12",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Guidance (Archive)/abbreviated_pdr_template-fy15.docx",
+"extension": ".docx",
+"Size": "37405"
+},
+{
+"name": "abbreviated_pdr_template-fy15.pdf",
+"LastModified": "06/29/2016 11:57:07",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Guidance (Archive)/abbreviated_pdr_template-fy15.pdf",
+"extension": ".pdf",
+"Size": "79873"
+},
+{
+"name": "ecb_2009_25.pdf",
+"LastModified": "06/29/2016 11:57:08",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Guidance (Archive)/ecb_2009_25.pdf",
+"extension": ".pdf",
+"Size": "46697"
+},
+{
+"name": "fy15-acquistion-strategy-template.doc",
+"LastModified": "06/29/2016 11:57:08",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Guidance (Archive)/fy15-acquistion-strategy-template.doc",
+"extension": ".doc",
+"Size": "44032"
+},
+{
+"name": "fy15-instructions-for-parametric-design-_code-3.pdf",
+"LastModified": "06/29/2016 11:57:09",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Guidance (Archive)/fy15-instructions-for-parametric-design-_code-3.pdf",
+"extension": ".pdf",
+"Size": "499587"
+},
+{
+"name": "pdr-report-format-for-fy15.docx",
+"LastModified": "06/29/2016 11:57:10",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Guidance (Archive)/pdr-report-format-for-fy15.docx",
+"extension": ".docx",
+"Size": "64900"
+},
+{
+"name": "pdr-report-format-for-fy15.pdf",
+"LastModified": "06/29/2016 11:57:10",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Guidance (Archive)/pdr-report-format-for-fy15.pdf",
+"extension": ".pdf",
+"Size": "47990"
+},
+{
+"name": "PDR",
+"LastModified": "09/25/2019 08:26:16",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Meeting Minutes (Archive)/PDR",
+"extension": "",
+"Size": ""
+},
+{
+"name": "fort-jackson-ait2-and-bct4-scope-discrepancy-issues-01-09-13.pdf",
+"LastModified": "06/29/2016 13:30:57",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Meeting Minutes (Archive)/fort-jackson-ait2-and-bct4-scope-discrepancy-issues-01-09-13.pdf",
+"extension": ".pdf",
+"Size": "83292"
+},
+{
+"name": "fort-jackson-pn53796-ait2-pn51937-bct4-scope-discrepancy-documents.pdf",
+"LastModified": "06/29/2016 13:31:13",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Meeting Minutes (Archive)/fort-jackson-pn53796-ait2-pn51937-bct4-scope-discrepancy-documents.pdf",
+"extension": ".pdf",
+"Size": "6075153"
+},
+{
+"name": "fy15-uas-code-3s-07-may-2013-telecons-rev-09may.docx",
+"LastModified": "06/29/2016 13:35:09",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Meeting Minutes (Archive)/PDR/fy15-uas-code-3s-07-may-2013-telecons-rev-09may.docx",
+"extension": ".docx",
+"Size": "838060"
+},
+{
+"name": "fy15-uas-code-3s-21-may-2013-telecon-final.docx",
+"LastModified": "06/29/2016 13:35:10",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Meeting Minutes (Archive)/PDR/fy15-uas-code-3s-21-may-2013-telecon-final.docx",
+"extension": ".docx",
+"Size": "31787"
+},
+{
+"name": "fy15-uas-code-3s-30-may-2013-telecon-draft.docx",
+"LastModified": "06/29/2016 13:35:10",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Meeting Minutes (Archive)/PDR/fy15-uas-code-3s-30-may-2013-telecon-draft.docx",
+"extension": ".docx",
+"Size": "31141"
+},
+{
+"name": "meeting-notes-pdr-conference-call-08-06-13.docx",
+"LastModified": "06/29/2016 13:35:03",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Meeting Minutes (Archive)/PDR/meeting-notes-pdr-conference-call-08-06-13.docx",
+"extension": ".docx",
+"Size": "35415"
+},
+{
+"name": "meeting-notes-pdr-conference-call-08-13-13.docx",
+"LastModified": "06/29/2016 13:35:04",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Meeting Minutes (Archive)/PDR/meeting-notes-pdr-conference-call-08-13-13.docx",
+"extension": ".docx",
+"Size": "38980"
+},
+{
+"name": "meeting-notes-pdr-conference-call-1-15-13.pdf",
+"LastModified": "06/29/2016 13:35:11",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Meeting Minutes (Archive)/PDR/meeting-notes-pdr-conference-call-1-15-13.pdf",
+"extension": ".pdf",
+"Size": "211727"
+},
+{
+"name": "meeting-notes-pdr-conference-call-1-8-13.pdf",
+"LastModified": "06/29/2016 13:35:11",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Meeting Minutes (Archive)/PDR/meeting-notes-pdr-conference-call-1-8-13.pdf",
+"extension": ".pdf",
+"Size": "200812"
+},
+{
+"name": "meeting-notes-pdr-conference-call-11-06-12.pdf",
+"LastModified": "06/29/2016 13:35:04",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Meeting Minutes (Archive)/PDR/meeting-notes-pdr-conference-call-11-06-12.pdf",
+"extension": ".pdf",
+"Size": "96943"
+},
+{
+"name": "meeting-notes-pdr-conference-call-11-13-12.pdf",
+"LastModified": "06/29/2016 13:35:04",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Meeting Minutes (Archive)/PDR/meeting-notes-pdr-conference-call-11-13-12.pdf",
+"extension": ".pdf",
+"Size": "108544"
+},
+{
+"name": "meeting-notes-pdr-conference-call-11-28-12.docx",
+"LastModified": "06/29/2016 13:35:05",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Meeting Minutes (Archive)/PDR/meeting-notes-pdr-conference-call-11-28-12.docx",
+"extension": ".docx",
+"Size": "48920"
+},
+{
+"name": "meeting-notes-pdr-conference-call-12-11-12.pdf",
+"LastModified": "06/29/2016 13:35:06",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Meeting Minutes (Archive)/PDR/meeting-notes-pdr-conference-call-12-11-12.pdf",
+"extension": ".pdf",
+"Size": "183431"
+},
+{
+"name": "meeting-notes-pdr-conference-call-12-18-12.pdf",
+"LastModified": "06/29/2016 13:35:07",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Meeting Minutes (Archive)/PDR/meeting-notes-pdr-conference-call-12-18-12.pdf",
+"extension": ".pdf",
+"Size": "192763"
+},
+{
+"name": "meeting-notes-pdr-conference-call-2-5-13.docx",
+"LastModified": "06/29/2016 13:35:03",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Meeting Minutes (Archive)/PDR/meeting-notes-pdr-conference-call-2-5-13.docx",
+"extension": ".docx",
+"Size": "86260"
+},
+{
+"name": "stakeholders-list.pdf",
+"LastModified": "06/29/2016 13:35:07",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Meeting Minutes (Archive)/PDR/stakeholders-list.pdf",
+"extension": ".pdf",
+"Size": "35845"
+},
+{
+"name": "07052-1-appendix-a-points-of-contacts.doc",
+"LastModified": "06/29/2016 13:48:41",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 16 Guidance (Archive)/07052-1-appendix-a-points-of-contacts.doc",
+"extension": ".doc",
+"Size": "68096"
+},
+{
+"name": "07052-2-appendix-b-acronyms-and-abbreviations.doc",
+"LastModified": "06/29/2016 13:48:41",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 16 Guidance (Archive)/07052-2-appendix-b-acronyms-and-abbreviations.doc",
+"extension": ".doc",
+"Size": "50176"
+},
+{
+"name": "070523appendix_c-planning_and_design_data-tab_b-templates.pdf",
+"LastModified": "06/29/2016 13:48:42",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 16 Guidance (Archive)/070523appendix_c-planning_and_design_data-tab_b-templates.pdf",
+"extension": ".pdf",
+"Size": "222080"
+},
+{
+"name": "07052_appendix-j-eng3086-instructions-code-3-fy16.docx",
+"LastModified": "06/29/2016 13:48:38",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 16 Guidance (Archive)/07052_appendix-j-eng3086-instructions-code-3-fy16.docx",
+"extension": ".docx",
+"Size": "78089"
+},
+{
+"name": "abbreviated_pdr_process.docx",
+"LastModified": "06/29/2016 13:48:39",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 16 Guidance (Archive)/abbreviated_pdr_process.docx",
+"extension": ".docx",
+"Size": "28865"
+},
+{
+"name": "abbreviated_pdr_template-fy16.docx",
+"LastModified": "06/29/2016 13:48:39",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 16 Guidance (Archive)/abbreviated_pdr_template-fy16.docx",
+"extension": ".docx",
+"Size": "38267"
+},
+{
+"name": "fy16-acquistion-strategy-template.doc",
+"LastModified": "06/29/2016 13:48:39",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 16 Guidance (Archive)/fy16-acquistion-strategy-template.doc",
+"extension": ".doc",
+"Size": "44032"
+},
+{
+"name": "fy16-instructions-for-parametric-design-code-3.docx",
+"LastModified": "06/29/2016 13:48:40",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 16 Guidance (Archive)/fy16-instructions-for-parametric-design-code-3.docx",
+"extension": ".docx",
+"Size": "183823"
+},
+{
+"name": "pdr-report-format-for-fy16.docx",
+"LastModified": "06/29/2016 13:48:40",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 16 Guidance (Archive)/pdr-report-format-for-fy16.docx",
+"extension": ".docx",
+"Size": "66157"
+},
+{
+"name": "fy17-eng3086-instructions.docx",
+"LastModified": "06/29/2016 13:55:41",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 17 Guidance (Archive)/fy17-eng3086-instructions.docx",
+"extension": ".docx",
+"Size": "78017"
+},
+{
+"name": "fy17-instructions-for-parametric-design-_code-3_.pdf",
+"LastModified": "06/29/2016 13:55:40",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 17 Guidance (Archive)/fy17-instructions-for-parametric-design-_code-3_.pdf",
+"extension": ".pdf",
+"Size": "499822"
+},
+{
+"name": "pdr-report-format-for-fy17.docx",
+"LastModified": "06/29/2016 13:55:41",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 17 Guidance (Archive)/pdr-report-format-for-fy17.docx",
+"extension": ".docx",
+"Size": "63664"
+},
+{
+"name": "nwd-pdr-meeting-23-june-2015.docx",
+"LastModified": "06/29/2016 13:59:10",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 17 Meeting Minutes (Archive)/nwd-pdr-meeting-23-june-2015.docx",
+"extension": ".docx",
+"Size": "29941"
+},
+{
+"name": "07052-1-appendix-a-points-of-contacts.pdf",
+"LastModified": "06/29/2016 11:34:17",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY18 Guidance/07052-1-appendix-a-points-of-contacts.pdf",
+"extension": ".pdf",
+"Size": "23761"
+},
+{
+"name": "07052-2-appendix-b-acronyms-and-abbreviations.pdf",
+"LastModified": "06/29/2016 11:34:14",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY18 Guidance/07052-2-appendix-b-acronyms-and-abbreviations.pdf",
+"extension": ".pdf",
+"Size": "21073"
+},
+{
+"name": "2013-07-11_energyplussustainability_record_card-final.xlsx",
+"LastModified": "06/29/2016 14:08:28",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY18 Guidance/2013-07-11_energyplussustainability_record_card-final.xlsx",
+"extension": ".xlsx",
+"Size": "203128"
+},
+{
+"name": "abbreviated_pdr_template-fy18.docx",
+"LastModified": "06/29/2016 14:08:28",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY18 Guidance/abbreviated_pdr_template-fy18.docx",
+"extension": ".docx",
+"Size": "39439"
+},
+{
+"name": "appendix-h-abbreviated_pdr_process-fy18.pdf",
+"LastModified": "06/29/2016 11:34:15",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY18 Guidance/appendix-h-abbreviated_pdr_process-fy18.pdf",
+"extension": ".pdf",
+"Size": "64902"
+},
+{
+"name": "fy13_code-3_directive_sample.pdf",
+"LastModified": "06/29/2016 14:08:28",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY18 Guidance/fy13_code-3_directive_sample.pdf",
+"extension": ".pdf",
+"Size": "49395"
+},
+{
+"name": "fy18-acquistion-strategy-template.doc",
+"LastModified": "06/29/2016 14:08:26",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY18 Guidance/fy18-acquistion-strategy-template.doc",
+"extension": ".doc",
+"Size": "44544"
+},
+{
+"name": "fy18-eng3086-instructions_final.docx",
+"LastModified": "06/29/2016 11:34:16",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY18 Guidance/fy18-eng3086-instructions_final.docx",
+"extension": ".docx",
+"Size": "77654"
+},
+{
+"name": "fy18-instructions-for-parametric-design-code-3-_final.pdf",
+"LastModified": "06/29/2016 11:34:16",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY18 Guidance/fy18-instructions-for-parametric-design-code-3-_final.pdf",
+"extension": ".pdf",
+"Size": "218928"
+},
+{
+"name": "pdr-report-format-for-fy18.docx",
+"LastModified": "06/29/2016 14:08:27",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY18 Guidance/pdr-report-format-for-fy18.docx",
+"extension": ".docx",
+"Size": "59850"
+},
+{
+"name": "sample_eng_form_3086.pdf",
+"LastModified": "06/29/2016 14:08:27",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY18 Guidance/sample_eng_form_3086.pdf",
+"extension": ".pdf",
+"Size": "15773"
+},
+{
+"name": "07052-1-appendix-a-points-of-contacts.pdf",
+"LastModified": "01/30/2017 11:36:28",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY19 Guidance/07052-1-appendix-a-points-of-contacts.pdf",
+"extension": ".pdf",
+"Size": "23749"
+},
+{
+"name": "07052-2-appendix-b-acronyms-and-abbreviations.pdf",
+"LastModified": "01/30/2017 11:36:34",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY19 Guidance/07052-2-appendix-b-acronyms-and-abbreviations.pdf",
+"extension": ".pdf",
+"Size": "21039"
+},
+{
+"name": "abbreviated_pdr_template-fy19.docx",
+"LastModified": "05/12/2017 07:34:19",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY19 Guidance/abbreviated_pdr_template-fy19.docx",
+"extension": ".docx",
+"Size": "37382"
+},
+{
+"name": "appendix-c-fy19-acquistion-strategy-template.doc",
+"LastModified": "01/30/2017 11:36:39",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY19 Guidance/appendix-c-fy19-acquistion-strategy-template.doc",
+"extension": ".doc",
+"Size": "47616"
+},
+{
+"name": "appendix-d-sample-3086_fy19.pdf",
+"LastModified": "01/30/2017 11:50:49",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY19 Guidance/appendix-d-sample-3086_fy19.pdf",
+"extension": ".pdf",
+"Size": "15773"
+},
+{
+"name": "appendix-e-pdr-report-format-for-fy19.docx",
+"LastModified": "01/30/2017 11:36:45",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY19 Guidance/appendix-e-pdr-report-format-for-fy19.docx",
+"extension": ".docx",
+"Size": "69708"
+},
+{
+"name": "appendix-f-example-design-directive_code-3_fy19.pdf",
+"LastModified": "01/30/2017 11:50:55",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY19 Guidance/appendix-f-example-design-directive_code-3_fy19.pdf",
+"extension": ".pdf",
+"Size": "49395"
+},
+{
+"name": "appendix-g-abbreviated_pdr_process-fy19.pdf",
+"LastModified": "01/30/2017 11:36:48",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY19 Guidance/appendix-g-abbreviated_pdr_process-fy19.pdf",
+"extension": ".pdf",
+"Size": "65092"
+},
+{
+"name": "appendix-h-fy19-eng3086-instructions_final.pdf",
+"LastModified": "01/30/2017 11:36:52",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY19 Guidance/appendix-h-fy19-eng3086-instructions_final.pdf",
+"extension": ".pdf",
+"Size": "59409"
+},
+{
+"name": "appendix-i_es-record-card.pdf",
+"LastModified": "01/30/2017 11:50:27",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY19 Guidance/appendix-i_es-record-card.pdf",
+"extension": ".pdf",
+"Size": "747848"
+},
+{
+"name": "fy19-instructions-for-parametric-design-code-3.pdf",
+"LastModified": "01/30/2017 11:35:32",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY19 Guidance/fy19-instructions-for-parametric-design-code-3.pdf",
+"extension": ".pdf",
+"Size": "293355"
+},
+{
+"name": "appendix-c-fy19-acquistion-strategy-template-for-use-on-fy20-projects.doc",
+"LastModified": "01/16/2018 12:56:20",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY20 Guidance and Templates/appendix-c-fy19-acquistion-strategy-template-for-use-on-fy20-projects.doc",
+"extension": ".doc",
+"Size": "47616"
+},
+{
+"name": "appendix-d-sample-3086_fy19-for-use-on-fy20-projects.pdf",
+"LastModified": "01/16/2018 12:56:24",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY20 Guidance and Templates/appendix-d-sample-3086_fy19-for-use-on-fy20-projects.pdf",
+"extension": ".pdf",
+"Size": "15773"
+},
+{
+"name": "appendix-e-fy20-pdr-template-v3.docx",
+"LastModified": "03/05/2018 13:23:11",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY20 Guidance and Templates/appendix-e-fy20-pdr-template-v3.docx",
+"extension": ".docx",
+"Size": "96989"
+},
+{
+"name": "appendix-h-eng-3086-instructions_fy19-for-use-on-fy20-projects.docx",
+"LastModified": "01/16/2018 12:56:28",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY20 Guidance and Templates/appendix-h-eng-3086-instructions_fy19-for-use-on-fy20-projects.docx",
+"extension": ".docx",
+"Size": "77654"
+},
+{
+"name": "fy19-guidance-for-use-on-fy20-projects.pdf",
+"LastModified": "12/14/2017 14:39:14",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY20 Guidance and Templates/fy19-guidance-for-use-on-fy20-projects.pdf",
+"extension": ".pdf",
+"Size": "293355"
+},
+{
+"name": "fy20-pdr-lite-template.docx",
+"LastModified": "03/08/2018 08:07:18",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY20 Guidance and Templates/fy20-pdr-lite-template.docx",
+"extension": ".docx",
+"Size": "92523"
+},
+{
+"name": "appendix-c_acquistion-strategy-template.doc",
+"LastModified": "01/29/2019 07:31:43",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY21 Guidance and Templates/appendix-c_acquistion-strategy-template.doc",
+"extension": ".doc",
+"Size": "47616"
+},
+{
+"name": "fy21-eng-3086-instructions.pdf",
+"LastModified": "01/29/2019 07:30:24",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY21 Guidance and Templates/fy21-eng-3086-instructions.pdf",
+"extension": ".pdf",
+"Size": "106925"
+},
+{
+"name": "fy21-pdr-lite-template.docx",
+"LastModified": "01/29/2019 13:50:22",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY21 Guidance and Templates/fy21-pdr-lite-template.docx",
+"extension": ".docx",
+"Size": "94025"
+},
+{
+"name": "fy21-pdr-template.docx",
+"LastModified": "04/17/2018 10:15:04",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY21 Guidance and Templates/fy21-pdr-template.docx",
+"extension": ".docx",
+"Size": "96989"
+},
+{
+"name": "fy21-timeline.pdf",
+"LastModified": "04/17/2018 10:15:45",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY21 Guidance and Templates/fy21-timeline.pdf",
+"extension": ".pdf",
+"Size": "411986"
+},
+{
+"name": "07052-1-appendix-a-points-of-contacts.pdf",
+"LastModified": "06/05/2019 13:18:06",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY22 Guidance and Templates/07052-1-appendix-a-points-of-contacts.pdf",
+"extension": ".pdf",
+"Size": "125233"
+},
+{
+"name": "07052-2-appendix-b-acronyms-and-abbreviations.pdf",
+"LastModified": "06/05/2019 13:16:30",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY22 Guidance and Templates/07052-2-appendix-b-acronyms-and-abbreviations.pdf",
+"extension": ".pdf",
+"Size": "127259"
+},
+{
+"name": "07052-3-appendix-c-acquisition-strategy-template.doc",
+"LastModified": "06/05/2019 13:13:23",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY22 Guidance and Templates/07052-3-appendix-c-acquisition-strategy-template.doc",
+"extension": ".doc",
+"Size": "47616"
+},
+{
+"name": "ar-420_1-code-2-35-design.pdf",
+"LastModified": "06/05/2019 13:13:27",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY22 Guidance and Templates/ar-420_1-code-2-35-design.pdf",
+"extension": ".pdf",
+"Size": "16054"
+},
+{
+"name": "army-milcon-instructions-for-code2-june-2019.pdf",
+"LastModified": "06/05/2019 13:13:32",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY22 Guidance and Templates/army-milcon-instructions-for-code2-june-2019.pdf",
+"extension": ".pdf",
+"Size": "261357"
+},
+{
+"name": "Code 2_District Certification Memo.pdf",
+"LastModified": "10/10/2019 08:39:35",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY22 Guidance and Templates/Code 2_District Certification Memo.pdf",
+"extension": ".pdf",
+"Size": "1384897"
+},
+{
+"name": "eng-3086-instructions_-5-june-2019.pdf",
+"LastModified": "06/05/2019 13:16:44",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY22 Guidance and Templates/eng-3086-instructions_-5-june-2019.pdf",
+"extension": ".pdf",
+"Size": "275879"
+},
+{
+"name": "fy22-pdr-lite-template.docx",
+"LastModified": "06/05/2019 13:16:48",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY22 Guidance and Templates/fy22-pdr-lite-template.docx",
+"extension": ".docx",
+"Size": "92039"
+},
+{
+"name": "fy22-pdr-template.docx",
+"LastModified": "06/05/2019 13:16:53",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY22 Guidance and Templates/fy22-pdr-template.docx",
+"extension": ".docx",
+"Size": "100342"
+},
+{
+"name": "fy22-timeline.pdf",
+"LastModified": "06/05/2019 12:37:18",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY22 Guidance and Templates/fy22-timeline.pdf",
+"extension": ".pdf",
+"Size": "108738"
+},
+{
+"name": "Appdx H Attachment_CSRA template FY17 rev4b.xlsm",
+"LastModified": "09/30/2020 15:28:41",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY23 Guidance and Templates/Appdx H Attachment_CSRA template FY17 rev4b.xlsm",
+"extension": ".xlsm",
+"Size": "388878"
+},
+{
+"name": "Appedx H Attachment_AE SOW - CSRA.doc",
+"LastModified": "09/30/2020 15:28:44",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY23 Guidance and Templates/Appedx H Attachment_AE SOW - CSRA.doc",
+"extension": ".doc",
+"Size": "76288"
+},
+{
+"name": "Appendix C Acquisition Strategy Template.pdf",
+"LastModified": "10/29/2020 14:41:26",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY23 Guidance and Templates/Appendix C Acquisition Strategy Template.pdf",
+"extension": ".pdf",
+"Size": "135182"
+},
+{
+"name": "Appendix H_CSRA_Portfolio.pdf",
+"LastModified": "09/14/2020 15:56:49",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY23 Guidance and Templates/Appendix H_CSRA_Portfolio.pdf",
+"extension": ".pdf",
+"Size": "1544541"
+},
+{
+"name": "Code 2 Guidance_Templates_Appendices Portfolio.pdf",
+"LastModified": "09/14/2020 15:56:53",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY23 Guidance and Templates/Code 2 Guidance_Templates_Appendices Portfolio.pdf",
+"extension": ".pdf",
+"Size": "3089558"
+},
+{
+"name": "1_Instructions for FY25 Army MILCON Code 2.pdf",
+"LastModified": "08/19/2022 15:38:00",
+"Key": "content/PDRS/FY25 Guidance & Templates/1_Instructions for FY25 Army MILCON Code 2.pdf",
+"extension": ".pdf",
+"Size": "3181845"
+},
+{
+"name": "Appendix F_FY25 ENG 3086 Instructions.pdf",
+"LastModified": "08/19/2022 15:38:00",
+"Key": "content/PDRS/FY25 Guidance & Templates/Appendix F_FY25 ENG 3086 Instructions.pdf",
+"extension": ".pdf",
+"Size": "452619"
+},
+{
+"name": "Appendix_E_FY25_Acquisition_Strategy_Template.docx",
+"LastModified": "10/21/2022 14:44:10",
+"Key": "content/PDRS/FY25 Guidance & Templates/Appendix_E_FY25_Acquisition_Strategy_Template.docx",
+"extension": ".docx",
+"Size": "27279"
+},
+{
+"name": "FY25 PDR Desktop Reference.pdf",
+"LastModified": "07/25/2022 09:42:18",
+"Key": "content/PDRS/FY25 Guidance & Templates/FY25 PDR Desktop Reference.pdf",
+"extension": ".pdf",
+"Size": "373742"
+},
+{
+"name": "Late Add FY25 Timeline.pdf",
+"LastModified": "01/09/2023 10:44:50",
+"Key": "content/PDRS/FY25 Guidance & Templates/Late Add FY25 Timeline.pdf",
+"extension": ".pdf",
+"Size": "344629"
+},
+{
+"name": "Supplemental Instructions for Late Add FY25s.pdf",
+"LastModified": "01/09/2023 10:44:50",
+"Key": "content/PDRS/FY25 Guidance & Templates/Supplemental Instructions for Late Add FY25s.pdf",
+"extension": ".pdf",
+"Size": "345492"
 },
 {
 "name": "Appendix F_FY26 Acquisition Strategy Template.docx",
@@ -14991,1392 +16391,6 @@
 "Key": "content/PDRS/FY26 Guidance & Templates/Instructions for FY26 Army MILCON Code 2.pdf",
 "extension": ".pdf",
 "Size": "1873103"
-},
-{
-"name": "pdrswizard_pm.pptx",
-"LastModified": "06/29/2016 14:13:38",
-"Key": "content/PDRS/Help/pdrswizard_pm.pptx",
-"extension": ".pptx",
-"Size": "1845208"
-},
-{
-"name": "pdrs_pm_flowchart.pdf",
-"LastModified": "06/29/2016 14:13:38",
-"Key": "content/PDRS/Help/pdrs_pm_flowchart.pdf",
-"extension": ".pdf",
-"Size": "23280"
-},
-{
-"name": "pdrs_reviewer_flowchart.pdf",
-"LastModified": "06/29/2016 14:13:32",
-"Key": "content/PDRS/Help/pdrs_reviewer_flowchart.pdf",
-"extension": ".pdf",
-"Size": "23413"
-},
-{
-"name": "pdrs_training_intro.pptx",
-"LastModified": "06/29/2016 14:13:32",
-"Key": "content/PDRS/Help/pdrs_training_intro.pptx",
-"extension": ".pptx",
-"Size": "155004"
-},
-{
-"name": "Archive",
-"LastModified": "02/24/2021 15:18:51",
-"Key": "content/PDRS/Meeting Minutes/Archive",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY23 Meeting Minutes",
-"LastModified": "06/11/2021 09:31:09",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY 18 Meeting Minutes",
-"LastModified": "09/25/2019 08:26:13",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY 18 Meeting Minutes",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY 19  & FY 18 UFR Meeting Minutes",
-"LastModified": "09/25/2019 08:26:13",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY 19  & FY 18 UFR Meeting Minutes",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY20 Meeting Minutes",
-"LastModified": "09/25/2019 08:26:14",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY20 Meeting Minutes",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY21 Meeting Minutes",
-"LastModified": "09/25/2019 08:26:14",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY21 Meeting Minutes",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY22 Meeting Minutes",
-"LastModified": "05/04/2020 12:12:13",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY22 Meeting Minutes",
-"extension": "",
-"Size": ""
-},
-{
-"name": "final-nad_lrd_spd_nwd-pdr-telecons-5_31_-2016.docx",
-"LastModified": "06/29/2016 14:02:42",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY 18 Meeting Minutes/final-nad_lrd_spd_nwd-pdr-telecons-5_31_-2016.docx",
-"extension": ".docx",
-"Size": "70350"
-},
-{
-"name": "final-nad_lrd_spd_nwd_pod-pdr-telecons-6_14_-2016.docx",
-"LastModified": "06/29/2016 14:02:42",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY 18 Meeting Minutes/final-nad_lrd_spd_nwd_pod-pdr-telecons-6_14_-2016.docx",
-"extension": ".docx",
-"Size": "81456"
-},
-{
-"name": "final-nad_lrd_spd_nwd_pod-pdr-telecons-6_21_-2016-002.docx",
-"LastModified": "06/29/2016 14:02:40",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY 18 Meeting Minutes/final-nad_lrd_spd_nwd_pod-pdr-telecons-6_21_-2016-002.docx",
-"extension": ".docx",
-"Size": "83283"
-},
-{
-"name": "final-sad-pdr-telecons-5_31_2016.docx",
-"LastModified": "06/29/2016 14:02:41",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY 18 Meeting Minutes/final-sad-pdr-telecons-5_31_2016.docx",
-"extension": ".docx",
-"Size": "46043"
-},
-{
-"name": "final-sad-pdr-telecons-6_14_2016.docx",
-"LastModified": "06/29/2016 14:02:41",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY 18 Meeting Minutes/final-sad-pdr-telecons-6_14_2016.docx",
-"extension": ".docx",
-"Size": "48752"
-},
-{
-"name": "final-sad-pdr-telecons-6_21_2016.docx",
-"LastModified": "06/29/2016 14:02:42",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY 18 Meeting Minutes/final-sad-pdr-telecons-6_21_2016.docx",
-"extension": ".docx",
-"Size": "49905"
-},
-{
-"name": "completed-lrd-pdr-telecons-6_27_2017.pdf",
-"LastModified": "07/14/2017 12:44:43",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY 19  & FY 18 UFR Meeting Minutes/completed-lrd-pdr-telecons-6_27_2017.pdf",
-"extension": ".pdf",
-"Size": "173174"
-},
-{
-"name": "completed-nwd-pdr-telecons-5_9_2017.pdf",
-"LastModified": "05/12/2017 19:37:15",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY 19  & FY 18 UFR Meeting Minutes/completed-nwd-pdr-telecons-5_9_2017.pdf",
-"extension": ".pdf",
-"Size": "146654"
-},
-{
-"name": "completed-spd-pdr-telecons-4_25_2017.pdf",
-"LastModified": "05/12/2017 19:36:39",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY 19  & FY 18 UFR Meeting Minutes/completed-spd-pdr-telecons-4_25_2017.pdf",
-"extension": ".pdf",
-"Size": "138372"
-},
-{
-"name": "completed-tad-pdr-telecons-5_23_2017.pdf",
-"LastModified": "07/14/2017 12:45:48",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY 19  & FY 18 UFR Meeting Minutes/completed-tad-pdr-telecons-5_23_2017.pdf",
-"extension": ".pdf",
-"Size": "142780"
-},
-{
-"name": "nad-pdr-telecons7_11_2017.pdf",
-"LastModified": "07/14/2017 12:44:16",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY 19  & FY 18 UFR Meeting Minutes/nad-pdr-telecons7_11_2017.pdf",
-"extension": ".pdf",
-"Size": "229197"
-},
-{
-"name": "pod-pdr-telecons-7_11_2017.pdf",
-"LastModified": "07/14/2017 12:46:33",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY 19  & FY 18 UFR Meeting Minutes/pod-pdr-telecons-7_11_2017.pdf",
-"extension": ".pdf",
-"Size": "116780"
-},
-{
-"name": "sad-pdr-telecons-7_11_2017.pdf",
-"LastModified": "07/14/2017 12:44:57",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY 19  & FY 18 UFR Meeting Minutes/sad-pdr-telecons-7_11_2017.pdf",
-"extension": ".pdf",
-"Size": "211024"
-},
-{
-"name": "swd-pdr-telecons-6_27_2017.pdf",
-"LastModified": "07/14/2017 12:46:02",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY 19  & FY 18 UFR Meeting Minutes/swd-pdr-telecons-6_27_2017.pdf",
-"extension": ".pdf",
-"Size": "159135"
-},
-{
-"name": "final_lrd-pdr-telecons-3_27_2018.docx",
-"LastModified": "06/19/2018 11:27:25",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY20 Meeting Minutes/final_lrd-pdr-telecons-3_27_2018.docx",
-"extension": ".docx",
-"Size": "34899"
-},
-{
-"name": "final_nad-pdr-telecons-05_29_2018.docx",
-"LastModified": "06/19/2018 11:30:29",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY20 Meeting Minutes/final_nad-pdr-telecons-05_29_2018.docx",
-"extension": ".docx",
-"Size": "74390"
-},
-{
-"name": "final_nau-pdr-telecons-05_17_2018.docx",
-"LastModified": "06/19/2018 11:38:09",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY20 Meeting Minutes/final_nau-pdr-telecons-05_17_2018.docx",
-"extension": ".docx",
-"Size": "46469"
-},
-{
-"name": "final_nwd-pdr-telecons-04_17_2018.docx",
-"LastModified": "06/19/2018 11:27:06",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY20 Meeting Minutes/final_nwd-pdr-telecons-04_17_2018.docx",
-"extension": ".docx",
-"Size": "34302"
-},
-{
-"name": "final_poh-pdr-telecons-6_13_2018.docx",
-"LastModified": "06/19/2018 11:42:17",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY20 Meeting Minutes/final_poh-pdr-telecons-6_13_2018.docx",
-"extension": ".docx",
-"Size": "32286"
-},
-{
-"name": "final_poj-pdr-telecons-04_25_2018.docx",
-"LastModified": "06/19/2018 11:42:01",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY20 Meeting Minutes/final_poj-pdr-telecons-04_25_2018.docx",
-"extension": ".docx",
-"Size": "30475"
-},
-{
-"name": "final_sad-pdr-telecons-05_29_2018.docx",
-"LastModified": "06/19/2018 11:31:13",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY20 Meeting Minutes/final_sad-pdr-telecons-05_29_2018.docx",
-"extension": ".docx",
-"Size": "58087"
-},
-{
-"name": "final_swd-pdr-telecons-04_17_2018.docx",
-"LastModified": "06/19/2018 11:28:17",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY20 Meeting Minutes/final_swd-pdr-telecons-04_17_2018.docx",
-"extension": ".docx",
-"Size": "36978"
-},
-{
-"name": "final_tad-pdr-telecons-4_24_2018.docx",
-"LastModified": "06/19/2018 11:32:55",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY20 Meeting Minutes/final_tad-pdr-telecons-4_24_2018.docx",
-"extension": ".docx",
-"Size": "34592"
-},
-{
-"name": "final_nad-1st-round-pdr-telecons-01_17_2019.pdf",
-"LastModified": "05/20/2019 15:11:24",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY21 Meeting Minutes/final_nad-1st-round-pdr-telecons-01_17_2019.pdf",
-"extension": ".pdf",
-"Size": "232561"
-},
-{
-"name": "final_nad-2nd-round-pdr-telecons-2_05_2019.docx",
-"LastModified": "03/08/2019 09:13:44",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY21 Meeting Minutes/final_nad-2nd-round-pdr-telecons-2_05_2019.docx",
-"extension": ".docx",
-"Size": "31937"
-},
-{
-"name": "final_poj-pdr-telecons-08_15_2018.pdf",
-"LastModified": "12/11/2018 08:11:00",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY21 Meeting Minutes/final_poj-pdr-telecons-08_15_2018.pdf",
-"extension": ".pdf",
-"Size": "132398"
-},
-{
-"name": "final_sad-round-2-pdr-telecons-04_02_2019.pdf",
-"LastModified": "05/20/2019 14:46:56",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY21 Meeting Minutes/final_sad-round-2-pdr-telecons-04_02_2019.pdf",
-"extension": ".pdf",
-"Size": "170521"
-},
-{
-"name": "final_spd-pdr-telecons-10_2_2018.pdf",
-"LastModified": "01/29/2019 09:35:14",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY21 Meeting Minutes/final_spd-pdr-telecons-10_2_2018.pdf",
-"extension": ".pdf",
-"Size": "141703"
-},
-{
-"name": "final_swd-pdr-telecons-10_30_2018.pdf",
-"LastModified": "12/11/2018 08:28:33",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY21 Meeting Minutes/final_swd-pdr-telecons-10_30_2018.pdf",
-"extension": ".pdf",
-"Size": "201634"
-},
-{
-"name": "nau-round-2-pdr-telecons-5_16_2019.pdf",
-"LastModified": "05/20/2019 15:14:36",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY21 Meeting Minutes/nau-round-2-pdr-telecons-5_16_2019.pdf",
-"extension": ".pdf",
-"Size": "231170"
-},
-{
-"name": "nwd-round-2-pdr-telecons-5_14_2019.pdf",
-"LastModified": "05/20/2019 15:18:54",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY21 Meeting Minutes/nwd-round-2-pdr-telecons-5_14_2019.pdf",
-"extension": ".pdf",
-"Size": "176549"
-},
-{
-"name": "poh-round-2-pdr-telecons-5_14_19.pdf",
-"LastModified": "05/20/2019 15:15:29",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY21 Meeting Minutes/poh-round-2-pdr-telecons-5_14_19.pdf",
-"extension": ".pdf",
-"Size": "189347"
-},
-{
-"name": "NAD PDR Telecons 4_21_2020.pdf",
-"LastModified": "05/04/2020 08:46:37",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY22 Meeting Minutes/NAD PDR Telecons 4_21_2020.pdf",
-"extension": ".pdf",
-"Size": "315697"
-},
-{
-"name": "NWD PDR Telecons 4_21_20.pdf",
-"LastModified": "05/04/2020 08:46:39",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY22 Meeting Minutes/NWD PDR Telecons 4_21_20.pdf",
-"extension": ".pdf",
-"Size": "194872"
-},
-{
-"name": "POD PDR Telecons 4_22_20 v.pdf",
-"LastModified": "05/04/2020 08:46:41",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY22 Meeting Minutes/POD PDR Telecons 4_22_20 v.pdf",
-"extension": ".pdf",
-"Size": "249526"
-},
-{
-"name": "SAD_SAM PDR Telecons 4_21_2020.pdf",
-"LastModified": "05/04/2020 08:46:44",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY22 Meeting Minutes/SAD_SAM PDR Telecons 4_21_2020.pdf",
-"extension": ".pdf",
-"Size": "217169"
-},
-{
-"name": "SPD PDR Telecons 4_21_20.pdf",
-"LastModified": "05/04/2020 08:46:46",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY22 Meeting Minutes/SPD PDR Telecons 4_21_20.pdf",
-"extension": ".pdf",
-"Size": "179857"
-},
-{
-"name": "SWD PDR Telecons 4_21_2020.pdf",
-"LastModified": "05/04/2020 08:46:49",
-"Key": "content/PDRS/Meeting Minutes/Archive/FY22 Meeting Minutes/SWD PDR Telecons 4_21_2020.pdf",
-"extension": ".pdf",
-"Size": "182411"
-},
-{
-"name": "NAD_PDR_Telecons_06_08_21.pdf",
-"LastModified": "06/11/2021 09:30:34",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/NAD_PDR_Telecons_06_08_21.pdf",
-"extension": ".pdf",
-"Size": "477043"
-},
-{
-"name": "NWD_PDR_Telecons_06_08_21.pdf",
-"LastModified": "06/11/2021 09:30:30",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/NWD_PDR_Telecons_06_08_21.pdf",
-"extension": ".pdf",
-"Size": "265830"
-},
-{
-"name": "POD_PDR_Telecons_06_02_21.pdf",
-"LastModified": "06/11/2021 09:30:25",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/POD_PDR_Telecons_06_02_21.pdf",
-"extension": ".pdf",
-"Size": "295141"
-},
-{
-"name": "SAD_PDR_Telecons_06_08_21.pdf",
-"LastModified": "06/11/2021 09:30:21",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SAD_PDR_Telecons_06_08_21.pdf",
-"extension": ".pdf",
-"Size": "413525"
-},
-{
-"name": "SPD_PDR_Telecons_06_08_21.pdf",
-"LastModified": "06/11/2021 09:29:40",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SPD_PDR_Telecons_06_08_21.pdf",
-"extension": ".pdf",
-"Size": "270499"
-},
-{
-"name": "SWD_PDR_Telecons_06_08_21.pdf",
-"LastModified": "06/11/2021 09:29:35",
-"Key": "content/PDRS/Meeting Minutes/FY23 Meeting Minutes/SWD_PDR_Telecons_06_08_21.pdf",
-"extension": ".pdf",
-"Size": "311086"
-},
-{
-"name": "ARCHIVES",
-"LastModified": "09/17/2021 09:16:45",
-"Key": "content/PDRS/Policy/ARCHIVES",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY24 Guidance and Templates",
-"LastModified": "08/12/2022 09:42:25",
-"Key": "content/PDRS/Policy/FY24 Guidance and Templates",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY25 Guidance and Templates",
-"LastModified": "01/09/2023 11:07:10",
-"Key": "content/PDRS/Policy/FY25 Guidance and Templates",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY 13 Guidance (Archive)",
-"LastModified": "09/25/2019 08:26:14",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 13 Guidance (Archive)",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY 14 Guidance (Archive)",
-"LastModified": "09/25/2019 08:26:15",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 14 Guidance (Archive)",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY 15 Guidance (Archive)",
-"LastModified": "09/25/2019 08:26:15",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Guidance (Archive)",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY 15 Meeting Minutes (Archive)",
-"LastModified": "09/25/2019 08:26:15",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Meeting Minutes (Archive)",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY 16 Guidance (Archive)",
-"LastModified": "09/25/2019 08:26:16",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 16 Guidance (Archive)",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY 17 Guidance (Archive)",
-"LastModified": "09/25/2019 08:26:16",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 17 Guidance (Archive)",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY 17 Meeting Minutes (Archive)",
-"LastModified": "09/25/2019 08:26:16",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 17 Meeting Minutes (Archive)",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY 18 Guidance (Archive)",
-"LastModified": "09/24/2019 10:28:34",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 18 Guidance (Archive)",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY18 Guidance",
-"LastModified": "09/25/2019 08:26:16",
-"Key": "content/PDRS/Policy/ARCHIVES/FY18 Guidance",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY19 Guidance",
-"LastModified": "09/25/2019 08:26:16",
-"Key": "content/PDRS/Policy/ARCHIVES/FY19 Guidance",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY20 Guidance and Templates",
-"LastModified": "09/25/2019 08:26:17",
-"Key": "content/PDRS/Policy/ARCHIVES/FY20 Guidance and Templates",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY21 Guidance and Templates",
-"LastModified": "09/25/2019 08:26:17",
-"Key": "content/PDRS/Policy/ARCHIVES/FY21 Guidance and Templates",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY22 Guidance and Templates",
-"LastModified": "07/12/2021 15:37:01",
-"Key": "content/PDRS/Policy/ARCHIVES/FY22 Guidance and Templates",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY23 Guidance and Templates",
-"LastModified": "10/29/2020 15:19:32",
-"Key": "content/PDRS/Policy/ARCHIVES/FY23 Guidance and Templates",
-"extension": "",
-"Size": ""
-},
-{
-"name": "070521appendix_a-acronyms_and_abbreviations.pdf",
-"LastModified": "06/29/2016 11:43:43",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 13 Guidance (Archive)/070521appendix_a-acronyms_and_abbreviations.pdf",
-"extension": ".pdf",
-"Size": "68571"
-},
-{
-"name": "070523appendix_c-planning_and_design_data-tab_b-templates.pdf",
-"LastModified": "06/29/2016 11:43:44",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 13 Guidance (Archive)/070523appendix_c-planning_and_design_data-tab_b-templates.pdf",
-"extension": ".pdf",
-"Size": "222080"
-},
-{
-"name": "abbreviated_pdr_template.docx",
-"LastModified": "06/29/2016 11:43:44",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 13 Guidance (Archive)/abbreviated_pdr_template.docx",
-"extension": ".docx",
-"Size": "26925"
-},
-{
-"name": "abbreviated_pdr_template_fy_13_late_adds-npr.docx",
-"LastModified": "06/29/2016 11:43:44",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 13 Guidance (Archive)/abbreviated_pdr_template_fy_13_late_adds-npr.docx",
-"extension": ".docx",
-"Size": "29168"
-},
-{
-"name": "fy13_code-3_directive_sample.pdf",
-"LastModified": "06/29/2016 11:43:39",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 13 Guidance (Archive)/fy13_code-3_directive_sample.pdf",
-"extension": ".pdf",
-"Size": "49395"
-},
-{
-"name": "guidance_instructions-for-fy13-pdr3086.pdf",
-"LastModified": "06/29/2016 11:43:41",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 13 Guidance (Archive)/guidance_instructions-for-fy13-pdr3086.pdf",
-"extension": ".pdf",
-"Size": "331769"
-},
-{
-"name": "pdr_report_format_for_fy13_v2.docx",
-"LastModified": "06/29/2016 11:43:42",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 13 Guidance (Archive)/pdr_report_format_for_fy13_v2.docx",
-"extension": ".docx",
-"Size": "71031"
-},
-{
-"name": "sample_eng_form_3086.pdf",
-"LastModified": "06/29/2016 11:43:42",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 13 Guidance (Archive)/sample_eng_form_3086.pdf",
-"extension": ".pdf",
-"Size": "15773"
-},
-{
-"name": "07052-1-appendix-a-points-of-contacts.pdf",
-"LastModified": "06/29/2016 11:51:13",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 14 Guidance (Archive)/07052-1-appendix-a-points-of-contacts.pdf",
-"extension": ".pdf",
-"Size": "18921"
-},
-{
-"name": "070522-appendix-b-acronyms-and-abbreviations.pdf",
-"LastModified": "06/29/2016 11:51:13",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 14 Guidance (Archive)/070522-appendix-b-acronyms-and-abbreviations.pdf",
-"extension": ".pdf",
-"Size": "10776"
-},
-{
-"name": "07052_appendix-j-eng3086-instructions-_code-3_-fy14.pdf",
-"LastModified": "06/29/2016 11:51:14",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 14 Guidance (Archive)/07052_appendix-j-eng3086-instructions-_code-3_-fy14.pdf",
-"extension": ".pdf",
-"Size": "67504"
-},
-{
-"name": "07052_instructions-for-parametric-design-_code-3_-fy14.pdf",
-"LastModified": "06/29/2016 11:51:10",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 14 Guidance (Archive)/07052_instructions-for-parametric-design-_code-3_-fy14.pdf",
-"extension": ".pdf",
-"Size": "235672"
-},
-{
-"name": "abbreviated_pdr_lite-template-for-fy14.pdf",
-"LastModified": "06/29/2016 11:51:11",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 14 Guidance (Archive)/abbreviated_pdr_lite-template-for-fy14.pdf",
-"extension": ".pdf",
-"Size": "48998"
-},
-{
-"name": "abbreviated_pdr_process.docx",
-"LastModified": "06/29/2016 11:51:11",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 14 Guidance (Archive)/abbreviated_pdr_process.docx",
-"extension": ".docx",
-"Size": "27476"
-},
-{
-"name": "code-1-and-code-3-process_fy13-lateadds-only-npr.pdf",
-"LastModified": "06/29/2016 11:51:12",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 14 Guidance (Archive)/code-1-and-code-3-process_fy13-lateadds-only-npr.pdf",
-"extension": ".pdf",
-"Size": "364245"
-},
-{
-"name": "pdr-report-format-for-fy14.doc",
-"LastModified": "06/29/2016 11:51:13",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 14 Guidance (Archive)/pdr-report-format-for-fy14.doc",
-"extension": ".doc",
-"Size": "151040"
-},
-{
-"name": "07052-1-appendix-a-points-of-contacts.pdf",
-"LastModified": "06/29/2016 11:57:10",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Guidance (Archive)/07052-1-appendix-a-points-of-contacts.pdf",
-"extension": ".pdf",
-"Size": "16673"
-},
-{
-"name": "07052-2-appendix-b-acronyms-and-abbreviations.pdf",
-"LastModified": "06/29/2016 11:57:10",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Guidance (Archive)/07052-2-appendix-b-acronyms-and-abbreviations.pdf",
-"extension": ".pdf",
-"Size": "11408"
-},
-{
-"name": "07052_appendix-j-eng3086-instructions-_code-3_-oct-2012.pdf",
-"LastModified": "06/29/2016 11:57:11",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Guidance (Archive)/07052_appendix-j-eng3086-instructions-_code-3_-oct-2012.pdf",
-"extension": ".pdf",
-"Size": "70444"
-},
-{
-"name": "abbreviated_pdr_process.pdf",
-"LastModified": "06/29/2016 11:57:11",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Guidance (Archive)/abbreviated_pdr_process.pdf",
-"extension": ".pdf",
-"Size": "49272"
-},
-{
-"name": "abbreviated_pdr_template-fy15.docx",
-"LastModified": "06/29/2016 11:57:12",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Guidance (Archive)/abbreviated_pdr_template-fy15.docx",
-"extension": ".docx",
-"Size": "37405"
-},
-{
-"name": "abbreviated_pdr_template-fy15.pdf",
-"LastModified": "06/29/2016 11:57:07",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Guidance (Archive)/abbreviated_pdr_template-fy15.pdf",
-"extension": ".pdf",
-"Size": "79873"
-},
-{
-"name": "ecb_2009_25.pdf",
-"LastModified": "06/29/2016 11:57:08",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Guidance (Archive)/ecb_2009_25.pdf",
-"extension": ".pdf",
-"Size": "46697"
-},
-{
-"name": "fy15-acquistion-strategy-template.doc",
-"LastModified": "06/29/2016 11:57:08",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Guidance (Archive)/fy15-acquistion-strategy-template.doc",
-"extension": ".doc",
-"Size": "44032"
-},
-{
-"name": "fy15-instructions-for-parametric-design-_code-3.pdf",
-"LastModified": "06/29/2016 11:57:09",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Guidance (Archive)/fy15-instructions-for-parametric-design-_code-3.pdf",
-"extension": ".pdf",
-"Size": "499587"
-},
-{
-"name": "pdr-report-format-for-fy15.docx",
-"LastModified": "06/29/2016 11:57:10",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Guidance (Archive)/pdr-report-format-for-fy15.docx",
-"extension": ".docx",
-"Size": "64900"
-},
-{
-"name": "pdr-report-format-for-fy15.pdf",
-"LastModified": "06/29/2016 11:57:10",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Guidance (Archive)/pdr-report-format-for-fy15.pdf",
-"extension": ".pdf",
-"Size": "47990"
-},
-{
-"name": "PDR",
-"LastModified": "09/25/2019 08:26:16",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Meeting Minutes (Archive)/PDR",
-"extension": "",
-"Size": ""
-},
-{
-"name": "fort-jackson-ait2-and-bct4-scope-discrepancy-issues-01-09-13.pdf",
-"LastModified": "06/29/2016 13:30:57",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Meeting Minutes (Archive)/fort-jackson-ait2-and-bct4-scope-discrepancy-issues-01-09-13.pdf",
-"extension": ".pdf",
-"Size": "83292"
-},
-{
-"name": "fort-jackson-pn53796-ait2-pn51937-bct4-scope-discrepancy-documents.pdf",
-"LastModified": "06/29/2016 13:31:13",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Meeting Minutes (Archive)/fort-jackson-pn53796-ait2-pn51937-bct4-scope-discrepancy-documents.pdf",
-"extension": ".pdf",
-"Size": "6075153"
-},
-{
-"name": "fy15-uas-code-3s-07-may-2013-telecons-rev-09may.docx",
-"LastModified": "06/29/2016 13:35:09",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Meeting Minutes (Archive)/PDR/fy15-uas-code-3s-07-may-2013-telecons-rev-09may.docx",
-"extension": ".docx",
-"Size": "838060"
-},
-{
-"name": "fy15-uas-code-3s-21-may-2013-telecon-final.docx",
-"LastModified": "06/29/2016 13:35:10",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Meeting Minutes (Archive)/PDR/fy15-uas-code-3s-21-may-2013-telecon-final.docx",
-"extension": ".docx",
-"Size": "31787"
-},
-{
-"name": "fy15-uas-code-3s-30-may-2013-telecon-draft.docx",
-"LastModified": "06/29/2016 13:35:10",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Meeting Minutes (Archive)/PDR/fy15-uas-code-3s-30-may-2013-telecon-draft.docx",
-"extension": ".docx",
-"Size": "31141"
-},
-{
-"name": "meeting-notes-pdr-conference-call-08-06-13.docx",
-"LastModified": "06/29/2016 13:35:03",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Meeting Minutes (Archive)/PDR/meeting-notes-pdr-conference-call-08-06-13.docx",
-"extension": ".docx",
-"Size": "35415"
-},
-{
-"name": "meeting-notes-pdr-conference-call-08-13-13.docx",
-"LastModified": "06/29/2016 13:35:04",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Meeting Minutes (Archive)/PDR/meeting-notes-pdr-conference-call-08-13-13.docx",
-"extension": ".docx",
-"Size": "38980"
-},
-{
-"name": "meeting-notes-pdr-conference-call-1-15-13.pdf",
-"LastModified": "06/29/2016 13:35:11",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Meeting Minutes (Archive)/PDR/meeting-notes-pdr-conference-call-1-15-13.pdf",
-"extension": ".pdf",
-"Size": "211727"
-},
-{
-"name": "meeting-notes-pdr-conference-call-1-8-13.pdf",
-"LastModified": "06/29/2016 13:35:11",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Meeting Minutes (Archive)/PDR/meeting-notes-pdr-conference-call-1-8-13.pdf",
-"extension": ".pdf",
-"Size": "200812"
-},
-{
-"name": "meeting-notes-pdr-conference-call-11-06-12.pdf",
-"LastModified": "06/29/2016 13:35:04",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Meeting Minutes (Archive)/PDR/meeting-notes-pdr-conference-call-11-06-12.pdf",
-"extension": ".pdf",
-"Size": "96943"
-},
-{
-"name": "meeting-notes-pdr-conference-call-11-13-12.pdf",
-"LastModified": "06/29/2016 13:35:04",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Meeting Minutes (Archive)/PDR/meeting-notes-pdr-conference-call-11-13-12.pdf",
-"extension": ".pdf",
-"Size": "108544"
-},
-{
-"name": "meeting-notes-pdr-conference-call-11-28-12.docx",
-"LastModified": "06/29/2016 13:35:05",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Meeting Minutes (Archive)/PDR/meeting-notes-pdr-conference-call-11-28-12.docx",
-"extension": ".docx",
-"Size": "48920"
-},
-{
-"name": "meeting-notes-pdr-conference-call-12-11-12.pdf",
-"LastModified": "06/29/2016 13:35:06",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Meeting Minutes (Archive)/PDR/meeting-notes-pdr-conference-call-12-11-12.pdf",
-"extension": ".pdf",
-"Size": "183431"
-},
-{
-"name": "meeting-notes-pdr-conference-call-12-18-12.pdf",
-"LastModified": "06/29/2016 13:35:07",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Meeting Minutes (Archive)/PDR/meeting-notes-pdr-conference-call-12-18-12.pdf",
-"extension": ".pdf",
-"Size": "192763"
-},
-{
-"name": "meeting-notes-pdr-conference-call-2-5-13.docx",
-"LastModified": "06/29/2016 13:35:03",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Meeting Minutes (Archive)/PDR/meeting-notes-pdr-conference-call-2-5-13.docx",
-"extension": ".docx",
-"Size": "86260"
-},
-{
-"name": "stakeholders-list.pdf",
-"LastModified": "06/29/2016 13:35:07",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 15 Meeting Minutes (Archive)/PDR/stakeholders-list.pdf",
-"extension": ".pdf",
-"Size": "35845"
-},
-{
-"name": "07052-1-appendix-a-points-of-contacts.doc",
-"LastModified": "06/29/2016 13:48:41",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 16 Guidance (Archive)/07052-1-appendix-a-points-of-contacts.doc",
-"extension": ".doc",
-"Size": "68096"
-},
-{
-"name": "07052-2-appendix-b-acronyms-and-abbreviations.doc",
-"LastModified": "06/29/2016 13:48:41",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 16 Guidance (Archive)/07052-2-appendix-b-acronyms-and-abbreviations.doc",
-"extension": ".doc",
-"Size": "50176"
-},
-{
-"name": "070523appendix_c-planning_and_design_data-tab_b-templates.pdf",
-"LastModified": "06/29/2016 13:48:42",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 16 Guidance (Archive)/070523appendix_c-planning_and_design_data-tab_b-templates.pdf",
-"extension": ".pdf",
-"Size": "222080"
-},
-{
-"name": "07052_appendix-j-eng3086-instructions-code-3-fy16.docx",
-"LastModified": "06/29/2016 13:48:38",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 16 Guidance (Archive)/07052_appendix-j-eng3086-instructions-code-3-fy16.docx",
-"extension": ".docx",
-"Size": "78089"
-},
-{
-"name": "abbreviated_pdr_process.docx",
-"LastModified": "06/29/2016 13:48:39",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 16 Guidance (Archive)/abbreviated_pdr_process.docx",
-"extension": ".docx",
-"Size": "28865"
-},
-{
-"name": "abbreviated_pdr_template-fy16.docx",
-"LastModified": "06/29/2016 13:48:39",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 16 Guidance (Archive)/abbreviated_pdr_template-fy16.docx",
-"extension": ".docx",
-"Size": "38267"
-},
-{
-"name": "fy16-acquistion-strategy-template.doc",
-"LastModified": "06/29/2016 13:48:39",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 16 Guidance (Archive)/fy16-acquistion-strategy-template.doc",
-"extension": ".doc",
-"Size": "44032"
-},
-{
-"name": "fy16-instructions-for-parametric-design-code-3.docx",
-"LastModified": "06/29/2016 13:48:40",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 16 Guidance (Archive)/fy16-instructions-for-parametric-design-code-3.docx",
-"extension": ".docx",
-"Size": "183823"
-},
-{
-"name": "pdr-report-format-for-fy16.docx",
-"LastModified": "06/29/2016 13:48:40",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 16 Guidance (Archive)/pdr-report-format-for-fy16.docx",
-"extension": ".docx",
-"Size": "66157"
-},
-{
-"name": "fy17-eng3086-instructions.docx",
-"LastModified": "06/29/2016 13:55:41",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 17 Guidance (Archive)/fy17-eng3086-instructions.docx",
-"extension": ".docx",
-"Size": "78017"
-},
-{
-"name": "fy17-instructions-for-parametric-design-_code-3_.pdf",
-"LastModified": "06/29/2016 13:55:40",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 17 Guidance (Archive)/fy17-instructions-for-parametric-design-_code-3_.pdf",
-"extension": ".pdf",
-"Size": "499822"
-},
-{
-"name": "pdr-report-format-for-fy17.docx",
-"LastModified": "06/29/2016 13:55:41",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 17 Guidance (Archive)/pdr-report-format-for-fy17.docx",
-"extension": ".docx",
-"Size": "63664"
-},
-{
-"name": "nwd-pdr-meeting-23-june-2015.docx",
-"LastModified": "06/29/2016 13:59:10",
-"Key": "content/PDRS/Policy/ARCHIVES/FY 17 Meeting Minutes (Archive)/nwd-pdr-meeting-23-june-2015.docx",
-"extension": ".docx",
-"Size": "29941"
-},
-{
-"name": "07052-1-appendix-a-points-of-contacts.pdf",
-"LastModified": "06/29/2016 11:34:17",
-"Key": "content/PDRS/Policy/ARCHIVES/FY18 Guidance/07052-1-appendix-a-points-of-contacts.pdf",
-"extension": ".pdf",
-"Size": "23761"
-},
-{
-"name": "07052-2-appendix-b-acronyms-and-abbreviations.pdf",
-"LastModified": "06/29/2016 11:34:14",
-"Key": "content/PDRS/Policy/ARCHIVES/FY18 Guidance/07052-2-appendix-b-acronyms-and-abbreviations.pdf",
-"extension": ".pdf",
-"Size": "21073"
-},
-{
-"name": "2013-07-11_energyplussustainability_record_card-final.xlsx",
-"LastModified": "06/29/2016 14:08:28",
-"Key": "content/PDRS/Policy/ARCHIVES/FY18 Guidance/2013-07-11_energyplussustainability_record_card-final.xlsx",
-"extension": ".xlsx",
-"Size": "203128"
-},
-{
-"name": "abbreviated_pdr_template-fy18.docx",
-"LastModified": "06/29/2016 14:08:28",
-"Key": "content/PDRS/Policy/ARCHIVES/FY18 Guidance/abbreviated_pdr_template-fy18.docx",
-"extension": ".docx",
-"Size": "39439"
-},
-{
-"name": "appendix-h-abbreviated_pdr_process-fy18.pdf",
-"LastModified": "06/29/2016 11:34:15",
-"Key": "content/PDRS/Policy/ARCHIVES/FY18 Guidance/appendix-h-abbreviated_pdr_process-fy18.pdf",
-"extension": ".pdf",
-"Size": "64902"
-},
-{
-"name": "fy13_code-3_directive_sample.pdf",
-"LastModified": "06/29/2016 14:08:28",
-"Key": "content/PDRS/Policy/ARCHIVES/FY18 Guidance/fy13_code-3_directive_sample.pdf",
-"extension": ".pdf",
-"Size": "49395"
-},
-{
-"name": "fy18-acquistion-strategy-template.doc",
-"LastModified": "06/29/2016 14:08:26",
-"Key": "content/PDRS/Policy/ARCHIVES/FY18 Guidance/fy18-acquistion-strategy-template.doc",
-"extension": ".doc",
-"Size": "44544"
-},
-{
-"name": "fy18-eng3086-instructions_final.docx",
-"LastModified": "06/29/2016 11:34:16",
-"Key": "content/PDRS/Policy/ARCHIVES/FY18 Guidance/fy18-eng3086-instructions_final.docx",
-"extension": ".docx",
-"Size": "77654"
-},
-{
-"name": "fy18-instructions-for-parametric-design-code-3-_final.pdf",
-"LastModified": "06/29/2016 11:34:16",
-"Key": "content/PDRS/Policy/ARCHIVES/FY18 Guidance/fy18-instructions-for-parametric-design-code-3-_final.pdf",
-"extension": ".pdf",
-"Size": "218928"
-},
-{
-"name": "pdr-report-format-for-fy18.docx",
-"LastModified": "06/29/2016 14:08:27",
-"Key": "content/PDRS/Policy/ARCHIVES/FY18 Guidance/pdr-report-format-for-fy18.docx",
-"extension": ".docx",
-"Size": "59850"
-},
-{
-"name": "sample_eng_form_3086.pdf",
-"LastModified": "06/29/2016 14:08:27",
-"Key": "content/PDRS/Policy/ARCHIVES/FY18 Guidance/sample_eng_form_3086.pdf",
-"extension": ".pdf",
-"Size": "15773"
-},
-{
-"name": "07052-1-appendix-a-points-of-contacts.pdf",
-"LastModified": "01/30/2017 11:36:28",
-"Key": "content/PDRS/Policy/ARCHIVES/FY19 Guidance/07052-1-appendix-a-points-of-contacts.pdf",
-"extension": ".pdf",
-"Size": "23749"
-},
-{
-"name": "07052-2-appendix-b-acronyms-and-abbreviations.pdf",
-"LastModified": "01/30/2017 11:36:34",
-"Key": "content/PDRS/Policy/ARCHIVES/FY19 Guidance/07052-2-appendix-b-acronyms-and-abbreviations.pdf",
-"extension": ".pdf",
-"Size": "21039"
-},
-{
-"name": "abbreviated_pdr_template-fy19.docx",
-"LastModified": "05/12/2017 07:34:19",
-"Key": "content/PDRS/Policy/ARCHIVES/FY19 Guidance/abbreviated_pdr_template-fy19.docx",
-"extension": ".docx",
-"Size": "37382"
-},
-{
-"name": "appendix-c-fy19-acquistion-strategy-template.doc",
-"LastModified": "01/30/2017 11:36:39",
-"Key": "content/PDRS/Policy/ARCHIVES/FY19 Guidance/appendix-c-fy19-acquistion-strategy-template.doc",
-"extension": ".doc",
-"Size": "47616"
-},
-{
-"name": "appendix-d-sample-3086_fy19.pdf",
-"LastModified": "01/30/2017 11:50:49",
-"Key": "content/PDRS/Policy/ARCHIVES/FY19 Guidance/appendix-d-sample-3086_fy19.pdf",
-"extension": ".pdf",
-"Size": "15773"
-},
-{
-"name": "appendix-e-pdr-report-format-for-fy19.docx",
-"LastModified": "01/30/2017 11:36:45",
-"Key": "content/PDRS/Policy/ARCHIVES/FY19 Guidance/appendix-e-pdr-report-format-for-fy19.docx",
-"extension": ".docx",
-"Size": "69708"
-},
-{
-"name": "appendix-f-example-design-directive_code-3_fy19.pdf",
-"LastModified": "01/30/2017 11:50:55",
-"Key": "content/PDRS/Policy/ARCHIVES/FY19 Guidance/appendix-f-example-design-directive_code-3_fy19.pdf",
-"extension": ".pdf",
-"Size": "49395"
-},
-{
-"name": "appendix-g-abbreviated_pdr_process-fy19.pdf",
-"LastModified": "01/30/2017 11:36:48",
-"Key": "content/PDRS/Policy/ARCHIVES/FY19 Guidance/appendix-g-abbreviated_pdr_process-fy19.pdf",
-"extension": ".pdf",
-"Size": "65092"
-},
-{
-"name": "appendix-h-fy19-eng3086-instructions_final.pdf",
-"LastModified": "01/30/2017 11:36:52",
-"Key": "content/PDRS/Policy/ARCHIVES/FY19 Guidance/appendix-h-fy19-eng3086-instructions_final.pdf",
-"extension": ".pdf",
-"Size": "59409"
-},
-{
-"name": "appendix-i_es-record-card.pdf",
-"LastModified": "01/30/2017 11:50:27",
-"Key": "content/PDRS/Policy/ARCHIVES/FY19 Guidance/appendix-i_es-record-card.pdf",
-"extension": ".pdf",
-"Size": "747848"
-},
-{
-"name": "fy19-instructions-for-parametric-design-code-3.pdf",
-"LastModified": "01/30/2017 11:35:32",
-"Key": "content/PDRS/Policy/ARCHIVES/FY19 Guidance/fy19-instructions-for-parametric-design-code-3.pdf",
-"extension": ".pdf",
-"Size": "293355"
-},
-{
-"name": "appendix-c-fy19-acquistion-strategy-template-for-use-on-fy20-projects.doc",
-"LastModified": "01/16/2018 12:56:20",
-"Key": "content/PDRS/Policy/ARCHIVES/FY20 Guidance and Templates/appendix-c-fy19-acquistion-strategy-template-for-use-on-fy20-projects.doc",
-"extension": ".doc",
-"Size": "47616"
-},
-{
-"name": "appendix-d-sample-3086_fy19-for-use-on-fy20-projects.pdf",
-"LastModified": "01/16/2018 12:56:24",
-"Key": "content/PDRS/Policy/ARCHIVES/FY20 Guidance and Templates/appendix-d-sample-3086_fy19-for-use-on-fy20-projects.pdf",
-"extension": ".pdf",
-"Size": "15773"
-},
-{
-"name": "appendix-e-fy20-pdr-template-v3.docx",
-"LastModified": "03/05/2018 13:23:11",
-"Key": "content/PDRS/Policy/ARCHIVES/FY20 Guidance and Templates/appendix-e-fy20-pdr-template-v3.docx",
-"extension": ".docx",
-"Size": "96989"
-},
-{
-"name": "appendix-h-eng-3086-instructions_fy19-for-use-on-fy20-projects.docx",
-"LastModified": "01/16/2018 12:56:28",
-"Key": "content/PDRS/Policy/ARCHIVES/FY20 Guidance and Templates/appendix-h-eng-3086-instructions_fy19-for-use-on-fy20-projects.docx",
-"extension": ".docx",
-"Size": "77654"
-},
-{
-"name": "fy19-guidance-for-use-on-fy20-projects.pdf",
-"LastModified": "12/14/2017 14:39:14",
-"Key": "content/PDRS/Policy/ARCHIVES/FY20 Guidance and Templates/fy19-guidance-for-use-on-fy20-projects.pdf",
-"extension": ".pdf",
-"Size": "293355"
-},
-{
-"name": "fy20-pdr-lite-template.docx",
-"LastModified": "03/08/2018 08:07:18",
-"Key": "content/PDRS/Policy/ARCHIVES/FY20 Guidance and Templates/fy20-pdr-lite-template.docx",
-"extension": ".docx",
-"Size": "92523"
-},
-{
-"name": "appendix-c_acquistion-strategy-template.doc",
-"LastModified": "01/29/2019 07:31:43",
-"Key": "content/PDRS/Policy/ARCHIVES/FY21 Guidance and Templates/appendix-c_acquistion-strategy-template.doc",
-"extension": ".doc",
-"Size": "47616"
-},
-{
-"name": "fy21-eng-3086-instructions.pdf",
-"LastModified": "01/29/2019 07:30:24",
-"Key": "content/PDRS/Policy/ARCHIVES/FY21 Guidance and Templates/fy21-eng-3086-instructions.pdf",
-"extension": ".pdf",
-"Size": "106925"
-},
-{
-"name": "fy21-pdr-lite-template.docx",
-"LastModified": "01/29/2019 13:50:22",
-"Key": "content/PDRS/Policy/ARCHIVES/FY21 Guidance and Templates/fy21-pdr-lite-template.docx",
-"extension": ".docx",
-"Size": "94025"
-},
-{
-"name": "fy21-pdr-template.docx",
-"LastModified": "04/17/2018 10:15:04",
-"Key": "content/PDRS/Policy/ARCHIVES/FY21 Guidance and Templates/fy21-pdr-template.docx",
-"extension": ".docx",
-"Size": "96989"
-},
-{
-"name": "fy21-timeline.pdf",
-"LastModified": "04/17/2018 10:15:45",
-"Key": "content/PDRS/Policy/ARCHIVES/FY21 Guidance and Templates/fy21-timeline.pdf",
-"extension": ".pdf",
-"Size": "411986"
-},
-{
-"name": "07052-1-appendix-a-points-of-contacts.pdf",
-"LastModified": "06/05/2019 13:18:06",
-"Key": "content/PDRS/Policy/ARCHIVES/FY22 Guidance and Templates/07052-1-appendix-a-points-of-contacts.pdf",
-"extension": ".pdf",
-"Size": "125233"
-},
-{
-"name": "07052-2-appendix-b-acronyms-and-abbreviations.pdf",
-"LastModified": "06/05/2019 13:16:30",
-"Key": "content/PDRS/Policy/ARCHIVES/FY22 Guidance and Templates/07052-2-appendix-b-acronyms-and-abbreviations.pdf",
-"extension": ".pdf",
-"Size": "127259"
-},
-{
-"name": "07052-3-appendix-c-acquisition-strategy-template.doc",
-"LastModified": "06/05/2019 13:13:23",
-"Key": "content/PDRS/Policy/ARCHIVES/FY22 Guidance and Templates/07052-3-appendix-c-acquisition-strategy-template.doc",
-"extension": ".doc",
-"Size": "47616"
-},
-{
-"name": "ar-420_1-code-2-35-design.pdf",
-"LastModified": "06/05/2019 13:13:27",
-"Key": "content/PDRS/Policy/ARCHIVES/FY22 Guidance and Templates/ar-420_1-code-2-35-design.pdf",
-"extension": ".pdf",
-"Size": "16054"
-},
-{
-"name": "army-milcon-instructions-for-code2-june-2019.pdf",
-"LastModified": "06/05/2019 13:13:32",
-"Key": "content/PDRS/Policy/ARCHIVES/FY22 Guidance and Templates/army-milcon-instructions-for-code2-june-2019.pdf",
-"extension": ".pdf",
-"Size": "261357"
-},
-{
-"name": "Code 2_District Certification Memo.pdf",
-"LastModified": "10/10/2019 08:39:35",
-"Key": "content/PDRS/Policy/ARCHIVES/FY22 Guidance and Templates/Code 2_District Certification Memo.pdf",
-"extension": ".pdf",
-"Size": "1384897"
-},
-{
-"name": "eng-3086-instructions_-5-june-2019.pdf",
-"LastModified": "06/05/2019 13:16:44",
-"Key": "content/PDRS/Policy/ARCHIVES/FY22 Guidance and Templates/eng-3086-instructions_-5-june-2019.pdf",
-"extension": ".pdf",
-"Size": "275879"
-},
-{
-"name": "fy22-pdr-lite-template.docx",
-"LastModified": "06/05/2019 13:16:48",
-"Key": "content/PDRS/Policy/ARCHIVES/FY22 Guidance and Templates/fy22-pdr-lite-template.docx",
-"extension": ".docx",
-"Size": "92039"
-},
-{
-"name": "fy22-pdr-template.docx",
-"LastModified": "06/05/2019 13:16:53",
-"Key": "content/PDRS/Policy/ARCHIVES/FY22 Guidance and Templates/fy22-pdr-template.docx",
-"extension": ".docx",
-"Size": "100342"
-},
-{
-"name": "fy22-timeline.pdf",
-"LastModified": "06/05/2019 12:37:18",
-"Key": "content/PDRS/Policy/ARCHIVES/FY22 Guidance and Templates/fy22-timeline.pdf",
-"extension": ".pdf",
-"Size": "108738"
-},
-{
-"name": "Appdx H Attachment_CSRA template FY17 rev4b.xlsm",
-"LastModified": "09/30/2020 15:28:41",
-"Key": "content/PDRS/Policy/ARCHIVES/FY23 Guidance and Templates/Appdx H Attachment_CSRA template FY17 rev4b.xlsm",
-"extension": ".xlsm",
-"Size": "388878"
-},
-{
-"name": "Appedx H Attachment_AE SOW - CSRA.doc",
-"LastModified": "09/30/2020 15:28:44",
-"Key": "content/PDRS/Policy/ARCHIVES/FY23 Guidance and Templates/Appedx H Attachment_AE SOW - CSRA.doc",
-"extension": ".doc",
-"Size": "76288"
-},
-{
-"name": "Appendix C Acquisition Strategy Template.pdf",
-"LastModified": "10/29/2020 14:41:26",
-"Key": "content/PDRS/Policy/ARCHIVES/FY23 Guidance and Templates/Appendix C Acquisition Strategy Template.pdf",
-"extension": ".pdf",
-"Size": "135182"
-},
-{
-"name": "Appendix H_CSRA_Portfolio.pdf",
-"LastModified": "09/14/2020 15:56:49",
-"Key": "content/PDRS/Policy/ARCHIVES/FY23 Guidance and Templates/Appendix H_CSRA_Portfolio.pdf",
-"extension": ".pdf",
-"Size": "1544541"
-},
-{
-"name": "Code 2 Guidance_Templates_Appendices Portfolio.pdf",
-"LastModified": "09/14/2020 15:56:53",
-"Key": "content/PDRS/Policy/ARCHIVES/FY23 Guidance and Templates/Code 2 Guidance_Templates_Appendices Portfolio.pdf",
-"extension": ".pdf",
-"Size": "3089558"
-},
-{
-"name": "1_Instructions for FY24 MCA_AFH Design Code 2.pdf",
-"LastModified": "09/17/2021 09:15:02",
-"Key": "content/PDRS/Policy/FY24 Guidance and Templates/1_Instructions for FY24 MCA_AFH Design Code 2.pdf",
-"extension": ".pdf",
-"Size": "261137"
-},
-{
-"name": "Appdendix H_7.5_ContingencyTable_Revised1FEB22.xlsx",
-"LastModified": "08/12/2022 09:40:28",
-"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appdendix H_7.5_ContingencyTable_Revised1FEB22.xlsx",
-"extension": ".xlsx",
-"Size": "24823"
-},
-{
-"name": "Appendix A _Points of Contact.pdf",
-"LastModified": "09/17/2021 09:15:02",
-"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix A _Points of Contact.pdf",
-"extension": ".pdf",
-"Size": "118212"
-},
-{
-"name": "Appendix B_Acronyms and Abbreviations.pdf",
-"LastModified": "09/17/2021 09:15:02",
-"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix B_Acronyms and Abbreviations.pdf",
-"extension": ".pdf",
-"Size": "62341"
-},
-{
-"name": "Appendix Ca_FY24 Code 2 Process Timeline_New Design Starts.pdf",
-"LastModified": "09/17/2021 09:15:02",
-"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix Ca_FY24 Code 2 Process Timeline_New Design Starts.pdf",
-"extension": ".pdf",
-"Size": "166798"
-},
-{
-"name": "Appendix Cb_FY24 Code 2 Process Timeline_Previous FY Start.pdf",
-"LastModified": "09/17/2021 09:15:02",
-"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix Cb_FY24 Code 2 Process Timeline_Previous FY Start.pdf",
-"extension": ".pdf",
-"Size": "143667"
-},
-{
-"name": "Appendix D_FY24 PDR Template Links.docx",
-"LastModified": "09/17/2021 09:15:02",
-"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix D_FY24 PDR Template Links.docx",
-"extension": ".docx",
-"Size": "22229"
-},
-{
-"name": "Appendix E_FY24 Acquisition Strategy Template.docx",
-"LastModified": "09/17/2021 09:15:02",
-"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix E_FY24 Acquisition Strategy Template.docx",
-"extension": ".docx",
-"Size": "27172"
-},
-{
-"name": "Appendix F_FY24 ENG 3086 Instructions.pdf",
-"LastModified": "09/17/2021 09:15:02",
-"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix F_FY24 ENG 3086 Instructions.pdf",
-"extension": ".pdf",
-"Size": "215830"
-},
-{
-"name": "Appendix G_FY24 District Certification Guidance.pdf",
-"LastModified": "08/12/2022 09:40:42",
-"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix G_FY24 District Certification Guidance.pdf",
-"extension": ".pdf",
-"Size": "587624"
-},
-{
-"name": "Appendix H 7.0_DCA Assessment and Risk Neutral Estimate Guidance.pdf",
-"LastModified": "09/17/2021 09:15:02",
-"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix H 7.0_DCA Assessment and Risk Neutral Estimate Guidance.pdf",
-"extension": ".pdf",
-"Size": "123281"
-},
-{
-"name": "Appendix H 7.1_USD Lord memo 17 Mar 20.pdf",
-"LastModified": "09/17/2021 09:15:02",
-"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix H 7.1_USD Lord memo 17 Mar 20.pdf",
-"extension": ".pdf",
-"Size": "232323"
-},
-{
-"name": "Appendix H 7.2_CSRA Notes for AE Task Orders 2021 09 08.pdf",
-"LastModified": "09/17/2021 09:15:02",
-"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix H 7.2_CSRA Notes for AE Task Orders 2021 09 08.pdf",
-"extension": ".pdf",
-"Size": "128885"
-},
-{
-"name": "Appendix H 7.3_CSRA_Guidance.pdf",
-"LastModified": "09/17/2021 09:15:02",
-"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix H 7.3_CSRA_Guidance.pdf",
-"extension": ".pdf",
-"Size": "1240899"
-},
-{
-"name": "Appendix H 7.4_CSRA Template FY21 Rev 4.xlsx",
-"LastModified": "09/17/2021 09:15:02",
-"Key": "content/PDRS/Policy/FY24 Guidance and Templates/Appendix H 7.4_CSRA Template FY21 Rev 4.xlsx",
-"extension": ".xlsx",
-"Size": "329011"
-},
-{
-"name": "1_Instructions for FY25 Army MILCON Code 2.pdf",
-"LastModified": "08/19/2022 15:38:00",
-"Key": "content/PDRS/Policy/FY25 Guidance and Templates/1_Instructions for FY25 Army MILCON Code 2.pdf",
-"extension": ".pdf",
-"Size": "3181845"
-},
-{
-"name": "Appendix F_FY25 ENG 3086 Instructions.pdf",
-"LastModified": "08/19/2022 15:38:00",
-"Key": "content/PDRS/Policy/FY25 Guidance and Templates/Appendix F_FY25 ENG 3086 Instructions.pdf",
-"extension": ".pdf",
-"Size": "452619"
-},
-{
-"name": "Appendix_E_FY25_Acquisition_Strategy_Template.docx",
-"LastModified": "10/21/2022 14:44:10",
-"Key": "content/PDRS/Policy/FY25 Guidance and Templates/Appendix_E_FY25_Acquisition_Strategy_Template.docx",
-"extension": ".docx",
-"Size": "27279"
-},
-{
-"name": "FY25 PDR Desktop Reference.pdf",
-"LastModified": "07/25/2022 09:42:18",
-"Key": "content/PDRS/Policy/FY25 Guidance and Templates/FY25 PDR Desktop Reference.pdf",
-"extension": ".pdf",
-"Size": "373742"
-},
-{
-"name": "Late Add FY25 Timeline.pdf",
-"LastModified": "01/09/2023 10:44:50",
-"Key": "content/PDRS/Policy/FY25 Guidance and Templates/Late Add FY25 Timeline.pdf",
-"extension": ".pdf",
-"Size": "344629"
-},
-{
-"name": "Supplemental Instructions for Late Add FY25s.pdf",
-"LastModified": "01/09/2023 10:44:50",
-"Key": "content/PDRS/Policy/FY25 Guidance and Templates/Supplemental Instructions for Late Add FY25s.pdf",
-"extension": ".pdf",
-"Size": "345492"
 },
 {
 "name": "CX-KR Documents",
