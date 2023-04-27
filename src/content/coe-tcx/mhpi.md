@@ -7,11 +7,11 @@ center_type: TCX
 website: https://www.nao.usace.army.mil/Business-With-Us/RCI-Small-Installations-Privatization-Initiative/
 center_poc_name: Donna Carrier-Tal
 center_poc_phone_number: ☎ (757) 201-7733
-hq_poc_name: Paula Muic-Johnson
+hq_poc_name: Sarah Simpson
 hq_division: RE
 activation_date: 14 Jan 2002
-recertification_date: 11 Jul 2017
-center_functional_proponent: Michaele Mandulak (Acting DRE)
+recertification_date: 31 Mar 2023
+center_functional_proponent: Paula Muic-Johnson (Acting DRE)
 keywords: Military housing
 // file_library_root_path: "content/coe/tcx/mhpi/Library/"
 page_last_reviewed: 1 January 1970
@@ -20,7 +20,7 @@ slug: /coe/tcx/mhpi
 
 ## About
 
-The Military Housing Privatization Initiative (MHPI) Center of Expertise Team provides direct support to the Deputy Chief of Staff for Installations, Housing and Partnerships DASA (IH&P) and the USACE Director of Real Estate for the Residential Communities Initiative (RCI), Privatized Army Lodging (PAL) and Unaccompanied Personal Housing (UPH) Programs under Army's MHPI Portfolio on Army installations across the country.  We:
+The Military Housing Privatization Initiative (MHPI) Center of Expertise Team provides direct support to the Deputy Chief of Staff for Installations, Housing and Partnerships DASA (IH&P) and the USACE Director of Real Estate for the Residential Communities Initiative (RCI), Privatized Army Lodging (PAL) and Unaccompanied Personal Housing (UPH) Programs under Army's MHPI Portfolio on Army installations across the country. We:
 <ul>
 	<li>Administer, implement, and execute the MHPI RCI Program and Ground Leases</li>
 	<li>Serve as the Real Estate and technical experts and provide technical real estate expertise for the full range of administration and implementation of the RCI, PAL and UPH programs at 44 Army Installations</li>

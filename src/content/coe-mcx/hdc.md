@@ -13,7 +13,7 @@ er_number: ER 10-1-53
 er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_10-1-53.pdf?ver=MUMBaTMseR94YeNWhMCP8g%3d%3d
 er_publication_date: 30 Apr 2015
 activation_date: 01 Oct 1980
-recertification_date: 07 Mar 2018
+recertification_date: 20 Apr 2023
 center_functional_proponent: Pete Perez
 keywords: Hydro Design
 // file_library_root_path: "content/coe/mcx/hdc/Library/" 

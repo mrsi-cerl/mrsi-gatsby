@@ -10,7 +10,7 @@ center_poc_phone_number: ☎ (251) 690-2719
 hq_poc_name: Tim Paulus
 hq_division: E&C
 activation_date: N/A
-recertification_date: 07 Feb 2018
+recertification_date: 20 Apr 2023
 center_functional_proponent: Pete Perez
 keywords: Cathodic Protection
 // file_library_root_path: "content/coe/tcx/cccp/Library/" 

@@ -10,7 +10,7 @@ center_poc_phone_number: ☎ (206) 764-3422
 hq_poc_name: Scott Wick
 hq_division: E&C
 activation_date: N/A
-recertification_date: 31 Jan 2018
+recertification_date: 22 Jan 2023
 center_functional_proponent: Pete Perez
 keywords: Historic Structure Compliance
 // file_library_root_path: "content/coe/tcx/hsb/Library/"

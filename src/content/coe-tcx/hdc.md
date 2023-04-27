@@ -10,7 +10,7 @@ center_poc_phone_number: ☎ (503) 808-4200
 hq_poc_name: Timothy Paulus / Daniel Rabon
 hq_division: E&C
 activation_date: 2001 - TCX pumping plants
-recertification_date: 07 Mar 2018
+recertification_date: 20 Apr 2023
 center_functional_proponent: Pete Perez
 keywords: Hydro Design
 // file_library_root_path: "content/coe/tcx/hdc/Library/" 
