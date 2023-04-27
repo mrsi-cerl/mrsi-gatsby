@@ -12,6 +12,7 @@ hq_division: RE
 activation_date: 01 Jun 1987
 recertification_date: 18 Jul 2018
 center_functional_proponent: Brenda Johnson-Turner
+keywords: Relocate DoD Civilians
 // file_library_root_path: "content/coe/tcx/dnrp/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/tcx/dnrp

@@ -12,6 +12,7 @@ hq_division: CW
 activation_date: 24 Nov 2015
 recertification_date: 01 May 2021
 center_functional_proponent: Stacy Brown
+keywords: Tribal Nations
 // file_library_root_path: "content/coe/tcx/tntcx/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/tcx/tntcx

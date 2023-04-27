@@ -12,6 +12,7 @@ hq_division: E&C
 activation_date: 2001 - TCX pumping plants
 recertification_date: 07 Mar 2018
 center_functional_proponent: Pete Perez
+keywords: Hydro Design
 // file_library_root_path: "content/coe/tcx/hdc/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/tcx/hdc

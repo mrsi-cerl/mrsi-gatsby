@@ -15,6 +15,7 @@ er_publication_date: 31 Jan 2014
 activation_date: 01 Jan 1985
 recertification_date: 08 Mar 2018
 center_functional_proponent: Pete Perez
+keywords: Utilities and Controls
 // file_library_root_path: "content/coe/mcx/umcs/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/umcs

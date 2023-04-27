@@ -15,6 +15,7 @@ er_publication_date: 30 Apr 2015
 activation_date: 01 Oct 1980
 recertification_date: 07 Mar 2018
 center_functional_proponent: Pete Perez
+keywords: Hydro Design
 // file_library_root_path: "content/coe/mcx/hdc/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/hdc

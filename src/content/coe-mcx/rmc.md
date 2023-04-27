@@ -15,6 +15,7 @@ er_publication_date: 30 Jun 2013
 activation_date: N/A
 recertification_date: 4 Dec 2022
 center_functional_proponent: Pete Perez
+keywords: Civil Works Risk Analysis
 // file_library_root_path: "content/coe/mcx/rmc/Library/"
 page_last_reviewed: 1 January 1970
 slug: /coe/mcx/rmc

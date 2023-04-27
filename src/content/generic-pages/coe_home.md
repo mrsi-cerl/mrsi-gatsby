@@ -2,6 +2,7 @@
 title: About the Centers of Expertise
 doc_type: generic_page2eb
 slug: /coe/
+keywords: 
 // file_library_root_path: content/coe/coe_home_page/Library/
 related_links: []
 ---

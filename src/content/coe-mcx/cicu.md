@@ -15,6 +15,7 @@ er_publication_date: 31 Jan 2019
 activation_date: 20 Jul 2018
 recertification_date: 20 Jul 2018
 center_functional_proponent: Tom Smith
+keywords: Civil Works Cyber
 // file_library_root_path: "content/coe/mcx/cicu/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/cicu

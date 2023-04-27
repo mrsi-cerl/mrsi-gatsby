@@ -12,6 +12,7 @@ hq_division: CW
 activation_date: N/A
 recertification_date: 31 Jan 2018
 center_functional_proponent: Pete Perez
+keywords: Water Resource Management
 // file_library_root_path: "content/coe/tcx/hec/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/tcx/hec

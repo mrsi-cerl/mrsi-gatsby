@@ -12,6 +12,7 @@ hq_division: E&C
 activation_date: N/A
 recertification_date: 08 Mar 2018
 center_functional_proponent: Pete Perez
+keywords: Hanger Fire Protection
 // file_library_root_path: "content/coe/tcx/fp/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/tcx/fp

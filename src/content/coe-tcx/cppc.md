@@ -12,6 +12,7 @@ hq_division: CW
 activation_date: 17 Oct 2008
 recertification_date: 11 Apr 2018
 center_functional_proponent: Eric Bush
+keywords: Collaboration and conflict resolution
 // file_library_root_path: "content/coe/tcx/cppc/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/tcx/cppc

@@ -42,6 +42,7 @@ export const query = graphql`
             activation_date
             recertification_date
             center_functional_proponent
+            keywords
             file_library_root_path
             page_last_reviewed
             title

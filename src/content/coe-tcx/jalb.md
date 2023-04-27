@@ -12,6 +12,7 @@ hq_division: OPS
 activation_date: N/A
 recertification_date: 31 Jan 2018
 center_functional_proponent: Tom Smith
+keywords: LIDAR
 // file_library_root_path: "content/coe/tcx/jalb/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/tcx/jalb

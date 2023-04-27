@@ -15,6 +15,7 @@ er_publication_date: 30 Sep 2022
 activation_date: 01 Jan 1987
 recertification_date: 21 Jul 2022
 center_functional_proponent: Drew White
+keywords: Military Range Design
 // file_library_root_path: "content/coe/mcx/rtlp/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/rtlp

@@ -77,6 +77,10 @@ export default ({ data, pageContext }) => {
                   ctx.frontmatter.center_functional_proponent
       ) 
     },
+    {
+      title: "Keywords",
+      value: ctx.frontmatter.keywords
+    },
   ]
 
   return (
@@ -117,6 +121,7 @@ export const query = graphql`
             activation_date
             recertification_date
             center_functional_proponent
+            keywords
             file_library_root_path
             page_last_reviewed
             title

@@ -12,6 +12,7 @@ hq_division: MP
 activation_date: 01 Jan 2004
 recertification_date: 12 Feb 2018
 center_functional_proponent: Stacey Hirata
+keywords: DD 1391
 // file_library_root_path: "content/coe/tcx/ddrc/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/tcx/ddrc

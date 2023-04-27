@@ -15,6 +15,7 @@ er_publication_date: 30 Apr 2012
 activation_date: 13 Oct 2011
 recertification_date: 09 Nov 2022
 center_functional_proponent: Lara Beasley
+keywords: Environmental compliance Munitions
 // file_library_root_path: "content/coe/mcx/em/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/em

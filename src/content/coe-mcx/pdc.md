@@ -15,6 +15,7 @@ er_publication_date: N/A
 activation_date: 22 Nov 1985
 recertification_date: 31 Jan 2018
 center_functional_proponent: Pete Perez
+keywords: Building Anti Terrorism Design
 // file_library_root_path: "content/coe/mcx/pdc/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/pdc

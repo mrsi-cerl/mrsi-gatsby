@@ -15,6 +15,7 @@ er_publication_date: 29 Sep 2016
 activation_date: N/A
 recertification_date: 16 Aug 2017
 center_functional_proponent: Paula Johnson-Muic
+keywords: Homeowners Assistance
 // file_library_root_path: "content/coe/mcx/hap/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/hap

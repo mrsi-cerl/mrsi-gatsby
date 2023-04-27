@@ -15,6 +15,7 @@ er_publication_date: 30 Apr 2022
 activation_date: N/A
 recertification_date: 12 Apr 2018
 center_functional_proponent: Pete Perez
+keywords: Civil Works Navigation Design
 // file_library_root_path: "content/coe/mcx/indc/Library/"
 page_last_reviewed: 1 January 1970
 slug: /coe/mcx/indc

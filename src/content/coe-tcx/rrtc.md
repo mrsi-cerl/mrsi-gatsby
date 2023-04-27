@@ -12,6 +12,7 @@ hq_division: ENV
 activation_date: 13 Jun 1991
 recertification_date: 18 Oct 2021
 center_functional_proponent: Lara Beasley (environmental),, Michael Schultz (IIS—non-environmental)
+keywords: Disaster Response
 // file_library_root_path: "content/coe/tcx/rrtc/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/tcx/rrtc

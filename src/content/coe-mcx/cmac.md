@@ -15,6 +15,7 @@ er_publication_date: 7 Dec 1994; Amended 11 Sep 2007
 activation_date: 07 Dec 1994
 recertification_date: 10 Jan 2019
 center_functional_proponent: Tom Smith / Eric Bush
+keywords: Curation
 // file_library_root_path: "content/coe/mcx/cmac/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/cmac

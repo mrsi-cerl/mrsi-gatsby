@@ -15,6 +15,7 @@ er_publication_date: 20 Nov 2020
 activation_date: N/A
 recertification_date: 27 Sep 2018
 center_functional_proponent: Stacey Hirata
+keywords: Medical Design
 // file_library_root_path: "content/coe/mcx/medfac/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/medfac

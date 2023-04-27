@@ -15,6 +15,7 @@ er_publication_date: 26 Mar 1990
 activation_date: 17 Oct 1988
 recertification_date: 05 Oct 2022
 center_functional_proponent: Tom Smith
+keywords: Marine Design
 // file_library_root_path: "content/coe/mcx/mdc/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/mcx/mdc
