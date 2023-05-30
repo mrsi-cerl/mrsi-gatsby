@@ -12047,7 +12047,7 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "10/21/2022 14:49:24",
+"LastModified": "05/30/2023 15:30:40",
 "Key": "content/cos/swf/ueph/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -12075,7 +12075,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "03/24/2022 16:34:56",
+"LastModified": "05/30/2023 15:29:04",
 "Key": "content/cos/swf/ueph/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -12102,11 +12102,11 @@
 "Size": "326079"
 },
 {
-"name": "Army_Standard_for_Perm_Party_UH_E1-E6s_CATCD_72111_16_Nov_2021.pdf",
-"LastModified": "10/20/2022 13:59:06",
-"Key": "content/cos/swf/ueph/Library/Army Standards/Army_Standard_for_Perm_Party_UH_E1-E6s_CATCD_72111_16_Nov_2021.pdf",
+"name": "Army_Standard_for_Perm_Party_UH_E1-E6s_CATCD_72111_16_Nov_2021_.pdf",
+"LastModified": "05/23/2023 14:09:00",
+"Key": "content/cos/swf/ueph/Library/Army Standards/Army_Standard_for_Perm_Party_UH_E1-E6s_CATCD_72111_16_Nov_2021_.pdf",
 "extension": ".pdf",
-"Size": "533218"
+"Size": "440089"
 },
 {
 "name": "Rendering_UEPH.JPG",
@@ -12149,6 +12149,13 @@
 "Key": "content/cos/swf/ueph/Library/Programmatic VE Study/OVx Validation of UEPH Standard Design Compliance for VE-final (1).pdf",
 "extension": ".pdf",
 "Size": "123811"
+},
+{
+"name": "UEPH_Proof of Concept_Standard Design.pdf",
+"LastModified": "05/23/2023 14:09:00",
+"Key": "content/cos/swf/ueph/Library/Standard Designs/UEPH_Proof of Concept_Standard Design.pdf",
+"extension": ".pdf",
+"Size": "4395541"
 },
 {
 "name": "administration",
