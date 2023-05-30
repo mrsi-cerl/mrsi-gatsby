@@ -6,8 +6,6 @@ facility_cos_short_name: HNC
 facility_functional_proponent: Army DCS G3/5/7
 facility_long_name: Soldier Performance Readiness Center
 facility_short_name: SPRC
-cos_manager_name: Jerry Haley
-cos_manager_email: jeremiah.r.haley@usace.army.mil
 facility_technical_poc_email: Ross.Allen@usace.army.mil
 facility_technical_poc_name: Ross Allen
 file_library_root_path: "content/cos/hnc/sprc/Library/"

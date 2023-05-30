@@ -8,8 +8,6 @@ facility_long_name: Youth Center
 facility_short_name: YC
 facility_technical_poc_email: michael.r.johnson2@usace.army.mil
 facility_technical_poc_name: Michael Johnson
-cos_manager_name: Jerry Haley
-cos_manager_email: jeremiah.r.haley@usace.army.mil
 file_library_root_path: "content/cos/hnc/yc/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/yc/

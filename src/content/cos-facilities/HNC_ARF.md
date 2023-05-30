@@ -9,6 +9,8 @@ facility_long_name: Automated Record Fire Range
 facility_short_name: ARF
 facility_technical_poc_name: "Marcus Searles, Bob Hasse"
 facility_technical_poc_email: marcus.j.searles@usace.army.mil
+cos_manager_name: Jerry Haley
+cos_manager_email: jeremiah.r.haley@usace.army.mil
 page_last_reviewed: 1 January 1970
 file_library_root_path: content/cos/hnc/arf/Library/
 slug: /cos/hnc/arf/

@@ -4,8 +4,6 @@ facility_category_codes:
   - "74017"
 facility_cos_short_name: HNC
 facility_functional_proponent: G-9
-cos_manager_name: Jerry Haley
-cos_manager_email: jeremiah.r.haley@usace.army.mil
 facility_long_name: Child Development Center - Under 6 Years of Age
 facility_short_name: CDCU6
 facility_technical_poc_email: michael.r.johnson2@usace.army.mil

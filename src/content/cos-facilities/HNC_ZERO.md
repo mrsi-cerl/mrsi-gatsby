@@ -8,6 +8,8 @@ facility_long_name: "Basic 10M - 25M Firing Range "
 facility_short_name: ZERO
 facility_technical_poc_email: marcus.j.searles@usace.army.mil
 facility_technical_poc_name: Marcus Searles, Bob Hasse
+cos_manager_name: Jerry Haley
+cos_manager_email: jeremiah.r.haley@usace.army.mil
 file_library_root_path: "content/cos/hnc/zero/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/zero/
