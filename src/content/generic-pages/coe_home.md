@@ -6,7 +6,7 @@ keywords:
 // file_library_root_path: content/coe/coe_home_page/Library/
 related_links: []
 ---
-The <a href="https://www.publications.usace.army.mil/Portals/76/Users/182/86/2486/ER%201110-1-8158.pdf?ver=07iGp2f-1SR-7Ynpz6y6oA%3d%3d" target="_blank" rel="noopener noreferrer">**Engineering Regulation ER 11110-1-8158**</a> defines the policy and process for establishing and maintaining expert designation under the U.S. Army Corps of Engineers (USACE) Centers of Expertise (CX) Program. The program provides an inventory of specialized knowledge and skills within USACE that can furnish beneficial and expert assistance to all USACE elements.
+The <a href="https://www.publications.usace.army.mil/Portals/76/Users/182/86/2486/ER%201110-1-8158.pdf?ver=07iGp2f-1SR-7Ynpz6y6oA%3d%3d" target="_blank" rel="noopener noreferrer">**Engineering Regulation ER 1110-1-8158**</a> defines the policy and process for establishing and maintaining expert designation under the U.S. Army Corps of Engineers (USACE) Centers of Expertise (CX) Program. The program provides an inventory of specialized knowledge and skills within USACE that can furnish beneficial and expert assistance to all USACE elements.
 
 A **Technical Center of Expertise** (or **TCX**) is a USACE organization that has been approved by Headquarters, USACE (HQUSACE) as having a unique or exceptional technical capability in a specialized subject area that is beneficial to other USACE commands. The services to be rendered by a TCX are voluntary, advisory, and reimbursable.
 
@@ -19,11 +19,11 @@ A **Mandatory Center of Expertise** (or **MCX**) is a USACE organization that ha
     <tbody>
         <tr style="border: none;">
             <td style="border: none;">
-                <b>Timothy Paulus, PE</b><br/>
-                <i>CX Program Manager<br/>
-                CoP&nbsp;Lead&nbsp;for&nbsp;Civil&nbsp;Works</i><br/>
-                USACE Headquarters<br/>
-                ☎&nbsp;<a href="tel:(651) 528-9457">(651)&nbsp;528&#8209;9457</a><br/>
+                <b>Raul Alonso, PE</b><br/>
+                <i>CX&nbsp;Program&nbsp;Manager</i><br/>
+                USACE&nbsp;Headquarters<br/>
+                Washington,&nbsp;DC<br/>
+                ☎&nbsp;<a href="tel:(256) 783-8616">(256)&nbsp;783&#8209;8616</a><br/>
             </td>
             <td style="border: none; nowrap">
                 <b>Ms. Dawn Carney, PE</b><br/>
