@@ -49,7 +49,7 @@
 },
 {
 "name": "PDRS",
-"LastModified": "04/18/2023 19:38:22",
+"LastModified": "07/07/2023 14:04:30",
 "Key": "content/PDRS",
 "extension": "",
 "Size": ""
@@ -14874,9 +14874,9 @@
 "Size": ""
 },
 {
-"name": "FY27 Guidance & Templates (coming soon)",
-"LastModified": "04/18/2023 19:38:04",
-"Key": "content/PDRS/FY27 Guidance & Templates (coming soon)",
+"name": "FY27 Guidance & Templates",
+"LastModified": "07/07/2023 14:03:46",
+"Key": "content/PDRS/FY27 Guidance & Templates",
 "extension": "",
 "Size": ""
 },
@@ -16405,6 +16405,20 @@
 "Key": "content/PDRS/FY26 Guidance & Templates/Instructions for FY26 Army MILCON Code 2.pdf",
 "extension": ".pdf",
 "Size": "1873103"
+},
+{
+"name": "Appendix F_FY27 Acquisition Strategy Template.docx",
+"LastModified": "07/07/2023 13:24:00",
+"Key": "content/PDRS/FY27 Guidance & Templates/Appendix F_FY27 Acquisition Strategy Template.docx",
+"extension": ".docx",
+"Size": "27393"
+},
+{
+"name": "Instructions for FY27 Army MILCON Code 2.pdf",
+"LastModified": "07/07/2023 13:24:00",
+"Key": "content/PDRS/FY27 Guidance & Templates/Instructions for FY27 Army MILCON Code 2.pdf",
+"extension": ".pdf",
+"Size": "1577399"
 },
 {
 "name": "CX-KR Documents",
