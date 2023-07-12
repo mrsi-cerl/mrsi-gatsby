@@ -7665,7 +7665,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:22",
+"LastModified": "07/12/2023 09:05:37",
 "Key": "content/cos/nwo/chapels/Library",
 "extension": "",
 "Size": ""
@@ -7709,13 +7709,6 @@
 "name": "Army Standards",
 "LastModified": "09/25/2019 08:25:20",
 "Key": "content/cos/nwo/chapels/Library/Army Standards",
-"extension": "",
-"Size": ""
-},
-{
-"name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:25:20",
-"Key": "content/cos/nwo/chapels/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
@@ -7767,69 +7760,6 @@
 "Key": "content/cos/nwo/chapels/Library/Army Standards/initial-entry-training-chapel.pdf",
 "extension": ".pdf",
 "Size": "1079689"
-},
-{
-"name": "chapel-basic_large_fy20.pdf",
-"LastModified": "06/28/2018 11:33:55",
-"Key": "content/cos/nwo/chapels/Library/DD1391 Templates/chapel-basic_large_fy20.pdf",
-"extension": ".pdf",
-"Size": "26539"
-},
-{
-"name": "chapel-basic_medium_fy20.pdf",
-"LastModified": "06/28/2018 11:34:21",
-"Key": "content/cos/nwo/chapels/Library/DD1391 Templates/chapel-basic_medium_fy20.pdf",
-"extension": ".pdf",
-"Size": "26552"
-},
-{
-"name": "chapel-basic_small_fy20.pdf",
-"LastModified": "06/28/2018 11:30:04",
-"Key": "content/cos/nwo/chapels/Library/DD1391 Templates/chapel-basic_small_fy20.pdf",
-"extension": ".pdf",
-"Size": "26489"
-},
-{
-"name": "chapel-compact_large_fy20.pdf",
-"LastModified": "06/28/2018 11:31:10",
-"Key": "content/cos/nwo/chapels/Library/DD1391 Templates/chapel-compact_large_fy20.pdf",
-"extension": ".pdf",
-"Size": "24362"
-},
-{
-"name": "chapel-compact_medium_fy20.pdf",
-"LastModified": "06/28/2018 11:31:43",
-"Key": "content/cos/nwo/chapels/Library/DD1391 Templates/chapel-compact_medium_fy20.pdf",
-"extension": ".pdf",
-"Size": "24135"
-},
-{
-"name": "chapel-compact_small_fy20.pdf",
-"LastModified": "06/28/2018 11:32:12",
-"Key": "content/cos/nwo/chapels/Library/DD1391 Templates/chapel-compact_small_fy20.pdf",
-"extension": ".pdf",
-"Size": "24112"
-},
-{
-"name": "chapel-enhanced_large_fy20.pdf",
-"LastModified": "06/28/2018 11:32:40",
-"Key": "content/cos/nwo/chapels/Library/DD1391 Templates/chapel-enhanced_large_fy20.pdf",
-"extension": ".pdf",
-"Size": "26514"
-},
-{
-"name": "chapel-enhanced_medium_fy20.pdf",
-"LastModified": "06/28/2018 11:33:06",
-"Key": "content/cos/nwo/chapels/Library/DD1391 Templates/chapel-enhanced_medium_fy20.pdf",
-"extension": ".pdf",
-"Size": "24135"
-},
-{
-"name": "chapel-enhanced_small_fy20.pdf",
-"LastModified": "06/28/2018 11:33:27",
-"Key": "content/cos/nwo/chapels/Library/DD1391 Templates/chapel-enhanced_small_fy20.pdf",
-"extension": ".pdf",
-"Size": "26536"
 },
 {
 "name": "end-state-technical-review-i-final-eglin-afb.pdf",
@@ -8050,7 +7980,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:22",
+"LastModified": "07/12/2023 09:06:04",
 "Key": "content/cos/nwo/flc/Library",
 "extension": "",
 "Size": ""
@@ -8059,13 +7989,6 @@
 "name": "Army Standards",
 "LastModified": "09/25/2019 08:25:22",
 "Key": "content/cos/nwo/flc/Library/Army Standards",
-"extension": "",
-"Size": ""
-},
-{
-"name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:25:22",
-"Key": "content/cos/nwo/flc/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
@@ -8103,13 +8026,6 @@
 "Key": "content/cos/nwo/flc/Library/Army Standards/100415 Chaplain Family Life Centers.pdf",
 "extension": ".pdf",
 "Size": "594303"
-},
-{
-"name": "chaplain-fam-life-cntr-w-add-ons_fy20.pdf",
-"LastModified": "06/28/2018 11:34:54",
-"Key": "content/cos/nwo/flc/Library/DD1391 Templates/chaplain-fam-life-cntr-w-add-ons_fy20.pdf",
-"extension": ".pdf",
-"Size": "20346"
 },
 {
 "name": "end-state-technical-review-i-final-fort-hood.pdf",
@@ -8155,7 +8071,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/26/2019 13:15:19",
+"LastModified": "07/12/2023 09:06:39",
 "Key": "content/cos/nwo/iet/Library",
 "extension": "",
 "Size": ""
@@ -8245,13 +8161,6 @@
 "Size": ""
 },
 {
-"name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:25:23",
-"Key": "content/cos/nwo/iet/Library/DD1391 Templates",
-"extension": "",
-"Size": ""
-},
-{
 "name": "Misc. Documents",
 "LastModified": "09/25/2019 08:25:23",
 "Key": "content/cos/nwo/iet/Library/Misc. Documents",
@@ -8278,13 +8187,6 @@
 "Key": "content/cos/nwo/iet/Library/Army Standards/initial-entry-training-chapel.pdf",
 "extension": ".pdf",
 "Size": "1382752"
-},
-{
-"name": "iet-chapel_fy20.pdf",
-"LastModified": "06/28/2018 11:35:20",
-"Key": "content/cos/nwo/iet/Library/DD1391 Templates/iet-chapel_fy20.pdf",
-"extension": ".pdf",
-"Size": "18392"
 },
 {
 "name": "FINAL - IET CHAPEL ACOUSTICS REPORT APPENDIX.pdf",
@@ -8337,7 +8239,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:26",
+"LastModified": "07/12/2023 09:07:11",
 "Key": "content/cos/nwo/ref/Library",
 "extension": "",
 "Size": ""
@@ -8346,13 +8248,6 @@
 "name": "Army Standards",
 "LastModified": "09/25/2019 08:25:24",
 "Key": "content/cos/nwo/ref/Library/Army Standards",
-"extension": "",
-"Size": ""
-},
-{
-"name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:25:24",
-"Key": "content/cos/nwo/ref/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
@@ -8390,27 +8285,6 @@
 "Key": "content/cos/nwo/ref/Library/Army Standards/Religious Education Facilities.pdf",
 "extension": ".pdf",
 "Size": "792043"
-},
-{
-"name": "religious_education_fac_large_fy20.pdf",
-"LastModified": "06/28/2018 11:35:46",
-"Key": "content/cos/nwo/ref/Library/DD1391 Templates/religious_education_fac_large_fy20.pdf",
-"extension": ".pdf",
-"Size": "20494"
-},
-{
-"name": "religious_education_fac_med_fy20.pdf",
-"LastModified": "06/28/2018 11:36:03",
-"Key": "content/cos/nwo/ref/Library/DD1391 Templates/religious_education_fac_med_fy20.pdf",
-"extension": ".pdf",
-"Size": "21549"
-},
-{
-"name": "religious_education_fac_small_fy20.pdf",
-"LastModified": "06/28/2018 11:36:19",
-"Key": "content/cos/nwo/ref/Library/DD1391 Templates/religious_education_fac_small_fy20.pdf",
-"extension": ".pdf",
-"Size": "20479"
 },
 {
 "name": "end-state-technical-review-i-final-fort-hood.pdf",
@@ -16415,10 +16289,10 @@
 },
 {
 "name": "Instructions for FY27 Army MILCON Code 2.pdf",
-"LastModified": "07/07/2023 13:24:00",
+"LastModified": "07/10/2023 09:55:00",
 "Key": "content/PDRS/FY27 Guidance & Templates/Instructions for FY27 Army MILCON Code 2.pdf",
 "extension": ".pdf",
-"Size": "1577399"
+"Size": "1088555"
 },
 {
 "name": "CX-KR Documents",
