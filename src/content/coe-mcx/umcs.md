@@ -7,7 +7,7 @@ center_type: MCX
 website: https://www.hnc.usace.army.mil/Media/Fact-Sheets/Fact-Sheet-Article-View/Article/482088/utilities-monitoring-and-control-systems/
 center_poc_name: Eric Lynch
 center_poc_phone_number: ☎ (256) 895-1739
-hq_poc_name: Tim Gordon
+hq_poc_name: Chris Battisti
 hq_division: E&C
 er_number: ER 1110-1-8163
 er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_1110-1-8163.pdf?ver=XOncaKeMOapxJ1jWZRuCXw%3d%3d
