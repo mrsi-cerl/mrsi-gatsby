@@ -8,7 +8,7 @@
   },
   {
     "startDate": "08:00  07/18/2023",
-    "endDate": "18:00  07/18/2023",
+    "endDate": "11:00  07/18/2023",
     "message": "Network access to our facility is down. Due to this, the MRSI suite of applications (MILCON D-B, Small Projects, and PDRS wizards) and the COS file libraries on this site are not available until network access can be restored. Sorry for the inconvenience.",
     "level": "info",
     "title": "Network Outage"
