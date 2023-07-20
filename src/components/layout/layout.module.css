@@ -10,12 +10,12 @@
 
 @media (min-width: 64em) {
   .mainWithSideNav {
-    width: calc(100% - 15rem);
-    /* max-width: 700px; */
+    width: calc(100% - 25rem);
+    /* max-width: 900px; */
     display: inline-block;
   }
   .sideNav {
-    width: 15rem;
+    width: 25rem;
     float: left;
     display: block;
   }

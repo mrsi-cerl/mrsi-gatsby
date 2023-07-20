@@ -1,34 +1,44 @@
-import React from "react"
-import { graphql } from "gatsby"
-import Layout from "../../../components/layout/layout"
-import { Accordion, AccordionButton, AccordionContent } from "uswds-react"
+import { Accordion } from "@trussworks/react-uswds";
+import { graphql } from "gatsby";
+import React from "react";
+import Layout from "../../../components/layout/layout";
+import Seo from "../../../components/seo";
 
-const SustainEvents = ({ data }) => {
+const SustainEvents = ( { data } ) => {
   const news = data.allMarkdownRemark.edges.filter(
     e => e.node.frontmatter.doc_type === "sustain_events"
-  )
+  );
+
+  const events = news.map( ( e, idx ) => {
+    const content =
+      <div
+        className={ "md" }
+        dangerouslySetInnerHTML={ { __html: e.node.html } }
+      />;
+
+    return (
+      {
+        title: e.node.frontmatter.title,
+        content: content,
+        expdanded: false,
+        id: `sustain-events-section-${idx}`,
+        headingLevel: 'h4'
+      }
+    );
+  } );
 
   return (
-    <Layout path="/sustain/events" MaxWidth={700} centerContent>
+    <Layout path="/sustain/events" centerContent MaxWidth={ 900 }>
       <h1>Sustainability Events</h1>
-      {news.map((e, idx) => (
-        <Accordion key={idx}>
-          <AccordionButton controls={`sustain-events-section-${idx}`}>
-            {e.node.frontmatter.title}
-          </AccordionButton>
-          <AccordionContent id={`sustain-events-section-${idx}`}>
-            <div
-              className={"md"}
-              dangerouslySetInnerHTML={{ __html: e.node.html }}
-            />
-          </AccordionContent>
-        </Accordion>
-      ))}
-    </Layout>
-  )
-}
+      { events && events.length > 0 ?
+        <Accordion bordered={ false } multiselectable={ true } items={ events } />
+    : "There are no events scheduled" }
 
-export default SustainEvents
+    </Layout>
+  );
+};
+
+export default SustainEvents;
 
 export const query = graphql`
   query {
@@ -45,4 +55,6 @@ export const query = graphql`
       }
     }
   }
-`
+`;
+
+export const Head = () => <Seo title="Sustain Events" />;

@@ -1,6 +1,7 @@
-import React from "react"
-import Layout from "../../../components/layout/layout"
-import { Link, graphql } from "gatsby"
+import { Link, graphql } from "gatsby";
+import React from "react";
+import Layout from "../../../components/layout/layout";
+import Seo from "../../../components/seo";
 
 const SustainWebinars = ({ data }) => {
   const webinars = data.allMarkdownRemark.edges.filter(
@@ -16,7 +17,7 @@ const SustainWebinars = ({ data }) => {
   // console.log(webinars)
 
   return (
-    <Layout path="/sustain/webinars" MaxWidth={700} centerContent>
+    <Layout path="/sustain/webinars" centerContent MaxWidth={ 900 }>
       <h1>Sustainability Webinars</h1>
       <ul>
         {webinars.map((e, idx) => (
@@ -51,3 +52,5 @@ export const query = graphql`
     }
   }
 `
+
+export const Head = () => <Seo title="Webinars" />;

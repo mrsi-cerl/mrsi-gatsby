@@ -7,6 +7,10 @@
   width: 100%;
 }
 
+.mrsiFooter p {
+  max-width: 100%;
+}
+
 .mrsiFooter a:link, .mrsiFooter a:visited, .mrsiFooter a:active {
   color: gray;
   text-decoration: none;

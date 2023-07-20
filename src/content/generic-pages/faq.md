@@ -20,7 +20,7 @@ Our applications are delivered as Microsoft ClickOnce applications and install o
 #### Which web browser should I use?
 While our website should be compatible with any modern web browser, our Wizard applications require that you use Microsoft Edge to launch them. We use Microsoft's ClickOnce technology for the deployment of our Wizard applications to your desktop.
 
-Neither Chrome nor Firefox support this technology out-of-the-box. They do, however  have plugins/extensions available that enable this capability. *Note that you must have the ability to install plugins/extensions to use this option. Most government employees do not have the permissions required to do this.*
+*Neither Chrome nor Firefox support this technology.*
 
 #### Some Organizations may block ClickOnce applications from executing
 You will usually get a message that says the application failed to run or open. There is probably a "Details" button that when clicked will open up a box with more information. Please click that, select all of the message text, and send that to us for confirmation.

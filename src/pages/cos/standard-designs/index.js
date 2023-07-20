@@ -1,72 +1,75 @@
-import React from "react"
-import { graphql } from "gatsby"
-import Layout from "../../../components/layout/layout"
-import { Accordion, AccordionButton, AccordionContent } from "uswds-react"
-import Library from "../../../components/library/library"
+import { Accordion } from "@trussworks/react-uswds";
+import { graphql } from "gatsby";
+import React from "react";
+import Layout from "../../../components/layout/layout";
+import Library from "../../../components/library/library";
+import Seo from "../../../components/seo";
 
-const StandardDesigns = ({ data }) => {
+const StandardDesigns = ( { data } ) => {
   const facilities = data.allMarkdownRemark.edges.filter(
     e =>
       e.node.frontmatter.doc_type === "facility_page" &&
       !e.node.frontmatter.draft
-  )
-  facilities.sort((a, b) => {
+  );
+  facilities.sort( ( a, b ) => {
     if (
       a.node.frontmatter.facility_long_name <
       b.node.frontmatter.facility_long_name
     ) {
-      return -1
+      return -1;
     } else {
-      return 1
+      return 1;
     }
-  })
+  } );
 
   const hasFiles = path => {
-    let count = 0
-    for (var i = 0; i < data.allS3ListBucketJson.nodes.length; i++) {
-      if (data.allS3ListBucketJson.nodes[i].Key.includes(path)) {
-        count = count + 1
+    let count = 0;
+    for ( var i = 0; i < data.allS3ListBucketJson.nodes.length; i++ ) {
+      if ( data.allS3ListBucketJson.nodes[ i ].Key.includes( path ) ) {
+        count = count + 1;
       }
     }
 
-    if (count > 0) {
-      return true
+    if ( count > 0 ) {
+      return true;
     }
-    return false
-  }
+    return false;
+  };
+
+  const names = facilities.map( ( f ) => {
+    const content =
+      hasFiles(
+        f.node.frontmatter.file_library_root_path + "Standard Designs/"
+      ) ? (
+        <Library
+          hideBC
+          hideTitle
+          rootDir={
+            f.node.frontmatter.file_library_root_path + "Standard Designs/"
+          }
+        />
+      ) : <span><b>No files are available for this facility type</b></span>;
+
+    return (
+      {
+        title: f.node.frontmatter.facility_long_name,
+        content: content,
+        expdanded: false,
+        id: f.node.frontmatter.facility_short_name,
+        headingLevel: 'h4'
+      }
+    );
+  } );
 
   return (
-    <Layout path="/cos/standard-designs" MaxWidth={700} centerContent>
-      <h1>USACE Standard Designs</h1>
-      {facilities.map((e, idx) =>
-        hasFiles(
-          e.node.frontmatter.file_library_root_path + "Standard Designs/"
-        ) ? (
-          <Accordion key={e.node.frontmatter.facility_short_name}>
-            <AccordionButton controls={`sd-section-${idx}`}>
-              {e.node.frontmatter.facility_long_name +
-                " (" +
-                e.node.frontmatter.facility_short_name +
-                ")"}
-            </AccordionButton>
-            <AccordionContent id={`sd-section-${idx}`}>
-              <Library
-                hideBC
-                hideTitle
-                rootDir={
-                  e.node.frontmatter.file_library_root_path +
-                  "Standard Designs/"
-                }
-              />
-            </AccordionContent>
-          </Accordion>
-        ) : null
-      )}
+    <Layout path="/cos/standard-designs" centerContent MaxWidth={ 900 }>
+      <h1>Standard Designs</h1>
+      <Accordion bordered={ false } multiselectable={ true } items={ names } />
     </Layout>
-  )
-}
+  );
+};
 
-export default StandardDesigns
+export default StandardDesigns;
 
 export const query = graphql`
   query {
@@ -94,4 +97,6 @@ export const query = graphql`
       }
     }
   }
-`
+`;
+
+export const Head = () => <Seo title="Standard Designs" />;

@@ -1,15 +1,16 @@
-import React from "react"
-import { graphql, Link } from "gatsby"
-import Layout from "../../../components/layout/layout"
+import { graphql, Link } from "gatsby";
+import React from "react";
+import Layout from "../../../components/layout/layout";
+import Seo from "../../../components/seo";
 
-function compare(a, b) {
-  if (a.facility_long_name < b.facility_long_name) {
-    return -1
+function compare ( a, b ) {
+  if ( a.facility_long_name < b.facility_long_name ) {
+    return -1;
   }
-  if (a.facility_long_name > b.facility_long_name) {
-    return 1
+  if ( a.facility_long_name > b.facility_long_name ) {
+    return 1;
   }
-  return 0
+  return 0;
 }
 
 const getAllFacilities = data =>
@@ -17,44 +18,44 @@ const getAllFacilities = data =>
     edge =>
       edge.node.frontmatter.doc_type === "facility_page" &&
       !edge.node.frontmatter.draft
-  )
+  );
 
-const getCOSForFacility = (data, cos) =>
+const getCOSForFacility = ( data, cos ) =>
   data.allMarkdownRemark.edges.filter(
     edge => edge.node.frontmatter.cos_short_name === cos
-  )[0].node
+  )[ 0 ].node;
 
 const getTableData = data => {
   // first get all the facilities
-  const facilities = getAllFacilities(data)
+  const facilities = getAllFacilities( data );
 
-  const tableData = []
+  const tableData = [];
 
   // for each facility get cos info and add to table info
-  facilities.forEach(e => {
-    const row = {}
+  facilities.forEach( e => {
+    const row = {};
     const cos = getCOSForFacility(
       data,
       e.node.frontmatter.facility_cos_short_name
-    )
-    row.cos_slug = cos.frontmatter.slug
-    row.cos_manager_email = cos.frontmatter.cos_manager_email
-    row.cos_manager_name = cos.frontmatter.cos_manager_name
-    row.facility_long_name = e.node.frontmatter.facility_long_name
-    row.facility_slug = e.node.frontmatter.slug
-    row.cos_short_name = e.node.frontmatter.facility_cos_short_name
-    row.technical_poc_email = e.node.frontmatter.facility_technical_poc_email
-    row.technical_poc_name = e.node.frontmatter.facility_technical_poc_name
-    tableData.push(row)
-  })
-  return tableData
-}
+    );
+    row.cos_slug = cos.frontmatter.slug;
+    row.cos_manager_email = cos.frontmatter.cos_manager_email;
+    row.cos_manager_name = cos.frontmatter.cos_manager_name;
+    row.facility_long_name = e.node.frontmatter.facility_long_name;
+    row.facility_slug = e.node.frontmatter.slug;
+    row.cos_short_name = e.node.frontmatter.facility_cos_short_name;
+    row.technical_poc_email = e.node.frontmatter.facility_technical_poc_email;
+    row.technical_poc_name = e.node.frontmatter.facility_technical_poc_name;
+    tableData.push( row );
+  } );
+  return tableData;
+};
 
-const CosPoc = ({ data }) => {
-  const tableData = getTableData(data)
-  tableData.sort(compare)
+const CosPoc = ( { data } ) => {
+  const tableData = getTableData( data );
+  tableData.sort( compare );
   return (
-    <Layout path="/cos/poc" MaxWidth={700} centerContent>
+    <Layout path="/cos/poc" centerContent MaxWidth={ 900 }>
       <h1>COS Points of Contact</h1>
       <table className="usa-table">
         <thead>
@@ -66,31 +67,31 @@ const CosPoc = ({ data }) => {
           </tr>
         </thead>
         <tbody>
-          {tableData.map((e, idx) => (
-            <tr key={idx}>
+          { tableData.map( ( e, idx ) => (
+            <tr key={ idx }>
               <td>
-                <Link to={e.facility_slug}> {e.facility_long_name}</Link>
+                <Link to={ e.facility_slug }> { e.facility_long_name }</Link>
               </td>
               <td>
-                <Link to={e.cos_slug}>{e.cos_short_name}</Link>
+                <Link to={ e.cos_slug }>{ e.cos_short_name }</Link>
               </td>
               <td>
-                <a href={"mailto:" + e.cos_manager_email}>
-                  {e.cos_manager_name}
+                <a href={ "mailto:" + e.cos_manager_email }>
+                  { e.cos_manager_name }
                 </a>
               </td>
               <td>
-                <a href={"mailto:" + e.technical_poc_email}>
-                  {e.technical_poc_name}
+                <a href={ "mailto:" + e.technical_poc_email }>
+                  { e.technical_poc_name }
                 </a>
               </td>
             </tr>
-          ))}
+          ) ) }
         </tbody>
       </table>
     </Layout>
-  )
-}
+  );
+};
 
 export const query = graphql`
   query {
@@ -116,6 +117,8 @@ export const query = graphql`
       }
     }
   }
-`
+`;
 
-export default CosPoc
+export default CosPoc;
+
+export const Head = () => <Seo title="COS POC" />;

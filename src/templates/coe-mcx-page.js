@@ -1,130 +1,131 @@
-import React from "react"
-import { graphql } from "gatsby"
-import Layout from "../components/layout/layout"
-import Library from "../components/library/library"
-import MrsiTable from "../components/mrsi-table"
+import { graphql } from "gatsby";
+import React from "react";
+import Layout from "../components/layout/layout";
+import Library from "../components/library/library";
+import MrsiTable from "../components/mrsi-table";
+import Seo from "../components/seo";
 
-function getData(slug, data) {
+function getData ( slug, data ) {
   // find the center that matches this page's slug
   const mcx = data.allMarkdownRemark.edges.filter(
     edge => edge.node.frontmatter.slug === slug
-  )[0].node
+  )[ 0 ].node;
 
   return {
     mcx
-  }
+  };
 }
 
-export default ({ data, pageContext }) => {
-  const { mcx } = getData(pageContext.slug, data);
+const CoeMcxPage = ( { data, pageContext } ) => {
+  const { mcx } = getData( pageContext.slug, data );
   // console.log(mcx)
   const tableData = [
     {
-        title: "Place of Center",
-        value: mcx.frontmatter.place_of_center,
+      title: "Place of Center",
+      value: mcx.frontmatter.place_of_center,
     },
     {
       title: "Website",
       value: (
-        <a href={mcx.frontmatter.website} target="_blank" rel="noopener noreferrer">
-            {mcx.frontmatter.title.length > 50 ? mcx.frontmatter.title.slice(0, 50) + "..." : mcx.frontmatter.title}
+        <a href={ mcx.frontmatter.website } target="_blank" rel="noopener noreferrer">
+          { mcx.frontmatter.title.length > 50 ? mcx.frontmatter.title.slice( 0, 50 ) + "..." : mcx.frontmatter.title }
         </a>
       )
     },
     {
       title: "Center POC",
       value: (
-        mcx.frontmatter.slug.toLowerCase() == "/coe/mcx/cfstd"
-        ?
+        mcx.frontmatter.slug.toLowerCase() === "/coe/mcx/cfstd"
+          ?
           <div>
-            Varies <br/>
+            Varies <br />
             See <a href="../../cos/poc" target="_blank" rel="noopener noreferrer">COS POC</a> page
           </div>
-        :
-          <a  style={{textDecoration: 'none', color: 'black'}} 
+          :
+          <a style={ { textDecoration: 'none', color: 'black' } }
             href={
               "tel:" +
-              (mcx.frontmatter.center_poc_phone_number)
+              ( mcx.frontmatter.center_poc_phone_number )
             }
           >
-            {mcx.frontmatter.center_poc_name} <br/>
-            {mcx.frontmatter.center_poc_phone_number}
+            { mcx.frontmatter.center_poc_name } <br />
+            { mcx.frontmatter.center_poc_phone_number }
           </a>
       )
-  },
-  {
-        title: "HQ POC",
-        value: mcx.frontmatter.hq_poc_name
     },
     {
-        title: "HQ Div",
-        value: mcx.frontmatter.hq_division
+      title: "HQ POC",
+      value: mcx.frontmatter.hq_poc_name
     },
     {
-        title: "ER Number",
-        value: (
-              mcx.frontmatter.er_number.toLowerCase() == "No ER established yet".toLowerCase()
-                ?
-                  "No ER established yet"
-                :
-                  <a href={mcx.frontmatter.er_link} target="_blank" rel="noopener noreferrer">
-                    {mcx.frontmatter.er_number}
-                  </a>
-        )
-        },
-    {
-        title: "Publication Date of ER",
-        value: mcx.frontmatter.er_publication_date
+      title: "HQ Div",
+      value: mcx.frontmatter.hq_division
     },
     {
-        title: "Date of Activation",
-        value: mcx.frontmatter.activation_date
+      title: "ER Number",
+      value: (
+        mcx.frontmatter.er_number.toLowerCase() === "No ER established yet".toLowerCase()
+          ?
+          "No ER established yet"
+          :
+          <a href={ mcx.frontmatter.er_link } target="_blank" rel="noopener noreferrer">
+            { mcx.frontmatter.er_number }
+          </a>
+      )
     },
     {
-        title: "Recertification Date",
-        value: mcx.frontmatter.recertification_date
+      title: "Publication Date of ER",
+      value: mcx.frontmatter.er_publication_date
+    },
+    {
+      title: "Date of Activation",
+      value: mcx.frontmatter.activation_date
+    },
+    {
+      title: "Recertification Date",
+      value: mcx.frontmatter.recertification_date
     },
     {
       title: "Functional Proponent (SES)",
       value: (
-          // This is a fix for a corner case wherein there are two functional proponents with clariying text,
-          // thereby making the text too long and the table too wide. Using two commas and a space (name1,, name2)
-          // to separate the two names allows for a line break to be inserted--but just once!
-          mcx.frontmatter.center_functional_proponent.indexOf(",,") > 0
-              ?
-              <div>
-                {mcx.frontmatter.center_functional_proponent.slice(0, mcx.frontmatter.center_functional_proponent.indexOf(",,"))} <br/>
-                {mcx.frontmatter.center_functional_proponent.slice(mcx.frontmatter.center_functional_proponent.indexOf(",,") + 2, 100)}
-              </div>
-              :
-                mcx.frontmatter.center_functional_proponent
-    ) 
-  },
-  {
-    title: "Keywords",
-    value: mcx.frontmatter.keywords
-  },
-]
+        // This is a fix for a corner case wherein there are two functional proponents with clariying text,
+        // thereby making the text too long and the table too wide. Using two commas and a space (name1,, name2)
+        // to separate the two names allows for a line break to be inserted--but just once!
+        mcx.frontmatter.center_functional_proponent.indexOf( ",," ) > 0
+          ?
+          <div>
+            { mcx.frontmatter.center_functional_proponent.slice( 0, mcx.frontmatter.center_functional_proponent.indexOf( ",," ) ) } <br />
+            { mcx.frontmatter.center_functional_proponent.slice( mcx.frontmatter.center_functional_proponent.indexOf( ",," ) + 2, 100 ) }
+          </div>
+          :
+          mcx.frontmatter.center_functional_proponent
+      )
+    },
+    {
+      title: "Keywords",
+      value: mcx.frontmatter.keywords
+    },
+  ];
 
   return (
-    <Layout path={pageContext.slug} MaxWidth={700} centerContent>
-      <div style={{ paddingLeft: 20 }}>
-        <h1>{mcx.frontmatter.name_of_center}</h1>
+    <Layout path={ pageContext.slug } centerContent MaxWidth={ 900 }>
+      <div style={ { paddingLeft: 20 } }>
+        <h1>{ mcx.frontmatter.name_of_center }</h1>
         <div className="grid-row">
-        <div className="tablet:grid-col" style={{ whiteSpace: 'nowrap' }}>
-            <MrsiTable data={tableData} />
+          <div className="tablet:grid-col" style={ { whiteSpace: 'nowrap' } }>
+            <MrsiTable data={ tableData } />
           </div>
         </div>
 
         <div
-          className={"md"}
-          dangerouslySetInnerHTML={{ __html: mcx.html }}
+          className={ "md" }
+          dangerouslySetInnerHTML={ { __html: mcx.html } }
         />
-        <Library rootDir={mcx.frontmatter.file_library_root_path} />
+        <Library rootDir={ mcx.frontmatter.file_library_root_path } />
       </div>
     </Layout>
-  )
-}
+  );
+};
 
 export const query = graphql`
   query {
@@ -158,4 +159,8 @@ export const query = graphql`
       }
     }
   }
-`
+`;
+
+export default CoeMcxPage;
+
+export const Head = () => <Seo title="Mandatory Centers of Expertise" />;

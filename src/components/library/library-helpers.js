@@ -30,7 +30,6 @@ function fullpath2pathname(path) {
 function ls(rootDir, dir, data) {
   // filter everything except direct descendants of this dir
   const new_data = data.allS3ListBucketJson.nodes.filter(e => {
-    //return e.Key.startsWith(dir)
     const isFileInDir = fullpath2pathname(e.Key) === dir && e.Key !== dir
     const isDirInDir =
       isfolder(e.Size, e.extension) &&

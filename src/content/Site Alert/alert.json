@@ -7,9 +7,9 @@
     "title": "MRSI Wizard Outage"
   },
   {
-    "startDate": "08:00  07/18/2023",
-    "endDate": "11:00  07/18/2023",
-    "message": "Network access to our facility is down. Due to this, the MRSI suite of applications (MILCON D-B, Small Projects, and PDRS wizards) and the COS file libraries on this site are not available until network access can be restored. Sorry for the inconvenience.",
+    "startDate": "15:00  07/10/2023",
+    "endDate": "23:05  07/11/2023",
+    "message": "A fiber cable has been cut that provides network access to our facility. Due to this, The MRSI suite of applications (MILCON D-B, Small Projects, and PDRS wizards) and the COS file libraries on this site are not available until network access can be restored. Sorry for any inconvenience.",
     "level": "info",
     "title": "Network Outage"
   },

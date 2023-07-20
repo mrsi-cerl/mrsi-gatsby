@@ -1,28 +1,29 @@
-import { graphql, Link } from "gatsby"
-import React from "react"
-import Table from "react-bootstrap/Table"
+import { graphql, Link } from "gatsby";
+import React from "react";
+import Table from "react-bootstrap/Table";
+import Seo from "../../../components/seo";
 
-import Layout from "../../../components/layout/layout"
+import Layout from "../../../components/layout/layout";
 
-const ArmyStandards = ({ data }) => {
+const ArmyStandards = ( { data } ) => {
   const facilities = data.allMarkdownRemark.edges.filter(
     e =>
       e.node.frontmatter.doc_type === "facility_page" &&
       !e.node.frontmatter.draft
-  )
-  facilities.sort((a, b) => {
+  );
+  facilities.sort( ( a, b ) => {
     if (
       a.node.frontmatter.facility_long_name <
       b.node.frontmatter.facility_long_name
     ) {
-      return -1
+      return -1;
     } else {
-      return 1
+      return 1;
     }
-  })
+  } );
 
   return (
-    <Layout path="/cos/facilities" MaxWidth={700} centerContent>
+    <Layout path="/cos/facilities" centerContent MaxWidth={ 900 }>
       <h1>Facilities</h1>
       <Table className="usa-table" hover>
         <thead>
@@ -35,40 +36,40 @@ const ArmyStandards = ({ data }) => {
           </tr>
         </thead>
         <tbody>
-          {facilities.map((e, idx) => (
+          { facilities.map( ( e, idx ) => (
             <tr>
               <td>
-                <Link to={e.node.frontmatter.slug}>
-                  {e.node.frontmatter.facility_long_name}
+                <Link to={ e.node.frontmatter.slug }>
+                  { e.node.frontmatter.facility_long_name }
                 </Link>
               </td>
-              <td>{e.node.frontmatter.facility_category_codes.join(", ")}</td>
-              <td>{e.node.frontmatter.facility_functional_proponent}</td>
+              <td>{ e.node.frontmatter.facility_category_codes.join( ", " ) }</td>
+              <td>{ e.node.frontmatter.facility_functional_proponent }</td>
               <td>
                 <Link
-                  to={`/cos/${e.node.frontmatter.facility_cos_short_name.toLowerCase()}`}
+                  to={ `/cos/${e.node.frontmatter.facility_cos_short_name.toLowerCase()}` }
                 >
-                  {e.node.frontmatter.facility_cos_short_name}
+                  { e.node.frontmatter.facility_cos_short_name }
                 </Link>
               </td>
               <td>
-                {e.node.frontmatter.carousel_images ? (
+                { e.node.frontmatter.carousel_images ? (
                   <img
-                    style={{ maxWidth: 113 }}
-                    src={e.node.frontmatter.carousel_images[0]}
+                    style={ { maxWidth: 113 } }
+                    src={ e.node.frontmatter.carousel_images[ 0 ] }
                     alt="example of the facility"
                   ></img>
-                ) : null}
+                ) : null }
               </td>
             </tr>
-          ))}
+          ) ) }
         </tbody>
       </Table>
     </Layout>
-  )
-}
+  );
+};
 
-export default ArmyStandards
+export default ArmyStandards;
 
 export const query = graphql`
   query {
@@ -92,4 +93,6 @@ export const query = graphql`
       }
     }
   }
-`
+`;
+
+export const Head = () => <Seo title="Facilities" />;

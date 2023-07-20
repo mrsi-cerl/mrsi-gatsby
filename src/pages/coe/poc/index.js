@@ -1,31 +1,32 @@
-import React from "react"
-import { graphql, Link } from "gatsby"
-import Layout from "../../../components/layout/layout"
+import { graphql, Link } from "gatsby";
+import React from "react";
+import Layout from "../../../components/layout/layout";
+import Seo from "../../../components/seo";
 
 const getTableData = data => {
   const coe_pages = data.allMarkdownRemark.edges.filter(
     edge =>
       edge.node.frontmatter.doc_type === "coe_ctx_page" ||
       edge.node.frontmatter.doc_type === "coe_mcx_page"
-  )
+  );
 
-  coe_pages.sort((a, b) => {
-    if (a.node.frontmatter.title < b.node.frontmatter.title) {
-      return -1
+  coe_pages.sort( ( a, b ) => {
+    if ( a.node.frontmatter.title < b.node.frontmatter.title ) {
+      return -1;
     }
-    if (a.node.frontmatter.title > b.node.frontmatter.title) {
-      return 1
+    if ( a.node.frontmatter.title > b.node.frontmatter.title ) {
+      return 1;
     }
-    return 0
-  })
+    return 0;
+  } );
 
-  return coe_pages
-}
+  return coe_pages;
+};
 
-const CoePOC = ({ data }) => {
-  const tableData = getTableData(data)
+const CoePOC = ( { data } ) => {
+  const tableData = getTableData( data );
   return (
-    <Layout path="/coe/poc" MaxWidth={700} centerContent>
+    <Layout path="/coe/poc" centerContent MaxWidth={ 900 }>
       <h1>Centers of Expertise (CX) Points of Contact</h1>
       <table className="usa-table">
         <thead>
@@ -37,44 +38,44 @@ const CoePOC = ({ data }) => {
           </tr>
         </thead>
         <tbody>
-          {tableData.map((e, idx) => (
-            <tr key={idx}>
+          { tableData.map( ( e, idx ) => (
+            <tr key={ idx }>
               <td>
-                <Link to={e.node.frontmatter.slug}>
-                {e.node.frontmatter.title.length > 50 ? e.node.frontmatter.title.slice(0, 50) + "..." : e.node.frontmatter.title}
+                <Link to={ e.node.frontmatter.slug }>
+                  { e.node.frontmatter.title.length > 50 ? e.node.frontmatter.title.slice( 0, 50 ) + "..." : e.node.frontmatter.title }
                 </Link>
               </td>
               <td>
-                <a href={e.node.frontmatter.website} target="_blank" rel="noopener noreferrer">
-                  {" "}
-                  {e.node.frontmatter.place_of_center}
+                <a href={ e.node.frontmatter.website } target="_blank" rel="noopener noreferrer">
+                  { " " }
+                  { e.node.frontmatter.place_of_center }
                 </a>
               </td>
-              {e.node.frontmatter.slug.toLowerCase() == "/coe/mcx/cfstd"
+              { e.node.frontmatter.slug.toLowerCase() === "/coe/mcx/cfstd"
                 ?
-                <td colspan={'2'} style={{ textAlign: 'center' }}>
+                <td colspan={ '2' } style={ { textAlign: 'center' } }>
                   <div>
                     Varies, see <a href="../../cos/poc" target="_blank" rel="noopener noreferrer">COS Points of Contact</a> page
                   </div>
                 </td>
                 :
                 <><td>
-                  {e.node.frontmatter.center_poc_name}
-                  </td><td style={{ whiteSpace: 'nowrap' }}>
-                    <a href={"tel:" + e.node.frontmatter.center_poc_phone_number}>
-                      {e.node.frontmatter.center_poc_phone_number}
+                  { e.node.frontmatter.center_poc_name }
+                </td><td style={ { whiteSpace: 'nowrap' } }>
+                    <a href={ "tel:" + e.node.frontmatter.center_poc_phone_number }>
+                      { e.node.frontmatter.center_poc_phone_number }
                     </a>
                   </td></>
-                }
+              }
             </tr>
-          ))}
+          ) ) }
         </tbody>
       </table>
     </Layout>
-  )
-}
+  );
+};
 
-export default CoePOC
+export default CoePOC;
 
 export const query = graphql`
 query {
@@ -109,3 +110,4 @@ query {
 }
 `
 
+export const Head = () => <Seo title="CX POC" />;

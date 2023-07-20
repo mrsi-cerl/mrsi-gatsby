@@ -1,38 +1,34 @@
-import React from "react"
-import { graphql, Link } from "gatsby"
-import Layout from "../components/layout/layout"
-import YouTube from "react-youtube"
+import { graphql, Link } from "gatsby";
+import React from "react";
+import YouTube from "react-youtube";
+import Layout from "../components/layout/layout";
+import Seo from "../components/seo";
 
-export default ({ data, pageContext }) => {
+const SustainWebinarPage = ( { data, pageContext } ) => {
   const pageData = data.allMarkdownRemark.edges.filter(
     edge => edge.node.frontmatter.slug === pageContext.slug
-  )[0].node
-
-  // const opts = {
-  //   height: "390",
-  //   width: "640",
-  // }
+  )[ 0 ].node;
 
   return (
-    <Layout path={pageContext.slug} MaxWidth={700} centerContent>
-      <Link to={"/sustain/webinars"}> ← Back to all Webinars</Link>
-      <h1>{pageData.frontmatter.title}</h1>
-      <p>{"Presented By " + pageData.frontmatter.sustain_webinar_presenter}</p>
+    <Layout path={ pageContext.slug } centerContent MaxWidth={ 900 }>
+      <Link to={ "/sustain/webinars" }> ← Back to all Webinars</Link>
+      <h1>{ pageData.frontmatter.title }</h1>
+      <p>{ "Presented By " + pageData.frontmatter.sustain_webinar_presenter }</p>
       <p>
-        {"Broadcast Date: " +
-          pageData.frontmatter.sustain_webinar_broadcast_date}
+        { "Broadcast Date: " +
+          pageData.frontmatter.sustain_webinar_broadcast_date }
       </p>
       <YouTube
-        videoId={pageData.frontmatter.sustain_webinar_youtube_video_id}
+        videoId={ pageData.frontmatter.sustain_webinar_youtube_video_id }
       />
 
       <div
-        className={"md"}
-        dangerouslySetInnerHTML={{ __html: pageData.html }}
+        className={ "md" }
+        dangerouslySetInnerHTML={ { __html: pageData.html } }
       />
     </Layout>
-  )
-}
+  );
+};
 
 export const query = graphql`
   query {
@@ -52,4 +48,8 @@ export const query = graphql`
       }
     }
   }
-`
+`;
+
+export default SustainWebinarPage;
+
+export const Head = () => <Seo title="Sustainability Webinars" />;

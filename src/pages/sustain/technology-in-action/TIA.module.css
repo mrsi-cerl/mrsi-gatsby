@@ -1,15 +1,18 @@
 .mapContainer {
-  height: 500px;
-  width: calc(100% - 30rem);
-  display: inline-block;
+  height: 600px;
+
+  width: 100%;
+  /* display: inline-block; */
+  font-size: 100%;
 }
 
 .listContainer {
-  height: 500px;
-  width: 30rem;
+  /* max-height: 800px;
+  width: 100%;
   display: inline-block;
   overflow-x: hidden;
-  overflow-y: scroll;
+  overflow-y: scroll; */
+  margin: 50px 0;
 }
 
 .listContainer td:hover {

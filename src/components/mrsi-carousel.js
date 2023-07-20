@@ -1,6 +1,6 @@
 import React from "react"
 import "react-responsive-carousel/lib/styles/carousel.min.css"
-import { Carousel as CA } from "react-responsive-carousel"
+import { Carousel as ResponsiveCarousel } from "react-responsive-carousel"
 
 const Carousel = ({ imgs }) => {
   // const imgStyle = {
@@ -27,7 +27,7 @@ const Carousel = ({ imgs }) => {
     )
   } else {
     return (
-      <CA
+      <ResponsiveCarousel
         emulateTouch
         dynamicHeight
         showThumbs={false}
@@ -48,7 +48,7 @@ const Carousel = ({ imgs }) => {
             }}
           />
         ))}
-      </CA>
+      </ResponsiveCarousel>
     )
   }
 }

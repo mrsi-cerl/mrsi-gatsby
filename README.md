@@ -10,7 +10,7 @@ The Portal may be viewed at [https://mrsi.erdc.dren.mil/](https://mrsi.erdc.dren
 2. Make sure your fork is up to date
    1. Go to your fork (you should see your username in the url)
    2. If it says "this branch is N commit(s) **behind** mrsi-cerl:master" then follow the following steps
-      1. Click "Pull Request" to the right of that message 
+      1. Click "Pull Request" to the right of that message
       2. Click "Switching your base"
       3. Click "Create Pull Request"
       4. Click "Create Pull Request" again

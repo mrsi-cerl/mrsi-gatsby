@@ -1,16 +1,17 @@
-import React from "react"
-import { graphql } from "gatsby"
-import Layout from "../components/layout/layout"
-import MrsiTable from "../components/mrsi-table"
-import Carousel from "../components/mrsi-carousel"
-import Library from "../components/library/library"
-import RelatedLinks from "../components/relatedLinks"
+import { graphql } from "gatsby";
+import React from "react";
+import Layout from "../components/layout/layout";
+import Library from "../components/library/library";
+import Carousel from "../components/mrsi-carousel";
+import MrsiTable from "../components/mrsi-table";
+import RelatedLinks from "../components/relatedLinks";
+import Seo from "../components/seo";
 
-const getCXInfo = (data, slug) => {
+const getCXInfo = ( data, slug ) => {
   return data.allMarkdownRemark.edges.filter(
     edge => edge.node.frontmatter.slug === slug
-  )[0].node
-}
+  )[ 0 ].node;
+};
 
 const getTableData = data => {
   const tableData = [
@@ -18,65 +19,65 @@ const getTableData = data => {
       title: "MSC Program Manager:",
       value: (
         <a
-          href={"mailto:" + data.frontmatter.sustain_msc_program_manager_email}
+          href={ "mailto:" + data.frontmatter.sustain_msc_program_manager_email }
         >
-          {data.frontmatter.sustain_msc_program_manager_name}
+          { data.frontmatter.sustain_msc_program_manager_name }
         </a>
       ),
     },
     {
       title: "MSC Technical Lead / Co-Chair:",
       value: (
-        <a href={"mailto:" + data.frontmatter.sustain_msc_technical_lead_email}>
-          {data.frontmatter.sustain_msc_technical_lead_name}
+        <a href={ "mailto:" + data.frontmatter.sustain_msc_technical_lead_email }>
+          { data.frontmatter.sustain_msc_technical_lead_name }
         </a>
       ),
     },
     {
       title: "HQ USACE Proponent:",
       value: (
-        <a href={"mailto:" + data.frontmatter.sustain_hq_usace_proponent_email}>
-          {data.frontmatter.sustain_hq_usace_proponent_name}
+        <a href={ "mailto:" + data.frontmatter.sustain_hq_usace_proponent_email }>
+          { data.frontmatter.sustain_hq_usace_proponent_name }
         </a>
       ),
     },
     {
       title: "ERDC Liaison:",
       value: (
-        <a href={"mailto:" + data.frontmatter.sustain_erdc_liaison_email}>
-          {data.frontmatter.sustain_erdc_liaison_name}
+        <a href={ "mailto:" + data.frontmatter.sustain_erdc_liaison_email }>
+          { data.frontmatter.sustain_erdc_liaison_name }
         </a>
       ),
     },
-  ]
-  return tableData
-}
+  ];
+  return tableData;
+};
 
-export default ({ data, pageContext }) => {
-  const pageData = getCXInfo(data, pageContext.slug)
-  const lib_path = pageData.frontmatter.file_library_root_path
+const SustainKrCxPage = ( { data, pageContext } ) => {
+  const pageData = getCXInfo( data, pageContext.slug );
+  const lib_path = pageData.frontmatter.file_library_root_path;
   // console.log(pageData)
   return (
-    <Layout path={pageContext.slug} MaxWidth={700} centerContent>
-      <h1>{pageData.frontmatter.title}</h1>
+    <Layout path={ pageContext.slug } centerContent MaxWidth={ 900 }>
+      <h1>{ pageData.frontmatter.title }</h1>
       <div className="grid-row">
         <div className="tablet:grid-col">
-          <Carousel imgs={pageData.frontmatter.carousel_images} />
+          <Carousel imgs={ pageData.frontmatter.carousel_images } />
         </div>
-        <div className="tablet:grid-col" style={{ paddingLeft: 10 }}>
-          <MrsiTable data={getTableData(pageData)} />
+        <div className="tablet:grid-col" style={ { paddingLeft: 10 } }>
+          <MrsiTable data={ getTableData( pageData ) } />
         </div>
       </div>
 
       <div
-        className={"md"}
-        dangerouslySetInnerHTML={{ __html: pageData.html }}
+        className={ "md" }
+        dangerouslySetInnerHTML={ { __html: pageData.html } }
       />
-      <RelatedLinks related_links={pageData.frontmatter.related_links} />
-      <Library rootDir={lib_path} />
+      <RelatedLinks related_links={ pageData.frontmatter.related_links } />
+      <Library rootDir={ lib_path } />
     </Layout>
-  )
-}
+  );
+};
 
 export const query = graphql`
   query {
@@ -119,4 +120,8 @@ export const query = graphql`
       }
     }
   }
-`
+`;
+
+export default SustainKrCxPage;
+
+export const Head = () => <Seo title="Sustainability CX" />;

@@ -1,13 +1,14 @@
-import React from "react"
-import Layout from "../../components/layout/layout"
+import React from "react";
+import Layout from "../../components/layout/layout";
+import Seo from "../../components/seo";
 
-import cosIcon from "../../images/cos-icon.svg"
-import pdrsIcon from "../../images/pdrs-icon.svg"
-import rfpIcon from "../../images/wizard-icon.svg"
-import sustainIcon from "../../images/sustain-icon.svg"
+import cosIcon from "../../images/cos-icon.svg";
+import pdrsIcon from "../../images/pdrs-icon.svg";
+import sustainIcon from "../../images/sustain-icon.svg";
+import rfpIcon from "../../images/wizard-icon.svg";
 
-export default () => (
-  <Layout path={"/mrsi/contact"} hideSideNav centerContent MaxWidth={700}>
+const MrsiAbout = () => (
+  <Layout path={ "/mrsi/contact" } hideSideNav centerContent MaxWidth={ 900 }>
     <div className="container">
       <p>
         The MRSI Team is part of the Engineer Research and Development Center
@@ -29,7 +30,7 @@ export default () => (
       <p>&nbsp;</p>
       <p>
         If you have questions about the MRSI site or our applications, please
-        contact our support team at:{" "}
+        contact our support team at:{ " " }
         <a href="mailto:mrsi_support@usace.army.mil">
           mrsi_support@usace.army.mil
         </a>
@@ -38,27 +39,31 @@ export default () => (
       <p>&nbsp;</p>
       <h4>Credits</h4>
       <p>
-        <img style={{ width: 50 }} src={rfpIcon} alt="Icon by Freepik" />
+        <img style={ { width: 50 } } src={ rfpIcon } alt="Icon by Freepik" />
         Icon made by Freepik from www.flaticon.com
       </p>
       <p>
-        <img style={{ width: 50 }} src={cosIcon} alt="Icon by Eucalyp" />
+        <img style={ { width: 50 } } src={ cosIcon } alt="Icon by Eucalyp" />
         Icon made by&nbsp;
         <a href="https://www.flaticon.com/authors/eucalyp">Eucalyp</a> from
         www.flaticon.com
       </p>
       <p>
-        <img style={{ width: 50 }} src={pdrsIcon} alt="Icon by Smashicons" />
+        <img style={ { width: 50 } } src={ pdrsIcon } alt="Icon by Smashicons" />
         Icon made by&nbsp;
         <a href="https://www.flaticon.com/authors/smashicons">
           Smashicons
-        </a>{" "}
+        </a>{ " " }
         from www.flaticon.com
       </p>
       <p>
-        <img style={{ width: 50 }} src={sustainIcon} alt="Icon by Freepik" />
+        <img style={ { width: 50 } } src={ sustainIcon } alt="Icon by Freepik" />
         Icon made by Freepik from www.flaticon.com
       </p>
     </div>
   </Layout>
-)
+);
+
+export default MrsiAbout;
+
+export const Head = () => <Seo title="About" />;

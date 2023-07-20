@@ -1,6 +1,7 @@
-import React from "react"
-import { Link, graphql } from "gatsby"
-import Layout from "../../../components/layout/layout"
+import { Link, graphql } from "gatsby";
+import React from "react";
+import Layout from "../../../components/layout/layout";
+import Seo from "../../../components/seo";
 
 const getTableData = data => {
   const cx_pages = data.allMarkdownRemark.edges.filter(
@@ -25,7 +26,7 @@ const getTableData = data => {
 const SustainPOC = ({ data }) => {
   const tableData = getTableData(data)
   return (
-    <Layout path="/sustain/poc" MaxWidth={700} centerContent>
+    <Layout path="/sustain/poc" centerContent MaxWidth={ 900 }>
       <h1>Subject Matter Points of Contact</h1>
       <table className="usa-table">
         <thead>
@@ -136,3 +137,5 @@ export const query = graphql`
     }
   }
 `
+
+export const Head = () => <Seo title="Sustain POC" />;

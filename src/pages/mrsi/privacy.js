@@ -1,8 +1,9 @@
-import React from "react"
-import Layout from "../../components/layout/layout"
+import React from "react";
+import Layout from "../../components/layout/layout";
+import Seo from "../../components/seo";
 
-export default () => (
-  <Layout path={"/mrsi/privacy"} hideSideNav centerContent MaxWidth={700}>
+const MrsiPrivacy = () => (
+  <Layout path={ "/mrsi/privacy" } hideSideNav centerContent MaxWidth={ 900 }>
     <h1>Privacy Policy</h1>
     <div className="container">
       <p>
@@ -51,7 +52,7 @@ export default () => (
         The use of copyrighted material by the Army is subject to U.S. copyright
         law as reflected in Army regulations. It is Army policy to recognize and
         respect the rights of copyright owners.&nbsp;More information on the
-        Army's use of{" "}
+        Army's use of{ " " }
         <a
           href="https://www.army.mil/terms/"
           target="_blank"
@@ -96,7 +97,7 @@ export default () => (
       <p>
         <span className="bold">
           <strong>Cookie Disclaimer</strong>
-        </span>{" "}
+        </span>{ " " }
         - The site does not use persistent cookies (persistent tokens that pass
         information back and forth from the client machine to the server). The
         Home Page may use session cookies (tokens that remain active only until
@@ -111,7 +112,7 @@ export default () => (
       <p>
         <span className="bold">
           <strong>External Links Disclaimer</strong>
-        </span>{" "}
+        </span>{ " " }
         - The appearance of hyperlinks to external sites does not constitute
         endorsement of the linked web site or the information, products or
         services contained therein. Such links are provided consistent with the
@@ -119,4 +120,8 @@ export default () => (
       </p>
     </div>
   </Layout>
-)
+);
+
+export default MrsiPrivacy;
+
+export const Head = () => <Seo title="Privacy" />;
