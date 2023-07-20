@@ -33,7 +33,7 @@ function createAcordianList ( p: { children: any[]; caption: any; slug: React.Ke
             <Link
               to={ e.slug }
               className={ cx( {
-                "usa-current": e.slug === window.location.pathname,
+                "usa-current": e.slug === "window.location.pathname",
               } ) }
             >
               { e.caption }
