@@ -16,7 +16,7 @@
   {
     "startDate": "09:40  08/02/2023",
     "endDate": "17:00  08/03/2023",
-    "message": "The servers for the MILCON D-B, Small Projects, and legacy PDRS Wizards will be undergoing server maintenance this Thursday (August 3rd) afternoon from 1200 - 1700 CDT and will not be accessible during the maintenance window. Please log out and close any of these click-once Wizards you may have open before the start of the maintenance window. THE NEWER CODE2 PDR WIZARD IS UNAFFECTED BY THIS MAINTENANCE AND WILL BE AVAILABLE AS USUAL. We aplogize for the inconvenience.",
+    "message": "The servers for the MILCON D-B, Small Projects, and legacy PDRS Wizards will be undergoing server maintenance this Thursday (August 3rd) afternoon from 1200 - 1700 CDT and will not be accessible during the maintenance window. Please log out and close any of these click-once Wizards you may have open before the start of the maintenance window. THE NEWER CODE2 PDR WIZARD IS UNAFFECTED BY THIS MAINTENANCE AND WILL BE AVAILABLE AS USUAL. We apologize for the inconvenience.",
     "level": "info",
     "title": "Server Maintenance"
   },
