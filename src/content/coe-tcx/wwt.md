@@ -7,7 +7,7 @@ center_type: TCX
 website: http://www.sam.usace.army.mil/Missions/MilitaryMissions/Engineering/WaterandWastewater.aspx
 center_poc_name: Ross Byerley
 center_poc_phone_number: ☎ (251) 694-4363
-hq_poc_name: Mackenzie Searle
+hq_poc_name: Jennifer Kline
 hq_division: E&C
 activation_date: N/A
 recertification_date: 26 Jan 2018
