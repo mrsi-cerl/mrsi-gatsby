@@ -1,10 +1,10 @@
 [
   {
-    "startDate": "9:05  5/15/2023",
-    "endDate": "9:05  5/15/2023",
-    "message": "Our applications are currently offline. The admin team is aware and are working to restore operations.",
+    "startDate": "9:00  8/15/2023",
+    "endDate": "10:00  8/16/2023",
+    "message": "Our hosting provider is experiencing issues with their network infrastructure. As a result, the MRSI Wizards and COE/CX file libraries are unavailable.",
     "level": "error",
-    "title": "MRSI Wizard Outage"
+    "title": "Network Outage"
   },
   {
     "startDate": "08:00  07/18/2023",
