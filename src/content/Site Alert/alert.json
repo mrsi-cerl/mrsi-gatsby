@@ -1,7 +1,7 @@
 [
   {
     "startDate": "9:00  8/15/2023",
-    "endDate": "10:00  8/16/2023",
+    "endDate": "16:25  8/15/2023",
     "message": "Our hosting provider is experiencing issues with their network infrastructure. As a result, the MRSI Wizards and COE/CX file libraries are unavailable.",
     "level": "error",
     "title": "Network Outage"
