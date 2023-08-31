@@ -97,7 +97,7 @@ function createPDRSNavList(p, currPath) {
         "usa-current": currPath,
       })}
     >
-      <Link to=".">About PDRS/Code2</Link>
+      <Link to=".">About MCA/AFH Code2</Link>
     </li>
     <li class="usa-sidenav__item">
       <Link to="https://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-3-740-05" target="_blank" rel="noopener noreferrer">CSRA Templates and Information<br/>
