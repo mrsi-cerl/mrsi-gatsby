@@ -100,12 +100,12 @@ function createPDRSNavList(p, currPath) {
       <Link to=".">About MCA/AFH Code2</Link>
     </li>
     <li class="usa-sidenav__item">
-      <Link to="https://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-3-740-05" target="_blank" rel="noopener noreferrer">CSRA Templates and Information<br/>
+      <Link to="https://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-3-740-05" target="_blank" rel="noopener noreferrer"><b>CSRA Templates and Information</b><br/>
       <small><i>The <b>UFC 3-740-05 Website</b> contains a checklist, the CSRA model template, CSRA Report template, and an example merged CSRA PDF report along with the UFC for CSRAs on MILCON projects.</i></small>
       </Link>
     </li>
     <li class="usa-sidenav__item">
-      <Link to="https://usace.dps.mil/sites/KMP-CEC/SitePages/Cost-Tools.aspx" target="_blank" rel="noopener noreferrer">Cost Risk Analysis: HQ Cost CoP website<br/>
+      <Link to="https://usace.dps.mil/sites/KMP-CEC/SitePages/Cost-Tools.aspx" target="_blank" rel="noopener noreferrer"><b>Cost Risk Analysis: HQ Cost CoP website</b><br/>
       <small><i>The HQ Cost CoP website contains a section for <b>Cost Risk Analysis</b> which contains links to the Civil Works guidance manual, CSRA template, ARA template, CSRA report (template + example merged CSRA PDF report), etc.<br/>
       <b>***PLEASE NOTE***</b> this site is only accessible to USACE personnel.</i></small>
       </Link>
