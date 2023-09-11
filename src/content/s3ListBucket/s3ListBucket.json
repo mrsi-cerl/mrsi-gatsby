@@ -8421,7 +8421,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "03/23/2023 11:08:51",
+"LastModified": "09/05/2023 16:29:03",
 "Key": "content/cos/poh/toq/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -9646,17 +9646,24 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "03/23/2023 11:09:24",
+"LastModified": "09/11/2023 12:56:28",
 "Key": "content/cos/sas/aob/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
-"name": "Army Standard for Air Traffic Control Tower - Air Operations Building_January_2023.pdf",
-"LastModified": "02/22/2023 13:40:13",
-"Key": "content/cos/sas/aob/Library/Army Standards/Army Standard for Air Traffic Control Tower - Air Operations Building_January_2023.pdf",
+"name": "Army Standard ATCT-AOB_20230208.pdf",
+"LastModified": "09/11/2023 12:41:05",
+"Key": "content/cos/sas/aob/Library/Army Standards/Army Standard ATCT-AOB_20230208.pdf",
 "extension": ".pdf",
-"Size": "476071"
+"Size": "295368"
+},
+{
+"name": "Army_Standard_Approval_Memo_ATCT-AOB_January_2023.pdf",
+"LastModified": "09/11/2023 12:41:24",
+"Key": "content/cos/sas/aob/Library/Army Standards/Army_Standard_Approval_Memo_ATCT-AOB_January_2023.pdf",
+"extension": ".pdf",
+"Size": "150129"
 },
 {
 "name": "Library",
