@@ -9240,7 +9240,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "08/09/2023 09:56:11",
+"LastModified": "09/12/2023 18:09:15",
 "Key": "content/cos/sam/trw/Library/Archive",
 "extension": "",
 "Size": ""
@@ -9268,7 +9268,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "08/09/2023 09:56:30",
+"LastModified": "09/12/2023 18:08:29",
 "Key": "content/cos/sam/trw/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -9316,18 +9316,25 @@
 "Size": "9415201"
 },
 {
+"name": "2023-02-14 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
+"LastModified": "02/14/2023 15:42:00",
+"Key": "content/cos/sam/trw/Library/Archive/2023-02-14 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
+"extension": ".pdf",
+"Size": "14612149"
+},
+{
 "name": "AVN-COS FY21 MEDIUM STANDARD DESIGN-Floor Plan - 01_Floor Plan_All_EXP.dwg",
-"LastModified": "01/24/2023 08:39:29",
+"LastModified": "02/14/2023 15:42:00",
 "Key": "content/cos/sam/trw/Library/Archive/AVN-COS FY21 MEDIUM STANDARD DESIGN-Floor Plan - 01_Floor Plan_All_EXP.dwg",
 "extension": ".dwg",
-"Size": "1578859"
+"Size": "1546115"
 },
 {
 "name": "AVN-COS FY21 MEDIUM STANDARD DESIGN-Floor Plan - 02_Floor Plan_All_EXP.dwg",
-"LastModified": "01/24/2023 08:39:29",
+"LastModified": "02/14/2023 15:42:00",
 "Key": "content/cos/sam/trw/Library/Archive/AVN-COS FY21 MEDIUM STANDARD DESIGN-Floor Plan - 02_Floor Plan_All_EXP.dwg",
 "extension": ".dwg",
-"Size": "546794"
+"Size": "524618"
 },
 {
 "name": "Army_Standard_Approval_Memo_HGR_June_2021.pdf",
@@ -9372,25 +9379,25 @@
 "Size": "447643"
 },
 {
-"name": "2023-02-14 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
-"LastModified": "02/14/2023 15:42:00",
-"Key": "content/cos/sam/trw/Library/Standard Designs/2023-02-14 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
+"name": "2023-09-12 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
+"LastModified": "09/12/2023 16:57:00",
+"Key": "content/cos/sam/trw/Library/Standard Designs/2023-09-12 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
 "extension": ".pdf",
-"Size": "14612149"
+"Size": "14711213"
 },
 {
 "name": "AVN-COS FY21 MEDIUM STANDARD DESIGN-Floor Plan - 01_Floor Plan_All_EXP.dwg",
-"LastModified": "02/14/2023 15:42:00",
+"LastModified": "09/12/2023 16:57:00",
 "Key": "content/cos/sam/trw/Library/Standard Designs/AVN-COS FY21 MEDIUM STANDARD DESIGN-Floor Plan - 01_Floor Plan_All_EXP.dwg",
 "extension": ".dwg",
-"Size": "1546115"
+"Size": "1590066"
 },
 {
 "name": "AVN-COS FY21 MEDIUM STANDARD DESIGN-Floor Plan - 02_Floor Plan_All_EXP.dwg",
-"LastModified": "02/14/2023 15:42:00",
+"LastModified": "09/12/2023 16:57:00",
 "Key": "content/cos/sam/trw/Library/Standard Designs/AVN-COS FY21 MEDIUM STANDARD DESIGN-Floor Plan - 02_Floor Plan_All_EXP.dwg",
 "extension": ".dwg",
-"Size": "524618"
+"Size": "482704"
 },
 {
 "name": "Library",
