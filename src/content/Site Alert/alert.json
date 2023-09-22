@@ -1,10 +1,10 @@
 [
   {
-    "startDate": "9:05  5/15/2023",
-    "endDate": "9:05  5/15/2023",
-    "message": "Our applications are currently offline. The admin team is aware and are working to restore operations.",
+    "startDate": "9:00  8/15/2023",
+    "endDate": "16:25  8/15/2023",
+    "message": "Our hosting provider is experiencing issues with their network infrastructure. As a result, the MRSI Wizards and COE/CX file libraries are unavailable.",
     "level": "error",
-    "title": "MRSI Wizard Outage"
+    "title": "Network Outage"
   },
   {
     "startDate": "15:00  07/10/2023",
@@ -12,6 +12,13 @@
     "message": "A fiber cable has been cut that provides network access to our facility. Due to this, The MRSI suite of applications (MILCON D-B, Small Projects, and PDRS wizards) and the COS file libraries on this site are not available until network access can be restored. Sorry for any inconvenience.",
     "level": "info",
     "title": "Network Outage"
+  },
+  {
+    "startDate": "09:40  08/02/2023",
+    "endDate": "17:00  08/03/2023",
+    "message": "The servers for the MILCON D-B, Small Projects, and legacy PDRS Wizards will be undergoing server maintenance this Thursday (August 3rd) afternoon from 1200 - 1700 CDT and will not be accessible during the maintenance window. Please log out and close any of these click-once Wizards you may have open before the start of the maintenance window. THE NEWER CODE2 PDR WIZARD IS UNAFFECTED BY THIS MAINTENANCE AND WILL BE AVAILABLE AS USUAL. We apologize for the inconvenience.",
+    "level": "info",
+    "title": "Server Maintenance"
   },
   {
     "startDate": "10:05  10/01/2019",

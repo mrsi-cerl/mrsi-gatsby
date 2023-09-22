@@ -1,6 +1,6 @@
 ---
 title: 
-doc_type: generic_page_noSideNav
+doc_type: generic_page
 slug: /pdrs/
 file_library_root_path: content/PDRS/
 ---
@@ -12,7 +12,8 @@ The Army’s Code 2 process is intended to provide the information required to s
 ## Policy and Guidance
 
 Instructions for the Army MILCON Code 2 are specific to a project’s Fiscal Year. These instructions provide an outline of the Army’s Code 2 process, required deliverables, and instructions for submitting the PDR, ENG 3086, and 35% Design Certification Deliverables.  The Instructions include Appendices with flowcharts/timelines, Points of Contact, Acronyms & Abbreviations, Example AE Scope of Work Verbiage, a PDR Desktop Reference (explains what’s required for each section of the PDR), the Acquisition Strategy Memo Template, ENG 3086 Instructions, and the DCA Assessment & Risk Neutral Estimate Guidance. 
-<b>Links to the documents are below in the <span style="font-size:larger">Library</span>.</b>
+<b>Links to the documents are below in the <span style="font-size:larger">Library</span>.</b> 
+Additional guidance and templates can be found at the websites linked in the sidebar on the left side of the page.
 
 ## MCA Code 2 on the MRSI Wizard
 <div>

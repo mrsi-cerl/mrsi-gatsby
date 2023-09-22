@@ -19,12 +19,8 @@ carousel_images:
 
 ## Description
 
-UEPH facilities are intended to be similar both functionally and technically to apartment style housing in the private sector. The Army Standard unit is a two-bedroom, one bath configuration, identified as 2/1fM Marketstyle module. This designation defines the design requirements of providing one soldier per room with shared bathroom and kitchen facilities. This allows privacy and provides a shared kitchen and bathroom facility.
-
-Each occupant is allotted 375 gross square feet in buildings three stories or less, and 395 gross square feet in buildings higher than three stories. Unaccompanied Enlisted Personnel Housing (UEPH) remains the Army's top facilities because of the importance Army places on the well being and combat readiness of able-bodied soldiers.
+Unaccompanied Enlisted Personnel Housing (UEPH) remains one of the Army's most prioritized facilities due to the importance of solider wellbeing and combat readiness. UEPH facilities are intended to be similar both functionally and technically to apartment style housing in the private sector. The Standard Design provides ~90% of the population with four-bedroom, two bathroom units, which includes a kitchen, living area and in module washer and dryer. This is identified as the “4/2 Module”. The Standard Design also provides ~10% of the population with two-bedroom, one bathroom units. This is identified as the “2/1 Module”. This configuration complies with the mandatory requirements of providing one soldier per room with shared bathroom and kitchen facilities. Each occupant is allotted 495 gross square feet in the building.
 
 ## Variations
 
-As the UEPH is designed to meet the installations' immediate needs and the local site conditions vary, the building shapes are open to flexible design and are blended with the other installations at the facility to enhance the community atmosphere. The occupancy size, exterior facade and shape of the UEPH will vary from one installation to another.
-
-The Garrison Commander has discretion to add support space for the Mail Access area, Mudroom (interior) or Boot Wash (exterior), or Activity/Dayroom.
+As the UEPH is designed to meet current soldier housing needs and local site conditions, the building configurations (U-Shaped, L-Shaped, Etc.) are flexible. The mandatory requirement is to provide the approved Army Standard room module configurations (4/2 Module @ ~90% & 2/1 Module @ ~10%) and required common spaces. The UEPH COS can provide the approved Army Standard room module configurations.
