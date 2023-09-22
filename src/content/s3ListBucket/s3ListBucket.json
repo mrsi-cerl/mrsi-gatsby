@@ -1,6 +1,6 @@
 [ {
 "name": "content",
-"LastModified": "03/09/2023 14:31:19",
+"LastModified": "03/23/2023 11:13:16",
 "Key": "content",
 "extension": "",
 "Size": ""
@@ -14,84 +14,84 @@
 },
 {
 "name": "coe",
-"LastModified": "11/09/2022 10:23:35",
+"LastModified": "03/23/2023 11:04:41",
 "Key": "content/coe",
 "extension": "",
 "Size": ""
 },
 {
 "name": "cos",
-"LastModified": "10/07/2019 10:33:40",
+"LastModified": "03/23/2023 11:11:29",
 "Key": "content/cos",
 "extension": "",
 "Size": ""
 },
 {
 "name": "CRST",
-"LastModified": "01/08/2021 09:58:15",
+"LastModified": "03/23/2023 11:11:30",
 "Key": "content/CRST",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Model RFP",
-"LastModified": "10/07/2019 10:33:40",
+"LastModified": "03/23/2023 11:11:37",
 "Key": "content/Model RFP",
 "extension": "",
 "Size": ""
 },
 {
 "name": "MRSI",
-"LastModified": "10/04/2019 11:35:30",
+"LastModified": "03/23/2023 11:11:37",
 "Key": "content/MRSI",
 "extension": "",
 "Size": ""
 },
 {
 "name": "PDRS",
-"LastModified": "07/07/2023 14:04:30",
+"LastModified": "08/09/2023 10:05:30",
 "Key": "content/PDRS",
 "extension": "",
 "Size": ""
 },
 {
 "name": "sustain",
-"LastModified": "01/08/2021 10:07:19",
+"LastModified": "03/23/2023 11:13:13",
 "Key": "content/sustain",
 "extension": "",
 "Size": ""
 },
 {
 "name": "UMMCA",
-"LastModified": "03/09/2023 14:34:29",
+"LastModified": "03/23/2023 11:13:16",
 "Key": "content/UMMCA",
 "extension": "",
 "Size": ""
 },
 {
 "name": "coe_home_page",
-"LastModified": "11/09/2022 17:53:48",
+"LastModified": "03/23/2023 11:04:41",
 "Key": "content/coe/coe_home_page",
 "extension": "",
 "Size": ""
 },
 {
 "name": "mcx",
-"LastModified": "11/17/2022 10:09:28",
+"LastModified": "03/23/2023 11:04:41",
 "Key": "content/coe/mcx",
 "extension": "",
 "Size": ""
 },
 {
 "name": "tcx",
-"LastModified": "11/09/2022 10:23:35",
+"LastModified": "03/23/2023 11:04:41",
 "Key": "content/coe/tcx",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Library",
-"LastModified": "11/09/2022 17:53:49",
+"LastModified": "03/23/2023 11:04:41",
 "Key": "content/coe/coe_home_page/Library",
 "extension": "",
 "Size": ""
@@ -105,14 +105,14 @@
 },
 {
 "name": "bmds",
-"LastModified": "11/17/2022 09:56:59",
+"LastModified": "03/23/2023 11:04:41",
 "Key": "content/coe/mcx/bmds",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Library",
-"LastModified": "11/17/2022 15:40:26",
+"LastModified": "03/23/2023 11:04:41",
 "Key": "content/coe/mcx/bmds/Library",
 "extension": "",
 "Size": ""
@@ -133,14 +133,14 @@
 },
 {
 "name": "fp",
-"LastModified": "11/14/2022 15:03:23",
+"LastModified": "03/23/2023 11:04:42",
 "Key": "content/coe/tcx/fp",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Library",
-"LastModified": "11/09/2022 17:20:32",
+"LastModified": "03/23/2023 11:04:42",
 "Key": "content/coe/tcx/fp/Library",
 "extension": "",
 "Size": ""
@@ -161,91 +161,91 @@
 },
 {
 "name": "cos_home_page",
-"LastModified": "09/26/2019 09:49:54",
+"LastModified": "03/23/2023 11:04:42",
 "Key": "content/cos/cos_home_page",
 "extension": "",
 "Size": ""
 },
 {
 "name": "hnc",
-"LastModified": "06/11/2021 09:04:41",
+"LastModified": "03/23/2023 11:06:38",
 "Key": "content/cos/hnc",
 "extension": "",
 "Size": ""
 },
 {
 "name": "lrl",
-"LastModified": "09/26/2019 09:55:49",
+"LastModified": "03/23/2023 11:06:44",
 "Key": "content/cos/lrl",
 "extension": "",
 "Size": ""
 },
 {
 "name": "nao",
-"LastModified": "09/26/2019 09:56:45",
+"LastModified": "03/23/2023 11:07:16",
 "Key": "content/cos/nao",
 "extension": "",
 "Size": ""
 },
 {
 "name": "nwo",
-"LastModified": "09/26/2019 09:58:49",
+"LastModified": "03/23/2023 11:08:44",
 "Key": "content/cos/nwo",
 "extension": "",
 "Size": ""
 },
 {
 "name": "poh",
-"LastModified": "09/26/2019 09:59:18",
+"LastModified": "03/23/2023 11:08:48",
 "Key": "content/cos/poh",
 "extension": "",
 "Size": ""
 },
 {
 "name": "sam",
-"LastModified": "08/12/2022 14:12:02",
+"LastModified": "03/23/2023 11:09:20",
 "Key": "content/cos/sam",
 "extension": "",
 "Size": ""
 },
 {
 "name": "sas",
-"LastModified": "02/23/2023 16:55:46",
+"LastModified": "03/23/2023 11:09:41",
 "Key": "content/cos/sas",
 "extension": "",
 "Size": ""
 },
 {
 "name": "swf",
-"LastModified": "01/08/2021 10:11:04",
+"LastModified": "03/23/2023 11:10:10",
 "Key": "content/cos/swf",
 "extension": "",
 "Size": ""
 },
 {
 "name": "tam",
-"LastModified": "09/26/2019 16:03:58",
+"LastModified": "03/23/2023 11:11:28",
 "Key": "content/cos/tam",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Waiver",
-"LastModified": "10/07/2019 09:49:36",
+"LastModified": "03/23/2023 11:11:29",
 "Key": "content/cos/Waiver",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 11:06:57",
+"LastModified": "03/23/2023 11:04:42",
 "Key": "content/cos/cos_home_page/Library",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc Army Standards",
-"LastModified": "09/25/2019 08:24:57",
+"LastModified": "03/23/2023 11:04:43",
 "Key": "content/cos/cos_home_page/Library/Misc Army Standards",
 "extension": "",
 "Size": ""
@@ -329,182 +329,182 @@
 },
 {
 "name": "acsc",
-"LastModified": "09/26/2019 09:54:31",
+"LastModified": "03/23/2023 11:04:43",
 "Key": "content/cos/hnc/acsc",
 "extension": "",
 "Size": ""
 },
 {
 "name": "arf",
-"LastModified": "09/26/2019 09:54:41",
+"LastModified": "03/23/2023 11:04:46",
 "Key": "content/cos/hnc/arf",
 "extension": "",
 "Size": ""
 },
 {
 "name": "bctc",
-"LastModified": "09/26/2019 09:54:50",
+"LastModified": "03/23/2023 11:04:46",
 "Key": "content/cos/hnc/bctc",
 "extension": "",
 "Size": ""
 },
 {
 "name": "cdcsa",
-"LastModified": "09/25/2019 08:24:33",
+"LastModified": "03/23/2023 11:04:47",
 "Key": "content/cos/hnc/cdcsa",
 "extension": "",
 "Size": ""
 },
 {
 "name": "cdcu6",
-"LastModified": "09/25/2019 08:24:17",
+"LastModified": "03/23/2023 11:05:11",
 "Key": "content/cos/hnc/cdcu6",
 "extension": "",
 "Size": ""
 },
 {
 "name": "center_home_page",
-"LastModified": "09/26/2019 09:54:10",
+"LastModified": "03/23/2023 11:05:32",
 "Key": "content/cos/hnc/center_home_page",
 "extension": "",
 "Size": ""
 },
 {
 "name": "cpqc",
-"LastModified": "09/25/2019 08:24:27",
+"LastModified": "03/23/2023 11:05:32",
 "Key": "content/cos/hnc/cpqc",
 "extension": "",
 "Size": ""
 },
 {
 "name": "des",
-"LastModified": "09/25/2019 08:24:27",
+"LastModified": "03/23/2023 11:05:33",
 "Key": "content/cos/hnc/des",
 "extension": "",
 "Size": ""
 },
 {
 "name": "fs",
-"LastModified": "09/25/2019 08:24:28",
+"LastModified": "03/23/2023 11:05:35",
 "Key": "content/cos/hnc/fs",
 "extension": "",
 "Size": ""
 },
 {
 "name": "lfsh",
-"LastModified": "09/25/2019 08:24:30",
+"LastModified": "03/23/2023 11:05:41",
 "Key": "content/cos/hnc/lfsh",
 "extension": "",
 "Size": ""
 },
 {
 "name": "mrf",
-"LastModified": "09/25/2019 08:24:30",
+"LastModified": "03/23/2023 11:05:41",
 "Key": "content/cos/hnc/mrf",
 "extension": "",
 "Size": ""
 },
 {
 "name": "osf",
-"LastModified": "09/25/2019 08:24:30",
+"LastModified": "03/23/2023 11:05:42",
 "Key": "content/cos/hnc/osf",
 "extension": "",
 "Size": ""
 },
 {
 "name": "pfc",
-"LastModified": "09/25/2019 08:24:31",
+"LastModified": "03/23/2023 11:05:43",
 "Key": "content/cos/hnc/pfc",
 "extension": "",
 "Size": ""
 },
 {
 "name": "sfsc",
-"LastModified": "09/25/2019 08:24:36",
+"LastModified": "03/23/2023 11:05:48",
 "Key": "content/cos/hnc/sfsc",
 "extension": "",
 "Size": ""
 },
 {
 "name": "sprc",
-"LastModified": "06/11/2021 09:06:10",
+"LastModified": "03/23/2023 11:05:48",
 "Key": "content/cos/hnc/sprc",
 "extension": "",
 "Size": ""
 },
 {
 "name": "tsc",
-"LastModified": "09/25/2019 08:24:36",
+"LastModified": "03/23/2023 11:05:50",
 "Key": "content/cos/hnc/tsc",
 "extension": "",
 "Size": ""
 },
 {
 "name": "uac",
-"LastModified": "09/25/2019 08:24:37",
+"LastModified": "03/23/2023 11:05:54",
 "Key": "content/cos/hnc/uac",
 "extension": "",
 "Size": ""
 },
 {
 "name": "yc",
-"LastModified": "09/25/2019 08:24:38",
+"LastModified": "03/23/2023 11:05:55",
 "Key": "content/cos/hnc/yc",
 "extension": "",
 "Size": ""
 },
 {
 "name": "zero",
-"LastModified": "09/25/2019 08:24:54",
+"LastModified": "03/23/2023 11:06:38",
 "Key": "content/cos/hnc/zero",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:24:16",
+"LastModified": "03/23/2023 11:04:45",
 "Key": "content/cos/hnc/acsc/Library",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Archive",
-"LastModified": "09/25/2019 08:24:16",
+"LastModified": "03/23/2023 11:04:43",
 "Key": "content/cos/hnc/acsc/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:24:16",
+"LastModified": "03/23/2023 11:04:44",
 "Key": "content/cos/hnc/acsc/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:24:16",
+"LastModified": "03/23/2023 11:04:44",
 "Key": "content/cos/hnc/acsc/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:24:16",
+"LastModified": "03/23/2023 11:04:45",
 "Key": "content/cos/hnc/acsc/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:24:16",
+"LastModified": "03/23/2023 11:04:46",
 "Key": "content/cos/hnc/acsc/Library/Standard Designs",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:24:16",
+"LastModified": "03/23/2023 11:04:44",
 "Key": "content/cos/hnc/acsc/Library/Archive/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -637,14 +637,14 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:24:17",
+"LastModified": "03/23/2023 11:04:46",
 "Key": "content/cos/hnc/arf/Library",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Archive",
-"LastModified": "09/25/2019 08:24:17",
+"LastModified": "03/23/2023 11:04:46",
 "Key": "content/cos/hnc/arf/Library/Archive",
 "extension": "",
 "Size": ""
@@ -658,14 +658,14 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:24:17",
+"LastModified": "09/21/2023 15:34:31",
 "Key": "content/cos/hnc/arf/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:24:17",
+"LastModified": "03/23/2023 11:04:46",
 "Key": "content/cos/hnc/arf/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -685,18 +685,18 @@
 "Size": "14153"
 },
 {
-"name": "1391 Template - Range Automated Record Fire_FY16.pdf",
-"LastModified": "05/20/2015 13:51:28",
-"Key": "content/cos/hnc/arf/Library/DD1391 Templates/1391 Template - Range Automated Record Fire_FY16.pdf",
+"name": "1391 Template - Range Automated Record Fire.pdf",
+"LastModified": "07/19/2023 14:21:38",
+"Key": "content/cos/hnc/arf/Library/DD1391 Templates/1391 Template - Range Automated Record Fire.pdf",
 "extension": ".pdf",
-"Size": "16891"
+"Size": "30914"
 },
 {
-"name": "1391_Template-ARF Range eng rev FY15.pdf",
-"LastModified": "05/20/2015 13:51:28",
-"Key": "content/cos/hnc/arf/Library/DD1391 Templates/1391_Template-ARF Range eng rev FY15.pdf",
+"name": "1391_Template-ARF Range eng rev.pdf",
+"LastModified": "07/19/2023 14:27:26",
+"Key": "content/cos/hnc/arf/Library/DD1391 Templates/1391_Template-ARF Range eng rev.pdf",
 "extension": ".pdf",
-"Size": "12919"
+"Size": "30085"
 },
 {
 "name": "range_automated_fire_record_fy20.pdf",
@@ -735,21 +735,21 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:24:17",
+"LastModified": "03/23/2023 11:04:46",
 "Key": "content/cos/hnc/bctc/Library",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Design Guide",
-"LastModified": "09/25/2019 08:24:17",
+"LastModified": "03/23/2023 11:04:46",
 "Key": "content/cos/hnc/bctc/Library/Design Guide",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:24:17",
+"LastModified": "03/23/2023 11:04:46",
 "Key": "content/cos/hnc/bctc/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -777,7 +777,7 @@
 },
 {
 "name": "Library",
-"LastModified": "03/31/2021 16:08:55",
+"LastModified": "03/23/2023 11:05:09",
 "Key": "content/cos/hnc/cdcsa/Library",
 "extension": "",
 "Size": ""
@@ -854,14 +854,14 @@
 },
 {
 "name": "Archive",
-"LastModified": "03/06/2023 09:17:46",
+"LastModified": "03/23/2023 11:04:57",
 "Key": "content/cos/hnc/cdcsa/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "04/07/2021 13:01:10",
+"LastModified": "03/23/2023 11:04:58",
 "Key": "content/cos/hnc/cdcsa/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -882,28 +882,28 @@
 },
 {
 "name": "Misc. Docs (VE, LCCA, LEED, etc...)",
-"LastModified": "09/07/2021 09:42:34",
+"LastModified": "03/23/2023 11:05:09",
 "Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
 "extension": ".)",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "03/06/2023 09:17:46",
+"LastModified": "03/23/2023 11:05:11",
 "Key": "content/cos/hnc/cdcsa/Library/Standard Designs",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD 1391 Templates",
-"LastModified": "04/05/2021 11:13:07",
+"LastModified": "03/23/2023 11:04:57",
 "Key": "content/cos/hnc/cdcsa/Library/Archive/DD 1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Energy Models",
-"LastModified": "04/05/2021 11:14:49",
+"LastModified": "03/23/2023 11:04:58",
 "Key": "content/cos/hnc/cdcsa/Library/Archive/Energy Models",
 "extension": "",
 "Size": ""
@@ -1302,7 +1302,7 @@
 },
 {
 "name": "Library",
-"LastModified": "10/03/2019 11:25:53",
+"LastModified": "03/23/2023 11:05:30",
 "Key": "content/cos/hnc/cdcu6/Library",
 "extension": "",
 "Size": ""
@@ -1393,14 +1393,14 @@
 },
 {
 "name": "Archive",
-"LastModified": "04/05/2021 11:17:48",
+"LastModified": "03/23/2023 11:05:21",
 "Key": "content/cos/hnc/cdcu6/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "04/07/2021 13:00:48",
+"LastModified": "03/23/2023 11:05:25",
 "Key": "content/cos/hnc/cdcu6/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -1421,35 +1421,35 @@
 },
 {
 "name": "Misc. Docs (VE, LCCA, LEED, etc...)",
-"LastModified": "09/07/2021 09:41:04",
+"LastModified": "03/23/2023 11:05:28",
 "Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
 "extension": ".)",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "03/06/2023 09:16:52",
+"LastModified": "03/23/2023 11:05:32",
 "Key": "content/cos/hnc/cdcu6/Library/Standard Designs",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "03/26/2021 14:31:46",
+"LastModified": "03/23/2023 11:05:17",
 "Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Energy Models",
-"LastModified": "04/05/2021 11:16:58",
+"LastModified": "03/23/2023 11:05:21",
 "Key": "content/cos/hnc/cdcu6/Library/Archive/Energy Models",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "03/06/2023 09:16:52",
+"LastModified": "03/23/2023 11:05:25",
 "Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs",
 "extension": "",
 "Size": ""
@@ -1715,14 +1715,14 @@
 },
 {
 "name": "Color Scheme",
-"LastModified": "10/03/2019 11:24:22",
+"LastModified": "03/23/2023 11:05:28",
 "Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Color Scheme",
 "extension": "",
 "Size": ""
 },
 {
 "name": "POTR Reports",
-"LastModified": "10/03/2019 11:23:59",
+"LastModified": "03/23/2023 11:05:30",
 "Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports",
 "extension": "",
 "Size": ""
@@ -1890,7 +1890,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:24:27",
+"LastModified": "03/23/2023 11:05:32",
 "Key": "content/cos/hnc/cpqc/Library",
 "extension": "",
 "Size": ""
@@ -1904,21 +1904,21 @@
 },
 {
 "name": "Archive",
-"LastModified": "09/25/2019 08:24:27",
+"LastModified": "03/23/2023 11:05:32",
 "Key": "content/cos/hnc/cpqc/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:24:27",
+"LastModified": "09/21/2023 15:36:07",
 "Key": "content/cos/hnc/cpqc/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:24:27",
+"LastModified": "03/23/2023 11:05:33",
 "Key": "content/cos/hnc/cpqc/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -1938,11 +1938,11 @@
 "Size": "14222"
 },
 {
-"name": "range_combatpistol_mp_firearms_qual_course_fy20.pdf",
-"LastModified": "08/27/2018 10:51:18",
-"Key": "content/cos/hnc/cpqc/Library/DD1391 Templates/range_combatpistol_mp_firearms_qual_course_fy20.pdf",
+"name": "range_combatpistol_mp_firearms_qual_course.pdf",
+"LastModified": "07/19/2023 15:06:34",
+"Key": "content/cos/hnc/cpqc/Library/DD1391 Templates/range_combatpistol_mp_firearms_qual_course.pdf",
 "extension": ".pdf",
-"Size": "21805"
+"Size": "19380"
 },
 {
 "name": "Change_Proposal_and_Tracking_Form.pdf",
@@ -1974,7 +1974,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:24:28",
+"LastModified": "03/23/2023 11:05:34",
 "Key": "content/cos/hnc/des/Library",
 "extension": "",
 "Size": ""
@@ -2030,42 +2030,42 @@
 },
 {
 "name": "Archive",
-"LastModified": "09/25/2019 08:24:27",
+"LastModified": "03/23/2023 11:05:33",
 "Key": "content/cos/hnc/des/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:24:28",
+"LastModified": "03/23/2023 11:05:33",
 "Key": "content/cos/hnc/des/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:24:28",
+"LastModified": "03/23/2023 11:05:34",
 "Key": "content/cos/hnc/des/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:24:28",
+"LastModified": "03/23/2023 11:05:34",
 "Key": "content/cos/hnc/des/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:24:28",
+"LastModified": "03/23/2023 11:05:34",
 "Key": "content/cos/hnc/des/Library/Standard Designs",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD 1391 Templates",
-"LastModified": "09/25/2019 08:24:28",
+"LastModified": "03/23/2023 11:05:33",
 "Key": "content/cos/hnc/des/Library/Archive/DD 1391 Templates",
 "extension": "",
 "Size": ""
@@ -2226,7 +2226,7 @@
 },
 {
 "name": "Library",
-"LastModified": "10/03/2019 11:28:49",
+"LastModified": "03/23/2023 11:05:40",
 "Key": "content/cos/hnc/fs/Library",
 "extension": "",
 "Size": ""
@@ -2282,21 +2282,21 @@
 },
 {
 "name": "Archives",
-"LastModified": "04/05/2021 11:18:44",
+"LastModified": "03/23/2023 11:05:37",
 "Key": "content/cos/hnc/fs/Library/Archives",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "04/02/2021 12:42:56",
+"LastModified": "03/23/2023 11:05:37",
 "Key": "content/cos/hnc/fs/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:24:29",
+"LastModified": "09/21/2023 15:37:34",
 "Key": "content/cos/hnc/fs/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -2310,21 +2310,21 @@
 },
 {
 "name": "Misc. Docs (VE, LCCA, LEED, etc...)",
-"LastModified": "04/05/2021 11:18:44",
+"LastModified": "03/23/2023 11:05:39",
 "Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
 "extension": ".)",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "10/18/2021 16:20:56",
+"LastModified": "03/23/2023 11:05:41",
 "Key": "content/cos/hnc/fs/Library/Standard Designs",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD 1391 Templates_FY18",
-"LastModified": "09/25/2019 08:24:29",
+"LastModified": "03/23/2023 11:05:37",
 "Key": "content/cos/hnc/fs/Library/Archives/DD 1391 Templates_FY18",
 "extension": "",
 "Size": ""
@@ -2554,71 +2554,71 @@
 "Size": "294720"
 },
 {
-"name": "fire-station-2-co-2-story-hqs-_fy20.pdf",
-"LastModified": "08/24/2018 15:00:40",
-"Key": "content/cos/hnc/fs/Library/DD1391 Templates/fire-station-2-co-2-story-hqs-_fy20.pdf",
+"name": "fire-station-2-co-2-story-hqs.pdf",
+"LastModified": "07/19/2023 15:25:55",
+"Key": "content/cos/hnc/fs/Library/DD1391 Templates/fire-station-2-co-2-story-hqs.pdf",
 "extension": ".pdf",
-"Size": "20753"
+"Size": "27969"
 },
 {
-"name": "fire-station-2-co-satellite-_fy20.pdf",
-"LastModified": "08/24/2018 15:00:47",
-"Key": "content/cos/hnc/fs/Library/DD1391 Templates/fire-station-2-co-satellite-_fy20.pdf",
+"name": "fire-station-2-co-satellite.pdf",
+"LastModified": "07/19/2023 15:28:54",
+"Key": "content/cos/hnc/fs/Library/DD1391 Templates/fire-station-2-co-satellite.pdf",
 "extension": ".pdf",
-"Size": "20709"
+"Size": "32846"
 },
 {
-"name": "fire-station-3-co-2-story-hqs-_fy20.pdf",
-"LastModified": "08/24/2018 15:00:57",
-"Key": "content/cos/hnc/fs/Library/DD1391 Templates/fire-station-3-co-2-story-hqs-_fy20.pdf",
+"name": "fire-station-3-co-2-story-hqs.pdf",
+"LastModified": "07/19/2023 15:32:35",
+"Key": "content/cos/hnc/fs/Library/DD1391 Templates/fire-station-3-co-2-story-hqs.pdf",
 "extension": ".pdf",
-"Size": "20771"
+"Size": "27986"
 },
 {
-"name": "fire-station-3-co-satellite-_fy20.pdf",
-"LastModified": "08/24/2018 15:01:02",
-"Key": "content/cos/hnc/fs/Library/DD1391 Templates/fire-station-3-co-satellite-_fy20.pdf",
+"name": "fire-station-3-co-satellite.pdf",
+"LastModified": "07/19/2023 15:37:07",
+"Key": "content/cos/hnc/fs/Library/DD1391 Templates/fire-station-3-co-satellite.pdf",
 "extension": ".pdf",
-"Size": "20737"
+"Size": "14654"
 },
 {
-"name": "fire-station-one-co-hqs-_fy20.pdf",
-"LastModified": "08/24/2018 15:01:58",
-"Key": "content/cos/hnc/fs/Library/DD1391 Templates/fire-station-one-co-hqs-_fy20.pdf",
+"name": "fire-station-one-co-hqs.pdf",
+"LastModified": "07/19/2023 15:44:20",
+"Key": "content/cos/hnc/fs/Library/DD1391 Templates/fire-station-one-co-hqs.pdf",
 "extension": ".pdf",
-"Size": "20719"
+"Size": "27919"
 },
 {
-"name": "fire-station-one-co-satellite-_fy20.pdf",
-"LastModified": "08/24/2018 15:00:20",
-"Key": "content/cos/hnc/fs/Library/DD1391 Templates/fire-station-one-co-satellite-_fy20.pdf",
+"name": "fire-station-one-co-satellite.pdf",
+"LastModified": "07/19/2023 15:49:48",
+"Key": "content/cos/hnc/fs/Library/DD1391 Templates/fire-station-one-co-satellite.pdf",
 "extension": ".pdf",
-"Size": "20685"
+"Size": "27875"
 },
 {
-"name": "fire-station-three-co-hqs-_fy20.pdf",
-"LastModified": "08/24/2018 15:01:21",
-"Key": "content/cos/hnc/fs/Library/DD1391 Templates/fire-station-three-co-hqs-_fy20.pdf",
+"name": "fire-station-three-co-hqs.pdf",
+"LastModified": "07/20/2023 13:53:17",
+"Key": "content/cos/hnc/fs/Library/DD1391 Templates/fire-station-three-co-hqs.pdf",
 "extension": ".pdf",
-"Size": "20735"
+"Size": "28033"
 },
 {
-"name": "fire-station-two-co-hqs-_fy20.pdf",
-"LastModified": "08/24/2018 15:01:16",
-"Key": "content/cos/hnc/fs/Library/DD1391 Templates/fire-station-two-co-hqs-_fy20.pdf",
+"name": "fire-station-two-co-hqs.pdf",
+"LastModified": "07/20/2023 14:05:20",
+"Key": "content/cos/hnc/fs/Library/DD1391 Templates/fire-station-two-co-hqs.pdf",
 "extension": ".pdf",
-"Size": "20724"
+"Size": "27920"
 },
 {
 "name": "Energy Models",
-"LastModified": "10/03/2019 11:27:12",
+"LastModified": "03/23/2023 11:05:39",
 "Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models",
 "extension": "",
 "Size": ""
 },
 {
 "name": "POTR Reports",
-"LastModified": "10/03/2019 11:26:56",
+"LastModified": "03/23/2023 11:05:40",
 "Key": "content/cos/hnc/fs/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports",
 "extension": "",
 "Size": ""
@@ -2751,7 +2751,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:24:30",
+"LastModified": "03/23/2023 11:05:41",
 "Key": "content/cos/hnc/lfsh/Library",
 "extension": "",
 "Size": ""
@@ -2765,21 +2765,21 @@
 },
 {
 "name": "Archive",
-"LastModified": "09/25/2019 08:24:30",
+"LastModified": "03/23/2023 11:05:41",
 "Key": "content/cos/hnc/lfsh/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:24:30",
+"LastModified": "09/21/2023 15:38:13",
 "Key": "content/cos/hnc/lfsh/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:24:30",
+"LastModified": "03/23/2023 11:05:41",
 "Key": "content/cos/hnc/lfsh/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -2799,11 +2799,11 @@
 "Size": "12724"
 },
 {
-"name": "range_livefire_ex_shoot_house_fy20.pdf",
-"LastModified": "08/27/2018 10:52:39",
-"Key": "content/cos/hnc/lfsh/Library/DD1391 Templates/range_livefire_ex_shoot_house_fy20.pdf",
+"name": "range_livefire_ex_shoot_house.pdf",
+"LastModified": "07/20/2023 14:18:42",
+"Key": "content/cos/hnc/lfsh/Library/DD1391 Templates/range_livefire_ex_shoot_house.pdf",
 "extension": ".pdf",
-"Size": "20299"
+"Size": "32930"
 },
 {
 "name": "Change_Proposal_and_Tracking_Form.pdf",
@@ -2835,7 +2835,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:24:30",
+"LastModified": "03/23/2023 11:05:42",
 "Key": "content/cos/hnc/mrf/Library",
 "extension": "",
 "Size": ""
@@ -2849,21 +2849,21 @@
 },
 {
 "name": "Archive",
-"LastModified": "09/25/2019 08:24:30",
+"LastModified": "03/23/2023 11:05:42",
 "Key": "content/cos/hnc/mrf/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:24:30",
+"LastModified": "09/21/2023 15:39:10",
 "Key": "content/cos/hnc/mrf/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:24:30",
+"LastModified": "03/23/2023 11:05:42",
 "Key": "content/cos/hnc/mrf/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -2883,11 +2883,11 @@
 "Size": "14088"
 },
 {
-"name": "range_modified_rec_fire_fy20.pdf",
-"LastModified": "08/27/2018 10:39:17",
-"Key": "content/cos/hnc/mrf/Library/DD1391 Templates/range_modified_rec_fire_fy20.pdf",
+"name": "range_modified_rec_fire.pdf",
+"LastModified": "07/20/2023 14:24:58",
+"Key": "content/cos/hnc/mrf/Library/DD1391 Templates/range_modified_rec_fire.pdf",
 "extension": ".pdf",
-"Size": "21639"
+"Size": "33767"
 },
 {
 "name": "Change_Proposal_and_Tracking_Form.pdf",
@@ -2919,7 +2919,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:24:31",
+"LastModified": "03/23/2023 11:05:42",
 "Key": "content/cos/hnc/osf/Library",
 "extension": "",
 "Size": ""
@@ -2933,14 +2933,14 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:24:30",
+"LastModified": "03/23/2023 11:05:42",
 "Key": "content/cos/hnc/osf/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:24:31",
+"LastModified": "03/23/2023 11:05:42",
 "Key": "content/cos/hnc/osf/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -2968,7 +2968,7 @@
 },
 {
 "name": "Library",
-"LastModified": "10/03/2019 11:29:14",
+"LastModified": "03/23/2023 11:05:47",
 "Key": "content/cos/hnc/pfc/Library",
 "extension": "",
 "Size": ""
@@ -3129,7 +3129,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "04/05/2021 11:19:45",
+"LastModified": "03/23/2023 11:05:45",
 "Key": "content/cos/hnc/pfc/Library/Archive",
 "extension": "",
 "Size": ""
@@ -3143,7 +3143,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "07/14/2023 16:30:28",
+"LastModified": "09/21/2023 15:46:38",
 "Key": "content/cos/hnc/pfc/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -3157,14 +3157,14 @@
 },
 {
 "name": "Misc. Docs (VE, LCCA, LEED, etc...)",
-"LastModified": "05/14/2021 09:08:37",
+"LastModified": "03/23/2023 11:05:46",
 "Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
 "extension": ".)",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:24:33",
+"LastModified": "03/23/2023 11:05:48",
 "Key": "content/cos/hnc/pfc/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -3373,71 +3373,71 @@
 "Size": "1162937"
 },
 {
-"name": "phy_fitness_ex-small_25-meter-pool_fy20.pdf",
-"LastModified": "08/27/2018 10:42:03",
-"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_ex-small_25-meter-pool_fy20.pdf",
+"name": "phy_fitness_ex-small_25-meter-pool.pdf",
+"LastModified": "07/20/2023 14:30:57",
+"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_ex-small_25-meter-pool.pdf",
 "extension": ".pdf",
-"Size": "20873"
+"Size": "32212"
 },
 {
-"name": "phy_fitness_ex-small_50-meter-pool_fy20.pdf",
-"LastModified": "08/27/2018 10:42:09",
-"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_ex-small_50-meter-pool_fy20.pdf",
+"name": "phy_fitness_ex-small_50-meter-pool.pdf",
+"LastModified": "07/20/2023 14:45:35",
+"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_ex-small_50-meter-pool.pdf",
 "extension": ".pdf",
-"Size": "21045"
+"Size": "34208"
 },
 {
-"name": "phy_fitness_lrg_25-meter-pool_fy20.pdf",
-"LastModified": "08/27/2018 10:42:14",
-"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_lrg_25-meter-pool_fy20.pdf",
+"name": "phy_fitness_lrg_25-meter-pool.pdf",
+"LastModified": "07/20/2023 14:54:32",
+"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_lrg_25-meter-pool.pdf",
 "extension": ".pdf",
-"Size": "21108"
+"Size": "34303"
 },
 {
-"name": "phy_fitness_lrg_50-meter-pool_fy20.pdf",
-"LastModified": "08/27/2018 10:42:22",
-"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_lrg_50-meter-pool_fy20.pdf",
+"name": "phy_fitness_lrg_50-meter-pool.pdf",
+"LastModified": "07/20/2023 16:31:55",
+"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_lrg_50-meter-pool.pdf",
 "extension": ".pdf",
-"Size": "21105"
+"Size": "34300"
 },
 {
-"name": "phy_fitness_med_25-meter-pool_fy20.pdf",
-"LastModified": "08/27/2018 10:42:26",
-"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_med_25-meter-pool_fy20.pdf",
+"name": "phy_fitness_med_25-meter-pool.pdf",
+"LastModified": "07/20/2023 16:36:51",
+"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_med_25-meter-pool.pdf",
 "extension": ".pdf",
-"Size": "21166"
+"Size": "32594"
 },
 {
-"name": "phy_fitness_med_50-meter-pool_fy20.pdf",
-"LastModified": "08/27/2018 10:42:30",
-"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_med_50-meter-pool_fy20.pdf",
+"name": "phy_fitness_med_50-meter-pool.pdf",
+"LastModified": "07/20/2023 16:42:54",
+"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_med_50-meter-pool.pdf",
 "extension": ".pdf",
-"Size": "21160"
+"Size": "34348"
 },
 {
-"name": "phy_fitness_small_25-meter-pool_fy20.pdf",
-"LastModified": "08/27/2018 10:42:34",
-"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_small_25-meter-pool_fy20.pdf",
+"name": "phy_fitness_small_25-meter-pool.pdf",
+"LastModified": "07/20/2023 17:35:22",
+"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_small_25-meter-pool.pdf",
 "extension": ".pdf",
-"Size": "21119"
+"Size": "34295"
 },
 {
-"name": "phy_fitness_small_50-meter-pool_fy20.pdf",
-"LastModified": "08/27/2018 10:42:39",
-"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_small_50-meter-pool_fy20.pdf",
+"name": "phy_fitness_small_50-meter-pool.pdf",
+"LastModified": "08/15/2023 16:20:55",
+"Key": "content/cos/hnc/pfc/Library/DD1391 Templates/phy_fitness_small_50-meter-pool.pdf",
 "extension": ".pdf",
-"Size": "21117"
+"Size": "32718"
 },
 {
 "name": "Energy Models",
-"LastModified": "10/03/2019 11:30:13",
+"LastModified": "03/23/2023 11:05:46",
 "Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models",
 "extension": "",
 "Size": ""
 },
 {
 "name": "POTR Reports",
-"LastModified": "10/03/2019 11:29:30",
+"LastModified": "03/23/2023 11:05:47",
 "Key": "content/cos/hnc/pfc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/POTR Reports",
 "extension": "",
 "Size": ""
@@ -3528,7 +3528,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "09/25/2019 08:24:33",
+"LastModified": "03/23/2023 11:05:48",
 "Key": "content/cos/hnc/pfc/Library/Standard Designs/Archive",
 "extension": "",
 "Size": ""
@@ -3549,7 +3549,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:24:36",
+"LastModified": "03/23/2023 11:05:48",
 "Key": "content/cos/hnc/sfsc/Library",
 "extension": "",
 "Size": ""
@@ -3563,7 +3563,7 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:24:36",
+"LastModified": "03/23/2023 11:05:48",
 "Key": "content/cos/hnc/sfsc/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -3598,21 +3598,21 @@
 },
 {
 "name": "Library",
-"LastModified": "06/11/2021 09:07:07",
+"LastModified": "03/23/2023 11:05:49",
 "Key": "content/cos/hnc/sprc/Library",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Archive",
-"LastModified": "02/22/2023 13:33:22",
+"LastModified": "03/23/2023 11:05:48",
 "Key": "content/cos/hnc/sprc/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "02/22/2023 13:35:47",
+"LastModified": "03/23/2023 11:05:49",
 "Key": "content/cos/hnc/sprc/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -3640,7 +3640,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "10/01/2021 09:21:11",
+"LastModified": "03/23/2023 11:05:50",
 "Key": "content/cos/hnc/sprc/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -3724,7 +3724,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:24:37",
+"LastModified": "03/23/2023 11:05:51",
 "Key": "content/cos/hnc/tsc/Library",
 "extension": "",
 "Size": ""
@@ -3738,14 +3738,14 @@
 },
 {
 "name": "Energy Models",
-"LastModified": "09/25/2019 08:24:37",
+"LastModified": "03/23/2023 11:05:51",
 "Key": "content/cos/hnc/tsc/Library/Energy Models",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:24:37",
+"LastModified": "03/23/2023 11:05:54",
 "Key": "content/cos/hnc/tsc/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -3808,7 +3808,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:24:37",
+"LastModified": "03/23/2023 11:05:54",
 "Key": "content/cos/hnc/uac/Library",
 "extension": "",
 "Size": ""
@@ -3822,21 +3822,21 @@
 },
 {
 "name": "Archive",
-"LastModified": "09/25/2019 08:24:37",
+"LastModified": "03/23/2023 11:05:54",
 "Key": "content/cos/hnc/uac/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:24:37",
+"LastModified": "09/21/2023 15:48:01",
 "Key": "content/cos/hnc/uac/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:24:37",
+"LastModified": "03/23/2023 11:05:54",
 "Key": "content/cos/hnc/uac/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -3856,11 +3856,11 @@
 "Size": "11223"
 },
 {
-"name": "range_urban_assailt_course_fy20.pdf",
-"LastModified": "08/27/2018 10:45:12",
-"Key": "content/cos/hnc/uac/Library/DD1391 Templates/range_urban_assailt_course_fy20.pdf",
+"name": "range_urban_assault_course.pdf",
+"LastModified": "08/24/2023 16:34:50",
+"Key": "content/cos/hnc/uac/Library/DD1391 Templates/range_urban_assault_course.pdf",
 "extension": ".pdf",
-"Size": "21792"
+"Size": "32431"
 },
 {
 "name": "Change_Proposal_and_Tracking_Form.pdf",
@@ -3878,7 +3878,7 @@
 },
 {
 "name": "Library",
-"LastModified": "10/03/2019 11:32:25",
+"LastModified": "03/23/2023 11:06:34",
 "Key": "content/cos/hnc/yc/Library",
 "extension": "",
 "Size": ""
@@ -3955,21 +3955,21 @@
 },
 {
 "name": "Archive",
-"LastModified": "04/05/2021 11:20:55",
+"LastModified": "03/23/2023 11:05:57",
 "Key": "content/cos/hnc/yc/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "04/07/2021 13:01:23",
+"LastModified": "03/23/2023 11:06:21",
 "Key": "content/cos/hnc/yc/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:24:38",
+"LastModified": "09/21/2023 15:50:20",
 "Key": "content/cos/hnc/yc/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -3983,21 +3983,21 @@
 },
 {
 "name": "Misc. Docs (VE, LCCA, LEED, etc...)",
-"LastModified": "09/07/2021 09:39:45",
+"LastModified": "03/23/2023 11:06:31",
 "Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
 "extension": ".)",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "08/11/2020 13:12:55",
+"LastModified": "03/23/2023 11:06:38",
 "Key": "content/cos/hnc/yc/Library/Standard Designs",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD 1391 Templates",
-"LastModified": "09/25/2019 08:24:38",
+"LastModified": "03/23/2023 11:05:57",
 "Key": "content/cos/hnc/yc/Library/Archive/DD 1391 Templates",
 "extension": "",
 "Size": ""
@@ -4011,7 +4011,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "08/11/2020 13:12:55",
+"LastModified": "03/23/2023 11:06:21",
 "Key": "content/cos/hnc/yc/Library/Archive/Standard Designs",
 "extension": "",
 "Size": ""
@@ -4290,67 +4290,67 @@
 "Size": "755385"
 },
 {
-"name": "youth_activity_ctr_fy20-large-no_teen_rm.pdf",
-"LastModified": "08/27/2018 10:22:08",
-"Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr_fy20-large-no_teen_rm.pdf",
+"name": "youth_activity_ctr-large-no_teen_rm.pdf",
+"LastModified": "08/24/2023 16:32:23",
+"Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr-large-no_teen_rm.pdf",
 "extension": ".pdf",
-"Size": "20815"
+"Size": "28193"
 },
 {
-"name": "youth_activity_ctr_fy20-large-w-lg_teen_rm.pdf",
-"LastModified": "08/27/2018 10:21:58",
-"Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr_fy20-large-w-lg_teen_rm.pdf",
+"name": "youth_activity_ctr-large-w-lg_teen_rm.pdf",
+"LastModified": "08/25/2023 09:29:04",
+"Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr-large-w-lg_teen_rm.pdf",
 "extension": ".pdf",
-"Size": "20932"
+"Size": "14884"
 },
 {
-"name": "youth_activity_ctr_fy20-large-w-sm_teen_rm.pdf",
-"LastModified": "08/27/2018 10:21:55",
-"Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr_fy20-large-w-sm_teen_rm.pdf",
+"name": "youth_activity_ctr-med-no_teen_rm.pdf",
+"LastModified": "08/25/2023 10:38:34",
+"Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr-med-no_teen_rm.pdf",
 "extension": ".pdf",
-"Size": "20937"
+"Size": "28231"
 },
 {
-"name": "youth_activity_ctr_fy20-med-no_teen_rm.pdf",
-"LastModified": "08/27/2018 10:21:50",
-"Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr_fy20-med-no_teen_rm.pdf",
+"name": "youth_activity_ctr-med-w-lg_teen_rm.pdf",
+"LastModified": "08/25/2023 10:47:34",
+"Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr-med-w-lg_teen_rm.pdf",
 "extension": ".pdf",
-"Size": "20830"
+"Size": "28365"
 },
 {
-"name": "youth_activity_ctr_fy20-med-w-lg_teen_rm.pdf",
-"LastModified": "08/27/2018 10:21:47",
-"Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr_fy20-med-w-lg_teen_rm.pdf",
+"name": "youth_activity_ctr-med-w-sm_teen_rm.pdf",
+"LastModified": "08/25/2023 10:53:53",
+"Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr-med-w-sm_teen_rm.pdf",
 "extension": ".pdf",
-"Size": "20939"
+"Size": "28459"
 },
 {
-"name": "youth_activity_ctr_fy20-med-w-sm_teen_rm.pdf",
-"LastModified": "08/27/2018 10:21:45",
-"Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr_fy20-med-w-sm_teen_rm.pdf",
+"name": "youth_activity_ctr-small-no_teen_rm.pdf",
+"LastModified": "08/25/2023 10:57:15",
+"Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr-small-no_teen_rm.pdf",
 "extension": ".pdf",
-"Size": "21030"
+"Size": "23590"
 },
 {
-"name": "youth_activity_ctr_fy20-small-no_teen_rm.pdf",
-"LastModified": "08/27/2018 10:21:39",
-"Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr_fy20-small-no_teen_rm.pdf",
+"name": "youth_activity_ctr-small-w-sm_teen_rm.pdf",
+"LastModified": "08/25/2023 12:23:52",
+"Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr-small-w-sm_teen_rm.pdf",
 "extension": ".pdf",
-"Size": "20797"
+"Size": "28308"
 },
 {
-"name": "youth_activity_ctr_fy20-small-w-lg_teen_rm.pdf",
-"LastModified": "08/27/2018 10:21:35",
-"Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr_fy20-small-w-lg_teen_rm.pdf",
+"name": "youth_activity_ctr_large-w-sm_teen_rm.pdf",
+"LastModified": "08/25/2023 09:14:38",
+"Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr_large-w-sm_teen_rm.pdf",
 "extension": ".pdf",
-"Size": "20951"
+"Size": "15668"
 },
 {
-"name": "youth_activity_ctr_fy20-small-w-sm_teen_rm.pdf",
-"LastModified": "08/27/2018 10:21:31",
-"Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr_fy20-small-w-sm_teen_rm.pdf",
+"name": "youth_activity_ctr_small-w-lg_teen_rm.pdf",
+"LastModified": "08/25/2023 12:19:47",
+"Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr_small-w-lg_teen_rm.pdf",
 "extension": ".pdf",
-"Size": "20948"
+"Size": "28355"
 },
 {
 "name": "Color Scheme",
@@ -4361,7 +4361,7 @@
 },
 {
 "name": "Energy Models",
-"LastModified": "10/03/2019 11:32:45",
+"LastModified": "03/23/2023 11:06:31",
 "Key": "content/cos/hnc/yc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Energy Models",
 "extension": "",
 "Size": ""
@@ -4494,7 +4494,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:24:54",
+"LastModified": "03/23/2023 11:06:38",
 "Key": "content/cos/hnc/zero/Library",
 "extension": "",
 "Size": ""
@@ -4508,21 +4508,21 @@
 },
 {
 "name": "Archive",
-"LastModified": "09/25/2019 08:24:54",
+"LastModified": "03/23/2023 11:06:38",
 "Key": "content/cos/hnc/zero/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:24:54",
+"LastModified": "09/21/2023 15:35:30",
 "Key": "content/cos/hnc/zero/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:24:55",
+"LastModified": "03/23/2023 11:06:39",
 "Key": "content/cos/hnc/zero/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -4542,11 +4542,11 @@
 "Size": "14224"
 },
 {
-"name": "range_basic10m-25m_firing_fy20.pdf",
-"LastModified": "08/27/2018 10:46:31",
-"Key": "content/cos/hnc/zero/Library/DD1391 Templates/range_basic10m-25m_firing_fy20.pdf",
+"name": "range_basic10m-25m_firing.pdf",
+"LastModified": "07/19/2023 14:55:59",
+"Key": "content/cos/hnc/zero/Library/DD1391 Templates/range_basic10m-25m_firing.pdf",
 "extension": ".pdf",
-"Size": "21755"
+"Size": "19424"
 },
 {
 "name": "Change_Proposal_and_Tracking_Form.pdf",
@@ -4564,21 +4564,21 @@
 },
 {
 "name": "center_home_page",
-"LastModified": "09/26/2019 09:55:41",
+"LastModified": "03/23/2023 11:06:39",
 "Key": "content/cos/lrl/center_home_page",
 "extension": "",
 "Size": ""
 },
 {
 "name": "jc",
-"LastModified": "09/25/2019 11:01:49",
+"LastModified": "03/23/2023 11:06:42",
 "Key": "content/cos/lrl/jc",
 "extension": "",
 "Size": ""
 },
 {
 "name": "ortc",
-"LastModified": "09/25/2019 08:24:56",
+"LastModified": "03/23/2023 11:06:46",
 "Key": "content/cos/lrl/ortc",
 "extension": "",
 "Size": ""
@@ -4592,7 +4592,7 @@
 },
 {
 "name": "Library",
-"LastModified": "05/12/2020 09:39:22",
+"LastModified": "03/23/2023 11:06:43",
 "Key": "content/cos/lrl/jc/Library",
 "extension": "",
 "Size": ""
@@ -4648,35 +4648,35 @@
 },
 {
 "name": "Archive",
-"LastModified": "09/25/2019 08:24:55",
+"LastModified": "03/23/2023 11:06:43",
 "Key": "content/cos/lrl/jc/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:24:56",
+"LastModified": "03/23/2023 11:06:43",
 "Key": "content/cos/lrl/jc/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "08/02/2022 15:46:52",
+"LastModified": "09/21/2023 15:51:54",
 "Key": "content/cos/lrl/jc/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "05/12/2020 09:39:48",
+"LastModified": "03/23/2023 11:06:43",
 "Key": "content/cos/lrl/jc/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:24:56",
+"LastModified": "03/23/2023 11:06:44",
 "Key": "content/cos/lrl/jc/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -4710,11 +4710,11 @@
 "Size": "270522"
 },
 {
-"name": "Judicial_Center_wCourtroom_FY 22 20220729.pdf",
-"LastModified": "07/29/2022 11:37:00",
-"Key": "content/cos/lrl/jc/Library/DD1391 Templates/Judicial_Center_wCourtroom_FY 22 20220729.pdf",
+"name": "Judicial_Center_wCourtroom.pdf",
+"LastModified": "08/25/2023 12:32:38",
+"Key": "content/cos/lrl/jc/Library/DD1391 Templates/Judicial_Center_wCourtroom.pdf",
 "extension": ".pdf",
-"Size": "19430"
+"Size": "41769"
 },
 {
 "name": "LEED v4 Checklist-Judicial Center COS.XLSX",
@@ -4732,7 +4732,7 @@
 },
 {
 "name": "Library",
-"LastModified": "08/24/2020 08:27:06",
+"LastModified": "03/23/2023 11:06:52",
 "Key": "content/cos/lrl/ortc/Library",
 "extension": "",
 "Size": ""
@@ -4851,35 +4851,35 @@
 },
 {
 "name": "Archives",
-"LastModified": "02/19/2021 13:38:27",
+"LastModified": "03/23/2023 11:06:49",
 "Key": "content/cos/lrl/ortc/Library/Archives",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:24:56",
+"LastModified": "03/23/2023 11:06:49",
 "Key": "content/cos/lrl/ortc/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "08/02/2022 15:48:36",
+"LastModified": "09/21/2023 15:52:35",
 "Key": "content/cos/lrl/ortc/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "04/25/2022 16:15:04",
+"LastModified": "03/23/2023 11:06:52",
 "Key": "content/cos/lrl/ortc/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "02/19/2021 13:38:27",
+"LastModified": "03/23/2023 11:06:53",
 "Key": "content/cos/lrl/ortc/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -4906,11 +4906,11 @@
 "Size": "2662004"
 },
 {
-"name": "Operational_Readiness_Training_Complex_ORTC_FY22 20220729.pdf",
-"LastModified": "07/29/2022 11:37:00",
-"Key": "content/cos/lrl/ortc/Library/DD1391 Templates/Operational_Readiness_Training_Complex_ORTC_FY22 20220729.pdf",
+"name": "Operational_Readiness_Training_Complex_ORTC.pdf",
+"LastModified": "08/25/2023 12:40:04",
+"Key": "content/cos/lrl/ortc/Library/DD1391 Templates/Operational_Readiness_Training_Complex_ORTC.pdf",
 "extension": ".pdf",
-"Size": "20706"
+"Size": "38643"
 },
 {
 "name": "DFAC INTERIORS STANDARD.pdf",
@@ -4942,70 +4942,70 @@
 },
 {
 "name": "afh",
-"LastModified": "09/25/2019 08:24:57",
+"LastModified": "03/23/2023 11:06:54",
 "Key": "content/cos/nao/afh",
 "extension": "",
 "Size": ""
 },
 {
 "name": "center_home_page",
-"LastModified": "09/26/2019 09:56:14",
+"LastModified": "03/23/2023 11:06:58",
 "Key": "content/cos/nao/center_home_page",
 "extension": "",
 "Size": ""
 },
 {
 "name": "cidc",
-"LastModified": "09/25/2019 08:24:58",
+"LastModified": "03/23/2023 11:06:58",
 "Key": "content/cos/nao/cidc",
 "extension": "",
 "Size": ""
 },
 {
 "name": "crxxi",
-"LastModified": "09/25/2019 08:24:59",
+"LastModified": "03/23/2023 11:07:00",
 "Key": "content/cos/nao/crxxi",
 "extension": "",
 "Size": ""
 },
 {
 "name": "epdf",
-"LastModified": "09/25/2019 08:24:59",
+"LastModified": "03/23/2023 11:07:00",
 "Key": "content/cos/nao/epdf",
 "extension": "",
 "Size": ""
 },
 {
 "name": "gib",
-"LastModified": "09/25/2019 08:25:04",
+"LastModified": "03/23/2023 11:07:11",
 "Key": "content/cos/nao/gib",
 "extension": "",
 "Size": ""
 },
 {
 "name": "infosys",
-"LastModified": "01/08/2021 10:08:33",
+"LastModified": "03/23/2023 11:07:16",
 "Key": "content/cos/nao/infosys",
 "extension": "",
 "Size": ""
 },
 {
 "name": "meps",
-"LastModified": "01/08/2021 10:08:11",
+"LastModified": "03/23/2023 11:07:16",
 "Key": "content/cos/nao/meps",
 "extension": "",
 "Size": ""
 },
 {
 "name": "ncoa",
-"LastModified": "09/25/2019 08:25:05",
+"LastModified": "03/23/2023 11:07:16",
 "Key": "content/cos/nao/ncoa",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Library",
-"LastModified": "09/11/2020 08:46:02",
+"LastModified": "03/23/2023 11:06:58",
 "Key": "content/cos/nao/afh/Library",
 "extension": "",
 "Size": ""
@@ -5019,35 +5019,35 @@
 },
 {
 "name": "Archives",
-"LastModified": "09/11/2020 08:46:08",
+"LastModified": "03/23/2023 11:06:54",
 "Key": "content/cos/nao/afh/Library/Archives",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/11/2020 08:46:42",
+"LastModified": "03/23/2023 11:06:55",
 "Key": "content/cos/nao/afh/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:24:58",
+"LastModified": "09/21/2023 15:57:47",
 "Key": "content/cos/nao/afh/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:24:58",
+"LastModified": "08/09/2023 13:02:44",
 "Key": "content/cos/nao/afh/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/11/2020 08:46:23",
+"LastModified": "03/23/2023 11:06:58",
 "Key": "content/cos/nao/afh/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -5081,130 +5081,130 @@
 "Size": "2886103"
 },
 {
-"name": "fam_housing_col_fy20.pdf",
-"LastModified": "08/02/2018 14:15:44",
-"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_col_fy20.pdf",
+"name": "fam_housing_col.pdf",
+"LastModified": "08/28/2023 09:36:14",
+"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_col.pdf",
 "extension": ".pdf",
-"Size": "18714"
+"Size": "13188"
 },
 {
-"name": "fam_housing_cwo-45_3br_fy20.pdf",
-"LastModified": "08/02/2018 14:15:45",
-"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_cwo-45_3br_fy20.pdf",
+"name": "fam_housing_cwo-45_3br.pdf",
+"LastModified": "08/28/2023 09:42:13",
+"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_cwo-45_3br.pdf",
 "extension": ".pdf",
-"Size": "18722"
+"Size": "13147"
 },
 {
-"name": "fam_housing_cwo-45_4br_fy20.pdf",
-"LastModified": "08/02/2018 14:15:47",
-"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_cwo-45_4br_fy20.pdf",
+"name": "fam_housing_cwo-45_4br.pdf",
+"LastModified": "08/28/2023 09:58:06",
+"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_cwo-45_4br.pdf",
 "extension": ".pdf",
-"Size": "18818"
+"Size": "18195"
 },
 {
-"name": "fam_housing_go_o7_8_fy20.pdf",
-"LastModified": "08/02/2018 14:15:49",
-"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_go_o7_8_fy20.pdf",
+"name": "fam_housing_go_o7_8.pdf",
+"LastModified": "08/28/2023 10:01:00",
+"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_go_o7_8.pdf",
 "extension": ".pdf",
-"Size": "22003"
+"Size": "15850"
 },
 {
-"name": "fam_housing_go_o9_10_fy20.pdf",
-"LastModified": "08/02/2018 14:15:50",
-"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_go_o9_10_fy20.pdf",
+"name": "fam_housing_go_o9_10.pdf",
+"LastModified": "08/28/2023 10:19:50",
+"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_go_o9_10.pdf",
 "extension": ".pdf",
-"Size": "28109"
+"Size": "16073"
 },
 {
-"name": "fam_housing_junior_enl_3br_fy20.pdf",
-"LastModified": "08/02/2018 14:15:51",
-"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_junior_enl_3br_fy20.pdf",
+"name": "fam_housing_junior_enl_3br.pdf",
+"LastModified": "08/28/2023 10:24:10",
+"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_junior_enl_3br.pdf",
 "extension": ".pdf",
-"Size": "18862"
+"Size": "14282"
 },
 {
-"name": "fam_housing_junior_enl_4br_fy20.pdf",
-"LastModified": "08/02/2018 14:15:52",
-"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_junior_enl_4br_fy20.pdf",
+"name": "fam_housing_junior_enl_4br.pdf",
+"LastModified": "08/28/2023 10:27:31",
+"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_junior_enl_4br.pdf",
 "extension": ".pdf",
-"Size": "18770"
+"Size": "13175"
 },
 {
-"name": "fam_housing_junior_enl_5br_fy20.pdf",
-"LastModified": "08/02/2018 14:15:53",
-"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_junior_enl_5br_fy20.pdf",
+"name": "fam_housing_junior_enl_5br.pdf",
+"LastModified": "08/28/2023 10:31:36",
+"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_junior_enl_5br.pdf",
 "extension": ".pdf",
-"Size": "18778"
+"Size": "13182"
 },
 {
-"name": "fam_housing_ltc-maj_3br_fy20.pdf",
-"LastModified": "08/02/2018 14:15:54",
-"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_ltc-maj_3br_fy20.pdf",
+"name": "fam_housing_ltc-maj_3br.pdf",
+"LastModified": "08/28/2023 10:45:23",
+"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_ltc-maj_3br.pdf",
 "extension": ".pdf",
-"Size": "18746"
+"Size": "13186"
 },
 {
-"name": "fam_housing_ltc-maj_4br_fy20.pdf",
-"LastModified": "08/02/2018 14:15:54",
-"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_ltc-maj_4br_fy20.pdf",
+"name": "fam_housing_ltc-maj_4br.pdf",
+"LastModified": "08/28/2023 11:02:58",
+"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_ltc-maj_4br.pdf",
 "extension": ".pdf",
-"Size": "18746"
+"Size": "13179"
 },
 {
-"name": "fam_housing_senior-e78_nco_3br_fy20.pdf",
-"LastModified": "08/02/2018 14:15:57",
-"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_senior-e78_nco_3br_fy20.pdf",
+"name": "fam_housing_senior-e78_nco_3br.pdf",
+"LastModified": "08/28/2023 11:20:37",
+"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_senior-e78_nco_3br.pdf",
 "extension": ".pdf",
-"Size": "18754"
+"Size": "13184"
 },
 {
-"name": "fam_housing_senior-e78_nco_4br_fy20.pdf",
-"LastModified": "08/02/2018 14:15:57",
-"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_senior-e78_nco_4br_fy20.pdf",
+"name": "fam_housing_senior-e78_nco_4br.pdf",
+"LastModified": "08/28/2023 11:24:40",
+"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_senior-e78_nco_4br.pdf",
 "extension": ".pdf",
-"Size": "18768"
+"Size": "13184"
 },
 {
-"name": "fam_housing_senior-e78_nco_5br_fy20.pdf",
-"LastModified": "08/02/2018 14:15:58",
-"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_senior-e78_nco_5br_fy20.pdf",
+"name": "fam_housing_senior-e78_nco_5br.pdf",
+"LastModified": "08/28/2023 11:27:27",
+"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_senior-e78_nco_5br.pdf",
 "extension": ".pdf",
-"Size": "18830"
+"Size": "13255"
 },
 {
-"name": "fam_housing_senior-e9_nco_3br_fy20.pdf",
-"LastModified": "08/02/2018 14:15:55",
-"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_senior-e9_nco_3br_fy20.pdf",
+"name": "fam_housing_senior-e9_nco_3br.pdf",
+"LastModified": "08/28/2023 12:11:05",
+"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_senior-e9_nco_3br.pdf",
 "extension": ".pdf",
-"Size": "19424"
+"Size": "15657"
 },
 {
-"name": "fam_housing_senior-e9_nco_4br_fy20.pdf",
-"LastModified": "08/02/2018 14:15:56",
-"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_senior-e9_nco_4br_fy20.pdf",
+"name": "fam_housing_senior-e9_nco_4br.pdf",
+"LastModified": "08/28/2023 15:49:15",
+"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_senior-e9_nco_4br.pdf",
 "extension": ".pdf",
-"Size": "19422"
+"Size": "14824"
 },
 {
-"name": "fam_housing_wo-13_3br_fy20.pdf",
-"LastModified": "08/02/2018 14:15:59",
-"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_wo-13_3br_fy20.pdf",
+"name": "fam_housing_wo-13_3br.pdf",
+"LastModified": "08/28/2023 15:53:24",
+"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_wo-13_3br.pdf",
 "extension": ".pdf",
-"Size": "18822"
+"Size": "13217"
 },
 {
-"name": "fam_housing_wo-13_4br_fy20.pdf",
-"LastModified": "08/02/2018 14:16:00",
-"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_wo-13_4br_fy20.pdf",
+"name": "fam_housing_wo-13_4br.pdf",
+"LastModified": "08/28/2023 15:58:15",
+"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_wo-13_4br.pdf",
 "extension": ".pdf",
-"Size": "18855"
+"Size": "13246"
 },
 {
-"name": "fam_housing_wo-13_5br_fy20.pdf",
-"LastModified": "08/02/2018 14:16:00",
-"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_wo-13_5br_fy20.pdf",
+"name": "fam_housing_wo-13_5br.pdf",
+"LastModified": "08/28/2023 16:11:34",
+"Key": "content/cos/nao/afh/Library/DD1391 Templates/fam_housing_wo-13_5br.pdf",
 "extension": ".pdf",
-"Size": "18851"
+"Size": "13247"
 },
 {
 "name": "army_sdd_policy_update_2017.pdf",
@@ -5228,11 +5228,11 @@
 "Size": "246728"
 },
 {
-"name": "leed-v4-for-homes-design-and-construction-checklist_2018_09_25.pdf",
-"LastModified": "09/25/2018 13:13:54",
-"Key": "content/cos/nao/afh/Library/Misc. Documents/leed-v4-for-homes-design-and-construction-checklist_2018_09_25.pdf",
+"name": "LEED v4 for Homes Design and Construction Checklist 31 Jul 2023.pdf",
+"LastModified": "08/01/2023 09:22:08",
+"Key": "content/cos/nao/afh/Library/Misc. Documents/LEED v4 for Homes Design and Construction Checklist 31 Jul 2023.pdf",
 "extension": ".pdf",
-"Size": "114496"
+"Size": "570415"
 },
 {
 "name": "RCI Family Housing Update 4 reference memo dated 13 Jul 2011.pdf",
@@ -5257,7 +5257,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:24:59",
+"LastModified": "03/23/2023 11:06:59",
 "Key": "content/cos/nao/cidc/Library",
 "extension": "",
 "Size": ""
@@ -5271,28 +5271,28 @@
 },
 {
 "name": "Adapt-Build Models",
-"LastModified": "12/15/2020 08:19:27",
+"LastModified": "03/23/2023 11:06:58",
 "Key": "content/cos/nao/cidc/Library/Adapt-Build Models",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "11/02/2022 10:42:02",
+"LastModified": "09/21/2023 16:00:37",
 "Key": "content/cos/nao/cidc/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "05/11/2020 08:51:59",
+"LastModified": "03/23/2023 11:06:59",
 "Key": "content/cos/nao/cidc/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "12/08/2020 12:01:08",
+"LastModified": "03/23/2023 11:06:59",
 "Key": "content/cos/nao/cidc/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -5305,32 +5305,32 @@
 "Size": "59"
 },
 {
-"name": "Criminal_Investigation_CIDC _Field_Operations_Building_Small_Forms_-_Reviewers_Print__FY 22.pdf",
-"LastModified": "11/01/2022 09:51:53",
-"Key": "content/cos/nao/cidc/Library/DD1391 Templates/Criminal_Investigation_CIDC _Field_Operations_Building_Small_Forms_-_Reviewers_Print__FY 22.pdf",
+"name": "Criminal_Investigation_CIDC _Field_Operations_Building_Small_Forms_-_Reviewers_Print.pdf",
+"LastModified": "08/28/2023 16:41:18",
+"Key": "content/cos/nao/cidc/Library/DD1391 Templates/Criminal_Investigation_CIDC _Field_Operations_Building_Small_Forms_-_Reviewers_Print.pdf",
 "extension": ".pdf",
-"Size": "15855"
+"Size": "18724"
 },
 {
-"name": "Criminal_Investigation_CIDC_Field_Operations_Building_Large_Forms_-_Reviewers_Print__FY 22.pdf",
-"LastModified": "11/01/2022 09:51:53",
-"Key": "content/cos/nao/cidc/Library/DD1391 Templates/Criminal_Investigation_CIDC_Field_Operations_Building_Large_Forms_-_Reviewers_Print__FY 22.pdf",
+"name": "Criminal_Investigation_CIDC_Field_Operations_Building_Large_Forms_-_Reviewers_Print.pdf",
+"LastModified": "09/07/2023 11:01:54",
+"Key": "content/cos/nao/cidc/Library/DD1391 Templates/Criminal_Investigation_CIDC_Field_Operations_Building_Large_Forms_-_Reviewers_Print.pdf",
 "extension": ".pdf",
-"Size": "15867"
+"Size": "17880"
 },
 {
-"name": "Criminal_Investigation_CIDC_Field_Operations_Building_Medium_Forms_-_Reviewers_Print_FY 22.pdf",
-"LastModified": "11/01/2022 09:51:53",
-"Key": "content/cos/nao/cidc/Library/DD1391 Templates/Criminal_Investigation_CIDC_Field_Operations_Building_Medium_Forms_-_Reviewers_Print_FY 22.pdf",
+"name": "Criminal_Investigation_CIDC_Field_Operations_Building_Medium_Forms_-_Reviewers_Print.pdf",
+"LastModified": "09/07/2023 11:04:31",
+"Key": "content/cos/nao/cidc/Library/DD1391 Templates/Criminal_Investigation_CIDC_Field_Operations_Building_Medium_Forms_-_Reviewers_Print.pdf",
 "extension": ".pdf",
-"Size": "15864"
+"Size": "17886"
 },
 {
-"name": "Criminal_Investigation_CIDC_Field_Operations_Building_XLarge_Forms_-_Reviewers_Print_FY 22.pdf",
-"LastModified": "11/01/2022 09:51:54",
-"Key": "content/cos/nao/cidc/Library/DD1391 Templates/Criminal_Investigation_CIDC_Field_Operations_Building_XLarge_Forms_-_Reviewers_Print_FY 22.pdf",
+"name": "Criminal_Investigation_CIDC_Field_Operations_Building_XLarge_Forms_-_Reviewers_Print.pdf",
+"LastModified": "09/07/2023 11:08:15",
+"Key": "content/cos/nao/cidc/Library/DD1391 Templates/Criminal_Investigation_CIDC_Field_Operations_Building_XLarge_Forms_-_Reviewers_Print.pdf",
 "extension": ".pdf",
-"Size": "15793"
+"Size": "18226"
 },
 {
 "name": "110226 DRAFT VE Report for CIDC.pdf",
@@ -5362,7 +5362,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:24:59",
+"LastModified": "03/23/2023 11:07:00",
 "Key": "content/cos/nao/crxxi/Library",
 "extension": "",
 "Size": ""
@@ -5376,21 +5376,21 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:24:59",
+"LastModified": "03/23/2023 11:07:00",
 "Key": "content/cos/nao/crxxi/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "11/02/2022 10:43:04",
+"LastModified": "09/21/2023 15:59:50",
 "Key": "content/cos/nao/crxxi/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:24:59",
+"LastModified": "03/23/2023 11:07:00",
 "Key": "content/cos/nao/crxxi/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -5403,11 +5403,11 @@
 "Size": "338872"
 },
 {
-"name": "Automation_Aided_Instructional_Building_Forms_-_Reviewers_Print_FY 22.pdf",
-"LastModified": "11/01/2022 09:51:52",
-"Key": "content/cos/nao/crxxi/Library/DD1391 Templates/Automation_Aided_Instructional_Building_Forms_-_Reviewers_Print_FY 22.pdf",
+"name": "Automation_Aided_Instructional_Building_Forms_-_Reviewers_Print.pdf",
+"LastModified": "08/28/2023 16:22:02",
+"Key": "content/cos/nao/crxxi/Library/DD1391 Templates/Automation_Aided_Instructional_Building_Forms_-_Reviewers_Print.pdf",
 "extension": ".pdf",
-"Size": "15277"
+"Size": "18267"
 },
 {
 "name": "CR21 024.JPG",
@@ -5418,7 +5418,7 @@
 },
 {
 "name": "Library",
-"LastModified": "12/10/2020 09:41:51",
+"LastModified": "03/23/2023 11:07:09",
 "Key": "content/cos/nao/epdf/Library",
 "extension": "",
 "Size": ""
@@ -5432,14 +5432,14 @@
 },
 {
 "name": "Archives",
-"LastModified": "06/30/2022 10:55:13",
+"LastModified": "03/23/2023 11:07:01",
 "Key": "content/cos/nao/epdf/Library/Archives",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "12/08/2020 11:56:01",
+"LastModified": "03/23/2023 11:07:01",
 "Key": "content/cos/nao/epdf/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -5453,28 +5453,28 @@
 },
 {
 "name": "Food Service Codes and Standards",
-"LastModified": "12/10/2020 09:42:08",
+"LastModified": "03/23/2023 11:07:02",
 "Key": "content/cos/nao/epdf/Library/Food Service Codes and Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "12/10/2020 09:41:35",
+"LastModified": "03/23/2023 11:07:06",
 "Key": "content/cos/nao/epdf/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Programmatic Value Engineering Study",
-"LastModified": "04/01/2020 15:41:31",
+"LastModified": "03/23/2023 11:07:09",
 "Key": "content/cos/nao/epdf/Library/Programmatic Value Engineering Study",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "06/30/2022 10:55:13",
+"LastModified": "03/23/2023 11:07:11",
 "Key": "content/cos/nao/epdf/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -5509,21 +5509,21 @@
 },
 {
 "name": "AIT Dining Facility",
-"LastModified": "12/10/2020 09:42:50",
+"LastModified": "03/23/2023 11:07:01",
 "Key": "content/cos/nao/epdf/Library/Army Standards/AIT Dining Facility",
 "extension": "",
 "Size": ""
 },
 {
 "name": "ORTC and Transient Training Dining Facility",
-"LastModified": "12/08/2020 11:54:49",
+"LastModified": "03/23/2023 11:07:01",
 "Key": "content/cos/nao/epdf/Library/Army Standards/ORTC and Transient Training Dining Facility",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Permanent Party Dining Facility",
-"LastModified": "12/08/2020 11:56:01",
+"LastModified": "03/23/2023 11:07:01",
 "Key": "content/cos/nao/epdf/Library/Army Standards/Permanent Party Dining Facility",
 "extension": "",
 "Size": ""
@@ -5607,21 +5607,21 @@
 },
 {
 "name": "AIT Dining Facility",
-"LastModified": "02/03/2021 12:02:08",
+"LastModified": "03/23/2023 11:07:09",
 "Key": "content/cos/nao/epdf/Library/Standard Designs/AIT Dining Facility",
 "extension": "",
 "Size": ""
 },
 {
 "name": "ORTC and Transient Training Dining Facility",
-"LastModified": "12/10/2020 09:39:17",
+"LastModified": "03/23/2023 11:07:11",
 "Key": "content/cos/nao/epdf/Library/Standard Designs/ORTC and Transient Training Dining Facility",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Permanent Part Dining Facility",
-"LastModified": "02/03/2021 12:03:11",
+"LastModified": "03/23/2023 11:07:11",
 "Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility",
 "extension": "",
 "Size": ""
@@ -5684,7 +5684,7 @@
 },
 {
 "name": "Library",
-"LastModified": "04/15/2021 11:32:15",
+"LastModified": "03/23/2023 11:07:15",
 "Key": "content/cos/nao/gib/Library",
 "extension": "",
 "Size": ""
@@ -5698,35 +5698,35 @@
 },
 {
 "name": "Archives",
-"LastModified": "04/15/2021 11:32:23",
+"LastModified": "03/23/2023 11:07:12",
 "Key": "content/cos/nao/gib/Library/Archives",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:25:04",
+"LastModified": "03/23/2023 11:07:12",
 "Key": "content/cos/nao/gib/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "06/05/2023 15:24:10",
+"LastModified": "08/09/2023 13:04:24",
 "Key": "content/cos/nao/gib/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:25:04",
+"LastModified": "03/23/2023 11:07:15",
 "Key": "content/cos/nao/gib/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "04/15/2021 11:38:16",
+"LastModified": "03/23/2023 11:07:15",
 "Key": "content/cos/nao/gib/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -5754,94 +5754,94 @@
 },
 {
 "name": "Educational Centers",
-"LastModified": "06/05/2023 15:24:10",
+"LastModified": "09/21/2023 16:01:45",
 "Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers",
 "extension": "",
 "Size": ""
 },
 {
-"name": "Educational_Center_10001_15000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
-"LastModified": "11/01/2022 09:35:45",
-"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_10001_15000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
+"name": "Educational_Center_10001_15000_Persons_Forms_-_Reviewers_Print.pdf",
+"LastModified": "09/07/2023 11:22:45",
+"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_10001_15000_Persons_Forms_-_Reviewers_Print.pdf",
 "extension": ".pdf",
-"Size": "15797"
+"Size": "17790"
 },
 {
-"name": "Educational_Center_1001_3000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
-"LastModified": "11/01/2022 09:35:43",
-"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_1001_3000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
+"name": "Educational_Center_1001_3000_Persons_Forms_-_Reviewers_Print.pdf",
+"LastModified": "09/07/2023 11:27:03",
+"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_1001_3000_Persons_Forms_-_Reviewers_Print.pdf",
 "extension": ".pdf",
-"Size": "15764"
+"Size": "17757"
 },
 {
-"name": "Educational_Center_15001_20000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
-"LastModified": "11/01/2022 09:35:46",
-"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_15001_20000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
+"name": "Educational_Center_15001_20000_Persons_Forms_-_Reviewers_Print.pdf",
+"LastModified": "09/07/2023 11:29:32",
+"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_15001_20000_Persons_Forms_-_Reviewers_Print.pdf",
 "extension": ".pdf",
-"Size": "15806"
+"Size": "18633"
 },
 {
-"name": "Educational_Center_20001_25000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
-"LastModified": "11/01/2022 09:35:46",
-"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_20001_25000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
+"name": "Educational_Center_20001_25000_Persons_Forms_-_Reviewers_Print.pdf",
+"LastModified": "09/07/2023 11:43:43",
+"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_20001_25000_Persons_Forms_-_Reviewers_Print.pdf",
 "extension": ".pdf",
-"Size": "15802"
+"Size": "17756"
 },
 {
-"name": "Educational_Center_25001_30000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
-"LastModified": "11/01/2022 09:35:46",
-"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_25001_30000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
+"name": "Educational_Center_25001_30000_Persons_Forms_-_Reviewers_Print.pdf",
+"LastModified": "09/07/2023 14:25:44",
+"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_25001_30000_Persons_Forms_-_Reviewers_Print.pdf",
 "extension": ".pdf",
-"Size": "15805"
+"Size": "17765"
 },
 {
-"name": "Educational_Center_251_1000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
-"LastModified": "11/01/2022 09:35:43",
-"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_251_1000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
+"name": "Educational_Center_251_1000_Persons_Forms_-_Reviewers_Print.pdf",
+"LastModified": "09/07/2023 11:49:50",
+"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_251_1000_Persons_Forms_-_Reviewers_Print.pdf",
 "extension": ".pdf",
-"Size": "15777"
+"Size": "17718"
 },
 {
-"name": "Educational_Center_30001_40000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
-"LastModified": "11/01/2022 09:35:47",
-"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_30001_40000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
+"name": "Educational_Center_30001_40000_Persons_Forms_-_Reviewers_Print.pdf",
+"LastModified": "09/07/2023 12:58:42",
+"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_30001_40000_Persons_Forms_-_Reviewers_Print.pdf",
 "extension": ".pdf",
-"Size": "15801"
+"Size": "17755"
 },
 {
-"name": "Educational_Center_3001_5000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
-"LastModified": "11/01/2022 09:35:44",
-"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_3001_5000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
+"name": "Educational_Center_3001_5000_Persons_Forms_-_Reviewers_Print.pdf",
+"LastModified": "09/07/2023 13:03:23",
+"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_3001_5000_Persons_Forms_-_Reviewers_Print.pdf",
 "extension": ".pdf",
-"Size": "15765"
+"Size": "17744"
 },
 {
-"name": "Educational_Center_40001_50000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
-"LastModified": "11/01/2022 09:35:47",
-"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_40001_50000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
+"name": "Educational_Center_40001_50000_Persons_Forms_-_Reviewers_Print.pdf",
+"LastModified": "09/07/2023 13:26:43",
+"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_40001_50000_Persons_Forms_-_Reviewers_Print.pdf",
 "extension": ".pdf",
-"Size": "15804"
+"Size": "17766"
 },
 {
-"name": "Educational_Center_50001_60000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
-"LastModified": "11/01/2022 09:35:42",
-"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_50001_60000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
+"name": "Educational_Center_50001_60000_Persons_Forms_-_Reviewers_Print.pdf",
+"LastModified": "09/07/2023 13:30:42",
+"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_50001_60000_Persons_Forms_-_Reviewers_Print.pdf",
 "extension": ".pdf",
-"Size": "15796"
+"Size": "17764"
 },
 {
-"name": "Educational_Center_5001_7000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
-"LastModified": "11/01/2022 09:35:44",
-"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_5001_7000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
+"name": "Educational_Center_5001_7000_Persons_Forms_-_Reviewers_Print.pdf",
+"LastModified": "09/07/2023 13:35:55",
+"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_5001_7000_Persons_Forms_-_Reviewers_Print.pdf",
 "extension": ".pdf",
-"Size": "15769"
+"Size": "17763"
 },
 {
-"name": "Educational_Center_7001_10000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
-"LastModified": "11/01/2022 09:35:45",
-"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_7001_10000_Persons_Forms_-_Reviewers_Print_FY 22.pdf",
+"name": "Educational_Center_7001_10000_Persons_Forms_-_Reviewers_Print.pdf",
+"LastModified": "09/07/2023 13:42:18",
+"Key": "content/cos/nao/gib/Library/DD1391 Templates/Educational Centers/Educational_Center_7001_10000_Persons_Forms_-_Reviewers_Print.pdf",
 "extension": ".pdf",
-"Size": "15789"
+"Size": "17781"
 },
 {
 "name": "example-classroom-layout_enterprise-digital-classroom.pdf",
@@ -5908,7 +5908,7 @@
 },
 {
 "name": "Library",
-"LastModified": "03/28/2023 15:05:37",
+"LastModified": "08/09/2023 13:07:09",
 "Key": "content/cos/nao/infosys/Library",
 "extension": "",
 "Size": ""
@@ -5922,31 +5922,31 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "03/28/2023 15:05:37",
+"LastModified": "09/21/2023 16:02:21",
 "Key": "content/cos/nao/infosys/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "05/14/2021 09:10:04",
+"LastModified": "03/23/2023 11:07:16",
 "Key": "content/cos/nao/infosys/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "05/28/2021 10:27:09",
+"LastModified": "03/23/2023 11:07:16",
 "Key": "content/cos/nao/infosys/Library/Standard Designs",
 "extension": "",
 "Size": ""
 },
 {
-"name": "Information_Systems_Facility_FY22_Reviewers_Format.pdf",
-"LastModified": "03/24/2023 13:58:00",
-"Key": "content/cos/nao/infosys/Library/DD1391 Templates/Information_Systems_Facility_FY22_Reviewers_Format.pdf",
+"name": "Information_Systems_Facility_Reviewers_Format.pdf",
+"LastModified": "09/07/2023 14:52:24",
+"Key": "content/cos/nao/infosys/Library/DD1391 Templates/Information_Systems_Facility_Reviewers_Format.pdf",
 "extension": ".pdf",
-"Size": "20138"
+"Size": "20243"
 },
 {
 "name": "example_floor_plans.pdf",
@@ -6006,7 +6006,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:06",
+"LastModified": "03/23/2023 11:07:17",
 "Key": "content/cos/nao/ncoa/Library",
 "extension": "",
 "Size": ""
@@ -6027,7 +6027,7 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:25:06",
+"LastModified": "03/23/2023 11:07:17",
 "Key": "content/cos/nao/ncoa/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -6041,14 +6041,14 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:25:06",
+"LastModified": "03/23/2023 11:07:17",
 "Key": "content/cos/nao/ncoa/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "12/16/2022 15:15:02",
+"LastModified": "03/23/2023 11:07:17",
 "Key": "content/cos/nao/ncoa/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -6104,56 +6104,56 @@
 },
 {
 "name": "acp",
-"LastModified": "09/25/2019 08:25:06",
+"LastModified": "03/23/2023 11:07:17",
 "Key": "content/cos/nwo/acp",
 "extension": "",
 "Size": ""
 },
 {
 "name": "center_home_page",
-"LastModified": "09/26/2019 09:57:03",
+"LastModified": "03/23/2023 11:08:31",
 "Key": "content/cos/nwo/center_home_page",
 "extension": "",
 "Size": ""
 },
 {
 "name": "chapels",
-"LastModified": "09/25/2019 08:25:20",
+"LastModified": "03/23/2023 11:08:32",
 "Key": "content/cos/nwo/chapels",
 "extension": "",
 "Size": ""
 },
 {
 "name": "flc",
-"LastModified": "09/25/2019 08:25:22",
+"LastModified": "03/23/2023 11:08:40",
 "Key": "content/cos/nwo/flc",
 "extension": "",
 "Size": ""
 },
 {
 "name": "iet",
-"LastModified": "09/25/2019 08:25:23",
+"LastModified": "03/23/2023 11:08:42",
 "Key": "content/cos/nwo/iet",
 "extension": "",
 "Size": ""
 },
 {
 "name": "ref",
-"LastModified": "09/25/2019 08:25:24",
+"LastModified": "03/23/2023 11:08:44",
 "Key": "content/cos/nwo/ref",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Images",
-"LastModified": "09/25/2019 08:25:06",
+"LastModified": "03/23/2023 11:07:17",
 "Key": "content/cos/nwo/acp/Images",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Library",
-"LastModified": "03/12/2021 09:14:53",
+"LastModified": "03/23/2023 11:08:31",
 "Key": "content/cos/nwo/acp/Library",
 "extension": "",
 "Size": ""
@@ -6167,56 +6167,56 @@
 },
 {
 "name": "2021 Binder PDF Sheets by Discipline",
-"LastModified": "03/12/2021 09:02:50",
+"LastModified": "03/23/2023 11:07:20",
 "Key": "content/cos/nwo/acp/Library/2021 Binder PDF Sheets by Discipline",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Archive",
-"LastModified": "09/30/2022 14:35:03",
+"LastModified": "03/23/2023 11:07:44",
 "Key": "content/cos/nwo/acp/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "04/21/2020 08:35:21",
+"LastModified": "03/23/2023 11:07:52",
 "Key": "content/cos/nwo/acp/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "07/14/2023 16:32:33",
+"LastModified": "09/21/2023 16:04:07",
 "Key": "content/cos/nwo/acp/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Individual 2021 PDF Sheets",
-"LastModified": "03/12/2021 08:59:50",
+"LastModified": "03/23/2023 11:08:17",
 "Key": "content/cos/nwo/acp/Library/Individual 2021 PDF Sheets",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/30/2022 14:35:03",
+"LastModified": "03/23/2023 11:08:20",
 "Key": "content/cos/nwo/acp/Library/Standard Designs",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Standard Drawings",
-"LastModified": "03/12/2021 09:35:07",
+"LastModified": "03/23/2023 11:08:31",
 "Key": "content/cos/nwo/acp/Library/Standard Drawings",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Sustainability Checklist",
-"LastModified": "09/25/2019 08:25:19",
+"LastModified": "09/21/2023 10:00:10",
 "Key": "content/cos/nwo/acp/Library/Sustainability Checklist",
 "extension": "",
 "Size": ""
@@ -6251,49 +6251,49 @@
 },
 {
 "name": "2013 ACP Standard Drawings",
-"LastModified": "03/12/2021 09:23:42",
+"LastModified": "03/23/2023 11:07:27",
 "Key": "content/cos/nwo/acp/Library/Archive/2013 ACP Standard Drawings",
 "extension": "",
 "Size": ""
 },
 {
 "name": "2018 Microstation dgn files Interim Electrical Sheets",
-"LastModified": "09/25/2019 08:25:07",
+"LastModified": "03/23/2023 11:07:31",
 "Key": "content/cos/nwo/acp/Library/Archive/2018 Microstation dgn files Interim Electrical Sheets",
 "extension": "",
 "Size": ""
 },
 {
 "name": "2018 Read Me File and PDFs Draft Electrical Sheets",
-"LastModified": "09/25/2019 08:25:07",
+"LastModified": "03/23/2023 11:07:35",
 "Key": "content/cos/nwo/acp/Library/Archive/2018 Read Me File and PDFs Draft Electrical Sheets",
 "extension": "",
 "Size": ""
 },
 {
 "name": "2018 SDDCTEA Pdf Drawings",
-"LastModified": "09/25/2019 08:25:08",
+"LastModified": "03/23/2023 11:07:36",
 "Key": "content/cos/nwo/acp/Library/Archive/2018 SDDCTEA Pdf Drawings",
 "extension": "",
 "Size": ""
 },
 {
 "name": "2019 Interim Electrical Sheets",
-"LastModified": "03/12/2021 09:22:52",
+"LastModified": "03/23/2023 11:07:38",
 "Key": "content/cos/nwo/acp/Library/Archive/2019 Interim Electrical Sheets",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Previous Drawings",
-"LastModified": "04/21/2020 08:37:37",
+"LastModified": "03/23/2023 11:07:43",
 "Key": "content/cos/nwo/acp/Library/Archive/Previous Drawings",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Previous Guidance & Criteria",
-"LastModified": "09/30/2020 15:42:30",
+"LastModified": "03/23/2023 11:07:50",
 "Key": "content/cos/nwo/acp/Library/Archive/Previous Guidance & Criteria",
 "extension": "",
 "Size": ""
@@ -6866,11 +6866,11 @@
 "Size": "696412"
 },
 {
-"name": "access-control-point_fy20.pdf",
-"LastModified": "06/28/2018 11:29:04",
-"Key": "content/cos/nwo/acp/Library/DD1391 Templates/access-control-point_fy20.pdf",
+"name": "access-control-point.pdf",
+"LastModified": "09/07/2023 15:00:07",
+"Key": "content/cos/nwo/acp/Library/DD1391 Templates/access-control-point.pdf",
 "extension": ".pdf",
-"Size": "21417"
+"Size": "15124"
 },
 {
 "name": "ACP Facility Costs 072020 protected.xlsx",
@@ -7462,7 +7462,7 @@
 },
 {
 "name": "Facility Design Analysis 2013",
-"LastModified": "03/12/2021 09:18:12",
+"LastModified": "03/23/2023 11:08:22",
 "Key": "content/cos/nwo/acp/Library/Standard Designs/Facility Design Analysis 2013",
 "extension": "",
 "Size": ""
@@ -7594,11 +7594,11 @@
 "Size": "2253755"
 },
 {
-"name": "leed-v4-for-building-design-and-construction-_2018-acp.pdf",
-"LastModified": "08/20/2018 12:32:09",
-"Key": "content/cos/nwo/acp/Library/Sustainability Checklist/leed-v4-for-building-design-and-construction-_2018-acp.pdf",
-"extension": ".pdf",
-"Size": "40910"
+"name": "LEED v4 Score Card COS ACP.xlsx",
+"LastModified": "09/15/2023 12:07:00",
+"Key": "content/cos/nwo/acp/Library/Sustainability Checklist/LEED v4 Score Card COS ACP.xlsx",
+"extension": ".xlsx",
+"Size": "29724"
 },
 {
 "name": "Library",
@@ -7609,14 +7609,14 @@
 },
 {
 "name": "Images",
-"LastModified": "09/25/2019 08:25:20",
+"LastModified": "03/23/2023 11:08:32",
 "Key": "content/cos/nwo/chapels/Images",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Library",
-"LastModified": "07/12/2023 09:05:37",
+"LastModified": "08/09/2023 12:51:53",
 "Key": "content/cos/nwo/chapels/Library",
 "extension": "",
 "Size": ""
@@ -7658,35 +7658,35 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:25:20",
+"LastModified": "03/23/2023 11:08:33",
 "Key": "content/cos/nwo/chapels/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "End State Technical Reviews (ESTR)",
-"LastModified": "09/25/2019 08:25:21",
+"LastModified": "03/23/2023 11:08:36",
 "Key": "content/cos/nwo/chapels/Library/End State Technical Reviews (ESTR)",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:25:21",
+"LastModified": "03/23/2023 11:08:36",
 "Key": "content/cos/nwo/chapels/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "07/20/2020 16:58:45",
+"LastModified": "03/23/2023 11:08:40",
 "Key": "content/cos/nwo/chapels/Library/Standard Designs",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Sustainability Checklist",
-"LastModified": "09/25/2019 08:25:22",
+"LastModified": "03/23/2023 11:08:40",
 "Key": "content/cos/nwo/chapels/Library/Sustainability Checklist",
 "extension": "",
 "Size": ""
@@ -7931,42 +7931,42 @@
 },
 {
 "name": "Library",
-"LastModified": "07/12/2023 09:06:04",
+"LastModified": "08/09/2023 12:54:15",
 "Key": "content/cos/nwo/flc/Library",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:25:22",
+"LastModified": "03/23/2023 11:08:40",
 "Key": "content/cos/nwo/flc/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "End State Technical Review",
-"LastModified": "09/25/2019 08:25:22",
+"LastModified": "03/23/2023 11:08:41",
 "Key": "content/cos/nwo/flc/Library/End State Technical Review",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:25:22",
+"LastModified": "03/23/2023 11:08:41",
 "Key": "content/cos/nwo/flc/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "07/20/2020 16:47:35",
+"LastModified": "03/23/2023 11:08:41",
 "Key": "content/cos/nwo/flc/Library/Standard Designs",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Sustainability Checklist",
-"LastModified": "09/25/2019 08:25:22",
+"LastModified": "03/23/2023 11:08:41",
 "Key": "content/cos/nwo/flc/Library/Sustainability Checklist",
 "extension": "",
 "Size": ""
@@ -8015,14 +8015,14 @@
 },
 {
 "name": "Images",
-"LastModified": "09/25/2019 08:25:23",
+"LastModified": "03/23/2023 11:08:42",
 "Key": "content/cos/nwo/iet/Images",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Library",
-"LastModified": "07/12/2023 09:06:39",
+"LastModified": "08/09/2023 12:55:13",
 "Key": "content/cos/nwo/iet/Library",
 "extension": "",
 "Size": ""
@@ -8106,28 +8106,28 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:25:23",
+"LastModified": "03/23/2023 11:08:42",
 "Key": "content/cos/nwo/iet/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:25:23",
+"LastModified": "03/23/2023 11:08:43",
 "Key": "content/cos/nwo/iet/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:25:23",
+"LastModified": "03/23/2023 11:08:44",
 "Key": "content/cos/nwo/iet/Library/Standard Designs",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Sustainability Checklist",
-"LastModified": "09/25/2019 08:25:23",
+"LastModified": "03/23/2023 11:08:44",
 "Key": "content/cos/nwo/iet/Library/Sustainability Checklist",
 "extension": "",
 "Size": ""
@@ -8190,42 +8190,42 @@
 },
 {
 "name": "Library",
-"LastModified": "07/12/2023 09:07:11",
+"LastModified": "08/09/2023 12:56:15",
 "Key": "content/cos/nwo/ref/Library",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:25:24",
+"LastModified": "03/23/2023 11:08:44",
 "Key": "content/cos/nwo/ref/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "End State Technical Review (ESTR)",
-"LastModified": "09/25/2019 08:25:24",
+"LastModified": "03/23/2023 11:08:44",
 "Key": "content/cos/nwo/ref/Library/End State Technical Review (ESTR)",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:25:24",
+"LastModified": "03/23/2023 11:08:45",
 "Key": "content/cos/nwo/ref/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "07/20/2020 16:43:47",
+"LastModified": "03/23/2023 11:08:46",
 "Key": "content/cos/nwo/ref/Library/Standard Designs",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Sustainability Checklist",
-"LastModified": "09/25/2019 08:25:26",
+"LastModified": "03/23/2023 11:08:47",
 "Key": "content/cos/nwo/ref/Library/Sustainability Checklist",
 "extension": "",
 "Size": ""
@@ -8309,21 +8309,21 @@
 },
 {
 "name": "center_home_page",
-"LastModified": "09/26/2019 09:59:11",
+"LastModified": "03/23/2023 11:08:47",
 "Key": "content/cos/poh/center_home_page",
 "extension": "",
 "Size": ""
 },
 {
 "name": "slq",
-"LastModified": "09/25/2019 08:25:26",
+"LastModified": "03/23/2023 11:08:48",
 "Key": "content/cos/poh/slq",
 "extension": "",
 "Size": ""
 },
 {
 "name": "toq",
-"LastModified": "09/25/2019 08:25:26",
+"LastModified": "03/23/2023 11:08:49",
 "Key": "content/cos/poh/toq",
 "extension": "",
 "Size": ""
@@ -8337,7 +8337,7 @@
 },
 {
 "name": "Library",
-"LastModified": "05/04/2020 08:44:25",
+"LastModified": "03/23/2023 11:08:48",
 "Key": "content/cos/poh/slq/Library",
 "extension": "",
 "Size": ""
@@ -8351,14 +8351,14 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "05/04/2020 08:44:34",
+"LastModified": "03/23/2023 11:08:48",
 "Key": "content/cos/poh/slq/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "03/12/2021 08:15:34",
+"LastModified": "03/23/2023 11:08:48",
 "Key": "content/cos/poh/slq/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -8379,7 +8379,7 @@
 },
 {
 "name": "Library",
-"LastModified": "04/28/2020 16:41:41",
+"LastModified": "03/23/2023 11:08:51",
 "Key": "content/cos/poh/toq/Library",
 "extension": "",
 "Size": ""
@@ -8393,35 +8393,35 @@
 },
 {
 "name": "Archives",
-"LastModified": "10/31/2022 15:08:32",
+"LastModified": "03/23/2023 11:08:49",
 "Key": "content/cos/poh/toq/Library/Archives",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "04/28/2020 17:08:20",
+"LastModified": "03/23/2023 11:08:50",
 "Key": "content/cos/poh/toq/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "10/31/2022 15:08:55",
+"LastModified": "09/21/2023 15:31:37",
 "Key": "content/cos/poh/toq/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "04/28/2020 16:40:52",
+"LastModified": "03/23/2023 11:08:51",
 "Key": "content/cos/poh/toq/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "03/05/2021 09:57:14",
+"LastModified": "09/05/2023 16:29:03",
 "Key": "content/cos/poh/toq/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -8462,11 +8462,11 @@
 "Size": "2662004"
 },
 {
-"name": "Transient Officer Quarters-Operational Readiness Training Complex FY22.pdf",
-"LastModified": "10/27/2022 08:33:00",
-"Key": "content/cos/poh/toq/Library/DD1391 Templates/Transient Officer Quarters-Operational Readiness Training Complex FY22.pdf",
+"name": "Transient Officer Quarters-Operational Readiness Training Complex.pdf",
+"LastModified": "07/19/2023 14:02:37",
+"Key": "content/cos/poh/toq/Library/DD1391 Templates/Transient Officer Quarters-Operational Readiness Training Complex.pdf",
 "extension": ".pdf",
-"Size": "27332"
+"Size": "45494"
 },
 {
 "name": "Draft VE Report -ORTC_Transient Officers Quarters.pdf",
@@ -8490,113 +8490,106 @@
 "Size": "287475"
 },
 {
-"name": "TTOQ Revised Floor Plans_Feb2013.pdf",
-"LastModified": "05/20/2015 15:44:36",
-"Key": "content/cos/poh/toq/Library/Standard Designs/TTOQ Revised Floor Plans_Feb2013.pdf",
-"extension": ".pdf",
-"Size": "202882"
-},
-{
 "name": "aab",
-"LastModified": "09/25/2019 08:25:26",
+"LastModified": "03/23/2023 11:08:51",
 "Key": "content/cos/sam/aab",
 "extension": "",
 "Size": ""
 },
 {
 "name": "asb",
-"LastModified": "09/25/2019 08:25:28",
+"LastModified": "03/23/2023 11:08:56",
 "Key": "content/cos/sam/asb",
 "extension": "",
 "Size": ""
 },
 {
 "name": "center_home_page",
-"LastModified": "09/26/2019 09:59:40",
+"LastModified": "03/23/2023 11:09:01",
 "Key": "content/cos/sam/center_home_page",
 "extension": "",
 "Size": ""
 },
 {
 "name": "fwh",
-"LastModified": "09/25/2019 08:25:28",
+"LastModified": "03/23/2023 11:09:01",
 "Key": "content/cos/sam/fwh",
 "extension": "",
 "Size": ""
 },
 {
 "name": "gsab",
-"LastModified": "01/31/2020 13:24:48",
+"LastModified": "03/23/2023 11:09:03",
 "Key": "content/cos/sam/gsab",
 "extension": "",
 "Size": ""
 },
 {
 "name": "tda",
-"LastModified": "08/12/2022 14:01:06",
+"LastModified": "03/23/2023 11:09:07",
 "Key": "content/cos/sam/tda",
 "extension": "",
 "Size": ""
 },
 {
 "name": "tdafw",
-"LastModified": "08/12/2022 14:07:44",
+"LastModified": "03/23/2023 11:09:08",
 "Key": "content/cos/sam/tdafw",
 "extension": "",
 "Size": ""
 },
 {
 "name": "trw",
-"LastModified": "10/01/2021 10:42:33",
+"LastModified": "03/23/2023 11:09:09",
 "Key": "content/cos/sam/trw",
 "extension": "",
 "Size": ""
 },
 {
 "name": "tuas",
-"LastModified": "08/12/2022 10:21:37",
+"LastModified": "03/23/2023 11:09:22",
 "Key": "content/cos/sam/tuas",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Library",
-"LastModified": "02/18/2020 11:37:04",
+"LastModified": "03/23/2023 11:08:55",
 "Key": "content/cos/sam/aab/Library",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Archive",
-"LastModified": "08/09/2021 08:37:45",
+"LastModified": "03/23/2023 11:08:52",
 "Key": "content/cos/sam/aab/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "08/09/2021 08:38:26",
+"LastModified": "03/23/2023 11:08:52",
 "Key": "content/cos/sam/aab/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 10:43:17",
+"LastModified": "03/23/2023 11:08:53",
 "Key": "content/cos/sam/aab/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 11:11:37",
+"LastModified": "03/23/2023 11:08:55",
 "Key": "content/cos/sam/aab/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "08/14/2020 09:29:07",
+"LastModified": "03/23/2023 11:08:56",
 "Key": "content/cos/sam/aab/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -8778,42 +8771,42 @@
 },
 {
 "name": "Library",
-"LastModified": "10/24/2019 15:58:51",
+"LastModified": "03/23/2023 11:09:00",
 "Key": "content/cos/sam/asb/Library",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Archive",
-"LastModified": "08/09/2021 08:38:51",
+"LastModified": "03/23/2023 11:08:58",
 "Key": "content/cos/sam/asb/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "08/09/2021 08:39:06",
+"LastModified": "03/23/2023 11:08:59",
 "Key": "content/cos/sam/asb/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/25/2019 08:25:28",
+"LastModified": "03/23/2023 11:08:59",
 "Key": "content/cos/sam/asb/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:25:28",
+"LastModified": "03/23/2023 11:09:00",
 "Key": "content/cos/sam/asb/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "08/14/2020 09:28:42",
+"LastModified": "03/23/2023 11:09:01",
 "Key": "content/cos/sam/asb/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -8981,21 +8974,21 @@
 },
 {
 "name": "Library",
-"LastModified": "08/22/2022 14:02:02",
+"LastModified": "03/23/2023 11:09:02",
 "Key": "content/cos/sam/fwh/Library",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:25:28",
+"LastModified": "03/23/2023 11:09:02",
 "Key": "content/cos/sam/fwh/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "08/22/2022 14:02:58",
+"LastModified": "03/23/2023 11:09:03",
 "Key": "content/cos/sam/fwh/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -9023,42 +9016,42 @@
 },
 {
 "name": "Library",
-"LastModified": "01/31/2020 13:24:48",
+"LastModified": "03/23/2023 11:09:06",
 "Key": "content/cos/sam/gsab/Library",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Archive",
-"LastModified": "06/11/2021 09:29:09",
+"LastModified": "03/23/2023 11:09:05",
 "Key": "content/cos/sam/gsab/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "06/11/2021 09:29:09",
+"LastModified": "03/23/2023 11:09:06",
 "Key": "content/cos/sam/gsab/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "01/31/2020 13:25:46",
+"LastModified": "03/23/2023 11:09:06",
 "Key": "content/cos/sam/gsab/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:25:28",
+"LastModified": "03/23/2023 11:09:06",
 "Key": "content/cos/sam/gsab/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "08/14/2020 09:30:06",
+"LastModified": "03/23/2023 11:09:07",
 "Key": "content/cos/sam/gsab/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -9184,14 +9177,14 @@
 },
 {
 "name": "Library",
-"LastModified": "08/12/2022 14:01:51",
+"LastModified": "03/23/2023 11:09:07",
 "Key": "content/cos/sam/tda/Library",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "08/12/2022 14:03:21",
+"LastModified": "03/23/2023 11:09:08",
 "Key": "content/cos/sam/tda/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -9205,21 +9198,21 @@
 },
 {
 "name": "Library",
-"LastModified": "02/14/2023 16:13:32",
+"LastModified": "03/23/2023 11:09:08",
 "Key": "content/cos/sam/tdafw/Library",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "01/10/2023 09:31:18",
+"LastModified": "03/23/2023 11:09:08",
 "Key": "content/cos/sam/tdafw/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "02/14/2023 16:13:58",
+"LastModified": "03/23/2023 11:09:09",
 "Key": "content/cos/sam/tdafw/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -9240,42 +9233,42 @@
 },
 {
 "name": "Library",
-"LastModified": "10/01/2021 10:43:19",
+"LastModified": "03/23/2023 11:09:19",
 "Key": "content/cos/sam/trw/Library",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Archive",
-"LastModified": "04/18/2023 15:03:40",
+"LastModified": "09/12/2023 18:09:15",
 "Key": "content/cos/sam/trw/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "10/01/2021 10:44:13",
+"LastModified": "03/23/2023 11:09:19",
 "Key": "content/cos/sam/trw/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "06/13/2022 19:10:51",
+"LastModified": "09/21/2023 15:54:44",
 "Key": "content/cos/sam/trw/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "10/01/2021 10:44:48",
+"LastModified": "03/23/2023 11:09:19",
 "Key": "content/cos/sam/trw/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "04/18/2023 15:03:40",
+"LastModified": "09/12/2023 18:08:29",
 "Key": "content/cos/sam/trw/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -9323,18 +9316,25 @@
 "Size": "9415201"
 },
 {
+"name": "2023-02-14 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
+"LastModified": "02/14/2023 15:42:00",
+"Key": "content/cos/sam/trw/Library/Archive/2023-02-14 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
+"extension": ".pdf",
+"Size": "14612149"
+},
+{
 "name": "AVN-COS FY21 MEDIUM STANDARD DESIGN-Floor Plan - 01_Floor Plan_All_EXP.dwg",
-"LastModified": "01/24/2023 08:39:29",
+"LastModified": "02/14/2023 15:42:00",
 "Key": "content/cos/sam/trw/Library/Archive/AVN-COS FY21 MEDIUM STANDARD DESIGN-Floor Plan - 01_Floor Plan_All_EXP.dwg",
 "extension": ".dwg",
-"Size": "1578859"
+"Size": "1546115"
 },
 {
 "name": "AVN-COS FY21 MEDIUM STANDARD DESIGN-Floor Plan - 02_Floor Plan_All_EXP.dwg",
-"LastModified": "01/24/2023 08:39:29",
+"LastModified": "02/14/2023 15:42:00",
 "Key": "content/cos/sam/trw/Library/Archive/AVN-COS FY21 MEDIUM STANDARD DESIGN-Floor Plan - 02_Floor Plan_All_EXP.dwg",
 "extension": ".dwg",
-"Size": "546794"
+"Size": "524618"
 },
 {
 "name": "Army_Standard_Approval_Memo_HGR_June_2021.pdf",
@@ -9351,18 +9351,18 @@
 "Size": "935196"
 },
 {
-"name": "2022 June 1391 TRW ExtraLarge.pdf",
-"LastModified": "06/10/2022 13:39:00",
-"Key": "content/cos/sam/trw/Library/DD1391 Templates/2022 June 1391 TRW ExtraLarge.pdf",
+"name": "1391 TRW ExtraLarge.pdf",
+"LastModified": "08/25/2023 14:44:13",
+"Key": "content/cos/sam/trw/Library/DD1391 Templates/1391 TRW ExtraLarge.pdf",
 "extension": ".pdf",
-"Size": "24163"
+"Size": "28843"
 },
 {
-"name": "2022 June 1391 TRW Medium.pdf",
-"LastModified": "06/10/2022 13:39:00",
-"Key": "content/cos/sam/trw/Library/DD1391 Templates/2022 June 1391 TRW Medium.pdf",
+"name": "1391 TRW Medium.pdf",
+"LastModified": "08/25/2023 14:49:06",
+"Key": "content/cos/sam/trw/Library/DD1391 Templates/1391 TRW Medium.pdf",
 "extension": ".pdf",
-"Size": "24260"
+"Size": "23687"
 },
 {
 "name": "leed-v4-template_8-2019.xls",
@@ -9379,29 +9379,29 @@
 "Size": "447643"
 },
 {
-"name": "2023-02-14 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
-"LastModified": "02/14/2023 15:42:00",
-"Key": "content/cos/sam/trw/Library/Standard Designs/2023-02-14 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
+"name": "2023-09-12 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
+"LastModified": "09/12/2023 16:57:00",
+"Key": "content/cos/sam/trw/Library/Standard Designs/2023-09-12 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
 "extension": ".pdf",
-"Size": "14612149"
+"Size": "14711213"
 },
 {
 "name": "AVN-COS FY21 MEDIUM STANDARD DESIGN-Floor Plan - 01_Floor Plan_All_EXP.dwg",
-"LastModified": "02/14/2023 15:42:00",
+"LastModified": "09/12/2023 16:57:00",
 "Key": "content/cos/sam/trw/Library/Standard Designs/AVN-COS FY21 MEDIUM STANDARD DESIGN-Floor Plan - 01_Floor Plan_All_EXP.dwg",
 "extension": ".dwg",
-"Size": "1546115"
+"Size": "1590066"
 },
 {
 "name": "AVN-COS FY21 MEDIUM STANDARD DESIGN-Floor Plan - 02_Floor Plan_All_EXP.dwg",
-"LastModified": "02/14/2023 15:42:00",
+"LastModified": "09/12/2023 16:57:00",
 "Key": "content/cos/sam/trw/Library/Standard Designs/AVN-COS FY21 MEDIUM STANDARD DESIGN-Floor Plan - 02_Floor Plan_All_EXP.dwg",
 "extension": ".dwg",
-"Size": "524618"
+"Size": "482704"
 },
 {
 "name": "Library",
-"LastModified": "10/10/2019 13:44:40",
+"LastModified": "03/23/2023 11:09:23",
 "Key": "content/cos/sam/tuas/Library",
 "extension": "",
 "Size": ""
@@ -9499,35 +9499,35 @@
 },
 {
 "name": "Archive",
-"LastModified": "12/12/2022 11:09:06",
+"LastModified": "03/23/2023 11:09:23",
 "Key": "content/cos/sam/tuas/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "08/22/2022 14:05:46",
+"LastModified": "03/23/2023 11:09:23",
 "Key": "content/cos/sam/tuas/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "10/15/2019 13:26:21",
+"LastModified": "09/21/2023 15:53:51",
 "Key": "content/cos/sam/tuas/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:25:29",
+"LastModified": "03/23/2023 11:09:23",
 "Key": "content/cos/sam/tuas/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "08/22/2022 14:02:58",
+"LastModified": "03/23/2023 11:09:23",
 "Key": "content/cos/sam/tuas/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -9561,18 +9561,18 @@
 "Size": "502313"
 },
 {
-"name": "uas-maintenance-hangar-dd1391-fy20.pdf",
-"LastModified": "07/09/2018 16:32:02",
-"Key": "content/cos/sam/tuas/Library/DD1391 Templates/uas-maintenance-hangar-dd1391-fy20.pdf",
+"name": "uas-maintenance-hangar-dd1391_old.pdf",
+"LastModified": "08/25/2023 12:54:32",
+"Key": "content/cos/sam/tuas/Library/DD1391 Templates/uas-maintenance-hangar-dd1391_old.pdf",
 "extension": ".pdf",
-"Size": "34054"
+"Size": "25472"
 },
 {
-"name": "uas_maintenance-hangar-dd1391_fy21.pdf",
-"LastModified": "09/04/2019 20:54:29",
-"Key": "content/cos/sam/tuas/Library/DD1391 Templates/uas_maintenance-hangar-dd1391_fy21.pdf",
+"name": "uas_maintenance-hangar-dd1391.pdf",
+"LastModified": "08/25/2023 13:36:39",
+"Key": "content/cos/sam/tuas/Library/DD1391 Templates/uas_maintenance-hangar-dd1391.pdf",
 "extension": ".pdf",
-"Size": "22306"
+"Size": "48000"
 },
 {
 "name": "UAS_Hangar_FFandE_List_Dated_Dec_2013.xlsx",
@@ -9590,84 +9590,91 @@
 },
 {
 "name": "aob",
-"LastModified": "02/23/2023 16:56:03",
+"LastModified": "03/23/2023 11:09:24",
 "Key": "content/cos/sas/aob",
 "extension": "",
 "Size": ""
 },
 {
 "name": "bn-bde-hq",
-"LastModified": "09/25/2019 08:25:30",
+"LastModified": "03/23/2023 11:09:24",
 "Key": "content/cos/sas/bn-bde-hq",
 "extension": "",
 "Size": ""
 },
 {
 "name": "bwf",
-"LastModified": "09/25/2019 08:25:30",
+"LastModified": "03/23/2023 11:09:30",
 "Key": "content/cos/sas/bwf",
 "extension": "",
 "Size": ""
 },
 {
 "name": "c2f",
-"LastModified": "09/25/2019 08:25:31",
+"LastModified": "03/23/2023 11:09:31",
 "Key": "content/cos/sas/c2f",
 "extension": "",
 "Size": ""
 },
 {
 "name": "center_home_page",
-"LastModified": "09/26/2019 10:00:28",
+"LastModified": "03/23/2023 11:09:34",
 "Key": "content/cos/sas/center_home_page",
 "extension": "",
 "Size": ""
 },
 {
 "name": "cof",
-"LastModified": "09/25/2019 08:25:32",
+"LastModified": "03/23/2023 11:09:35",
 "Key": "content/cos/sas/cof",
 "extension": "",
 "Size": ""
 },
 {
 "name": "gpmf-lrc",
-"LastModified": "07/06/2022 10:28:00",
+"LastModified": "03/23/2023 11:09:40",
 "Key": "content/cos/sas/gpmf-lrc",
 "extension": "",
 "Size": ""
 },
 {
 "name": "temf",
-"LastModified": "03/04/2021 09:45:40",
+"LastModified": "03/23/2023 11:09:41",
 "Key": "content/cos/sas/temf",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Library",
-"LastModified": "02/23/2023 16:56:20",
+"LastModified": "03/23/2023 11:09:24",
 "Key": "content/cos/sas/aob/Library",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "02/23/2023 16:57:39",
+"LastModified": "09/11/2023 12:56:28",
 "Key": "content/cos/sas/aob/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
-"name": "Army Standard for Air Traffic Control Tower - Air Operations Building_January_2023.pdf",
-"LastModified": "02/22/2023 13:40:13",
-"Key": "content/cos/sas/aob/Library/Army Standards/Army Standard for Air Traffic Control Tower - Air Operations Building_January_2023.pdf",
+"name": "Army Standard ATCT-AOB_20230208.pdf",
+"LastModified": "09/11/2023 12:41:05",
+"Key": "content/cos/sas/aob/Library/Army Standards/Army Standard ATCT-AOB_20230208.pdf",
 "extension": ".pdf",
-"Size": "476071"
+"Size": "295368"
+},
+{
+"name": "Army_Standard_Approval_Memo_ATCT-AOB_January_2023.pdf",
+"LastModified": "09/11/2023 12:41:24",
+"Key": "content/cos/sas/aob/Library/Army Standards/Army_Standard_Approval_Memo_ATCT-AOB_January_2023.pdf",
+"extension": ".pdf",
+"Size": "150129"
 },
 {
 "name": "Library",
-"LastModified": "06/30/2022 16:00:00",
+"LastModified": "03/23/2023 11:09:29",
 "Key": "content/cos/sas/bn-bde-hq/Library",
 "extension": "",
 "Size": ""
@@ -9709,49 +9716,49 @@
 },
 {
 "name": "Archive",
-"LastModified": "06/30/2022 16:00:18",
+"LastModified": "03/23/2023 11:09:25",
 "Key": "content/cos/sas/bn-bde-hq/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:25:30",
+"LastModified": "03/23/2023 11:09:25",
 "Key": "content/cos/sas/bn-bde-hq/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "06/30/2022 16:00:40",
+"LastModified": "09/21/2023 16:06:12",
 "Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Legacy Renovation",
-"LastModified": "09/25/2019 08:25:30",
+"LastModified": "03/23/2023 11:09:26",
 "Key": "content/cos/sas/bn-bde-hq/Library/Legacy Renovation",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "03/04/2021 09:46:14",
+"LastModified": "03/23/2023 11:09:26",
 "Key": "content/cos/sas/bn-bde-hq/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Programmatic Value Engineering Study",
-"LastModified": "03/05/2020 16:27:23",
+"LastModified": "03/23/2023 11:09:28",
 "Key": "content/cos/sas/bn-bde-hq/Library/Programmatic Value Engineering Study",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "04/15/2021 11:40:36",
+"LastModified": "03/23/2023 11:09:29",
 "Key": "content/cos/sas/bn-bde-hq/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -9827,67 +9834,67 @@
 "Size": "729069"
 },
 {
-"name": "Battalion Headquarters wClassrooms_Large_FY 22_20220603.pdf",
-"LastModified": "06/30/2022 12:02:02",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Battalion Headquarters wClassrooms_Large_FY 22_20220603.pdf",
+"name": "Battalion Headquarters wClassrooms_Large.pdf",
+"LastModified": "09/15/2023 14:03:30",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Battalion Headquarters wClassrooms_Large.pdf",
 "extension": ".pdf",
-"Size": "21508"
+"Size": "21319"
 },
 {
-"name": "Battalion Headquarters wClassrooms_Medium_FY 22_20220603.pdf",
-"LastModified": "06/30/2022 12:02:01",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Battalion Headquarters wClassrooms_Medium_FY 22_20220603.pdf",
+"name": "Battalion Headquarters wClassrooms_Medium.pdf",
+"LastModified": "09/15/2023 14:14:28",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Battalion Headquarters wClassrooms_Medium.pdf",
 "extension": ".pdf",
-"Size": "32230"
+"Size": "18434"
 },
 {
-"name": "Battalion Headquarters wClassrooms_Small_FY 22_20220603.pdf",
-"LastModified": "06/30/2022 12:02:01",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Battalion Headquarters wClassrooms_Small_FY 22_20220603.pdf",
+"name": "Battalion Headquarters wClassrooms_Small.pdf",
+"LastModified": "09/15/2023 14:19:04",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Battalion Headquarters wClassrooms_Small.pdf",
 "extension": ".pdf",
-"Size": "32096"
+"Size": "18360"
 },
 {
-"name": "Battalion Headquarters wClassrooms_XLarge_FY 22_20220603.pdf",
-"LastModified": "06/30/2022 12:02:00",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Battalion Headquarters wClassrooms_XLarge_FY 22_20220603.pdf",
+"name": "Battalion Headquarters wClassrooms_XLarge.pdf",
+"LastModified": "09/15/2023 14:24:23",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Battalion Headquarters wClassrooms_XLarge.pdf",
 "extension": ".pdf",
-"Size": "32123"
+"Size": "18410"
 },
 {
-"name": "Brigade Headquarters_Large_FY 22_20220603.pdf",
-"LastModified": "06/30/2022 12:05:42",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Brigade Headquarters_Large_FY 22_20220603.pdf",
+"name": "Brigade Headquarters_Large.pdf",
+"LastModified": "09/15/2023 14:29:09",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Brigade Headquarters_Large.pdf",
 "extension": ".pdf",
-"Size": "35528"
+"Size": "19892"
 },
 {
-"name": "Brigade Headquarters_Medium_FY 22_20220603.pdf",
-"LastModified": "06/30/2022 12:05:43",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Brigade Headquarters_Medium_FY 22_20220603.pdf",
+"name": "Brigade Headquarters_Medium.pdf",
+"LastModified": "09/15/2023 14:34:28",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Brigade Headquarters_Medium.pdf",
 "extension": ".pdf",
-"Size": "35324"
+"Size": "19806"
 },
 {
-"name": "Brigade Headquarters_Small_FY 22_20220603.pdf",
-"LastModified": "06/30/2022 12:05:44",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Brigade Headquarters_Small_FY 22_20220603.pdf",
+"name": "Brigade Headquarters_Small.pdf",
+"LastModified": "09/15/2023 15:35:42",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Brigade Headquarters_Small.pdf",
 "extension": ".pdf",
-"Size": "35327"
+"Size": "19824"
 },
 {
-"name": "Brigade Headquarters_XLarge_FY 22_20220603.pdf",
-"LastModified": "06/30/2022 12:05:45",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Brigade Headquarters_XLarge_FY 22_20220603.pdf",
+"name": "Brigade Headquarters_XLarge.pdf",
+"LastModified": "09/15/2023 15:40:37",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Brigade Headquarters_XLarge.pdf",
 "extension": ".pdf",
-"Size": "35354"
+"Size": "19795"
 },
 {
-"name": "Brigade Headquarters_XSmall_FY 22_20220603.pdf",
-"LastModified": "06/30/2022 12:05:47",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Brigade Headquarters_XSmall_FY 22_20220603.pdf",
+"name": "Brigade Headquarters_XSmall.pdf",
+"LastModified": "09/15/2023 15:44:54",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Brigade Headquarters_XSmall.pdf",
 "extension": ".pdf",
-"Size": "35364"
+"Size": "19822"
 },
 {
 "name": "BDE BN CORRECTED FINAL.pdf",
@@ -9919,7 +9926,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:30",
+"LastModified": "03/23/2023 11:09:30",
 "Key": "content/cos/sas/bwf/Library",
 "extension": "",
 "Size": ""
@@ -9940,21 +9947,21 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:25:30",
+"LastModified": "03/23/2023 11:09:30",
 "Key": "content/cos/sas/bwf/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "08/02/2022 15:44:15",
+"LastModified": "09/21/2023 16:05:22",
 "Key": "content/cos/sas/bwf/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:25:30",
+"LastModified": "03/23/2023 11:09:31",
 "Key": "content/cos/sas/bwf/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -9967,32 +9974,32 @@
 "Size": "252546"
 },
 {
-"name": "Battlefield_Weather_Support_Facility_Large_Squadron_Forms_FY 22_20220720.pdf",
-"LastModified": "07/20/2022 09:56:00",
-"Key": "content/cos/sas/bwf/Library/DD1391 Templates/Battlefield_Weather_Support_Facility_Large_Squadron_Forms_FY 22_20220720.pdf",
+"name": "Battlefield_Weather_Support_Facility_Large_Squadron_Forms.pdf",
+"LastModified": "09/07/2023 15:08:34",
+"Key": "content/cos/sas/bwf/Library/DD1391 Templates/Battlefield_Weather_Support_Facility_Large_Squadron_Forms.pdf",
 "extension": ".pdf",
-"Size": "32335"
+"Size": "18431"
 },
 {
-"name": "Battlefield_Weather_Support_Facility_Small_Detachment_Forms_FY 22_20220720.pdf",
-"LastModified": "07/20/2022 09:56:00",
-"Key": "content/cos/sas/bwf/Library/DD1391 Templates/Battlefield_Weather_Support_Facility_Small_Detachment_Forms_FY 22_20220720.pdf",
+"name": "Battlefield_Weather_Support_Facility_Small_Detachment_Forms.pdf",
+"LastModified": "09/07/2023 15:11:45",
+"Key": "content/cos/sas/bwf/Library/DD1391 Templates/Battlefield_Weather_Support_Facility_Small_Detachment_Forms.pdf",
 "extension": ".pdf",
-"Size": "32583"
+"Size": "18558"
 },
 {
-"name": "Battlefield_Weather_Support_Facility_Small_Squadron_Forms_FY 22_20220720.pdf",
-"LastModified": "07/20/2022 09:56:00",
-"Key": "content/cos/sas/bwf/Library/DD1391 Templates/Battlefield_Weather_Support_Facility_Small_Squadron_Forms_FY 22_20220720.pdf",
+"name": "Battlefield_Weather_Support_Facility_Small_Squadron_Forms.pdf",
+"LastModified": "09/07/2023 15:15:24",
+"Key": "content/cos/sas/bwf/Library/DD1391 Templates/Battlefield_Weather_Support_Facility_Small_Squadron_Forms.pdf",
 "extension": ".pdf",
-"Size": "32594"
+"Size": "18954"
 },
 {
-"name": "Battlefiled_Weather_Support_Facility_Large_Detachment_Forms_FY 22_20220720.pdf",
-"LastModified": "07/20/2022 09:56:00",
-"Key": "content/cos/sas/bwf/Library/DD1391 Templates/Battlefiled_Weather_Support_Facility_Large_Detachment_Forms_FY 22_20220720.pdf",
+"name": "Battlefiled_Weather_Support_Facility_Large_Detachment_Forms.pdf",
+"LastModified": "09/15/2023 13:03:50",
+"Key": "content/cos/sas/bwf/Library/DD1391 Templates/Battlefiled_Weather_Support_Facility_Large_Detachment_Forms.pdf",
 "extension": ".pdf",
-"Size": "40553"
+"Size": "26398"
 },
 {
 "name": "BWF_Std_Dgn-Rev_1.3.pdf",
@@ -10003,7 +10010,7 @@
 },
 {
 "name": "Library",
-"LastModified": "06/30/2022 16:01:40",
+"LastModified": "03/23/2023 11:09:32",
 "Key": "content/cos/sas/c2f/Library",
 "extension": "",
 "Size": ""
@@ -10038,35 +10045,35 @@
 },
 {
 "name": "Archive",
-"LastModified": "06/30/2022 16:01:43",
+"LastModified": "03/23/2023 11:09:31",
 "Key": "content/cos/sas/c2f/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:25:31",
+"LastModified": "03/23/2023 11:09:31",
 "Key": "content/cos/sas/c2f/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "06/30/2022 16:01:43",
+"LastModified": "09/21/2023 16:07:30",
 "Key": "content/cos/sas/c2f/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:25:31",
+"LastModified": "03/23/2023 11:09:32",
 "Key": "content/cos/sas/c2f/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:25:31",
+"LastModified": "03/23/2023 11:09:34",
 "Key": "content/cos/sas/c2f/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -10086,15 +10093,15 @@
 "Size": "2078409"
 },
 {
-"name": "Command and Control Facility_Echelons Above Brigade_FY 22_20220603.pdf",
-"LastModified": "06/30/2022 12:05:20",
-"Key": "content/cos/sas/c2f/Library/DD1391 Templates/Command and Control Facility_Echelons Above Brigade_FY 22_20220603.pdf",
+"name": "Command and Control Facility_Echelons Above Brigade.pdf",
+"LastModified": "09/15/2023 15:59:42",
+"Key": "content/cos/sas/c2f/Library/DD1391 Templates/Command and Control Facility_Echelons Above Brigade.pdf",
 "extension": ".pdf",
-"Size": "35413"
+"Size": "19839"
 },
 {
 "name": "C2F Program Spreadsheet",
-"LastModified": "09/25/2019 08:25:31",
+"LastModified": "03/23/2023 11:09:32",
 "Key": "content/cos/sas/c2f/Library/Misc. Documents/C2F Program Spreadsheet",
 "extension": "",
 "Size": ""
@@ -10157,7 +10164,7 @@
 },
 {
 "name": "Library",
-"LastModified": "02/23/2023 16:58:17",
+"LastModified": "03/23/2023 11:09:34",
 "Key": "content/cos/sas/center_home_page/Library",
 "extension": "",
 "Size": ""
@@ -10178,7 +10185,7 @@
 },
 {
 "name": "Library",
-"LastModified": "06/11/2021 09:17:22",
+"LastModified": "03/23/2023 11:09:40",
 "Key": "content/cos/sas/cof/Library",
 "extension": "",
 "Size": ""
@@ -10220,49 +10227,49 @@
 },
 {
 "name": "Archive",
-"LastModified": "10/18/2021 16:08:14",
+"LastModified": "03/23/2023 11:09:35",
 "Key": "content/cos/sas/cof/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "06/11/2021 09:17:59",
+"LastModified": "03/23/2023 11:09:35",
 "Key": "content/cos/sas/cof/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "08/30/2022 15:06:11",
+"LastModified": "09/21/2023 16:06:59",
 "Key": "content/cos/sas/cof/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Legacy Renovation",
-"LastModified": "09/25/2019 08:25:32",
+"LastModified": "03/23/2023 11:09:39",
 "Key": "content/cos/sas/cof/Library/Legacy Renovation",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "03/04/2021 09:45:01",
+"LastModified": "03/23/2023 11:09:39",
 "Key": "content/cos/sas/cof/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Programmatic Value Engineering Study",
-"LastModified": "02/26/2020 13:30:29",
+"LastModified": "03/23/2023 11:09:40",
 "Key": "content/cos/sas/cof/Library/Programmatic Value Engineering Study",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "10/18/2021 16:08:14",
+"LastModified": "03/23/2023 11:09:40",
 "Key": "content/cos/sas/cof/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -10296,18 +10303,18 @@
 "Size": "183962"
 },
 {
-"name": "Company_Operations_Facility_Co3_Detached 20220829.pdf",
-"LastModified": "08/30/2022 11:49:00",
-"Key": "content/cos/sas/cof/Library/DD1391 Templates/Company_Operations_Facility_Co3_Detached 20220829.pdf",
+"name": "Company_Operations_Facility_Co3_Detached.pdf",
+"LastModified": "09/15/2023 15:50:43",
+"Key": "content/cos/sas/cof/Library/DD1391 Templates/Company_Operations_Facility_Co3_Detached.pdf",
 "extension": ".pdf",
-"Size": "41529"
+"Size": "21235"
 },
 {
-"name": "Company_Operations_Facility_Co4_Integrated 20220829.pdf",
-"LastModified": "08/30/2022 11:49:00",
-"Key": "content/cos/sas/cof/Library/DD1391 Templates/Company_Operations_Facility_Co4_Integrated 20220829.pdf",
+"name": "Company_Operations_Facility_Co4_Integrated.pdf",
+"LastModified": "09/15/2023 15:54:04",
+"Key": "content/cos/sas/cof/Library/DD1391 Templates/Company_Operations_Facility_Co4_Integrated.pdf",
 "extension": ".pdf",
-"Size": "40013"
+"Size": "20408"
 },
 {
 "name": "COF Legacy Facilities Revit File.rvt",
@@ -10346,14 +10353,14 @@
 },
 {
 "name": "Library",
-"LastModified": "08/02/2022 15:42:56",
+"LastModified": "03/23/2023 11:09:40",
 "Key": "content/cos/sas/gpmf-lrc/Library",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "07/06/2022 13:38:18",
+"LastModified": "03/23/2023 11:09:40",
 "Key": "content/cos/sas/gpmf-lrc/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -10374,7 +10381,7 @@
 },
 {
 "name": "Library",
-"LastModified": "06/11/2021 09:23:41",
+"LastModified": "03/23/2023 11:09:43",
 "Key": "content/cos/sas/temf/Library",
 "extension": "",
 "Size": ""
@@ -10388,49 +10395,49 @@
 },
 {
 "name": "Archive",
-"LastModified": "06/30/2022 10:52:51",
+"LastModified": "03/23/2023 11:09:42",
 "Key": "content/cos/sas/temf/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "06/11/2021 09:24:04",
+"LastModified": "03/23/2023 11:09:42",
 "Key": "content/cos/sas/temf/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "06/30/2022 10:52:59",
+"LastModified": "03/23/2023 11:09:42",
 "Key": "content/cos/sas/temf/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "03/04/2021 09:45:31",
+"LastModified": "03/23/2023 11:09:42",
 "Key": "content/cos/sas/temf/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Programmatic Value Engineering Study",
-"LastModified": "03/31/2020 13:04:45",
+"LastModified": "03/23/2023 11:09:43",
 "Key": "content/cos/sas/temf/Library/Programmatic Value Engineering Study",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "10/18/2021 16:08:41",
+"LastModified": "03/23/2023 11:09:43",
 "Key": "content/cos/sas/temf/Library/Standard Designs",
 "extension": "",
 "Size": ""
 },
 {
 "name": "TEMF Legacy Study",
-"LastModified": "09/25/2019 08:25:40",
+"LastModified": "03/23/2023 11:09:47",
 "Key": "content/cos/sas/temf/Library/TEMF Legacy Study",
 "extension": "",
 "Size": ""
@@ -10563,70 +10570,70 @@
 },
 {
 "name": "ait",
-"LastModified": "09/25/2019 08:25:40",
+"LastModified": "03/23/2023 11:09:47",
 "Key": "content/cos/swf/ait",
 "extension": "",
 "Size": ""
 },
 {
 "name": "bt-osut",
-"LastModified": "09/25/2019 08:25:41",
+"LastModified": "03/23/2023 11:09:52",
 "Key": "content/cos/swf/bt-osut",
 "extension": "",
 "Size": ""
 },
 {
 "name": "center_home_page",
-"LastModified": "09/26/2019 10:01:14",
+"LastModified": "03/23/2023 11:09:55",
 "Key": "content/cos/swf/center_home_page",
 "extension": "",
 "Size": ""
 },
 {
 "name": "cif",
-"LastModified": "09/25/2019 08:25:43",
+"LastModified": "03/23/2023 11:09:55",
 "Key": "content/cos/swf/cif",
 "extension": "",
 "Size": ""
 },
 {
 "name": "dsb",
-"LastModified": "09/25/2019 08:25:43",
+"LastModified": "03/23/2023 11:09:58",
 "Key": "content/cos/swf/dsb",
 "extension": "",
 "Size": ""
 },
 {
 "name": "gpw",
-"LastModified": "09/25/2019 08:25:44",
+"LastModified": "03/23/2023 11:10:00",
 "Key": "content/cos/swf/gpw",
 "extension": "",
 "Size": ""
 },
 {
 "name": "rsb",
-"LastModified": "09/25/2019 08:25:44",
+"LastModified": "03/23/2023 11:10:03",
 "Key": "content/cos/swf/rsb",
 "extension": "",
 "Size": ""
 },
 {
 "name": "ssa",
-"LastModified": "09/25/2019 08:25:44",
+"LastModified": "03/23/2023 11:10:06",
 "Key": "content/cos/swf/ssa",
 "extension": "",
 "Size": ""
 },
 {
 "name": "ueph",
-"LastModified": "09/25/2019 08:25:46",
+"LastModified": "03/23/2023 11:10:10",
 "Key": "content/cos/swf/ueph",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:40",
+"LastModified": "03/23/2023 11:09:50",
 "Key": "content/cos/swf/ait/Library",
 "extension": "",
 "Size": ""
@@ -10640,35 +10647,35 @@
 },
 {
 "name": "Archives",
-"LastModified": "07/01/2020 08:33:15",
+"LastModified": "03/23/2023 11:09:49",
 "Key": "content/cos/swf/ait/Library/Archives",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:25:40",
+"LastModified": "03/23/2023 11:09:50",
 "Key": "content/cos/swf/ait/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "01/17/2023 15:14:39",
+"LastModified": "09/21/2023 15:28:16",
 "Key": "content/cos/swf/ait/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "05/14/2021 09:11:23",
+"LastModified": "03/23/2023 11:09:50",
 "Key": "content/cos/swf/ait/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "07/01/2020 08:33:41",
+"LastModified": "03/23/2023 11:09:52",
 "Key": "content/cos/swf/ait/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -10821,11 +10828,11 @@
 "Size": "431270"
 },
 {
-"name": "Advanced_Individual_Training_AIT_Complex_Template 1391_FY 22_AUG 2022.pdf",
-"LastModified": "01/17/2023 13:35:24",
-"Key": "content/cos/swf/ait/Library/DD1391 Templates/Advanced_Individual_Training_AIT_Complex_Template 1391_FY 22_AUG 2022.pdf",
+"name": "Advanced_Individual_Training_AIT_Complex_Template 1391.pdf",
+"LastModified": "07/19/2023 13:44:13",
+"Key": "content/cos/swf/ait/Library/DD1391 Templates/Advanced_Individual_Training_AIT_Complex_Template 1391.pdf",
 "extension": ".pdf",
-"Size": "19090"
+"Size": "17176"
 },
 {
 "name": "AIT 5 Story Fly-Around Low Res.wmv",
@@ -10948,7 +10955,7 @@
 },
 {
 "name": "Library",
-"LastModified": "10/29/2019 13:21:15",
+"LastModified": "03/23/2023 11:09:54",
 "Key": "content/cos/swf/bt-osut/Library",
 "extension": "",
 "Size": ""
@@ -10983,35 +10990,35 @@
 },
 {
 "name": "Archives",
-"LastModified": "07/01/2020 08:36:31",
+"LastModified": "03/23/2023 11:09:53",
 "Key": "content/cos/swf/bt-osut/Library/Archives",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:25:41",
+"LastModified": "03/23/2023 11:09:53",
 "Key": "content/cos/swf/bt-osut/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "01/17/2023 15:15:16",
+"LastModified": "09/21/2023 15:29:04",
 "Key": "content/cos/swf/bt-osut/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "04/15/2021 11:30:35",
+"LastModified": "03/23/2023 11:09:54",
 "Key": "content/cos/swf/bt-osut/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "07/01/2020 08:36:31",
+"LastModified": "03/23/2023 11:09:55",
 "Key": "content/cos/swf/bt-osut/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -11066,11 +11073,11 @@
 "Size": "1582353"
 },
 {
-"name": "Basic_Training_BT_OSUT_Complex_Template 1391_FY 22_AUG 2022.pdf",
-"LastModified": "01/17/2023 13:35:24",
-"Key": "content/cos/swf/bt-osut/Library/DD1391 Templates/Basic_Training_BT_OSUT_Complex_Template 1391_FY 22_AUG 2022.pdf",
+"name": "Basic_Training_BT_OSUT_Complex_Template 1391.pdf",
+"LastModified": "07/19/2023 13:47:45",
+"Key": "content/cos/swf/bt-osut/Library/DD1391 Templates/Basic_Training_BT_OSUT_Complex_Template 1391.pdf",
 "extension": ".pdf",
-"Size": "18563"
+"Size": "38857"
 },
 {
 "name": "BT Complex Brochure.pdf",
@@ -11158,7 +11165,7 @@
 },
 {
 "name": "Library",
-"LastModified": "07/01/2020 09:07:28",
+"LastModified": "03/23/2023 11:09:57",
 "Key": "content/cos/swf/cif/Library",
 "extension": "",
 "Size": ""
@@ -11172,14 +11179,14 @@
 },
 {
 "name": "Archives",
-"LastModified": "07/01/2020 09:08:40",
+"LastModified": "03/23/2023 11:09:56",
 "Key": "content/cos/swf/cif/Library/Archives",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "09/25/2019 08:25:43",
+"LastModified": "03/23/2023 11:09:56",
 "Key": "content/cos/swf/cif/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -11193,21 +11200,21 @@
 },
 {
 "name": "Installation Projects",
-"LastModified": "09/25/2019 08:25:43",
+"LastModified": "03/23/2023 11:09:56",
 "Key": "content/cos/swf/cif/Library/Installation Projects",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "05/28/2021 10:27:57",
+"LastModified": "03/23/2023 11:09:57",
 "Key": "content/cos/swf/cif/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "07/01/2020 09:07:03",
+"LastModified": "03/23/2023 11:09:58",
 "Key": "content/cos/swf/cif/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -11340,7 +11347,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:43",
+"LastModified": "03/23/2023 11:09:58",
 "Key": "content/cos/swf/dsb/Library",
 "extension": "",
 "Size": ""
@@ -11354,14 +11361,14 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/25/2019 08:25:43",
+"LastModified": "03/23/2023 11:09:58",
 "Key": "content/cos/swf/dsb/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:25:44",
+"LastModified": "03/23/2023 11:09:59",
 "Key": "content/cos/swf/dsb/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -11480,7 +11487,7 @@
 },
 {
 "name": "Library",
-"LastModified": "07/01/2020 08:41:11",
+"LastModified": "03/23/2023 11:10:02",
 "Key": "content/cos/swf/gpw/Library",
 "extension": "",
 "Size": ""
@@ -11494,28 +11501,28 @@
 },
 {
 "name": "Archives",
-"LastModified": "07/01/2020 08:41:18",
+"LastModified": "03/23/2023 11:10:00",
 "Key": "content/cos/swf/gpw/Library/Archives",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Installation Projects",
-"LastModified": "09/25/2019 08:25:44",
+"LastModified": "03/23/2023 11:10:00",
 "Key": "content/cos/swf/gpw/Library/Installation Projects",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "04/15/2021 11:30:08",
+"LastModified": "03/23/2023 11:10:02",
 "Key": "content/cos/swf/gpw/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/25/2019 08:25:44",
+"LastModified": "03/23/2023 11:10:03",
 "Key": "content/cos/swf/gpw/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -11599,7 +11606,7 @@
 },
 {
 "name": "Library",
-"LastModified": "04/02/2021 12:36:14",
+"LastModified": "03/23/2023 11:10:06",
 "Key": "content/cos/swf/rsb/Library",
 "extension": "",
 "Size": ""
@@ -11613,21 +11620,21 @@
 },
 {
 "name": "Archives",
-"LastModified": "07/21/2020 08:18:14",
+"LastModified": "03/23/2023 11:10:04",
 "Key": "content/cos/swf/rsb/Library/Archives",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "04/15/2021 11:29:22",
+"LastModified": "03/23/2023 11:10:06",
 "Key": "content/cos/swf/rsb/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "04/15/2021 11:23:56",
+"LastModified": "03/23/2023 11:10:06",
 "Key": "content/cos/swf/rsb/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -11704,7 +11711,7 @@
 },
 {
 "name": "Library",
-"LastModified": "04/14/2022 18:13:41",
+"LastModified": "03/23/2023 11:10:09",
 "Key": "content/cos/swf/ssa/Library",
 "extension": "",
 "Size": ""
@@ -11718,35 +11725,35 @@
 },
 {
 "name": "Archive",
-"LastModified": "07/25/2022 14:33:50",
+"LastModified": "03/23/2023 11:10:08",
 "Key": "content/cos/swf/ssa/Library/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "06/11/2021 09:23:04",
+"LastModified": "03/23/2023 11:10:09",
 "Key": "content/cos/swf/ssa/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "01/17/2023 15:15:52",
+"LastModified": "09/21/2023 15:30:07",
 "Key": "content/cos/swf/ssa/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "07/25/2022 14:33:50",
+"LastModified": "03/23/2023 11:10:09",
 "Key": "content/cos/swf/ssa/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "07/25/2022 14:33:09",
+"LastModified": "03/23/2023 11:10:10",
 "Key": "content/cos/swf/ssa/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -11815,11 +11822,11 @@
 "Size": "197819"
 },
 {
-"name": "Supply_Storage_Activity_Warehouse_Template 1391_FY 22_AUG 2022.pdf",
-"LastModified": "01/17/2023 13:35:24",
-"Key": "content/cos/swf/ssa/Library/DD1391 Templates/Supply_Storage_Activity_Warehouse_Template 1391_FY 22_AUG 2022.pdf",
+"name": "Supply_Storage_Activity_Warehouse_Template 1391.pdf",
+"LastModified": "07/19/2023 13:55:16",
+"Key": "content/cos/swf/ssa/Library/DD1391 Templates/Supply_Storage_Activity_Warehouse_Template 1391.pdf",
 "extension": ".pdf",
-"Size": "16497"
+"Size": "16506"
 },
 {
 "name": "COS SSA-Combined Whole Building LCCA.pdf",
@@ -11858,7 +11865,7 @@
 },
 {
 "name": "Library",
-"LastModified": "05/14/2021 09:16:21",
+"LastModified": "09/21/2023 15:01:17",
 "Key": "content/cos/swf/ueph/Library",
 "extension": "",
 "Size": ""
@@ -11872,14 +11879,14 @@
 },
 {
 "name": "Archives",
-"LastModified": "11/18/2021 16:43:23",
+"LastModified": "03/23/2023 11:10:12",
 "Key": "content/cos/swf/ueph/Library/Archives",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Army Standards",
-"LastModified": "05/30/2023 15:30:40",
+"LastModified": "08/09/2023 09:48:21",
 "Key": "content/cos/swf/ueph/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -11893,21 +11900,28 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "05/14/2021 09:20:15",
+"LastModified": "03/23/2023 11:10:13",
 "Key": "content/cos/swf/ueph/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Programmatic VE Study",
-"LastModified": "05/14/2021 09:19:59",
+"LastModified": "03/23/2023 11:10:20",
 "Key": "content/cos/swf/ueph/Library/Programmatic VE Study",
 "extension": "",
 "Size": ""
 },
 {
+"name": "R&M Documents",
+"LastModified": "09/21/2023 15:01:29",
+"Key": "content/cos/swf/ueph/Library/R&M Documents",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Standard Designs",
-"LastModified": "05/30/2023 15:29:04",
+"LastModified": "08/09/2023 09:50:14",
 "Key": "content/cos/swf/ueph/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -11983,6 +11997,13 @@
 "Size": "123811"
 },
 {
+"name": "RM G9 Design Guidance Memo for UPH.pdf",
+"LastModified": "09/21/2023 13:36:00",
+"Key": "content/cos/swf/ueph/Library/R&M Documents/RM G9 Design Guidance Memo for UPH.pdf",
+"extension": ".pdf",
+"Size": "772067"
+},
+{
 "name": "UEPH_Proof of Concept_Standard Design.pdf",
 "LastModified": "05/23/2023 14:09:00",
 "Key": "content/cos/swf/ueph/Library/Standard Designs/UEPH_Proof of Concept_Standard Design.pdf",
@@ -11991,133 +12012,133 @@
 },
 {
 "name": "administration",
-"LastModified": "09/25/2019 11:11:38",
+"LastModified": "03/23/2023 11:10:21",
 "Key": "content/cos/tam/administration",
 "extension": "",
 "Size": ""
 },
 {
 "name": "billeting",
-"LastModified": "09/25/2019 11:11:38",
+"LastModified": "03/23/2023 11:10:23",
 "Key": "content/cos/tam/billeting",
 "extension": "",
 "Size": ""
 },
 {
 "name": "briefing-assembly-classroom",
-"LastModified": "09/25/2019 08:25:53",
+"LastModified": "03/23/2023 11:10:23",
 "Key": "content/cos/tam/briefing-assembly-classroom",
 "extension": "",
 "Size": ""
 },
 {
 "name": "center_home_page",
-"LastModified": "09/26/2019 16:05:33",
+"LastModified": "03/23/2023 11:10:24",
 "Key": "content/cos/tam/center_home_page",
 "extension": "",
 "Size": ""
 },
 {
 "name": "dining",
-"LastModified": "09/25/2019 11:11:38",
+"LastModified": "03/23/2023 11:11:14",
 "Key": "content/cos/tam/dining",
 "extension": "",
 "Size": ""
 },
 {
 "name": "envelopes",
-"LastModified": "09/26/2019 16:04:21",
+"LastModified": "03/23/2023 11:11:17",
 "Key": "content/cos/tam/envelopes",
 "extension": "",
 "Size": ""
 },
 {
 "name": "fire-station",
-"LastModified": "09/25/2019 11:11:37",
+"LastModified": "03/23/2023 11:11:18",
 "Key": "content/cos/tam/fire-station",
 "extension": "",
 "Size": ""
 },
 {
 "name": "force-protection",
-"LastModified": "09/25/2019 08:25:54",
+"LastModified": "03/23/2023 11:11:19",
 "Key": "content/cos/tam/force-protection",
 "extension": "",
 "Size": ""
 },
 {
 "name": "headquarters",
-"LastModified": "09/25/2019 08:25:54",
+"LastModified": "03/23/2023 11:11:19",
 "Key": "content/cos/tam/headquarters",
 "extension": "",
 "Size": ""
 },
 {
 "name": "joint-operation-center",
-"LastModified": "09/25/2019 11:11:38",
+"LastModified": "03/23/2023 11:11:21",
 "Key": "content/cos/tam/joint-operation-center",
 "extension": "",
 "Size": ""
 },
 {
 "name": "latrine",
-"LastModified": "09/25/2019 11:11:38",
+"LastModified": "03/23/2023 11:11:22",
 "Key": "content/cos/tam/latrine",
 "extension": "",
 "Size": ""
 },
 {
 "name": "laundry",
-"LastModified": "09/25/2019 11:11:38",
+"LastModified": "03/23/2023 11:11:23",
 "Key": "content/cos/tam/laundry",
 "extension": "",
 "Size": ""
 },
 {
 "name": "medical",
-"LastModified": "09/25/2019 11:11:38",
+"LastModified": "03/23/2023 11:11:23",
 "Key": "content/cos/tam/medical",
 "extension": "",
 "Size": ""
 },
 {
 "name": "mwr-Fitness",
-"LastModified": "09/25/2019 08:26:06",
+"LastModified": "03/23/2023 11:11:23",
 "Key": "content/cos/tam/mwr-Fitness",
 "extension": "",
 "Size": ""
 },
 {
 "name": "officer-quarters",
-"LastModified": "09/25/2019 11:11:38",
+"LastModified": "03/23/2023 11:11:25",
 "Key": "content/cos/tam/officer-quarters",
 "extension": "",
 "Size": ""
 },
 {
 "name": "religious",
-"LastModified": "09/25/2019 11:11:38",
+"LastModified": "03/23/2023 11:11:25",
 "Key": "content/cos/tam/religious",
 "extension": "",
 "Size": ""
 },
 {
 "name": "tactical-operation-center",
-"LastModified": "09/25/2019 08:26:07",
+"LastModified": "03/23/2023 11:11:26",
 "Key": "content/cos/tam/tactical-operation-center",
 "extension": "",
 "Size": ""
 },
 {
 "name": "weapons-storage",
-"LastModified": "09/25/2019 11:11:37",
+"LastModified": "03/23/2023 11:11:28",
 "Key": "content/cos/tam/weapons-storage",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:53",
+"LastModified": "03/23/2023 11:10:22",
 "Key": "content/cos/tam/administration/Library",
 "extension": "",
 "Size": ""
@@ -12208,7 +12229,7 @@
 },
 {
 "name": "Contingency Standard",
-"LastModified": "09/25/2019 08:25:53",
+"LastModified": "03/23/2023 11:10:22",
 "Key": "content/cos/tam/administration/Library/Contingency Standard",
 "extension": "",
 "Size": ""
@@ -12257,7 +12278,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 11:11:39",
+"LastModified": "03/23/2023 11:10:23",
 "Key": "content/cos/tam/billeting/Library",
 "extension": "",
 "Size": ""
@@ -12348,7 +12369,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:53",
+"LastModified": "03/23/2023 11:10:24",
 "Key": "content/cos/tam/briefing-assembly-classroom/Library",
 "extension": "",
 "Size": ""
@@ -12418,14 +12439,14 @@
 },
 {
 "name": "Images",
-"LastModified": "09/26/2019 16:18:25",
+"LastModified": "03/23/2023 11:10:24",
 "Key": "content/cos/tam/center_home_page/Images",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Library",
-"LastModified": "03/13/2023 15:29:47",
+"LastModified": "03/23/2023 11:11:11",
 "Key": "content/cos/tam/center_home_page/Library",
 "extension": "",
 "Size": ""
@@ -12467,28 +12488,28 @@
 },
 {
 "name": "Archives",
-"LastModified": "03/13/2023 14:45:17",
+"LastModified": "03/23/2023 11:11:09",
 "Key": "content/cos/tam/center_home_page/Library/Archives",
 "extension": "",
 "Size": ""
 },
 {
 "name": "CUBE Information",
-"LastModified": "09/25/2019 08:26:03",
+"LastModified": "03/23/2023 11:11:09",
 "Key": "content/cos/tam/center_home_page/Library/CUBE Information",
 "extension": "",
 "Size": ""
 },
 {
 "name": "ECB No. 2016-18",
-"LastModified": "09/25/2019 08:26:04",
+"LastModified": "03/23/2023 11:11:11",
 "Key": "content/cos/tam/center_home_page/Library/ECB No. 2016-18",
 "extension": ". 2016-18",
 "Size": ""
 },
 {
 "name": "Non-Permanent Army Facility Standards",
-"LastModified": "09/25/2019 08:26:05",
+"LastModified": "03/23/2023 11:11:13",
 "Key": "content/cos/tam/center_home_page/Library/Non-Permanent Army Facility Standards",
 "extension": "",
 "Size": ""
@@ -12873,7 +12894,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:54",
+"LastModified": "03/23/2023 11:11:16",
 "Key": "content/cos/tam/dining/Library",
 "extension": "",
 "Size": ""
@@ -13125,7 +13146,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:53",
+"LastModified": "03/23/2023 11:11:18",
 "Key": "content/cos/tam/fire-station/Library",
 "extension": "",
 "Size": ""
@@ -13174,7 +13195,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:54",
+"LastModified": "03/23/2023 11:11:19",
 "Key": "content/cos/tam/force-protection/Library",
 "extension": "",
 "Size": ""
@@ -13265,7 +13286,7 @@
 },
 {
 "name": "LIbrary",
-"LastModified": "09/25/2019 08:25:55",
+"LastModified": "03/23/2023 11:11:20",
 "Key": "content/cos/tam/headquarters/LIbrary",
 "extension": "",
 "Size": ""
@@ -13398,7 +13419,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:55",
+"LastModified": "03/23/2023 11:11:22",
 "Key": "content/cos/tam/joint-operation-center/Library",
 "extension": "",
 "Size": ""
@@ -13517,7 +13538,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:25:56",
+"LastModified": "03/23/2023 11:11:22",
 "Key": "content/cos/tam/latrine/Library",
 "extension": "",
 "Size": ""
@@ -13573,7 +13594,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 11:11:38",
+"LastModified": "03/23/2023 11:11:23",
 "Key": "content/cos/tam/laundry/Library",
 "extension": "",
 "Size": ""
@@ -13643,7 +13664,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:26:06",
+"LastModified": "03/23/2023 11:11:23",
 "Key": "content/cos/tam/medical/Library",
 "extension": "",
 "Size": ""
@@ -13720,7 +13741,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 11:11:37",
+"LastModified": "03/23/2023 11:11:24",
 "Key": "content/cos/tam/mwr-Fitness/Library",
 "extension": "",
 "Size": ""
@@ -13804,7 +13825,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:26:06",
+"LastModified": "03/23/2023 11:11:25",
 "Key": "content/cos/tam/officer-quarters/Library",
 "extension": "",
 "Size": ""
@@ -13881,7 +13902,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:26:07",
+"LastModified": "03/23/2023 11:11:26",
 "Key": "content/cos/tam/religious/Library",
 "extension": "",
 "Size": ""
@@ -13937,7 +13958,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:26:07",
+"LastModified": "03/23/2023 11:11:28",
 "Key": "content/cos/tam/tactical-operation-center/Library",
 "extension": "",
 "Size": ""
@@ -14112,7 +14133,7 @@
 },
 {
 "name": "Library",
-"LastModified": "09/25/2019 08:26:07",
+"LastModified": "03/23/2023 11:11:29",
 "Key": "content/cos/tam/weapons-storage/Library",
 "extension": "",
 "Size": ""
@@ -14224,7 +14245,7 @@
 },
 {
 "name": "Carousel",
-"LastModified": "09/25/2019 08:26:08",
+"LastModified": "03/23/2023 11:11:30",
 "Key": "content/CRST/Carousel",
 "extension": "",
 "Size": ""
@@ -14343,35 +14364,35 @@
 },
 {
 "name": "MILCON",
-"LastModified": "09/25/2019 08:26:10",
+"LastModified": "03/23/2023 11:11:35",
 "Key": "content/Model RFP/MILCON",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Small Projects",
-"LastModified": "09/25/2019 08:26:11",
+"LastModified": "03/23/2023 11:11:37",
 "Key": "content/Model RFP/Small Projects",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Examples",
-"LastModified": "09/25/2019 08:26:10",
+"LastModified": "03/23/2023 11:11:33",
 "Key": "content/Model RFP/MILCON/Examples",
 "extension": "",
 "Size": ""
 },
 {
 "name": "MBP Implementation Guide",
-"LastModified": "09/25/2019 08:26:10",
+"LastModified": "03/23/2023 11:11:35",
 "Key": "content/Model RFP/MILCON/MBP Implementation Guide",
 "extension": "",
 "Size": ""
 },
 {
 "name": "References",
-"LastModified": "09/25/2019 08:26:11",
+"LastModified": "03/23/2023 11:11:37",
 "Key": "content/Model RFP/MILCON/References",
 "extension": "",
 "Size": ""
@@ -14679,63 +14700,63 @@
 },
 {
 "name": "Archive",
-"LastModified": "04/18/2023 19:37:03",
+"LastModified": "08/08/2023 17:55:44",
 "Key": "content/PDRS/Archive",
 "extension": "",
 "Size": ""
 },
 {
 "name": "FY25 Guidance & Templates",
-"LastModified": "04/18/2023 19:39:30",
+"LastModified": "08/08/2023 17:59:01",
 "Key": "content/PDRS/FY25 Guidance & Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "FY26 Guidance & Templates",
-"LastModified": "04/11/2023 17:31:20",
+"LastModified": "08/30/2023 17:30:02",
 "Key": "content/PDRS/FY26 Guidance & Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "FY27 Guidance & Templates",
-"LastModified": "07/07/2023 14:03:46",
+"LastModified": "08/30/2023 17:29:44",
 "Key": "content/PDRS/FY27 Guidance & Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "AAR",
-"LastModified": "09/25/2019 08:26:11",
+"LastModified": "08/08/2023 17:53:34",
 "Key": "content/PDRS/Archive/AAR",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Help",
-"LastModified": "09/25/2019 08:26:13",
+"LastModified": "08/08/2023 17:54:42",
 "Key": "content/PDRS/Archive/Help",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Meeting Minutes",
-"LastModified": "04/18/2023 19:44:07",
+"LastModified": "08/08/2023 17:54:59",
 "Key": "content/PDRS/Archive/Meeting Minutes",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Policy",
-"LastModified": "04/18/2023 19:41:17",
+"LastModified": "08/08/2023 17:56:06",
 "Key": "content/PDRS/Archive/Policy",
 "extension": "",
 "Size": ""
 },
 {
 "name": "FY 13 AAR",
-"LastModified": "09/25/2019 08:26:13",
+"LastModified": "08/08/2023 17:54:31",
 "Key": "content/PDRS/Archive/AAR/FY 13 AAR",
 "extension": "",
 "Size": ""
@@ -14868,14 +14889,14 @@
 },
 {
 "name": "FY23 Meeting Minutes",
-"LastModified": "06/11/2021 09:31:09",
+"LastModified": "08/08/2023 17:54:57",
 "Key": "content/PDRS/Archive/Meeting Minutes/FY23 Meeting Minutes",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Pre-FY23 Meeting Minutes",
-"LastModified": "02/24/2021 15:18:51",
+"LastModified": "08/08/2023 17:55:32",
 "Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes",
 "extension": "",
 "Size": ""
@@ -14924,35 +14945,35 @@
 },
 {
 "name": "FY 18 Meeting Minutes",
-"LastModified": "09/25/2019 08:26:13",
+"LastModified": "08/08/2023 17:55:05",
 "Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY 18 Meeting Minutes",
 "extension": "",
 "Size": ""
 },
 {
 "name": "FY 19  & FY 18 UFR Meeting Minutes",
-"LastModified": "09/25/2019 08:26:13",
+"LastModified": "08/08/2023 17:55:13",
 "Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY 19  & FY 18 UFR Meeting Minutes",
 "extension": "",
 "Size": ""
 },
 {
 "name": "FY20 Meeting Minutes",
-"LastModified": "09/25/2019 08:26:14",
+"LastModified": "08/08/2023 17:55:21",
 "Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY20 Meeting Minutes",
 "extension": "",
 "Size": ""
 },
 {
 "name": "FY21 Meeting Minutes",
-"LastModified": "09/25/2019 08:26:14",
+"LastModified": "08/08/2023 17:55:31",
 "Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY21 Meeting Minutes",
 "extension": "",
 "Size": ""
 },
 {
 "name": "FY22 Meeting Minutes",
-"LastModified": "05/04/2020 12:12:13",
+"LastModified": "08/08/2023 17:55:42",
 "Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY22 Meeting Minutes",
 "extension": "",
 "Size": ""
@@ -15225,14 +15246,14 @@
 },
 {
 "name": "FY24 Guidance & Templates",
-"LastModified": "08/12/2022 09:42:25",
+"LastModified": "08/08/2023 17:56:05",
 "Key": "content/PDRS/Archive/Policy/FY24 Guidance & Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Pre-FY24 Guidance & Templates",
-"LastModified": "09/17/2021 09:16:45",
+"LastModified": "08/08/2023 17:57:54",
 "Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates",
 "extension": "",
 "Size": ""
@@ -15344,49 +15365,49 @@
 },
 {
 "name": "FY 13 Guidance (Archive)",
-"LastModified": "09/25/2019 08:26:14",
+"LastModified": "08/08/2023 17:56:15",
 "Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 13 Guidance (Archive)",
 "extension": "",
 "Size": ""
 },
 {
 "name": "FY 14 Guidance (Archive)",
-"LastModified": "09/25/2019 08:26:15",
+"LastModified": "08/08/2023 17:56:23",
 "Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 14 Guidance (Archive)",
 "extension": "",
 "Size": ""
 },
 {
 "name": "FY 15 Guidance (Archive)",
-"LastModified": "09/25/2019 08:26:15",
+"LastModified": "08/08/2023 17:56:33",
 "Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Guidance (Archive)",
 "extension": "",
 "Size": ""
 },
 {
 "name": "FY 15 Meeting Minutes (Archive)",
-"LastModified": "09/25/2019 08:26:15",
+"LastModified": "08/08/2023 17:56:43",
 "Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Meeting Minutes (Archive)",
 "extension": "",
 "Size": ""
 },
 {
 "name": "FY 16 Guidance (Archive)",
-"LastModified": "09/25/2019 08:26:16",
+"LastModified": "08/08/2023 17:57:04",
 "Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 16 Guidance (Archive)",
 "extension": "",
 "Size": ""
 },
 {
 "name": "FY 17 Guidance (Archive)",
-"LastModified": "09/25/2019 08:26:16",
+"LastModified": "08/08/2023 17:57:08",
 "Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 17 Guidance (Archive)",
 "extension": "",
 "Size": ""
 },
 {
 "name": "FY 17 Meeting Minutes (Archive)",
-"LastModified": "09/25/2019 08:26:16",
+"LastModified": "08/08/2023 17:57:10",
 "Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 17 Meeting Minutes (Archive)",
 "extension": "",
 "Size": ""
@@ -15400,42 +15421,42 @@
 },
 {
 "name": "FY18 Guidance",
-"LastModified": "09/25/2019 08:26:16",
+"LastModified": "08/08/2023 17:57:20",
 "Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY18 Guidance",
 "extension": "",
 "Size": ""
 },
 {
 "name": "FY19 Guidance",
-"LastModified": "09/25/2019 08:26:16",
+"LastModified": "08/08/2023 17:57:30",
 "Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY19 Guidance",
 "extension": "",
 "Size": ""
 },
 {
 "name": "FY20 Guidance and Templates",
-"LastModified": "09/25/2019 08:26:17",
+"LastModified": "08/08/2023 17:57:36",
 "Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY20 Guidance and Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "FY21 Guidance and Templates",
-"LastModified": "09/25/2019 08:26:17",
+"LastModified": "08/08/2023 17:57:41",
 "Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY21 Guidance and Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "FY22 Guidance and Templates",
-"LastModified": "07/12/2021 15:37:01",
+"LastModified": "08/08/2023 17:57:53",
 "Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY22 Guidance and Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "FY23 Guidance and Templates",
-"LastModified": "10/29/2020 15:19:32",
+"LastModified": "08/08/2023 17:58:05",
 "Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY23 Guidance and Templates",
 "extension": "",
 "Size": ""
@@ -15631,7 +15652,7 @@
 },
 {
 "name": "PDR",
-"LastModified": "09/25/2019 08:26:16",
+"LastModified": "08/08/2023 17:56:56",
 "Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Meeting Minutes (Archive)/PDR",
 "extension": "",
 "Size": ""
@@ -16247,175 +16268,175 @@
 },
 {
 "name": "CX-KR Documents",
-"LastModified": "09/26/2019 09:44:59",
+"LastModified": "03/23/2023 11:13:11",
 "Key": "content/sustain/CX-KR Documents",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Library",
-"LastModified": "07/16/2020 11:51:44",
+"LastModified": "03/23/2023 11:13:13",
 "Key": "content/sustain/Library",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Combined Heat and Power (CHP)",
-"LastModified": "09/26/2019 09:44:50",
+"LastModified": "03/23/2023 11:12:17",
 "Key": "content/sustain/CX-KR Documents/Combined Heat and Power (CHP)",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Commissioning",
-"LastModified": "09/26/2019 09:44:50",
+"LastModified": "03/23/2023 11:12:18",
 "Key": "content/sustain/CX-KR Documents/Commissioning",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Construction Waste",
-"LastModified": "09/26/2019 09:44:50",
+"LastModified": "03/23/2023 11:12:20",
 "Key": "content/sustain/CX-KR Documents/Construction Waste",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Contingency",
-"LastModified": "09/26/2019 09:44:51",
+"LastModified": "03/23/2023 11:12:27",
 "Key": "content/sustain/CX-KR Documents/Contingency",
 "extension": "",
 "Size": ""
 },
 {
 "name": "District Energy",
-"LastModified": "09/26/2019 09:44:51",
+"LastModified": "03/23/2023 11:12:28",
 "Key": "content/sustain/CX-KR Documents/District Energy",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Eco-Charrette",
-"LastModified": "09/26/2019 09:44:51",
+"LastModified": "03/23/2023 11:12:31",
 "Key": "content/sustain/CX-KR Documents/Eco-Charrette",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Energy Audits",
-"LastModified": "09/26/2019 09:44:51",
+"LastModified": "03/23/2023 11:12:31",
 "Key": "content/sustain/CX-KR Documents/Energy Audits",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Energy Modeling",
-"LastModified": "09/26/2019 09:44:51",
+"LastModified": "03/23/2023 11:12:34",
 "Key": "content/sustain/CX-KR Documents/Energy Modeling",
 "extension": "",
 "Size": ""
 },
 {
 "name": "ESPC",
-"LastModified": "09/26/2019 09:44:52",
+"LastModified": "03/23/2023 11:12:34",
 "Key": "content/sustain/CX-KR Documents/ESPC",
 "extension": "",
 "Size": ""
 },
 {
 "name": "GSHP",
-"LastModified": "09/26/2019 09:44:52",
+"LastModified": "03/23/2023 11:12:41",
 "Key": "content/sustain/CX-KR Documents/GSHP",
 "extension": "",
 "Size": ""
 },
 {
 "name": "HPBE",
-"LastModified": "09/26/2019 09:44:53",
+"LastModified": "03/23/2023 11:12:42",
 "Key": "content/sustain/CX-KR Documents/HPBE",
 "extension": "",
 "Size": ""
 },
 {
 "name": "LCCA",
-"LastModified": "09/26/2019 09:44:54",
+"LastModified": "03/23/2023 11:12:46",
 "Key": "content/sustain/CX-KR Documents/LCCA",
 "extension": "",
 "Size": ""
 },
 {
 "name": "LID",
-"LastModified": "09/26/2019 09:44:57",
+"LastModified": "03/23/2023 11:13:04",
 "Key": "content/sustain/CX-KR Documents/LID",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Lighting",
-"LastModified": "09/26/2019 09:44:58",
+"LastModified": "03/23/2023 11:13:07",
 "Key": "content/sustain/CX-KR Documents/Lighting",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Metering",
-"LastModified": "09/26/2019 09:44:58",
+"LastModified": "03/23/2023 11:13:07",
 "Key": "content/sustain/CX-KR Documents/Metering",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Micro-Hydro",
-"LastModified": "09/26/2019 09:44:58",
+"LastModified": "03/23/2023 11:13:08",
 "Key": "content/sustain/CX-KR Documents/Micro-Hydro",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Microgrid",
-"LastModified": "09/26/2019 09:44:59",
+"LastModified": "03/23/2023 11:13:08",
 "Key": "content/sustain/CX-KR Documents/Microgrid",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Renovations",
-"LastModified": "09/26/2019 09:44:59",
+"LastModified": "03/23/2023 11:13:08",
 "Key": "content/sustain/CX-KR Documents/Renovations",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Solar Thermal",
-"LastModified": "09/26/2019 09:44:59",
+"LastModified": "03/23/2023 11:13:10",
 "Key": "content/sustain/CX-KR Documents/Solar Thermal",
 "extension": "",
 "Size": ""
 },
 {
 "name": "SPV",
-"LastModified": "09/26/2019 09:44:59",
+"LastModified": "03/23/2023 11:13:11",
 "Key": "content/sustain/CX-KR Documents/SPV",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Waste",
-"LastModified": "09/26/2019 09:44:59",
+"LastModified": "03/23/2023 11:13:11",
 "Key": "content/sustain/CX-KR Documents/Waste",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Water",
-"LastModified": "09/26/2019 09:44:59",
+"LastModified": "03/23/2023 11:13:11",
 "Key": "content/sustain/CX-KR Documents/Water",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Wind",
-"LastModified": "09/26/2019 09:45:00",
+"LastModified": "03/23/2023 11:13:13",
 "Key": "content/sustain/CX-KR Documents/Wind",
 "extension": "",
 "Size": ""
@@ -16464,7 +16485,7 @@
 },
 {
 "name": "Best Practices",
-"LastModified": "09/26/2019 09:44:50",
+"LastModified": "03/23/2023 11:12:18",
 "Key": "content/sustain/CX-KR Documents/Commissioning/Best Practices",
 "extension": "",
 "Size": ""
@@ -16478,7 +16499,7 @@
 },
 {
 "name": "Policy & Guidance",
-"LastModified": "09/26/2019 09:44:50",
+"LastModified": "03/23/2023 11:12:18",
 "Key": "content/sustain/CX-KR Documents/Commissioning/Policy & Guidance",
 "extension": "",
 "Size": ""
@@ -16576,7 +16597,7 @@
 },
 {
 "name": "Best Practices",
-"LastModified": "09/26/2019 09:44:50",
+"LastModified": "03/23/2023 11:12:19",
 "Key": "content/sustain/CX-KR Documents/Construction Waste/Best Practices",
 "extension": "",
 "Size": ""
@@ -16590,7 +16611,7 @@
 },
 {
 "name": "Policy & Guidance",
-"LastModified": "09/26/2019 09:44:50",
+"LastModified": "03/23/2023 11:12:20",
 "Key": "content/sustain/CX-KR Documents/Construction Waste/Policy & Guidance",
 "extension": "",
 "Size": ""
@@ -16646,14 +16667,14 @@
 },
 {
 "name": "Best Practices",
-"LastModified": "09/26/2019 09:44:50",
+"LastModified": "03/23/2023 11:12:21",
 "Key": "content/sustain/CX-KR Documents/Contingency/Best Practices",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Design Tools",
-"LastModified": "09/26/2019 09:44:51",
+"LastModified": "03/23/2023 11:12:27",
 "Key": "content/sustain/CX-KR Documents/Contingency/Design Tools",
 "extension": "",
 "Size": ""
@@ -16912,7 +16933,7 @@
 },
 {
 "name": "Policy & Guidance",
-"LastModified": "09/26/2019 09:44:51",
+"LastModified": "03/23/2023 11:12:28",
 "Key": "content/sustain/CX-KR Documents/District Energy/Policy & Guidance",
 "extension": "",
 "Size": ""
@@ -16933,14 +16954,14 @@
 },
 {
 "name": "Articles & Case Studies",
-"LastModified": "09/26/2019 09:44:51",
+"LastModified": "03/23/2023 11:12:30",
 "Key": "content/sustain/CX-KR Documents/Eco-Charrette/Articles & Case Studies",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Best Practices",
-"LastModified": "09/26/2019 09:44:51",
+"LastModified": "03/23/2023 11:12:31",
 "Key": "content/sustain/CX-KR Documents/Eco-Charrette/Best Practices",
 "extension": "",
 "Size": ""
@@ -17017,7 +17038,7 @@
 },
 {
 "name": "Policy & Guidance",
-"LastModified": "09/26/2019 09:44:51",
+"LastModified": "03/23/2023 11:12:31",
 "Key": "content/sustain/CX-KR Documents/Energy Audits/Policy & Guidance",
 "extension": "",
 "Size": ""
@@ -17038,7 +17059,7 @@
 },
 {
 "name": "Articles & Case Studies",
-"LastModified": "09/26/2019 09:44:51",
+"LastModified": "03/23/2023 11:12:32",
 "Key": "content/sustain/CX-KR Documents/Energy Modeling/Articles & Case Studies",
 "extension": "",
 "Size": ""
@@ -17052,7 +17073,7 @@
 },
 {
 "name": "Design Tools",
-"LastModified": "09/26/2019 09:44:51",
+"LastModified": "03/23/2023 11:12:34",
 "Key": "content/sustain/CX-KR Documents/Energy Modeling/Design Tools",
 "extension": "",
 "Size": ""
@@ -17129,14 +17150,14 @@
 },
 {
 "name": "Articles & Case Studies",
-"LastModified": "09/26/2019 09:44:52",
+"LastModified": "03/23/2023 11:12:37",
 "Key": "content/sustain/CX-KR Documents/GSHP/Articles & Case Studies",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Best Practices",
-"LastModified": "09/26/2019 09:44:52",
+"LastModified": "03/23/2023 11:12:40",
 "Key": "content/sustain/CX-KR Documents/GSHP/Best Practices",
 "extension": "",
 "Size": ""
@@ -17150,7 +17171,7 @@
 },
 {
 "name": "Policy & Guidance",
-"LastModified": "09/26/2019 09:44:52",
+"LastModified": "03/23/2023 11:12:41",
 "Key": "content/sustain/CX-KR Documents/GSHP/Policy & Guidance",
 "extension": "",
 "Size": ""
@@ -17304,35 +17325,35 @@
 },
 {
 "name": "Articles & Case Studies",
-"LastModified": "09/26/2019 09:44:52",
+"LastModified": "03/23/2023 11:12:42",
 "Key": "content/sustain/CX-KR Documents/HPBE/Articles & Case Studies",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Best Practices",
-"LastModified": "09/26/2019 09:44:52",
+"LastModified": "03/23/2023 11:12:42",
 "Key": "content/sustain/CX-KR Documents/HPBE/Best Practices",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Design Tools",
-"LastModified": "09/26/2019 09:44:53",
+"LastModified": "03/23/2023 11:12:42",
 "Key": "content/sustain/CX-KR Documents/HPBE/Design Tools",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Policy & Guidance",
-"LastModified": "09/26/2019 09:44:53",
+"LastModified": "03/23/2023 11:12:42",
 "Key": "content/sustain/CX-KR Documents/HPBE/Policy & Guidance",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Training",
-"LastModified": "09/26/2019 09:44:53",
+"LastModified": "03/23/2023 11:12:42",
 "Key": "content/sustain/CX-KR Documents/HPBE/Training",
 "extension": "",
 "Size": ""
@@ -17395,21 +17416,21 @@
 },
 {
 "name": "Best Practices",
-"LastModified": "09/26/2019 09:44:53",
+"LastModified": "03/23/2023 11:12:43",
 "Key": "content/sustain/CX-KR Documents/LCCA/Best Practices",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Design Tools",
-"LastModified": "09/26/2019 09:44:53",
+"LastModified": "03/23/2023 11:12:45",
 "Key": "content/sustain/CX-KR Documents/LCCA/Design Tools",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Policy & Guidance",
-"LastModified": "09/26/2019 09:44:54",
+"LastModified": "03/23/2023 11:12:46",
 "Key": "content/sustain/CX-KR Documents/LCCA/Policy & Guidance",
 "extension": "",
 "Size": ""
@@ -17570,35 +17591,35 @@
 },
 {
 "name": "Articles & Case Studies",
-"LastModified": "09/26/2019 09:44:54",
+"LastModified": "03/23/2023 11:12:47",
 "Key": "content/sustain/CX-KR Documents/LID/Articles & Case Studies",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Best Practices",
-"LastModified": "09/26/2019 09:44:55",
+"LastModified": "03/23/2023 11:12:57",
 "Key": "content/sustain/CX-KR Documents/LID/Best Practices",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Design Tools",
-"LastModified": "11/04/2022 11:16:27",
+"LastModified": "03/23/2023 11:12:59",
 "Key": "content/sustain/CX-KR Documents/LID/Design Tools",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Policy & Guidance",
-"LastModified": "09/26/2019 09:44:57",
+"LastModified": "03/23/2023 11:13:04",
 "Key": "content/sustain/CX-KR Documents/LID/Policy & Guidance",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Training",
-"LastModified": "09/26/2019 09:44:58",
+"LastModified": "03/23/2023 11:13:05",
 "Key": "content/sustain/CX-KR Documents/LID/Training",
 "extension": "",
 "Size": ""
@@ -17976,7 +17997,7 @@
 },
 {
 "name": "Articles & Case Studies",
-"LastModified": "09/26/2019 09:44:58",
+"LastModified": "03/23/2023 11:13:06",
 "Key": "content/sustain/CX-KR Documents/Lighting/Articles & Case Studies",
 "extension": "",
 "Size": ""
@@ -17990,7 +18011,7 @@
 },
 {
 "name": "Design Tools",
-"LastModified": "09/26/2019 09:44:58",
+"LastModified": "03/23/2023 11:13:07",
 "Key": "content/sustain/CX-KR Documents/Lighting/Design Tools",
 "extension": "",
 "Size": ""
@@ -18102,7 +18123,7 @@
 },
 {
 "name": "Policy & Guidance",
-"LastModified": "09/26/2019 09:44:58",
+"LastModified": "03/23/2023 11:13:07",
 "Key": "content/sustain/CX-KR Documents/Metering/Policy & Guidance",
 "extension": "",
 "Size": ""
@@ -18186,28 +18207,28 @@
 },
 {
 "name": "Articles & Case Studies",
-"LastModified": "09/26/2019 09:44:58",
+"LastModified": "03/23/2023 11:13:08",
 "Key": "content/sustain/CX-KR Documents/Microgrid/Articles & Case Studies",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Best Practices",
-"LastModified": "09/26/2019 09:44:58",
+"LastModified": "03/23/2023 11:13:08",
 "Key": "content/sustain/CX-KR Documents/Microgrid/Best Practices",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Design Tools",
-"LastModified": "09/26/2019 09:44:59",
+"LastModified": "03/23/2023 11:13:08",
 "Key": "content/sustain/CX-KR Documents/Microgrid/Design Tools",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Policy & Guidance",
-"LastModified": "09/26/2019 09:44:59",
+"LastModified": "03/23/2023 11:13:08",
 "Key": "content/sustain/CX-KR Documents/Microgrid/Policy & Guidance",
 "extension": "",
 "Size": ""
@@ -18291,7 +18312,7 @@
 },
 {
 "name": "Articles & Case Studies",
-"LastModified": "09/26/2019 09:44:59",
+"LastModified": "03/23/2023 11:13:09",
 "Key": "content/sustain/CX-KR Documents/Solar Thermal/Articles & Case Studies",
 "extension": "",
 "Size": ""
@@ -18305,14 +18326,14 @@
 },
 {
 "name": "Design Tools",
-"LastModified": "09/26/2019 09:44:59",
+"LastModified": "03/23/2023 11:13:10",
 "Key": "content/sustain/CX-KR Documents/Solar Thermal/Design Tools",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Policy & Guidance",
-"LastModified": "09/26/2019 09:44:59",
+"LastModified": "03/23/2023 11:13:10",
 "Key": "content/sustain/CX-KR Documents/Solar Thermal/Policy & Guidance",
 "extension": "",
 "Size": ""
@@ -18368,7 +18389,7 @@
 },
 {
 "name": "Articles & Case Studies",
-"LastModified": "09/26/2019 09:44:59",
+"LastModified": "03/23/2023 11:13:10",
 "Key": "content/sustain/CX-KR Documents/SPV/Articles & Case Studies",
 "extension": "",
 "Size": ""
@@ -18431,7 +18452,7 @@
 },
 {
 "name": "Policy & Guidance",
-"LastModified": "09/26/2019 09:44:59",
+"LastModified": "03/23/2023 11:13:11",
 "Key": "content/sustain/CX-KR Documents/Waste/Policy & Guidance",
 "extension": "",
 "Size": ""
@@ -18487,7 +18508,7 @@
 },
 {
 "name": "Articles & Case Studies",
-"LastModified": "09/26/2019 09:45:00",
+"LastModified": "03/23/2023 11:13:13",
 "Key": "content/sustain/CX-KR Documents/Wind/Articles & Case Studies",
 "extension": "",
 "Size": ""
@@ -18550,7 +18571,7 @@
 },
 {
 "name": "Policy and Guidance",
-"LastModified": "03/07/2023 18:18:05",
+"LastModified": "03/23/2023 11:13:16",
 "Key": "content/sustain/Library/Policy and Guidance",
 "extension": "",
 "Size": ""
@@ -18662,7 +18683,7 @@
 },
 {
 "name": "Templates",
-"LastModified": "03/09/2023 14:34:42",
+"LastModified": "03/23/2023 11:13:16",
 "Key": "content/UMMCA/Templates",
 "extension": "",
 "Size": ""
