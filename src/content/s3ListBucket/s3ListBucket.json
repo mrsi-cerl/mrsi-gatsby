@@ -8554,7 +8554,7 @@
 },
 {
 "name": "Library",
-"LastModified": "03/23/2023 11:08:55",
+"LastModified": "10/02/2023 13:41:23",
 "Key": "content/cos/sam/aab/Library",
 "extension": "",
 "Size": ""
@@ -8595,11 +8595,11 @@
 "Size": ""
 },
 {
-"name": "leed-v4-template_8-2019.xls",
-"LastModified": "08/28/2019 16:17:10",
-"Key": "content/cos/sam/aab/Library/leed-v4-template_8-2019.xls",
+"name": "leed-v4-template_9-2023-2.xls",
+"LastModified": "09/29/2023 09:16:00",
+"Key": "content/cos/sam/aab/Library/leed-v4-template_9-2023-2.xls",
 "extension": ".xls",
-"Size": "154112"
+"Size": "151040"
 },
 {
 "name": "20190821_AAB Hangar Standard_02_FP_FloorPlan_PUB.DWG",
@@ -8771,7 +8771,7 @@
 },
 {
 "name": "Library",
-"LastModified": "03/23/2023 11:09:00",
+"LastModified": "10/02/2023 13:41:01",
 "Key": "content/cos/sam/asb/Library",
 "extension": "",
 "Size": ""
@@ -8812,11 +8812,11 @@
 "Size": ""
 },
 {
-"name": "leed-v4-template_8-2019.xls",
-"LastModified": "08/28/2019 16:47:13",
-"Key": "content/cos/sam/asb/Library/leed-v4-template_8-2019.xls",
+"name": "leed-v4-template_9-2023-2.xls",
+"LastModified": "09/29/2023 09:16:00",
+"Key": "content/cos/sam/asb/Library/leed-v4-template_9-2023-2.xls",
 "extension": ".xls",
-"Size": "154112"
+"Size": "151040"
 },
 {
 "name": "2019-08-asb-standard-design.pdf",
@@ -8988,7 +8988,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "03/23/2023 11:09:03",
+"LastModified": "10/02/2023 13:42:43",
 "Key": "content/cos/sam/fwh/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -9008,15 +9008,15 @@
 "Size": "1813826"
 },
 {
-"name": "Standard Design UAS Group 4 Hangar 1 OCT 19.pdf",
-"LastModified": "10/10/2019 13:42:23",
-"Key": "content/cos/sam/fwh/Library/Standard Designs/Standard Design UAS Group 4 Hangar 1 OCT 19.pdf",
+"name": "FY24 Group 4_Unmanned_Aircraft_System_Hangar Redacted.pdf",
+"LastModified": "09/29/2023 09:16:00",
+"Key": "content/cos/sam/fwh/Library/Standard Designs/FY24 Group 4_Unmanned_Aircraft_System_Hangar Redacted.pdf",
 "extension": ".pdf",
-"Size": "7798564"
+"Size": "25214"
 },
 {
 "name": "Library",
-"LastModified": "03/23/2023 11:09:06",
+"LastModified": "10/02/2023 13:40:28",
 "Key": "content/cos/sam/gsab/Library",
 "extension": "",
 "Size": ""
@@ -9057,11 +9057,11 @@
 "Size": ""
 },
 {
-"name": "leed-v4-template_8-2019.xls",
-"LastModified": "08/28/2019 16:18:37",
-"Key": "content/cos/sam/gsab/Library/leed-v4-template_8-2019.xls",
+"name": "leed-v4-template_9-2023-2.xls",
+"LastModified": "09/29/2023 09:16:00",
+"Key": "content/cos/sam/gsab/Library/leed-v4-template_9-2023-2.xls",
 "extension": ".xls",
-"Size": "154112"
+"Size": "151040"
 },
 {
 "name": "20190905-gsab-standard-design.pdf",
@@ -9212,7 +9212,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "03/23/2023 11:09:09",
+"LastModified": "10/02/2023 13:43:48",
 "Key": "content/cos/sam/tdafw/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -9225,11 +9225,11 @@
 "Size": "685542"
 },
 {
-"name": "Standard Design UAS Group 4 Hangar 1 OCT 19.pdf",
-"LastModified": "02/14/2023 16:14:52",
-"Key": "content/cos/sam/tdafw/Library/Standard Designs/Standard Design UAS Group 4 Hangar 1 OCT 19.pdf",
+"name": "FY24 Group 4_Unmanned_Aircraft_System_Hangar Redacted.pdf",
+"LastModified": "09/29/2023 09:16:00",
+"Key": "content/cos/sam/tdafw/Library/Standard Designs/FY24 Group 4_Unmanned_Aircraft_System_Hangar Redacted.pdf",
 "extension": ".pdf",
-"Size": "7798564"
+"Size": "25214"
 },
 {
 "name": "Library",
@@ -9401,7 +9401,7 @@
 },
 {
 "name": "Library",
-"LastModified": "03/23/2023 11:09:23",
+"LastModified": "10/02/2023 13:39:34",
 "Key": "content/cos/sam/tuas/Library",
 "extension": "",
 "Size": ""
@@ -9527,17 +9527,17 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "03/23/2023 11:09:23",
+"LastModified": "10/02/2023 13:44:56",
 "Key": "content/cos/sam/tuas/Library/Standard Designs",
 "extension": "",
 "Size": ""
 },
 {
-"name": "leed-v4-template_8-2019.xls",
-"LastModified": "09/04/2019 21:06:07",
-"Key": "content/cos/sam/tuas/Library/leed-v4-template_8-2019.xls",
+"name": "leed-v4-template_9-2023-2.xls",
+"LastModified": "09/29/2023 09:16:00",
+"Key": "content/cos/sam/tuas/Library/leed-v4-template_9-2023-2.xls",
 "extension": ".xls",
-"Size": "154112"
+"Size": "151040"
 },
 {
 "name": "Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
@@ -9582,11 +9582,11 @@
 "Size": "33311"
 },
 {
-"name": "standard_design_uas_group3_drwgs.pdf",
-"LastModified": "07/29/2019 18:22:41",
-"Key": "content/cos/sam/tuas/Library/Standard Designs/standard_design_uas_group3_drwgs.pdf",
+"name": "FY24 Group 3_Unmanned_Aircraft_System_Hangar Redacted.pdf",
+"LastModified": "09/29/2023 09:16:00",
+"Key": "content/cos/sam/tuas/Library/Standard Designs/FY24 Group 3_Unmanned_Aircraft_System_Hangar Redacted.pdf",
 "extension": ".pdf",
-"Size": "5731941"
+"Size": "27309"
 },
 {
 "name": "aob",
