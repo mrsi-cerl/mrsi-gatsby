@@ -9177,7 +9177,7 @@
 },
 {
 "name": "Library",
-"LastModified": "10/02/2023 14:17:50",
+"LastModified": "10/03/2023 13:54:18",
 "Key": "content/cos/sam/tda/Library",
 "extension": "",
 "Size": ""
@@ -9190,11 +9190,11 @@
 "Size": ""
 },
 {
-"name": "leed-v4-template_9-2023-2.xls",
-"LastModified": "09/29/2023 09:16:00",
-"Key": "content/cos/sam/tda/Library/leed-v4-template_9-2023-2.xls",
-"extension": ".xls",
-"Size": "151040"
+"name": "Standard Designs",
+"LastModified": "10/03/2023 13:54:18",
+"Key": "content/cos/sam/tda/Library/Standard Designs",
+"extension": "",
+"Size": ""
 },
 {
 "name": "TDA_Aviation_Unit_Army_Standard_2022-05-11.pdf",
@@ -9204,8 +9204,15 @@
 "Size": "957201"
 },
 {
+"name": "leed-v4-template_9-2023-2.xls",
+"LastModified": "09/29/2023 09:16:00",
+"Key": "content/cos/sam/tda/Library/Standard Designs/leed-v4-template_9-2023-2.xls",
+"extension": ".xls",
+"Size": "151040"
+},
+{
 "name": "Library",
-"LastModified": "10/02/2023 14:18:53",
+"LastModified": "10/03/2023 13:49:00",
 "Key": "content/cos/sam/tdafw/Library",
 "extension": "",
 "Size": ""
@@ -9218,18 +9225,18 @@
 "Size": ""
 },
 {
-"name": "Standard Designs",
-"LastModified": "10/02/2023 13:43:48",
-"Key": "content/cos/sam/tdafw/Library/Standard Designs",
+"name": "DD1391 Templates",
+"LastModified": "10/03/2023 13:48:34",
+"Key": "content/cos/sam/tdafw/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
-"name": "leed-v4-template_9-2023-2.xls",
-"LastModified": "09/29/2023 09:16:00",
-"Key": "content/cos/sam/tdafw/Library/leed-v4-template_9-2023-2.xls",
-"extension": ".xls",
-"Size": "151040"
+"name": "Standard Designs",
+"LastModified": "10/03/2023 13:49:00",
+"Key": "content/cos/sam/tdafw/Library/Standard Designs",
+"extension": "",
+"Size": ""
 },
 {
 "name": "Fixed_Wing_Aviation_Unit_Army_Standard_2022-05-11.pdf",
@@ -9241,13 +9248,20 @@
 {
 "name": "FY24 Group 4_Unmanned_Aircraft_System_Hangar Redacted.pdf",
 "LastModified": "09/29/2023 09:16:00",
-"Key": "content/cos/sam/tdafw/Library/Standard Designs/FY24 Group 4_Unmanned_Aircraft_System_Hangar Redacted.pdf",
+"Key": "content/cos/sam/tdafw/Library/DD1391 Templates/FY24 Group 4_Unmanned_Aircraft_System_Hangar Redacted.pdf",
 "extension": ".pdf",
 "Size": "25214"
 },
 {
+"name": "leed-v4-template_9-2023-2.xls",
+"LastModified": "09/29/2023 09:16:00",
+"Key": "content/cos/sam/tdafw/Library/Standard Designs/leed-v4-template_9-2023-2.xls",
+"extension": ".xls",
+"Size": "151040"
+},
+{
 "name": "Library",
-"LastModified": "10/02/2023 14:19:23",
+"LastModified": "10/03/2023 13:51:24",
 "Key": "content/cos/sam/trw/Library",
 "extension": "",
 "Size": ""
@@ -9275,17 +9289,10 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "09/12/2023 18:08:29",
+"LastModified": "10/03/2023 13:51:24",
 "Key": "content/cos/sam/trw/Library/Standard Designs",
 "extension": "",
 "Size": ""
-},
-{
-"name": "leed-v4-template_9-2023-2.xls",
-"LastModified": "09/29/2023 09:16:00",
-"Key": "content/cos/sam/trw/Library/leed-v4-template_9-2023-2.xls",
-"extension": ".xls",
-"Size": "151040"
 },
 {
 "name": "2021-09-30 SAM AVN-COS TOE Rotary Wing MEDIUM Standard Design.pdf",
@@ -9407,8 +9414,15 @@
 "Size": "482704"
 },
 {
+"name": "leed-v4-template_9-2023-2.xls",
+"LastModified": "09/29/2023 09:16:00",
+"Key": "content/cos/sam/trw/Library/Standard Designs/leed-v4-template_9-2023-2.xls",
+"extension": ".xls",
+"Size": "151040"
+},
+{
 "name": "Library",
-"LastModified": "10/02/2023 13:39:34",
+"LastModified": "10/03/2023 13:49:15",
 "Key": "content/cos/sam/tuas/Library",
 "extension": "",
 "Size": ""
@@ -9520,7 +9534,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/21/2023 15:53:51",
+"LastModified": "10/03/2023 13:45:50",
 "Key": "content/cos/sam/tuas/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -9534,17 +9548,10 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "10/02/2023 13:44:56",
+"LastModified": "10/03/2023 13:49:15",
 "Key": "content/cos/sam/tuas/Library/Standard Designs",
 "extension": "",
 "Size": ""
-},
-{
-"name": "leed-v4-template_9-2023-2.xls",
-"LastModified": "09/29/2023 09:16:00",
-"Key": "content/cos/sam/tuas/Library/leed-v4-template_9-2023-2.xls",
-"extension": ".xls",
-"Size": "151040"
 },
 {
 "name": "Army Standard for Aircraft Maintenance Hangar Complex 2014.pdf",
@@ -9568,18 +9575,11 @@
 "Size": "502313"
 },
 {
-"name": "uas-maintenance-hangar-dd1391_old.pdf",
-"LastModified": "08/25/2023 12:54:32",
-"Key": "content/cos/sam/tuas/Library/DD1391 Templates/uas-maintenance-hangar-dd1391_old.pdf",
+"name": "FY24 Group 3_Unmanned_Aircraft_System_Hangar Redacted.pdf",
+"LastModified": "09/29/2023 09:16:00",
+"Key": "content/cos/sam/tuas/Library/DD1391 Templates/FY24 Group 3_Unmanned_Aircraft_System_Hangar Redacted.pdf",
 "extension": ".pdf",
-"Size": "25472"
-},
-{
-"name": "uas_maintenance-hangar-dd1391.pdf",
-"LastModified": "08/25/2023 13:36:39",
-"Key": "content/cos/sam/tuas/Library/DD1391 Templates/uas_maintenance-hangar-dd1391.pdf",
-"extension": ".pdf",
-"Size": "48000"
+"Size": "27309"
 },
 {
 "name": "UAS_Hangar_FFandE_List_Dated_Dec_2013.xlsx",
@@ -9589,11 +9589,11 @@
 "Size": "33311"
 },
 {
-"name": "FY24 Group 3_Unmanned_Aircraft_System_Hangar Redacted.pdf",
+"name": "leed-v4-template_9-2023-2.xls",
 "LastModified": "09/29/2023 09:16:00",
-"Key": "content/cos/sam/tuas/Library/Standard Designs/FY24 Group 3_Unmanned_Aircraft_System_Hangar Redacted.pdf",
-"extension": ".pdf",
-"Size": "27309"
+"Key": "content/cos/sam/tuas/Library/Standard Designs/leed-v4-template_9-2023-2.xls",
+"extension": ".xls",
+"Size": "151040"
 },
 {
 "name": "aob",
