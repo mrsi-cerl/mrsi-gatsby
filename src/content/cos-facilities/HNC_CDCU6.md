@@ -4,7 +4,7 @@ facility_category_codes:
   - "74017"
 facility_cos_short_name: HNC
 facility_functional_proponent: G-9
-facility_long_name: Child Development Center - Under 6 Years of Age
+facility_long_name: Child Development Center - Less than 6 Years of Age
 facility_short_name: CDCU6
 facility_technical_poc_email: michael.r.johnson2@usace.army.mil
 facility_technical_poc_name: Michael Johnson
@@ -26,11 +26,9 @@ carousel_images:
   - /admin/images/uploads/Activity-Room-Picture.jpg
 ---
 
-#Facility Information
-
 ## Description
 
-A CDCU6 is used by the Army to support readiness of families by reducing the conflict between military mission workforce requirements and parental responsibilities. CDCU6 facilities covered in this standard were developed to support the needs of children 6 weeks – 5 years of age.
+A CDCU6 (Child Development Center Under 6 Years of Age) is used by the Army to support readiness of families by reducing the conflict between military mission workforce requirements and parental responsibilities. CDCU6 facilities covered in this standard were developed to support the needs of children 6 weeks – 5 years of age.
 
 ## Variations
 
