@@ -14721,14 +14721,14 @@
 },
 {
 "name": "FY26 Guidance & Templates",
-"LastModified": "08/30/2023 17:30:02",
+"LastModified": "10/10/2023 09:49:08",
 "Key": "content/PDRS/FY26 Guidance & Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "FY27 Guidance & Templates",
-"LastModified": "08/30/2023 17:29:44",
+"LastModified": "10/10/2023 09:49:28",
 "Key": "content/PDRS/FY27 Guidance & Templates",
 "extension": "",
 "Size": ""
@@ -16253,6 +16253,13 @@
 "Size": "27391"
 },
 {
+"name": "Appendix G_ENG 3086 Instructions.pdf",
+"LastModified": "10/06/2023 16:05:00",
+"Key": "content/PDRS/FY26 Guidance & Templates/Appendix G_ENG 3086 Instructions.pdf",
+"extension": ".pdf",
+"Size": "1322434"
+},
+{
 "name": "Instructions for FY26 Army MILCON Code 2.pdf",
 "LastModified": "04/13/2023 08:44:00",
 "Key": "content/PDRS/FY26 Guidance & Templates/Instructions for FY26 Army MILCON Code 2.pdf",
@@ -16265,6 +16272,13 @@
 "Key": "content/PDRS/FY27 Guidance & Templates/Appendix F_FY27 Acquisition Strategy Template.docx",
 "extension": ".docx",
 "Size": "27393"
+},
+{
+"name": "Appendix G_ENG 3086 Instructions.pdf",
+"LastModified": "10/06/2023 16:05:00",
+"Key": "content/PDRS/FY27 Guidance & Templates/Appendix G_ENG 3086 Instructions.pdf",
+"extension": ".pdf",
+"Size": "1322434"
 },
 {
 "name": "Instructions for FY27 Army MILCON Code 2.pdf",
