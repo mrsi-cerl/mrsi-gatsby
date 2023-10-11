@@ -10,7 +10,7 @@ center_poc_phone_number: ☎ (402) 995-2191 / (402) 885-0655
 hq_poc_name: John Busse
 hq_division: ENV
 activation_date: 13 Jun 1991
-recertification_date: 18 Oct 2021
+recertification_date: 18 Nov 2021
 center_functional_proponent: Lara Beasley (environmental),, Michael Schultz (IIS—non-environmental)
 keywords: Disaster Response
 // file_library_root_path: "content/coe/tcx/rrtc/Library/" 

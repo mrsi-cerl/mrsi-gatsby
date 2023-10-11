@@ -10,7 +10,7 @@ center_poc_phone_number: ☎ (703) 428-9026
 hq_poc_name: Jacob Watts
 hq_division: E&C
 activation_date: N/A
-recertification_date: 23 Jan 2018
+recertification_date: 01 Sep 2023
 center_functional_proponent: Pete Perez
 keywords: Survey and Mapping
 // file_library_root_path: "content/coe/tcx/semc/Library/" 

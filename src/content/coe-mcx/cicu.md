@@ -13,7 +13,7 @@ er_number: ER 25-1-113
 er_link: https://www.publications.usace.army.mil/Portals/76/Users/182/86/2486/ER%2025-1-113.pdf?ver=CWGVBUsmJ4bMuJ3kSM2L-A%3d%3d
 er_publication_date: 31 Jan 2019
 activation_date: 20 Jul 2018
-recertification_date: 20 Jul 2018
+recertification_date: 11 Aug 2023
 center_functional_proponent: Tom Smith
 keywords: Civil Works Cyber
 // file_library_root_path: "content/coe/mcx/cicu/Library/" 

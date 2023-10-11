@@ -10,7 +10,7 @@ center_poc_phone_number: ☎ (314) 331-8867
 hq_poc_name: Jacob Watts
 hq_division: E&C
 activation_date: 01 Oct 1995
-recertification_date: 31 Jan 2018
+recertification_date: 17 May 2023
 center_functional_proponent: Pete Perez
 keywords: Photogrammetry
 // file_library_root_path: "content/coe/tcx/pm/Library/" 

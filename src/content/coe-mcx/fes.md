@@ -13,7 +13,7 @@ er_number: ER 1110-1-8169
 er_link: https://www.publications.usace.army.mil/Portals/76/Users/182/86/2486/ER_1110-1-8169.pdf?ver=IkCQzIJd-ykIhLWSGwz1vQ%3d%3d
 er_publication_date: 01 Oct 2018
 activation_date: 01 Nov 2017
-recertification_date: 01 Oct 2018
+recertification_date: 26 Jul 2023
 center_functional_proponent: Pete Perez
 keywords: Explosive Safety
 // file_library_root_path: "content/coe/mcx/fes/Library/" 

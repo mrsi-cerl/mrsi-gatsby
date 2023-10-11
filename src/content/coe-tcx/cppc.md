@@ -1,7 +1,7 @@
 ---
 doc_type: coe_ctx_page 
-title: Collaboration & Public Participation  Center
-name_of_center: Collaboration & Public Participation  Center
+title: Collaboration & Public Participation Center
+name_of_center: Collaboration & Public Participation Center
 place_of_center: IWR
 center_type: TCX
 website: https://www.iwr.usace.army.mil/About/Technical-Centers/CPCX-Collaboration-Public-Participation/
@@ -10,7 +10,7 @@ center_poc_phone_number: ☎ (703) 428-9071
 hq_poc_name: Joe Redican
 hq_division: CW
 activation_date: 17 Oct 2008
-recertification_date: 11 Apr 2018
+recertification_date: 16 Jun 2023
 center_functional_proponent: Eric Bush
 keywords: Collaboration and conflict resolution
 // file_library_root_path: "content/coe/tcx/cppc/Library/" 

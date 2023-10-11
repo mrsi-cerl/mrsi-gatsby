@@ -10,7 +10,7 @@ center_poc_phone_number: ☎ (256) 368-3071
 hq_poc_name: Michael Grizer
 hq_division: IRD
 activation_date: 29 Jun 2007
-recertification_date: 20 Feb 2018
+recertification_date: 25 May 2023
 center_functional_proponent: Michael Grizer (Acting)
 keywords: Military Installation Design Support
 // file_library_root_path: "content/coe/tcx/is/Library/" 

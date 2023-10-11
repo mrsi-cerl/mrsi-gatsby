@@ -10,7 +10,7 @@ center_poc_phone_number: ☎ (530) 756-1104
 hq_poc_name: Sean Smith
 hq_division: CW
 activation_date: N/A
-recertification_date: 31 Jan 2018
+recertification_date: 29 Apr 2023
 center_functional_proponent: Pete Perez
 keywords: Water Resource Management
 // file_library_root_path: "content/coe/tcx/hec/Library/" 

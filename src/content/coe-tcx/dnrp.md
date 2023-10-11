@@ -10,7 +10,7 @@ center_poc_phone_number: ☎ (410) 962-4177
 hq_poc_name: William Mysliwiec / Darvin Smith
 hq_division: RE
 activation_date: 01 Jun 1987
-recertification_date: 18 Jul 2018
+recertification_date: 15 Aug 2023
 center_functional_proponent: Brenda Johnson-Turner
 keywords: Relocate DoD Civilians
 // file_library_root_path: "content/coe/tcx/dnrp/Library/" 

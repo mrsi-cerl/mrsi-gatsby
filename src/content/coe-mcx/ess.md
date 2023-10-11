@@ -13,7 +13,7 @@ er_number: ER 1110-1-8162
 er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_1110-1-8162.pdf?ver=PJkE9pjRKsR6QXVKfoqjKQ%3d%3d
 er_publication_date: 31 Jan 2014
 activation_date: N/A
-recertification_date: 31 Jan 2018
+recertification_date: 26 Jul 2023
 center_functional_proponent: Pete Perez
 keywords: Electronic Security
 // file_library_root_path: "content/coe/mcx/ess/Library/"
