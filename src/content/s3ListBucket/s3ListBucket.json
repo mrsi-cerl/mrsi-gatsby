@@ -11900,7 +11900,7 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "08/09/2023 09:48:21",
+"LastModified": "10/20/2023 15:49:08",
 "Key": "content/cos/swf/ueph/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -11960,6 +11960,13 @@
 "Key": "content/cos/swf/ueph/Library/Archives/ueph-pp-barracks-army-standard-2012.pdf",
 "extension": ".pdf",
 "Size": "326079"
+},
+{
+"name": "Army_Standard_for_Perm_Party_UH_E1-E6s_CATCD_72111_16_Nov_2021_.pdf",
+"LastModified": "10/20/2023 14:21:00",
+"Key": "content/cos/swf/ueph/Library/Army Standards/Army_Standard_for_Perm_Party_UH_E1-E6s_CATCD_72111_16_Nov_2021_.pdf",
+"extension": ".pdf",
+"Size": "458000"
 },
 {
 "name": "Rendering_UEPH.JPG",
