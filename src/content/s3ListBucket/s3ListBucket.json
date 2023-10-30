@@ -9555,7 +9555,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "10/03/2023 13:49:15",
+"LastModified": "10/30/2023 17:37:06",
 "Key": "content/cos/sam/tuas/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -9594,6 +9594,13 @@
 "Key": "content/cos/sam/tuas/Library/Misc. Documents/UAS_Hangar_FFandE_List_Dated_Dec_2013.xlsx",
 "extension": ".xlsx",
 "Size": "33311"
+},
+{
+"name": "Group3_Standard and Drawings.pdf",
+"LastModified": "10/26/2023 10:40:00",
+"Key": "content/cos/sam/tuas/Library/Standard Designs/Group3_Standard and Drawings.pdf",
+"extension": ".pdf",
+"Size": "6763681"
 },
 {
 "name": "leed-v4-template_9-2023-2.xls",
@@ -18711,7 +18718,7 @@
 },
 {
 "name": "Templates",
-"LastModified": "03/23/2023 11:13:16",
+"LastModified": "10/26/2023 12:50:04",
 "Key": "content/UMMCA/Templates",
 "extension": "",
 "Size": ""
