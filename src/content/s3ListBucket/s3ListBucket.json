@@ -9240,7 +9240,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "10/03/2023 13:49:00",
+"LastModified": "10/31/2023 09:49:00",
 "Key": "content/cos/sam/tdafw/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -9265,6 +9265,13 @@
 "Key": "content/cos/sam/tdafw/Library/Standard Designs/leed-v4-template_9-2023-2.xls",
 "extension": ".xls",
 "Size": "151040"
+},
+{
+"name": "Standard Design UAS Group 4 Hangar 1 OCT 19.pdf",
+"LastModified": "10/31/2023 09:49:06",
+"Key": "content/cos/sam/tdafw/Library/Standard Designs/Standard Design UAS Group 4 Hangar 1 OCT 19.pdf",
+"extension": ".pdf",
+"Size": "7798564"
 },
 {
 "name": "Library",
