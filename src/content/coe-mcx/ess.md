@@ -5,9 +5,9 @@ name_of_center: Electronic Security Systems
 place_of_center: HNC
 center_type: MCX
 website: http://www.hnc.usace.army.mil/Media/Fact-Sheets/Fact-Sheet-Article-View/Article/482087/electronic-technology-division-electronic-security-systems/
-center_poc_name: Melinda "Leigh" Young
-center_poc_phone_number: ☎ (256) 656-4218
-hq_poc_name: Nic Ivy / Xuan Ross
+center_poc_name: Melinda "Leigh" Young / Xuan Ross
+center_poc_phone_number: ☎ (256) 656-4218 / ☎ (256) 221-4766
+hq_poc_name: Nic Ivy
 hq_division: E&C
 er_number: ER 1110-1-8162
 er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_1110-1-8162.pdf?ver=PJkE9pjRKsR6QXVKfoqjKQ%3d%3d
