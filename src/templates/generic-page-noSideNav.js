@@ -22,39 +22,6 @@ const GenericNoSideNavPage = ( { data, pageContext } ) => {
   );
 };
 
-export const query = graphql`
-  query {
-    allMarkdownRemark {
-      edges {
-        node {
-          frontmatter {
-            doc_type
-            name_of_center
-            place_of_center
-            center_type
-            website
-            center_poc_name
-            center_poc_phone_number
-            hq_poc_name
-            hq_division
-            er_number
-            er_link
-            er_publication_date
-            activation_date
-            recertification_date
-            center_functional_proponent
-            file_library_root_path
-            page_last_reviewed
-            title
-            slug
-          }
-          html
-        }
-      }
-    }
-  }
-`;
-
 export default GenericNoSideNavPage;
 
 export const Head = () => <Seo title="MCA/AFH Code 2" />;
