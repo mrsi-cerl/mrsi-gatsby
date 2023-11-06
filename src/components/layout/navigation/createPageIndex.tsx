@@ -82,24 +82,8 @@ const pages: PageCollection = {
       slug: "/sustain/",
     },
     {
-      caption: "Subject Matter Points of Contact",
-      slug: "/sustain/poc",
-    },
-    {
-      caption: "Upcoming Events",
-      slug: "/sustain/events",
-    },
-    {
-      caption: "News & Announcements",
-      slug: "/sustain/news",
-    },
-    {
       caption: "Webinars",
       slug: "/sustain/webinars",
-    },
-    {
-      caption: "Technology in Action",
-      slug: "/sustain/technology-in-action/",
     },
   ],
 };
