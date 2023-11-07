@@ -83,7 +83,7 @@ const pages: PageCollection = {
     },
     {
       caption: "Points of Contact",
-      slug: "/poc/",
+      slug: "/sustain/poc/",
     },
     {
       caption: "Webinars",
