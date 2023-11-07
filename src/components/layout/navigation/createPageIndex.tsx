@@ -78,8 +78,12 @@ const pages: PageCollection = {
   ],
   SUSTAIN: [
     {
-      caption: "About Engineering & Construction Sustainability ",
+      caption: "About Engineering & Construction Sustainability",
       slug: "/sustain/",
+    },
+    {
+      caption: "Points of Contact",
+      slug: "/poc/",
     },
     {
       caption: "Webinars",
