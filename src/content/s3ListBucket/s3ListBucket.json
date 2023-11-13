@@ -300,13 +300,6 @@
 "Size": "192187"
 },
 {
-"name": "aircraft-maint-hangar-complex-as.pdf",
-"LastModified": "02/11/2016 11:35:06",
-"Key": "content/cos/cos_home_page/Library/Misc Army Standards/aircraft-maint-hangar-complex-as.pdf",
-"extension": ".pdf",
-"Size": "1626501"
-},
-{
 "name": "aircraft-rinse-facility-manned-army-standard.pdf",
 "LastModified": "02/11/2016 11:35:03",
 "Key": "content/cos/cos_home_page/Library/Misc Army Standards/aircraft-rinse-facility-manned-army-standard.pdf",
@@ -5453,7 +5446,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "11/08/2023 13:39:36",
+"LastModified": "11/08/2023 13:39:50",
 "Key": "content/cos/nao/epdf/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
