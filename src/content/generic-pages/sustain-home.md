@@ -5,9 +5,9 @@ slug: /sustain/
 file_library_root_path: content/sustain/Library/
 ---
 
-As the Nation's engineer, the U.S. Army Corps of Engineers (USACE) is responsible for technical excellence including sustainable design and construction. Our passion drives innovative methods and solutions so that we consistently produce,
+> As USACE creates Engineering solutions for our Nation’s toughest challenges, sustainability is a crucial aspect of our mission. By incorporating sustainable materials into our installations and infrastructure projects, we can reduce the impact of buildings on the environment and make them more resilient to natural disasters and threats to our nation.<br/>
+> *\- Ed Citzler, AIA, COR, Engineering and Construction Sustainability Lead*
 
-> A life cycle cost effective, high performance, sustainable building of design and construction quality to perform and function as expected, verified, and tested before we leave the project site.​<br/>
-> *\- George Lea, P.E. Chief, Military Engineering Headquarters, U.S. Army Corps of Engineers*
+Join us on our <a href="https://www.youtube.com/user/USACEsustainability" target="_blank">YouTube channel</a>.
 
-Join us on our <a href="https://www.youtube.com/user/USACEsustainability" target="_blank">YouTube channel</a>. (Link will open in a new tab.)
+For more resources, please see the <a href="https://usace.dps.mil/sites/KMP-EC/SitePages/Sustainability-Resources.aspx" target="_blank">USACE Sustainability Resources</a> SharePoint page (USACE CAC login required).
