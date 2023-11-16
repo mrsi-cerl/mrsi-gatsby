@@ -245,7 +245,7 @@
 },
 {
 "name": "Misc Army Standards",
-"LastModified": "03/23/2023 11:04:43",
+"LastModified": "11/13/2023 11:37:23",
 "Key": "content/cos/cos_home_page/Library/Misc Army Standards",
 "extension": "",
 "Size": ""
@@ -5285,7 +5285,7 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "03/23/2023 11:06:59",
+"LastModified": "11/16/2023 12:57:41",
 "Key": "content/cos/nao/cidc/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -5333,11 +5333,11 @@
 "Size": "18226"
 },
 {
-"name": "110226 DRAFT VE Report for CIDC.pdf",
-"LastModified": "05/20/2015 15:32:19",
-"Key": "content/cos/nao/cidc/Library/Misc. Documents/110226 DRAFT VE Report for CIDC.pdf",
+"name": "111003 FINAL VE Report for CIDC.pdf",
+"LastModified": "11/15/2023 20:59:00",
+"Key": "content/cos/nao/cidc/Library/Misc. Documents/111003 FINAL VE Report for CIDC.pdf",
 "extension": ".pdf",
-"Size": "1414141"
+"Size": "1057296"
 },
 {
 "name": "flysheet.pdf",
@@ -5656,7 +5656,7 @@
 },
 {
 "name": "AIT Dining Facility",
-"LastModified": "03/23/2023 11:07:09",
+"LastModified": "11/16/2023 13:02:21",
 "Key": "content/cos/nao/epdf/Library/Standard Designs/AIT Dining Facility",
 "extension": "",
 "Size": ""
@@ -5670,7 +5670,7 @@
 },
 {
 "name": "Permanent Part Dining Facility",
-"LastModified": "03/23/2023 11:07:11",
+"LastModified": "11/16/2023 13:01:14",
 "Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility",
 "extension": "",
 "Size": ""
@@ -5697,6 +5697,27 @@
 "Size": "233082"
 },
 {
+"name": "1300TNGCombined.pdf",
+"LastModified": "11/15/2023 21:30:00",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/AIT Dining Facility/1300TNGCombined.pdf",
+"extension": ".pdf",
+"Size": "4968634"
+},
+{
+"name": "2600-1Combined.pdf",
+"LastModified": "11/15/2023 21:30:00",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/AIT Dining Facility/2600-1Combined.pdf",
+"extension": ".pdf",
+"Size": "7066479"
+},
+{
+"name": "2600-2Combined.pdf",
+"LastModified": "11/15/2023 21:30:00",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/AIT Dining Facility/2600-2Combined.pdf",
+"extension": ".pdf",
+"Size": "7299302"
+},
+{
 "name": "2600TNG-Specs-11_46__01_02.pdf",
 "LastModified": "05/20/2015 15:32:45",
 "Key": "content/cos/nao/epdf/Library/Standard Designs/AIT Dining Facility/2600TNG-Specs-11_46__01_02.pdf",
@@ -5718,11 +5739,32 @@
 "Size": "302808"
 },
 {
+"name": "1300PPCombined.pdf",
+"LastModified": "11/15/2023 21:25:00",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/1300PPCombined.pdf",
+"extension": ".pdf",
+"Size": "5894779"
+},
+{
+"name": "500Combined.pdf",
+"LastModified": "11/15/2023 21:25:00",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/500Combined.pdf",
+"extension": ".pdf",
+"Size": "5128303"
+},
+{
 "name": "500PP-Specs-11_46__01_04.pdf",
 "LastModified": "05/20/2015 15:32:46",
 "Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/500PP-Specs-11_46__01_04.pdf",
 "extension": ".pdf",
 "Size": "290033"
+},
+{
+"name": "800Combined.pdf",
+"LastModified": "11/15/2023 21:25:00",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/800Combined.pdf",
+"extension": ".pdf",
+"Size": "5123040"
 },
 {
 "name": "800PP-Specs-11_46__01_05.pdf",
@@ -16366,7 +16408,7 @@
 },
 {
 "name": "Library",
-"LastModified": "03/23/2023 11:13:13",
+"LastModified": "11/16/2023 12:26:19",
 "Key": "content/sustain/Library",
 "extension": "",
 "Size": ""
@@ -18661,53 +18703,67 @@
 "Size": "2209711"
 },
 {
+"name": "Archive",
+"LastModified": "11/16/2023 12:50:26",
+"Key": "content/sustain/Library/Archive",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Policy and Guidance",
-"LastModified": "03/23/2023 11:13:16",
+"LastModified": "11/16/2023 12:51:12",
 "Key": "content/sustain/Library/Policy and Guidance",
 "extension": "",
 "Size": ""
 },
 {
-"name": "army-contract-review-guidance-oct-2016.docx",
-"LastModified": "04/14/2017 09:32:44",
-"Key": "content/sustain/Library/army-contract-review-guidance-oct-2016.docx",
-"extension": ".docx",
-"Size": "45650"
-},
-{
-"name": "2011_eisa_study.pdf",
-"LastModified": "04/28/2015 15:04:30",
-"Key": "content/sustain/Library/Policy and Guidance/2011_eisa_study.pdf",
-"extension": ".pdf",
-"Size": "9249895"
+"name": "Reports",
+"LastModified": "11/16/2023 12:49:23",
+"Key": "content/sustain/Library/Reports",
+"extension": "",
+"Size": ""
 },
 {
 "name": "appendix-a-bibliography.xls",
 "LastModified": "04/28/2015 15:03:01",
-"Key": "content/sustain/Library/Policy and Guidance/appendix-a-bibliography.xls",
+"Key": "content/sustain/Library/Archive/appendix-a-bibliography.xls",
 "extension": ".xls",
 "Size": "163840"
 },
 {
 "name": "appendix-b-mapping-ashrae-to-mps.xlsx",
 "LastModified": "04/28/2015 15:03:02",
-"Key": "content/sustain/Library/Policy and Guidance/appendix-b-mapping-ashrae-to-mps.xlsx",
+"Key": "content/sustain/Library/Archive/appendix-b-mapping-ashrae-to-mps.xlsx",
 "extension": ".xlsx",
 "Size": "266755"
 },
 {
 "name": "appendix-d-cost-estimating-methodology.pdf",
 "LastModified": "04/28/2015 15:03:02",
-"Key": "content/sustain/Library/Policy and Guidance/appendix-d-cost-estimating-methodology.pdf",
+"Key": "content/sustain/Library/Archive/appendix-d-cost-estimating-methodology.pdf",
 "extension": ".pdf",
 "Size": "314821"
 },
 {
 "name": "appendix-e-life-cycle-cost-analysis.pdf",
 "LastModified": "04/28/2015 15:03:10",
-"Key": "content/sustain/Library/Policy and Guidance/appendix-e-life-cycle-cost-analysis.pdf",
+"Key": "content/sustain/Library/Archive/appendix-e-life-cycle-cost-analysis.pdf",
 "extension": ".pdf",
 "Size": "1410343"
+},
+{
+"name": "army-contract-review-guidance-oct-2016.docx",
+"LastModified": "04/14/2017 09:32:44",
+"Key": "content/sustain/Library/Archive/army-contract-review-guidance-oct-2016.docx",
+"extension": ".docx",
+"Size": "45650"
+},
+{
+"name": "opord-2011-72-notification-life-cycle-cost-analysis.pdf",
+"LastModified": "04/28/2015 15:03:04",
+"Key": "content/sustain/Library/Archive/opord-2011-72-notification-life-cycle-cost-analysis.pdf",
+"extension": ".pdf",
+"Size": "30386"
 },
 {
 "name": "Army Sustainability Implementation Guide_JAN23.pdf",
@@ -18717,60 +18773,18 @@
 "Size": "3131763"
 },
 {
-"name": "ashrae-1891-study-summary-report.pdf",
-"LastModified": "04/28/2015 15:03:06",
-"Key": "content/sustain/Library/Policy and Guidance/ashrae-1891-study-summary-report.pdf",
+"name": "2011_eisa_study.pdf",
+"LastModified": "04/28/2015 15:04:30",
+"Key": "content/sustain/Library/Reports/2011_eisa_study.pdf",
 "extension": ".pdf",
-"Size": "643543"
+"Size": "9249895"
 },
 {
 "name": "fy14-sdd-validation-report-final.pdf",
 "LastModified": "04/28/2015 15:03:03",
-"Key": "content/sustain/Library/Policy and Guidance/fy14-sdd-validation-report-final.pdf",
+"Key": "content/sustain/Library/Reports/fy14-sdd-validation-report-final.pdf",
 "extension": ".pdf",
 "Size": "325725"
-},
-{
-"name": "leed-v4-bdplusc-checklist.xlsx",
-"LastModified": "04/28/2015 15:03:06",
-"Key": "content/sustain/Library/Policy and Guidance/leed-v4-bdplusc-checklist.xlsx",
-"extension": ".xlsx",
-"Size": "132203"
-},
-{
-"name": "opord-2011-72-notification-life-cycle-cost-analysis.pdf",
-"LastModified": "04/28/2015 15:03:04",
-"Key": "content/sustain/Library/Policy and Guidance/opord-2011-72-notification-life-cycle-cost-analysis.pdf",
-"extension": ".pdf",
-"Size": "30386"
-},
-{
-"name": "ufc_1_200_02.pdf",
-"LastModified": "04/28/2015 15:03:08",
-"Key": "content/sustain/Library/Policy and Guidance/ufc_1_200_02.pdf",
-"extension": ".pdf",
-"Size": "387746"
-},
-{
-"name": "ufc_3_101_01.pdf",
-"LastModified": "04/28/2015 15:03:15",
-"Key": "content/sustain/Library/Policy and Guidance/ufc_3_101_01.pdf",
-"extension": ".pdf",
-"Size": "460207"
-},
-{
-"name": "usace-army-leed-implementation-guide-v4-september-2014.pdf",
-"LastModified": "04/28/2015 15:03:14",
-"Key": "content/sustain/Library/Policy and Guidance/usace-army-leed-implementation-guide-v4-september-2014.pdf",
-"extension": ".pdf",
-"Size": "613470"
-},
-{
-"name": "usace_leed_impl_guide-2-final-21-aug-11.pdf",
-"LastModified": "04/28/2015 15:03:15",
-"Key": "content/sustain/Library/Policy and Guidance/usace_leed_impl_guide-2-final-21-aug-11.pdf",
-"extension": ".pdf",
-"Size": "586459"
 },
 {
 "name": "Templates",
