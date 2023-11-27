@@ -1,5 +1,5 @@
 ---
-doc_type: coe_mcx_page 
+doc_type: coe_ctx_page 
 title: Reserve Real Property Exchange Program
 name_of_center: Reserve Real Property Exchange Program
 place_of_center: SPK
@@ -16,9 +16,9 @@ activation_date: N/A
 recertification_date: 04 Dec 2018
 center_functional_proponent: Michaele Mandulak
 keywords: Army Reserve Property Exchange
-// file_library_root_path: "content/coe/mcx/rrpep/Library/" 
+// file_library_root_path: "content/coe/tcx/rrpep/Library/" 
 page_last_reviewed: 1 January 1970 
-slug: /coe/mcx/rrpep
+slug: /coe/tcx/rrpep
 ---
 
 ## About 
