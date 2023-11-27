@@ -8,7 +8,7 @@ facility_long_name: Religious Education Facility
 facility_short_name: REF
 facility_technical_poc_email: askelon.m.parker@usace.army.mil
 facility_technical_poc_name: Askelon Parker
-file_library_root_path: "content/cos/nwo/ref/Library/"
+//file_library_root_path: "content/cos/nwo/ref/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nwo/ref/
 carousel_images: []
@@ -25,3 +25,6 @@ RF-EL Large Religious Education Facility
 RF-EM Medium Religious Education Facililty
 
 RF-ES Small Religious Education Facility
+
+## Library
+For design documents and technical support, please contact the COS Manager listed above for more information.

@@ -8,7 +8,7 @@ facility_long_name: Chapels
 facility_short_name: Chapels
 facility_technical_poc_email: askelon.m.parker@usace.army.mil
 facility_technical_poc_name: Askelon Parker
-file_library_root_path: "content/cos/nwo/chapels/Library/"
+//file_library_root_path: "content/cos/nwo/chapels/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nwo/chapels/
 carousel_images:
@@ -46,3 +46,6 @@ RF-LEC Large Enhanced Chapel
 RF-MEC Medium Enhanced Chapel
 
 RF-SEC Small Enhanced Chapel
+
+## Library
+For design documents and technical support, please contact the COS Manager listed above for more information.

@@ -8,7 +8,7 @@ facility_long_name: Initial Entry Training Chapels
 facility_short_name: IET
 facility_technical_poc_email: askelon.m.parker@usace.army.mil
 facility_technical_poc_name: Askelon Parker
-file_library_root_path: "content/cos/nwo/iet/Library/"
+//file_library_root_path: "content/cos/nwo/iet/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nwo/iet/
 carousel_images:
@@ -34,3 +34,6 @@ Other key spaces include multi-purpose rooms for worship and military community 
 ## Variations
 
 There are no variations of this standard design.
+
+## Library
+For design documents and technical support, please contact the COS Manager listed above for more information.

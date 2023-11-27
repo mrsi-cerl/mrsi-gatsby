@@ -10,7 +10,7 @@ facility_technical_poc_email: marcus.j.searles@usace.army.mil
 facility_technical_poc_name: Marcus Searles, Bob Hasse
 cos_manager_name: Jerry Haley
 cos_manager_email: jeremiah.r.haley@usace.army.mil
-file_library_root_path: "content/cos/hnc/zero/Library/"
+//file_library_root_path: "content/cos/hnc/zero/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/zero/
 carousel_images:
@@ -24,3 +24,6 @@ A ZERO is used to train individual soldiers on the skills necessary to align the
 ## Variations
 
 No variations for this facility standard design.
+
+## Library
+For design documents and technical support, please contact the COS Manager listed above for more information.
