@@ -5,16 +5,16 @@ name_of_center: Reserve Real Property Exchange Program
 place_of_center: SPK
 center_type: MCX
 website: https://www.spk.usace.army.mil/Portals/12/documents/small_business/Virtual%20BOOH%202021/Real_Estate_Division_Information.pdf?ver=noLd6tefpdqaoI6ccsSUCg%3D%3D
-center_poc_name: Lisa Ng
-center_poc_phone_number: ☎ (916) 557-5225
-hq_poc_name: Clayton Redmond
+center_poc_name: Enrique Godinez
+center_poc_phone_number: ☎ (503) 961-5890
+hq_poc_name: Enrique Godinez
 hq_division: RE
 er_number: Title 10 USC §18240
 er_link: https://www.govinfo.gov/content/pkg/USCODE-2009-title10/pdf/USCODE-2009-title10-subtitleE-partV-chap1803-sec18240.pdf
 er_publication_date: N/A
 activation_date: N/A
 recertification_date: 04 Dec 2018
-center_functional_proponent: Michaele Mandulak
+center_functional_proponent: Paula Johnson-Muic
 keywords: Army Reserve Property Exchange
 // file_library_root_path: "content/coe/tcx/rrpep/Library/" 
 page_last_reviewed: 1 January 1970 
