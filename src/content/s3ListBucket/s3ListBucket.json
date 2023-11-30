@@ -6125,7 +6125,7 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "03/23/2023 11:07:17",
+"LastModified": "11/16/2023 16:41:42",
 "Key": "content/cos/nao/ncoa/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -9366,7 +9366,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "09/12/2023 18:09:15",
+"LastModified": "11/30/2023 13:42:15",
 "Key": "content/cos/sam/trw/Library/Archive",
 "extension": "",
 "Size": ""
@@ -9387,7 +9387,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "10/03/2023 13:51:24",
+"LastModified": "11/30/2023 13:42:22",
 "Key": "content/cos/sam/trw/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -9433,6 +9433,13 @@
 "Key": "content/cos/sam/trw/Library/Archive/2023-01-24 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
 "extension": ".pdf",
 "Size": "9415201"
+},
+{
+"name": "2023-01-24 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
+"LastModified": "01/25/2023 08:56:28",
+"Key": "content/cos/sam/trw/Library/Archive/2023-01-24 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
+"extension": ".pdf",
+"Size": "447643"
 },
 {
 "name": "2023-02-14 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
@@ -9484,18 +9491,18 @@
 "Size": "23687"
 },
 {
-"name": "2023-01-24 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
-"LastModified": "01/25/2023 08:56:28",
-"Key": "content/cos/sam/trw/Library/Standard Designs/2023-01-24 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
-"extension": ".pdf",
-"Size": "447643"
-},
-{
 "name": "2023-09-12 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
 "LastModified": "09/12/2023 16:57:00",
 "Key": "content/cos/sam/trw/Library/Standard Designs/2023-09-12 AVN-COS FY21 MEDIUM STANDARD DESIGN.pdf",
 "extension": ".pdf",
 "Size": "14711213"
+},
+{
+"name": "2023-11-30 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
+"LastModified": "11/30/2023 12:02:00",
+"Key": "content/cos/sam/trw/Library/Standard Designs/2023-11-30 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
+"extension": ".pdf",
+"Size": "528701"
 },
 {
 "name": "AVN-COS FY21 MEDIUM STANDARD DESIGN-Floor Plan - 01_Floor Plan_All_EXP.dwg",
