@@ -1,15 +1,15 @@
 [
   {
     "startDate": "9:00  12/04/2023",
-    "endDate": "18:00  12/06/2023",
+    "endDate": "16:00  12/04/2023",
     "message": "Our hosting provider is experiencing issues with their network infrastructure. As a result, the MRSI Wizard is currently unavailable. We will post any updates here as further informatation becomes available.",
     "level": "error",
     "title": "Network Outage"
   },
   {
-    "startDate": "15:00  07/10/2023",
-    "endDate": "23:05  07/11/2023",
-    "message": "A fiber cable has been cut that provides network access to our facility. Due to this, The MRSI suite of applications (MILCON D-B, Small Projects, and PDRS wizards) and the COS file libraries on this site are not available until network access can be restored. Sorry for any inconvenience.",
+    "startDate": "9:00  12/04/2023",
+    "endDate": "12:00  12/05/2023",
+    "message": "Our hosting provider has resolved the issue with their network infrastructure: the MRSI Wizard is now available. Please let us know if you have any issues.",
     "level": "info",
     "title": "Network Outage"
   },
