@@ -85,10 +85,6 @@ const pages: PageCollection = {
       caption: "Points of Contact",
       slug: "/sustain/poc/",
     },
-    {
-      caption: "Webinars",
-      slug: "/sustain/webinars",
-    },
   ],
 };
 
