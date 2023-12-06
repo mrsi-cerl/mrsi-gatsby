@@ -5019,7 +5019,7 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "12/06/2023 15:21:55",
+"LastModified": "12/06/2023 15:22:12",
 "Key": "content/cos/nao/afh/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -11865,7 +11865,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "03/23/2023 11:10:10",
+"LastModified": "12/06/2023 15:38:58",
 "Key": "content/cos/swf/ssa/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -11955,11 +11955,11 @@
 "Size": "179409"
 },
 {
-"name": "SSA Par 3 - Design Guidance.pdf",
-"LastModified": "07/21/2020 08:23:08",
-"Key": "content/cos/swf/ssa/Library/Standard Designs/SSA Par 3 - Design Guidance.pdf",
+"name": "SSA Design Guidance_12_2023.pdf",
+"LastModified": "12/06/2023 14:26:00",
+"Key": "content/cos/swf/ssa/Library/Standard Designs/SSA Design Guidance_12_2023.pdf",
 "extension": ".pdf",
-"Size": "271841"
+"Size": "340013"
 },
 {
 "name": "SSA Warehouse Standard Design.pdf",
