@@ -5019,7 +5019,7 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "03/23/2023 11:06:55",
+"LastModified": "12/06/2023 15:21:55",
 "Key": "content/cos/nao/afh/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -5033,14 +5033,14 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "10/10/2023 12:24:12",
+"LastModified": "12/06/2023 15:21:12",
 "Key": "content/cos/nao/afh/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "03/23/2023 11:06:58",
+"LastModified": "12/06/2023 15:21:55",
 "Key": "content/cos/nao/afh/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -5058,20 +5058,6 @@
 "Key": "content/cos/nao/afh/Library/Army Standards/Army Fam Housing Army Standard.pdf",
 "extension": ".pdf",
 "Size": "164978"
-},
-{
-"name": "ufc_4_711_01_2018.pdf",
-"LastModified": "08/31/2018 12:20:36",
-"Key": "content/cos/nao/afh/Library/Army Standards/ufc_4_711_01_2018.pdf",
-"extension": ".pdf",
-"Size": "1793677"
-},
-{
-"name": "ufc_4_711_01_20200909_proposed change_1.pdf",
-"LastModified": "09/11/2020 08:40:57",
-"Key": "content/cos/nao/afh/Library/Army Standards/ufc_4_711_01_20200909_proposed change_1.pdf",
-"extension": ".pdf",
-"Size": "2886103"
 },
 {
 "name": "Family_Housing_Colonel.pdf",
@@ -5200,6 +5186,13 @@
 "Size": "18208"
 },
 {
+"name": "AFH_ch3_20200909.pdf",
+"LastModified": "09/11/2020 08:40:53",
+"Key": "content/cos/nao/afh/Library/Misc. Documents/AFH_ch3_20200909.pdf",
+"extension": ".pdf",
+"Size": "1082388"
+},
+{
 "name": "army_sdd_policy_update_2017.pdf",
 "LastModified": "09/05/2018 09:27:17",
 "Key": "content/cos/nao/afh/Library/Misc. Documents/army_sdd_policy_update_2017.pdf",
@@ -5242,11 +5235,11 @@
 "Size": "1221609"
 },
 {
-"name": "AFH_ch3_20200909.pdf",
-"LastModified": "09/11/2020 08:40:53",
-"Key": "content/cos/nao/afh/Library/Standard Designs/AFH_ch3_20200909.pdf",
+"name": "ufc_4_711_01_2018.pdf",
+"LastModified": "08/31/2018 12:20:36",
+"Key": "content/cos/nao/afh/Library/Standard Designs/ufc_4_711_01_2018.pdf",
 "extension": ".pdf",
-"Size": "1082388"
+"Size": "1793677"
 },
 {
 "name": "Library",
