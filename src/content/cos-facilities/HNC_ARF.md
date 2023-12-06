@@ -14,6 +14,7 @@ cos_manager_email: jeremiah.r.haley@usace.army.mil
 page_last_reviewed: 1 January 1970
 //file_library_root_path: content/cos/hnc/arf/Library/
 slug: /cos/hnc/arf/
+draft: true
 doc_type: facility_page
 ---
 

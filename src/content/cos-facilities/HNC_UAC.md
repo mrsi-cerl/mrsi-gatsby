@@ -13,6 +13,7 @@ cos_manager_email: jeremiah.r.haley@usace.army.mil
 //file_library_root_path: "content/cos/hnc/uac/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/uac/
+draft: true
 carousel_images:
   - /admin/images/uploads/UAC-Layout.jpg
 ---
