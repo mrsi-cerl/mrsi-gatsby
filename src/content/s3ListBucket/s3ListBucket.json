@@ -16422,7 +16422,7 @@
 },
 {
 "name": "CX-KR Documents",
-"LastModified": "03/23/2023 11:13:11",
+"LastModified": "12/13/2023 17:37:25",
 "Key": "content/sustain/CX-KR Documents",
 "extension": "",
 "Size": ""
@@ -16463,16 +16463,16 @@
 "Size": ""
 },
 {
-"name": "District Energy",
-"LastModified": "03/23/2023 11:12:28",
-"Key": "content/sustain/CX-KR Documents/District Energy",
+"name": "Design Charrette",
+"LastModified": "03/23/2023 11:12:31",
+"Key": "content/sustain/CX-KR Documents/Design Charrette",
 "extension": "",
 "Size": ""
 },
 {
-"name": "Eco-Charrette",
-"LastModified": "03/23/2023 11:12:31",
-"Key": "content/sustain/CX-KR Documents/Eco-Charrette",
+"name": "District Energy",
+"LastModified": "03/23/2023 11:12:28",
+"Key": "content/sustain/CX-KR Documents/District Energy",
 "extension": "",
 "Size": ""
 },
@@ -17066,6 +17066,69 @@
 },
 {
 "name": "Articles & Case Studies",
+"LastModified": "03/23/2023 11:12:30",
+"Key": "content/sustain/CX-KR Documents/Design Charrette/Articles & Case Studies",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Best Practices",
+"LastModified": "03/23/2023 11:12:31",
+"Key": "content/sustain/CX-KR Documents/Design Charrette/Best Practices",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Design Tools",
+"LastModified": "09/24/2019 09:09:26",
+"Key": "content/sustain/CX-KR Documents/Design Charrette/Design Tools",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Policy & Guidance",
+"LastModified": "09/24/2019 09:09:26",
+"Key": "content/sustain/CX-KR Documents/Design Charrette/Policy & Guidance",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Training",
+"LastModified": "09/24/2019 09:09:26",
+"Key": "content/sustain/CX-KR Documents/Design Charrette/Training",
+"extension": "",
+"Size": ""
+},
+{
+"name": "ft-sheridan-usarc-energy-charrette.pdf",
+"LastModified": "05/06/2015 10:56:34",
+"Key": "content/sustain/CX-KR Documents/Design Charrette/Articles & Case Studies/ft-sheridan-usarc-energy-charrette.pdf",
+"extension": ".pdf",
+"Size": "4640959"
+},
+{
+"name": "kansas-city-usarc-energy-and-design-charrette.pdf",
+"LastModified": "05/06/2015 10:56:33",
+"Key": "content/sustain/CX-KR Documents/Design Charrette/Articles & Case Studies/kansas-city-usarc-energy-and-design-charrette.pdf",
+"extension": ".pdf",
+"Size": "4712567"
+},
+{
+"name": "sheridan-arc-energy-charrette_masterorig.pdf",
+"LastModified": "05/06/2015 10:56:33",
+"Key": "content/sustain/CX-KR Documents/Design Charrette/Articles & Case Studies/sheridan-arc-energy-charrette_masterorig.pdf",
+"extension": ".pdf",
+"Size": "4640959"
+},
+{
+"name": "A Handbook for Planning and Conducting Charrettes for High-Performance Projects.pdf",
+"LastModified": "07/09/2019 14:58:24",
+"Key": "content/sustain/CX-KR Documents/Design Charrette/Best Practices/A Handbook for Planning and Conducting Charrettes for High-Performance Projects.pdf",
+"extension": ".pdf",
+"Size": "2973407"
+},
+{
+"name": "Articles & Case Studies",
 "LastModified": "09/24/2019 09:09:26",
 "Key": "content/sustain/CX-KR Documents/District Energy/Articles & Case Studies",
 "extension": "",
@@ -17105,69 +17168,6 @@
 "Key": "content/sustain/CX-KR Documents/District Energy/Policy & Guidance/oacsim-endorsement-memo-with-usace-guidance-memo-district-and-islanded-decentralized-heating-systems.pdf",
 "extension": ".pdf",
 "Size": "910398"
-},
-{
-"name": "Articles & Case Studies",
-"LastModified": "03/23/2023 11:12:30",
-"Key": "content/sustain/CX-KR Documents/Eco-Charrette/Articles & Case Studies",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Best Practices",
-"LastModified": "03/23/2023 11:12:31",
-"Key": "content/sustain/CX-KR Documents/Eco-Charrette/Best Practices",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Design Tools",
-"LastModified": "09/24/2019 09:09:26",
-"Key": "content/sustain/CX-KR Documents/Eco-Charrette/Design Tools",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Policy & Guidance",
-"LastModified": "09/24/2019 09:09:26",
-"Key": "content/sustain/CX-KR Documents/Eco-Charrette/Policy & Guidance",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Training",
-"LastModified": "09/24/2019 09:09:26",
-"Key": "content/sustain/CX-KR Documents/Eco-Charrette/Training",
-"extension": "",
-"Size": ""
-},
-{
-"name": "ft-sheridan-usarc-energy-charrette.pdf",
-"LastModified": "05/06/2015 10:56:34",
-"Key": "content/sustain/CX-KR Documents/Eco-Charrette/Articles & Case Studies/ft-sheridan-usarc-energy-charrette.pdf",
-"extension": ".pdf",
-"Size": "4640959"
-},
-{
-"name": "kansas-city-usarc-energy-and-design-charrette.pdf",
-"LastModified": "05/06/2015 10:56:33",
-"Key": "content/sustain/CX-KR Documents/Eco-Charrette/Articles & Case Studies/kansas-city-usarc-energy-and-design-charrette.pdf",
-"extension": ".pdf",
-"Size": "4712567"
-},
-{
-"name": "sheridan-arc-energy-charrette_masterorig.pdf",
-"LastModified": "05/06/2015 10:56:33",
-"Key": "content/sustain/CX-KR Documents/Eco-Charrette/Articles & Case Studies/sheridan-arc-energy-charrette_masterorig.pdf",
-"extension": ".pdf",
-"Size": "4640959"
-},
-{
-"name": "A Handbook for Planning and Conducting Charrettes for High-Performance Projects.pdf",
-"LastModified": "07/09/2019 14:58:24",
-"Key": "content/sustain/CX-KR Documents/Eco-Charrette/Best Practices/A Handbook for Planning and Conducting Charrettes for High-Performance Projects.pdf",
-"extension": ".pdf",
-"Size": "2973407"
 },
 {
 "name": "Articles & Case Studies",
