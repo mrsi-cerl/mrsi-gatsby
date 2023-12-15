@@ -21,3 +21,6 @@ The Aircraft Clear Water Rinse Facility Army Standard addresses the mandatory pl
 ## Variations
 
 No variations for facility standard design.
+
+ **NOTE:**
+*For additional design documents and technical support, please contact the COS Manager listed above for more information.*
