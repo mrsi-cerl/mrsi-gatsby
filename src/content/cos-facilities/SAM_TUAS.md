@@ -38,3 +38,6 @@ The Group 3 hangar is available for up to three assigned platoons. Miscellaneous
 ## Variations
 
 No variations for facility standard design.
+
+ **NOTE:**
+*For additional design documents and technical support, please contact the COS Manager listed above for more information.*
