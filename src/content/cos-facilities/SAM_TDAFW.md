@@ -20,8 +20,11 @@ The Fixed Wing Aviation Unit Aircraft Maintenance Hangar Army Standard defines a
 
 The Standard defines the facility functional and equipment requirements for maintenance, flight and company operations. The accommodated company operations personnel do not require space within a separate Company Operations Facility (COF), FCC 14185. Typical functional spaces within this Hangar Standard include the maintenance bay, maintenance administrative and QA/QC areas, parts and tools storage, component repair shops, flight planning and flight operations, and company daily administrative and supply activities. The facility also accommodates Covered ASIOE and GSE storage (14179), UAS Container Storage (44222), POL Storage / Hazardous Material Storage (21470), Aircraft Wash Apron (11370), and Hangar Access Apron (11340). This Army Standard applies to all active Army and Reserve Component TOE and/or TDA Fixed Wing units.
 
-Due to the unique nature of manned Fixed Wing units, there is no intention to create a manned Fixed Wing Standard Design. For additional design documents and technical support, please contact the COS Manager listed above for more information. Contact COS for assistance in the programming and design of new manned Fixed Wing hangars.
+Due to the unique nature of manned Fixed Wing units, there is no intention to create a manned Fixed Wing Standard Design. Contact COS for assistance in the programming and design of new manned Fixed Wing hangars.
 
 ## Variations
 
 No variations for facility standard design.
+
+ **NOTE:**
+*For additional design documents and technical support, please contact the COS Manager listed above for more information.*
