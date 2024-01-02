@@ -9,17 +9,38 @@ carousel_images:
 
 title: Construction Waste Diversion and Mitigation
 
-sustain_msc_program_manager_email: Jeanette.M.Fiess@usace.army.mil
-sustain_msc_program_manager_name: Jeanette Fiess
+sustain_general_email_name: Waste@usace.army.mil
+sustain_general_email_email: Waste@usace.army.mil
 
-sustain_msc_technical_lead_email: Ned.A.Shepherd@usace.army.mil
-sustain_msc_technical_lead_name: Ned Shepherd
+sustain_cop_1_name: Environmental
+sustain_cop_1_url: https://usace.dps.mil/sites/KMP-ENV
 
-sustain_hq_usace_proponent_email: edward.citzler@usace.army.mil
-sustain_hq_usace_proponent_name: Edward Citzler
+sustain_hq_usace_proponent_1_name: Ed Citzler
+sustain_hq_usace_proponent_1_email: edward.r.citzler@usace.army.mil
 
-sustain_erdc_liaison_email: Giselle.Rodriguez@usace.army.mil
-sustain_erdc_liaison_name: Giselle Rodriguez
+sustain_cop_2_name: Construction Management
+sustain_cop_2_url: https://usace.dps.mil/sites/KMP-EC/SitePages/Construction.aspx
+
+sustain_hq_usace_proponent_2_name: Kenneth Simmons
+sustain_hq_usace_proponent_2_email: kenneth.c.simmons@usace.army.mil
+
+# sustain_cop_3_name: 
+# sustain_cop_3_url: 
+
+# sustain_hq_usace_proponent_3_name: 
+# sustain_hq_usace_proponent_3_email: 
+
+# sustain_cop_4_name: 
+# sustain_cop_4_url:  
+
+# sustain_hq_usace_proponent_4_name: 
+# sustain_hq_usace_proponent_4_email: 
+
+# sustain_cop_5_name: 
+# sustain_cop_5_url: 
+
+# sustain_hq_usace_proponent_5_name: 
+# sustain_hq_usace_proponent_5_email: 
 
 file_library_root_path: content/sustain/CX-KR Documents/Construction Waste/
 page_last_reviewed: 1 January 1970

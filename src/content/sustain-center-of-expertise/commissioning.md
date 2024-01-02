@@ -7,17 +7,38 @@ carousel_images:
   - /admin/images/uploads/commissioning-scheduling-process.jpg
 title: Commissioning
 
-sustain_msc_program_manager_name: Brandon Martin
-sustain_msc_program_manager_email: Brandon.T.Martin@usace.army.mil
+sustain_general_email_name: Commissioning@usace.army.mil
+sustain_general_email_email: Commissioning@usace.army.mil
 
-sustain_msc_technical_lead_name: Mary Foutz
-sustain_msc_technical_lead_email: Mary.P.Foutz@usace.army.mil
+sustain_cop_1_name: Construction Management
+sustain_cop_1_url: https://usace.dps.mil/sites/KMP-EC/SitePages/Construction.aspx
 
-sustain_hq_usace_proponent_name: Tim Gordon
-sustain_hq_usace_proponent_email: Timothy.D.Gordon@usace.army.mil
+sustain_hq_usace_proponent_1_name: Kenneth Simmons
+sustain_hq_usace_proponent_1_email: kenneth.c.simmons@usace.army.mil
 
-sustain_erdc_liaison_name: Dale Herron
-sustain_erdc_liaison_email: Dale.L.Herron@usace.army.mil
+sustain_cop_2_name: Control Systems
+sustain_cop_2_url: https://usace.dps.mil/sites/KMP-CS
+
+sustain_hq_usace_proponent_2_name: Chris Battisti
+sustain_hq_usace_proponent_2_email: christopher.m.battisti@usace.army.mil
+
+sustain_cop_3_name: Mechancial Engineering
+sustain_cop_3_url: https://usace.dps.mil/sites/KMP-ME
+
+sustain_hq_usace_proponent_3_name: Tim Gordon
+sustain_hq_usace_proponent_3_email: Timothy.D.Gordon@usace.army.mil
+
+# sustain_cop_4_name: 
+# sustain_cop_4_url:  
+
+# sustain_hq_usace_proponent_4_name: 
+# sustain_hq_usace_proponent_4_email: 
+
+# sustain_cop_5_name: 
+# sustain_cop_5_url: 
+
+# sustain_hq_usace_proponent_5_name: 
+# sustain_hq_usace_proponent_5_email: 
 
 file_library_root_path: content/sustain/CX-KR Documents/Commissioning/
 page_last_reviewed: 1 January 1970

@@ -10,17 +10,38 @@ carousel_images:
   - /admin/images/uploads/150825-a-ce999-028.jpg
 title: Microgrid
 
-sustain_msc_program_manager_email: Ryan.Parks@usace.army.mil
-sustain_msc_program_manager_name: Ryan Parks
+sustain_general_email_name: Microgrid@usace.army.mil
+sustain_general_email_email: Microgrid@usace.army.mil
 
-sustain_msc_technical_lead_email: Antonino.Marzullo@usace.army.mil;Marcus.A.Allen@usace.army.mil
-sustain_msc_technical_lead_name: Antonino Marzullo and Marc Allen
+sustain_cop_1_name: Electrical Engineering
+sustain_cop_1_url: https://usace.dps.mil/sites/KMP-EE
 
-sustain_hq_usace_proponent_email: Bruce.Movahedi@usace.army.mil;David.Williams@usace.army.mil
-sustain_hq_usace_proponent_name: Bruce Movahedi and David Williams
+sustain_hq_usace_proponent_1_name: Nic Ivy
+sustain_hq_usace_proponent_1_email: nicholas.j.ivy@usace.army.mil
 
-sustain_erdc_liaison_email: Harold.Sanborn@usace.army.mil
-sustain_erdc_liaison_name: Harold Sanborn
+# sustain_cop_2_name: 
+# sustain_cop_2_url:  
+
+# sustain_hq_usace_proponent_2_name: 
+# sustain_hq_usace_proponent_2_email: 
+
+# sustain_cop_3_name: 
+# sustain_cop_3_url: 
+
+# sustain_hq_usace_proponent_3_name: 
+# sustain_hq_usace_proponent_3_email: 
+
+# sustain_cop_4_name: 
+# sustain_cop_4_url:  
+
+# sustain_hq_usace_proponent_4_name: 
+# sustain_hq_usace_proponent_4_email: 
+
+# sustain_cop_5_name: 
+# sustain_cop_5_url: 
+
+# sustain_hq_usace_proponent_5_name: 
+# sustain_hq_usace_proponent_5_email: 
 
 file_library_root_path: content/sustain/CX-KR Documents/Microgrid/
 page_last_reviewed: 1 January 1970

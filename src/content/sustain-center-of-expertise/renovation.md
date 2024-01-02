@@ -4,17 +4,38 @@ carousel_images:
   - /admin/images/uploads/major20renovation_800_resize.jpg
 title: Major Renovations
 
-sustain_msc_program_manager_email: matthew.milliorn@usace.army.mil
-sustain_msc_program_manager_name: Matthew Milliorn
+sustain_general_email_name: Sustainable_SRM@usace.army.mil
+sustain_general_email_email: Sustainable_SRM@usace.army.mil
 
-sustain_msc_technical_lead_email: kirk.a.williams@usace.army.mil
-sustain_msc_technical_lead_name: Kirk Williams
+sustain_cop_1_name: Architecture
+sustain_cop_1_url: https://usace.dps.mil/sites/KMP-A
 
-sustain_hq_usace_proponent_email: edward.citzler@usace.army.mil
-sustain_hq_usace_proponent_name: Edward Citzler
+sustain_hq_usace_proponent_1_name: Martin Borger
+sustain_hq_usace_proponent_1_email: martin.a.borger@usace.army.mil
 
-sustain_erdc_liaison_email: Alexander.M.Zhivov@usace.army.mil
-sustain_erdc_liaison_name: Alexander Zhivov
+sustain_cop_2_name: Control Systems
+sustain_cop_2_url: https://usace.dps.mil/sites/KMP-CS
+
+sustain_hq_usace_proponent_2_name: Chris Battisti
+sustain_hq_usace_proponent_2_email: christopher.m.battisti@usace.army.mil
+
+sustain_cop_3_name: Construction Management
+sustain_cop_3_url: https://usace.dps.mil/sites/KMP-EC/SitePages/Construction.aspx
+
+sustain_hq_usace_proponent_3_name: TBD
+sustain_hq_usace_proponent_3_email: tbd@usace.army.mil
+
+sustain_cop_4_name: Mechancial Engineering
+sustain_cop_4_url: https://usace.dps.mil/sites/KMP-ME
+
+sustain_hq_usace_proponent_4_name: Tim Gordon
+sustain_hq_usace_proponent_4_email: Timothy.D.Gordon@usace.army.mil
+
+sustain_cop_5_name: Fire Protection Engineering
+sustain_cop_5_url: https://usace.dps.mil/sites/KMP-FPE
+
+sustain_hq_usace_proponent_5_name: John Wilkus
+sustain_hq_usace_proponent_5_email: john.w.wilkus@usace.army.mil
 
 file_library_root_path: content/sustain/CX-KR Documents/Renovations/
 page_last_reviewed: 1 January 1970

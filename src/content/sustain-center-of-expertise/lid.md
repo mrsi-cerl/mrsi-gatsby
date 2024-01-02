@@ -16,17 +16,38 @@ carousel_images:
 
 title: Hydrology and Low Impact Development
 
-sustain_msc_program_manager_email: Sharon.M.Sartor@usace.army.mil
-sustain_msc_program_manager_name: Sharon Sartor
+sustain_general_email_name: LID@usace.army.mil
+sustain_general_email_email: LID@usace.army.mil
 
-sustain_msc_technical_lead_email: Erin.M.Cox@usace.army.mil
-sustain_msc_technical_lead_name: Erin Cox
+sustain_cop_1_name: Environmental
+sustain_cop_1_url: https://usace.dps.mil/sites/KMP-ENV
 
-sustain_hq_usace_proponent_email: Jennifer.L.Kline@usace.army.mil
-sustain_hq_usace_proponent_name: Jennifer Kline
+sustain_hq_usace_proponent_1_name: Jennifer Kline
+sustain_hq_usace_proponent_1_email: jennifer.l.kline@usace.army.mil
 
-sustain_erdc_liaison_email: Heidi.R.Howard@usace.army.mil
-sustain_erdc_liaison_name: Heidi Howard
+sustain_cop_2_name: Geotechnical, Geology, and Materials
+sustain_cop_2_url: https://usace.dps.mil/sites/KMP-GGM
+
+sustain_hq_usace_proponent_2_name: Marty Goff
+sustain_hq_usace_proponent_2_email: marty.goff@usace.army.mil
+
+sustain_cop_3_name: Architecture
+sustain_cop_3_url: https://usace.dps.mil/sites/KMP-A
+
+sustain_hq_usace_proponent_3_name: TBD
+sustain_hq_usace_proponent_3_email: tbd@usace.army.mil
+
+sustain_cop_4_name: Hydrology, Hydraulics, and Coastal
+sustain_cop_4_url:  https://usace.dps.mil/sites/KMP-HHC
+
+sustain_hq_usace_proponent_4_name: Sean Smith
+sustain_hq_usace_proponent_4_email: sean.l.smith@usace.army.mil
+
+sustain_cop_5_name: Landscape Architecture
+sustain_cop_5_url: https://usace.dps.mil/sites/KMP-LA
+
+sustain_hq_usace_proponent_5_name: TBD
+sustain_hq_usace_proponent_5_email: tbd@usace.army.mil
 
 file_library_root_path: content/sustain/CX-KR Documents/LID/
 page_last_reviewed: 1 January 1970

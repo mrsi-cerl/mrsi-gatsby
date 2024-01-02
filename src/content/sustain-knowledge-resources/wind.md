@@ -4,17 +4,38 @@ carousel_images:
   - /admin/images/uploads/wind_800_resize.jpg
 title: Wind Energy
 
-sustain_msc_program_manager_email: Mike.Ternak@usace.army.mil
-sustain_msc_program_manager_name: Mike Ternak
+sustain_general_email_name: TBD
+sustain_general_email_email: tbd@usace.army.mil
 
-sustain_msc_technical_lead_email: Trent.Simpler@usace.army.mil
-sustain_msc_technical_lead_name: Trent Simpler
+sustain_cop_1_name: Architecture
+sustain_cop_1_url: https://usace.dps.mil/sites/KMP-A
 
-sustain_hq_usace_proponent_email: Timothy.D.Gordon@usace.army.mil
-sustain_hq_usace_proponent_name: Tim Gordon
+sustain_hq_usace_proponent_1_name: Tim Gordon
+sustain_hq_usace_proponent_1_email: timothy.d.gordon@usace.army.mil
 
-sustain_erdc_liaison_email: William.J.Stein@usace.army.mil
-sustain_erdc_liaison_name: Bill Stein
+sustain_cop_2_name: Electrical Engineering
+sustain_cop_2_url: https://usace.dps.mil/sites/KMP-EE
+
+sustain_hq_usace_proponent_2_name: Nic Ivy
+sustain_hq_usace_proponent_2_email: nicholas.j.ivy@usace.army.mil
+
+sustain_cop_3_name: Electrical Engineering
+sustain_cop_3_url: https://usace.dps.mil/sites/KMP-EE
+
+sustain_hq_usace_proponent_3_name: Todd Trulock
+sustain_hq_usace_proponent_3_email: robert.t.trulock@usace.army.mil
+
+sustain_cop_4_name: ""
+sustain_cop_4_url:  ""
+
+sustain_hq_usace_proponent_4_name: ""
+sustain_hq_usace_proponent_4_email: ""
+
+sustain_cop_5_name: ""
+sustain_cop_5_url: ""
+
+sustain_hq_usace_proponent_5_name: ""
+sustain_hq_usace_proponent_5_email: ""
 
 file_library_root_path: content/sustain/CX-KR Documents/Wind/
 page_last_reviewed: 1 January 1970

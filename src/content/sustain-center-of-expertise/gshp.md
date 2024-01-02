@@ -4,17 +4,38 @@ carousel_images:
   - /admin/images/uploads/gshp20pic.jpg
 title: Ground Source Heat Pumps
 
-sustain_msc_program_manager_email: Donald.E.Johantges@usace.army.mil
-sustain_msc_program_manager_name: Don Johantges
+sustain_general_email_name: GSHP@usace.army.mil
+sustain_general_email_email: GSHP@usace.army.mil
 
-sustain_msc_technical_lead_email: Hope.R.Evans@usace.army.mil
-sustain_msc_technical_lead_name: Hope Evans
+sustain_cop_1_name: Mechancial Engineering
+sustain_cop_1_url: https://usace.dps.mil/sites/KMP-ME
 
-sustain_hq_usace_proponent_email: edward.citzler@usace.army.mil
-sustain_hq_usace_proponent_name: Edward Citzler
+sustain_hq_usace_proponent_1_name: Brandon Martin
+sustain_hq_usace_proponent_1_email: brandon.t.martin@usace.army.mi
 
-sustain_erdc_liaison_email: jim.p.miller@usace.army.mil
-sustain_erdc_liaison_name: Jim Miller
+sustain_cop_2_name: Environmental
+sustain_cop_2_url: https://usace.dps.mil/sites/KMP-ENV
+
+sustain_hq_usace_proponent_2_name: Cathleen Forget
+sustain_hq_usace_proponent_2_email: cathleen.a.forget@usace.army.mil
+
+sustain_cop_3_name: Geotechnical, Geology, and Materials
+sustain_cop_3_url: https://usace.dps.mil/sites/KMP-GGM
+
+sustain_hq_usace_proponent_3_name: Marty Goff
+sustain_hq_usace_proponent_3_email: marty.goff@usace.army.mil
+
+# sustain_cop_4_name: 
+# sustain_cop_4_url:  
+
+# sustain_hq_usace_proponent_4_name: 
+# sustain_hq_usace_proponent_4_email: 
+
+# sustain_cop_5_name: 
+# sustain_cop_5_url: 
+
+# sustain_hq_usace_proponent_5_name: 
+# sustain_hq_usace_proponent_5_email: 
 
 file_library_root_path: content/sustain/CX-KR Documents/GSHP/
 page_last_reviewed: 1 January 1970

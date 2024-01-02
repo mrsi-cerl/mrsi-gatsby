@@ -16,40 +16,116 @@ const getCXInfo = ( data, slug ) => {
 const getTableData = data => {
   const tableData = [
     {
-      title: "MSC Program Manager:",
+      title: "General Email Contact:",
       value: (
         <a
-          href={ "mailto:" + data.frontmatter.sustain_msc_program_manager_email }
+          href={ "mailto:" + data.frontmatter.sustain_general_email_email }
         >
-          { data.frontmatter.sustain_msc_program_manager_name }
+          { data.frontmatter.sustain_general_email_name }
         </a>
       ),
     },
     {
-      title: "MSC Technical Lead / Co-Chair:",
+      title: <u>Related CoPs</u>,
       value: (
-        <a href={ "mailto:" + data.frontmatter.sustain_msc_technical_lead_email }>
-          { data.frontmatter.sustain_msc_technical_lead_name }
-        </a>
+        <strong><u>HQ USACE Proponent</u></strong>
       ),
     },
     {
-      title: "HQ USACE Proponent:",
-      value: (
-        <a href={ "mailto:" + data.frontmatter.sustain_hq_usace_proponent_email }>
-          { data.frontmatter.sustain_hq_usace_proponent_name }
-        </a>
+      title: (
+        <div>
+          <a href={ data.frontmatter.sustain_cop_1_url } target="_blank" rel="noopener noreferrer">
+            {  data.frontmatter.sustain_cop_1_name }
+          </a>*
+        </div>
       ),
-    },
-    {
-      title: "ERDC Liaison:",
       value: (
-        <a href={ "mailto:" + data.frontmatter.sustain_erdc_liaison_email }>
-          { data.frontmatter.sustain_erdc_liaison_name }
+        <a href={ "mailto:" + data.frontmatter.sustain_hq_usace_proponent_1_email }>
+          { data.frontmatter.sustain_hq_usace_proponent_1_name }
         </a>
       ),
     },
   ];
+
+  if (data.frontmatter.sustain_cop_2_name)
+  {
+    tableData.push(
+      {
+        title: (
+          <div>
+            <a href={ data.frontmatter.sustain_cop_2_url } target="_blank" rel="noopener noreferrer">
+              {  data.frontmatter.sustain_cop_2_name }
+            </a>*
+          </div>
+        ),
+        value: (
+          <a href={ "mailto:" + data.frontmatter.sustain_hq_usace_proponent_2_email }>
+            { data.frontmatter.sustain_hq_usace_proponent_2_name }
+          </a>
+        ),
+      },
+    )
+  } 
+
+  if (data.frontmatter.sustain_cop_3_name)
+  {
+    tableData.push(
+      {
+        title: (
+          <div>
+            <a href={ data.frontmatter.sustain_cop_3_url } target="_blank" rel="noopener noreferrer">
+              {  data.frontmatter.sustain_cop_3_name }
+            </a>*
+          </div>
+        ),
+        value: (
+          <a href={ "mailto:" + data.frontmatter.sustain_hq_usace_proponent_3_email }>
+            { data.frontmatter.sustain_hq_usace_proponent_3_name }
+          </a>
+        ),
+      },
+    )
+  } 
+
+  if (data.frontmatter.sustain_cop_4_name)
+  {
+    tableData.push(
+      {
+        title: (
+          <div>
+            <a href={ data.frontmatter.sustain_cop_4_url } target="_blank" rel="noopener noreferrer">
+              {  data.frontmatter.sustain_cop_4_name }
+            </a>*
+          </div>
+        ),
+        value: (
+          <a href={ "mailto:" + data.frontmatter.sustain_hq_usace_proponent_4_email }>
+            { data.frontmatter.sustain_hq_usace_proponent_4_name }
+          </a>
+        ),
+      },
+    )
+  } 
+
+  if (data.frontmatter.sustain_cop_5_name)
+  {
+    tableData.push(
+      {
+        title: (
+          <div>
+            <a href={data.frontmatter.sustain_cop_5_url } target="_blank" rel="noopener noreferrer">
+              {  data.frontmatter.sustain_cop_5_name }
+            </a>*
+          </div>
+        ),
+        value: (
+          <a href={ "mailto:" + data.frontmatter.sustain_hq_usace_proponent_5_email }>
+            { data.frontmatter.sustain_hq_usace_proponent_5_name }
+          </a>
+        ),
+      },
+    )
+  } 
   return tableData;
 };
 
@@ -66,6 +142,7 @@ const SustainKrCxPage = ( { data, pageContext } ) => {
         </div>
         <div className="tablet:grid-col" style={ { paddingLeft: 10 } }>
           <MrsiTable data={ getTableData( pageData ) } />
+          *May require CAC login
         </div>
       </div>
 
@@ -103,17 +180,32 @@ export const query = graphql`
             facility_cos_short_name
             facility_functional_proponent
             facility_technical_poc_name
+            sustain_general_email_name
+            sustain_general_email_email
+            sustain_cop_1_name
+            sustain_cop_1_url
+            sustain_hq_usace_proponent_1_name
+            sustain_hq_usace_proponent_1_email
+            sustain_cop_2_name
+            sustain_cop_2_url
+            sustain_hq_usace_proponent_2_name
+            sustain_hq_usace_proponent_2_email
+            sustain_cop_3_name
+            sustain_cop_3_url
+            sustain_hq_usace_proponent_3_name
+            sustain_hq_usace_proponent_3_email
+            sustain_cop_4_name
+            sustain_cop_4_url
+            sustain_hq_usace_proponent_4_name
+            sustain_hq_usace_proponent_4_email
+            sustain_cop_5_name
+            sustain_cop_5_url
+            sustain_hq_usace_proponent_5_name
+            sustain_hq_usace_proponent_5_email
             file_library_root_path
             page_last_reviewed
+            draft
             slug
-            sustain_msc_program_manager_name
-            sustain_msc_program_manager_email
-            sustain_msc_technical_lead_name
-            sustain_msc_technical_lead_email
-            sustain_hq_usace_proponent_name
-            sustain_hq_usace_proponent_email
-            sustain_erdc_liaison_name
-            sustain_erdc_liaison_email
           }
           html
         }

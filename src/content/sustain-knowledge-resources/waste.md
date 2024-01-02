@@ -5,20 +5,42 @@ carousel_images:
 
 title: Waste-to-Energy
 
-sustain_msc_program_manager_email: matthew.milliorn@usace.army.mil
-sustain_msc_program_manager_name: Matthew Milliorn
+sustain_general_email_name: TBD
+sustain_general_email_email: tbd@usace.army.mil
 
-sustain_msc_technical_lead_email: kirk.a.williams@usace.army.mil
-sustain_msc_technical_lead_name: Kirk Williams
+sustain_cop_1_name: TBD
+sustain_cop_1_url: tbd@usace.army.mil
 
-sustain_hq_usace_proponent_email: edward.citzler@usace.army.mil
-sustain_hq_usace_proponent_name: Edward Citzler
+sustain_hq_usace_proponent_1_name: TBD
+sustain_hq_usace_proponent_1_email: tbd@usace.army.mil 
 
-sustain_erdc_liaison_email: Stephen.D.Cosper@usace.army.mil
-sustain_erdc_liaison_name: Steve Cosper
+# sustain_cop_2_name: 
+# sustain_cop_2_url:  
+
+# sustain_hq_usace_proponent_2_name: 
+# sustain_hq_usace_proponent_2_email: 
+
+# sustain_cop_3_name: 
+# sustain_cop_3_url: 
+
+# sustain_hq_usace_proponent_3_name: 
+# sustain_hq_usace_proponent_3_email: 
+
+# sustain_cop_4_name: 
+# sustain_cop_4_url:  
+
+# sustain_hq_usace_proponent_4_name: 
+# sustain_hq_usace_proponent_4_email: 
+
+# sustain_cop_5_name: 
+# sustain_cop_5_url: 
+
+# sustain_hq_usace_proponent_5_name: 
+# sustain_hq_usace_proponent_5_email: 
 
 file_library_root_path: content/sustain/CX-KR Documents/Waste/
 page_last_reviewed: 1 January 1970
+draft: true
 slug: /sustain/kr/waste/
 
 related_links:

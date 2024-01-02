@@ -6,8 +6,9 @@ import Seo from "../../../components/seo";
 const getTableData = data => {
   const cx_pages = data.allMarkdownRemark.edges.filter(
     edge =>
-      edge.node.frontmatter.doc_type === "sustain_cx_page" ||
-      edge.node.frontmatter.doc_type === "sustain_kr_page"
+      (edge.node.frontmatter.doc_type === "sustain_cx_page" ||
+      edge.node.frontmatter.doc_type === "sustain_kr_page") &&
+      !edge.node.frontmatter.draft
   )
 
   cx_pages.sort((a, b) => {
@@ -32,10 +33,9 @@ const SustainPOC = ({ data }) => {
         <thead>
           <tr>
             <th>Subject Matter Area</th>
-            <th>MSC Program Manager</th>
-            <th>MSC Technical Lead</th>
+            <th>Community of Practice (CoP)</th>
             <th>HQ USACE Proponent</th>
-            <th>USACE Liaison</th>
+            <th>General Email Contact</th>
           </tr>
         </thead>
         <tbody>
@@ -48,42 +48,70 @@ const SustainPOC = ({ data }) => {
                 </Link>
               </td>
               <td>
-                <a
-                  href={
-                    "mailto:" +
-                    e.node.frontmatter.sustain_msc_program_manager_email
-                  }
-                >
-                  {e.node.frontmatter.sustain_msc_program_manager_name}
-                </a>
+              { e.node.frontmatter?.sustain_cop_1_url && <div style={{ whiteSpace: 'nowrap' }}>
+                  <a href={ e.node.frontmatter?.sustain_cop_1_url } target="_blank" rel="noopener noreferrer">
+                    {  e.node.frontmatter?.sustain_cop_1_name }
+                  </a>
+                </div> }                
+                { e.node.frontmatter?.sustain_cop_2_url && <div style={{ whiteSpace: 'nowrap' }}>
+                  <a href={ e.node.frontmatter?.sustain_cop_2_url } target="_blank" rel="noopener noreferrer">
+                    {  e.node.frontmatter?.sustain_cop_2_name }
+                  </a>
+                </div> }
+                { e.node.frontmatter?.sustain_cop_3_url && <div style={{ whiteSpace: 'nowrap' }}>
+                  <a href={ e.node.frontmatter?.sustain_cop_3_url } target="_blank" rel="noopener noreferrer">
+                    {  e.node.frontmatter?.sustain_cop_3_name }
+                  </a>
+                </div> }
+                { e.node.frontmatter?.sustain_cop_4_url && <div style={{ whiteSpace: 'nowrap' }}>
+                  <a href={ e.node.frontmatter?.sustain_cop_4_url } target="_blank" rel="noopener noreferrer">
+                    {  e.node.frontmatter?.sustain_cop_4_name }
+                  </a>
+                </div> }
+                { e.node.frontmatter?.sustain_cop_5_url && <div style={{ whiteSpace: 'nowrap' }}>
+                  <a href={ e.node.frontmatter?.sustain_cop_5_url } target="_blank" rel="noopener noreferrer">
+                    {  e.node.frontmatter?.sustain_cop_5_name }
+                  </a>
+                </div>  }
+              </td>
+              <td>
+              { e.node.frontmatter?.sustain_hq_usace_proponent_1_name && <div style={{ whiteSpace: 'nowrap' }}>
+                  <a
+                    href={
+                      "mailto:" +
+                      e.node.frontmatter?.sustain_hq_usace_proponent_1_email
+                    }>
+                    {e.node.frontmatter?.sustain_hq_usace_proponent_1_name}
+                  </a>
+                </div> }
+                { e.node.frontmatter?.sustain_hq_usace_proponent_2_name && <div style={{ whiteSpace: 'nowrap' }}>
+                      <a href={ "mailto:" + e.node.frontmatter?.sustain_hq_usace_proponent_2_email }>
+                        { e.node.frontmatter?.sustain_hq_usace_proponent_2_name }
+                      </a>
+                </div> }
+                { e.node.frontmatter?.sustain_hq_usace_proponent_3_name && <div style={{ whiteSpace: 'nowrap' }}>
+                      <a href={ "mailto:" + e.node.frontmatter?.sustain_hq_usace_proponent_3_email }>
+                        { e.node.frontmatter?.sustain_hq_usace_proponent_3_name }
+                      </a>
+                </div> }
+                { e.node.frontmatter?.sustain_hq_usace_proponent_4_name && <div style={{ whiteSpace: 'nowrap' }}>
+                      <a href={ "mailto:" + e.node.frontmatter?.sustain_hq_usace_proponent_4_email }>
+                        { e.node.frontmatter?.sustain_hq_usace_proponent_4_name }
+                      </a>
+                </div> }
+                { e.node.frontmatter?.sustain_hq_usace_proponent_5_name && <div style={{ whiteSpace: 'nowrap' }}>
+                      <a href={ "mailto:" + e.node.frontmatter?.sustain_hq_usace_proponent_5_email }>
+                        { e.node.frontmatter?.sustain_hq_usace_proponent_5_name }
+                      </a>
+                </div> }
               </td>
               <td>
                 <a
                   href={
-                    "mailto:" +
-                    e.node.frontmatter.sustain_msc_technical_lead_email
+                    "mailto:" + e.node.frontmatter.sustain_general_email_email
                   }
                 >
-                  {e.node.frontmatter.sustain_msc_technical_lead_name}
-                </a>
-              </td>
-              <td>
-                <a
-                  href={
-                    "mailto:" +
-                    e.node.frontmatter.sustain_hq_usace_proponent_email
-                  }
-                >
-                  {e.node.frontmatter.sustain_hq_usace_proponent_name}
-                </a>
-              </td>
-              <td>
-                <a
-                  href={
-                    "mailto:" + e.node.frontmatter.sustain_erdc_liaison_email
-                  }
-                >
-                  {e.node.frontmatter.sustain_erdc_liaison_name}
+                  {e.node.frontmatter.sustain_general_email_name}
                 </a>
               </td>
             </tr>
@@ -121,15 +149,30 @@ export const query = graphql`
             facility_technical_poc_name
             file_library_root_path
             page_last_reviewed
+            draft
             slug
-            sustain_msc_program_manager_name
-            sustain_msc_program_manager_email
-            sustain_msc_technical_lead_name
-            sustain_msc_technical_lead_email
-            sustain_hq_usace_proponent_name
-            sustain_hq_usace_proponent_email
-            sustain_erdc_liaison_name
-            sustain_erdc_liaison_email
+            sustain_general_email_name
+            sustain_general_email_email
+            sustain_cop_1_name
+            sustain_cop_1_url
+            sustain_hq_usace_proponent_1_name
+            sustain_hq_usace_proponent_1_email
+            sustain_cop_2_name
+            sustain_cop_2_url
+            sustain_hq_usace_proponent_2_name
+            sustain_hq_usace_proponent_2_email
+            sustain_cop_3_name
+            sustain_cop_3_url
+            sustain_hq_usace_proponent_3_name
+            sustain_hq_usace_proponent_3_email
+            sustain_cop_4_name
+            sustain_cop_4_url
+            sustain_hq_usace_proponent_4_name
+            sustain_hq_usace_proponent_4_email
+            sustain_cop_5_name
+            sustain_cop_5_url
+            sustain_hq_usace_proponent_5_name
+            sustain_hq_usace_proponent_5_email
           }
           html
         }

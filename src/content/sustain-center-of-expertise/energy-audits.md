@@ -13,17 +13,38 @@ carousel_images:
   - /admin/images/uploads/150825-a-ce999-024.jpg
 title: Energy Audit
 
-sustain_msc_program_manager_name: Joshua Mason
-sustain_msc_program_manager_email: Joshua.A.Mason@usace.army.mil
+sustain_general_email_name: Energy_Audits@usace.army.mil
+sustain_general_email_email: Energy_Audits@usace.army.mil
 
-sustain_msc_technical_lead_name: Jerrell Henley
-sustain_msc_technical_lead_email: Jerrell.C.Henley@usace.army.mil
+sustain_cop_1_name: Mechancial Engineering
+sustain_cop_1_url: https://usace.dps.mil/sites/KMP-ME
 
-sustain_hq_usace_proponent_name: David Williams
-sustain_hq_usace_proponent_email: David.Williams@usace.army.mil
+sustain_hq_usace_proponent_1_name: Tim Gordon
+sustain_hq_usace_proponent_1_email: Timothy.D.Gordon@usace.army.mil
 
-sustain_erdc_liaison_email:
-sustain_erdc_liaison_name:
+# sustain_cop_2_name: 
+# sustain_cop_2_url:  
+
+# sustain_hq_usace_proponent_2_name: 
+# sustain_hq_usace_proponent_2_email: 
+
+# sustain_cop_3_name: 
+# sustain_cop_3_url: 
+
+# sustain_hq_usace_proponent_3_name: 
+# sustain_hq_usace_proponent_3_email: 
+
+# sustain_cop_4_name: 
+# sustain_cop_4_url:  
+
+# sustain_hq_usace_proponent_4_name: 
+# sustain_hq_usace_proponent_4_email: 
+
+# sustain_cop_5_name: 
+# sustain_cop_5_url: 
+
+# sustain_hq_usace_proponent_5_name: 
+# sustain_hq_usace_proponent_5_email: 
 
 file_library_root_path: content/sustain/CX-KR Documents/Energy Audits/
 page_last_reviewed: 1 January 1970

@@ -10,17 +10,38 @@ carousel_images:
   - /admin/images/uploads/miller-hill.jpg
 title: Lighting
 
-sustain_msc_program_manager_email: Lori.A.Arakawa@usace.army.mil
-sustain_msc_program_manager_name: Lori Arakawa
+sustain_general_email_name: Lighting@usace.army.mil
+sustain_general_email_email: Lighting@usace.army.mil
 
-sustain_msc_technical_lead_email: Reynold.C.Chun@usace.army.mil
-sustain_msc_technical_lead_name: Reynold Chun
+sustain_cop_1_name: Electrical Engineering
+sustain_cop_1_url: https://usace.dps.mil/sites/KMP-EE
 
-sustain_hq_usace_proponent_email: Bruce.Movahedi@usace.army.mil
-sustain_hq_usace_proponent_name: Bruce Movahedi
+sustain_hq_usace_proponent_1_name: Nic Ivy
+sustain_hq_usace_proponent_1_email: nicholas.j.ivy@usace.army.mil
 
-sustain_erdc_liaison_email: William.J.Stein@usace.army.mil
-sustain_erdc_liaison_name: Bill Stein
+sustain_cop_2_name: Architecture
+sustain_cop_2_url: https://usace.dps.mil/sites/KMP-A
+
+sustain_hq_usace_proponent_2_name: TBD
+sustain_hq_usace_proponent_2_email: tbd@usace.army.mil
+
+sustain_cop_3_name: Environmental
+sustain_cop_3_url: https://usace.dps.mil/sites/KMP-ENV
+
+sustain_hq_usace_proponent_3_name: Cathleen Forget
+sustain_hq_usace_proponent_3_email: cathleen.a.forget@usace.army.mil
+
+# sustain_cop_4_name: ""
+# sustain_cop_4_url:  ""
+
+# sustain_hq_usace_proponent_4_name: ""
+# sustain_hq_usace_proponent_4_email: ""
+
+# sustain_cop_5_name: ""
+# sustain_cop_5_url: ""
+
+# sustain_hq_usace_proponent_5_name: ""
+# sustain_hq_usace_proponent_5_email: ""
 
 file_library_root_path: content/sustain/CX-KR Documents/Lighting/
 page_last_reviewed: 1 January 1970

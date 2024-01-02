@@ -4,17 +4,38 @@ carousel_images:
   - /admin/images/uploads/utility20meter_800_resize.jpg
 title: Utility Metering
 
-sustain_msc_program_manager_email: Todd.H.Kirk@usace.army.mil
-sustain_msc_program_manager_name: Todd Kirk
+sustain_general_email_name: Metering@usace.army.mil
+sustain_general_email_email: Metering@usace.army.mil
 
-sustain_msc_technical_lead_email: Fred.E.Abbitt @usace.army.mil
-sustain_msc_technical_lead_name: Fred Abbitt 
+sustain_cop_1_name: Electrical Engineering
+sustain_cop_1_url: https://usace.dps.mil/sites/KMP-EE
 
-sustain_hq_usace_proponent_email: Murty.V.Dinivahi@usace.army.mil@usace.army.mil;Shawn.Herrera@usace.army.mil
-sustain_hq_usace_proponent_name: Murty Dinivahi and Shawn Herrera
+sustain_hq_usace_proponent_1_name: Murty Dinivahi
+sustain_hq_usace_proponent_1_email: murty.v.dinivahi@usace.army.mil
 
-sustain_erdc_liaison_email: Jay.Tulley@usace.army.mil
-sustain_erdc_liaison_name: Jay Tulley
+sustain_cop_2_name: Electrical Engineering
+sustain_cop_2_url: https://usace.dps.mil/sites/KMP-EE
+
+sustain_hq_usace_proponent_2_name: Shawn Herrera
+sustain_hq_usace_proponent_2_email: shawn.herrera@usace.army.mil
+
+sustain_cop_3_name: ""
+sustain_cop_3_url: ""
+
+sustain_hq_usace_proponent_3_name: ""
+sustain_hq_usace_proponent_3_email: ""
+
+sustain_cop_4_name: ""
+sustain_cop_4_url:  ""
+
+sustain_hq_usace_proponent_4_name: ""
+sustain_hq_usace_proponent_4_email: ""
+
+sustain_cop_5_name: ""
+sustain_cop_5_url: ""
+
+sustain_hq_usace_proponent_5_name: ""
+sustain_hq_usace_proponent_5_email: ""
 
 file_library_root_path: content/sustain/CX-KR Documents/Metering/
 page_last_reviewed: 1 January 1970

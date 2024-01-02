@@ -5,17 +5,38 @@ carousel_images:
   - /admin/images/uploads/energy20modeling.jpg
 title: Energy Modeling
 
-sustain_msc_program_manager_email: Reid.S.Oshiro@usace.army.mil
-sustain_msc_program_manager_name: Reid Oshiro
+sustain_general_email_name: Energy_Modeling@usace.army.mil
+sustain_general_email_email: Energy_Modeling@usace.army.mil
 
-sustain_msc_technical_lead_email: Keith.M.Molina@usace.army.mil
-sustain_msc_technical_lead_name: Keith Molina
+sustain_cop_1_name: Mechancial Engineering
+sustain_cop_1_url: https://usace.dps.mil/sites/KMP-ME
 
-sustain_hq_usace_proponent_email: edward.citzler@usace.army.mil
-sustain_hq_usace_proponent_name: Edward Citzler
+sustain_hq_usace_proponent_1_name: Brandon Martin
+sustain_hq_usace_proponent_1_email: brandon.t.martin@usace.army.mi
 
-sustain_erdc_liaison_email: Richard.J.Liesen@usace.army.mil
-sustain_erdc_liaison_name: Richard Liesen
+sustain_cop_2_name: Electrical Engineering
+sustain_cop_2_url: https://usace.dps.mil/sites/KMP-EE
+
+sustain_hq_usace_proponent_2_name: Nic Ivy
+sustain_hq_usace_proponent_2_email: nicholas.j.ivy@usace.army.mil
+
+# sustain_cop_3_name: 
+# sustain_cop_3_url: 
+
+# sustain_hq_usace_proponent_3_name: 
+# sustain_hq_usace_proponent_3_email: 
+
+# sustain_cop_4_name: 
+# sustain_cop_4_url:  
+
+# sustain_hq_usace_proponent_4_name: 
+# sustain_hq_usace_proponent_4_email: 
+
+# sustain_cop_5_name: 
+# sustain_cop_5_url: 
+
+# sustain_hq_usace_proponent_5_name: 
+# sustain_hq_usace_proponent_5_email: 
 
 file_library_root_path: content/sustain/CX-KR Documents/Energy Modeling/
 page_last_reviewed: 1 January 1970

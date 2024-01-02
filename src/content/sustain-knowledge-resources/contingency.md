@@ -11,17 +11,38 @@ carousel_images:
   - /admin/images/uploads/terra-hut.jpg
 title: Sustainability in Contingency
 
-sustain_msc_program_manager_email: Daniel.J.Lyons@usace.army.mil
-sustain_msc_program_manager_name: Dan Lyons
+sustain_general_email_name: tcxcosmed@usace.army.mil
+sustain_general_email_email: tcxcosmed@usace.army.mil
 
-sustain_msc_technical_lead_email: Dale.R.Hartmann@usace.army.mil
-sustain_msc_technical_lead_name: Dale Hartmann
+sustain_cop_1_name: CoS for Non-Permanent Facilities
+sustain_cop_1_url: https://mrsi.erdc.dren.mil/cos/tam/
 
-sustain_hq_usace_proponent_email: edward.citzler@usace.army.mil
-sustain_hq_usace_proponent_name: Edward Citzler
+sustain_hq_usace_proponent_1_name: Patricia Torok
+sustain_hq_usace_proponent_1_email: patricia.l.torok@usace.army.mil
 
-sustain_erdc_liaison_email: Kurt.Kinnevan@usace.army.mil
-sustain_erdc_liaison_name: Kurt Kinnevan
+# sustain_cop_2_name: 
+# sustain_cop_2_url:  
+
+# sustain_hq_usace_proponent_2_name: 
+# sustain_hq_usace_proponent_2_email: 
+
+# sustain_cop_3_name: 
+# sustain_cop_3_url: 
+
+# sustain_hq_usace_proponent_3_name: 
+# sustain_hq_usace_proponent_3_email: 
+
+# sustain_cop_4_name: 
+# sustain_cop_4_url:  
+
+# sustain_hq_usace_proponent_4_name: 
+# sustain_hq_usace_proponent_4_email: 
+
+# sustain_cop_5_name: 
+# sustain_cop_5_url: 
+
+# sustain_hq_usace_proponent_5_name: 
+# sustain_hq_usace_proponent_5_email: 
 
 file_library_root_path: content/sustain/CX-KR Documents/Contingency/
 page_last_reviewed: 1 January 1970
