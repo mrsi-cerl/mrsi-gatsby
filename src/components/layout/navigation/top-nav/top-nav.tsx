@@ -12,6 +12,7 @@ const TopNav = ( { path }: { path: string; } ) => {
   const modelrfp = path.startsWith( prefix + "/model-rfp" );
   const pdrs = path.startsWith( prefix + "/pdrs" );
   const sustain = path.startsWith( prefix + "/sustain" );
+  const furniture = path.startsWith( prefix + "/furniture" );
 
   return (
     <nav className={ cx( nav, "site-nav-secondary" ) }>
@@ -71,6 +72,18 @@ const TopNav = ( { path }: { path: string; } ) => {
             title="Engineering & Construction Sustainability CX"
           >
             Sustainability
+          </Link>
+        </li>
+        <li
+          className={ cx( item, "usa-nav__submenu-item", {
+            [ current ]: furniture,
+          } ) }
+        >
+          <Link
+            to="/furniture"
+            title="Furniture Program (HNC)"
+          >
+            Furniture
           </Link>
         </li>
         <li>
