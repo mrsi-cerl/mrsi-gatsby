@@ -4,10 +4,10 @@ import Table from "react-bootstrap/Table"
 function MrsiTable(props) {
   const tableRows = props.data.map((row, idx) => (
     <tr key={idx}>
-      <td>
-        <strong>{row.title}</strong>
+      <td style={{ whiteSpace: 'nowrap' }}>
+        <strong>{row?.title}</strong>
       </td>
-      <td>{row.value}</td>
+      <td>{row?.value}</td>
     </tr>
   ))
   return (
