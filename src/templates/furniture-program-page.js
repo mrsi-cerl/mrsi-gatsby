@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby";
 import Layout from "../components/layout/layout";
 import Library from "../components/library/library";
-import Carousel from "../components/mrsi-carousel";
+import CarouselLarge from "../components/mrsi-carousel-large";
 import MrsiTable from "../components/mrsi-table";
 import Seo from "../components/seo";
 
@@ -60,17 +60,17 @@ const FurnitureProgramPage = ( { data, pageContext } ) => {
       value: page.frontmatter.activation_date
     },
     {
-      title: "Keywords",
-      value: page.frontmatter.keywords
+       title: "Keywords",
+       value: page.frontmatter.keywords
     },
   ];
 
   return (
-    <Layout title="Furniture Program" path={ pageContext.slug } hideSideNav centerContent MaxWidth={ 900 }>
+    <Layout title="Furniture Program" path={ pageContext.slug } hideSideNav centerContent MaxWidth={ 1000 }>
       <h1>{ page.frontmatter.title }</h1>
       <div className="grid-row">
         <div className="tablet:grid-col">
-          <Carousel imgs={ page.frontmatter.carousel_images } />
+          <CarouselLarge imgs={ page.frontmatter.carousel_images } />
         </div>
         <div className="tablet:grid-col" style={ { paddingLeft: 10 } }>
           <MrsiTable data={ tableData } />
@@ -79,7 +79,8 @@ const FurnitureProgramPage = ( { data, pageContext } ) => {
 
       <div
         className={ "md" }
-        dangerouslySetInnerHTML={ { __html: page.html } }
+        dangerouslySetInnerHTML={ { __html: page.html }
+       }
       />
       <Library rootDir={ page.frontmatter.file_library_root_path } />
     </Layout>
