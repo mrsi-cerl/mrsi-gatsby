@@ -4942,7 +4942,7 @@
 },
 {
 "name": "afh",
-"LastModified": "03/23/2023 11:06:54",
+"LastModified": "01/08/2024 09:56:53",
 "Key": "content/cos/nao/afh",
 "extension": "",
 "Size": ""
@@ -5004,8 +5004,15 @@
 "Size": ""
 },
 {
+"name": "Archive",
+"LastModified": "01/08/2024 09:57:53",
+"Key": "content/cos/nao/afh/Archive",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Library",
-"LastModified": "03/23/2023 11:06:58",
+"LastModified": "01/08/2024 09:57:53",
 "Key": "content/cos/nao/afh/Library",
 "extension": "",
 "Size": ""
@@ -5016,6 +5023,20 @@
 "Key": "content/cos/nao/afh/housing.jpg",
 "extension": ".jpg",
 "Size": "81896"
+},
+{
+"name": "Standard Designs",
+"LastModified": "12/06/2023 15:21:55",
+"Key": "content/cos/nao/afh/Archive/Standard Designs",
+"extension": "",
+"Size": ""
+},
+{
+"name": "ufc_4_711_01_2018.pdf",
+"LastModified": "08/31/2018 12:20:36",
+"Key": "content/cos/nao/afh/Archive/Standard Designs/ufc_4_711_01_2018.pdf",
+"extension": ".pdf",
+"Size": "1793677"
 },
 {
 "name": "Archives",
@@ -5043,13 +5064,6 @@
 "LastModified": "12/06/2023 15:21:12",
 "Key": "content/cos/nao/afh/Library/Misc. Documents",
 "extension": ". Documents",
-"Size": ""
-},
-{
-"name": "Standard Designs",
-"LastModified": "12/06/2023 15:21:55",
-"Key": "content/cos/nao/afh/Library/Standard Designs",
-"extension": "",
 "Size": ""
 },
 {
@@ -5240,13 +5254,6 @@
 "Key": "content/cos/nao/afh/Library/Misc. Documents/RCI Family Housing Update 4 reference memo dated 13 Jul 2011.pdf",
 "extension": ".pdf",
 "Size": "1221609"
-},
-{
-"name": "ufc_4_711_01_2018.pdf",
-"LastModified": "08/31/2018 12:20:36",
-"Key": "content/cos/nao/afh/Library/Standard Designs/ufc_4_711_01_2018.pdf",
-"extension": ".pdf",
-"Size": "1793677"
 },
 {
 "name": "Library",
@@ -14511,10 +14518,24 @@
 },
 {
 "name": "Library",
-"LastModified": "12/19/2023 16:53:11",
+"LastModified": "01/08/2024 09:18:45",
 "Key": "content/Furniture/furniture_home_page/Library",
 "extension": "",
 "Size": ""
+},
+{
+"name": "Furnishings Fact Sheet.pdf",
+"LastModified": "01/05/2024 11:38:00",
+"Key": "content/Furniture/furniture_home_page/Library/Furnishings Fact Sheet.pdf",
+"extension": ".pdf",
+"Size": "944024"
+},
+{
+"name": "HNC FF&E Program Overview - January 2023.pptx",
+"LastModified": "01/05/2024 11:38:00",
+"Key": "content/Furniture/furniture_home_page/Library/HNC FF&E Program Overview - January 2023.pptx",
+"extension": ".pptx",
+"Size": "2114370"
 },
 {
 "name": "USACE HNC Mission Assignement ER 10-1-22 Nov 2018.pdf",
@@ -16408,10 +16429,10 @@
 },
 {
 "name": "Appendix G_ENG 3086 Instructions.pdf",
-"LastModified": "10/06/2023 16:05:00",
+"LastModified": "01/08/2024 09:49:26",
 "Key": "content/PDRS/FY26 Guidance & Templates/Appendix G_ENG 3086 Instructions.pdf",
 "extension": ".pdf",
-"Size": "1322434"
+"Size": "1444761"
 },
 {
 "name": "Instructions for FY26 Army MILCON Code 2.pdf",
@@ -16429,10 +16450,10 @@
 },
 {
 "name": "Appendix G_ENG 3086 Instructions.pdf",
-"LastModified": "10/06/2023 16:05:00",
+"LastModified": "01/08/2024 09:50:02",
 "Key": "content/PDRS/FY27 Guidance & Templates/Appendix G_ENG 3086 Instructions.pdf",
 "extension": ".pdf",
-"Size": "1322434"
+"Size": "1444761"
 },
 {
 "name": "Instructions for FY27 Army MILCON Code 2.pdf",

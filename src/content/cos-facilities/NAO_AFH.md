@@ -32,3 +32,5 @@ All projects comply with the Army Standard for Family Housing, AR 420-1 and UFC 
 ## Variations
 
 There are no variations for this facility standard design.
+
+**For Standard Design documents and technical support, please contact the COS Manager listed above for more information.**
