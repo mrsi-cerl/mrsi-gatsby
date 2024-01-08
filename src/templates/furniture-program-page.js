@@ -19,28 +19,34 @@ const FurnitureProgramPage = ( { data, pageContext } ) => {
     {
       title: "Website",
       value: (
-      <div>  
-        <a href={ page.frontmatter.website1 } target="_blank" rel="noopener noreferrer">
-          { page.frontmatter.name_of_website1.length > 50 ? page.frontmatter.name_of_website1.slice( 0, 50 ) + "..." : page.frontmatter.name_of_website1 }
-        </a><br/>
-        <a href={ page.frontmatter.website2 } target="_blank" rel="noopener noreferrer">
-          { page.frontmatter.name_of_website2.length > 50 ? page.frontmatter.name_of_website2.slice( 0, 50 ) + "..." : page.frontmatter.name_of_website2 }
-       </a>
-      </div>
-      )
+        <>
+          {page.frontmatter.furniture_website.map((e, idx) => (
+            <div key={idx}>  
+              <a href={e.url} target="_blank" rel="noopener noreferrer">
+                { e.name.length > 50 ?  e.name.slice( 0, 50 ) + "..." : e.name }
+              </a><br/>
+            </div>))
+          }
+        </>
+      ),
     },
     {
       title: "Center POC",
       value: (
-        <a style={ { textDecoration: 'none', color: 'black' } }
-          href={
-            "tel:" +
-            ( page.frontmatter.center_poc_phone_number )
+        <>
+          {page.frontmatter.center_poc.map((e, idx) => (
+            <div key={idx} style={{ fontSize: '0.9em' }}>
+              <a href={"mailto:" + e.email}  title={e.title}>
+                {e.name}
+              </a>
+              &nbsp;&nbsp;
+              <a style={{ textDecoration: 'none', color: 'black' }} href={"tel:" + e.phone_number}>
+                {e.phone_number}
+              </a>
+              </div>
+            ))
           }
-        >
-          { page.frontmatter.center_poc_name } <br />
-          { page.frontmatter.center_poc_phone_number }
-        </a>
+        </>
       ),
     },
     {
@@ -61,7 +67,9 @@ const FurnitureProgramPage = ( { data, pageContext } ) => {
     },
     {
        title: "Keywords",
-       value: page.frontmatter.keywords
+       value: (
+        <span style={{ fontSize: '0.5em' }}>{page.frontmatter.keywords}</span>
+       ) 
     },
   ];
 
@@ -97,12 +105,16 @@ export const query = graphql`
             doc_type
             carousel_images
             place_of_center
-            name_of_website1
-            website1
-            name_of_website2
-            website2
-            center_poc_name
-            center_poc_phone_number
+            furniture_website { 
+              name
+              url
+            }
+            center_poc {
+              name
+              title
+              email
+              phone_number
+            }
             er_number
             er_link
             er_publication_date

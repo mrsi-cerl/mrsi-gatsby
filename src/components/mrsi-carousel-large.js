@@ -41,7 +41,7 @@ const CarouselLarge = ({ imgs }) => {
             style={{
               backgroundImage: "url(" + e + ")",
               width: "100%",
-              height: "430px",
+              height: "415px",
               backgroundPosition: "center",
               backgroundSize: "cover",
               backgroundRepeat: "no-repeat",

@@ -15,17 +15,19 @@ carousel_images:
   - /admin/images/uploads/Furniture/Walkthrough.JPG
   
 place_of_center: HNC
-name_of_website1: CEHNC-ISPM
-website1: https://www.hnc.usace.army.mil/Missions/Installation-Support-and-Programs-Management/
-name_of_website2: COS-TCx HNC
-website2: https://mrsi.erdc.dren.mil/coe/tcx/is/
-center_poc_name: Stephanie Hardin
-center_poc_phone_number: ☎ (256) 895-1512
+furniture_website:
+  - { name: CEHNC-ISPM, url: https://www.hnc.usace.army.mil/Media/Fact-Sheets/Fact-Sheet-Article-View/Article/1910931/facilities-division-furnishings-program/ }
+  - { name: COS-TCx HNC, url: https://mrsi.erdc.dren.mil/coe/tcx/is/ }
+center_poc:
+ - { name: Stephanie Hardin, title: (Branch Chief), email: stephanie.r.hardin@usace.army.mil, phone_number: ☎ (256) 895-1512}
+ - { name: Sara Cook, title: (Program Manager), email: sara.d.cook@usace.army.mil, phone_number: ☎ (256) 895-7210 }
+ - { name: Mitch Jackson, title: (Navy UH and Order System POC), email: mitch.jackson@usace.army.mil, phone_number: ☎ (256) 895-8094 }
+ - { name: Stephanie Woods, title: (Interior Design Lead), email: stephanie.d.woods@usace.army.mil, phone_number: ☎ (256) 895-1845 }
 er_number: ER 10-1-22
 er_link: https://www.publications.usace.army.mil/Portals/76/Users/182/86/2486/ER%2010-1-22%20.pdf?ver=2019-01-24-094906-893
-er_publication_date: 20 Nov 2020
+er_publication_date: 27 Nov 2018
 activation_date: "1994"
-keywords: Interior Design; Furnishings Program; Furniture, Fixtures, & Equipment (FF&E); Housing; Barracks; Admin Facilities; Army Family Housing
+keywords: Interior Design; Furnishings Program; Furniture, Fixtures, & Equipment; Housing; Barracks; Admin Facilities; Army Family Housing
 file_library_root_path: "content/Furniture/furniture_home_page/Library/"
 page_last_reviewed: 1 January 1970
 slug: /furniture/
