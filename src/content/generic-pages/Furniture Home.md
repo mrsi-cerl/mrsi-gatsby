@@ -13,7 +13,6 @@ carousel_images:
   - /admin/images/uploads/Furniture/L-shaped_desk_5.jpg
   - /admin/images/uploads/Furniture/Picture64.jpg
   - /admin/images/uploads/Furniture/Walkthrough.JPG
-  
 place_of_center: HNC
 furniture_website:
   - { name: CEHNC-ISPM, url: https://www.hnc.usace.army.mil/Media/Fact-Sheets/Fact-Sheet-Article-View/Article/1910931/facilities-division-furnishings-program/ }
@@ -36,5 +35,5 @@ draft: false
 
 ## About
 
-The U.S. Army Engineering and Support Center, Huntsville Furnishings Program procures administrative, barracks, lodging and educational furnishings for various federal agencies worldwide. The program is a full-service organization capable of providing project management, interior design, procurement, installation and quality assurance for all federal agencies’ furniture requirements.
+The U.S. Army Engineering and Support Center, Huntsville Furnishings Program procures administrative, barracks, lodging and educational furnishings for various federal agencies worldwide. The program is a full-service organization capable of providing project management, interior design, procurement, installation and quality assurance for all federal agencies’ furniture requirements.<br /><br />
 Huntsville Center is also designated as the central manager of furnishings procurement for the Installation Management Command to oversee a cradle-to-grave concept and ensure that standardized furnishings are provided for all requirements. The Furnishings Program’s primary mission is to buy furnishings in accordance with customer requirements and to manage the delivery of those items to the new or renovated facility by the beneficial occupancy date.
