@@ -10,8 +10,8 @@ sustain_general_email_email: Charrettes@usace.army.mil
 sustain_cop_1_name: Architecture
 sustain_cop_1_url: https://usace.dps.mil/sites/KMP-A
 
-sustain_hq_usace_proponent_1_name: Ryan Murphy
-sustain_hq_usace_proponent_1_email: ryan.r.murphy@usace.army.mil
+sustain_hq_usace_proponent_1_name: Martin Borger
+sustain_hq_usace_proponent_1_email: martin.a.borger@usace.army.mil
 
 sustain_cop_2_name: Environmental
 sustain_cop_2_url: https://usace.dps.mil/sites/KMP-ENV

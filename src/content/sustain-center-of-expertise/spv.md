@@ -26,8 +26,8 @@ sustain_hq_usace_proponent_2_email: cathleen.a.forget@usace.army.mil
 sustain_cop_3_name: Architecture
 sustain_cop_3_url: https://usace.dps.mil/sites/KMP-A
 
-sustain_hq_usace_proponent_3_name: TBD
-sustain_hq_usace_proponent_3_email: tbd@usace.army.mil
+sustain_hq_usace_proponent_3_name: Martin Borger
+sustain_hq_usace_proponent_3_email: martin.a.borger@usace.army.mil
 
 # sustain_cop_4_name: 
 # sustain_cop_4_url:  

@@ -22,7 +22,7 @@ sustain_cop_2_url: https://usace.dps.mil/sites/KMP-CS
 sustain_hq_usace_proponent_2_name: Chris Battisti
 sustain_hq_usace_proponent_2_email: christopher.m.battisti@usace.army.mil
 
-sustain_cop_3_name: Mechancial Engineering
+sustain_cop_3_name: Mechanical Engineering
 sustain_cop_3_url: https://usace.dps.mil/sites/KMP-ME
 
 sustain_hq_usace_proponent_3_name: Tim Gordon

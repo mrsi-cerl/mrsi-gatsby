@@ -13,7 +13,7 @@ sustain_cop_1_url: https://usace.dps.mil/sites/KMP-CEC
 sustain_hq_usace_proponent_1_name: Mukesh Kumar
 sustain_hq_usace_proponent_1_email: mukesh.kumar@usace.army.mil
 
-sustain_cop_2_name: Mechancial Engineering
+sustain_cop_2_name: Mechanical Engineering
 sustain_cop_2_url: https://usace.dps.mil/sites/KMP-ME
 
 sustain_hq_usace_proponent_2_name: Brandon Martin

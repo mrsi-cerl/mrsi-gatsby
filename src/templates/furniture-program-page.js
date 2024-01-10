@@ -17,7 +17,7 @@ const FurnitureProgramPage = ( { data, pageContext } ) => {
       value: page.frontmatter.place_of_center
     },
     {
-      title: "Website",
+      title: "Websites",
       value: (
         <>
           {page.frontmatter.furniture_website.map((e, idx) => (
@@ -31,7 +31,7 @@ const FurnitureProgramPage = ( { data, pageContext } ) => {
       ),
     },
     {
-      title: "Center POC",
+      title: "Center POCs",
       value: (
         <>
           {page.frontmatter.center_poc.map((e, idx) => (

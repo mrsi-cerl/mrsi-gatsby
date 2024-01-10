@@ -16,7 +16,7 @@ title: Energy Audit
 sustain_general_email_name: Energy_Audits@usace.army.mil
 sustain_general_email_email: Energy_Audits@usace.army.mil
 
-sustain_cop_1_name: Mechancial Engineering
+sustain_cop_1_name: Mechanical Engineering
 sustain_cop_1_url: https://usace.dps.mil/sites/KMP-ME
 
 sustain_hq_usace_proponent_1_name: Tim Gordon

@@ -22,10 +22,10 @@ sustain_hq_usace_proponent_2_email: christopher.m.battisti@usace.army.mil
 sustain_cop_3_name: Construction Management
 sustain_cop_3_url: https://usace.dps.mil/sites/KMP-EC/SitePages/Construction.aspx
 
-sustain_hq_usace_proponent_3_name: TBD
-sustain_hq_usace_proponent_3_email: tbd@usace.army.mil
+sustain_hq_usace_proponent_3_name: Kenneth Simmons
+sustain_hq_usace_proponent_3_email: kenneth.c.simmons@usace.army.mil
 
-sustain_cop_4_name: Mechancial Engineering
+sustain_cop_4_name: Mechanical Engineering
 sustain_cop_4_url: https://usace.dps.mil/sites/KMP-ME
 
 sustain_hq_usace_proponent_4_name: Tim Gordon
