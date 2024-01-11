@@ -1302,7 +1302,7 @@
 },
 {
 "name": "Library",
-"LastModified": "03/23/2023 11:05:30",
+"LastModified": "01/11/2024 17:39:34",
 "Key": "content/cos/hnc/cdcu6/Library",
 "extension": "",
 "Size": ""
@@ -1421,7 +1421,7 @@
 },
 {
 "name": "Misc. Docs (VE, LCCA, LEED, etc...)",
-"LastModified": "03/23/2023 11:05:28",
+"LastModified": "01/11/2024 17:38:27",
 "Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
 "extension": ".)",
 "Size": ""
@@ -1430,6 +1430,13 @@
 "name": "Standard Designs",
 "LastModified": "03/23/2023 11:05:32",
 "Key": "content/cos/hnc/cdcu6/Library/Standard Designs",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Standard FF&E Package",
+"LastModified": "01/11/2024 17:39:26",
+"Key": "content/cos/hnc/cdcu6/Library/Standard FF&E Package",
 "extension": "",
 "Size": ""
 },
@@ -1729,7 +1736,7 @@
 },
 {
 "name": "Color Scheme",
-"LastModified": "10/30/2023 17:56:14",
+"LastModified": "01/11/2024 17:38:27",
 "Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Color Scheme",
 "extension": "",
 "Size": ""
@@ -1777,20 +1784,6 @@
 "Size": "9660363"
 },
 {
-"name": "Finish_Boards_CDC-0-5__July_2021_.pdf",
-"LastModified": "10/18/2021 16:38:06",
-"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Finish_Boards_CDC-0-5__July_2021_.pdf",
-"extension": ".pdf",
-"Size": "2828336"
-},
-{
-"name": "Finish_Schedule_CDC-0-5__July_2021_.pdf",
-"LastModified": "10/18/2021 16:38:01",
-"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Finish_Schedule_CDC-0-5__July_2021_.pdf",
-"extension": ".pdf",
-"Size": "112119"
-},
-{
 "name": "LEED_Checklist_Medium_CDC_0-5_Apr-21_.pdf",
 "LastModified": "03/31/2021 16:04:34",
 "Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED_Checklist_Medium_CDC_0-5_Apr-21_.pdf",
@@ -1810,6 +1803,20 @@
 "Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/ufc-cancelled.docx",
 "extension": ".docx",
 "Size": "12669"
+},
+{
+"name": "Finish_Boards_CDC-0-5__July_2021_.pdf",
+"LastModified": "10/18/2021 16:38:06",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Color Scheme/Finish_Boards_CDC-0-5__July_2021_.pdf",
+"extension": ".pdf",
+"Size": "2828336"
+},
+{
+"name": "Finish_Schedule_CDC-0-5__July_2021_.pdf",
+"LastModified": "10/18/2021 16:38:01",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Color Scheme/Finish_Schedule_CDC-0-5__July_2021_.pdf",
+"extension": ".pdf",
+"Size": "112119"
 },
 {
 "name": "CDC POTR Reports - FY11.pdf",
