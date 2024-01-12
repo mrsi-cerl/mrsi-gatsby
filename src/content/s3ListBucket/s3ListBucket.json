@@ -854,7 +854,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "10/30/2023 17:53:06",
+"LastModified": "01/11/2024 17:53:21",
 "Key": "content/cos/hnc/cdcsa/Library/Archive",
 "extension": "",
 "Size": ""
@@ -882,7 +882,7 @@
 },
 {
 "name": "Misc. Docs (VE, LCCA, LEED, etc...)",
-"LastModified": "03/23/2023 11:05:09",
+"LastModified": "01/11/2024 17:54:17",
 "Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
 "extension": ".)",
 "Size": ""
@@ -921,6 +921,13 @@
 "Key": "content/cos/hnc/cdcsa/Library/Archive/cdc-6-10-leed-v4-checklist.xls",
 "extension": ".xls",
 "Size": "148480"
+},
+{
+"name": "PRIMARY COLOR SCHEME 8_15_14.pdf",
+"LastModified": "05/20/2015 13:52:50",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/PRIMARY COLOR SCHEME 8_15_14.pdf",
+"extension": ".pdf",
+"Size": "135836"
 },
 {
 "name": "RFP Wizard Input - CDC (Aug-11).pdf",
@@ -963,6 +970,13 @@
 "Key": "content/cos/hnc/cdcsa/Library/Archive/sac-6-10_room-by-room-description_final_20190411.pdf",
 "extension": ".pdf",
 "Size": "1325700"
+},
+{
+"name": "SOUTHWEST COLOR SCHEME 8_15_14.pdf",
+"LastModified": "05/20/2015 13:52:55",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/SOUTHWEST COLOR SCHEME 8_15_14.pdf",
+"extension": ".pdf",
+"Size": "141247"
 },
 {
 "name": "Standard_Drawings_(CAD)_-_CDC_6-10,_Large_(Nov_10).zip",
@@ -1120,7 +1134,7 @@
 },
 {
 "name": "Color Scheme",
-"LastModified": "09/27/2019 14:13:33",
+"LastModified": "01/11/2024 17:54:17",
 "Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Color Scheme",
 "extension": "",
 "Size": ""
@@ -1161,32 +1175,11 @@
 "Size": "37772164"
 },
 {
-"name": "Finish_Boards_SAC-6-10__July_2021_.pdf",
-"LastModified": "10/18/2021 16:37:40",
-"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Finish_Boards_SAC-6-10__July_2021_.pdf",
-"extension": ".pdf",
-"Size": "2828336"
-},
-{
-"name": "Finish_Schedule_SAC-6-10__July_2021_.pdf",
-"LastModified": "10/18/2021 16:37:35",
-"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Finish_Schedule_SAC-6-10__July_2021_.pdf",
-"extension": ".pdf",
-"Size": "112119"
-},
-{
 "name": "LEED_Checklist_Medium_CDC_6-10_Apr-21_.pdf",
 "LastModified": "03/31/2021 16:04:39",
 "Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED_Checklist_Medium_CDC_6-10_Apr-21_.pdf",
 "extension": ".pdf",
 "Size": "119603"
-},
-{
-"name": "PRIMARY COLOR SCHEME 8_15_14.pdf",
-"LastModified": "05/20/2015 13:52:50",
-"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/PRIMARY COLOR SCHEME 8_15_14.pdf",
-"extension": ".pdf",
-"Size": "135836"
 },
 {
 "name": "RFP_Wizard_Input_CDC_6-10_Apr-21_.pdf",
@@ -1203,11 +1196,18 @@
 "Size": "58358"
 },
 {
-"name": "SOUTHWEST COLOR SCHEME 8_15_14.pdf",
-"LastModified": "05/20/2015 13:52:55",
-"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/SOUTHWEST COLOR SCHEME 8_15_14.pdf",
+"name": "Finish_Boards_SAC-6-10__July_2021_.pdf",
+"LastModified": "10/18/2021 16:37:40",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Color Scheme/Finish_Boards_SAC-6-10__July_2021_.pdf",
 "extension": ".pdf",
-"Size": "141247"
+"Size": "2828336"
+},
+{
+"name": "Finish_Schedule_SAC-6-10__July_2021_.pdf",
+"LastModified": "10/18/2021 16:37:35",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Color Scheme/Finish_Schedule_SAC-6-10__July_2021_.pdf",
+"extension": ".pdf",
+"Size": "112119"
 },
 {
 "name": "SAC POTR Reports - FY11.pdf",
