@@ -14525,7 +14525,7 @@
 },
 {
 "name": "Library",
-"LastModified": "01/08/2024 09:18:45",
+"LastModified": "01/12/2024 13:01:49",
 "Key": "content/Furniture/furniture_home_page/Library",
 "extension": "",
 "Size": ""
@@ -14545,9 +14545,9 @@
 "Size": "2114370"
 },
 {
-"name": "USACE HNC Mission Assignement ER 10-1-22 Nov 2018.pdf",
-"LastModified": "12/07/2023 12:46:00",
-"Key": "content/Furniture/furniture_home_page/Library/USACE HNC Mission Assignement ER 10-1-22 Nov 2018.pdf",
+"name": "USACE HNC Mission Assignment ER 10-1-22 Nov 2018.pdf",
+"LastModified": "01/12/2024 12:01:00",
+"Key": "content/Furniture/furniture_home_page/Library/USACE HNC Mission Assignment ER 10-1-22 Nov 2018.pdf",
 "extension": ".pdf",
 "Size": "440286"
 },
@@ -18781,7 +18781,7 @@
 },
 {
 "name": "Policy and Guidance",
-"LastModified": "11/16/2023 12:51:12",
+"LastModified": "01/12/2024 13:02:50",
 "Key": "content/sustain/Library/Policy and Guidance",
 "extension": "",
 "Size": ""
@@ -18836,11 +18836,11 @@
 "Size": "30386"
 },
 {
-"name": "Army Sustainability Implementation Guide_JAN23.pdf",
-"LastModified": "03/06/2023 10:57:44",
-"Key": "content/sustain/Library/Policy and Guidance/Army Sustainability Implementation Guide_JAN23.pdf",
+"name": "Army Sustainability Implementation Guide.pdf",
+"LastModified": "01/12/2024 12:00:00",
+"Key": "content/sustain/Library/Policy and Guidance/Army Sustainability Implementation Guide.pdf",
 "extension": ".pdf",
-"Size": "3131763"
+"Size": "3101755"
 },
 {
 "name": "2011_eisa_study.pdf",
