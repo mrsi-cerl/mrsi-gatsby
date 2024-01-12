@@ -854,7 +854,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "01/11/2024 17:53:21",
+"LastModified": "01/12/2024 16:20:56",
 "Key": "content/cos/hnc/cdcsa/Library/Archive",
 "extension": "",
 "Size": ""
@@ -889,7 +889,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "03/23/2023 11:05:11",
+"LastModified": "01/12/2024 16:22:05",
 "Key": "content/cos/hnc/cdcsa/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -909,6 +909,27 @@
 "Size": ""
 },
 {
+"name": "CAD_Drawing_SAC-6-10_Wing_Cover_Sheet__June_2021_.dwg",
+"LastModified": "08/09/2021 08:42:44",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/CAD_Drawing_SAC-6-10_Wing_Cover_Sheet__June_2021_.dwg",
+"extension": ".dwg",
+"Size": "43479"
+},
+{
+"name": "CAD_Drawing_SAC-6-10_Wing_Floor_Plan__June_2021_.dwg",
+"LastModified": "08/09/2021 08:42:29",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/CAD_Drawing_SAC-6-10_Wing_Floor_Plan__June_2021_.dwg",
+"extension": ".dwg",
+"Size": "228821"
+},
+{
+"name": "CAD_Drawing_SAC-6-10_Wing_Site_Plan__June_2021_.dwg",
+"LastModified": "08/09/2021 08:42:39",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/CAD_Drawing_SAC-6-10_Wing_Site_Plan__June_2021_.dwg",
+"extension": ".dwg",
+"Size": "122600"
+},
+{
 "name": "CDC age six to ten AS.pdf",
 "LastModified": "05/20/2015 13:52:46",
 "Key": "content/cos/hnc/cdcsa/Library/Archive/CDC age six to ten AS.pdf",
@@ -921,6 +942,13 @@
 "Key": "content/cos/hnc/cdcsa/Library/Archive/cdc-6-10-leed-v4-checklist.xls",
 "extension": ".xls",
 "Size": "148480"
+},
+{
+"name": "CDC_Drawing_SAC-6-10_Wing_Toilets__June_2021_.dwg",
+"LastModified": "08/09/2021 08:42:35",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/CDC_Drawing_SAC-6-10_Wing_Toilets__June_2021_.dwg",
+"extension": ".dwg",
+"Size": "1326945"
 },
 {
 "name": "PRIMARY COLOR SCHEME 8_15_14.pdf",
@@ -1033,6 +1061,34 @@
 "Key": "content/cos/hnc/cdcsa/Library/Archive/Standard_Drawings_(PDF)_-_CDC_6-10,_Wing_(Nov_10).pdf",
 "extension": ".pdf",
 "Size": "2576243"
+},
+{
+"name": "Standard_Drawings_SAC-6-10_Large__June_2021_.pdf",
+"LastModified": "08/09/2021 08:53:23",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/Standard_Drawings_SAC-6-10_Large__June_2021_.pdf",
+"extension": ".pdf",
+"Size": "530376"
+},
+{
+"name": "Standard_Drawings_SAC-6-10_Med__June_2021_.pdf",
+"LastModified": "08/09/2021 08:53:28",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/Standard_Drawings_SAC-6-10_Med__June_2021_.pdf",
+"extension": ".pdf",
+"Size": "514897"
+},
+{
+"name": "Standard_Drawings_SAC-6-10_Small__June_2021_.pdf",
+"LastModified": "08/09/2021 08:53:34",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/Standard_Drawings_SAC-6-10_Small__June_2021_.pdf",
+"extension": ".pdf",
+"Size": "465572"
+},
+{
+"name": "Standard_Drawings_SAC-6-10_Wing__June_2021_.pdf",
+"LastModified": "08/09/2021 08:53:44",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/Standard_Drawings_SAC-6-10_Wing__June_2021_.pdf",
+"extension": ".pdf",
+"Size": "2159342"
 },
 {
 "name": "Utility_Demands_Estimate_(Apr_10).xls",
@@ -1238,34 +1294,6 @@
 "Size": "2226000"
 },
 {
-"name": "CAD_Drawing_SAC-6-10_Wing_Cover_Sheet__June_2021_.dwg",
-"LastModified": "08/09/2021 08:42:44",
-"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/CAD_Drawing_SAC-6-10_Wing_Cover_Sheet__June_2021_.dwg",
-"extension": ".dwg",
-"Size": "43479"
-},
-{
-"name": "CAD_Drawing_SAC-6-10_Wing_Floor_Plan__June_2021_.dwg",
-"LastModified": "08/09/2021 08:42:29",
-"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/CAD_Drawing_SAC-6-10_Wing_Floor_Plan__June_2021_.dwg",
-"extension": ".dwg",
-"Size": "228821"
-},
-{
-"name": "CAD_Drawing_SAC-6-10_Wing_Site_Plan__June_2021_.dwg",
-"LastModified": "08/09/2021 08:42:39",
-"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/CAD_Drawing_SAC-6-10_Wing_Site_Plan__June_2021_.dwg",
-"extension": ".dwg",
-"Size": "122600"
-},
-{
-"name": "CDC_Drawing_SAC-6-10_Wing_Toilets__June_2021_.dwg",
-"LastModified": "08/09/2021 08:42:35",
-"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/CDC_Drawing_SAC-6-10_Wing_Toilets__June_2021_.dwg",
-"extension": ".dwg",
-"Size": "1326945"
-},
-{
 "name": "SAC-6-10_Standard Design_Feb2023.pdf",
 "LastModified": "03/06/2023 09:07:20",
 "Key": "content/cos/hnc/cdcsa/Library/Standard Designs/SAC-6-10_Standard Design_Feb2023.pdf",
@@ -1273,32 +1301,32 @@
 "Size": "824234"
 },
 {
-"name": "Standard_Drawings_SAC-6-10_Large__June_2021_.pdf",
-"LastModified": "08/09/2021 08:53:23",
-"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_SAC-6-10_Large__June_2021_.pdf",
+"name": "Standard Drawings_SAC 6-10_Large_SEP2022.pdf",
+"LastModified": "01/12/2024 16:10:00",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard Drawings_SAC 6-10_Large_SEP2022.pdf",
 "extension": ".pdf",
-"Size": "530376"
+"Size": "1314427"
 },
 {
-"name": "Standard_Drawings_SAC-6-10_Med__June_2021_.pdf",
-"LastModified": "08/09/2021 08:53:28",
-"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_SAC-6-10_Med__June_2021_.pdf",
+"name": "Standard Drawings_SAC 6-10_Medium_SEP2022.pdf",
+"LastModified": "01/12/2024 16:10:00",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard Drawings_SAC 6-10_Medium_SEP2022.pdf",
 "extension": ".pdf",
-"Size": "514897"
+"Size": "1369635"
 },
 {
-"name": "Standard_Drawings_SAC-6-10_Small__June_2021_.pdf",
-"LastModified": "08/09/2021 08:53:34",
-"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_SAC-6-10_Small__June_2021_.pdf",
+"name": "Standard Drawings_SAC 6-10_Small_SEP2022.pdf",
+"LastModified": "01/12/2024 16:10:00",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard Drawings_SAC 6-10_Small_SEP2022.pdf",
 "extension": ".pdf",
-"Size": "465572"
+"Size": "789054"
 },
 {
-"name": "Standard_Drawings_SAC-6-10_Wing__June_2021_.pdf",
-"LastModified": "08/09/2021 08:53:44",
-"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard_Drawings_SAC-6-10_Wing__June_2021_.pdf",
+"name": "Standard Drawings_SAC-6-10_Wing Addition_SEP2022.pdf",
+"LastModified": "01/12/2024 16:08:00",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/Standard Drawings_SAC-6-10_Wing Addition_SEP2022.pdf",
 "extension": ".pdf",
-"Size": "2159342"
+"Size": "198492"
 },
 {
 "name": "Library",
