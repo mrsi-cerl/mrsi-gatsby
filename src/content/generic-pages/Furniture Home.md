@@ -39,6 +39,8 @@ The U.S. Army Engineering and Support Center, Huntsville Furnishings Program pro
 
 Huntsville Center is also designated as the central manager of furnishings procurement for the Installation Management Command to oversee a cradle-to-grave concept and ensure that standardized furnishings are provided for all requirements. The Furnishings Program’s primary mission is to buy furnishings in accordance with customer requirements and to manage the delivery of those items to the new or renovated facility by the beneficial occupancy date.<br />
 
+## Additional Resources
+
 The Army Facilities Management PDF (AR 420-1) is the regulation that provides policies and responsibilities for conduct and management of facilities engineering, housing, fire and emergency services, and environmental support. Find the latest here:<br />
 &ensp;&ensp;&ensp;&ensp;https://armypubs.army.mil/ProductMaps/PubForm/Details.aspx?PUB_ID=84190<br />
 
