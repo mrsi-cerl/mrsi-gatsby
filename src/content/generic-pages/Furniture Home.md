@@ -35,5 +35,18 @@ draft: false
 
 ## About
 
-The U.S. Army Engineering and Support Center, Huntsville Furnishings Program procures administrative, barracks, lodging and educational furnishings for various federal agencies worldwide. The program is a full-service organization capable of providing project management, interior design, procurement, installation and quality assurance for all federal agencies’ furniture requirements.<br /><br />
-Huntsville Center is also designated as the central manager of furnishings procurement for the Installation Management Command to oversee a cradle-to-grave concept and ensure that standardized furnishings are provided for all requirements. The Furnishings Program’s primary mission is to buy furnishings in accordance with customer requirements and to manage the delivery of those items to the new or renovated facility by the beneficial occupancy date.
+The U.S. Army Engineering and Support Center, Huntsville Furnishings Program procures administrative, barracks, lodging and educational furnishings for various federal agencies worldwide. The program is a full-service organization capable of providing project management, interior design, procurement, installation and quality assurance for all federal agencies’ furniture requirements.<br />
+
+Huntsville Center is also designated as the central manager of furnishings procurement for the Installation Management Command to oversee a cradle-to-grave concept and ensure that standardized furnishings are provided for all requirements. The Furnishings Program’s primary mission is to buy furnishings in accordance with customer requirements and to manage the delivery of those items to the new or renovated facility by the beneficial occupancy date.<br />
+
+The Army Facilities Management PDF (AR 420-1) is the regulation that provides policies and responsibilities for conduct and management of facilities engineering, housing, fire and emergency services, and environmental support. Find the latest here:<br />
+&ensp;&ensp;&ensp;&ensp;https://armypubs.army.mil/ProductMaps/PubForm/Details.aspx?PUB_ID=84190<br />
+
+To view the latest UFC for Interior Design and for Standard Nomenclature, visit:<br />
+&ensp;&ensp;&ensp;&ensp;https://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-3-120-10<br />
+
+For information about the Interior Design Community of Practice (USACE CAC login required), visit:<br />
+&ensp;&ensp;&ensp;&ensp;https://usace.dps.mil/sites/KMP-A/SitePages/Interior-Design-Corner.aspx<br />
+
+CEHNC created the Standard FF&E Package for CDCs (Child Development Centers) which generated a requirement for standard furniture across all CDCs. For the Standard FF&E Package, please click the link: https://mrsi.erdc.dren.mil/cos/hnc/cdcu6/<br />
+
