@@ -1,7 +1,7 @@
 ---
 doc_type: coe_ctx_page 
-title: Water Resources Remote Sensing/GIS Technology Center
-name_of_center: Water Resources Remote Sensing/GIS Technology Center
+title: Remote Sensing/GIS Technology Center
+name_of_center: Remote Sensing/GIS Technology Center
 place_of_center: CRREL
 center_type: TCX
 website: http://www.erdc.usace.army.mil/Media/FactSheets/FactSheetArticleView/tabid/9254/Article/6215/remote-sensinggeographic-information-systems-center.aspx
@@ -20,7 +20,7 @@ slug: /coe/tcx/wrrst
 
 ## About 
 
-The Water Resources Remote Sensing/GIS Technology Center is the USACE TCX for Civil Works Remote Sensing and GIS technologies, providing mission essential support to Civil Works Programs. The RS/GIS TCX provides Cost Effective centralized management and support through technology transfer and applications development for Corps mission responsibilities in practice areas including:
+The Remote Sensing/GIS Technology Center is the USACE TCX for Civil Works Remote Sensing and GIS technologies, providing mission essential support to Civil Works Programs. The RS/GIS TCX provides Cost Effective centralized management and support through technology transfer and applications development for Corps mission responsibilities in practice areas including:
 <ul>
     <li>Navigation</li>
     <li>Flood and Coastal Storm Damage reduction</li>
