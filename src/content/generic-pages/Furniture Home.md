@@ -42,13 +42,14 @@ Huntsville Center is also designated as the central manager of furnishings procu
 ## Additional Resources
 
 The Army Facilities Management PDF (AR 420-1) is the regulation that provides policies and responsibilities for conduct and management of facilities engineering, housing, fire and emergency services, and environmental support. Find the latest here:<br />
-&ensp;&ensp;&ensp;&ensp;https://armypubs.army.mil/ProductMaps/PubForm/Details.aspx?PUB_ID=84190<br />
+&ensp;&ensp;&ensp;&ensp;<a href="https://armypubs.army.mil/ProductMaps/PubForm/Details.aspx?PUB_ID=84190" target="_blank">https<span>://armypubs.army.mil/ProductMaps/PubForm/Details.aspx?PUB_ID=84190</span></a><br />
 
 To view the latest UFC for Interior Design and for Standard Nomenclature, visit:<br />
-&ensp;&ensp;&ensp;&ensp;https://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-3-120-10<br />
+&ensp;&ensp;&ensp;&ensp;<a href="https://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-3-120-10" target="_blank">https<span>://armypubs.army.mil/ProductMaps/PubForm/Details.aspx?PUB_ID=84190</span></a><br />
 
 For information about the Interior Design Community of Practice (USACE CAC login required), visit:<br />
-&ensp;&ensp;&ensp;&ensp;https://usace.dps.mil/sites/KMP-A/SitePages/Interior-Design-Corner.aspx<br />
+&ensp;&ensp;&ensp;&ensp;<a href="https://usace.dps.mil/sites/KMP-A/SitePages/Interior-Design-Corner.aspx" target="_blank">https<span>://usace.dps.mil/sites/KMP-A/SitePages/Interior-Design-Corner.aspx</span></a><br />
 
-CEHNC created the Standard FF&E Package for CDCs (Child Development Centers) which generated a requirement for standard furniture across all CDCs. For the Standard FF&E Package, please click the link: https://mrsi.erdc.dren.mil/cos/hnc/cdcu6/<br />
+CEHNC created the Standard FF&E Package for CDCs (Child Development Centers) which generated a requirement for standard furniture across all CDCs. For the Standard FF&E Package, please click the link:<br />
+&ensp;&ensp;&ensp;&ensp;<a href="https://mrsi.erdc.dren.mil/cos/hnc/cdcu6/" target="_blank">https<span>://mrsi.erdc.dren.mil/cos/hnc/cdcu6/</span></a><br />
 
