@@ -1,31 +1,77 @@
 ---
-title: RFP Wizard for MILCON D-B
+title: MILCON D-B on the new MRSI Wizard
 doc_type: generic_page
 slug: /model-rfp/milcon
 file_library_root_path: content/Model RFP/MILCON/
 ---
+<span style="color:red">**ANNOUNCEMENT:**</span>  The new MRSI Wizard has been released!  This new tool is designed to streamline the development of Request for Proposal (RFP) Statement of Work (SOW) for new Military Construction (MILCON) Design-Build (D-B) projects. <br />
 
+## Key Features of the New MRSI Wizard:
 <div>
-  <div style="width: 128px; float: left; margin: 1em 2em 1em 0;">
-    <a href="https://rfpwizard.mrsi.erdc.dren.mil/wizards/mbpw/Client/MTApp.application"><img src="/admin/images/uploads/mbp-wizard-256x256.png"/ alt="Model RFP Wizard"></a>
-    <em>
-    Please use <b>Microsoft Edge</b> to start the Wizard.
-    </em>
-  </div>
+  <ol>
+    <li>
+      <b>Updated Content and Formatting:</b>  Aligned with the requirements of UFC 1-300-02, the MRSI Wizard boasts refreshed content and formatting to enhance the RFP development process.
+    </li>
+    <li>
+      <b>RFP SOW Wizard Benefits:</b>
+      <ul>
+        <li>
+          <u>Consistent Format</u>: Ensures a uniform structure for RFP Statement of Works, facilitating accurate submissions by prospective contractors.
+        </li>
+        <li>
+          <u>Compliance Assurance</u>: Guarantees adherence to criteria and Army Standards throughout design authoring, reviews, contract awards, and facility delivery. Supports the ability to make swift updates to all future RFPs with one model change.
+        </li>
+        <li>
+          <u>Timely Updates</u>: Criteria updates by USACE Centers of Standardization (COS), SRM, and Operations and Maintenance (O&M) subject matter experts can implement new policies and best practices in the field.
+        </li>
+      </ul>
+    </li>
+    <li>
+      <b>Web-Based Application:</b>  The RFP SOW is generated through a user-friendly, web-based application that provides standardization while allowing users to define project and facility-specific Scopes of Work (SOW) with simple prompts.
+    </li>
+    <li>
+      <b>At this time, templates are available for the following facility types:</b>
+      <ul>
+        <li>
+            Advanced Individual Training Complex
+        </li>
+        <li>
+            Basic Training and One Station Unit Training Complex
+        </li>
+        <li>
+            Unaccompanied Enlisted Personnel Housing
+        </li>
+        <li>
+            Unit Supply Support Activity Facility
+        </li>
+        <li>
+            Additional facility types coming soon
+        </li>
+      </ul>
+    </li>
+  </ol>
 </div>
 
-[Click here to start the Wizard](https://rfpwizard.mrsi.erdc.dren.mil/wizards/mbpw/Client/MTApp.application) _using Microsoft Edge._
+<div>
+  <div style="width: 128px; float: left; margin: 1em 2em 1em 0; font-style: italic; font-size:smaller; text-align:center;">
+    <a href="https://wizards.mrsi.erdc.dren.mil/"><img src="/admin/images/uploads/mbp-wizard-256x256.png" alt="Click Here to Access the Wizard"/>Click Here to Access the new D-B program on the MRSI Wizard</a>
+  </div>
 
-The RFP Wizard for MILCON D-B is an application for creating a Request For Proposal (RFP) using U.S. Army Corps of Engineers (USACE) approved Model RFP templates for new U.S. Army Military Construction (MILCON) Design-Build (D-B) projects.
+## To Create a New MRSI Wizard Account:
+1. Create a <a href="https://secure.login.gov/sign_up/enter_email" target="_blank">Login.gov</a> account _using your official work email*_.
+2. Log into the Wizard using <a href="https://wizards.mrsi.erdc.dren.mil/">this link</a> (or the Wizard image to the left of this text).
 
-The application was developed to simplify the RFP creation process and to ensure a standardized RFP is generated that is suitable for solicitation and is consistent with Army and USACE policy, regulation, Army Standards, and Standard Designs.
+<b>*AE Firms and other non-government users:</b> After creating a login.gov account, non-government users must then send an email to the [MRSI support Team](mailto:mrsi_support@usace.army.mil?subject=MILCON-DB%20Support%20) to provide a government point-of-contact and demonstrate a valid requirement for an account. Please be sure to send this email from the email address you registered with login.gov.
+</div>
 
-### History of RFP Wizard
+## Click-once Wizard (legacy version)
+[Click here to start the legacy D-B Wizard](https://rfpwizard.mrsi.erdc.dren.mil/wizards/mbpw/Client/MTApp.application) _using Microsoft Edge._
+  
+<div style="float: none; margin: 1em 2em 5em 0;">
+  <div style="width: 130px; float: left; margin: 1em 2em 0 0; font-style: italic; font-size:smaller; text-align:center;">
+    <a href="https://rfpwizard.mrsi.erdc.dren.mil/wizards/mbpw/Client/MTApp.application"><img src="/admin/images/uploads/mbp-wizard-256x256.png"/ alt="Model RFP Wizard">Click here to start the legacy D-B Wizard using <b>Microsoft Edge</b></a>
+  </div>
+  <b>Please Note:</b> In order to log in to the legacy MILCON D-B Wizard application, you will need a MRSI Wizard account. To request a MRSI account, please send an email to MRSI Support from the email address you wish to use as your account login (preferably a .mil or .gov address) and we will set one up for you.<br />
 
-The years following the Base Realignment and Closure (BRAC) 2005 authorization saw a major surge in MILCON to accommodate base restructuring and accelerate transition to the Army Modular Force. Between Fiscal Years (FY) 2008 and 2013, more than \$18 billion in construction had to be completed, requiring the Army to demand innovative, more efficient methods for facility delivery. During this time, the Army Staff (ARSTAF) and numerous members of USACE organizations collaborated to solve the intricate problems related to redesigning the MILCON process. One of the solutions that emerged was the standardization and automation of the RFP process.
-
-The new process would ensure consistency and criteria compliance during design authoring and reviews, contract awards, and delivery of facilities. To support the new acquisition strategies, the Model Request for Proposal (Model RFP) template was created. The Model RFP is generated using a web-based tool called the RFP Wizard. The RFP Wizard is an interactive tool allowing individuals with MRSI accounts to enter data related to a specific project (utilities, layout, etc.) in order to determine the appropriate configurations and parameters for the unit. To insure inputted data remains within the required Standards, the RFP Wizard is programmed to prevent deviation from the standard design criteria.
-
-The first version of the RFP Wizard launched in the fall of 2006, prior to the development of MRSI. The RFP Wizard was mandated by HQUSACE for use on all MILCON Transformation Design-Build projects in FY08. A new version of the RFP Wizard tool was developed in 2009. Over 500 RFP projects, with nearly 50 million square feet in scope, have been produced using the RFP Wizard tool.
-
-**Please Note:** In order to log in to the MILCON D-B Wizard application, you will need a MRSI Wizard account. To request a MRSI account, please send an email to MRSI Support from the email address you wish to use as your account login (preferably a .mil or .gov address) and we will set one up for you.
+  _Please use Microsoft Edge to start the legacy Wizard application. See our <a href="../mrsi/faq">FAQ</a> if you are interested in understanding why this is necessary._<br />
+</div>

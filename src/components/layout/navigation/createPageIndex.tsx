@@ -68,7 +68,7 @@ const pages: PageCollection = {
       slug: "/model-rfp/small-projects/",
     },
     {
-      caption: "New Development",
+      caption: "Development History",
       slug: "/model-rfp/development/",
     },
     {
