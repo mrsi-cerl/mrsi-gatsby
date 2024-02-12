@@ -14,7 +14,7 @@ file_library_root_path: content/Model RFP/MILCON/
     </li>
     <li>
       <b>RFP SOW Wizard Benefits:</b>
-      <ul>
+      <ul style="list-style-type: disc;">
         <li>
           <u>Consistent Format</u>: Ensures a uniform structure for RFP Statement of Works, facilitating accurate submissions by prospective contractors.
         </li>
@@ -31,7 +31,7 @@ file_library_root_path: content/Model RFP/MILCON/
     </li>
     <li>
       <b>At this time, templates are available for the following facility types:</b>
-      <ul>
+      <ul style="list-style-type: disc;">
         <li>
             Advanced Individual Training Complex
         </li>
