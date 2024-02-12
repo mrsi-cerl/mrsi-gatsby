@@ -73,5 +73,5 @@ file_library_root_path: content/Model RFP/MILCON/
   </div>
   <b>Please Note:</b> In order to log in to the legacy MILCON D-B Wizard application, you will need a MRSI Wizard account. To request a MRSI account, please send an email to MRSI Support from the email address you wish to use as your account login (preferably a .mil or .gov address) and we will set one up for you.<br />
 
-  _Please use Microsoft Edge to start the legacy Wizard application. See our <a href="../mrsi/faq">FAQ</a> if you are interested in understanding why this is necessary._<br />
+  _Please use Microsoft Edge to start the legacy Wizard application. See our <a href="/mrsi/faq">FAQ</a> if you are interested in understanding why this is necessary._<br />
 </div>
