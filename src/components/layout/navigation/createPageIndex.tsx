@@ -60,11 +60,11 @@ const pages: PageCollection = {
       slug: "/model-rfp/",
     },
     {
-      caption: "MILCON D-B",
+      caption: "MILCON D-B Wizard",
       slug: "/model-rfp/milcon",
     },
     {
-      caption: "Small Projects",
+      caption: "Small Projects Wizard",
       slug: "/model-rfp/small-projects/",
     },
     {
