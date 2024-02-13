@@ -19,20 +19,20 @@ The Model RFP is generated using a web-based application called a Wizard.
 
 The Wizards provide standardization while allowing users define project and facility specific Scopes of Work (SOW).
 
-<div style ="font-size: larger; font-weight: bold; margin-top: 1em; margin-bottom: 0em;">The MRSI RFP Wizards</div>
+<div style ="font-size: larger; font-weight: bold; margin-top: 1em; margin-bottom: 1em;">The MRSI RFP Wizards</div>
     <div style="width: 30%; display: inline-block; margin-top: 0">
         <a href="./milcon/">
             <b>MILCON D-B Wizard</b>
             <div style="width: 128px; display: inline-block">
             <img src="/admin/images/uploads/mbp-wizard-256x256.png" alt="Model RFP Wizard"/>
-            </div>
         </a>
+    </div>
     </div>
     <div style="width: 30%; display: inline-block; margin-top: 0">
         <a href="./small-projects/">
             <b>Small Projects Wizard</b>
             <div style="width: 128px; display: inline-block">
             <img src="/admin/images/uploads/srm-wizard-256x256.png" alt="Small Projects Wizard"/>
-            </div>
         </a>
+     </div>
     </div>
