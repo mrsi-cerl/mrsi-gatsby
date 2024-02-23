@@ -1435,7 +1435,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "03/26/2021 14:31:46",
+"LastModified": "02/23/2024 14:10:13",
 "Key": "content/cos/hnc/cdcu6/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -1761,6 +1761,27 @@
 "Key": "content/cos/hnc/cdcu6/Library/Army Standards/Army_Standard_CDC_0-5_Apr2021_.pdf",
 "extension": ".pdf",
 "Size": "785673"
+},
+{
+"name": "CDC 0-5_Large_1391 Template.pdf",
+"LastModified": "02/23/2024 11:09:00",
+"Key": "content/cos/hnc/cdcu6/Library/DD1391 Templates/CDC 0-5_Large_1391 Template.pdf",
+"extension": ".pdf",
+"Size": "311816"
+},
+{
+"name": "CDC 0-5_Medium_1391 Template.pdf",
+"LastModified": "02/23/2024 11:09:00",
+"Key": "content/cos/hnc/cdcu6/Library/DD1391 Templates/CDC 0-5_Medium_1391 Template.pdf",
+"extension": ".pdf",
+"Size": "311911"
+},
+{
+"name": "CDC 0-5_Small_1391 Template.pdf",
+"LastModified": "02/23/2024 11:09:00",
+"Key": "content/cos/hnc/cdcu6/Library/DD1391 Templates/CDC 0-5_Small_1391 Template.pdf",
+"extension": ".pdf",
+"Size": "251954"
 },
 {
 "name": "Color Scheme",
