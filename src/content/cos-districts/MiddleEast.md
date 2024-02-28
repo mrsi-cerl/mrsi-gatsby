@@ -21,25 +21,24 @@ The CoS is responsible for:
 - Development and review of Army designs for temporary and semi-permanent facilities as defined in UFC 1-201-01
 - Ensuring that alterations to designs comply with UFC 1-201-01
 - Being an active participant in the design process for designs not overseen by the CoS
-- Instruction of FEST curricula regarding UFC 1-201-01, 1-201-02 and 1-202-01
 - Creation of functional spaces for various missions within standard exterior envelopes
 - Maintaining lines of communication with Combatant Command Engineer staffs
 - Coordination with the CoS for Contingency Design is mandatory per ECB No. 2016-18 paragraph 5. a.
 
 The CoS accomplishes these responsibilities through:
 
-- breaking the custom design paradigm
-- facilitating creation of Joint/Army design standards
-- being Army’s design agent for ALL temporary and semi-permanent facilities
-- developing base camp layout utilizing standard designs
-- conceptualizing and designing all facilities for base camps
-- creating innovative construction solutions for customers
+- Breaking the custom design paradigm
+- Facilitating creation of Joint/Army design standards
+- Being Army’s design agent for ALL temporary and semi-permanent facilities
+- Developing base camp layout utilizing standard designs
+- Conceptualizing and designing all facilities for base camps
+- Creating innovative construction solutions for customers
 
 The CoS guiding principles:
 
 - Maximize use of local materials and methods
 - Minimize use of heavy equipment
-- Eliminate of fire sprinklers
+- Avoid use of fire sprinklers
 - Maximize troop constructability
 - Minimize maintenance inventory
 - Eliminate load bearing interior walls
@@ -50,12 +49,17 @@ Full Service 3D Printing and High Resolution 3D modeling/animation
 
 [![CoS Overview](/admin/images/uploads/cos-np-overview-TAM.jpg)](https://rfpwizard.mrsi.erdc.dren.mil/MRSI/content/cos/tam/center_home_page/Library/CoS%20Overview.pdf)
 
-[![COS NP Design Builder](/admin/images/uploads/design-builder-preview-TAM.png)](https://rfpwizard.mrsi.erdc.dren.mil/MRSI/content/cos/tam/center_home_page/Library/CoS design Builder - must be downloaded - 03MARCH2023.xlsx)
+[![COS NP Design Builder](/admin/images/uploads/design-builder-preview-TAM.png)](https://rfpwizard.mrsi.erdc.dren.mil/MRSI/content/cos/tam/center_home_page/Library/CoS%20design%20Builder%20-%20must%20be%20downloaded%20-%2022FEB24.xlsx)
 **<span style="font-size:larger;">NOTE: Design Builder file must be downloaded to run.</span>**
 
 ![Facility and Masterplan Prints](/admin/images/uploads/3d-facilities-and-masterplan-prints-TAM.png)
 
+<div style="font-size:2em; text-align:center; font-weight:heavy; margin: 0; padding: 0; border:0;">Interior and Assemblies</div>
+<div style="margin: 0; padding: 0; border:0; position: relative; top: -20px;">
+
 ![RAISE](/admin/images/uploads/raise-3d-models-TAM.png)
+
+</div>
 
 To see if the CoS has a design solution for your requirements, complete the checklist and contact tcxcosmed@usace.army.mil
 
