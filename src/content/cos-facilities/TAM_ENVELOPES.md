@@ -41,14 +41,14 @@ The CUBE consists of panelized wood panels, the dimensions are 7.3M x 4.9M (35.7
 <img src="/admin/images/uploads/safe-render.png" alt="SAFE Render" width="80%" />
 <img src="/admin/images/uploads/safe-envelope.jpg" alt="SAFE Envelope" width="80%" />
 
-The SAFE a semi-permanent concrete frame structure with CMU infill, the dimensions are 12.9m x34.3m (885m<sup>2</sup>). The design is two-story construction and can be either be lengthened or shortened by the standard bay length. Its design includes an integral protective roof. This is a great choice for Billeting, Administrative spaces, Operations, and Life Support Facilities.
+The SAFE a semi-permanent concrete frame structure with CMU infill, the dimensions are 12.9m x 34.3m (885m<sup>2</sup>). The design is two-story construction and can be either be lengthened or shortened by the standard bay length. Its design includes an integral protective roof. This is a great choice for Billeting, Administrative spaces, Operations, and Life Support Facilities.
 
 ### 3. Standard Adaptive Facility Envelope (SAFE1)
 
 <img src="/admin/images/uploads/safe-1.png" alt="SAFE1 Render" width="80%" />
 <img src="/admin/images/uploads/safe-envelope.jpg" alt="SAFE1 Envelope" width="80%" />
 
-The SAFE1 is a single-story version of the SAFE, the dimensions are 12.9m x34.3m (442.5m<sup>2</sup>). This is another great choice for Billeting, Administrative spaces, Operations, Dining, and MWR.
+The SAFE1 is a single-story version of the SAFE, the dimensions are 12.9m x 34.3m (442.5m<sup>2</sup>). This is another great choice for Billeting, Administrative spaces, Operations, Dining, and MWR.
 
 ### 4. Tactical Earthen Rapidly Raised Assembly Hut (TERRA HUT)  Option 1
 
@@ -67,14 +67,14 @@ The TERRA HUT option 2 is an enlarged version of the TERRA HUT option 1, the dim
 <img src="/admin/images/uploads/face-render.jpg" alt="FACE Render" width="80%" />
 <img src="/admin/images/uploads/face-envelope.jpg" alt="FACE Envelope" width="80%" />
 
-The FACE is a CMU modular structure, the dimensions are 12.9m x34.3m (442.5m<sup>2</sup>). The Envelope is designed for single story construction and can either be lengthened or shortened by the standard bay length.
+The FACE is a CMU modular structure, the dimensions are 12.9m x 34.3m (442.5m<sup>2</sup>). The Envelope is designed for single story construction and can either be lengthened or shortened by the standard bay length.
 
 ### 6. Standard Adaptive Wood Structure (SAWS)
 
 <img src="/admin/images/uploads/saws.png" alt="SAWS Render" width="80%" />
 <img src="/admin/images/uploads/saws-envelope.jpg" alt="SAWS Envelope" width="80%" />
 
-The SAWS and SAWS1 are wood structures with concrete foundations, the dimensions are 12.9m x34.3m (442.5m<sup>2</sup>) for a single story and (885m<sup>2</sup>) for two stories. The Envelope is constructed of wood. It is designed for single or two-story construction and can either be lengthened or shortened by the standard bay length. This is a great choice for Billeting, Administrative Spaces, and Operations.
+The SAWS and SAWS1 are wood structures with concrete foundations, the dimensions are 12.9m x 34.3m (442.5m<sup>2</sup>) for a single story and (885m<sup>2</sup>) for two stories. The Envelope is constructed of wood. It is designed for single or two-story construction and can either be lengthened or shortened by the standard bay length. This is a great choice for Billeting, Administrative Spaces, and Operations.
 
 ### 7. Multi Use Tall Envelope (MUTE)
 
