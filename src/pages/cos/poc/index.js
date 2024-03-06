@@ -16,7 +16,7 @@ function compare ( a, b ) {
 const getAllFacilities = data =>
   data.allMarkdownRemark.edges.filter(
     edge =>
-      edge.node.frontmatter.doc_type === "facility_page" &&
+      (edge.node.frontmatter.doc_type === "facility_page" || edge.node.frontmatter.doc_type === "facility_page_hnc") &&
       !edge.node.frontmatter.draft
   );
 

@@ -133,7 +133,8 @@ function createFacilityPageIndex ( data: any[], cos: any ) {
 
 function getCOSPages ( data: PageDataType ) {
   const cos = getAllOfDocType( data, "cos_page" );
-  const facilities = getAllOfDocType( data, "facility_page" );
+  //Below reflects HNC desire to have slightly different format for their facilities, so I sub-classed FacilityPage just for them...
+  const facilities = getAllOfDocType( data, "facility_page" ).concat(getAllOfDocType( data, "facility_page_hnc" ));
 
   let p: any = [];
 

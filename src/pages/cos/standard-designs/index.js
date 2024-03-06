@@ -8,7 +8,7 @@ import Seo from "../../../components/seo";
 const StandardDesigns = ( { data } ) => {
   const facilities = data.allMarkdownRemark.edges.filter(
     e =>
-      e.node.frontmatter.doc_type === "facility_page" &&
+      (e.node.frontmatter.doc_type === "facility_page" || e.node.frontmatter.doc_type === "facility_page_hnc") &&
       !e.node.frontmatter.draft
   );
   facilities.sort( ( a, b ) => {

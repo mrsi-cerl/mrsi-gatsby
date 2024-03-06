@@ -1,13 +1,13 @@
 ---
-doc_type: facility_page
+doc_type: facility_page_hnc
 facility_category_codes:
   - "74016"
 facility_cos_short_name: HNC
 facility_functional_proponent: G-9
 facility_long_name: Child Development Center - School-Age Facility
 facility_short_name: CDCSA
-facility_technical_poc_email: michael.r.johnson2@usace.army.mil
-facility_technical_poc_name: Michael Johnson
+facility_technical_poc_email: michael.r.johnson2@usace.army.mil; rajette.l.hodge@usace.army.mil
+facility_technical_poc_name: Michael Johnson   Rajette Hodge
 file_library_root_path: "content/cos/hnc/cdcsa/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/cdcsa/

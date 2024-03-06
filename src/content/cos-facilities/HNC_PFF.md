@@ -1,5 +1,5 @@
 ---
-doc_type: facility_page
+doc_type: facility_page_hnc
 facility_category_codes:
   - "74028"
 facility_cos_short_name: HNC

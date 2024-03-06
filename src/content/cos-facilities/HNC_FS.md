@@ -1,13 +1,13 @@
 ---
-doc_type: facility_page
+doc_type: facility_page_hnc
 facility_category_codes:
   - "73010"
 facility_cos_short_name: HNC
 facility_functional_proponent: DCS, G-9
 facility_long_name: Fire Station
 facility_short_name: FS
-facility_technical_poc_email: chris.a.shepherd@usace.army.mil
-facility_technical_poc_name: Chris Shepherd
+facility_technical_poc_email: chris.a.shepherd@usace.army.mil; rajette.l.hodge@usace.army.mil
+facility_technical_poc_name: Chris Shepherd / Rajette Hodge
 file_library_root_path: "content/cos/hnc/fs/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/fs/

@@ -1,5 +1,5 @@
 ---
-doc_type: facility_page
+doc_type: facility_page_hnc
 facility_category_codes:
   - "TBD"
 facility_cos_short_name: HNC
