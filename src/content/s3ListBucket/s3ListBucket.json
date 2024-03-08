@@ -3738,7 +3738,7 @@
 },
 {
 "name": "Misc. Docs (VE, LCCA, LEED, etc...)",
-"LastModified": "06/11/2021 09:06:48",
+"LastModified": "03/08/2024 09:43:04",
 "Key": "content/cos/hnc/sprc/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
 "extension": ".)",
 "Size": ""
@@ -3766,10 +3766,10 @@
 },
 {
 "name": "Army_Standard_SPRC_January_2023.pdf",
-"LastModified": "02/22/2023 13:34:29",
+"LastModified": "03/07/2024 18:45:00",
 "Key": "content/cos/hnc/sprc/Library/Army Standards/Army_Standard_SPRC_January_2023.pdf",
 "extension": ".pdf",
-"Size": "299574"
+"Size": "362559"
 },
 {
 "name": "SPRC_Full Standard_1391 Template.pdf",
@@ -3791,6 +3791,13 @@
 "Key": "content/cos/hnc/sprc/Library/DD1391 Templates/SPRC_TRADOC_1391 Template.pdf",
 "extension": ".pdf",
 "Size": "220873"
+},
+{
+"name": "LEED Checklist-Medium SPRC_2023.pdf",
+"LastModified": "03/07/2024 18:41:00",
+"Key": "content/cos/hnc/sprc/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED Checklist-Medium SPRC_2023.pdf",
+"extension": ".pdf",
+"Size": "140572"
 },
 {
 "name": "Design_Guide_SPRC_FULL_TIER1_Sep_2021.pdf",
