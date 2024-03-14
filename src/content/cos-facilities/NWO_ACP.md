@@ -8,8 +8,8 @@ facility_cos_short_name: NWO
 facility_functional_proponent: OPMG
 facility_long_name: Access Control Points
 facility_short_name: ACP
-facility_technical_poc_email: brian.w.erickson@usace.army.mil
-facility_technical_poc_name: Brian Erickson
+facility_technical_poc_email: kris.m.katzmann@usace.army.mil
+facility_technical_poc_name: Kris Katzmann
 file_library_root_path: "content/cos/nwo/acp/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/nwo/acp/
