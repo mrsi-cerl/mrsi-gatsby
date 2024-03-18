@@ -43,3 +43,6 @@ For hangars supporting other than Assault or GSAB TOE units, contact COS for app
 ## Variations
 
 No variation in facility standard design.
+
+ **NOTE:**
+*For additional design documents and technical support, please contact the COS Manager listed above for more information.*

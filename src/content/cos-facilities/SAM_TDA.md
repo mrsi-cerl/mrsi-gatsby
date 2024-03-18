@@ -8,7 +8,7 @@ facility_long_name: TDA Aviation Unit Aircraft Maintenance Hangar
 facility_short_name: TDA
 facility_technical_poc_email: john.j.wahlers@usace.army.mil
 facility_technical_poc_name: John Wahlers
-//file_library_root_path: "content/cos/sam/tda/Library/"
+file_library_root_path: "content/cos/sam/tda/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/sam/tda/
 carousel_images:
@@ -26,5 +26,5 @@ Due to the unique nature of TDA units, there is no intention to create a TDA Sta
 
 No variations for facility standard design.
 
-## Library
-For design documents and technical support, please contact the COS Manager listed above for more information.
+ **NOTE:**
+*For additional design documents and technical support, please contact the COS Manager listed above for more information.*
