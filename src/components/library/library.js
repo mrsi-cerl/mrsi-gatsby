@@ -198,7 +198,6 @@ const Library = ( { rootDir, hideBC, hideTitle } ) => {
                         ) }
                       </span>
                     </td>
-                    <td />
                   </tr>
                 );
               } else {
