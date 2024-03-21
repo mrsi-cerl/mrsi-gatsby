@@ -9,9 +9,9 @@ center_poc_name: Curt Betts
 center_poc_phone_number: ☎ (402) 995-2376
 hq_poc_name: Rich Ludwitzke / Christopher Westbrook
 hq_division: E&C
-er_number: No ER established yet
-er_link: https://mrsi.erdc.dren.mil/404.html
-er_publication_date: N/A
+er_number: ER 1110-1-8175
+er_link: https://www.publications.usace.army.mil/Portals/76/ER_1110-1-8175.pdf
+er_publication_date:  25 Jan 2024
 activation_date: 22 Nov 1985
 recertification_date: 31 Jan 2018
 center_functional_proponent: Pete Perez
