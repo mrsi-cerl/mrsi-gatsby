@@ -28,13 +28,13 @@ carousel_images:
 
 ## Space Information
 
-A "bay" consists of a 24'x16' section. The CUBE is 1 bay, but all other envelopes are 2 "bays" wide x the desired length. the facilities can be stretched or shortened modularly per "bay" width.
+A "bay" consists of a 24'x16' section. The CUBE is 1 bay, but all other envelopes are 2 "bays" wide x the desired length. The facilities can be stretched or shortened modularly per "bay" width.
 
-The Administration building Option 1 is single bay design for a Company Command for 8 PN to fit in the CUBE.
+Option 1 is single bay design for a Company Command for 8 PN to fit in the CUBE.
 
-Option 2 is a 14 Bay (2x7) for Command operations up to 44 PN.
+Option 2 is a 14 Bay (2x7) for Command operations up to 43 PN.
 
-Option 3 is a 14 Bay (2x7) for Command operations up to 41 PN. with 3 enclosed conference rooms
+Option 3 is a 14 Bay (2x7) for Command operations up to 43 PN. with 3 enclosed conference rooms
 
 ## Envelope Variations by Space Function
 
