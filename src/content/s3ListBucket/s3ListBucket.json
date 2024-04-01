@@ -5852,7 +5852,7 @@
 },
 {
 "name": "Permanent Part Dining Facility",
-"LastModified": "11/16/2023 13:01:14",
+"LastModified": "04/01/2024 10:02:47",
 "Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility",
 "extension": "",
 "Size": ""
@@ -5914,46 +5914,25 @@
 "Size": "4480524"
 },
 {
-"name": "1300PP-Specs-11_46__01_01.pdf",
-"LastModified": "05/20/2015 15:32:41",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/1300PP-Specs-11_46__01_01.pdf",
+"name": "EPDF Standard_DesignAnalysis_20240330.pdf",
+"LastModified": "03/29/2024 18:39:00",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/EPDF Standard_DesignAnalysis_20240330.pdf",
 "extension": ".pdf",
-"Size": "302808"
+"Size": "1061658"
 },
 {
-"name": "1300PPCombined.pdf",
-"LastModified": "11/15/2023 21:25:00",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/1300PPCombined.pdf",
+"name": "EPDF Standard_FFE_20240330.pdf",
+"LastModified": "03/29/2024 18:40:00",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/EPDF Standard_FFE_20240330.pdf",
 "extension": ".pdf",
-"Size": "5894779"
+"Size": "6746151"
 },
 {
-"name": "500Combined.pdf",
-"LastModified": "11/15/2023 21:25:00",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/500Combined.pdf",
+"name": "EPDF_Standard_Drawings_20240330.pdf",
+"LastModified": "03/29/2024 18:40:00",
+"Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/EPDF_Standard_Drawings_20240330.pdf",
 "extension": ".pdf",
-"Size": "5128303"
-},
-{
-"name": "500PP-Specs-11_46__01_04.pdf",
-"LastModified": "05/20/2015 15:32:46",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/500PP-Specs-11_46__01_04.pdf",
-"extension": ".pdf",
-"Size": "290033"
-},
-{
-"name": "800Combined.pdf",
-"LastModified": "11/15/2023 21:25:00",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/800Combined.pdf",
-"extension": ".pdf",
-"Size": "5123040"
-},
-{
-"name": "800PP-Specs-11_46__01_05.pdf",
-"LastModified": "05/20/2015 15:32:47",
-"Key": "content/cos/nao/epdf/Library/Standard Designs/Permanent Part Dining Facility/800PP-Specs-11_46__01_05.pdf",
-"extension": ".pdf",
-"Size": "290165"
+"Size": "12179215"
 },
 {
 "name": "Library",
