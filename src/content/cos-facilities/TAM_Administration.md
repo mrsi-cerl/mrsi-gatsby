@@ -12,18 +12,9 @@ file_library_root_path: "content/cos/tam/administration/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/administration/
 carousel_images:
-  - /admin/images/uploads/saws-admin-full-1.jpg
-  - /admin/images/uploads/safe-admin-full-2.jpg
-  - /admin/images/uploads/saws-admin-full-2.jpg
-  - /admin/images/uploads/safe-admin-full-1.jpg
-  - /admin/images/uploads/joc-option-1.png
-  - /admin/images/uploads/3d-model-operations-center.jpg
-  - /admin/images/uploads/joc-option-2.png
-  - /admin/images/uploads/operations-center-option2.png
-  - /admin/images/uploads/operations-center-option1.png
-  - /admin/images/uploads/admin-render.jpg
-  - /admin/images/uploads/joc-3d-render.jpg
-  - /admin/images/uploads/cube-admin-1-bay.jpg
+  - /admin/images/uploads/ADMIN-INTERIOR-REDERING-1.png
+  - /admin/images/uploads/ADMIN-INTERIOR-REDERING-2.png
+  - /admin/images/uploads/ADMIN-INTERIOR-REDERING-3.png
 ---
 
 ## Space Information
