@@ -12,77 +12,25 @@ file_library_root_path: "content/cos/tam/medical/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/medical/
 carousel_images:
-  - /admin/images/uploads/role-2-medical-facility.png
-  - /admin/images/uploads/medical-facility-r2plus-3d-render1.jpg
-  - /admin/images/uploads/medical-facility-r1-3d-render.jpg
-  - /admin/images/uploads/role-1-medical-facility.png
-  - /admin/images/uploads/role-2plus-medical-facility.png
-  - /admin/images/uploads/medical-facility-r2-3d-render1.jpg
-  - /admin/images/uploads/medical-facility-r2-3d-render2.jpg
+  - /admin/images/uploads/EXAM_ROOM_ROLE_1.png
+  - /admin/images/uploads/MEDICAL_FACILITY_ROLE_1_FLOOR_PLAN.jpg
+  - /admin/images/uploads/OFFICES_ROLE_2.png
+  - /admin/images/uploads/MEDICAL_FACILITY_ROLE_2_GROUND_FLOOR_PLAN.jpg
+  - /admin/images/uploads/MEDICAL_FACILITY_ROLE_2_FIRST_FLOOR_PLAN.jpg
+  - /admin/images/uploads/OPERATING_ROOM_ROLE_2plus.png
+  - /admin/images/uploads/MEDICAL_FACILITY_ROLE_2plus_FLOOR_PLAN.jpg
 ---
 
 ## Space Information
 
 Off-The-Shelf Designs
 
-The Role 1 Medical Facility is one story 14 bays.
+Option 1 - The Role 1 Medical Facility is one story 14 bays ( 462m2). It includes Trauma, Exam, Pharmacy, Utility and Laboratory rooms.
 
-Description
+Option 2 - The Role 2 Medical Facility is 2 stories, 14 bays per floor (850m2). It includes Trauma, Exam, X-Ray, Blood Storage, Utility and Laboratory rooms.
 
-Size
+Option 3 - The Role 2+ Medical Facility is one story 14 bays (665m2). Trauma , Exam , Operating , Recovery, Utility and Laboratory rooms.
 
-426m2
+Option 4 - Blood Storages - Currently in design.
 
-Details
-
-Trauma Room, Exam Rooms, Pharmacy, Utilities, Laboratory
-
-ROM with Contractor Labor
-
-\$536k
-
-ROM with Troop Labor
-
-\$412k
-
-The Role 2 facility is 2 stories, 14 bays per floor.
-
-Description
-
-Size
-
-850m2
-
-Details
-
-Trauma Room, Exam Rooms, X-Ray, Blood Storage, Utilities, Laboratory
-
-ROM with Contractor Labor
-
-\$1.07M
-
-ROM with Troop Labor
-
-\$825k
-
-The Role 2+ facility is 22 bays to be used in close proximity to the Role 2 facility.
-
-Description
-
-Size
-
-665m2
-
-Details
-
-Trauma Room, Exam Rooms, Operating Room, Recovery, Utilities, Laboratory
-
-ROM with Contractor Labor
-
-\$750k
-
-ROM with Troop Labor
-
-\$525k
-
-## Envelope Variations by Space Function
+<!-- ## Envelope Variations by Space Function -->
