@@ -23,7 +23,7 @@ Off-The-Shelf Designs
 
 Option 1- Includes open exercise area with allocations for typical gym equipment.
 
-<!-- ## Envelope Variations by Space Function -->
+## Envelope Variations by Space Function
 
 | Space Function | SAFE | FACE | TERRA Hut | SAWS | CUBE | MUTE |
 | -------------- | ---- | ---- | --------- | ---- | ---- | ---- |
