@@ -13769,87 +13769,17 @@
 },
 {
 "name": "Library",
-"LastModified": "03/23/2023 11:11:24",
+"LastModified": "04/08/2024 16:09:36",
 "Key": "content/cos/tam/mwr-Fitness/Library",
 "extension": "",
 "Size": ""
 },
 {
-"name": "cube-mwr_fitness.pdf",
-"LastModified": "08/06/2015 16:09:07",
-"Key": "content/cos/tam/mwr-Fitness/Library/cube-mwr_fitness.pdf",
-"extension": ".pdf",
-"Size": "275491"
-},
-{
-"name": "face-mwr_fitness.pdf",
-"LastModified": "08/06/2015 16:09:07",
-"Key": "content/cos/tam/mwr-Fitness/Library/face-mwr_fitness.pdf",
-"extension": ".pdf",
-"Size": "280755"
-},
-{
-"name": "gym-3d-render.jpg",
-"LastModified": "12/04/2018 08:10:34",
-"Key": "content/cos/tam/mwr-Fitness/Library/gym-3d-render.jpg",
+"name": "FITNESS CENTER FLOOR PLAN.jpg",
+"LastModified": "03/22/2024 13:36:45",
+"Key": "content/cos/tam/mwr-Fitness/Library/FITNESS CENTER FLOOR PLAN.jpg",
 "extension": ".jpg",
-"Size": "110964"
-},
-{
-"name": "gym-floor-plan.jpg",
-"LastModified": "12/04/2018 07:57:06",
-"Key": "content/cos/tam/mwr-Fitness/Library/gym-floor-plan.jpg",
-"extension": ".jpg",
-"Size": "65433"
-},
-{
-"name": "mwr1.png",
-"LastModified": "12/04/2018 07:31:59",
-"Key": "content/cos/tam/mwr-Fitness/Library/mwr1.png",
-"extension": ".png",
-"Size": "705422"
-},
-{
-"name": "mwr2.png",
-"LastModified": "12/04/2018 07:32:01",
-"Key": "content/cos/tam/mwr-Fitness/Library/mwr2.png",
-"extension": ".png",
-"Size": "662977"
-},
-{
-"name": "mwr3.png",
-"LastModified": "12/04/2018 07:32:02",
-"Key": "content/cos/tam/mwr-Fitness/Library/mwr3.png",
-"extension": ".png",
-"Size": "165794"
-},
-{
-"name": "mwr4.jpg",
-"LastModified": "12/04/2018 07:34:01",
-"Key": "content/cos/tam/mwr-Fitness/Library/mwr4.jpg",
-"extension": ".jpg",
-"Size": "35879"
-},
-{
-"name": "safe-mwr_fitness.pdf",
-"LastModified": "08/06/2015 16:09:07",
-"Key": "content/cos/tam/mwr-Fitness/Library/safe-mwr_fitness.pdf",
-"extension": ".pdf",
-"Size": "293819"
-},
-{
-"name": "saws-mwr_fitness.pdf",
-"LastModified": "08/06/2015 16:09:07",
-"Key": "content/cos/tam/mwr-Fitness/Library/saws-mwr_fitness.pdf",
-"extension": ".pdf",
-"Size": "284127"
-},
-{
-"name": "terra-hut-mwr_fitness.pdf",
-"LastModified": "08/06/2015 16:09:07",
-"Key": "content/cos/tam/mwr-Fitness/Library/terra-hut-mwr_fitness.pdf",
-"extension": ".pdf",
-"Size": "257727"
+"Size": "178466"
 },
 {
 "name": "Library",
