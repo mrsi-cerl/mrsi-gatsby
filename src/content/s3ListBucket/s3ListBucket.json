@@ -13013,7 +13013,7 @@
 },
 {
 "name": "Library",
-"LastModified": "03/23/2023 11:11:16",
+"LastModified": "04/08/2024 12:33:40",
 "Key": "content/cos/tam/dining/Library",
 "extension": "",
 "Size": ""
@@ -13061,74 +13061,18 @@
 "Size": "96574"
 },
 {
-"name": "500-dfac.pdf",
-"LastModified": "04/30/2018 06:22:59",
-"Key": "content/cos/tam/dining/Library/500-dfac.pdf",
-"extension": ".pdf",
-"Size": "248873"
+"name": "DFAC FLOOR PLAN OPTION 1.jpg",
+"LastModified": "03/22/2024 13:36:45",
+"Key": "content/cos/tam/dining/Library/DFAC FLOOR PLAN OPTION 1.jpg",
+"extension": ".jpg",
+"Size": "237279"
 },
 {
-"name": "cube-dfac-seating-1-bay.pdf",
-"LastModified": "08/06/2015 16:02:51",
-"Key": "content/cos/tam/dining/Library/cube-dfac-seating-1-bay.pdf",
-"extension": ".pdf",
-"Size": "137943"
-},
-{
-"name": "cube-dfac.png",
-"LastModified": "04/30/2018 12:01:13",
-"Key": "content/cos/tam/dining/Library/cube-dfac.png",
-"extension": ".png",
-"Size": "12798"
-},
-{
-"name": "dfac-224pn.png",
-"LastModified": "04/30/2018 12:01:14",
-"Key": "content/cos/tam/dining/Library/dfac-224pn.png",
-"extension": ".png",
-"Size": "82749"
-},
-{
-"name": "dfac-500pn.png",
-"LastModified": "04/30/2018 12:01:15",
-"Key": "content/cos/tam/dining/Library/dfac-500pn.png",
-"extension": ".png",
-"Size": "137710"
-},
-{
-"name": "dfac-seating.pdf",
-"LastModified": "04/30/2018 06:22:48",
-"Key": "content/cos/tam/dining/Library/dfac-seating.pdf",
-"extension": ".pdf",
-"Size": "216164"
-},
-{
-"name": "safe-dfac-full.pdf",
-"LastModified": "08/06/2015 16:02:51",
-"Key": "content/cos/tam/dining/Library/safe-dfac-full.pdf",
-"extension": ".pdf",
-"Size": "305871"
-},
-{
-"name": "safe-dfac-seating-full.pdf",
-"LastModified": "08/06/2015 16:02:51",
-"Key": "content/cos/tam/dining/Library/safe-dfac-seating-full.pdf",
-"extension": ".pdf",
-"Size": "241900"
-},
-{
-"name": "saws-dfac-full.pdf",
-"LastModified": "08/06/2015 16:02:51",
-"Key": "content/cos/tam/dining/Library/saws-dfac-full.pdf",
-"extension": ".pdf",
-"Size": "296198"
-},
-{
-"name": "saws-dfac-seating-full.pdf",
-"LastModified": "08/06/2015 16:02:51",
-"Key": "content/cos/tam/dining/Library/saws-dfac-seating-full.pdf",
-"extension": ".pdf",
-"Size": "232221"
+"name": "DFAC FLOOR PLAN OPTION 2.jpg",
+"LastModified": "03/22/2024 13:36:45",
+"Key": "content/cos/tam/dining/Library/DFAC FLOOR PLAN OPTION 2.jpg",
+"extension": ".jpg",
+"Size": "188098"
 },
 {
 "name": "built-cube.jpg",

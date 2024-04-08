@@ -12,6 +12,10 @@ file_library_root_path: "content/cos/tam/dining/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/dining/
 carousel_images:
+  - /admin/images/uploads/DFAC-FLOOR-PLAN-OPTION-1.jpg
+  - /admin/images/uploads/DFAC-FLOOR-PLAN-OPTION-2.jpg
+  - /admin/images/uploads/DFAC-RENDERING-OPTION-1.png
+  - /admin/images/uploads/DFAC-RENDERING-OPTION-2.png
   - /admin/images/uploads/dfac-500pn.png
   - /admin/images/uploads/dfac-224pn.png
   - /admin/images/uploads/dfac-full.jpg
@@ -22,38 +26,10 @@ carousel_images:
 
 ## Space Information
 
-The dining facility is a complete 14 bay facility which can feed 500 PN 3 times per day with 2 shifts per meal. There is seating for 72 PN. Another 14 bay seating area can be added which will seat 244 PN.
+The standard dining facility serves 500 PN 3 times per day with 2 seatings per meal. It includes seating for 72 PN. Option 2 can be added for an additional 244 PN seats.
 
-Option 1: 14 Bay, Open Seating with Kitchen
+Option 1: Open seating with kitchen open for 500 PN seating with kitchen & serving space.
 
-Description
+Option 2: Open seating only for 224 PN, can be used in combination with Option 1.
 
-Size: 500 PN
-
-Details: Open Seating with kitchen & Serving space
-
-ROM with Contractor Labor: \$500k
-
-ROM with Troop Labor: \$385k
-
-Option 2: 14 Bay, Open Seating
-
-Description
-
-Size
-
-224 PN
-
-Details
-
-Open Seating
-
-ROM with Contractor Labor
-
-\$286k
-
-ROM with Troop Labor
-
-\$220k
-
-## Envelope Variations by Space Function
+<!-- ## Envelope Variations by Space Function -->
