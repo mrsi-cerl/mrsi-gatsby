@@ -16,12 +16,6 @@ carousel_images:
   - /admin/images/uploads/DFAC-FLOOR-PLAN-OPTION-2.jpg
   - /admin/images/uploads/DFAC-RENDERING-OPTION-1.png
   - /admin/images/uploads/DFAC-RENDERING-OPTION-2.png
-  - /admin/images/uploads/dfac-500pn.png
-  - /admin/images/uploads/dfac-224pn.png
-  - /admin/images/uploads/dfac-full.jpg
-  - /admin/images/uploads/dfac-seating-full.jpg
-  - /admin/images/uploads/dfac-3d-render2.jpg
-  - /admin/images/uploads/dfac-3d-render1.jpg
 ---
 
 ## Space Information
