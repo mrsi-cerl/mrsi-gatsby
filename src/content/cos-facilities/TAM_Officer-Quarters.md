@@ -4,80 +4,24 @@ facility_category_codes:
   - ""
 facility_cos_short_name: TAM
 facility_functional_proponent: ""
-facility_long_name: Officer Quarters
-facility_short_name: Officer-Quarters
+facility_long_name: Low Density Barracks (Officer Quarters)
+facility_short_name: Low Density Barracks
 facility_technical_poc_email: Ivelisse.Ayala@usace.army.mil
 facility_technical_poc_name: Evy Ayala
 file_library_root_path: "content/cos/tam/officer-quarters/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/officer-quarters/
 carousel_images:
-  - /admin/images/uploads/barracks-3d-render.jpg
-  - /admin/images/uploads/low-density-barracks-option2.png
-  - /admin/images/uploads/low-density-barracks-option3.png
-  - /admin/images/uploads/low-density-barracks-option1.png
+  - /admin/images/uploads/LOW_DENSITY_BARRACKS_RENDERING_OPTION_1.png
+  - /admin/images/uploads/LOW_DENSITY_BARRACKS_PLAN_OPTION_1.jpg
+  - /admin/images/uploads/LOW_DENSITY_BARRACKS_RENDERING_OPTION_2.png
+  - /admin/images/uploads/LOW_DENSITY_BARRACKS_PLAN_OPTION_2.jpg
 ---
 
 ## Space Information
 
-14 Bay, Dry Facility
+Option 1 - Includes 19 Rooms, 2 Beds Per Room, with Office Area for up to 38 PN.
 
-Description
+Option 2 - Includes 11 Rooms, 2 Beds Per Room, Office Area and Bathroom for up to 22 PN.
 
-Size
-
-24 PN
-
-Details
-
-12 Rooms, 2 Beds per room, with Office Area
-
-ROM with Contractor Labor
-
-\$465k
-
-ROM with Troop Labor
-
-\$358k
-
-14 Bay, With Bathrooms
-
-Description
-
-Size
-
-24 PN
-
-Details
-
-12 Rooms, 2 Beds per room, with Office Area & Bathrooms
-
-ROM with Contractor Labor
-
-\$545k
-
-ROM with Troop Labor
-
-\$418k
-
-14 Bay, Wet Facility
-
-Description
-
-Size
-
-12 PN
-
-Details
-
-12 Rooms, 1 Beds per room, with Office Area & Bathrooms
-
-ROM with Contractor Labor
-
-\$545k
-
-ROM with Troop Labor
-
-\$418k
-
-## Envelope Variations by Space Function
+<!-- ## Envelope Variations by Space Function -->
