@@ -13615,7 +13615,7 @@
 },
 {
 "name": "Library",
-"LastModified": "03/23/2023 11:11:22",
+"LastModified": "04/08/2024 13:56:27",
 "Key": "content/cos/tam/latrine/Library",
 "extension": "",
 "Size": ""
@@ -13635,39 +13635,25 @@
 "Size": "351891"
 },
 {
-"name": "2-bay-latrine.png",
-"LastModified": "12/04/2018 07:10:58",
-"Key": "content/cos/tam/latrine/Library/2-bay-latrine.png",
-"extension": ".png",
-"Size": "34160"
+"name": "LATRINE-SHOWER FLOOR PLAN OPTION 3.jpg",
+"LastModified": "03/22/2024 13:36:45",
+"Key": "content/cos/tam/latrine/Library/LATRINE-SHOWER FLOOR PLAN OPTION 3.jpg",
+"extension": ".jpg",
+"Size": "720424"
 },
 {
-"name": "latrine-full-floor.png",
-"LastModified": "04/30/2018 13:18:57",
-"Key": "content/cos/tam/latrine/Library/latrine-full-floor.png",
-"extension": ".png",
-"Size": "351891"
+"name": "LATRINE_SHOWER_FLOOR PLAN OPTION 1.jpg",
+"LastModified": "03/22/2024 13:36:45",
+"Key": "content/cos/tam/latrine/Library/LATRINE_SHOWER_FLOOR PLAN OPTION 1.jpg",
+"extension": ".jpg",
+"Size": "309234"
 },
 {
-"name": "safe-latrine_shower-full.pdf",
-"LastModified": "08/06/2015 16:03:38",
-"Key": "content/cos/tam/latrine/Library/safe-latrine_shower-full.pdf",
-"extension": ".pdf",
-"Size": "310550"
-},
-{
-"name": "saws-latrine_shower-full.pdf",
-"LastModified": "08/06/2015 16:03:38",
-"Key": "content/cos/tam/latrine/Library/saws-latrine_shower-full.pdf",
-"extension": ".pdf",
-"Size": "300806"
-},
-{
-"name": "terra-hut-latrine_shower-t-hut.pdf",
-"LastModified": "08/06/2015 16:03:38",
-"Key": "content/cos/tam/latrine/Library/terra-hut-latrine_shower-t-hut.pdf",
-"extension": ".pdf",
-"Size": "131034"
+"name": "LATRINE_SHOWER_FLOOR PLAN OPTION 2.jpg",
+"LastModified": "03/22/2024 13:36:45",
+"Key": "content/cos/tam/latrine/Library/LATRINE_SHOWER_FLOOR PLAN OPTION 2.jpg",
+"extension": ".jpg",
+"Size": "286335"
 },
 {
 "name": "Library",

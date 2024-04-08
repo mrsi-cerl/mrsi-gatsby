@@ -12,37 +12,20 @@ file_library_root_path: "content/cos/tam/latrine/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/latrine/
 carousel_images:
-  - /admin/images/uploads/latrine-3d-render.jpg
-  - /admin/images/uploads/latrine-full-floor.png
+  - /admin/images/uploads/RENDERING_OPTION_1.png
+  - /admin/images/uploads/RENDERING_OPTION_2.png
+  - /admin/images/uploads/RENDERING_OPTION_3.png
 ---
 
 ## Space Information
 
 Off-The-Shelf Designs
 
-240 PN Latrine
+Option 1 - 7 separate latrine areas, inclusive of showers, toilets, and wash areas.
 
-Description
+Option 2 - 3 separate shower areas and 4 separate latrine areas.
 
-Size
-
-240 PN
-
-Details
-
-7 separate latrine areas, inclusive of showers, toilets, and wash areas
-
-ROM with Contractor Labor
-
-\$450k
-
-ROM with Troop Labor
-
-\$346k
-
-ASSEMBLIES
-
-Option 1, 2 Bay Latrine
+Option 3 - 1 bay combined showers, toilets and wash area.
 
 ## Envelope Variations by Space Function
 
