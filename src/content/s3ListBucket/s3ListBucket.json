@@ -13657,7 +13657,7 @@
 },
 {
 "name": "Library",
-"LastModified": "03/23/2023 11:11:23",
+"LastModified": "04/08/2024 14:21:55",
 "Key": "content/cos/tam/laundry/Library",
 "extension": "",
 "Size": ""
@@ -13677,53 +13677,11 @@
 "Size": "125951"
 },
 {
-"name": "cube-laundry-1-bay.pdf",
-"LastModified": "08/06/2015 16:05:28",
-"Key": "content/cos/tam/laundry/Library/cube-laundry-1-bay.pdf",
-"extension": ".pdf",
-"Size": "130191"
-},
-{
-"name": "laundry-2-bay.png",
-"LastModified": "12/04/2018 07:14:29",
-"Key": "content/cos/tam/laundry/Library/laundry-2-bay.png",
-"extension": ".png",
-"Size": "31225"
-},
-{
-"name": "laundry-3d-render2.png",
-"LastModified": "12/04/2018 07:17:26",
-"Key": "content/cos/tam/laundry/Library/laundry-3d-render2.png",
-"extension": ".png",
-"Size": "136716"
-},
-{
-"name": "laundry-4-bay.png",
-"LastModified": "12/04/2018 07:14:29",
-"Key": "content/cos/tam/laundry/Library/laundry-4-bay.png",
-"extension": ".png",
-"Size": "48817"
-},
-{
-"name": "laundry-single-bay.jpg",
-"LastModified": "12/04/2018 07:14:30",
-"Key": "content/cos/tam/laundry/Library/laundry-single-bay.jpg",
+"name": "FULL FLOOR LAUNDRY FLOOR PLAN.jpg",
+"LastModified": "03/22/2024 13:36:45",
+"Key": "content/cos/tam/laundry/Library/FULL FLOOR LAUNDRY FLOOR PLAN.jpg",
 "extension": ".jpg",
-"Size": "18060"
-},
-{
-"name": "safe-laundry-multi-bay.pdf",
-"LastModified": "08/06/2015 16:05:28",
-"Key": "content/cos/tam/laundry/Library/safe-laundry-multi-bay.pdf",
-"extension": ".pdf",
-"Size": "214362"
-},
-{
-"name": "saws-laundry-multi-bay.pdf",
-"LastModified": "08/06/2015 16:05:28",
-"Key": "content/cos/tam/laundry/Library/saws-laundry-multi-bay.pdf",
-"extension": ".pdf",
-"Size": "189475"
+"Size": "225620"
 },
 {
 "name": "Library",
