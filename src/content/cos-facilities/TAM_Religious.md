@@ -12,49 +12,19 @@ file_library_root_path: "content/cos/tam/religious/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/religious/
 carousel_images:
-  - /admin/images/uploads/religious-facility-2-story-opt1.png
-  - /admin/images/uploads/religious-facility-1-story-opt2.png
-  - /admin/images/uploads/religious-3d-render2.jpg
-  - /admin/images/uploads/religious-3d-render3.jpg
-  - /admin/images/uploads/religious-3d-render1.jpg
+  - /admin/images/uploads/SANTUARY_RENDERING_RELIGIOUS_1.png
+  - /admin/images/uploads/RELIGIOUS_2_STORY_GROUND_FLOOR_PLAN.jpg
+  - /admin/images/uploads/RELIGIOUS_2_STORY_FIRST_FLOOR_PLAN.jpg
+  - /admin/images/uploads/SANTUARY_RENDERING_RELIGIOUS_2.png
+  - /admin/images/uploads/RELIGIOUS_1_STORY_FLOOR_PLAN.jpg
 ---
 
 ## Space Information
 
-14 Bay, Single Floor, Open Sanctuary with Offices
+Option 1 - Includes Open Seating Sanctuary on Ground Floor and Offices/
+Classrooms/Storage/Prayer on First Floor (850m<sup>2</sup>).
 
-Description
+Option 2 - Includes Open Seating Sanctuary, with Offices, Restrooms, Prayer
+room, and Conference Room (442m<sup>2</sup>).
 
-Size
-
-Details
-
-Open Sanctuary, with offices, restrooms, prayer room, and conference room
-
-ROM with Contractor Labor
-
-\$286k
-
-ROM with Troop Labor
-
-\$220k
-
-14 Bay, 2 Floor, Open Sanctuary with Offices
-
-Description
-
-Size
-
-Details
-
-Open Seating Sanctuary on Ground Floor and Offices/Classrooms/Storage/Prayer on First Floor
-
-ROM with Contractor Labor
-
-\$572k
-
-ROM with Troop Labor
-
-\$440k
-
-## Envelope Variations by Space Function
+<!-- ## Envelope Variations by Space Function -->
