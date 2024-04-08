@@ -13,53 +13,20 @@ page_last_reviewed: 1 January 1970
 slug: /cos/tam/billeting/
 carousel_images:
   - /admin/images/uploads/billeting-3d-render.jpg
+  - /admin/images/uploads/BILLETING-INTERIOR-RENDERING.png
+  - /admin/images/uploads/BILLET-48-PN-FLOOR-PLAN.jpg
+  - /admin/images/uploads/BILLET-56-PN-FLOOR-PLAN.jpg
 ---
 
 ## Space Information
 
-14 Bay, Full Floor with Latrine/Shower
+Billeting Option 1 is 14 Bay, Full Floor Semi-open barracks with Latrine/Shower for up to 48 PN total, 8 PN per room.
 
-Description
-
-Size
-
-48 PN
-
-Details
-
-Semi open bay with Latrine & Showers
-
-ROM with Contractor Labor
-
-\$305k
-
-ROM with Troop Labor
-
-\$235k
-
-14 Bay, Full Floor Open
-
-Description
-
-Size
-
-56 PN
-
-Details
-
-Semi open bay
-
-ROM with Contractor Labor
-
-\$255k
-
-ROM with Troop Labor
-
-\$197k
+Billeting Option 2 is 14 Bay, Full Floor Open Barracks for up to 56PN total, 8 PN per room.
 
 ## Envelope Variations by Space Function
 
 | Space Function            | SAFE | FACE | TERRA Hut | SAWS | CUBE | MUTE |
 | ------------------------- | ---- | ---- | --------- | ---- | ---- | ---- |
-| 48 PN Billet with Latrine | X    | X    | X         | X    |      | X    |
-| 56 PN Billet              | X    | X    | X         | X    |      | X    |
+| Billeting Option 1        | X    | X    | X         | X    |      | X    |
+| Billeting Option 2        | X    | X    | X         | X    |      | X    |
