@@ -19,6 +19,6 @@ carousel_images:
 
 ## Space Information
 
-Off-The-Shelf Standard designs the for Fire Station Complex includes Administration, Apparatus Bay and Barracks facities which can all be constructed under MILCON construction limits.
+Off-The-Shelf Standard designs the for Fire Station Complex includes Administration, Apparatus Bay and Barracks facilities which can all be constructed under MILCON construction limits.
 
 ![Fire Station Complex](/admin/images/uploads/fire-station-complex.png)
