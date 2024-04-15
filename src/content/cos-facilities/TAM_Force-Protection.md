@@ -17,12 +17,11 @@ carousel_images:
   - /admin/images/uploads/vehicle-inspection.jpg
   - /admin/images/uploads/guard-house.jpg
   - /admin/images/uploads/entry-control-point.jpg
+  - /admin/images/uploads/LARGE_ECP_WORLDWIDE.PNG
+  - /admin/images/uploads/MEDIUM_ECP_WORLDWIDE.PNG
+  - /admin/images/uploads/SMALL_ECP.PNG
 ---
 
 ## Space Information
 
-Force Protection are various facilities to be used at the Entry Control Point and around the base for security.
-
-## Envelope Variations by Space Function
-
-No envelope variations for the force protection space functions.
+Force Protection include various facilities that can be used at an Entry Control Point or other locations for security.
