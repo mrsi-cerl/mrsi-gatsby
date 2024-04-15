@@ -13552,7 +13552,7 @@
 },
 {
 "name": "Library",
-"LastModified": "03/23/2023 11:11:22",
+"LastModified": "04/15/2024 14:13:38",
 "Key": "content/cos/tam/joint-operation-center/Library",
 "extension": "",
 "Size": ""
@@ -13579,95 +13579,18 @@
 "Size": "41025"
 },
 {
-"name": "cube-joc-1.pdf",
-"LastModified": "08/06/2015 16:08:42",
-"Key": "content/cos/tam/joint-operation-center/Library/cube-joc-1.pdf",
-"extension": ".pdf",
-"Size": "238895"
+"name": "JOINT OPERATION CENTER OPTION 1.JPG",
+"LastModified": "04/10/2024 10:28:59",
+"Key": "content/cos/tam/joint-operation-center/Library/JOINT OPERATION CENTER OPTION 1.JPG",
+"extension": ".JPG",
+"Size": "112086"
 },
 {
-"name": "cube-joc-2.pdf",
-"LastModified": "08/06/2015 16:08:42",
-"Key": "content/cos/tam/joint-operation-center/Library/cube-joc-2.pdf",
-"extension": ".pdf",
-"Size": "252016"
-},
-{
-"name": "cube-joc-3.pdf",
-"LastModified": "08/06/2015 16:08:42",
-"Key": "content/cos/tam/joint-operation-center/Library/cube-joc-3.pdf",
-"extension": ".pdf",
-"Size": "232886"
-},
-{
-"name": "joc-a.png",
-"LastModified": "04/30/2018 13:04:45",
-"Key": "content/cos/tam/joint-operation-center/Library/joc-a.png",
-"extension": ".png",
-"Size": "617195"
-},
-{
-"name": "joc-b.png",
-"LastModified": "04/30/2018 13:06:19",
-"Key": "content/cos/tam/joint-operation-center/Library/joc-b.png",
-"extension": ".png",
-"Size": "897839"
-},
-{
-"name": "joc-option-1.png",
-"LastModified": "04/30/2018 13:04:59",
-"Key": "content/cos/tam/joint-operation-center/Library/joc-option-1.png",
-"extension": ".png",
-"Size": "54190"
-},
-{
-"name": "joc-option-2.png",
-"LastModified": "04/30/2018 13:04:59",
-"Key": "content/cos/tam/joint-operation-center/Library/joc-option-2.png",
-"extension": ".png",
-"Size": "41025"
-},
-{
-"name": "safe-joc-1.pdf",
-"LastModified": "08/06/2015 16:08:42",
-"Key": "content/cos/tam/joint-operation-center/Library/safe-joc-1.pdf",
-"extension": ".pdf",
-"Size": "257279"
-},
-{
-"name": "safe-joc-2.pdf",
-"LastModified": "08/06/2015 16:08:42",
-"Key": "content/cos/tam/joint-operation-center/Library/safe-joc-2.pdf",
-"extension": ".pdf",
-"Size": "270402"
-},
-{
-"name": "safe-joc-3.pdf",
-"LastModified": "08/06/2015 16:08:42",
-"Key": "content/cos/tam/joint-operation-center/Library/safe-joc-3.pdf",
-"extension": ".pdf",
-"Size": "251272"
-},
-{
-"name": "saws-joc-1.pdf",
-"LastModified": "08/06/2015 16:08:42",
-"Key": "content/cos/tam/joint-operation-center/Library/saws-joc-1.pdf",
-"extension": ".pdf",
-"Size": "247537"
-},
-{
-"name": "saws-joc-2.pdf",
-"LastModified": "08/06/2015 16:08:42",
-"Key": "content/cos/tam/joint-operation-center/Library/saws-joc-2.pdf",
-"extension": ".pdf",
-"Size": "260659"
-},
-{
-"name": "saws-joc-3.pdf",
-"LastModified": "08/06/2015 16:08:42",
-"Key": "content/cos/tam/joint-operation-center/Library/saws-joc-3.pdf",
-"extension": ".pdf",
-"Size": "241525"
+"name": "JOINT OPERATION CENTER OPTION 2.JPG",
+"LastModified": "04/10/2024 10:28:59",
+"Key": "content/cos/tam/joint-operation-center/Library/JOINT OPERATION CENTER OPTION 2.JPG",
+"extension": ".JPG",
+"Size": "99612"
 },
 {
 "name": "Library",
