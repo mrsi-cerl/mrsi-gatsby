@@ -23,6 +23,7 @@ carousel_images:
 Off-The-Shelf Designs
 
 Option 1 Open seating, private office space and one conference room for 107PN.
+
 Option 2 Open seating space for 109PN.
 
 <!-- ## Envelope Variations by Space Function -->
