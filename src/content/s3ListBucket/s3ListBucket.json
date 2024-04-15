@@ -10374,7 +10374,7 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "03/23/2023 11:09:39",
+"LastModified": "04/15/2024 12:01:01",
 "Key": "content/cos/sas/cof/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -10388,7 +10388,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "03/23/2023 11:09:40",
+"LastModified": "04/15/2024 12:01:21",
 "Key": "content/cos/sas/cof/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -10450,11 +10450,11 @@
 "Size": "31451315"
 },
 {
-"name": "LEED v4 Score Card - COF.pdf",
-"LastModified": "03/04/2021 09:44:29",
-"Key": "content/cos/sas/cof/Library/Misc. Documents/LEED v4 Score Card - COF.pdf",
-"extension": ".pdf",
-"Size": "100110"
+"name": "LEED v4 Score Card COF 20240331.xlsx",
+"LastModified": "04/15/2024 10:52:00",
+"Key": "content/cos/sas/cof/Library/Misc. Documents/LEED v4 Score Card COF 20240331.xlsx",
+"extension": ".xlsx",
+"Size": "186603"
 },
 {
 "name": "VE Study - COF Standards_FEB 2020.pdf",
@@ -10464,11 +10464,11 @@
 "Size": "3773339"
 },
 {
-"name": "COF_Std_Dgn_Rev_5.1.pdf",
-"LastModified": "10/18/2021 16:00:28",
-"Key": "content/cos/sas/cof/Library/Standard Designs/COF_Std_Dgn_Rev_5.1.pdf",
+"name": "COF_Std_Dgn_Rev_5.2 dated 20240331.pdf",
+"LastModified": "04/15/2024 10:54:00",
+"Key": "content/cos/sas/cof/Library/Standard Designs/COF_Std_Dgn_Rev_5.2 dated 20240331.pdf",
 "extension": ".pdf",
-"Size": "2064421"
+"Size": "2246095"
 },
 {
 "name": "Library",
