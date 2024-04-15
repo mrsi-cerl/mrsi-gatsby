@@ -231,7 +231,7 @@
 },
 {
 "name": "tam",
-"LastModified": "03/23/2023 11:11:28",
+"LastModified": "04/15/2024 16:36:55",
 "Key": "content/cos/tam",
 "extension": "",
 "Size": ""
@@ -12263,9 +12263,9 @@
 "Size": ""
 },
 {
-"name": "weapons-storage",
+"name": "weapon-storage",
 "LastModified": "03/23/2023 11:11:28",
-"Key": "content/cos/tam/weapons-storage",
+"Key": "content/cos/tam/weapon-storage",
 "extension": "",
 "Size": ""
 },
@@ -13965,94 +13965,94 @@
 },
 {
 "name": "Library",
-"LastModified": "03/23/2023 11:11:29",
-"Key": "content/cos/tam/weapons-storage/Library",
+"LastModified": "04/15/2024 16:44:25",
+"Key": "content/cos/tam/weapon-storage/Library",
 "extension": "",
 "Size": ""
 },
 {
 "name": "safe-ws-full-interior.jpg",
 "LastModified": "08/07/2015 14:48:27",
-"Key": "content/cos/tam/weapons-storage/safe-ws-full-interior.jpg",
+"Key": "content/cos/tam/weapon-storage/safe-ws-full-interior.jpg",
 "extension": ".jpg",
 "Size": "92056"
 },
 {
 "name": "saws-ws-full-interior.jpg",
 "LastModified": "08/07/2015 14:13:16",
-"Key": "content/cos/tam/weapons-storage/saws-ws-full-interior.jpg",
+"Key": "content/cos/tam/weapon-storage/saws-ws-full-interior.jpg",
 "extension": ".jpg",
 "Size": "74545"
 },
 {
 "name": "weapons-storage-1-bay.png",
 "LastModified": "12/04/2018 08:44:32",
-"Key": "content/cos/tam/weapons-storage/weapons-storage-1-bay.png",
+"Key": "content/cos/tam/weapon-storage/weapons-storage-1-bay.png",
 "extension": ".png",
 "Size": "23347"
 },
 {
 "name": "weapons-storage-1-bay2.png",
 "LastModified": "12/04/2018 08:44:33",
-"Key": "content/cos/tam/weapons-storage/weapons-storage-1-bay2.png",
+"Key": "content/cos/tam/weapon-storage/weapons-storage-1-bay2.png",
 "extension": ".png",
 "Size": "16474"
 },
 {
 "name": "weapons-storage-2-bay.png",
 "LastModified": "12/04/2018 08:44:33",
-"Key": "content/cos/tam/weapons-storage/weapons-storage-2-bay.png",
+"Key": "content/cos/tam/weapon-storage/weapons-storage-2-bay.png",
 "extension": ".png",
 "Size": "35564"
 },
 {
 "name": "weapons-storage-2-bay2.png",
 "LastModified": "12/04/2018 08:44:34",
-"Key": "content/cos/tam/weapons-storage/weapons-storage-2-bay2.png",
+"Key": "content/cos/tam/weapon-storage/weapons-storage-2-bay2.png",
 "extension": ".png",
 "Size": "34706"
 },
 {
 "name": "weapons-storage-render.jpg",
 "LastModified": "12/04/2018 08:44:02",
-"Key": "content/cos/tam/weapons-storage/weapons-storage-render.jpg",
+"Key": "content/cos/tam/weapon-storage/weapons-storage-render.jpg",
 "extension": ".jpg",
 "Size": "38451"
 },
 {
-"name": "cube-weapons-storage-1-bay-2-opts.pdf",
-"LastModified": "08/06/2015 16:09:38",
-"Key": "content/cos/tam/weapons-storage/Library/cube-weapons-storage-1-bay-2-opts.pdf",
-"extension": ".pdf",
-"Size": "111601"
+"name": "OPTION 1 - 3 BAY ARMORY FLOOR PLAN.jpg",
+"LastModified": "04/10/2024 10:29:37",
+"Key": "content/cos/tam/weapon-storage/Library/OPTION 1 - 3 BAY ARMORY FLOOR PLAN.jpg",
+"extension": ".jpg",
+"Size": "365484"
 },
 {
-"name": "safe-weapons-storage-full.pdf",
-"LastModified": "08/06/2015 16:09:38",
-"Key": "content/cos/tam/weapons-storage/Library/safe-weapons-storage-full.pdf",
-"extension": ".pdf",
-"Size": "172343"
+"name": "OPTION 2 - 3 BAY ARMORY FLOOR PLAN.jpg",
+"LastModified": "04/10/2024 10:29:37",
+"Key": "content/cos/tam/weapon-storage/Library/OPTION 2 - 3 BAY ARMORY FLOOR PLAN.jpg",
+"extension": ".jpg",
+"Size": "163135"
 },
 {
-"name": "safe-weapons-storage-multi-bay.pdf",
-"LastModified": "08/06/2015 16:09:38",
-"Key": "content/cos/tam/weapons-storage/Library/safe-weapons-storage-multi-bay.pdf",
-"extension": ".pdf",
-"Size": "245979"
+"name": "OPTION 3 - 2 BAY ARMORY FLOOR PLAN.jpg",
+"LastModified": "04/10/2024 10:29:37",
+"Key": "content/cos/tam/weapon-storage/Library/OPTION 3 - 2 BAY ARMORY FLOOR PLAN.jpg",
+"extension": ".jpg",
+"Size": "503790"
 },
 {
-"name": "saws-weapons-storage-full.pdf",
-"LastModified": "08/06/2015 16:09:38",
-"Key": "content/cos/tam/weapons-storage/Library/saws-weapons-storage-full.pdf",
-"extension": ".pdf",
-"Size": "171790"
+"name": "OPTION 4 - 2 BAY ARMORY FLOOR PLAN.jpg",
+"LastModified": "04/10/2024 10:29:37",
+"Key": "content/cos/tam/weapon-storage/Library/OPTION 4 - 2 BAY ARMORY FLOOR PLAN.jpg",
+"extension": ".jpg",
+"Size": "205468"
 },
 {
-"name": "saws-weapons-storage-multi-bay.pdf",
-"LastModified": "08/06/2015 16:09:38",
-"Key": "content/cos/tam/weapons-storage/Library/saws-weapons-storage-multi-bay.pdf",
-"extension": ".pdf",
-"Size": "245428"
+"name": "OPTION 5 - 1 BAY ARMORY FLOOR PLAN.jpg",
+"LastModified": "04/10/2024 10:29:37",
+"Key": "content/cos/tam/weapon-storage/Library/OPTION 5 - 1 BAY ARMORY FLOOR PLAN.jpg",
+"extension": ".jpg",
+"Size": "281727"
 },
 {
 "name": "AR 420-1 Waiver Process  (29 Sept 2017).pdf",

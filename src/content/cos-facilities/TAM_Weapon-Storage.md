@@ -12,13 +12,12 @@ file_library_root_path: "content/cos/tam/weapon-storage/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/weapon-storage/
 carousel_images:
-  - /admin/images/uploads/weapons-storage-1-bay2.png
-  - /admin/images/uploads/safe-ws-full-interior.jpg
-  - /admin/images/uploads/weapons-storage-2-bay.png
-  - /admin/images/uploads/weapons-storage-render.jpg
-  - /admin/images/uploads/saws-ws-full-interior.jpg
-  - /admin/images/uploads/weapons-storage-2-bay2.png
-  - /admin/images/uploads/weapons-storage-1-bay.png
+ - /admin/images/uploads/CUBE_ARMORY_RENDERING.png
+ - /admin/images/uploads/OPTION_1-3_BAY_ARMORY_FLOOR_PLAN.jpg
+ - /admin/images/uploads/OPTION_2-3_BAY_ARMORY_FLOOR_PLAN.jpg
+ - /admin/images/uploads/OPTION_3-2_BAY_ARMORY_FLOOR_PLAN.jpg
+ - /admin/images/uploads/OPTION_4-2_BAY_ARMORY_FLOOR_PLAN.jpg
+ - /admin/images/uploads/OPTION_5-1_BAY_ARMORY_FLOOR_PLAN.jpg
 ---
 
 ## Space Information
@@ -33,4 +32,4 @@ Option 3, 1 Bay, 12 PN
 
 Option 4, 1 Bay, 12 PN
 
-## Envelope Variations by Space Function
+<!-- ## Envelope Variations by Space Function -->
