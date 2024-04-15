@@ -10528,14 +10528,14 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "03/23/2023 11:09:42",
+"LastModified": "04/15/2024 15:55:07",
 "Key": "content/cos/sas/temf/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "03/23/2023 11:09:42",
+"LastModified": "04/15/2024 15:55:48",
 "Key": "content/cos/sas/temf/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -10549,7 +10549,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "03/23/2023 11:09:43",
+"LastModified": "04/15/2024 15:56:31",
 "Key": "content/cos/sas/temf/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -10618,39 +10618,39 @@
 "Size": "216636"
 },
 {
-"name": "TEMF_ XLARGE_FY22_20220426.pdf",
-"LastModified": "06/30/2022 10:06:22",
-"Key": "content/cos/sas/temf/Library/DD1391 Templates/TEMF_ XLARGE_FY22_20220426.pdf",
+"name": "DD1391_TEMF_ XLARGE_FY22_20240331.pdf",
+"LastModified": "04/15/2024 14:33:00",
+"Key": "content/cos/sas/temf/Library/DD1391 Templates/DD1391_TEMF_ XLARGE_FY22_20240331.pdf",
 "extension": ".pdf",
-"Size": "36371"
+"Size": "72079"
 },
 {
-"name": "TEMF_LARGE_ FY 22_20220426.pdf",
-"LastModified": "06/30/2022 10:06:20",
-"Key": "content/cos/sas/temf/Library/DD1391 Templates/TEMF_LARGE_ FY 22_20220426.pdf",
+"name": "DD1391_TEMF_LARGE_ FY 22_20240331.pdf",
+"LastModified": "04/15/2024 14:33:00",
+"Key": "content/cos/sas/temf/Library/DD1391 Templates/DD1391_TEMF_LARGE_ FY 22_20240331.pdf",
 "extension": ".pdf",
-"Size": "34484"
+"Size": "78188"
 },
 {
-"name": "TEMF_MEDIUM_FY 22_20220426.pdf",
-"LastModified": "06/30/2022 10:06:21",
-"Key": "content/cos/sas/temf/Library/DD1391 Templates/TEMF_MEDIUM_FY 22_20220426.pdf",
+"name": "DD1391_TEMF_MEDIUM_FY 22_20240331.pdf",
+"LastModified": "04/15/2024 14:33:00",
+"Key": "content/cos/sas/temf/Library/DD1391 Templates/DD1391_TEMF_MEDIUM_FY 22_20240331.pdf",
 "extension": ".pdf",
-"Size": "34417"
+"Size": "62364"
 },
 {
-"name": "TEMF_SMALL_FY 22_20220426.pdf",
-"LastModified": "06/30/2022 10:06:21",
-"Key": "content/cos/sas/temf/Library/DD1391 Templates/TEMF_SMALL_FY 22_20220426.pdf",
+"name": "DD1391_TEMF_SMALL_FY 22_20240331.pdf",
+"LastModified": "04/15/2024 14:33:00",
+"Key": "content/cos/sas/temf/Library/DD1391 Templates/DD1391_TEMF_SMALL_FY 22_20240331.pdf",
 "extension": ".pdf",
-"Size": "34411"
+"Size": "61076"
 },
 {
-"name": "LEED v4 Score Card - TEMF.pdf",
-"LastModified": "03/04/2021 09:44:42",
-"Key": "content/cos/sas/temf/Library/Misc. Documents/LEED v4 Score Card - TEMF.pdf",
-"extension": ".pdf",
-"Size": "100133"
+"name": "LEED v4 Score Card TEMF 20240331.xlsx",
+"LastModified": "04/15/2024 14:33:00",
+"Key": "content/cos/sas/temf/Library/Misc. Documents/LEED v4 Score Card TEMF 20240331.xlsx",
+"extension": ".xlsx",
+"Size": "186556"
 },
 {
 "name": "VE Study - TEMF Standards_MAR 2020.pdf",
@@ -10660,11 +10660,11 @@
 "Size": "6014962"
 },
 {
-"name": "TEMF_Std_Dgn_Rev_5.1.pdf",
-"LastModified": "10/18/2021 16:00:24",
-"Key": "content/cos/sas/temf/Library/Standard Designs/TEMF_Std_Dgn_Rev_5.1.pdf",
+"name": "TEMF_Std_Dgn_Rev_5.2 dated 20240331.pdf",
+"LastModified": "04/15/2024 14:34:00",
+"Key": "content/cos/sas/temf/Library/Standard Designs/TEMF_Std_Dgn_Rev_5.2 dated 20240331.pdf",
 "extension": ".pdf",
-"Size": "1670933"
+"Size": "1821102"
 },
 {
 "name": "bragg_temf.rvt",
@@ -13874,7 +13874,7 @@
 },
 {
 "name": "Library",
-"LastModified": "03/23/2023 11:11:28",
+"LastModified": "04/15/2024 15:52:54",
 "Key": "content/cos/tam/tactical-operation-center/Library",
 "extension": "",
 "Size": ""
@@ -13936,116 +13936,32 @@
 "Size": "24487"
 },
 {
-"name": "cube-toc-1-bay.pdf",
-"LastModified": "08/06/2015 16:07:48",
-"Key": "content/cos/tam/tactical-operation-center/Library/cube-toc-1-bay.pdf",
-"extension": ".pdf",
-"Size": "144365"
+"name": "OPTION 1- 4 BAY LARGE TOC FLOOR PLAN.jpg",
+"LastModified": "04/10/2024 10:29:19",
+"Key": "content/cos/tam/tactical-operation-center/Library/OPTION 1- 4 BAY LARGE TOC FLOOR PLAN.jpg",
+"extension": ".jpg",
+"Size": "381932"
 },
 {
-"name": "cube-toc-large-4-bay.pdf",
-"LastModified": "08/06/2015 16:07:48",
-"Key": "content/cos/tam/tactical-operation-center/Library/cube-toc-large-4-bay.pdf",
-"extension": ".pdf",
-"Size": "155673"
+"name": "OPTION 2- 3 BAY MEDIUM TOC FLOOR PLAN.jpg",
+"LastModified": "04/10/2024 10:29:19",
+"Key": "content/cos/tam/tactical-operation-center/Library/OPTION 2- 3 BAY MEDIUM TOC FLOOR PLAN.jpg",
+"extension": ".jpg",
+"Size": "169404"
 },
 {
-"name": "cube-toc-medium-3-bay.pdf",
-"LastModified": "08/06/2015 16:07:48",
-"Key": "content/cos/tam/tactical-operation-center/Library/cube-toc-medium-3-bay.pdf",
-"extension": ".pdf",
-"Size": "150730"
+"name": "OPTION 3- 2 BAY SMALL TOC FLOOR PLAN.jpg",
+"LastModified": "04/10/2024 10:29:19",
+"Key": "content/cos/tam/tactical-operation-center/Library/OPTION 3- 2 BAY SMALL TOC FLOOR PLAN.jpg",
+"extension": ".jpg",
+"Size": "229963"
 },
 {
-"name": "cube-toc-small-2-bay.pdf",
-"LastModified": "08/06/2015 16:07:48",
-"Key": "content/cos/tam/tactical-operation-center/Library/cube-toc-small-2-bay.pdf",
-"extension": ".pdf",
-"Size": "146939"
-},
-{
-"name": "safe-toc-1-bay.pdf",
-"LastModified": "08/06/2015 16:07:49",
-"Key": "content/cos/tam/tactical-operation-center/Library/safe-toc-1-bay.pdf",
-"extension": ".pdf",
-"Size": "173110"
-},
-{
-"name": "safe-toc-large-4-bay.pdf",
-"LastModified": "08/06/2015 16:07:48",
-"Key": "content/cos/tam/tactical-operation-center/Library/safe-toc-large-4-bay.pdf",
-"extension": ".pdf",
-"Size": "184412"
-},
-{
-"name": "safe-toc-medium-3-bay.pdf",
-"LastModified": "08/06/2015 16:07:48",
-"Key": "content/cos/tam/tactical-operation-center/Library/safe-toc-medium-3-bay.pdf",
-"extension": ".pdf",
-"Size": "179473"
-},
-{
-"name": "safe-toc-small-2-bay.pdf",
-"LastModified": "08/06/2015 16:07:48",
-"Key": "content/cos/tam/tactical-operation-center/Library/safe-toc-small-2-bay.pdf",
-"extension": ".pdf",
-"Size": "175681"
-},
-{
-"name": "saws-toc-1-bay.pdf",
-"LastModified": "08/06/2015 16:07:48",
-"Key": "content/cos/tam/tactical-operation-center/Library/saws-toc-1-bay.pdf",
-"extension": ".pdf",
-"Size": "163369"
-},
-{
-"name": "saws-toc-large-4-bay.pdf",
-"LastModified": "08/06/2015 16:07:48",
-"Key": "content/cos/tam/tactical-operation-center/Library/saws-toc-large-4-bay.pdf",
-"extension": ".pdf",
-"Size": "174672"
-},
-{
-"name": "saws-toc-medium-3-bay.pdf",
-"LastModified": "08/06/2015 16:07:49",
-"Key": "content/cos/tam/tactical-operation-center/Library/saws-toc-medium-3-bay.pdf",
-"extension": ".pdf",
-"Size": "169355"
-},
-{
-"name": "saws-toc-small-2-bay.pdf",
-"LastModified": "08/06/2015 16:07:48",
-"Key": "content/cos/tam/tactical-operation-center/Library/saws-toc-small-2-bay.pdf",
-"extension": ".pdf",
-"Size": "165999"
-},
-{
-"name": "terra-hut-toc-1-bay.pdf",
-"LastModified": "08/06/2015 16:07:49",
-"Key": "content/cos/tam/tactical-operation-center/Library/terra-hut-toc-1-bay.pdf",
-"extension": ".pdf",
-"Size": "131508"
-},
-{
-"name": "terra-hut-toc-large-4-bay.pdf",
-"LastModified": "08/06/2015 16:07:49",
-"Key": "content/cos/tam/tactical-operation-center/Library/terra-hut-toc-large-4-bay.pdf",
-"extension": ".pdf",
-"Size": "142814"
-},
-{
-"name": "terra-hut-toc-medium-3-bay.pdf",
-"LastModified": "08/06/2015 16:07:49",
-"Key": "content/cos/tam/tactical-operation-center/Library/terra-hut-toc-medium-3-bay.pdf",
-"extension": ".pdf",
-"Size": "137497"
-},
-{
-"name": "terra-hut-toc-small-2-bay.pdf",
-"LastModified": "08/06/2015 16:07:49",
-"Key": "content/cos/tam/tactical-operation-center/Library/terra-hut-toc-small-2-bay.pdf",
-"extension": ".pdf",
-"Size": "134139"
+"name": "OPTION 4 - 1 BAY CONF-OFF FLOOR PLAN.jpg",
+"LastModified": "04/10/2024 10:29:19",
+"Key": "content/cos/tam/tactical-operation-center/Library/OPTION 4 - 1 BAY CONF-OFF FLOOR PLAN.jpg",
+"extension": ".jpg",
+"Size": "274983"
 },
 {
 "name": "Library",
