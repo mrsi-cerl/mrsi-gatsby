@@ -13384,7 +13384,7 @@
 },
 {
 "name": "Library",
-"LastModified": "04/15/2024 13:14:53",
+"LastModified": "04/16/2024 09:07:27",
 "Key": "content/cos/tam/headquarters/Library",
 "extension": "",
 "Size": ""
@@ -13404,48 +13404,6 @@
 "Size": "112727"
 },
 {
-"name": "4 BAY HEADQUARTERS FLOOR PLAN.jpg",
-"LastModified": "04/10/2024 10:36:19",
-"Key": "content/cos/tam/headquarters/Library/4 BAY HEADQUARTERS FLOOR PLAN.jpg",
-"extension": ".jpg",
-"Size": "459739"
-},
-{
-"name": "6 BAY HEADQUARTERS FLOOR PLAN.jpg",
-"LastModified": "04/10/2024 10:36:19",
-"Key": "content/cos/tam/headquarters/Library/6 BAY HEADQUARTERS FLOOR PLAN.jpg",
-"extension": ".jpg",
-"Size": "342641"
-},
-{
-"name": "cube-hq-4-bay.pdf",
-"LastModified": "08/06/2015 16:06:50",
-"Key": "content/cos/tam/headquarters/Library/cube-hq-4-bay.pdf",
-"extension": ".pdf",
-"Size": "169958"
-},
-{
-"name": "cube-hq-6-bay.pdf",
-"LastModified": "08/06/2015 16:06:50",
-"Key": "content/cos/tam/headquarters/Library/cube-hq-6-bay.pdf",
-"extension": ".pdf",
-"Size": "178190"
-},
-{
-"name": "cube-hq-8-bay.pdf",
-"LastModified": "08/06/2015 16:06:50",
-"Key": "content/cos/tam/headquarters/Library/cube-hq-8-bay.pdf",
-"extension": ".pdf",
-"Size": "190838"
-},
-{
-"name": "cube-hq-full.pdf",
-"LastModified": "08/06/2015 16:06:50",
-"Key": "content/cos/tam/headquarters/Library/cube-hq-full.pdf",
-"extension": ".pdf",
-"Size": "271916"
-},
-{
 "name": "HEADQUARTERS FLOOR PLAN OPTION1.jpg",
 "LastModified": "04/10/2024 10:36:19",
 "Key": "content/cos/tam/headquarters/Library/HEADQUARTERS FLOOR PLAN OPTION1.jpg",
@@ -13453,32 +13411,18 @@
 "Size": "241810"
 },
 {
-"name": "headquarters-4-bay.png",
-"LastModified": "04/30/2018 12:19:26",
-"Key": "content/cos/tam/headquarters/Library/headquarters-4-bay.png",
-"extension": ".png",
-"Size": "72077"
+"name": "HEADQUARTERS FLOOR PLAN OPTION2.jpg",
+"LastModified": "04/10/2024 10:36:19",
+"Key": "content/cos/tam/headquarters/Library/HEADQUARTERS FLOOR PLAN OPTION2.jpg",
+"extension": ".jpg",
+"Size": "342641"
 },
 {
-"name": "headquarters-6-bay.png",
-"LastModified": "04/30/2018 12:19:26",
-"Key": "content/cos/tam/headquarters/Library/headquarters-6-bay.png",
-"extension": ".png",
-"Size": "90650"
-},
-{
-"name": "headquarters-8-bay.png",
-"LastModified": "04/30/2018 12:19:27",
-"Key": "content/cos/tam/headquarters/Library/headquarters-8-bay.png",
-"extension": ".png",
-"Size": "106415"
-},
-{
-"name": "headquarters.png",
-"LastModified": "04/30/2018 12:12:59",
-"Key": "content/cos/tam/headquarters/Library/headquarters.png",
-"extension": ".png",
-"Size": "112727"
+"name": "HEADQUARTERS FLOOR PLAN OPTION3.jpg",
+"LastModified": "04/10/2024 10:36:19",
+"Key": "content/cos/tam/headquarters/Library/HEADQUARTERS FLOOR PLAN OPTION3.jpg",
+"extension": ".jpg",
+"Size": "459739"
 },
 {
 "name": "HEADQUATER RENDERING 2.png",
@@ -13493,62 +13437,6 @@
 "Key": "content/cos/tam/headquarters/Library/HEADQUATERS RENDERING 1.png",
 "extension": ".png",
 "Size": "142824"
-},
-{
-"name": "safe-hq-4-bay.pdf",
-"LastModified": "08/06/2015 16:06:50",
-"Key": "content/cos/tam/headquarters/Library/safe-hq-4-bay.pdf",
-"extension": ".pdf",
-"Size": "188677"
-},
-{
-"name": "safe-hq-6-bay.pdf",
-"LastModified": "08/06/2015 16:06:50",
-"Key": "content/cos/tam/headquarters/Library/safe-hq-6-bay.pdf",
-"extension": ".pdf",
-"Size": "196575"
-},
-{
-"name": "safe-hq-8-bay.pdf",
-"LastModified": "08/06/2015 16:06:50",
-"Key": "content/cos/tam/headquarters/Library/safe-hq-8-bay.pdf",
-"extension": ".pdf",
-"Size": "209226"
-},
-{
-"name": "safe-hq-full.pdf",
-"LastModified": "08/06/2015 16:06:50",
-"Key": "content/cos/tam/headquarters/Library/safe-hq-full.pdf",
-"extension": ".pdf",
-"Size": "290305"
-},
-{
-"name": "saws-hq-4-bay.pdf",
-"LastModified": "08/06/2015 16:06:50",
-"Key": "content/cos/tam/headquarters/Library/saws-hq-4-bay.pdf",
-"extension": ".pdf",
-"Size": "178600"
-},
-{
-"name": "saws-hq-6-bay.pdf",
-"LastModified": "08/06/2015 16:06:51",
-"Key": "content/cos/tam/headquarters/Library/saws-hq-6-bay.pdf",
-"extension": ".pdf",
-"Size": "187113"
-},
-{
-"name": "saws-hq-8-bay.pdf",
-"LastModified": "08/06/2015 16:06:51",
-"Key": "content/cos/tam/headquarters/Library/saws-hq-8-bay.pdf",
-"extension": ".pdf",
-"Size": "199482"
-},
-{
-"name": "saws-hq-full.pdf",
-"LastModified": "08/06/2015 16:06:51",
-"Key": "content/cos/tam/headquarters/Library/saws-hq-full.pdf",
-"extension": ".pdf",
-"Size": "280560"
 },
 {
 "name": "Library",
