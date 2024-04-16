@@ -12,10 +12,10 @@ file_library_root_path: "content/cos/tam/joint-operation-center/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/tam/joint-operation-center/
 carousel_images:
-- /admin/images/uploads/JOINT_OPERATION_CENTER_RENDERING_OPTION_1.png
-- /admin/images/uploads/JOINT_OPERATION_CENTER_RENDERING_OPTION_2.png
-- /admin/images/uploads/JOINT_OPERATION_CENTER_OPTION_1.JPG
-- /admin/images/uploads/JOINT_OPERATION_CENTER_OPTION_2.JPG
+  - /admin/images/uploads/JOINT_OPERATION_CENTER_RENDERING_OPTION_1.png
+  - /admin/images/uploads/JOINT_OPERATION_CENTER_RENDERING_OPTION_2.png
+  - /admin/images/uploads/JOINT_OPERATION_CENTER_OPTION_1.JPG
+  - /admin/images/uploads/JOINT_OPERATION_CENTER_OPTION_2.JPG
 ---
 
 ## Space Information
