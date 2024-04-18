@@ -28,7 +28,7 @@ The TEMF Army Standard Design defines an entire complex of facilities for the ma
   - X-Large Vehicle Maintenance Shop – Total: 76,200 GSF (Previously 74,688 GSF until FY-13)
 - Organizational Vehicle Parking – FCC 85210 – Authorized Scope Per RPLANS (SY)
 - Org Veh Parking Power & Data Conduit System – FCC 85210 – Authorized Scope Per RPLANS (SY)
-- Organizational Storage Bldg – FCC 21412 (formerly 44224) – Authorized Scope Per RPLANS (SF)
+- Organizational Storage Bldg – FCC 44224 – Authorized Scope Per RPLANS (SF)
 - Petroleum, Oil, & Lubricants (POL) Storage Bldg – FCC 21470 – Authorized Scope Per RPLANS (SF)
 - Hazardous Waste Storage Bldg – FCC 21470 – Authorized Scope Per RPLANS (SF)
 - Unmanned Aerial Vehicle (UAV) Storage Bldg – FCC 21412 (formerly 21115) – 1800 GSF
