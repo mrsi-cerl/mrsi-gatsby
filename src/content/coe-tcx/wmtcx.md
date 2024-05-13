@@ -7,7 +7,7 @@ center_type: TCX
 website: https://usace.dps.mil/sites/INTRA-NWP/SitePages/Welding-and-Metallurgy-Technical-Center.aspx?web=1
 center_poc_name: Travis Adams
 center_poc_phone_number: ☎ (503) 808 4954
-hq_poc_name: Chris Westbrook
+hq_poc_name: Dan Jensen
 hq_division: E&C
 activation_date: 13 Dec 2012
 recertification_date: 31 Jan 2018
