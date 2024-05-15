@@ -14,11 +14,11 @@
     "title": "Network Outage"
   },
   {
-    "startDate": "09:40  08/02/2023",
-    "endDate": "17:00  08/03/2023",
-    "message": "The servers for the MILCON D-B, Small Projects, and legacy PDRS Wizards will be undergoing server maintenance this Thursday (August 3rd) afternoon from 1200 - 1700 CDT and will not be accessible during the maintenance window. Please log out and close any of these click-once Wizards you may have open before the start of the maintenance window. THE NEWER CODE2 PDR WIZARD IS UNAFFECTED BY THIS MAINTENANCE AND WILL BE AVAILABLE AS USUAL. We apologize for the inconvenience.",
-    "level": "info",
-    "title": "Server Maintenance"
+    "startDate": "05:00  05/17/2024",
+    "endDate": "12:01  05/18/2024",
+    "message": "The servers for all of the Wizards will be down this Saturday morning (May 18th) due to a scheduled power outage. The Wizards will not be accessible during the outage. We apologize for the inconvenience.",
+    "level": "warning",
+    "title": "Power Outage"
   },
   {
     "startDate": "10:05  10/01/2019",
