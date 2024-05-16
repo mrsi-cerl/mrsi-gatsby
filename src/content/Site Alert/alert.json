@@ -7,11 +7,11 @@
     "title": "Network Outage"
   },
   {
-    "startDate": "9:00  12/13/2023",
-    "endDate": "12:00  12/14/2023",
-    "message": "Our hosting provider has resolved the issue with their network infrastructure: the MRSI Wizard is now available. Please let us know if you have any issues.",
+    "startDate": "9:00  05/16/2024",
+    "endDate": "18:00  05/16/2024",
+    "message": "The servers for all of the Wizards will be down late this afternoon (May 16th) for scheduled maintenance starting at 4pm CST until about 6pm CST. We apologize for the inconvenience.",
     "level": "info",
-    "title": "Network Outage"
+    "title": "Server Maintenance"
   },
   {
     "startDate": "05:00  05/17/2024",
