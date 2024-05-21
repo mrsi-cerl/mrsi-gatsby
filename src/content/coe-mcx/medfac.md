@@ -13,7 +13,7 @@ er_number: ER 1110-345-721
 er_link: https://www.publications.usace.army.mil/Portals/76/Users/182/86/2486/1ER%201110-345-721.pdf?ver=UOM98EcXWcp-HzrHbyxhSw%3d%3d
 er_publication_date: 20 Nov 2020
 activation_date: N/A
-recertification_date: 27 Sep 2018
+recertification_date: 12 Apr 2024
 center_functional_proponent: Stacey Hirata
 keywords: Medical Design
 // file_library_root_path: "content/coe/mcx/medfac/Library/" 

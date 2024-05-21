@@ -13,7 +13,7 @@ er_number: AR 405-16
 er_link: https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/r405-16_Web_FINAL.pdf
 er_publication_date: 29 Sep 2016
 activation_date: N/A
-recertification_date: 16 Aug 2017
+recertification_date: 19 Dec 2023
 center_functional_proponent: Paula Johnson-Muic
 keywords: Homeowners Assistance
 // file_library_root_path: "content/coe/mcx/hap/Library/" 

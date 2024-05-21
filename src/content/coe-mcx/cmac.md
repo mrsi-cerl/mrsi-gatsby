@@ -13,7 +13,7 @@ er_number: No ER established yet
 er_link: https://mrsi.erdc.dren.mil/404.html
 er_publication_date: 7 Dec 1994; Amended 11 Sep 2007
 activation_date: 07 Dec 1994
-recertification_date: 10 Jan 2019
+recertification_date: 27 Mar 2024
 center_functional_proponent: Tom Smith / Eric Bush
 keywords: Curation
 // file_library_root_path: "content/coe/mcx/cmac/Library/" 

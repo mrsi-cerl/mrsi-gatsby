@@ -13,7 +13,7 @@ er_number: ER1110-1-8168
 er_link: https://www.publications.usace.army.mil/Portals/76/Users/182/86/2486/ER_1110-1-8168.pdf?ver=0LVnBonlM5GQH764UYj2eQ%3d%3d
 er_publication_date: 30 Apr 2022
 activation_date: N/A
-recertification_date: 12 Apr 2018
+recertification_date: 27 Mar 2024
 center_functional_proponent: Pete Perez
 keywords: Civil Works Navigation Design
 // file_library_root_path: "content/coe/mcx/indc/Library/"

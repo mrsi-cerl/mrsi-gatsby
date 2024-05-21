@@ -10,7 +10,7 @@ center_poc_phone_number: ☎ (503) 808 4954
 hq_poc_name: Dan Jensen
 hq_division: E&C
 activation_date: 13 Dec 2012
-recertification_date: 31 Jan 2018
+recertification_date: 27 Feb 2024
 center_functional_proponent: Pete Perez
 keywords: Welding
 // file_library_root_path: "content/coe/tcx/wmtcx/Library/" 

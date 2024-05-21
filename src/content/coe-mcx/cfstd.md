@@ -13,7 +13,7 @@ er_number: ER1110-3-113
 er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_1110-3-113.pdf
 er_publication_date: 21 Apr 2016
 activation_date:  06 Mar 2006
-recertification_date: 01 Mar 2018
+recertification_date: 15 Nov 2023
 center_functional_proponent: Pete Perez
 keywords: Army design standardization
 // file_library_root_path: "content/coe/mcx/cfstd/Library/" 

@@ -10,7 +10,7 @@ center_poc_phone_number: ☎ (603) 646-4106
 hq_poc_name: Jacob Watts
 hq_division: E&C
 activation_date: N/A
-recertification_date: 31 Jan 2018
+recertification_date: 29 Nov 2023
 center_functional_proponent: Pete Perez
 keywords: Civil Works GIS
 // file_library_root_path: "content/coe/tcx/wrrst/Library/" 

@@ -13,7 +13,7 @@ er_number: ER 1110-34-1
 er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_1110-34-1.pdf?ver=xkwoJrVubxBVuG3qnoJ44A%3d%3d
 er_publication_date: 31 Oct 2016
 activation_date: 01 Jan 1990
-recertification_date: 31 Jan 2018
+recertification_date: 4 Apr 2024
 center_functional_proponent: Pete Perez
 keywords: Airfields and pavements and roads
 // file_library_root_path: "content/coe/mcx/tsmcx/Library/" 

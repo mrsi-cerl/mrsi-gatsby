@@ -13,7 +13,7 @@ er_number: No ER established yet
 er_link: https://mrsi.erdc.dren.mil/404.html
 er_publication_date: N/A
 activation_date: 2002 as DX, 2007 as MCX
-recertification_date: 22 Mar 2018
+recertification_date: 4 Apr 2024
 center_functional_proponent: Pete Perez
 keywords: Cost Engineering
 // file_library_root_path: "content/coe/mcx/cecoe/Library/" 

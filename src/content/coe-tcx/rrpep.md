@@ -13,7 +13,7 @@ er_number: Title 10 USC §18240
 er_link: https://www.govinfo.gov/content/pkg/USCODE-2009-title10/pdf/USCODE-2009-title10-subtitleE-partV-chap1803-sec18240.pdf
 er_publication_date: N/A
 activation_date: N/A
-recertification_date: 04 Dec 2018
+recertification_date: 16 May 2024
 center_functional_proponent: Paula Johnson-Muic
 keywords: Army Reserve Property Exchange
 // file_library_root_path: "content/coe/tcx/rrpep/Library/" 

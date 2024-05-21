@@ -10,7 +10,7 @@ center_poc_phone_number: ☎ (540) 665-3632
 hq_poc_name: John Wilkus
 hq_division: E&C
 activation_date: N/A
-recertification_date: 08 Mar 2018
+recertification_date: 24 Jan 2024
 center_functional_proponent: Pete Perez
 keywords: Hanger Fire Protection
 // file_library_root_path: "content/coe/tcx/fp/Library/" 
