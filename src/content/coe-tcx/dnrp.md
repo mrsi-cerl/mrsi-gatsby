@@ -7,11 +7,11 @@ center_type: TCX
 website: https://www.nab.usace.army.mil/Business-With-Us/Real-Estate/DNRP/
 center_poc_name: Mike Schaetzle
 center_poc_phone_number: ☎ (410) 962-4177
-hq_poc_name: William Mysliwiec / Darvin Smith
+hq_poc_name: Bobby L. Roberts
 hq_division: RE
 activation_date: 01 Jun 1987
 recertification_date: 15 Aug 2023
-center_functional_proponent: Brenda Johnson-Turner
+center_functional_proponent: Paula Johnson-Muic
 keywords: Relocate DoD Civilians
 // file_library_root_path: "content/coe/tcx/dnrp/Library/" 
 page_last_reviewed: 1 January 1970 
