@@ -4,7 +4,7 @@ title: Critical Infrastructure Cybersecurity UCIC
 name_of_center: Critical Infrastructure Cybersecurity UCIC
 place_of_center: SWL
 center_type: MCX
-website: https://wiki.usace.army.mil/index.php?title=SWD:_Critical_Infrastructure_Cybersecurity_Mandatory_Center_of_Expertise&redirect=no
+website: https://usace.dps.mil/sites/KMP-UCIC?title=SWD:_Critical_Infrastructure_Cybersecurity_Mandatory_Center_of_Expertise&redirect=no
 center_poc_name: Phil Copeland
 center_poc_phone_number: ☎ (501) 340-1777
 hq_poc_name: Meg Gaffney-Smith
