@@ -14112,7 +14112,7 @@
 },
 {
 "name": "Library",
-"LastModified": "05/15/2024 15:07:29",
+"LastModified": "06/04/2024 07:19:52",
 "Key": "content/Furniture/furniture_home_page/Library",
 "extension": "",
 "Size": ""
@@ -14144,6 +14144,13 @@
 "Key": "content/Furniture/furniture_home_page/Library/USACE HNC Mission Assignment ER 10-1-22 Nov 2018.pdf",
 "extension": ".pdf",
 "Size": "440286"
+},
+{
+"name": "USACE Standard FFE Nomenclature_Feb 24.pdf",
+"LastModified": "05/29/2024 14:24:00",
+"Key": "content/Furniture/furniture_home_page/Library/USACE Standard FFE Nomenclature_Feb 24.pdf",
+"extension": ".pdf",
+"Size": "1966064"
 },
 {
 "name": "MILCON",
