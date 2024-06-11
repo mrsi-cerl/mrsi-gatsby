@@ -21,9 +21,9 @@ page_last_reviewed: 1 January 1970
 slug: /coe/mcx/cicu
 ---
 
-## About 
+## About  
 
 The USACE Critical Infrastructure Cybersecurity (UCIC) MCX mission is to assure that new and existing projects and facilities with control
 systems that are owned and operated by USACE are secured and authorized according to applicable DoD and Army regulations. The center serves to protect control systems throughout the system development life cycle from internal and external cyber threats as well as to enable the systems to obtain an Authority to Operate (ATO).
 
-UCIC has a new <a href="https://usace.dps.mil/sites/KMP-UCIC" target="blank">Knowledge Management Portal</a> that is available for ALL AUTHENTICATED USERS.  This KMP has general information, our contact information, and will hopefully provide the answers to the easy questions.  
+UCIC has a new <a href="https://usace.dps.mil/sites/KMP-UCIC" target="blank">Knowledge Management Portal</a> that is available for ALL AUTHENTICATED USERS. This KMP has general information, our contact information, and will hopefully provide the answers to the easy questions.  
