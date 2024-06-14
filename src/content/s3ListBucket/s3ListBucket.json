@@ -259,7 +259,7 @@
 },
 {
 "name": "Waiver",
-"LastModified": "06/11/2024 11:40:49",
+"LastModified": "06/11/2024 11:41:21",
 "Key": "content/cos/Waiver",
 "extension": "",
 "Size": ""
@@ -9870,7 +9870,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/21/2023 16:06:12",
+"LastModified": "06/14/2024 10:26:37",
 "Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -9884,7 +9884,7 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "03/23/2023 11:09:26",
+"LastModified": "06/14/2024 10:28:07",
 "Key": "content/cos/sas/bn-bde-hq/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -9898,7 +9898,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "03/23/2023 11:09:29",
+"LastModified": "06/14/2024 10:25:14",
 "Key": "content/cos/sas/bn-bde-hq/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -9974,67 +9974,39 @@
 "Size": "729069"
 },
 {
-"name": "Battalion Headquarters wClassrooms_Large.pdf",
-"LastModified": "09/15/2023 14:03:30",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Battalion Headquarters wClassrooms_Large.pdf",
+"name": "DD1391_BDE Headquarters_Large_FY 22_20240614.pdf",
+"LastModified": "06/14/2024 10:16:00",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/DD1391_BDE Headquarters_Large_FY 22_20240614.pdf",
 "extension": ".pdf",
-"Size": "21319"
+"Size": "24236"
 },
 {
-"name": "Battalion Headquarters wClassrooms_Medium.pdf",
-"LastModified": "09/15/2023 14:14:28",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Battalion Headquarters wClassrooms_Medium.pdf",
+"name": "DD1391_BDE Headquarters_Medium_FY 22_20240614.pdf",
+"LastModified": "06/14/2024 10:16:00",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/DD1391_BDE Headquarters_Medium_FY 22_20240614.pdf",
 "extension": ".pdf",
-"Size": "18434"
+"Size": "43342"
 },
 {
-"name": "Battalion Headquarters wClassrooms_Small.pdf",
-"LastModified": "09/15/2023 14:19:04",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Battalion Headquarters wClassrooms_Small.pdf",
+"name": "DD1391_BDE Headquarters_Small_FY 22_20240614.pdf",
+"LastModified": "06/14/2024 10:16:00",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/DD1391_BDE Headquarters_Small_FY 22_20240614.pdf",
 "extension": ".pdf",
-"Size": "18360"
+"Size": "44617"
 },
 {
-"name": "Battalion Headquarters wClassrooms_XLarge.pdf",
-"LastModified": "09/15/2023 14:24:23",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Battalion Headquarters wClassrooms_XLarge.pdf",
+"name": "DD1391_BDE Headquarters_XLarge_FY 22_20240614.pdf",
+"LastModified": "06/14/2024 10:16:00",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/DD1391_BDE Headquarters_XLarge_FY 22_20240614.pdf",
 "extension": ".pdf",
-"Size": "18410"
+"Size": "43356"
 },
 {
-"name": "Brigade Headquarters_Large.pdf",
-"LastModified": "09/15/2023 14:29:09",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Brigade Headquarters_Large.pdf",
+"name": "DD1391_BDE Headquarters_XSmall_FY 22_20240614.pdf",
+"LastModified": "06/14/2024 10:16:00",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/DD1391_BDE Headquarters_XSmall_FY 22_20240614.pdf",
 "extension": ".pdf",
-"Size": "19892"
-},
-{
-"name": "Brigade Headquarters_Medium.pdf",
-"LastModified": "09/15/2023 14:34:28",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Brigade Headquarters_Medium.pdf",
-"extension": ".pdf",
-"Size": "19806"
-},
-{
-"name": "Brigade Headquarters_Small.pdf",
-"LastModified": "09/15/2023 15:35:42",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Brigade Headquarters_Small.pdf",
-"extension": ".pdf",
-"Size": "19824"
-},
-{
-"name": "Brigade Headquarters_XLarge.pdf",
-"LastModified": "09/15/2023 15:40:37",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Brigade Headquarters_XLarge.pdf",
-"extension": ".pdf",
-"Size": "19795"
-},
-{
-"name": "Brigade Headquarters_XSmall.pdf",
-"LastModified": "09/15/2023 15:44:54",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/Brigade Headquarters_XSmall.pdf",
-"extension": ".pdf",
-"Size": "19822"
+"Size": "43368"
 },
 {
 "name": "BDE BN CORRECTED FINAL.pdf",
@@ -10044,11 +10016,11 @@
 "Size": "5059119"
 },
 {
-"name": "LEED v4 Score Card - BN-BDE HQ.pdf",
-"LastModified": "03/04/2021 09:44:23",
-"Key": "content/cos/sas/bn-bde-hq/Library/Misc. Documents/LEED v4 Score Card - BN-BDE HQ.pdf",
-"extension": ".pdf",
-"Size": "100207"
+"name": "LEED v4 Score Card BDE BN HQ 20240614.xlsx",
+"LastModified": "06/14/2024 10:16:00",
+"Key": "content/cos/sas/bn-bde-hq/Library/Misc. Documents/LEED v4 Score Card BDE BN HQ 20240614.xlsx",
+"extension": ".xlsx",
+"Size": "29529"
 },
 {
 "name": "VE Study - BN_BDE HQ_FEB 2020.pdf",
@@ -10058,11 +10030,11 @@
 "Size": "17032856"
 },
 {
-"name": "BDE-BN_HQ_Std_Dgn_Rev_6.0.pdf",
-"LastModified": "04/15/2021 11:40:14",
-"Key": "content/cos/sas/bn-bde-hq/Library/Standard Designs/BDE-BN_HQ_Std_Dgn_Rev_6.0.pdf",
+"name": "BDE-BN HQ Std_Dgn_Rev_6.1 dated 20240614.pdf",
+"LastModified": "06/14/2024 10:18:00",
+"Key": "content/cos/sas/bn-bde-hq/Library/Standard Designs/BDE-BN HQ Std_Dgn_Rev_6.1 dated 20240614.pdf",
 "extension": ".pdf",
-"Size": "2088557"
+"Size": "2623560"
 },
 {
 "name": "Library",
