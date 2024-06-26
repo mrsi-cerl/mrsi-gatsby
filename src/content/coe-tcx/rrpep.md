@@ -1,10 +1,10 @@
 ---
 doc_type: coe_ctx_page 
-title: Reserve Real Property Exchange Program
-name_of_center: Reserve Real Property Exchange Program
+title: Reserves Real Property Exchange Program
+name_of_center: Reserves Real Property Exchange Program
 place_of_center: SPK
 center_type: MCX
-website: https://www.spk.usace.army.mil/Portals/12/documents/small_business/Virtual%20BOOH%202021/Real_Estate_Division_Information.pdf?ver=noLd6tefpdqaoI6ccsSUCg%3D%3D
+website: https://www.sas.usace.army.mil/About/Divisions-and-Offices/Real-Estate-Division/Real-Property-Exchange-Program-RPX/
 center_poc_name: Enrique Godinez
 center_poc_phone_number: ☎ (503) 961-5890
 hq_poc_name: Enrique Godinez
