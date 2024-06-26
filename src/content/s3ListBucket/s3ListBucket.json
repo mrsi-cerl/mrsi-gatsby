@@ -11669,7 +11669,7 @@
 },
 {
 "name": "Archives",
-"LastModified": "03/23/2023 11:10:00",
+"LastModified": "06/26/2024 15:04:50",
 "Key": "content/cos/swf/gpw/Library/Archives",
 "extension": "",
 "Size": ""
@@ -11690,10 +11690,17 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "03/23/2023 11:10:03",
+"LastModified": "06/26/2024 15:04:58",
 "Key": "content/cos/swf/gpw/Library/Standard Designs",
 "extension": "",
 "Size": ""
+},
+{
+"name": "GPW RM By RM 20120620.pdf",
+"LastModified": "05/20/2015 15:47:30",
+"Key": "content/cos/swf/gpw/Library/Archives/GPW RM By RM 20120620.pdf",
+"extension": ".pdf",
+"Size": "1243369"
 },
 {
 "name": "LCCAS.xlsx",
@@ -11766,11 +11773,11 @@
 "Size": "5355305"
 },
 {
-"name": "GPW RM By RM 20120620.pdf",
-"LastModified": "05/20/2015 15:47:30",
-"Key": "content/cos/swf/gpw/Library/Standard Designs/GPW RM By RM 20120620.pdf",
+"name": "GPW RM By RM 20240626.pdf",
+"LastModified": "06/26/2024 15:03:00",
+"Key": "content/cos/swf/gpw/Library/Standard Designs/GPW RM By RM 20240626.pdf",
 "extension": ".pdf",
-"Size": "1243369"
+"Size": "898829"
 },
 {
 "name": "Library",
