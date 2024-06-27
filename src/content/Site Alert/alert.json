@@ -16,7 +16,7 @@
   {
     "startDate": "17:00  06/26/2024",
     "endDate": "20:01  06/27/2024",
-    "message": "The servers for all of the Wizards will be down this Thursday, June 27th starting at 5:00pm CDT due to a scheduled power outage to shore up our backup power systems. The Wizards will not be accessible during the outage, which is expected to last about an hour. ** UPDATE ** The work is taking longer than expected, no new ETA has been given. We apologize for the inconvenience.",
+    "message": "The servers for all of the Wizards will be down this Thursday, June 27th starting at 5:00pm CDT due to a scheduled power outage to shore up our backup power systems. The Wizards will not be accessible during the outage, which is expected to last about an hour. <b>** UPDATE ** The work is taking longer than expected, no new ETA has been given.</b> We sincerely apologize for the inconvenience.",
     "level": "warning",
     "title": "Power Outage"
   },
