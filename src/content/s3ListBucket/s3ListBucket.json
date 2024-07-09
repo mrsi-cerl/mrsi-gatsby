@@ -56,7 +56,7 @@
 },
 {
 "name": "PDRS",
-"LastModified": "08/09/2023 10:05:30",
+"LastModified": "07/09/2024 09:20:58",
 "Key": "content/PDRS",
 "extension": "",
 "Size": ""
@@ -14552,6 +14552,13 @@
 "Size": ""
 },
 {
+"name": "FY28 Guidance & Templates",
+"LastModified": "07/09/2024 09:21:59",
+"Key": "content/PDRS/FY28 Guidance & Templates",
+"extension": "",
+"Size": ""
+},
+{
 "name": "AAR",
 "LastModified": "08/08/2023 17:53:34",
 "Key": "content/PDRS/Archive/AAR",
@@ -16104,6 +16111,20 @@
 "Key": "content/PDRS/FY27 Guidance & Templates/Instructions for FY27 Army MILCON Code 2.pdf",
 "extension": ".pdf",
 "Size": "1088555"
+},
+{
+"name": "FY28 MILCON Flowchart.pdf",
+"LastModified": "07/08/2024 12:51:00",
+"Key": "content/PDRS/FY28 Guidance & Templates/FY28 MILCON Flowchart.pdf",
+"extension": ".pdf",
+"Size": "337418"
+},
+{
+"name": "FY28 MILCON Timeline.pdf",
+"LastModified": "07/08/2024 12:51:00",
+"Key": "content/PDRS/FY28 Guidance & Templates/FY28 MILCON Timeline.pdf",
+"extension": ".pdf",
+"Size": "283030"
 },
 {
 "name": "CX-KR Documents",
