@@ -24,17 +24,17 @@ Additional guidance and templates can be found at the websites linked in the sid
 ### To Create a New MRSI Wizard Account:
 1. Create a <a href="https://secure.login.gov/sign_up/enter_email" target="_blank">Login.gov</a> account _using your official work email*_.
 2. Log into the Wizard using <a href="https://wizards.mrsi.erdc.dren.mil/">this link</a> (or the Wizard image to the left of this text).
-3. Then email the [Code 2 Review Team](mailto:TDL-CEMP-IA-Code2ReviewTeam@usace.onmicrosoft.com?subject=Request%20for%20Wizard%20Project%20Assignment) for project assignment (or request access from PDT Members already assigned to the project).</br>
+3. Then email the [Code 2 Review Team](mailto:DLL-CELRL-Code-2-Review-Team@usace.army.mil?subject=Request%20for%20Wizard%20Project%20Assignment) for project assignment (or request access from PDT Members already assigned to the project).</br>
 <b>•	Please include Project Number, Project Location, and Project Title in the request.</b>
 
-<b>*AE Firms: Extra step _after an account is created_:</b> Send an email to the [Code 2 Review Team](mailto:TDL-CEMP-IA-Code2ReviewTeam@usace.onmicrosoft.com?subject=Code%202%20Support%20) with the firm's USACE POC included to confirm the need for project assignment. <b>Please also include Project Number, Project Location, and Project Title in the request.</b>
+<b>*AE Firms: Extra step _after an account is created_:</b> Send an email to the [Code 2 Review Team](mailto:DLL-CELRL-Code-2-Review-Team@usace.army.mil?subject=Code%202%20Support%20) with the firm's USACE POC included to confirm the need for project assignment. <b>Please also include Project Number, Project Location, and Project Title in the request.</b>
 
 </div>
 
 <div style="clear: both">
 
 ## Questions?
-**Process or Project Specific Questions:** Contact the [Code 2 Review Team](mailto:TDL-CEMP-IA-Code2ReviewTeam@usace.onmicrosoft.com?subject=Code%202%20Support%20).</br>
+**Process or Project Specific Questions:** Contact the [Code 2 Review Team](mailto:DLL-CELRL-Code-2-Review-Team@usace.army.mil?subject=Code%202%20Support%20).</br>
 **Tech support for the MRSI Wizard:** Contact the [MRSI support Team](mailto:mrsi_support@usace.army.mil).
 
 </div>
