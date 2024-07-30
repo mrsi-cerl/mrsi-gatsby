@@ -56,7 +56,7 @@
 },
 {
 "name": "PDRS",
-"LastModified": "07/09/2024 09:20:58",
+"LastModified": "07/30/2024 13:37:00",
 "Key": "content/PDRS",
 "extension": "",
 "Size": ""
@@ -14525,36 +14525,15 @@
 },
 {
 "name": "Archive",
-"LastModified": "08/08/2023 17:55:44",
+"LastModified": "07/30/2024 13:36:13",
 "Key": "content/PDRS/Archive",
 "extension": "",
 "Size": ""
 },
 {
-"name": "FY25 Guidance & Templates",
-"LastModified": "08/08/2023 17:59:01",
-"Key": "content/PDRS/FY25 Guidance & Templates",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY26 Guidance & Templates",
-"LastModified": "10/10/2023 09:49:08",
-"Key": "content/PDRS/FY26 Guidance & Templates",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY27 Guidance & Templates",
-"LastModified": "10/10/2023 09:49:28",
-"Key": "content/PDRS/FY27 Guidance & Templates",
-"extension": "",
-"Size": ""
-},
-{
-"name": "FY28 Guidance & Templates",
-"LastModified": "07/09/2024 09:21:59",
-"Key": "content/PDRS/FY28 Guidance & Templates",
+"name": "MCA-AFH Code 2 Guidance and Templates",
+"LastModified": "07/30/2024 13:37:28",
+"Key": "content/PDRS/MCA-AFH Code 2 Guidance and Templates",
 "extension": "",
 "Size": ""
 },
@@ -14562,6 +14541,34 @@
 "name": "AAR",
 "LastModified": "08/08/2023 17:53:34",
 "Key": "content/PDRS/Archive/AAR",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY25 Guidance & Templates",
+"LastModified": "08/08/2023 17:59:01",
+"Key": "content/PDRS/Archive/FY25 Guidance & Templates",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY26 Guidance & Templates",
+"LastModified": "10/10/2023 09:49:08",
+"Key": "content/PDRS/Archive/FY26 Guidance & Templates",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY27 Guidance & Templates",
+"LastModified": "10/10/2023 09:49:28",
+"Key": "content/PDRS/Archive/FY27 Guidance & Templates",
+"extension": "",
+"Size": ""
+},
+{
+"name": "FY28 Guidance & Templates",
+"LastModified": "07/09/2024 09:21:59",
+"Key": "content/PDRS/Archive/FY28 Guidance & Templates",
 "extension": "",
 "Size": ""
 },
@@ -14690,6 +14697,104 @@
 "Key": "content/PDRS/Archive/AAR/FY 13 AAR/presentation-9-wick-ausa-189-1-presentation.pptx",
 "extension": ".pptx",
 "Size": "4437727"
+},
+{
+"name": "1_Instructions for FY25 Army MILCON Code 2.pdf",
+"LastModified": "08/19/2022 15:38:00",
+"Key": "content/PDRS/Archive/FY25 Guidance & Templates/1_Instructions for FY25 Army MILCON Code 2.pdf",
+"extension": ".pdf",
+"Size": "3181845"
+},
+{
+"name": "Appendix F_FY25 ENG 3086 Instructions.pdf",
+"LastModified": "08/19/2022 15:38:00",
+"Key": "content/PDRS/Archive/FY25 Guidance & Templates/Appendix F_FY25 ENG 3086 Instructions.pdf",
+"extension": ".pdf",
+"Size": "452619"
+},
+{
+"name": "Appendix_E_FY25_Acquisition_Strategy_Template.docx",
+"LastModified": "10/21/2022 14:44:10",
+"Key": "content/PDRS/Archive/FY25 Guidance & Templates/Appendix_E_FY25_Acquisition_Strategy_Template.docx",
+"extension": ".docx",
+"Size": "27279"
+},
+{
+"name": "FY25 PDR Desktop Reference.pdf",
+"LastModified": "07/25/2022 09:42:18",
+"Key": "content/PDRS/Archive/FY25 Guidance & Templates/FY25 PDR Desktop Reference.pdf",
+"extension": ".pdf",
+"Size": "373742"
+},
+{
+"name": "Late Add FY25 Timeline.pdf",
+"LastModified": "01/09/2023 10:44:50",
+"Key": "content/PDRS/Archive/FY25 Guidance & Templates/Late Add FY25 Timeline.pdf",
+"extension": ".pdf",
+"Size": "344629"
+},
+{
+"name": "Supplemental Instructions for Late Add FY25s.pdf",
+"LastModified": "01/09/2023 10:44:50",
+"Key": "content/PDRS/Archive/FY25 Guidance & Templates/Supplemental Instructions for Late Add FY25s.pdf",
+"extension": ".pdf",
+"Size": "345492"
+},
+{
+"name": "Appendix F_FY26 Acquisition Strategy Template.docx",
+"LastModified": "04/11/2023 14:48:00",
+"Key": "content/PDRS/Archive/FY26 Guidance & Templates/Appendix F_FY26 Acquisition Strategy Template.docx",
+"extension": ".docx",
+"Size": "27391"
+},
+{
+"name": "Appendix G_ENG 3086 Instructions.pdf",
+"LastModified": "01/08/2024 09:49:26",
+"Key": "content/PDRS/Archive/FY26 Guidance & Templates/Appendix G_ENG 3086 Instructions.pdf",
+"extension": ".pdf",
+"Size": "1444761"
+},
+{
+"name": "Instructions for FY26 Army MILCON Code 2.pdf",
+"LastModified": "04/13/2023 08:44:00",
+"Key": "content/PDRS/Archive/FY26 Guidance & Templates/Instructions for FY26 Army MILCON Code 2.pdf",
+"extension": ".pdf",
+"Size": "1873103"
+},
+{
+"name": "Appendix F_FY27 Acquisition Strategy Template.docx",
+"LastModified": "07/07/2023 13:24:00",
+"Key": "content/PDRS/Archive/FY27 Guidance & Templates/Appendix F_FY27 Acquisition Strategy Template.docx",
+"extension": ".docx",
+"Size": "27393"
+},
+{
+"name": "Appendix G_ENG 3086 Instructions.pdf",
+"LastModified": "01/08/2024 09:50:02",
+"Key": "content/PDRS/Archive/FY27 Guidance & Templates/Appendix G_ENG 3086 Instructions.pdf",
+"extension": ".pdf",
+"Size": "1444761"
+},
+{
+"name": "Instructions for FY27 Army MILCON Code 2.pdf",
+"LastModified": "07/10/2023 09:55:00",
+"Key": "content/PDRS/Archive/FY27 Guidance & Templates/Instructions for FY27 Army MILCON Code 2.pdf",
+"extension": ".pdf",
+"Size": "1088555"
+},
+{
+"name": "FY28 MILCON Flowchart.pdf",
+"LastModified": "07/08/2024 12:51:00",
+"Key": "content/PDRS/Archive/FY28 Guidance & Templates/FY28 MILCON Flowchart.pdf",
+"extension": ".pdf",
+"Size": "337418"
+},
+{
+"name": "FY28 MILCON Timeline.pdf",
+"LastModified": "07/08/2024 12:51:00",
+"Key": "content/PDRS/Archive/FY28 Guidance & Templates/FY28 MILCON Timeline.pdf",
+"extension": ".pdf",
+"Size": "283030"
 },
 {
 "name": "pdrswizard_pm.pptx",
@@ -16029,102 +16134,32 @@
 "Size": "3089558"
 },
 {
-"name": "1_Instructions for FY25 Army MILCON Code 2.pdf",
-"LastModified": "08/19/2022 15:38:00",
-"Key": "content/PDRS/FY25 Guidance & Templates/1_Instructions for FY25 Army MILCON Code 2.pdf",
-"extension": ".pdf",
-"Size": "3181845"
-},
-{
-"name": "Appendix F_FY25 ENG 3086 Instructions.pdf",
-"LastModified": "08/19/2022 15:38:00",
-"Key": "content/PDRS/FY25 Guidance & Templates/Appendix F_FY25 ENG 3086 Instructions.pdf",
-"extension": ".pdf",
-"Size": "452619"
-},
-{
-"name": "Appendix_E_FY25_Acquisition_Strategy_Template.docx",
-"LastModified": "10/21/2022 14:44:10",
-"Key": "content/PDRS/FY25 Guidance & Templates/Appendix_E_FY25_Acquisition_Strategy_Template.docx",
+"name": "Appendix F_Acquisition Strategy Template.docx",
+"LastModified": "07/30/2024 13:19:00",
+"Key": "content/PDRS/MCA-AFH Code 2 Guidance and Templates/Appendix F_Acquisition Strategy Template.docx",
 "extension": ".docx",
-"Size": "27279"
-},
-{
-"name": "FY25 PDR Desktop Reference.pdf",
-"LastModified": "07/25/2022 09:42:18",
-"Key": "content/PDRS/FY25 Guidance & Templates/FY25 PDR Desktop Reference.pdf",
-"extension": ".pdf",
-"Size": "373742"
-},
-{
-"name": "Late Add FY25 Timeline.pdf",
-"LastModified": "01/09/2023 10:44:50",
-"Key": "content/PDRS/FY25 Guidance & Templates/Late Add FY25 Timeline.pdf",
-"extension": ".pdf",
-"Size": "344629"
-},
-{
-"name": "Supplemental Instructions for Late Add FY25s.pdf",
-"LastModified": "01/09/2023 10:44:50",
-"Key": "content/PDRS/FY25 Guidance & Templates/Supplemental Instructions for Late Add FY25s.pdf",
-"extension": ".pdf",
-"Size": "345492"
-},
-{
-"name": "Appendix F_FY26 Acquisition Strategy Template.docx",
-"LastModified": "04/11/2023 14:48:00",
-"Key": "content/PDRS/FY26 Guidance & Templates/Appendix F_FY26 Acquisition Strategy Template.docx",
-"extension": ".docx",
-"Size": "27391"
+"Size": "27346"
 },
 {
 "name": "Appendix G_ENG 3086 Instructions.pdf",
-"LastModified": "01/08/2024 09:49:26",
-"Key": "content/PDRS/FY26 Guidance & Templates/Appendix G_ENG 3086 Instructions.pdf",
+"LastModified": "07/30/2024 13:21:00",
+"Key": "content/PDRS/MCA-AFH Code 2 Guidance and Templates/Appendix G_ENG 3086 Instructions.pdf",
 "extension": ".pdf",
 "Size": "1444761"
 },
 {
-"name": "Instructions for FY26 Army MILCON Code 2.pdf",
-"LastModified": "04/13/2023 08:44:00",
-"Key": "content/PDRS/FY26 Guidance & Templates/Instructions for FY26 Army MILCON Code 2.pdf",
+"name": "Appendix H DCA_CSRA-Risk Neutral Estimate Guidance.pdf",
+"LastModified": "07/30/2024 13:21:00",
+"Key": "content/PDRS/MCA-AFH Code 2 Guidance and Templates/Appendix H DCA_CSRA-Risk Neutral Estimate Guidance.pdf",
 "extension": ".pdf",
-"Size": "1873103"
+"Size": "1444798"
 },
 {
-"name": "Appendix F_FY27 Acquisition Strategy Template.docx",
-"LastModified": "07/07/2023 13:24:00",
-"Key": "content/PDRS/FY27 Guidance & Templates/Appendix F_FY27 Acquisition Strategy Template.docx",
-"extension": ".docx",
-"Size": "27393"
-},
-{
-"name": "Appendix G_ENG 3086 Instructions.pdf",
-"LastModified": "01/08/2024 09:50:02",
-"Key": "content/PDRS/FY27 Guidance & Templates/Appendix G_ENG 3086 Instructions.pdf",
+"name": "Instructions for Army MILCON Code 2.pdf",
+"LastModified": "07/30/2024 13:21:00",
+"Key": "content/PDRS/MCA-AFH Code 2 Guidance and Templates/Instructions for Army MILCON Code 2.pdf",
 "extension": ".pdf",
-"Size": "1444761"
-},
-{
-"name": "Instructions for FY27 Army MILCON Code 2.pdf",
-"LastModified": "07/10/2023 09:55:00",
-"Key": "content/PDRS/FY27 Guidance & Templates/Instructions for FY27 Army MILCON Code 2.pdf",
-"extension": ".pdf",
-"Size": "1088555"
-},
-{
-"name": "FY28 MILCON Flowchart.pdf",
-"LastModified": "07/08/2024 12:51:00",
-"Key": "content/PDRS/FY28 Guidance & Templates/FY28 MILCON Flowchart.pdf",
-"extension": ".pdf",
-"Size": "337418"
-},
-{
-"name": "FY28 MILCON Timeline.pdf",
-"LastModified": "07/08/2024 12:51:00",
-"Key": "content/PDRS/FY28 Guidance & Templates/FY28 MILCON Timeline.pdf",
-"extension": ".pdf",
-"Size": "283030"
+"Size": "2012711"
 },
 {
 "name": "CX-KR Documents",
