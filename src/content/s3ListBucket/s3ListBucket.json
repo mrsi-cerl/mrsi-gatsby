@@ -14147,17 +14147,10 @@
 },
 {
 "name": "Library",
-"LastModified": "06/04/2024 07:19:52",
+"LastModified": "08/05/2024 10:20:51",
 "Key": "content/Furniture/furniture_home_page/Library",
 "extension": "",
 "Size": ""
-},
-{
-"name": "Furnishings Fact Sheet.pdf",
-"LastModified": "01/05/2024 11:38:00",
-"Key": "content/Furniture/furniture_home_page/Library/Furnishings Fact Sheet.pdf",
-"extension": ".pdf",
-"Size": "944024"
 },
 {
 "name": "HNC Centralized Furnishings Program - Ancillary Buys_Feb 24.pdf",
@@ -14174,9 +14167,23 @@
 "Size": "2114370"
 },
 {
-"name": "USACE HNC Mission Assignment ER 10-1-22 Nov 2018.pdf",
+"name": "HNC Furnishings Fact Sheet.pdf",
+"LastModified": "01/05/2024 11:38:00",
+"Key": "content/Furniture/furniture_home_page/Library/HNC Furnishings Fact Sheet.pdf",
+"extension": ".pdf",
+"Size": "944024"
+},
+{
+"name": "HNC Furniture Construction Standards.pdf",
+"LastModified": "08/05/2024 10:00:00",
+"Key": "content/Furniture/furniture_home_page/Library/HNC Furniture Construction Standards.pdf",
+"extension": ".pdf",
+"Size": "216755"
+},
+{
+"name": "HNC Mission Assignment ER 10-1-22 Nov 2018.pdf",
 "LastModified": "01/12/2024 12:01:00",
-"Key": "content/Furniture/furniture_home_page/Library/USACE HNC Mission Assignment ER 10-1-22 Nov 2018.pdf",
+"Key": "content/Furniture/furniture_home_page/Library/HNC Mission Assignment ER 10-1-22 Nov 2018.pdf",
 "extension": ".pdf",
 "Size": "440286"
 },
