@@ -5,8 +5,8 @@ name_of_center: Control System Cybersecurity
 place_of_center: HNC
 center_type: MCX
 website: http://www.hnc.usace.army.mil/Missions/Centers-of-Expertise
-center_poc_name: Elliott McConnell
-center_poc_phone_number: ☎ (256) 202-0015
+center_poc_name: Ed Nixon
+center_poc_phone_number: ☎ (256) 937-8671
 hq_poc_name: Chris Battisti
 hq_division: MP
 er_number: ER 1110-1-8174
