@@ -7,8 +7,8 @@
     "title": "Network Outage"
   },
   {
-    "startDate": "9:00  05/16/2024",
-    "endDate": "18:00  05/16/2024",
+    "startDate": "9:00  08/15/2024",
+    "endDate": "18:00  08/15/2024",
     "message": "The servers for all of the Wizards will be down late this afternoon (May 16th) for scheduled maintenance starting at 4pm CST until about 6pm CST. File libraries on this site may also be impacted. We apologize for the inconvenience.",
     "level": "info",
     "title": "Server Maintenance"
