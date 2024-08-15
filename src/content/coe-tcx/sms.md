@@ -7,7 +7,8 @@ center_type: TCX
 website: https://www.sms.erdc.dren.mil/
 center_poc_name: Matt Walters
 center_poc_phone_number: ☎ (217) 373-4450
-hq_poc_name: Saeed Goodman (USACE), James M. Livingston (HQDA, G9)
+hq_poc_name: Saeed Goodman (USACE), James M. Livingston (HQDA, G9),
+hq_poc_name2: Richard C. Matkins (HQDA, G9)
 hq_division: IS
 activation_date: N/A
 recertification_date: 01 Feb 2018

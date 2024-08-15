@@ -48,7 +48,12 @@ const CoeCtxPage = ( { data, pageContext } ) => {
     },
     {
       title: "HQ POC",
-      value: ctx.frontmatter.hq_poc_name,
+      value: (
+        <>
+          { ctx.frontmatter.hq_poc_name } <br />
+          { ctx.frontmatter.hq_poc_name2 }
+        </>
+      ),
     },
     {
       title: "HQ Div",
@@ -118,6 +123,7 @@ export const query = graphql`
             center_poc_name
             center_poc_phone_number
             hq_poc_name
+            hq_poc_name2
             hq_division
             activation_date
             recertification_date
