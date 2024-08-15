@@ -7,13 +7,13 @@ center_type: TCX
 website: https://www.sms.erdc.dren.mil/
 center_poc_name: Matt Walters
 center_poc_phone_number: ☎ (217) 373-4450
-hq_poc_name: Saeed Goodman
+hq_poc_name: Saeed Goodman (USACE), James M. Livingston (HQDA, G9)
 hq_division: IS
 activation_date: N/A
 recertification_date: 01 Feb 2018
 center_functional_proponent: Drew White
-keywords: DoD facility assessments
-// file_library_root_path: "content/coe/tcx/sms/Library/" 
+keywords: DoD facility assessments, BUILDER, ESMS
+//file_library_root_path: "content/coe/tcx/sms/Library/" 
 page_last_reviewed: 1 January 1970 
 slug: /coe/tcx/sms
 ---
