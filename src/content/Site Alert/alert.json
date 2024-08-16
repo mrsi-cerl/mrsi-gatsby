@@ -1,7 +1,7 @@
 [
   {
     "startDate": "9:00  08/16/2024",
-    "endDate": "16:00  08/16/2024",
+    "endDate": "14:45  08/16/2024",
     "message": "Our hosting provider is experiencing issues with their network infrastructure. As a result, all MRSI Wizard products are currently unavailable. We will post any updates here as further informatation becomes available.",
     "level": "error",
     "title": "Network Outage"
