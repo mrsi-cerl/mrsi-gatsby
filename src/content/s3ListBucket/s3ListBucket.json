@@ -8624,7 +8624,7 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "08/12/2024 14:36:45",
+"LastModified": "08/12/2024 14:37:41",
 "Key": "content/cos/poh/slq/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -9555,14 +9555,14 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "06/26/2024 12:30:10",
+"LastModified": "08/20/2024 13:19:41",
 "Key": "content/cos/sam/trw/Library/Standard Designs",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "06/26/2024 12:30:10",
+"LastModified": "08/20/2024 13:19:16",
 "Key": "content/cos/sam/trw/Library/Archived/Standard Designs",
 "extension": "",
 "Size": ""
@@ -9580,6 +9580,34 @@
 "Key": "content/cos/sam/trw/Library/Archived/Standard Designs/2024-02 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
 "extension": ".pdf",
 "Size": "464104"
+},
+{
+"name": "2024-06 COS RDS.pdf",
+"LastModified": "06/24/2024 11:07:00",
+"Key": "content/cos/sam/trw/Library/Archived/Standard Designs/2024-06 COS RDS.pdf",
+"extension": ".pdf",
+"Size": "192973"
+},
+{
+"name": "2024-06 FY21 EXTRA LARGE Floor Plan.dwg",
+"LastModified": "06/24/2024 11:11:00",
+"Key": "content/cos/sam/trw/Library/Archived/Standard Designs/2024-06 FY21 EXTRA LARGE Floor Plan.dwg",
+"extension": ".dwg",
+"Size": "2361019"
+},
+{
+"name": "2024-06 FY21 EXTRA LARGE STANDARD DESIGN.pdf",
+"LastModified": "06/24/2024 11:11:00",
+"Key": "content/cos/sam/trw/Library/Archived/Standard Designs/2024-06 FY21 EXTRA LARGE STANDARD DESIGN.pdf",
+"extension": ".pdf",
+"Size": "6312201"
+},
+{
+"name": "2024-06 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
+"LastModified": "06/24/2024 11:11:00",
+"Key": "content/cos/sam/trw/Library/Archived/Standard Designs/2024-06 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
+"extension": ".pdf",
+"Size": "466464"
 },
 {
 "name": "Army_Standard_Approval_Memo_HGR_June_2021.pdf",
@@ -9610,32 +9638,11 @@
 "Size": "23687"
 },
 {
-"name": "2024-06 COS RDS.pdf",
-"LastModified": "06/24/2024 11:07:00",
-"Key": "content/cos/sam/trw/Library/Standard Designs/2024-06 COS RDS.pdf",
-"extension": ".pdf",
-"Size": "192973"
-},
-{
-"name": "2024-06 FY21 EXTRA LARGE Floor Plan.dwg",
-"LastModified": "06/24/2024 11:11:00",
-"Key": "content/cos/sam/trw/Library/Standard Designs/2024-06 FY21 EXTRA LARGE Floor Plan.dwg",
-"extension": ".dwg",
-"Size": "2361019"
-},
-{
 "name": "2024-06 FY21 EXTRA LARGE SITE.dwg",
 "LastModified": "06/24/2024 11:08:00",
 "Key": "content/cos/sam/trw/Library/Standard Designs/2024-06 FY21 EXTRA LARGE SITE.dwg",
 "extension": ".dwg",
 "Size": "56436"
-},
-{
-"name": "2024-06 FY21 EXTRA LARGE STANDARD DESIGN.pdf",
-"LastModified": "06/24/2024 11:11:00",
-"Key": "content/cos/sam/trw/Library/Standard Designs/2024-06 FY21 EXTRA LARGE STANDARD DESIGN.pdf",
-"extension": ".pdf",
-"Size": "6312201"
 },
 {
 "name": "2024-06 FY21 MEDIUM STANDARD DESIGN.pdf",
@@ -9645,11 +9652,32 @@
 "Size": "12915315"
 },
 {
-"name": "2024-06 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
-"LastModified": "06/24/2024 11:11:00",
-"Key": "content/cos/sam/trw/Library/Standard Designs/2024-06 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
+"name": "2024-08 COS RDS.pdf",
+"LastModified": "08/20/2024 08:47:00",
+"Key": "content/cos/sam/trw/Library/Standard Designs/2024-08 COS RDS.pdf",
 "extension": ".pdf",
-"Size": "466464"
+"Size": "255635"
+},
+{
+"name": "2024-08 FY21 EXTRA LARGE FloorPlan-EXPORT-L1.dwg",
+"LastModified": "08/20/2024 09:53:00",
+"Key": "content/cos/sam/trw/Library/Standard Designs/2024-08 FY21 EXTRA LARGE FloorPlan-EXPORT-L1.dwg",
+"extension": ".dwg",
+"Size": "2150381"
+},
+{
+"name": "2024-08 FY21 EXTRA LARGE STANDARD DESIGN.pdf",
+"LastModified": "08/20/2024 09:53:00",
+"Key": "content/cos/sam/trw/Library/Standard Designs/2024-08 FY21 EXTRA LARGE STANDARD DESIGN.pdf",
+"extension": ".pdf",
+"Size": "8620888"
+},
+{
+"name": "2024-08 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
+"LastModified": "08/20/2024 09:53:00",
+"Key": "content/cos/sam/trw/Library/Standard Designs/2024-08 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
+"extension": ".pdf",
+"Size": "463421"
 },
 {
 "name": "AVN-COS FY21 MEDIUM STANDARD DESIGN-Floor Plan - 01_Floor Plan_All_EXP.dwg",
