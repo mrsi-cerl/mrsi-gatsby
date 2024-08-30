@@ -5,8 +5,8 @@ name_of_center: Protective Design Center (PDC)
 place_of_center: NWO
 center_type: MCX
 website: https://www.nwo.usace.army.mil/pdc/home/
-center_poc_name: Curt Betts
-center_poc_phone_number: ☎ (402) 995-2376
+center_poc_name: John R. Galloway
+center_poc_phone_number: ☎ (402) 995-2466
 hq_poc_name: Rich Ludwitzke / Christopher Westbrook
 hq_division: E&C
 er_number: ER 1110-1-8175
