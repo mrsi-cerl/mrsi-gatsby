@@ -175,17 +175,45 @@
 },
 {
 "name": "Library",
-"LastModified": "04/18/2024 12:44:13",
+"LastModified": "09/03/2024 14:49:39",
 "Key": "content/coe/tcx/sms/Library",
 "extension": "",
 "Size": ""
 },
 {
-"name": "Example File.pdf",
-"LastModified": "02/12/2019 09:25:28",
-"Key": "content/coe/tcx/sms/Library/Example File.pdf",
+"name": "SMS and ESMS Army Inventory and Assessment Guide",
+"LastModified": "09/03/2024 14:26:12",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Current 1 June 2019 to present",
+"LastModified": "09/03/2024 14:26:05",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Current 1 June 2019 to present",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Under Construction",
+"LastModified": "09/03/2024 14:26:13",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Under Construction",
+"extension": "",
+"Size": ""
+},
+{
+"name": "ARMY_BUILDER_SMS-Manual_01 June 2019 to Present.pdf",
+"LastModified": "09/03/2024 14:18:23",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Current 1 June 2019 to present/ARMY_BUILDER_SMS-Manual_01 June 2019 to Present.pdf",
 "extension": ".pdf",
-"Size": "414295"
+"Size": "11483710"
+},
+{
+"name": "UNDER CONSTRUCTION_ARMY_BUILDER_SMS-Manual_20240617-updated.links.pdf",
+"LastModified": "09/03/2024 14:18:50",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Under Construction/UNDER CONSTRUCTION_ARMY_BUILDER_SMS-Manual_20240617-updated.links.pdf",
+"extension": ".pdf",
+"Size": "15578533"
 },
 {
 "name": "cos_home_page",
