@@ -10,7 +10,7 @@ center_poc_phone_number: ☎ (217) 373-3364
 hq_poc_name: Scott Wick
 hq_division: E&C
 activation_date: N/A
-recertification_date: 31 Jan 2018
+recertification_date: 10 Jun 2024
 center_functional_proponent: Pete Perez
 keywords: Paint and Coatings
 // file_library_root_path: "content/coe/tcx/ptc/Library/" 

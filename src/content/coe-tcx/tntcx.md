@@ -10,7 +10,7 @@ center_poc_phone_number: ☎ (505) 342-3671
 hq_poc_name: Curtis Sedlacek
 hq_division: CW
 activation_date: 24 Nov 2015
-recertification_date: 01 May 2021
+recertification_date: 31 May 2024
 center_functional_proponent: Stacy Brown
 keywords: Tribal Nations
 // file_library_root_path: "content/coe/tcx/tntcx/Library/" 

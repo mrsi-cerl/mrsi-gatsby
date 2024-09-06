@@ -10,7 +10,7 @@ center_poc_phone_number: ☎ (601) 634-4485
 hq_poc_name: Jason Fairchild
 hq_division: E&C
 activation_date: N/A
-recertification_date: 26 Jan 2018
+recertification_date: 11 Jul 2024
 center_functional_proponent: Pete Perez
 keywords: CADD
 // file_library_root_path: "content/coe/tcx/cbtc/Library/" 

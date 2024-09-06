@@ -13,7 +13,7 @@ er_number: No ER established yet
 er_link: https://mrsi.erdc.dren.mil/404.html
 er_publication_date: 01 Jun 2006
 activation_date: 01 Nov 1994
-recertification_date: 28 Dec 2017
+recertification_date: 14 May 2024
 center_functional_proponent: Tom Smith
 keywords: Sign Standards
 // file_library_root_path: "content/coe/mcx/ssp/Library/" 

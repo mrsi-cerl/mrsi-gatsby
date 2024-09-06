@@ -10,7 +10,7 @@ center_poc_phone_number: ☎ (251) 694-3406
 hq_poc_name: Marty Goff
 hq_division: E&C
 activation_date: N/A
-recertification_date: 22 Jan 2018
+recertification_date: 19 Jul 2024
 center_functional_proponent: Pete Perez
 keywords: Geotechnical investigations
 // file_library_root_path: "content/coe/tcx/sec/Library/" 
