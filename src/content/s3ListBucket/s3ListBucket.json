@@ -6489,7 +6489,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/21/2023 16:04:07",
+"LastModified": "09/16/2024 10:37:03",
 "Key": "content/cos/nwo/acp/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -7167,18 +7167,18 @@
 "Size": "696412"
 },
 {
+"name": "Access Control Point 1391 Template 2024.xlsx",
+"LastModified": "09/13/2024 08:14:00",
+"Key": "content/cos/nwo/acp/Library/DD1391 Templates/Access Control Point 1391 Template 2024.xlsx",
+"extension": ".xlsx",
+"Size": "108538"
+},
+{
 "name": "access-control-point.pdf",
 "LastModified": "09/07/2023 15:00:07",
 "Key": "content/cos/nwo/acp/Library/DD1391 Templates/access-control-point.pdf",
 "extension": ".pdf",
 "Size": "15124"
-},
-{
-"name": "ACP Facility Costs 072020 protected.xlsx",
-"LastModified": "08/03/2020 12:00:24",
-"Key": "content/cos/nwo/acp/Library/DD1391 Templates/ACP Facility Costs 072020 protected.xlsx",
-"extension": ".xlsx",
-"Size": "752109"
 },
 {
 "name": "ACP-STDA-100CS.pdf",
