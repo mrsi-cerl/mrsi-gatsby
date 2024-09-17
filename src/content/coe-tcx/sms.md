@@ -11,8 +11,8 @@ hq_poc_name: Saeed Goodman (USACE), James M. Livingston (HQDA, G9),
 hq_poc_name2: Richard C. Matkins (HQDA, G9)
 hq_division: IS
 activation_date: N/A
-recertification_date: 01 Feb 2018
-center_functional_proponent: Drew White
+recertification_date: 09 Sep 2024
+center_functional_proponent: Alan L. Parks
 keywords: DoD facility assessments, BUILDER, ESMS
 file_library_root_path: "content/coe/tcx/sms/Library/" 
 page_last_reviewed: 1 January 1970 
