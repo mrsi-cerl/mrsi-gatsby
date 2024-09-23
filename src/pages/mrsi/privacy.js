@@ -10,7 +10,6 @@ const MrsiPrivacy = () => (
         Information available at MRSI.ERDC.DREN.MIL is consistent with USACE,
         Army, and DoD policies and The Principles of Information and contains
         information cleared for public release.
-        <a href="http://www.us.army.mil/"> </a>
       </p>
       <ul>
         <li>
