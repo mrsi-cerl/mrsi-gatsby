@@ -15,9 +15,10 @@ const Link = props => {
     // see here for more info: https://developers.google.com/analytics/devguides/collection/analyticsjs/single-page-applications
     /*global gas*/
     /*eslint no-undef: "error"*/
-    if (gas) {
-      gas("send", "pageview", `mrsi.erdc.dren.mil${props.to}`, "MRSI")
-    }
+    // Below started causing error message on every main menu click, can't find gas defined anywhere in our code, and page linked above no longer exists.
+    // if (gas) {
+    //   gas("send", "pageview", `mrsi.erdc.dren.mil${props.to}`, "MRSI")
+    // }
   }
 
   return (
