@@ -6454,7 +6454,7 @@
 },
 {
 "name": "Library",
-"LastModified": "03/23/2023 11:08:31",
+"LastModified": "09/25/2024 13:48:03",
 "Key": "content/cos/nwo/acp/Library",
 "extension": "",
 "Size": ""
@@ -6467,15 +6467,8 @@
 "Size": "285622"
 },
 {
-"name": "2021 Binder PDF Sheets by Discipline",
-"LastModified": "03/23/2023 11:07:20",
-"Key": "content/cos/nwo/acp/Library/2021 Binder PDF Sheets by Discipline",
-"extension": "",
-"Size": ""
-},
-{
 "name": "Archive",
-"LastModified": "03/23/2023 11:07:44",
+"LastModified": "09/25/2024 13:41:46",
 "Key": "content/cos/nwo/acp/Library/Archive",
 "extension": "",
 "Size": ""
@@ -6489,7 +6482,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/16/2024 10:37:03",
+"LastModified": "09/16/2024 10:37:17",
 "Key": "content/cos/nwo/acp/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -6510,7 +6503,7 @@
 },
 {
 "name": "Standard Drawings",
-"LastModified": "03/23/2023 11:08:31",
+"LastModified": "09/25/2024 13:51:26",
 "Key": "content/cos/nwo/acp/Library/Standard Drawings",
 "extension": "",
 "Size": ""
@@ -6521,34 +6514,6 @@
 "Key": "content/cos/nwo/acp/Library/Sustainability Checklist",
 "extension": "",
 "Size": ""
-},
-{
-"name": "Architectural sheets Feb 2021 binder file.pdf",
-"LastModified": "03/12/2021 08:19:01",
-"Key": "content/cos/nwo/acp/Library/2021 Binder PDF Sheets by Discipline/Architectural sheets Feb 2021 binder file.pdf",
-"extension": ".pdf",
-"Size": "2379949"
-},
-{
-"name": "Civil sheets Feb 2021 binder file.pdf",
-"LastModified": "03/12/2021 08:19:01",
-"Key": "content/cos/nwo/acp/Library/2021 Binder PDF Sheets by Discipline/Civil sheets Feb 2021 binder file.pdf",
-"extension": ".pdf",
-"Size": "2572637"
-},
-{
-"name": "Electrical Sheets Feb 2021 binder file.pdf",
-"LastModified": "03/12/2021 08:19:01",
-"Key": "content/cos/nwo/acp/Library/2021 Binder PDF Sheets by Discipline/Electrical Sheets Feb 2021 binder file.pdf",
-"extension": ".pdf",
-"Size": "13585309"
-},
-{
-"name": "Interior Sheets Feb 2021 binder file.pdf",
-"LastModified": "03/12/2021 08:19:02",
-"Key": "content/cos/nwo/acp/Library/2021 Binder PDF Sheets by Discipline/Interior Sheets Feb 2021 binder file.pdf",
-"extension": ".pdf",
-"Size": "929936"
 },
 {
 "name": "2013 ACP Standard Drawings",
@@ -6582,6 +6547,13 @@
 "name": "2019 Interim Electrical Sheets",
 "LastModified": "03/23/2023 11:07:38",
 "Key": "content/cos/nwo/acp/Library/Archive/2019 Interim Electrical Sheets",
+"extension": "",
+"Size": ""
+},
+{
+"name": "2021 Binder PDF Sheets by Discipline",
+"LastModified": "09/25/2024 13:42:27",
+"Key": "content/cos/nwo/acp/Library/Archive/2021 Binder PDF Sheets by Discipline",
 "extension": "",
 "Size": ""
 },
@@ -7060,6 +7032,20 @@
 "Key": "content/cos/nwo/acp/Library/Archive/2019 Interim Electrical Sheets/Nov 2019 binder Interim standard design electrical sheets set.pdf",
 "extension": ".pdf",
 "Size": "15952825"
+},
+{
+"name": "Architectural sheets Feb 2021 binder file.pdf",
+"LastModified": "03/12/2021 08:19:01",
+"Key": "content/cos/nwo/acp/Library/Archive/2021 Binder PDF Sheets by Discipline/Architectural sheets Feb 2021 binder file.pdf",
+"extension": ".pdf",
+"Size": "2379949"
+},
+{
+"name": "Interior Sheets Feb 2021 binder file.pdf",
+"LastModified": "03/12/2021 08:19:02",
+"Key": "content/cos/nwo/acp/Library/Archive/2021 Binder PDF Sheets by Discipline/Interior Sheets Feb 2021 binder file.pdf",
+"extension": ".pdf",
+"Size": "929936"
 },
 {
 "name": "Gatehouse, GaurdBooth, Overwatch, Canopy Drawing PDF.zip",
@@ -7853,6 +7839,20 @@
 "Size": "3023996"
 },
 {
+"name": "Binder PDF Sheets by Discipline",
+"LastModified": "09/25/2024 13:43:28",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/Binder PDF Sheets by Discipline",
+"extension": "",
+"Size": ""
+},
+{
+"name": "CAD-BIM Files",
+"LastModified": "09/25/2024 13:53:06",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/CAD-BIM Files",
+"extension": "",
+"Size": ""
+},
+{
 "name": "ACP-STD Drawing Binder 24 Feb 2021.pdf",
 "LastModified": "03/12/2021 08:16:50",
 "Key": "content/cos/nwo/acp/Library/Standard Drawings/ACP-STD Drawing Binder 24 Feb 2021.pdf",
@@ -7860,39 +7860,151 @@
 "Size": "21336386"
 },
 {
+"name": "Army ACP Standard Design_2024 Architecture and Interior Design Drawings Set.pdf",
+"LastModified": "09/25/2024 10:47:00",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/Binder PDF Sheets by Discipline/Army ACP Standard Design_2024 Architecture and Interior Design Drawings Set.pdf",
+"extension": ".pdf",
+"Size": "1500312"
+},
+{
+"name": "Civil sheets Feb 2021 binder file.pdf",
+"LastModified": "03/12/2021 08:19:01",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/Binder PDF Sheets by Discipline/Civil sheets Feb 2021 binder file.pdf",
+"extension": ".pdf",
+"Size": "2572637"
+},
+{
+"name": "Electrical Sheets Feb 2021 binder file.pdf",
+"LastModified": "03/12/2021 08:19:01",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/Binder PDF Sheets by Discipline/Electrical Sheets Feb 2021 binder file.pdf",
+"extension": ".pdf",
+"Size": "13585309"
+},
+{
+"name": "Revit Models",
+"LastModified": "09/25/2024 13:54:01",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/CAD-BIM Files/Revit Models",
+"extension": "",
+"Size": ""
+},
+{
 "name": "Architect dgn 2021 files.zip",
-"LastModified": "03/12/2021 08:19:13",
-"Key": "content/cos/nwo/acp/Library/Standard Drawings/Architect dgn 2021 files.zip",
+"LastModified": "09/25/2024 13:47:18",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/CAD-BIM Files/Architect dgn 2021 files.zip",
 "extension": ".zip",
 "Size": "4139640"
 },
 {
 "name": "Civil dgn 2021 files.zip",
 "LastModified": "03/12/2021 08:19:13",
-"Key": "content/cos/nwo/acp/Library/Standard Drawings/Civil dgn 2021 files.zip",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/CAD-BIM Files/Civil dgn 2021 files.zip",
 "extension": ".zip",
 "Size": "4178405"
 },
 {
 "name": "Electrical dgn 2021 files.zip",
 "LastModified": "03/12/2021 08:19:13",
-"Key": "content/cos/nwo/acp/Library/Standard Drawings/Electrical dgn 2021 files.zip",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/CAD-BIM Files/Electrical dgn 2021 files.zip",
 "extension": ".zip",
 "Size": "4575941"
 },
 {
 "name": "General dgn 2021 files.zip",
 "LastModified": "03/12/2021 08:19:13",
-"Key": "content/cos/nwo/acp/Library/Standard Drawings/General dgn 2021 files.zip",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/CAD-BIM Files/General dgn 2021 files.zip",
 "extension": ".zip",
 "Size": "436449"
 },
 {
 "name": "Interior dgn 2021 files.zip",
 "LastModified": "03/12/2021 08:19:13",
-"Key": "content/cos/nwo/acp/Library/Standard Drawings/Interior dgn 2021 files.zip",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/CAD-BIM Files/Interior dgn 2021 files.zip",
 "extension": ".zip",
 "Size": "2253755"
+},
+{
+"name": "COS-ACP_CS_DM.rvt",
+"LastModified": "09/25/2024 13:37:30",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/CAD-BIM Files/Revit Models/COS-ACP_CS_DM.rvt",
+"extension": ".rvt",
+"Size": "37236736"
+},
+{
+"name": "COS-ACP_GB_DM.rvt",
+"LastModified": "09/25/2024 13:37:31",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/CAD-BIM Files/Revit Models/COS-ACP_GB_DM.rvt",
+"extension": ".rvt",
+"Size": "5419008"
+},
+{
+"name": "COS-ACP_GH_DM.rvt",
+"LastModified": "09/25/2024 13:37:31",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/CAD-BIM Files/Revit Models/COS-ACP_GH_DM.rvt",
+"extension": ".rvt",
+"Size": "10108928"
+},
+{
+"name": "COS-ACP_ID_DM.rvt",
+"LastModified": "09/25/2024 13:37:31",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/CAD-BIM Files/Revit Models/COS-ACP_ID_DM.rvt",
+"extension": ".rvt",
+"Size": "4182016"
+},
+{
+"name": "COS-ACP_O_DM.rvt",
+"LastModified": "09/25/2024 13:37:31",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/CAD-BIM Files/Revit Models/COS-ACP_O_DM.rvt",
+"extension": ".rvt",
+"Size": "5443584"
+},
+{
+"name": "COS-ACP_POV_DM.rvt",
+"LastModified": "09/25/2024 13:37:31",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/CAD-BIM Files/Revit Models/COS-ACP_POV_DM.rvt",
+"extension": ".rvt",
+"Size": "2654208"
+},
+{
+"name": "COS-ACP_S1_DM.rvt",
+"LastModified": "09/25/2024 13:37:31",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/CAD-BIM Files/Revit Models/COS-ACP_S1_DM.rvt",
+"extension": ".rvt",
+"Size": "23334912"
+},
+{
+"name": "COS-ACP_S2_DM.rvt",
+"LastModified": "09/25/2024 13:37:31",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/CAD-BIM Files/Revit Models/COS-ACP_S2_DM.rvt",
+"extension": ".rvt",
+"Size": "23330816"
+},
+{
+"name": "COS-ACP_T_DM.rvt",
+"LastModified": "09/25/2024 13:37:31",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/CAD-BIM Files/Revit Models/COS-ACP_T_DM.rvt",
+"extension": ".rvt",
+"Size": "2473984"
+},
+{
+"name": "COS-ACP_V2_DM.rvt",
+"LastModified": "09/25/2024 13:37:31",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/CAD-BIM Files/Revit Models/COS-ACP_V2_DM.rvt",
+"extension": ".rvt",
+"Size": "25935872"
+},
+{
+"name": "COS-ACP_V3_DM.rvt",
+"LastModified": "09/25/2024 13:37:32",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/CAD-BIM Files/Revit Models/COS-ACP_V3_DM.rvt",
+"extension": ".rvt",
+"Size": "25751552"
+},
+{
+"name": "COS-ACP_V6_DM.rvt",
+"LastModified": "09/25/2024 13:37:32",
+"Key": "content/cos/nwo/acp/Library/Standard Drawings/CAD-BIM Files/Revit Models/COS-ACP_V6_DM.rvt",
+"extension": ".rvt",
+"Size": "28532736"
 },
 {
 "name": "LEED v4 Score Card COS ACP.xlsx",
