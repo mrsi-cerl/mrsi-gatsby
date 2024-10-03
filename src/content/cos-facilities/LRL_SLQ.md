@@ -6,8 +6,8 @@ facility_cos_short_name: LRL
 facility_functional_proponent: DCS G-9 Housing
 facility_long_name: Senior Leaders Quarters
 facility_short_name: SLQ
-facility_technical_poc_email: Paul.M.Kai@usace.army.mil
-facility_technical_poc_name: Paul Kai
+facility_technical_poc_email: "Margaret.K.Thacher@usace.army.mil"
+facility_technical_poc_name: "Margaret (Maggie) Thacher"
 //file_library_root_path: "content/cos/lrl/slq/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/lrl/slq/

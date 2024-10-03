@@ -62,7 +62,7 @@ Battalion set is composed of:
 | (BNHQ) Battalion Headquarters Building: Transient Training           | 14184         | 7,075 SF                | The Army Standard maximum square footage requirement is 7,400 GSF per Battalion.                      |
 | (BKS2) 2-Story Barracks: Transient Training (4 per Battalion)        | 72114         | 30,669 SF/ea            | The Army Standard square footage varies by number of soldiers.                                        |
 | (BKS4) 4-Story Barracks: Transient Training (2 per Battalion)        | 72114         | 61,338SF/ea             | The Army Standard square footage varies by number of soldiers.                                        |
-| (OQ) Officers Quarters (Senior Leaders Quarters): Transient Training | 72412         | 23,030 SF               | POH is COS 2-Story. The Army Standard square footage requirements varies by number of senior leaders. |
+| (OQ) Officers Quarters (Senior Leaders Quarters): Transient Training | 72412         | 23,030 SF               | The Army Standard square footage requirements varies by number of senior leaders. |
 | (SMDF) Dining Facility: Transient Training - Small                   | 72212         | 17,015 SF               | NAO is COS. The Army Standard maximum square footage requirement is 18,000 GSF (feeds one Battalion). |
 | (LGDF) Dining Facility: Transient Training - Large                   | 72212         | 20,786 SF               | NAO is COS. The Army Standard maximum square footage requirement is 21,300 GSF (feeds two Battalion). |
 | (COHQ) Company Headquarters Building: Transient Training             | 14186         | 19,579 SF               | The Army Standard maximum square footage requirement is 3,300 GSF per Company.                        |
@@ -72,8 +72,6 @@ Battalion set is composed of:
 
 (1) No Cat Code exists for the ORTC Complex. When identifying a project, utilize the cat code of largest facility.
 
-(2) COS, Honolulu District (POH).
+(2) COS, Norfolk District (NAO).
 
-(3) COS, Norfolk District (NAO).
-
-(4) GSF calculated in accordance with UFC 3-101-01
+(3) GSF calculated in accordance with UFC 3-101-01
