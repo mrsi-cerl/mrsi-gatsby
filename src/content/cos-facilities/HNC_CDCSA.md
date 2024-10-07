@@ -4,7 +4,7 @@ facility_category_codes:
   - "74016"
 facility_cos_short_name: HNC
 facility_functional_proponent: G-9
-facility_long_name: Child Development Center - School-Age Facility
+facility_long_name: Child Development - School Age Center
 facility_short_name: CDCSA
 facility_technical_poc_email: michael.r.johnson2@usace.army.mil; rajette.l.hodge@usace.army.mil
 facility_technical_poc_name: Michael Johnson   Rajette Hodge
