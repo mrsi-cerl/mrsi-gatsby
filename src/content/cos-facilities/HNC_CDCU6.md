@@ -32,8 +32,8 @@ A CDCU6 (Child Development Center Under 6 Years of Age) is used by the Army to s
 
 ## Variations
 
-| Facility Size Classification | Number of Children | Number of Staff | ​Gross Building Area (SF) | ​Playground Area (SF) | ​Parking Spaces |
-| ---------------------------- | ------------------ | --------------- | ------------------------- | --------------------- | --------------- |
-| Small​                       | ​126               | ​28             | 15,850                    | 16,667                | 59              |
-| Medium​                      | ​232               | ​46             | 26,450                    | 23,873                | 104             |
-| Large​                       | ​338               | ​62             | 37,300                    | 38,311                | 146             |
+| Facility Size Classification | Design Capacity | ​Number of Staff | ​Gross Building Area (SF) | Playground Area (SF) | ​Parking Spaces |
+| ---------------------------- | --------------- | --------------- | ------------------------- | -------------------- | --------------- |
+| Small​                       | 152             | 60              | ​22,500                    | ​18,150               | ​123             |
+| Medium​                      | 280             | ​91              | ​31,380                    | ​27,120               | ​202             |
+| Large​                       | ​408             | ​118             | ​41,850                    | ​42,100               | ​275             |

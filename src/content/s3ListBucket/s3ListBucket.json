@@ -21,7 +21,7 @@
 },
 {
 "name": "cos",
-"LastModified": "03/01/2024 14:23:50",
+"LastModified": "10/03/2024 16:52:05",
 "Key": "content/cos",
 "extension": "",
 "Size": ""
@@ -247,13 +247,6 @@
 "name": "nwo",
 "LastModified": "03/23/2023 11:08:44",
 "Key": "content/cos/nwo",
-"extension": "",
-"Size": ""
-},
-{
-"name": "poh",
-"LastModified": "03/23/2023 11:08:48",
-"Key": "content/cos/poh",
 "extension": "",
 "Size": ""
 },
@@ -1519,14 +1512,14 @@
 },
 {
 "name": "Misc. Docs (VE, LCCA, LEED, etc...)",
-"LastModified": "01/11/2024 17:38:27",
+"LastModified": "10/07/2024 17:09:34",
 "Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
 "extension": ".)",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "03/23/2023 11:05:32",
+"LastModified": "10/07/2024 17:04:12",
 "Key": "content/cos/hnc/cdcu6/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -1875,46 +1868,32 @@
 "Size": "23331"
 },
 {
-"name": "cdc-variations.jpg",
-"LastModified": "06/30/2015 11:35:29",
-"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/cdc-variations.jpg",
-"extension": ".jpg",
-"Size": "52751"
+"name": "CDC-0-5_ADAPT-BUILD-MODEL_SEP 2024.pdf",
+"LastModified": "10/07/2024 16:31:00",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/CDC-0-5_ADAPT-BUILD-MODEL_SEP 2024.pdf",
+"extension": ".pdf",
+"Size": "125366"
 },
 {
-"name": "Change_Proposal_and_Tracking_Form.pdf",
-"LastModified": "05/20/2015 13:51:40",
-"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Change_Proposal_and_Tracking_Form.pdf",
+"name": "CDC-0-5_ENERGY MODELS_SEP 2024.pdf",
+"LastModified": "10/07/2024 16:33:00",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/CDC-0-5_ENERGY MODELS_SEP 2024.pdf",
 "extension": ".pdf",
-"Size": "149025"
+"Size": "306060"
 },
 {
-"name": "Final LCCA Report - CDC 0-5.pdf",
-"LastModified": "10/03/2019 09:29:56",
-"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Final LCCA Report - CDC 0-5.pdf",
+"name": "CDC-0-5_LCCA REPORT_SEP 2024.pdf",
+"LastModified": "10/07/2024 16:33:00",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/CDC-0-5_LCCA REPORT_SEP 2024.pdf",
 "extension": ".pdf",
-"Size": "1068746"
+"Size": "310458"
 },
 {
-"name": "Final VE Report - CDC 0-5.pdf",
-"LastModified": "10/03/2019 09:30:00",
-"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Final VE Report - CDC 0-5.pdf",
+"name": "CDC-0-5_LEED SCORECARD_SEP 2024.pdf",
+"LastModified": "10/07/2024 16:31:00",
+"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/CDC-0-5_LEED SCORECARD_SEP 2024.pdf",
 "extension": ".pdf",
-"Size": "9660363"
-},
-{
-"name": "LEED_Checklist_Medium_CDC_0-5_Apr-21_.pdf",
-"LastModified": "03/31/2021 16:04:34",
-"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED_Checklist_Medium_CDC_0-5_Apr-21_.pdf",
-"extension": ".pdf",
-"Size": "119601"
-},
-{
-"name": "RFP_Wizard_Input_CDC_0-5_Apr-21_.pdf",
-"LastModified": "03/31/2021 16:04:49",
-"Key": "content/cos/hnc/cdcu6/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP_Wizard_Input_CDC_0-5_Apr-21_.pdf",
-"extension": ".pdf",
-"Size": "98934"
+"Size": "194918"
 },
 {
 "name": "ufc-cancelled.docx",
@@ -1959,53 +1938,18 @@
 "Size": "8731087"
 },
 {
-"name": "CAD Standard Drawings_CDC-0-5_large_Sep 2021.zip",
-"LastModified": "10/01/2021 09:26:40",
-"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/CAD Standard Drawings_CDC-0-5_large_Sep 2021.zip",
-"extension": ".zip",
-"Size": "2243759"
-},
-{
-"name": "CAD Standard Drawings_CDC-0-5_medium_Sep 2021.zip",
-"LastModified": "10/01/2021 09:26:47",
-"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/CAD Standard Drawings_CDC-0-5_medium_Sep 2021.zip",
-"extension": ".zip",
-"Size": "17998987"
-},
-{
-"name": "CAD Standard Drawings_CDC-0-5_small_Sep 2021.zip",
-"LastModified": "10/01/2021 09:26:43",
-"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/CAD Standard Drawings_CDC-0-5_small_Sep 2021.zip",
-"extension": ".zip",
-"Size": "1416986"
-},
-{
-"name": "CDC-0-5_Standard Design_Feb2023.pdf",
-"LastModified": "03/06/2023 09:07:20",
-"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/CDC-0-5_Standard Design_Feb2023.pdf",
+"name": "CDC-0-5_STANDARD DESIGN _MED_DRAWINGS_SEP 2024.pdf",
+"LastModified": "10/07/2024 16:31:00",
+"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/CDC-0-5_STANDARD DESIGN _MED_DRAWINGS_SEP 2024.pdf",
 "extension": ".pdf",
-"Size": "5035397"
+"Size": "1165900"
 },
 {
-"name": "Standard Drawings_CDC-0-5_large_Sep 2021.pdf",
-"LastModified": "10/01/2021 09:26:47",
-"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/Standard Drawings_CDC-0-5_large_Sep 2021.pdf",
+"name": "CDC-0-5_STANDARD DESIGN_SEP 2004.pdf",
+"LastModified": "10/07/2024 16:31:00",
+"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/CDC-0-5_STANDARD DESIGN_SEP 2004.pdf",
 "extension": ".pdf",
-"Size": "1340468"
-},
-{
-"name": "Standard Drawings_CDC-0-5_medium_Sep 2021.pdf",
-"LastModified": "10/01/2021 09:26:44",
-"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/Standard Drawings_CDC-0-5_medium_Sep 2021.pdf",
-"extension": ".pdf",
-"Size": "1858975"
-},
-{
-"name": "Standard Drawings_CDC-0-5_small_Sep 2021.pdf",
-"LastModified": "10/01/2021 09:26:46",
-"Key": "content/cos/hnc/cdcu6/Library/Standard Designs/Standard Drawings_CDC-0-5_small_Sep 2021.pdf",
-"extension": ".pdf",
-"Size": "857518"
+"Size": "1121878"
 },
 {
 "name": "Library",
@@ -8719,195 +8663,6 @@
 "Key": "content/cos/nwo/ref/Library/Sustainability Checklist/leed-v4-for-building-design-and-construction-_checklist.pdf",
 "extension": ".pdf",
 "Size": "40649"
-},
-{
-"name": "center_home_page",
-"LastModified": "03/23/2023 11:08:47",
-"Key": "content/cos/poh/center_home_page",
-"extension": "",
-"Size": ""
-},
-{
-"name": "slq",
-"LastModified": "03/23/2023 11:08:48",
-"Key": "content/cos/poh/slq",
-"extension": "",
-"Size": ""
-},
-{
-"name": "toq",
-"LastModified": "03/23/2023 11:08:49",
-"Key": "content/cos/poh/toq",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Library",
-"LastModified": "09/24/2019 10:26:07",
-"Key": "content/cos/poh/center_home_page/Library",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Library",
-"LastModified": "03/23/2023 11:08:48",
-"Key": "content/cos/poh/slq/Library",
-"extension": "",
-"Size": ""
-},
-{
-"name": "senior-leaders-quarters_2.jpg",
-"LastModified": "06/26/2015 14:05:53",
-"Key": "content/cos/poh/slq/senior-leaders-quarters_2.jpg",
-"extension": ".jpg",
-"Size": "563868"
-},
-{
-"name": "Misc. Documents",
-"LastModified": "08/12/2024 14:37:41",
-"Key": "content/cos/poh/slq/Library/Misc. Documents",
-"extension": ". Documents",
-"Size": ""
-},
-{
-"name": "Standard Designs",
-"LastModified": "03/23/2023 11:08:48",
-"Key": "content/cos/poh/slq/Library/Standard Designs",
-"extension": "",
-"Size": ""
-},
-{
-"name": "LEED v4 Score Card_SLQ.pdf",
-"LastModified": "08/12/2024 14:23:00",
-"Key": "content/cos/poh/slq/Library/Misc. Documents/LEED v4 Score Card_SLQ.pdf",
-"extension": ".pdf",
-"Size": "100131"
-},
-{
-"name": "SLQ 11000-Para 3 Rev 4.7 Jan2021.pdf",
-"LastModified": "03/05/2021 09:45:52",
-"Key": "content/cos/poh/slq/Library/Standard Designs/SLQ 11000-Para 3 Rev 4.7 Jan2021.pdf",
-"extension": ".pdf",
-"Size": "363184"
-},
-{
-"name": "Library",
-"LastModified": "03/23/2023 11:08:51",
-"Key": "content/cos/poh/toq/Library",
-"extension": "",
-"Size": ""
-},
-{
-"name": "TTOQ Rendering_Feb2013.jpg",
-"LastModified": "05/20/2015 15:44:36",
-"Key": "content/cos/poh/toq/TTOQ Rendering_Feb2013.jpg",
-"extension": ".jpg",
-"Size": "54078"
-},
-{
-"name": "Archives",
-"LastModified": "03/23/2023 11:08:49",
-"Key": "content/cos/poh/toq/Library/Archives",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Army Standards",
-"LastModified": "03/23/2023 11:08:50",
-"Key": "content/cos/poh/toq/Library/Army Standards",
-"extension": "",
-"Size": ""
-},
-{
-"name": "DD1391 Templates",
-"LastModified": "09/21/2023 15:31:37",
-"Key": "content/cos/poh/toq/Library/DD1391 Templates",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Misc. Documents",
-"LastModified": "06/26/2024 10:50:17",
-"Key": "content/cos/poh/toq/Library/Misc. Documents",
-"extension": ". Documents",
-"Size": ""
-},
-{
-"name": "Standard Designs",
-"LastModified": "01/23/2024 09:36:55",
-"Key": "content/cos/poh/toq/Library/Standard Designs",
-"extension": "",
-"Size": ""
-},
-{
-"name": "ORTC_Transient_Officers_Quarters_FY21 DD1391.pdf",
-"LastModified": "04/28/2020 16:40:17",
-"Key": "content/cos/poh/toq/Library/Archives/ORTC_Transient_Officers_Quarters_FY21 DD1391.pdf",
-"extension": ".pdf",
-"Size": "11655"
-},
-{
-"name": "TOQ_ 11000-Par-3-rev 4.7_May2019.pdf",
-"LastModified": "05/04/2020 08:39:23",
-"Key": "content/cos/poh/toq/Library/Archives/TOQ_ 11000-Par-3-rev 4.7_May2019.pdf",
-"extension": ".pdf",
-"Size": "317344"
-},
-{
-"name": "transtrngofficersqtrs_fy19.pdf",
-"LastModified": "06/01/2017 21:10:28",
-"Key": "content/cos/poh/toq/Library/Archives/transtrngofficersqtrs_fy19.pdf",
-"extension": ".pdf",
-"Size": "9013"
-},
-{
-"name": "TTOQ - Standard Design_Feb2013.pdf",
-"LastModified": "05/20/2015 15:44:35",
-"Key": "content/cos/poh/toq/Library/Archives/TTOQ - Standard Design_Feb2013.pdf",
-"extension": ".pdf",
-"Size": "323005"
-},
-{
-"name": "ORTC Army Standard Feb 2012_Transient Training Officers Qtrs.pdf",
-"LastModified": "04/28/2020 16:39:03",
-"Key": "content/cos/poh/toq/Library/Army Standards/ORTC Army Standard Feb 2012_Transient Training Officers Qtrs.pdf",
-"extension": ".pdf",
-"Size": "2662004"
-},
-{
-"name": "Transient Officer Quarters-Operational Readiness Training Complex.pdf",
-"LastModified": "07/19/2023 14:02:37",
-"Key": "content/cos/poh/toq/Library/DD1391 Templates/Transient Officer Quarters-Operational Readiness Training Complex.pdf",
-"extension": ".pdf",
-"Size": "45494"
-},
-{
-"name": "Draft VE Report -ORTC_Transient Officers Quarters.pdf",
-"LastModified": "04/28/2020 16:39:56",
-"Key": "content/cos/poh/toq/Library/Misc. Documents/Draft VE Report -ORTC_Transient Officers Quarters.pdf",
-"extension": ".pdf",
-"Size": "1151198"
-},
-{
-"name": "LEED v4 Score Card_TOQ.pdf",
-"LastModified": "06/24/2024 15:07:00",
-"Key": "content/cos/poh/toq/Library/Misc. Documents/LEED v4 Score Card_TOQ.pdf",
-"extension": ".pdf",
-"Size": "85841"
-},
-{
-"name": "TOQ Standard Design narrative, Para 3_Rev 4.8 Feb2021.pdf",
-"LastModified": "03/05/2021 09:50:45",
-"Key": "content/cos/poh/toq/Library/Standard Designs/TOQ Standard Design narrative, Para 3_Rev 4.8 Feb2021.pdf",
-"extension": ".pdf",
-"Size": "287475"
-},
-{
-"name": "Transient Training Officers Quarters Drawings.pdf",
-"LastModified": "01/22/2024 15:57:00",
-"Key": "content/cos/poh/toq/Library/Standard Designs/Transient Training Officers Quarters Drawings.pdf",
-"extension": ".pdf",
-"Size": "492021"
 },
 {
 "name": "aab",
