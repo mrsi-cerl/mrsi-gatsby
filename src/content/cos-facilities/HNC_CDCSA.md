@@ -4,7 +4,7 @@ facility_category_codes:
   - "74016"
 facility_cos_short_name: HNC
 facility_functional_proponent: G-9
-facility_long_name: Child Development - School Age Center
+facility_long_name: Child Development - School Age Center (SAC)
 facility_short_name: CDCSA
 facility_technical_poc_email: michael.r.johnson2@usace.army.mil; rajette.l.hodge@usace.army.mil
 facility_technical_poc_name: Michael Johnson   Rajette Hodge
@@ -26,13 +26,13 @@ carousel_images:
 
 ## Description
 
-A CDCSA is used by the Army to support readiness of families by reducing the conflict between military mission workforce requirements and parental responsibilities. CDCSA facilities covered in this standard were developed to support the needs of children 6 - 10 years of age. A CDCSA provides before-school and after-school care during the duty day, summer, school-out days, and holidays. Services are generally provided on a regularly scheduled daily basis for before-school and after-school care, as well as on a full-day basis during the summer, school-out days, and holidays. The Army Standards for CDCSA are based on Army Baseline Standards and Department of Defense requirements for certification.
+A SAC is used by the Army to support readiness of families by reducing the conflict between military mission workforce requirements and parental responsibilities. SAC facilities covered in this Army Standard and Army Standard Design are developed to support the needs of children six years of age to children ten years of age. The SAC provides before-school and after-school care during the duty day, summer, school-out days, and holidays. Services are generally provided on a regularly scheduled daily basis for before-school and after-school care, as well as on a full-day basis during the summer, school-out days, and holidays. The Army Standards for the SACA are based on Army Baseline Standards and Department of Defense requirements for certification.
 
 ## Variations
 
-| Facility Size Classification | Number of Children | ​Number of Staff | ​Gross Building Area (SF) | Playground Area (SF) | ​Parking Spaces |
+| Facility Size Classification | Design Capacity | ​Number of Staff | ​Gross Building Area (SF) | Playground Area (SF) | ​Parking Spaces |
 | ---------------------------- | ------------------ | ---------------- | ------------------------- | -------------------- | --------------- |
-| Wing Addition​               | ​60-75             | ​12              | ​8,880                    | ​47,606              | ​28             |
-| Small​                       | 105-135            | ​17              | ​13,929                   | ​47,606              | ​36             |
-| Medium​                      | ​150-180           | ​21              | ​20,484                   | ​52,106              | ​43             |
-| Large​                       | ​195-225           | ​26              | ​22,927                   | ​52,106              | ​51             |
+| Wing Addition​               | ​60-75             | ​12              | 10,500                    | ​47,606              | ​35             |
+| Small​                       | 105-135            | ​22              | ​15,500                   | ​47,606              | ​45             |
+| Medium​                      | ​150-180           | ​28              | ​23,700                   | ​52,106              | ​54             |
+| Large​                       | ​195-225           | ​38              | ​26,900                   | ​52,106              | ​64             |

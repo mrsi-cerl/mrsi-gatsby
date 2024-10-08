@@ -924,14 +924,14 @@
 },
 {
 "name": "Misc. Docs (VE, LCCA, LEED, etc...)",
-"LastModified": "01/11/2024 17:54:17",
+"LastModified": "10/08/2024 09:59:50",
 "Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)",
 "extension": ".)",
 "Size": ""
 },
 {
 "name": "Standard Designs",
-"LastModified": "01/12/2024 16:22:05",
+"LastModified": "10/08/2024 09:55:54",
 "Key": "content/cos/hnc/cdcsa/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -1280,13 +1280,6 @@
 "Size": "23331"
 },
 {
-"name": "Change_Proposal_and_Tracking_Form.pdf",
-"LastModified": "05/20/2015 13:52:47",
-"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Change_Proposal_and_Tracking_Form.pdf",
-"extension": ".pdf",
-"Size": "149025"
-},
-{
 "name": "Final VE Report_SAC-6-10 (July 2021).pdf",
 "LastModified": "09/01/2021 11:05:43",
 "Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/Final VE Report_SAC-6-10 (July 2021).pdf",
@@ -1294,25 +1287,11 @@
 "Size": "37772164"
 },
 {
-"name": "LEED_Checklist_Medium_CDC_6-10_Apr-21_.pdf",
-"LastModified": "03/31/2021 16:04:39",
-"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/LEED_Checklist_Medium_CDC_6-10_Apr-21_.pdf",
+"name": "SAC-6-10_LEED SCORECARD_SEP 2024.pdf",
+"LastModified": "10/07/2024 17:40:00",
+"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/SAC-6-10_LEED SCORECARD_SEP 2024.pdf",
 "extension": ".pdf",
-"Size": "119603"
-},
-{
-"name": "RFP_Wizard_Input_CDC_6-10_Apr-21_.pdf",
-"LastModified": "03/31/2021 16:04:54",
-"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/RFP_Wizard_Input_CDC_6-10_Apr-21_.pdf",
-"extension": ".pdf",
-"Size": "97927"
-},
-{
-"name": "sac-variations.jpg",
-"LastModified": "06/30/2015 11:50:39",
-"Key": "content/cos/hnc/cdcsa/Library/Misc. Docs (VE, LCCA, LEED, etc...)/sac-variations.jpg",
-"extension": ".jpg",
-"Size": "58358"
+"Size": "257482"
 },
 {
 "name": "Finish_Boards_SAC-6-10__July_2021_.pdf",
@@ -1357,11 +1336,11 @@
 "Size": "2226000"
 },
 {
-"name": "SAC-6-10_Standard Design_Feb2023.pdf",
-"LastModified": "03/06/2023 09:07:20",
-"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/SAC-6-10_Standard Design_Feb2023.pdf",
+"name": "SAC-6-10_STANDARD DESIGN_SEP 2024.pdf",
+"LastModified": "10/07/2024 17:40:00",
+"Key": "content/cos/hnc/cdcsa/Library/Standard Designs/SAC-6-10_STANDARD DESIGN_SEP 2024.pdf",
 "extension": ".pdf",
-"Size": "824234"
+"Size": "738986"
 },
 {
 "name": "Standard Drawings_SAC 6-10_Large_SEP2022.pdf",
