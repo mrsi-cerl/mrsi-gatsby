@@ -14,7 +14,7 @@ er_link: https://www.publications.usace.army.mil/Portals/76/Publications/Enginee
 er_publication_date: 31 Jan 2014
 activation_date: 01 Jan 1985
 recertification_date: 26 Sep 2023
-center_functional_proponent: Pete Perez
+center_functional_proponent: Tom Smilth
 keywords: Utilities and Controls
 // file_library_root_path: "content/coe/mcx/umcs/Library/" 
 page_last_reviewed: 1 January 1970 

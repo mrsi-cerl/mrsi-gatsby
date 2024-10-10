@@ -14,7 +14,7 @@ er_link: https://www.publications.usace.army.mil/Portals/76/Publications/Enginee
 er_publication_date: 31 Oct 2016
 activation_date: 01 Jan 1990
 recertification_date: 4 Apr 2024
-center_functional_proponent: Pete Perez
+center_functional_proponent: Tom Smilth
 keywords: Airfields and pavements and roads
 // file_library_root_path: "content/coe/mcx/tsmcx/Library/" 
 page_last_reviewed: 1 January 1970 

@@ -11,7 +11,7 @@ hq_poc_name: Jacob Watts
 hq_division: E&C
 activation_date: N/A
 recertification_date: 01 Sep 2023
-center_functional_proponent: Pete Perez
+center_functional_proponent: Tom Smilth
 keywords: Survey and Mapping
 // file_library_root_path: "content/coe/tcx/semc/Library/" 
 page_last_reviewed: 1 January 1970 

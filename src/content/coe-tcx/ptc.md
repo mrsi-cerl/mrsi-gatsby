@@ -11,7 +11,7 @@ hq_poc_name: Scott Wick
 hq_division: E&C
 activation_date: N/A
 recertification_date: 10 Jun 2024
-center_functional_proponent: Pete Perez
+center_functional_proponent: Tom Smilth
 keywords: Paint and Coatings
 // file_library_root_path: "content/coe/tcx/ptc/Library/" 
 page_last_reviewed: 1 January 1970 

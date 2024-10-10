@@ -14,7 +14,7 @@ er_link: https://mrsi.erdc.dren.mil/404.html
 er_publication_date: N/A
 activation_date: 2002 as DX, 2007 as MCX
 recertification_date: 4 Apr 2024
-center_functional_proponent: Pete Perez
+center_functional_proponent: Tom Smilth
 keywords: Cost Engineering
 // file_library_root_path: "content/coe/mcx/cecoe/Library/" 
 page_last_reviewed: 1 January 1970 

@@ -14,7 +14,7 @@ er_link: https://www.publications.usace.army.mil/Portals/76/Users/182/86/2486/ER
 er_publication_date: 30 Apr 2022
 activation_date: N/A
 recertification_date: 27 Mar 2024
-center_functional_proponent: Pete Perez
+center_functional_proponent: Tom Smilth
 keywords: Civil Works Navigation Design
 // file_library_root_path: "content/coe/mcx/indc/Library/"
 page_last_reviewed: 1 January 1970

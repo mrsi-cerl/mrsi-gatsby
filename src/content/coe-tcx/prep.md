@@ -11,7 +11,7 @@ hq_poc_name: Dawn Carney
 hq_division: E&C
 activation_date: 01 Apr 2022
 recertification_date: 01 Apr 2022
-center_functional_proponent: Pete Perez
+center_functional_proponent: Tom Smilth
 keywords: Power Reliability
 // file_library_root_path: "content/coe/tcx/prep/Library/" 
 page_last_reviewed: 1 January 1970 

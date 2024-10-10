@@ -11,7 +11,7 @@ hq_poc_name: Jacob Watts
 hq_division: E&C
 activation_date: 01 Oct 1995
 recertification_date: 17 May 2023
-center_functional_proponent: Pete Perez
+center_functional_proponent: Tom Smilth
 keywords: Photogrammetry
 // file_library_root_path: "content/coe/tcx/pm/Library/" 
 page_last_reviewed: 1 January 1970 

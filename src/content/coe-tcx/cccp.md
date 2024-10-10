@@ -11,7 +11,7 @@ hq_poc_name: Tim Paulus
 hq_division: E&C
 activation_date: N/A
 recertification_date: 20 Apr 2023
-center_functional_proponent: Pete Perez
+center_functional_proponent: Tom Smilth
 keywords: Cathodic Protection
 // file_library_root_path: "content/coe/tcx/cccp/Library/" 
 page_last_reviewed: 1 January 1970 

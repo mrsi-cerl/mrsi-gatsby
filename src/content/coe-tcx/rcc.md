@@ -11,7 +11,7 @@ hq_poc_name: Vanessa Bateman
 hq_division: E&C
 activation_date: N/A
 recertification_date: 06 Dec 2018
-center_functional_proponent: Pete Perez
+center_functional_proponent: Tom Smilth
 keywords: Roller Compacted Concrete
 // file_library_root_path: "content/coe/tcx/rcc/Library/" 
 page_last_reviewed: 1 January 1970 

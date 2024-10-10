@@ -11,7 +11,7 @@ hq_poc_name: Marty Goff
 hq_division: E&C
 activation_date: N/A
 recertification_date: 19 Jul 2024
-center_functional_proponent: Pete Perez
+center_functional_proponent: Tom Smilth
 keywords: Geotechnical investigations
 // file_library_root_path: "content/coe/tcx/sec/Library/" 
 page_last_reviewed: 1 January 1970 

@@ -14,7 +14,7 @@ er_link: https://www.publications.usace.army.mil/Portals/76/ER_1110-1-8175.pdf
 er_publication_date:  25 Feb 2024
 activation_date: 22 Nov 1985
 recertification_date: 31 Jan 2018
-center_functional_proponent: Pete Perez
+center_functional_proponent: Tom Smilth
 keywords: Building Anti Terrorism Design
 // file_library_root_path: "content/coe/mcx/pdc/Library/" 
 page_last_reviewed: 1 January 1970 

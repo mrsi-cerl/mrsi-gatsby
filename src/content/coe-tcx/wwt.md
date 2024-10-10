@@ -11,7 +11,7 @@ hq_poc_name: Jennifer Kline
 hq_division: E&C
 activation_date: N/A
 recertification_date: 26 Jan 2018
-center_functional_proponent: Pete Perez
+center_functional_proponent: Tom Smilth
 keywords: Wastewater Design
 // file_library_root_path: "content/coe/tcx/wwt/Library/" 
 page_last_reviewed: 1 January 1970 
