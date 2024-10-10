@@ -39,7 +39,7 @@ const CoeMcxPage = ( { data, pageContext } ) => {
           ?
           <div>
             Varies <br />
-            See <a href="../../cos/poc" target="_blank" rel="noopener noreferrer">COS POC</a> page
+            See <a href="../../../cos/poc" target="_blank" rel="noopener noreferrer">COS POC</a> page
           </div>
           :
           <a style={ { textDecoration: 'none', color: 'black' } }
