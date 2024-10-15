@@ -24,6 +24,7 @@ A **Mandatory Center of Expertise** (or **MCX**) is a USACE organization that ha
                 USACE&nbsp;Headquarters<br/>
                 Washington,&nbsp;DC<br/>
                 ☎&nbsp;<a href="tel:(256) 783-8616">(256)&nbsp;783&#8209;8616</a><br/>
+                ✉&nbsp;<a href="mailto:raul.e.alonso@usace.army.mil">raul.e.alonso@usace.army.mil</a>
             </td>
             <td style="border: none; nowrap">
                 <b>Ms. Dawn Carney, PE</b><br/>
@@ -31,6 +32,7 @@ A **Mandatory Center of Expertise** (or **MCX**) is a USACE organization that ha
                 USACE Headquarters<br/>
                 Washington, DC<br/>
                 ☎&nbsp;<a href="tel:(251) 656-2167">(251)&nbsp;656&#8209;2167</a><br/>
+                ✉&nbsp;<a href="mailto:dawn.m.carney@usace.army.mil">dawn.m.carney@usace.army.mil</a>
             </td>
         </tr>
     </tbody>
