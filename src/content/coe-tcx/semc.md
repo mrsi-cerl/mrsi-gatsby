@@ -7,7 +7,7 @@ center_type: TCX
 website: https://team.usace.army.mil/sites/AGC/PDT/SEMC/default.aspx
 center_poc_name: James Garster
 center_poc_phone_number: ☎ (703) 428-9026
-hq_poc_name: Jacob Watts
+hq_poc_name: Earnest "Mack" McCarty
 hq_division: E&C
 activation_date: N/A
 recertification_date: 01 Sep 2023

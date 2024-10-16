@@ -6,7 +6,7 @@ place_of_center: HNC
 center_type: MCX
 website: https://www.hnc.usace.army.mil/Missions/Environmental-and-Munitions/
 center_poc_name: Michelle Lordemann
-center_poc_phone_number: ☎ (402) 697-2563 / ☎ (402) 973-0022 (cel)
+center_poc_phone_number: ☎ (402) 697-2555
 hq_poc_name: Antonia Giardina / Cathy Forget
 hq_division: ENV
 er_number: ER 10-1-50

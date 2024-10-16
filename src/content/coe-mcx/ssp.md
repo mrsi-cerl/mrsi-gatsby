@@ -9,7 +9,7 @@ center_poc_name: AJ Jensen
 center_poc_phone_number: ☎ (816) 389-3840
 hq_poc_name: Jeff Krause
 hq_division: OPS
-er_number: No ER established yet
+er_number: TBD - DRAFT ER 1110-1-xxx
 er_link: https://mrsi.erdc.dren.mil/404.html
 er_publication_date: 01 Jun 2006
 activation_date: 01 Nov 1994

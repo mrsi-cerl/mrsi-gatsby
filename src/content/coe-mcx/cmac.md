@@ -9,9 +9,9 @@ center_poc_name: Jennifer Riordan
 center_poc_phone_number: ☎ (314) 331-8855
 hq_poc_name: Jeff Krause / Nancy Brighton
 hq_division: CW
-er_number: No ER established yet
+er_number: DRAFT 1110-1-8165
 er_link: https://mrsi.erdc.dren.mil/404.html
-er_publication_date: 7 Dec 1994; Amended 11 Sep 2007
+er_publication_date: TBD
 activation_date: 07 Dec 1994
 recertification_date: 27 Mar 2024
 center_functional_proponent: Tom Smith / Eric Bush
