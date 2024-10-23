@@ -903,7 +903,7 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "03/23/2023 11:04:58",
+"LastModified": "10/23/2024 17:22:44",
 "Key": "content/cos/hnc/cdcsa/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -1224,11 +1224,11 @@
 "Size": "4038789"
 },
 {
-"name": "Army_Standard_CDC_6-10_Apr2021_.pdf",
-"LastModified": "04/07/2021 12:58:27",
-"Key": "content/cos/hnc/cdcsa/Library/Army Standards/Army_Standard_CDC_6-10_Apr2021_.pdf",
+"name": "SAC-6-10_Army Standard_MAY 2004.pdf",
+"LastModified": "10/23/2024 17:19:00",
+"Key": "content/cos/hnc/cdcsa/Library/Army Standards/SAC-6-10_Army Standard_MAY 2004.pdf",
 "extension": ".pdf",
-"Size": "151306"
+"Size": "434793"
 },
 {
 "name": "SAC 6-10_Large_1391 Template.pdf",
@@ -1470,7 +1470,7 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "03/23/2023 11:05:25",
+"LastModified": "10/23/2024 17:25:14",
 "Key": "content/cos/hnc/cdcu6/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -1798,11 +1798,11 @@
 "Size": "1380744"
 },
 {
-"name": "Army_Standard_CDC_0-5_Apr2021_.pdf",
-"LastModified": "04/07/2021 12:58:23",
-"Key": "content/cos/hnc/cdcu6/Library/Army Standards/Army_Standard_CDC_0-5_Apr2021_.pdf",
+"name": "CDC-0-5_Army Standard_MAY 2024.pdf",
+"LastModified": "10/23/2024 17:24:00",
+"Key": "content/cos/hnc/cdcu6/Library/Army Standards/CDC-0-5_Army Standard_MAY 2024.pdf",
 "extension": ".pdf",
-"Size": "785673"
+"Size": "449728"
 },
 {
 "name": "CDC 0-5_Large_1391 Template.pdf",
@@ -4074,7 +4074,7 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "03/23/2023 11:06:21",
+"LastModified": "10/23/2024 17:38:21",
 "Key": "content/cos/hnc/yc/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -4395,11 +4395,11 @@
 "Size": "4000321"
 },
 {
-"name": "Army_Standard_Youth_Center_Apr2021_.pdf",
-"LastModified": "04/07/2021 12:58:32",
-"Key": "content/cos/hnc/yc/Library/Army Standards/Army_Standard_Youth_Center_Apr2021_.pdf",
+"name": "YC_Army Standard_MAY 2024.pdf",
+"LastModified": "10/23/2024 17:27:00",
+"Key": "content/cos/hnc/yc/Library/Army Standards/YC_Army Standard_MAY 2024.pdf",
 "extension": ".pdf",
-"Size": "755385"
+"Size": "516332"
 },
 {
 "name": "YC_Large_1391 Template.pdf",
