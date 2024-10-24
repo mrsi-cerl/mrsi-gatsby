@@ -12,7 +12,7 @@ hq_division: E&C
 er_number: TBD - DRAFT ER 1110-1-xxx
 er_link: https://mrsi.erdc.dren.mil/404.html
 er_publication_date: N/A
-activation_date: 2002 as DX, 2007 as MCX
+activation_date: 2007
 recertification_date: 4 Apr 2024
 center_functional_proponent: Mr. Tom Smith
 keywords: Cost Engineering

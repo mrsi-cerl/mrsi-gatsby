@@ -11,7 +11,7 @@ hq_poc_name: Tiffany Burroughs
 hq_division: OPS
 er_number: ER 10-1-46
 er_link: https://www.publications.usace.army.mil/Portals/76/ER%2010-1-46%20Combined.pdf?ver=-M7UR83xOkneHjX1Y00lYQ%3d%3d
-er_publication_date: 26 Mar 1990
+er_publication_date: 13 Mar 2013
 activation_date: 17 Oct 1988
 recertification_date: 05 Oct 2022
 center_functional_proponent: Tom Smith

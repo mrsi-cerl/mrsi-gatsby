@@ -7,13 +7,13 @@ center_type: MCX
 website: https://www.nwo.usace.army.mil/pdc/home/
 center_poc_name: John R. Galloway
 center_poc_phone_number: ☎ (402) 995-2466
-hq_poc_name: Rich Ludwitzke / Christopher Westbrook
+hq_poc_name: Rich Ludwitzke
 hq_division: E&C
 er_number: ER 1110-1-8175
 er_link: https://www.publications.usace.army.mil/Portals/76/ER_1110-1-8175.pdf
 er_publication_date:  25 Feb 2024
 activation_date: 22 Nov 1985
-recertification_date: 31 Jan 2018
+recertification_date: 16 Apr 2024
 center_functional_proponent: Tom Smilth
 keywords: Building Anti Terrorism Design
 // file_library_root_path: "content/coe/mcx/pdc/Library/" 

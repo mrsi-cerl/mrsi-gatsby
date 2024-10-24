@@ -14,7 +14,7 @@ er_link: https://www.publications.usace.army.mil/Portals/76/Users/182/86/2486/ER
 er_publication_date: 30 Oct 2020
 activation_date: 20 Jul 2018
 recertification_date: 30 Oct 2020
-center_functional_proponent: Drew White
+center_functional_proponent: Alan Parks
 keywords: Military Cyber Design
 // file_library_root_path: "content/coe/mcx/csc/Library/" 
 page_last_reviewed: 1 January 1970 
