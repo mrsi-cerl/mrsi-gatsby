@@ -4,7 +4,7 @@ title: Dam Safety Modification
 name_of_center: Dam Safety Modification
 place_of_center: LRH
 center_type: MCX
-website: https://www.lrh.usace.army.mil/Missions/DSMMCX/
+website: https://usace.dps.mil/sites/INTRA-LRH/SitePages/Dam-Safety-Production-Center-Home.aspx
 center_poc_name: Don Whitmore
 center_poc_phone_number: ☎ (304) 399-5221
 hq_poc_name: Travis Tutka
