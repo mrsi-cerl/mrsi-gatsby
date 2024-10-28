@@ -6,7 +6,7 @@ place_of_center: LRH
 center_type: MCX
 website: https://usace.dps.mil/sites/INTRA-LRH/SitePages/Dam-Safety-Production-Center-Home.aspx
 center_poc_name: Don Whitmore
-center_poc_phone_number: ☎ (304) 399-5221
+center_poc_phone_number: ☎ (304) 399-6941
 hq_poc_name: Travis Tutka
 hq_division: E&C
 er_number: ER 10-1-51
