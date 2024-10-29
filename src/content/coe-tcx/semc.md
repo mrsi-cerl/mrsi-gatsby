@@ -7,11 +7,11 @@ center_type: TCX
 website: https://team.usace.army.mil/sites/AGC/PDT/SEMC/default.aspx
 center_poc_name: James Garster
 center_poc_phone_number: ☎ (703) 428-9026
-hq_poc_name: Earnest "Mack" McCarty
-hq_division: E&C
+hq_poc_name: Earnest McCarty
+hq_division: Engineering & Construction
 activation_date: N/A
 recertification_date: 01 Sep 2023
-center_functional_proponent: Tom Smilth
+center_functional_proponent: Tom Smith
 keywords: Survey and Mapping
 // file_library_root_path: "content/coe/tcx/semc/Library/" 
 page_last_reviewed: 1 January 1970 

@@ -8,10 +8,10 @@ website: https://www.usace.army.mil/Missions/Military-Missions/PREP/
 center_poc_name: Martha Kiene
 center_poc_phone_number: ☎ (703) 704-2764
 hq_poc_name: Dawn Carney
-hq_division: E&C
+hq_division: Engineering & Construction
 activation_date: 01 Apr 2022
 recertification_date: 01 Apr 2022
-center_functional_proponent: Tom Smilth
+center_functional_proponent: Tom Smith
 keywords: Power Reliability
 // file_library_root_path: "content/coe/tcx/prep/Library/" 
 page_last_reviewed: 1 January 1970 

@@ -8,10 +8,10 @@ website: https://usace.dps.mil/sites/INTRA-NWP/SitePages/Hydroelectric-Design-Ce
 center_poc_name: Jordan Fink
 center_poc_phone_number: ☎ (503) 808-4200
 hq_poc_name: Timothy Paulus / Daniel Rabon
-hq_division: E&C
+hq_division: Engineering & Construction
 activation_date: 2001 - TCX pumping plants
 recertification_date: 20 Apr 2023
-center_functional_proponent: Tom Smilth
+center_functional_proponent: Tom Smith
 keywords: Hydro Design
 // file_library_root_path: "content/coe/tcx/hdc/Library/" 
 page_last_reviewed: 1 January 1970 

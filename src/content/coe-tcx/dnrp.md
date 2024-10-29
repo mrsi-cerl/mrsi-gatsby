@@ -8,7 +8,7 @@ website: https://www.nab.usace.army.mil/Business-With-Us/Real-Estate/DNRP/
 center_poc_name: Mike Schaetzle
 center_poc_phone_number: ☎ (410) 962-4177
 hq_poc_name: Bobby L. Roberts
-hq_division: RE
+hq_division: Real Estate
 activation_date: 01 Jun 1987
 recertification_date: 15 Aug 2023
 center_functional_proponent: Paula Johnson-Muic

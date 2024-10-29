@@ -8,10 +8,10 @@ website: http://www.hnc.usace.army.mil/Missions/Centers-of-Expertise
 center_poc_name: David Klahn
 center_poc_phone_number: ☎ (256) 324-4076
 hq_poc_name: Mark Atkins / Dawn Carney
-hq_division: E&C and Safety
+hq_division: Engineering & Construction and Safety
 activation_date: N/A
 recertification_date: 14 Jun 2023
-center_functional_proponent: Tom Smilth
+center_functional_proponent: Tom Smith
 keywords: Systems Safety Analysis
 // file_library_root_path: "content/coe/tcx/fass/Library/" 
 page_last_reviewed: 1 January 1970 

@@ -6,12 +6,12 @@ place_of_center: SAM
 center_type: TCX
 website: http://www.sam.usace.army.mil/Missions/MilitaryMissions/Engineering/WaterandWastewater.aspx
 center_poc_name: Austin Forwood
-center_poc_phone_number: ☎ (251) 694-4363
+center_poc_phone_number: ☎ (251) 690-2784
 hq_poc_name: Jennifer Kline
-hq_division: E&C
+hq_division: Engineering & Construction
 activation_date: N/A
 recertification_date: 26 Jan 2018
-center_functional_proponent: Tom Smilth
+center_functional_proponent: Tom Smith
 keywords: Wastewater Design
 // file_library_root_path: "content/coe/tcx/wwt/Library/" 
 page_last_reviewed: 1 January 1970 

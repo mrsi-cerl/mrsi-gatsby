@@ -14,7 +14,7 @@ er_link: https://www.publications.usace.army.mil/Portals/76/Users/182/86/2486/ER
 er_publication_date: 01 Oct 2018
 activation_date: 01 Nov 2017
 recertification_date: 26 Jul 2023
-center_functional_proponent: Tom Smilth
+center_functional_proponent: Tom Smith
 keywords: Explosive Safety
 // file_library_root_path: "content/coe/mcx/fes/Library/" 
 page_last_reviewed: 1 January 1970 

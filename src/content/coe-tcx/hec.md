@@ -11,7 +11,7 @@ hq_poc_name: Sean Smith
 hq_division: CW
 activation_date: N/A
 recertification_date: 28 Apr 2023
-center_functional_proponent: Tom Smilth
+center_functional_proponent: Tom Smith
 keywords: Water Resource Management
 // file_library_root_path: "content/coe/tcx/hec/Library/" 
 page_last_reviewed: 1 January 1970 

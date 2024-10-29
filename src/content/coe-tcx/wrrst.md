@@ -8,10 +8,10 @@ website: http://www.erdc.usace.army.mil/Media/FactSheets/FactSheetArticleView/ta
 center_poc_name: David Finnegan
 center_poc_phone_number: ☎ (603) 646-4106
 hq_poc_name: Jacob Watts
-hq_division: E&C
+hq_division: Engineering & Construction
 activation_date: N/A
 recertification_date: 29 Nov 2023
-center_functional_proponent: Tom Smilth
+center_functional_proponent: Tom Smith
 keywords: Civil Works GIS
 // file_library_root_path: "content/coe/tcx/wrrst/Library/" 
 page_last_reviewed: 1 January 1970 

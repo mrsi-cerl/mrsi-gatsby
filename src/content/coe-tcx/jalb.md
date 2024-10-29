@@ -8,9 +8,9 @@ website: http://www.sam.usace.army.mil/Missions/NationalCentersinMobile/JointAir
 center_poc_name: Jennifer Wozencraft
 center_poc_phone_number: ☎ (228) 252-1101
 hq_poc_name: Tiffany Burroughs
-hq_division: OPS
+hq_division: Operations Readiness
 activation_date: N/A
-recertification_date: 31 Jan 2018
+recertification_date: 1 Apr 2024
 center_functional_proponent: Tom Smith
 keywords: LIDAR
 // file_library_root_path: "content/coe/tcx/jalb/Library/" 

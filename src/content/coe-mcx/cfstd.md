@@ -14,7 +14,7 @@ er_link: https://www.publications.usace.army.mil/Portals/76/Publications/Enginee
 er_publication_date: 21 Apr 2016
 activation_date:  06 Mar 2006
 recertification_date: 15 Nov 2023
-center_functional_proponent: Tom Smilth
+center_functional_proponent: Tom Smith
 keywords: Army design standardization
 // file_library_root_path: "content/coe/mcx/cfstd/Library/" 
 page_last_reviewed: 1 January 1970 

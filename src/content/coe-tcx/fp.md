@@ -8,10 +8,10 @@ website: https://www.tam.usace.army.mil/Business-With-Us/Hangar-Fire-Protection/
 center_poc_name: Samuel George
 center_poc_phone_number: ☎ (540) 665-3632
 hq_poc_name: John Wilkus
-hq_division: E&C
+hq_division: Engineering & Construction
 activation_date: N/A
 recertification_date: 24 Jan 2024
-center_functional_proponent: Tom Smilth
+center_functional_proponent: Tom Smith
 keywords: Hanger Fire Protection
 // file_library_root_path: "content/coe/tcx/fp/Library/" 
 page_last_reviewed: 1 January 1970 

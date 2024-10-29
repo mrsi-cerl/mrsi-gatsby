@@ -8,7 +8,7 @@ website: https://www.sas.usace.army.mil/About/Divisions-and-Offices/Real-Estate-
 center_poc_name: Enrique Godinez
 center_poc_phone_number: ☎ (503) 961-5890
 hq_poc_name: Enrique Godinez
-hq_division: RE
+hq_division: Real Estate
 er_number: Title 10 USC §18240
 er_link: https://www.govinfo.gov/content/pkg/USCODE-2009-title10/pdf/USCODE-2009-title10-subtitleE-partV-chap1803-sec18240.pdf
 er_publication_date: N/A

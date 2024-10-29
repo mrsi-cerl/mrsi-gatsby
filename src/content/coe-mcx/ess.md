@@ -14,7 +14,7 @@ er_link: https://www.publications.usace.army.mil/Portals/76/Publications/Enginee
 er_publication_date: 31 Jan 2014
 activation_date: N/A
 recertification_date: 26 Jul 2023
-center_functional_proponent: Tom Smilth
+center_functional_proponent: Tom Smith
 keywords: Electronic Security
 // file_library_root_path: "content/coe/mcx/ess/Library/"
 page_last_reviewed: 1 January 1970

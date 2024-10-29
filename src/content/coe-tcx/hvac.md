@@ -5,13 +5,13 @@ name_of_center: Heating, Ventilating, & Air Conditioning
 place_of_center: HNC
 center_type: TCX
 website: http://www.hnc.usace.army.mil/Missions/Centers-of-Expertise
-center_poc_name: Sandy Wood
-center_poc_phone_number: ☎ (256) 895-1718
+center_poc_name: Rhonda Fetner
+center_poc_phone_number: ☎ (256) 895-1727
 hq_poc_name: Tim Gordon
-hq_division: E&C
+hq_division: Engineering & Construction
 activation_date: N/A
 recertification_date: 26 Apr 2023
-center_functional_proponent: Tom Smilth
+center_functional_proponent: Tom Smith
 keywords: HVAC
 // file_library_root_path: "content/coe/tcx/hvac/Library/"
 page_last_reviewed: 1 January 1970

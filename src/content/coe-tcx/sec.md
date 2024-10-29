@@ -8,10 +8,10 @@ website: http://www.sam.usace.army.mil/Missions/Military-Missions/Engineering/Su
 center_poc_name: Rhonda Capes
 center_poc_phone_number: ☎ (251) 694-3406
 hq_poc_name: Marty Goff
-hq_division: E&C
+hq_division: Engineering & Construction
 activation_date: N/A
 recertification_date: 19 Jul 2024
-center_functional_proponent: Tom Smilth
+center_functional_proponent: Tom Smith
 keywords: Geotechnical investigations
 // file_library_root_path: "content/coe/tcx/sec/Library/" 
 page_last_reviewed: 1 January 1970 

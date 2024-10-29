@@ -5,10 +5,10 @@ name_of_center: Rapid Response Technical Center of Expertise (Rapid Response SAT
 place_of_center: NWO
 center_type: TCX
 website: http://www.nwo.usace.army.mil/About/CentersofExpertise.aspx
-center_poc_name: Tim Gouger (primary) / Mark Meacham (secondary)
-center_poc_phone_number: ☎ (402) 995-2191 / (402) 885-0655
+center_poc_name: Tim Gouger / Rich McConnel
+center_poc_phone_number: ☎ (402) 995-2191 / (402) 995-2283
 hq_poc_name: John Busse
-hq_division: ENV
+hq_division: Environmental / Interagency & International Services (IIS)
 activation_date: 13 Jun 1991
 recertification_date: 18 Nov 2021
 center_functional_proponent: Lara Beasley (environmental),, Michael Schultz (IIS—non-environmental)

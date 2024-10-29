@@ -9,7 +9,7 @@ center_poc_name: Matt Walters
 center_poc_phone_number: ☎ (217) 373-4450
 hq_poc_name: Saeed Goodman (USACE), James M. Livingston (HQDA, G9),
 hq_poc_name2: Richard C. Matkins (HQDA, G9)
-hq_division: IS
+hq_division: Installation Readiness
 activation_date: N/A
 recertification_date: 09 Sep 2024
 center_functional_proponent: Alan L. Parks

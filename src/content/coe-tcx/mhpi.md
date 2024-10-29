@@ -7,10 +7,10 @@ center_type: TCX
 website: https://www.nao.usace.army.mil/Business-With-Us/RCI-Small-Installations-Privatization-Initiative/
 center_poc_name: Donna Carrier-Tal
 center_poc_phone_number: ☎ (757) 201-7733
-hq_poc_name: Sarah Simpson
-hq_division: RE
+hq_poc_name: Sara Simpson
+hq_division: Real Estate
 activation_date: 14 Jan 2002
-recertification_date: 31 Mar 2023
+recertification_date: 11 Jul 2017
 center_functional_proponent: Paula Muic-Johnson (Acting DRE)
 keywords: Military housing
 // file_library_root_path: "content/coe/tcx/mhpi/Library/"

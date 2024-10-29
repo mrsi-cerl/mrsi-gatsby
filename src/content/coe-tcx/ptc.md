@@ -8,10 +8,10 @@ website: http://www.erdc.usace.army.mil/Media/FactSheets/FactSheetArticleView/ta
 center_poc_name: Brooke Divan
 center_poc_phone_number: ☎ (217) 373-3364
 hq_poc_name: Scott Wick
-hq_division: E&C
+hq_division: Engineering & Construction
 activation_date: N/A
 recertification_date: 10 Jun 2024
-center_functional_proponent: Tom Smilth
+center_functional_proponent: Tom Smith
 keywords: Paint and Coatings
 // file_library_root_path: "content/coe/tcx/ptc/Library/" 
 page_last_reviewed: 1 January 1970 

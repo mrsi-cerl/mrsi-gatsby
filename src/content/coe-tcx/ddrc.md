@@ -8,9 +8,9 @@ website: http://www.hnc.usace.army.mil/Missions/Centers-of-Expertise
 center_poc_name: Wesley Bushnell
 center_poc_phone_number: ☎ (256) 895-1313
 hq_poc_name: Amanda Weinert
-hq_division: MP
+hq_division: Programs Integration - Military Programs
 activation_date: 01 Jan 2004
-recertification_date: 12 Feb 2018
+recertification_date: 12 Apr 2024
 center_functional_proponent: Stacey Hirata
 keywords: DD 1391
 // file_library_root_path: "content/coe/tcx/ddrc/Library/" 

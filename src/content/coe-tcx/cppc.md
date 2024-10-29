@@ -5,10 +5,10 @@ name_of_center: Collaboration & Public Participation Center
 place_of_center: IWR
 center_type: TCX
 website: https://www.iwr.usace.army.mil/About/Technical-Centers/CPCX-Collaboration-Public-Participation/
-center_poc_name: Hal Cardwell
-center_poc_phone_number: ☎ (703) 428-9071
+center_poc_name: Stacy M. Langsdale / Hal Cardwell
+center_poc_phone_number: ☎ (703) 428-7245 / ☎ (703) 428-9071
 hq_poc_name: Joe Redican
-hq_division: CW
+hq_division: Planning & Policy
 activation_date: 17 Oct 2008
 recertification_date: 16 Jun 2023
 center_functional_proponent: Eric Bush

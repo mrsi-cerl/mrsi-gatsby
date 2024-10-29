@@ -8,10 +8,10 @@ website: https://www.sam.usace.army.mil/Missions/Military-Missions/Engineering/C
 center_poc_name: Ryan Fortner
 center_poc_phone_number: ☎ (251) 690-2719
 hq_poc_name: Tim Paulus
-hq_division: E&C
+hq_division: Engineering & Construction
 activation_date: N/A
 recertification_date: 20 Apr 2023
-center_functional_proponent: Tom Smilth
+center_functional_proponent: Tom Smith
 keywords: Cathodic Protection
 // file_library_root_path: "content/coe/tcx/cccp/Library/" 
 page_last_reviewed: 1 January 1970 

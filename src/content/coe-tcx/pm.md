@@ -8,10 +8,10 @@ website: http://www.mvs.usace.army.mil/Missions/CentersofExpertise/Photogrammetr
 center_poc_name: Keith Short
 center_poc_phone_number: ☎ (314) 331-8867
 hq_poc_name: Jacob Watts
-hq_division: E&C
+hq_division: Engineering & Construction
 activation_date: 01 Oct 1995
 recertification_date: 17 May 2023
-center_functional_proponent: Tom Smilth
+center_functional_proponent: Tom Smith
 keywords: Photogrammetry
 // file_library_root_path: "content/coe/tcx/pm/Library/" 
 page_last_reviewed: 1 January 1970 

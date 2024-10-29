@@ -6,12 +6,12 @@ place_of_center: NWS
 center_type: TCX
 website: http://www.nws.usace.army.mil/BusinessWithUs/HistoricPreservation.aspx
 center_poc_name: Lys Perhay
-center_poc_phone_number: ☎ (206) 764-3422
+center_poc_phone_number: ☎ (541) 640-9938
 hq_poc_name: Scott Wick
-hq_division: E&C
+hq_division: Engineering & Construction
 activation_date: N/A
 recertification_date: 22 Jan 2023
-center_functional_proponent: Tom Smilth
+center_functional_proponent: Tom Smith
 keywords: Historic Structure Compliance
 // file_library_root_path: "content/coe/tcx/hsb/Library/"
 page_last_reviewed: 1 January 1970

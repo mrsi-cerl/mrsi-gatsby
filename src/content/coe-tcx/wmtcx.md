@@ -8,10 +8,10 @@ website: https://usace.dps.mil/sites/INTRA-NWP/SitePages/Welding-and-Metallurgy-
 center_poc_name: Travis Adams
 center_poc_phone_number: ☎ (503) 808 4954
 hq_poc_name: Dan Jensen
-hq_division: E&C
+hq_division: Engineering & Construction
 activation_date: 13 Dec 2012
 recertification_date: 27 Feb 2024
-center_functional_proponent: Tom Smilth
+center_functional_proponent: Tom Smith
 keywords: Welding
 // file_library_root_path: "content/coe/tcx/wmtcx/Library/" 
 page_last_reviewed: 1 January 1970 
