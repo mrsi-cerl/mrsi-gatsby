@@ -5,7 +5,7 @@ name_of_center: Rapid Response Technical Center of Expertise (Rapid Response SAT
 place_of_center: NWO
 center_type: TCX
 website: http://www.nwo.usace.army.mil/About/CentersofExpertise.aspx
-center_poc_name: Tim Gouger / Rich McConnel
+center_poc_name: Tim Gouger / Rich McConnell
 center_poc_phone_number: ☎ (402) 995-2191 / (402) 995-2283
 hq_poc_name: John Busse
 hq_division: Environmental / Interagency & International Services (IIS)
