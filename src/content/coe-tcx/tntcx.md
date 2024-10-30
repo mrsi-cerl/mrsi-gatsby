@@ -11,7 +11,7 @@ hq_poc_name: Curtis Sedlacek
 hq_division: Programs Integration Division - Civil Works
 activation_date: 24 Nov 2015
 recertification_date: 31 May 2024
-center_functional_proponent: Stacy Brown
+center_functional_proponent: Theodore Brown
 keywords: Tribal Nations
 // file_library_root_path: "content/coe/tcx/tntcx/Library/" 
 page_last_reviewed: 1 January 1970 
