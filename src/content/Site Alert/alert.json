@@ -7,11 +7,11 @@
     "title": "Network Outage"
   },
   {
-    "startDate": "14:00  10/25/2024",
-    "endDate": "19:00  10/27/2024",
-    "message": "Our provider is conducting power system upgrades / maintenance over the weekend, starting at 1900 CDT, 25 OCT 24 through 1700 CDT 27 OCT 24. All Wizard applications and Library files will be unavailable during this time. ",
+    "startDate": "14:00  10/31/2024",
+    "endDate": "01:00  11/1/2024",
+    "message": "Our hosting provider is conducting planned maintenance this evening starting at 2000 CDT, 31 OCT 24 through 0000 CDT 1 NOV 24. All Wizard applications and Library files will be unavailable during this time. ",
     "level": "info",
-    "title": "Planned Power Outage"
+    "title": "Planned Network Maintenance"
   },
   {
     "startDate": "9:00  08/15/2024",
