@@ -8,7 +8,7 @@ website: https://www.hnc.usace.army.mil/Media/Fact-Sheets/Fact-Sheet-Article-Vie
 center_poc_name: Susan Hamilton 
 center_poc_phone_number: ☎ (256) 895-1658
 hq_poc_name: Rich Ludwitzke
-hq_division: E&C
+hq_division: Engineering & Construction
 er_number: ER 1110-1-8169
 er_link: https://www.publications.usace.army.mil/Portals/76/Users/182/86/2486/ER_1110-1-8169.pdf?ver=IkCQzIJd-ykIhLWSGwz1vQ%3d%3d
 er_publication_date: 01 Oct 2018

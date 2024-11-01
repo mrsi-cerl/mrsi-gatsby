@@ -8,7 +8,7 @@ website: http://www.mvs.usace.army.mil/Missions/CentersofExpertise/CurationMgmto
 center_poc_name: Jennifer Riordan
 center_poc_phone_number: ☎ (314) 331-8855
 hq_poc_name: Jeff Krause / Nancy Brighton
-hq_division: CW
+hq_division: Operational Readiness / Planning & Policy
 er_number: DRAFT 1110-1-8165
 er_link: https://mrsi.erdc.dren.mil/404.html
 er_publication_date: TBD

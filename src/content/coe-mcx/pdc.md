@@ -8,7 +8,7 @@ website: https://www.nwo.usace.army.mil/pdc/home/
 center_poc_name: John R. Galloway
 center_poc_phone_number: ☎ (402) 995-2466
 hq_poc_name: Rich Ludwitzke
-hq_division: E&C
+hq_division: Engineering & Construction
 er_number: ER 1110-1-8175
 er_link: https://www.publications.usace.army.mil/Portals/76/ER_1110-1-8175.pdf
 er_publication_date:  25 Feb 2024

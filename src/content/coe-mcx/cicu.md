@@ -8,7 +8,7 @@ website: https://usace.dps.mil/sites/KMP-UCIC?title=SWD:_Critical_Infrastructure
 center_poc_name: Phil Copeland
 center_poc_phone_number: ☎ (417) 231-7136
 hq_poc_name: Meg Gaffney-Smith
-hq_division: CW
+hq_division: Operational Readiness
 er_number: ER 25-1-113
 er_link: https://www.publications.usace.army.mil/Portals/76/Users/182/86/2486/ER%2025-1-113.pdf?ver=CWGVBUsmJ4bMuJ3kSM2L-A%3d%3d
 er_publication_date: 31 Jan 2019

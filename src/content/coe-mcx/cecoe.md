@@ -8,7 +8,7 @@ website: http://www.nww.usace.army.mil/Missions/CostEngineering.aspx
 center_poc_name: Michael Jacobs
 center_poc_phone_number: ☎ (509) 527-7516
 hq_poc_name: Mukesh Kumar
-hq_division: E&C
+hq_division: Engineering & Construction
 er_number: TBD - DRAFT ER 1110-1-xxx
 er_link: https://mrsi.erdc.dren.mil/404.html
 er_publication_date: N/A

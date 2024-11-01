@@ -8,7 +8,7 @@ website: http://www.usace.army.mil/Missions/Military-Missions/Real-Estate/HAP
 center_poc_name: Ralph Werthman
 center_poc_phone_number: ☎ (912) 652-5011
 hq_poc_name: Ben Foo
-hq_division: RE
+hq_division: Real Estate
 er_number: AR 405-16
 er_link: https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/r405-16_Web_FINAL.pdf
 er_publication_date: 29 Sep 2016

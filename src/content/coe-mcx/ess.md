@@ -8,7 +8,7 @@ website: http://www.hnc.usace.army.mil/Media/Fact-Sheets/Fact-Sheet-Article-View
 center_poc_name: Melinda "Leigh" Young / Xuan Ross
 center_poc_phone_number: ☎ (256) 656-4218 / ☎ (256) 221-4766
 hq_poc_name: Nic Ivy
-hq_division: E&C
+hq_division: Engineering & Construction
 er_number: ER 1110-1-8162
 er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_1110-1-8162.pdf?ver=PJkE9pjRKsR6QXVKfoqjKQ%3d%3d
 er_publication_date: 31 Jan 2014

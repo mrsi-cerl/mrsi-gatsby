@@ -8,7 +8,7 @@ website: https://www.hnc.usace.army.mil/Missions/Environmental-and-Munitions/
 center_poc_name: Michelle Lordemann
 center_poc_phone_number: ☎ (402) 697-2563
 hq_poc_name: Antonia Giardina / Cathy Forget
-hq_division: ENV
+hq_division: Environmental
 er_number: ER 10-1-50
 er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_10-1-50.pdf?ver=pR9lTjGLJ-tqHDyrUBtrGw%3d%3d
 er_publication_date: 30 Apr 2012

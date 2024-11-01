@@ -8,7 +8,7 @@ website: http://www.hnc.usace.army.mil/Missions/Centers-of-Expertise
 center_poc_name: Jerry Haley
 center_poc_phone_number: ☎ (256) 895-1733
 hq_poc_name: Sue Nachtigall
-hq_division: IS
+hq_division: Installation Readiness
 er_number: ER 210-3-2, Army Range Program
 er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER%20210-3-2%20w%20Errata%20Sheet.pdf?ver=_fn8XaEz-RdgGNAYQML5uA%3d%3d
 er_publication_date: 30 Sep 2022

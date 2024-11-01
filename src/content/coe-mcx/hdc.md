@@ -8,7 +8,7 @@ website: https://usace.dps.mil/sites/INTRA-NWP/SitePages/Hydroelectric-Design-Ce
 center_poc_name: Jordan Fink
 center_poc_phone_number: ☎ (503) 808-4200
 hq_poc_name: Timothy Paulus / Daniel Rabon
-hq_division: E&C
+hq_division: Engineering & Construction
 er_number: ER 10-1-53
 er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_10-1-53.pdf?ver=MUMBaTMseR94YeNWhMCP8g%3d%3d
 er_publication_date: 30 Apr 2015

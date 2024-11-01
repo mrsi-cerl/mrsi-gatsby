@@ -8,7 +8,7 @@ website: https://usace.dps.mil/sites/INTRA-LRH/SitePages/Dam-Safety-Production-C
 center_poc_name: Don Whitmore
 center_poc_phone_number: ☎ (304) 399-6941
 hq_poc_name: Travis Tutka
-hq_division: E&C
+hq_division: Engineering & Construction
 er_number: ER 10-1-51
 er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_10-1-51.pdf?ver=hB5_XhbLZkxHxUAvd-k7ug%3d%3d
 er_publication_date: 28 Sep 2012

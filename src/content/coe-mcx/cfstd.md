@@ -8,7 +8,7 @@ website: https://mrsi.erdc.dren.mil/cos
 center_poc_name: Varies
 center_poc_phone_number: ☎ (000) 000-0000  //replace with link to COS POC page in template
 hq_poc_name: Scott Wick
-hq_division: E&C
+hq_division: Engineering & Construction
 er_number: ER1110-3-113
 er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_1110-3-113.pdf
 er_publication_date: 21 Apr 2016

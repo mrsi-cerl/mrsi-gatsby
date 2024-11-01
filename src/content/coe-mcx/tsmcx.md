@@ -8,7 +8,7 @@ website: https://transportation.erdc.dren.mil/tsmcx/Default.aspx
 center_poc_name: Steven D. Carter
 center_poc_phone_number: ☎ (402) 995-2399
 hq_poc_name: Georgette Hlepas
-hq_division: E&C
+hq_division: Engineering & Construction
 er_number: ER 1110-34-1
 er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_1110-34-1.pdf?ver=xkwoJrVubxBVuG3qnoJ44A%3d%3d
 er_publication_date: 31 Oct 2016

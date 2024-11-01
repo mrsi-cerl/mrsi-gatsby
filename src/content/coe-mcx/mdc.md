@@ -8,7 +8,7 @@ website: http://www.nap.usace.army.mil/Missions/MarineDesignCenter.aspx
 center_poc_name: Brian R. Murtaugh
 center_poc_phone_number: ☎ (215) 656-6858
 hq_poc_name: Tiffany Burroughs
-hq_division: OPS
+hq_division: Operations Readiness
 er_number: ER 10-1-46
 er_link: https://www.publications.usace.army.mil/Portals/76/ER%2010-1-46%20Combined.pdf?ver=-M7UR83xOkneHjX1Y00lYQ%3d%3d
 er_publication_date: 13 Mar 2013

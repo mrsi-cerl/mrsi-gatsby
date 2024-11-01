@@ -8,7 +8,7 @@ website: https://www.hnc.usace.army.mil/Media/Fact-Sheets/Fact-Sheet-Article-Vie
 center_poc_name: Eric Lynch
 center_poc_phone_number: ☎ (256) 895-1739
 hq_poc_name: Chris Battisti
-hq_division: E&C
+hq_division: Engineering & Construction
 er_number: ER 1110-1-8163
 er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_1110-1-8163.pdf?ver=XOncaKeMOapxJ1jWZRuCXw%3d%3d
 er_publication_date: 31 Jan 2014
