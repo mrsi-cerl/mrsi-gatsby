@@ -14,7 +14,7 @@ er_link: https://mrsi.erdc.dren.mil/404.html
 er_publication_date: TBD
 activation_date: 07 Dec 1994
 recertification_date: 27 Mar 2024
-center_functional_proponent: Tom Smith / Eric Bush
+center_functional_proponent: Stephen Hill / Eric Bush
 keywords: Curation
 // file_library_root_path: "content/coe/mcx/cmac/Library/" 
 page_last_reviewed: 1 January 1970 
