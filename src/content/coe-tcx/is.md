@@ -11,7 +11,7 @@ hq_poc_name: Christy Jones
 hq_division: Programs Integration - Military Programs
 activation_date: 29 Jun 2007
 recertification_date: 12 Apr 2024
-center_functional_proponent: Michael Grizer (Acting)
+center_functional_proponent: Stacey Hirata
 keywords: Military Installation Design Support
 // file_library_root_path: "content/coe/tcx/is/Library/" 
 page_last_reviewed: 1 January 1970 
