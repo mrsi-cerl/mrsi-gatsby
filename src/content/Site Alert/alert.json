@@ -14,9 +14,9 @@
     "title": "Planned Network Maintenance"
   },
   {
-    "startDate": "9:00  08/15/2024",
-    "endDate": "18:00  08/15/2024",
-    "message": "The servers for all of the Wizards will be down late this afternoon (Aug 15th) for scheduled maintenance starting at 4pm CDT until about 6pm CDT. File libraries on this site may also be impacted. We apologize for the inconvenience.",
+    "startDate": "13:00  11/21/2024",
+    "endDate": "18:00  11/21/2024",
+    "message": "The servers for all of the Wizards will be down late this afternoon (Nov 21st) for scheduled maintenance starting at 3pm CST until about 6pm CST. File libraries on this site may also be impacted. We apologize for the inconvenience.",
     "level": "info",
     "title": "Server Maintenance"
   },
