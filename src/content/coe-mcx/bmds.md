@@ -7,7 +7,7 @@ center_type: MCX
 website: https://www.hnc.usace.army.mil/Media/Fact-Sheets/Fact-Sheet-Article-View/Article/622664/ballistic-missile-defense/
 center_poc_name: Jeff Watts
 center_poc_phone_number: ☎ (256) 895-1945
-hq_poc_name: MP - Facundo Funes EC - Scott Wick
+hq_poc_name: Kathleen O'Neill (National PgMgr) / Scott Wick (HQ Proponent) 
 hq_division: MP (EC identified in ER)
 er_number: ER 1110-2-8163
 er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_1110-2-8163.pdf?ver=zccDjH50M11uFXTio2zR7w%3d%3d
