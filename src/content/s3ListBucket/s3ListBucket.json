@@ -11991,7 +11991,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "08/21/2024 11:35:00",
+"LastModified": "12/17/2024 16:57:28",
 "Key": "content/cos/swf/ueph/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -12081,18 +12081,18 @@
 "Size": "2631031"
 },
 {
+"name": "2024 Army Standard Required Room Module Configurations.pdf",
+"LastModified": "12/17/2024 15:47:04",
+"Key": "content/cos/swf/ueph/Library/Standard Designs/2024 Army Standard Required Room Module Configurations.pdf",
+"extension": ".pdf",
+"Size": "356718"
+},
+{
 "name": "UEPH Standard Design.pdf",
 "LastModified": "08/21/2024 10:18:00",
 "Key": "content/cos/swf/ueph/Library/Standard Designs/UEPH Standard Design.pdf",
 "extension": ".pdf",
 "Size": "445685"
-},
-{
-"name": "UEPH_Proof of Concept_Standard Design.pdf",
-"LastModified": "05/23/2023 14:09:00",
-"Key": "content/cos/swf/ueph/Library/Standard Designs/UEPH_Proof of Concept_Standard Design.pdf",
-"extension": ".pdf",
-"Size": "4395541"
 },
 {
 "name": "administration",
