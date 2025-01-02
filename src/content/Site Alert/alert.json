@@ -32,7 +32,7 @@
     "endDate": "19:00  01/02/2025",
     "message": "The servers for all of the Wizards will be down later today for scheduled outage from our hosting provider starting at 5 pm CST until 7 pm CST.",
     "level": "info",
-    "title": "Power Outage"
+    "title": "Power Outage" 
   },
   {
     "startDate": "17:00  06/26/2024",
