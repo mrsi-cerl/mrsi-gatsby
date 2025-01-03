@@ -22,8 +22,8 @@
   },
   {
     "startDate": "17:00  01/15/2025",
-    "endDate": "02:00  01/16/2025",
-    "message": "The MRSI Wizard will be down on January 16th from 12 am to 2 am CST while our login provider performs maintenance.",
+    "endDate": "03:00  01/16/2025",
+    "message": "The MRSI Wizard will be down on January 16th from 12 am to 3 am CST while our login provider performs maintenance.",
     "level": "info",
     "title": "Server Maintenance" 
   },
