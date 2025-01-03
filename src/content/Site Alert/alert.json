@@ -35,6 +35,13 @@
     "title": "Power Outage" 
   },
   {
+    "startDate": "17:00  01/15/2025",
+    "endDate": "02:00  01/16/2025",
+    "message": "The servers for all of the Wizards will be down on January 16th from 1am to 4 am CST due to Login.gov services being unavailable for a planned maintenance.",
+    "level": "info",
+    "title": "Server Maintenance" 
+  },
+  {
     "startDate": "17:00  06/26/2024",
     "endDate": "20:01  06/27/2024",
     "message": "<b>** UPDATE ** 27 Jun 6:32pm CDT: The server work is completed.</b> We sincerely apologize for the inconvenience.",
