@@ -21,18 +21,11 @@
     "title": "Server Maintenance"
   },
   {
-    "startDate": "11:00  12/17/2024",
-    "endDate": "18:00  12/19/2024",
-    "message": "The servers for all of the Wizards will be down on December 19th afternoon for scheduled maintenance and upgrades starting at 4pm CST until about 6pm CST.",
+    "startDate": "17:00  01/15/2025",
+    "endDate": "03:00  01/16/2025",
+    "message": "The MRSI Wizard will be down on January 16th from 12 am to 3 am CST while our login provider performs maintenance.",
     "level": "info",
-    "title": "Server Maintenance"
-  },
-  {
-    "startDate": "12:20  01/02/2025",
-    "endDate": "19:00  01/02/2025",
-    "message": "The servers for all of the Wizards will be down later today for scheduled outage from our hosting provider starting at 5 pm CST until 7 pm CST.",
-    "level": "info",
-    "title": "Power Outage" 
+    "title": "Server Maintenance" 
   },
   {
     "startDate": "17:00  06/26/2024",
