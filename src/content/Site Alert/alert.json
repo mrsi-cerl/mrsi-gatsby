@@ -21,6 +21,13 @@
     "title": "Planned Network Maintenance"
   },
   {
+    "startDate": "18:00  01/16/2025",
+    "endDate": "15:00  01/17/2025",
+    "message": "Planned maintenance is being conducted on January 17 2025, starting at 1 pm CDT through 3 pm CDT. All Wizard applications and Library files will be unavailable during this time. ",
+    "level": "info",
+    "title": "Server Maintenance"
+  },
+  {
     "startDate": "13:00  11/21/2024",
     "endDate": "18:00  11/21/2024",
     "message": "The servers for all of the Wizards will be down late this afternoon (Nov 21st) for scheduled maintenance starting at 3pm CST until about 6pm CST. File libraries on this site may also be impacted. We apologize for the inconvenience.",
