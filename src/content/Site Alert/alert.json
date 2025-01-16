@@ -23,7 +23,7 @@
   {
     "startDate": "18:00  01/16/2025",
     "endDate": "15:00  01/17/2025",
-    "message": "Planned maintenance is being conducted on January 17 2025, starting at 1 pm CDT through 3 pm CDT. All Wizard applications and Library files will be unavailable during this time. ",
+    "message": "The MRSI Wizard will be down for planned maintenance on January 17 2025, starting at 1 pm CDT through 3 pm CDT.",
     "level": "info",
     "title": "Server Maintenance"
   },
