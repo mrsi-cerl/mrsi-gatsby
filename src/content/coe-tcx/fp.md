@@ -5,8 +5,8 @@ name_of_center: Aircraft Hangar Fire Protection
 place_of_center: TAM
 center_type: TCX
 website: https://www.tam.usace.army.mil/Business-With-Us/Hangar-Fire-Protection/
-center_poc_name: Samuel George
-center_poc_phone_number: ☎ (540) 665-3632
+center_poc_name: Mary A. Billings
+center_poc_phone_number: ☎ (540) 665-2686 / DLL-CETAM-HANGAR-TCX-WEB@usace.army.mil
 hq_poc_name: John Wilkus
 hq_division: Engineering & Construction
 activation_date: N/A
