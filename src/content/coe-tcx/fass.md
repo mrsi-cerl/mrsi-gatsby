@@ -5,8 +5,8 @@ name_of_center: Facility Systems Safety (FASS)
 place_of_center: HNC
 center_type: TCX
 website: http://www.hnc.usace.army.mil/Missions/Centers-of-Expertise
-center_poc_name: David Klahn
-center_poc_phone_number: ☎ (256) 324-4076
+center_poc_name: Wes Sargent
+center_poc_phone_number: ☎ (256) 864-4425
 hq_poc_name: Mark Atkins / Dawn Carney
 hq_division: Engineering & Construction and Safety
 activation_date: N/A
