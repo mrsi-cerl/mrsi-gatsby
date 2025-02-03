@@ -49,7 +49,7 @@ Full Service 3D Printing and High Resolution 3D modeling/animation
 
 [![CoS Overview](/admin/images/uploads/FY25_CoS_Facility_Overview.png)](https://rfpwizard.mrsi.erdc.dren.mil/MRSI/content/cos/tam/center_home_page/Library/FY25%20COS%20Facility%20Overview.pdf)
 
-[![COS NP Design Builder](/admin/images/uploads/FY25_CoS_Design_Builder.png)](https://rfpwizard.mrsi.erdc.dren.mil/MRSI/content/cos/tam/center_home_page/Library/FY25%20CoS%20design%20Builder%20-%20must%20be%20downloaded%20-%2029JAN25.xlsx)
+[![COS NP Design Builder](/admin/images/uploads/FY25_CoS_Design_Builder.png)](https://rfpwizard.mrsi.erdc.dren.mil/MRSI/content/cos/tam/center_home_page/Library/FY25CoS%20design%20Builder%20-%20must%20be%20downloaded%20-%2029JAN25.xlsx)
 **<span style="font-size:larger;">NOTE: Design Builder file must be downloaded to run.</span>**
 
 ![Facility and Masterplan Prints](/admin/images/uploads/3d-facilities-and-masterplan-prints-TAM.png)
