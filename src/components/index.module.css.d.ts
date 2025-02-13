@@ -8,6 +8,7 @@ declare const styles: {
   readonly "iconStyle": string;
   readonly "homeImage": string;
   readonly "flexAlignCenter": string;
+  readonly "flexAlignTop": string;
   readonly "cardMedia": string;
   readonly "buttonLink": string;
 };

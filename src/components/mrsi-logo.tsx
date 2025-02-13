@@ -8,7 +8,7 @@ const MrsiLogo = () => {
         src="../images/mrsi-blue-logo.png"
         alt="MRSI Logo"
         layout="fixed"
-        width={ 200 }
+        width={ 145 }
         quality={ 95 }
       />
     </a>

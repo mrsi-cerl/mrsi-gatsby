@@ -59,11 +59,20 @@
 }
 
 .homeImage {
-  background-image: url('../images/ResizedUsaceConstruction.jpg');
+  background-image: url('../images/hero-image.png');
   background-position: center;
   background-size: cover;
+  alt: "Triaxial Earthquake and Shock Simulator at ERDC's Construction Engineering Research Laboratory (CERL)";
   height: 400;
   width: 100%;
+}
+
+.grid-container {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 80rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .flexAlignCenter {
@@ -71,6 +80,11 @@
   background-color: white;
 }
 
+.flexAlignTop {
+  align-items: top;
+  margin-top: 1.5em;
+  background-color: white;
+}
 .cardMedia {
   background-color: white;
   height: 10rem;
@@ -82,7 +96,6 @@
 .buttonLink {
   background-color: transparent;
 }
-
 
 .buttonLink a:link,
 .buttonLink a:visited,

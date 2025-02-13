@@ -2,6 +2,7 @@ import { ExtendedNav, Header, Menu, NavDropDownButton, PrimaryNav, Search } from
 import React, { useState } from "react";
 import { mrsiHeaderBody, mrsiHeaderContainer, mrsiHeaderLogo } from "./extended-header.module.css";
 import { MrsiLogo } from "./mrsi-logo";
+import { ErdcLogo } from "./erdc-logo";
 
 const ExtendedHeader = () => {
   return (
@@ -14,10 +15,12 @@ const ExtendedHeader = () => {
               <MrsiLogo />
             </div>
             <div className={ mrsiHeaderBody }>
-              Welcome to MRSI
-              {/* <p className="font-sans-sm">
-                Supporting Military Construction
-              </p > */}
+              <span className="font-sans" style={{ whiteSpace: 'nowrap', margin: '0px', padding: '0px' }}>Welcome&nbsp;to&nbsp;MRSI </span>
+              <hr  style={{ margin: '0px', padding: '0px', visibility: "hidden" }} />
+              <span className="font-sans" style={{ verticalAlign: 'top', fontSize: 'small', whiteSpace: 'nowrap', margin: '0px', padding: '0px' }}>A&nbsp;Military&nbsp;Construction&nbsp;Community&nbsp;R&amp;D&nbsp;Site</span>
+            </div>
+            <div className={ mrsiHeaderLogo }>
+              <ErdcLogo />
             </div>
           </div>
         </div>
