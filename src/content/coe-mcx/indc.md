@@ -7,7 +7,7 @@ center_type: MCX
 website: https://www.mvr.usace.army.mil/About/Offices/Inland-Navigation-Design-Center-INDC/
 center_poc_name: Lenna Hawkins
 center_poc_phone_number: ☎ (412) 862-7536
-hq_poc_name: Rich Ludwitzke / Tiffany Burroughs
+hq_poc_name: Hien Duong (Struc)/ Tiffany Burroughs (OPS)
 hq_division: Engineering & Construction
 er_number: ER1110-1-8168
 er_link: https://www.publications.usace.army.mil/Portals/76/Users/182/86/2486/ER_1110-1-8168.pdf?ver=0LVnBonlM5GQH764UYj2eQ%3d%3d

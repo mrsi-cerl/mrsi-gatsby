@@ -5,8 +5,8 @@ name_of_center: CAD/BIM Technology Center
 place_of_center: ERDC
 center_type: TCX
 website: https://cadbimcenter.erdc.dren.mil/
-center_poc_name: Andrew Ross (Acting thru Dec24)
-center_poc_phone_number: ☎ (601) 634-2390
+center_poc_name: Nathan Jones
+center_poc_phone_number: ☎ (601) 634-4452
 hq_poc_name: Earnest McCarty
 hq_division: Engineering & Construction
 activation_date: N/A

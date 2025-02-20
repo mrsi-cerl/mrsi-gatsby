@@ -7,7 +7,7 @@ center_type: MCX
 website: https://www.hnc.usace.army.mil/Media/Fact-Sheets/Fact-Sheet-Article-View/Article/482080/facilities-explosives-safety/
 center_poc_name: Susan Hamilton 
 center_poc_phone_number: ☎ (256) 895-1658
-hq_poc_name: Rich Ludwitzke
+hq_poc_name: Hien Duong
 hq_division: Engineering & Construction
 er_number: ER 1110-1-8169
 er_link: https://www.publications.usace.army.mil/Portals/76/Users/182/86/2486/ER_1110-1-8169.pdf?ver=IkCQzIJd-ykIhLWSGwz1vQ%3d%3d
