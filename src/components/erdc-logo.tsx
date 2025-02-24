@@ -6,7 +6,7 @@ const ErdcLogo = () => {
     <a href="https://www.erdc.usace.army.mil/" target="_blank" rel="noopener noreferrer">
       <StaticImage
         src="../images/ERDC-USACE-logo.png"
-        alt="ERDC Logo"
+        alt="Engineer Research and Development Center Logo"
         layout="fixed"
         width={ 250 }
         quality={ 95 }

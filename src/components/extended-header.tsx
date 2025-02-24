@@ -1,8 +1,9 @@
 import { ExtendedNav, Header, Menu, NavDropDownButton, PrimaryNav, Search } from "@trussworks/react-uswds";
 import React, { useState } from "react";
-import { mrsiHeaderBody, mrsiHeaderContainer, mrsiHeaderLogo } from "./extended-header.module.css";
+import { mrsiHeaderBody, mrsiHeaderContainer, mrsiHeaderLogo, mrsiHeaderLogin } from "./extended-header.module.css";
 import { MrsiLogo } from "./mrsi-logo";
 import { ErdcLogo } from "./erdc-logo";
+import { MrsiWizardLogin } from "./mrsi-wizard-login";
 
 const ExtendedHeader = () => {
   return (
@@ -21,6 +22,9 @@ const ExtendedHeader = () => {
             </div>
             <div className={ mrsiHeaderLogo }>
               <ErdcLogo />
+            </div>
+            <div className={ mrsiHeaderLogin }>
+              <MrsiWizardLogin />
             </div>
           </div>
         </div>
