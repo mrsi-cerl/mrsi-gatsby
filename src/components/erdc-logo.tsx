@@ -3,15 +3,18 @@ import React from "react";
 
 const ErdcLogo = () => {
   return (
-    <a href="https://www.erdc.usace.army.mil/" target="_blank" rel="noopener noreferrer">
+    <div style={{float: 'none', margin:'0', verticalAlign: 'top'}}>
+      <a href="https://www.erdc.usace.army.mil/" target="_blank" rel="noopener noreferrer">
       <StaticImage
         src="../images/ERDC-USACE-logo.png"
         alt="Engineer Research and Development Center Logo"
         layout="fixed"
-        width={ 250 }
+        height={ 95 }
+        width={ 275 }
         quality={ 95 }
       />
-    </a>
+      </a>
+    </div>
   );
 };
 

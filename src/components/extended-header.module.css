@@ -1,6 +1,6 @@
 .mrsiHeaderContainer {
   display: grid;
-  grid-template-columns: 20% 30% 20% 30%;
+  grid-template-columns: 30% 30% 20% 20%;
   gap: 0em;
   height: 5.5em;
   margin-bottom: 0.5em;
@@ -12,16 +12,16 @@
 }
 
 .mrsiHeaderBody {
-  margin-top: 1em;
-  margin-bottom: 1em;
-  margin-left: 0;
-  font-size: 2em;
+  margin: 0;
+  margin-top: 0.5em;
+  font-size: 28pt;
+  font-weight: bold;
 }
 
 .mrsiHeaderLogin {
-  margin: 1em;
+  margin: 0em;
   vertical-align: top;
-  margin-left: 10em;
+  margin-left: 5em;
 }
 
 .mrsiHeaderSearch {
