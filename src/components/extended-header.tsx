@@ -18,7 +18,7 @@ const ExtendedHeader = () => {
             <div className={ mrsiHeaderBody }>
               <span className="font-sans" style={{ verticalAlign: 'top', whiteSpace: 'nowrap', margin: '0', padding: '0' }}>Welcome&nbsp;to&nbsp;MRSI</span>
               <br  style={{ verticalAlign: 'top', margin: '0', padding: '0', visibility: "hidden", height: 0 }} />
-              <span className="font-sans" style={{ verticalAlign: 'top', fontSize: 'small', fontWeight: "lighter", whiteSpace: 'nowrap', margin: '0', padding: '0' }}>A&nbsp;Military&nbsp;Construction&nbsp;Community&nbsp;R&amp;D&nbsp;Site</span>
+              <span className="font-sans" style={{ verticalAlign: 'top', fontSize: 'small', fontWeight: "lighter", whiteSpace: 'nowrap', margin: '0', marginLeft: '2em', padding: '0' }}>A&nbsp;Military&nbsp;Construction&nbsp;Community&nbsp;R&amp;D&nbsp;Site</span>
             </div>
             <div className={ mrsiHeaderLogo }>
               <ErdcLogo />
