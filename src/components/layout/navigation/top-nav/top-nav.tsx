@@ -50,7 +50,7 @@ const TopNav = ( { path }: { path: string; } ) => {
           } ) }
         >
           <Link to="/coe" title="Centers of Expertise">
-            MCX/CX
+            CX
           </Link>
         </li>
         <li
