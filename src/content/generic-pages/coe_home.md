@@ -14,7 +14,7 @@ A **Mandatory Center of Expertise** (or **MCX**) is a USACE organization that ha
 
 **Planning Centers of Expertise**: Congress recognized the need to maintain a strong Civil Works Planning Program in Section 936 of the Water Resources Development Act of 1986. In pursuit of planning excellence, USACE designated six national Planning Centers of Expertise (Coastal Storm Risk Management; Flood Risk Management; Inland Navigation; Deep Draft Navigation; Ecosystem Restoration; Water Management and Reallocation), and one sub-Center (Small Boat Harbors sub-Center). The <a href="https://planning.erdc.dren.mil/toolbox/people.cfm?Id=0&Option=Planning%20Centers%20of%20Expertise" target="blank">Planning Centers of Expertise (PCX)</a> oversee peer review, planning model certification, and provide training, technical services, policy development support, and other services to USACE. PCX services may be reimbursable or centrally funded depending on the specific program and activity.
 
-<h2 style="margin-bottom: 0;">Centers of Expertise Points of Contact</h2>
+<h2 style="margin-bottom: 0;">Centers of Expertise Point of Contact</h2>
 <table className="usa-table" style="border-collapse: collapse; border: none; margin-top: 0;>
     <tbody>
         <tr style="border: none;">
