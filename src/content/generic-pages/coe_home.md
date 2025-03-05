@@ -21,7 +21,7 @@ A **Mandatory Center of Expertise** (or **MCX**) is a USACE organization that ha
             <td style="border: none; nowrap">
                 <b>Program Manager</b><br/>
                 USACE Headquarters<br/>
-                ✉&nbsp;<a href="USACE-Center-of-Expertise-Support@usace.army.mil">USACE-Center-of-Expertise-Support@usace.army.mil</a>
+                ✉&nbsp;<a href="mailto:USACE-Center-of-Expertise-Support@usace.army.mil?subject=Centers%20of%20Expertise%20Inquiry">USACE-Center-of-Expertise-Support@usace.army.mil</a>
             </td>
         </tr>
     </tbody>
