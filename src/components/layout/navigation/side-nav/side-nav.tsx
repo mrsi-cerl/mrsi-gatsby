@@ -111,8 +111,8 @@ function createCOENavList( menuItems: any[], currPath: string ) {
   const menu = createNavList( menuItems, currPath );
   const menu2 = menu.concat(
     <li className="usa-sidenav__item">
-    <Link to="https://usace.dps.mil/sites/TDL-CECW-EC-CXEducationalSeries/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FTDL%2DCECW%2DEC%2DCXEducationalSeries%2FShared%20Documents%2FCX%20Master%20File%2C%20Webinars%2C%20Schedules%2FCX%20WEBINAR%20BRIEFINGS&viewid=1346b6f0%2D77b5%2D4293%2D8bbd%2Dfe7e8c5ae4c3" target="_blank" rel="noopener noreferrer">Center of Expertise Briefings<br />
-    <small><i><b>***PLEASE NOTE***</b> this site requires CAC login.</i></small>
+    <Link to="https://usace.dps.mil/sites/TDL-CECW-EC-CXEducationalSeries/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FTDL%2DCECW%2DEC%2DCXEducationalSeries%2FShared%20Documents%2FCX%20Master%20File%2C%20Webinars%2C%20Schedules%2FCX%20WEBINAR%20BRIEFINGS&viewid=1346b6f0%2D77b5%2D4293%2D8bbd%2Dfe7e8c5ae4c3" target="_blank" rel="noopener noreferrer"><b>* NEW *</b> Center of Expertise Briefings<br />
+    <small><i><b>***PLEASE NOTE***</b> this external site requires CAC login.</i></small>
     </Link>
   </li>
   )
