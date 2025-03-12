@@ -6,8 +6,8 @@ related_links:
     url: "http://www.lrl.usace.army.mil/"
 page_last_reviewed: "Wednesday, Feb 15, 2023"
 doc_type: "cos_page"
-cos_manager_name: "Jennifer Henry"
-cos_manager_email: "Jennifer.E.Henry@usace.army.mil"
+cos_manager_name: "Julie Musial"
+cos_manager_email: "Julie.K.Musial@usace.army.mil"
 cos_long_name: "Louisville "
 cos_short_name: "LRL"
 ---
