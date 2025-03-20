@@ -25,6 +25,7 @@ carousel_images:
   - /admin/images/uploads/fort-irwin-uas-under-construction.jpg
   - /admin/images/uploads/fbtx-hangar-2015.jpg
   - /admin/images/uploads/fort-irwin-uas-under-construction-1.jpg
+draft: true
 ---
 
 ## Description
