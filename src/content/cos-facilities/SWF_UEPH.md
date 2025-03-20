@@ -19,7 +19,7 @@ carousel_images:
 
 ## Description
 
-Unaccompanied Enlisted Personnel Housing (UEPH) remains one of the Army's most prioritized facilities due to the importance of solider wellbeing and combat readiness. UEPH facilities are intended to be similar both functionally and technically to apartment style housing in the private sector. The Standard Design provides ~90% of the population with four-bedroom, two bathroom units, which includes a kitchen, living area and in module washer and dryer. This is identified as the “4/2 Module”. The Standard Design also provides ~10% of the population with two-bedroom, one bathroom units. This is identified as the “2/1 Module”. This configuration complies with the mandatory requirements of providing one soldier per room with shared bathroom and kitchen facilities. Each occupant is allotted 495 gross square feet in the building.
+Unaccompanied Enlisted Personnel Housing (UEPH) remains one of the Army's most prioritized facilities due to the importance of solider wellbeing and combat readiness. UEPH facilities are intended to be similar both functionally and technically to apartment style housing in the private sector. The Standard Design provides ~90% of the population with four-bedroom, two bathroom units, which includes a kitchen and living area. This is identified as the “4/2 Module”. The Standard Design also provides ~10% of the population with two-bedroom, one bathroom units. This is identified as the “2/1 Module”. This configuration complies with the mandatory requirements of providing one Soldier per room with shared bathroom and kitchen facilities. Each occupant is allotted 485 gross square feet in the building.
 
 ## Variations
 
