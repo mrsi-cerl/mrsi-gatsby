@@ -15,8 +15,7 @@
     "clean": "gatsby clean",
     "typecheck": "tsc --noEmit",
     "generate:css": "tcm -p 'src/**/*.module.css' . -w",
-    "federalist": "gatsby build --prefix-paths",
-    "postinstall": "npm run build"
+    "postinstall": "gatsby build --prefix-paths"
   },
   "dependencies": {
     "@fortawesome/free-regular-svg-icons": "^6.4.0",
