@@ -9,9 +9,9 @@
   ],
   "scripts": {
     "develop": "gatsby develop",
-    "start": "NODE_ENV=production npx gatsby serve",
+    "start": "NODE_ENV=production npx gatsby serve -p 5000",
     "build": "gatsby build",
-    "serve": "gatsby serve",
+    "serve": "gatsby serve -p 5000",
     "clean": "gatsby clean",
     "typecheck": "tsc --noEmit",
     "generate:css": "tcm -p 'src/**/*.module.css' . -w",
