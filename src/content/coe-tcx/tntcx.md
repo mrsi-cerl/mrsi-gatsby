@@ -5,8 +5,8 @@ name_of_center: Tribal Nation (TNTCX)
 place_of_center: SPA
 center_type: TCX
 website: https://www.spa.usace.army.mil/Missions/TNTCX/
-center_poc_name: Jeremy Decker
-center_poc_phone_number: ☎ (505) 342-3671
+center_poc_name: Reymundo (Tony) Chapa
+center_poc_phone_number: ☎ (505) 342-3176
 hq_poc_name: Curtis Sedlacek
 hq_division: Programs Integration Division - Civil Works
 activation_date: 24 Nov 2015
