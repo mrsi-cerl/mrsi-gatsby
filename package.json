@@ -15,7 +15,8 @@
     "clean": "gatsby clean",
     "typecheck": "tsc --noEmit",
     "generate:css": "tcm -p 'src/**/*.module.css' . -w",
-    "postinstall": "gatsby build --prefix-paths"
+    "postinstall": "gatsby build --prefix-paths",
+    "heroku-postbuild": "gatsby build"
   },
   "dependencies": {
     "@fortawesome/free-regular-svg-icons": "^6.4.0",
