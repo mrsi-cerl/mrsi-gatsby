@@ -7,9 +7,9 @@
     "title": "Network Outage"
   },
   {
-    "startDate": "08:00  03/20/2025",
-    "endDate": "21:00  03/20/2025",
-    "message": "Our hosting provider is conducting planned maintenance this afternoon/evening starting at 15:00 CDT, 20 MAR 25 through 21:00 CDT 20 MAR 25. All Wizard applications and Library files will be unavailable during this time. ",
+    "startDate": "13:00  04/09/2025",
+    "endDate": "18:00  04/10/2025",
+    "message": "Our hosting provider is conducting planned maintenance Thursday afternoon/evening starting at 15:00 CDT, 10 APR 25 through 18:00 CDT 10 APR 25. All Wizard applications and Library files will be unavailable during this time. ",
     "level": "info",
     "title": "Planned Network Maintenance"
   },
@@ -39,7 +39,7 @@
     "endDate": "03:00  01/16/2025",
     "message": "The MRSI Wizard will be down on January 16th from 12 am to 3 am CST while our login provider performs maintenance.",
     "level": "info",
-    "title": "Server Maintenance" 
+    "title": "Server Maintenance"
   },
   {
     "startDate": "17:00  06/26/2024",
