@@ -55,7 +55,7 @@ const CosPoc = ( { data } ) => {
   const tableData = getTableData( data );
   tableData.sort( compare );
   return (
-    <Layout path="/cos/poc" centerContent MaxWidth={ 900 }>
+  <Layout path="/cos/poc" centerContent MaxWidth={ 900 }>
       <h1>COS Points of Contact</h1>
       <table className="usa-table">
         <thead>
@@ -63,7 +63,9 @@ const CosPoc = ( { data } ) => {
             <th>Facility</th>
             <th>COS</th>
             <th>COS Manager</th>
+            <th style={{display: 'none'}}>COS Manager Email</th>
             <th>Technical POC</th>
+            <th style={{display: 'none'}}>Technical POC Email</th>
           </tr>
         </thead>
         <tbody>
@@ -80,10 +82,16 @@ const CosPoc = ( { data } ) => {
                   { e.cos_manager_name }
                 </a>
               </td>
-              <td>
+              <td style={{display: 'none'}}>
+                  { e.cos_manager_email }
+              </td>
+              <td >
                 <a href={ "mailto:" + e.technical_poc_email }>
                   { e.technical_poc_name }
                 </a>
+              </td>
+              <td style={{display: 'none'}}>
+                  { e.technical_poc_email }
               </td>
             </tr>
           ) ) }
