@@ -57,13 +57,13 @@ SUB JSONExport
 		FOR c = 0 TO (numCols - 1):
 
 			_key = propertyArray(c)
-			keyStr = doubleQuoteChr + _key + doubleQuoteChr
+			keyStr = doubleQuoteChr + Trim(_key) + doubleQuoteChr
 
 			'Don't add quotes if value is a number.'
 			_val = cells(r)(c)
 			valStr = _val
 			IF (NOT IsNumeric(_val)) THEN
-				valStr = doubleQuoteChr + _val + doubleQuoteChr
+				valStr = doubleQuoteChr + Trim(_val) + doubleQuoteChr
 			ENDIF
 
 			line = tabChr + tabChr + keyStr + ": " + valStr
