@@ -7,7 +7,7 @@ facility_category_codes:
   - "75027"
 facility_cos_short_name: NAO
 facility_functional_proponent: G-3/5/7
-facility_long_name: Non‐Commissioned Officer Academy
+facility_long_name: Non-Commissioned Officer Academy
 facility_short_name: NCOA
 facility_technical_poc_email: matthew.c.scanlon@usace.army.mil
 facility_technical_poc_name: Matthew Scanlon
