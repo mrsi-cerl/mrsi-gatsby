@@ -7,7 +7,7 @@ facility_functional_proponent: G-9
 facility_long_name: Child Development Center - Less than 6 Years of Age
 facility_short_name: CDCU6
 facility_technical_poc_email: michael.r.johnson2@usace.army.mil; rajette.l.hodge@usace.army.mil
-facility_technical_poc_name: Michael Johnson   Rajette Hodge
+facility_technical_poc_name: Michael Johnson / Rajette Hodge
 file_library_root_path: "content/cos/hnc/cdcu6/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/cdcu6/

@@ -7,7 +7,7 @@ facility_functional_proponent: G-9
 facility_long_name: Child Development - School Age Center (SAC)
 facility_short_name: CDCSA
 facility_technical_poc_email: michael.r.johnson2@usace.army.mil; rajette.l.hodge@usace.army.mil
-facility_technical_poc_name: Michael Johnson   Rajette Hodge
+facility_technical_poc_name: Michael Johnson / Rajette Hodge
 file_library_root_path: "content/cos/hnc/cdcsa/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/hnc/cdcsa/
