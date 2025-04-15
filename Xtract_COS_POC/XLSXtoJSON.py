@@ -1,6 +1,8 @@
 import pandas as pd
 import os
 import sys
+import json
+import pprint
 from pathlib import Path
 from tkinter import *
 from tkinter import filedialog
@@ -26,9 +28,11 @@ if inpathlength > 0:
     # Convert Excel data to JSON
     json_data = excel_data.to_json(orient='records')
 
-    # Save JSON data to a file
+    # Write formatted JSON data to a file
     with open(outfilepath, 'w') as json_file:
-        json_file.write(json_data)
+        json_file.write(
+            json.dumps(json.loads(json_data), indent=2)
+        )
     print("Data file written to:" + outfilepath)
 else:
     print ("No file chosen, aborting...")

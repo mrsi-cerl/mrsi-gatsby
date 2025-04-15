@@ -35,7 +35,7 @@ Connect an Excel spreadsheet to the COS POC page of the MRSI portal site:
 		Another view of the table will open. Choose 'Use First Row as Headers' from the middle of the ribbon.
  		Click 'Close & Load' on the left end of the ribbon. The column headers should update in the spreadsheet.
 
-Save your spreadsheet to a convenient place, the set up the Python converter as follows. 
+Save your spreadsheet to a convenient place, the set up the Python converter as follows.
 If you save your spreadsheet, you can come back to it later and just refresh the data to update it.
 
 ***NOTE: This is a one-time setup thing, you don't need to do this every time you run the script. ***
@@ -49,8 +49,8 @@ Make sure you have the latest version of the python script from the git reposito
 Run the script:
 	python.exe .\XLSXtoJSON.py (you will need to supply a different path if you're not running from the directory housing the script)
 
-The script will prompt you to pick an Excel (.xlsx) file to convert and place the converted .json file in the same directory with the same 
-name as the selected file, but with a .json extension. The .json file is not prettified in any way, so I like to open it in vsCode and have Code format it to make it more human readable. Note that when you run the script, it will overwrite any .json file with the same name without warning.
+The script will prompt you to pick an Excel (.xlsx) file to convert and place the converted .json file in the same directory with the same
+name as the selected file, but with a .json extension. Note that when you run the script, it will overwrite any .json file with the same name without warning.
 
 
 LibreOffice Calc (with vb script)
@@ -58,7 +58,7 @@ LibreOffice Calc (with vb script)
 =================================================================================================
 In LibreOffice Calc open a new spreadsheat, the select "Data" from the ribbon followed by "External Links."
 
-In the resultant dialog, enter https://mrsi.erdc.dren.mil/cos/pos as the "URL of External Data Source" and pick "HTML_table" under 
+In the resultant dialog, enter https://mrsi.erdc.dren.mil/cos/pos as the "URL of External Data Source" and pick "HTML_table" under
 "Available Tables/Ranges," the click "OK." Calc will import the data, which you should then save to an .ods file. If you forget to save the file, the vb script will throw an error when you attempt to run it.
 
 ***NOTE: This is a one-time setup thing, you don't need to do this every time you run the script. ***
