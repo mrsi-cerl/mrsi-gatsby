@@ -45,7 +45,8 @@ SUB JSONExport
 	file = Freefile
 	OPEN fileName FOR OUTPUT AS file
 
-	tabChr = CHR(9)
+	'tabChr = CHR(9)
+	tabChr = "  "
 	doubleQuoteChr = CHR(34)
 
 	PRINT #file, ("[")
