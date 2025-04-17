@@ -42,7 +42,6 @@ const config: GatsbyConfig = {
       options: {
         "name": "pages",
         "path": "./src/pages/",
-        "ignore":  [`**/Xtract_COS_POC/**`]
       },
       __key: "pages"
     },
@@ -53,6 +52,12 @@ const config: GatsbyConfig = {
         path: `${__dirname}/src/content`,
       },
     },
+    {
+      resolve: 'gatsby-plugin-exclude',
+      options: {
+        paths: ["/Xtract_COS_POC/**"],
+      },
+    }
   ]
 };
 
