@@ -41,7 +41,8 @@ const config: GatsbyConfig = {
       resolve: 'gatsby-source-filesystem',
       options: {
         "name": "pages",
-        "path": "./src/pages/"
+        "path": "./src/pages/",
+        "ignore":  [`**/Xtract_COS_POC/**`]
       },
       __key: "pages"
     },
