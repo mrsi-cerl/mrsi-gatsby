@@ -63,6 +63,3 @@ You can add as many alert objects into this JSON file and the site will show all
 ```
 
 insert image of the above examples here
-
-test change to see if it kicks off a build
-
