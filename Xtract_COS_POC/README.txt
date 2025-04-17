@@ -66,3 +66,5 @@ Make sure you have the latest version of the python script from the git reposito
 Copy the contents of the .vbs file and paste them into Calc under "Tools" -> "Edit Macros" -> "My Macros & Dialogs" -> "Standard" -> "Module1"
 
 Return to your spreadsheet and from the left side of the ribbon under the "Tools" tab, click "Run Macro." This will open a "Macro Selector" dialog. Find and select the macro named "JSONExport" and click the "Run" button. The script will place the converted .json file in the same directory with your spreadsheet and it will have the same name as the active sheet (as it appears on the little tab at the bottom of the Calc window). If you didn't rename it, you should end up with a file called something like "Sheet1.json" with the converted data in it. Note that when you run the script, it will overwrite any .json file with the same name without warning.
+
+Test test test
