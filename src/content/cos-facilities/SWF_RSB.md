@@ -1,7 +1,7 @@
 ---
 doc_type: facility_page
 facility_category_codes:
-  - "72122"
+  - "72181"
 facility_cos_short_name: SWF
 facility_functional_proponent: G1
 facility_long_name: Reception Barracks
