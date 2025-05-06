@@ -979,18 +979,18 @@
 "Size": "120691"
 },
 {
-"name": "cdc-6-10-leed-v4-checklist.xls",
-"LastModified": "06/29/2015 12:14:50",
-"Key": "content/cos/hnc/cdcsa/Library/Archive/cdc-6-10-leed-v4-checklist.xls",
-"extension": ".xls",
-"Size": "148480"
-},
-{
 "name": "CDC_Drawing_SAC-6-10_Wing_Toilets__June_2021_.dwg",
 "LastModified": "08/09/2021 08:42:35",
 "Key": "content/cos/hnc/cdcsa/Library/Archive/CDC_Drawing_SAC-6-10_Wing_Toilets__June_2021_.dwg",
 "extension": ".dwg",
 "Size": "1326945"
+},
+{
+"name": "cdc-6-10-leed-v4-checklist.xls",
+"LastModified": "06/29/2015 12:14:50",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/cdc-6-10-leed-v4-checklist.xls",
+"extension": ".xls",
+"Size": "148480"
 },
 {
 "name": "PRIMARY COLOR SCHEME 8_15_14.pdf",
@@ -1140,27 +1140,6 @@
 "Size": "2993152"
 },
 {
-"name": "cdc-schl-age-large_fy20.pdf",
-"LastModified": "08/27/2018 10:12:08",
-"Key": "content/cos/hnc/cdcsa/Library/Archive/DD 1391 Templates/cdc-schl-age-large_fy20.pdf",
-"extension": ".pdf",
-"Size": "12142"
-},
-{
-"name": "cdc-schl-age-med_fy20.pdf",
-"LastModified": "08/27/2018 10:12:04",
-"Key": "content/cos/hnc/cdcsa/Library/Archive/DD 1391 Templates/cdc-schl-age-med_fy20.pdf",
-"extension": ".pdf",
-"Size": "24898"
-},
-{
-"name": "cdc-schl-age-small_fy20.pdf",
-"LastModified": "08/27/2018 10:12:00",
-"Key": "content/cos/hnc/cdcsa/Library/Archive/DD 1391 Templates/cdc-schl-age-small_fy20.pdf",
-"extension": ".pdf",
-"Size": "25789"
-},
-{
 "name": "cdc_schlage_lrg_fy19.pdf",
 "LastModified": "08/27/2018 11:11:50",
 "Key": "content/cos/hnc/cdcsa/Library/Archive/DD 1391 Templates/cdc_schlage_lrg_fy19.pdf",
@@ -1201,6 +1180,27 @@
 "Key": "content/cos/hnc/cdcsa/Library/Archive/DD 1391 Templates/cdc_school_small_fy18.pdf",
 "extension": ".pdf",
 "Size": "11940"
+},
+{
+"name": "cdc-schl-age-large_fy20.pdf",
+"LastModified": "08/27/2018 10:12:08",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/DD 1391 Templates/cdc-schl-age-large_fy20.pdf",
+"extension": ".pdf",
+"Size": "12142"
+},
+{
+"name": "cdc-schl-age-med_fy20.pdf",
+"LastModified": "08/27/2018 10:12:04",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/DD 1391 Templates/cdc-schl-age-med_fy20.pdf",
+"extension": ".pdf",
+"Size": "24898"
+},
+{
+"name": "cdc-schl-age-small_fy20.pdf",
+"LastModified": "08/27/2018 10:12:00",
+"Key": "content/cos/hnc/cdcsa/Library/Archive/DD 1391 Templates/cdc-schl-age-small_fy20.pdf",
+"extension": ".pdf",
+"Size": "25789"
 },
 {
 "name": "Energy Model - SAC Large.pdf",
@@ -1539,13 +1539,6 @@
 "Size": "8457269"
 },
 {
-"name": "cdc-0-5-leed-v4-checklist.xls",
-"LastModified": "06/29/2015 11:51:44",
-"Key": "content/cos/hnc/cdcu6/Library/Archive/cdc-0-5-leed-v4-checklist.xls",
-"extension": ".xls",
-"Size": "148480"
-},
-{
 "name": "cdc-0-5_-final_20180201.pdf",
 "LastModified": "02/14/2018 10:38:58",
 "Key": "content/cos/hnc/cdcu6/Library/Archive/cdc-0-5_-final_20180201.pdf",
@@ -1558,6 +1551,13 @@
 "Key": "content/cos/hnc/cdcu6/Library/Archive/cdc-0-5_-final_20180507.pdf",
 "extension": ".pdf",
 "Size": "5283429"
+},
+{
+"name": "cdc-0-5-leed-v4-checklist.xls",
+"LastModified": "06/29/2015 11:51:44",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/cdc-0-5-leed-v4-checklist.xls",
+"extension": ".xls",
+"Size": "148480"
 },
 {
 "name": "LEED Checklist-Medium CDC.PDF",
@@ -1602,25 +1602,25 @@
 "Size": "141247"
 },
 {
-"name": "cdc-0-5-large_fy20.pdf",
-"LastModified": "08/27/2018 10:03:14",
-"Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates/cdc-0-5-large_fy20.pdf",
+"name": "cdc_infant_large_fy18.pdf",
+"LastModified": "07/26/2016 09:22:56",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates/cdc_infant_large_fy18.pdf",
 "extension": ".pdf",
-"Size": "25015"
+"Size": "11996"
 },
 {
-"name": "cdc-0-5-med_fy20.pdf",
-"LastModified": "08/27/2018 10:03:10",
-"Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates/cdc-0-5-med_fy20.pdf",
+"name": "cdc_infant_med_fy18.pdf",
+"LastModified": "07/26/2016 09:22:55",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates/cdc_infant_med_fy18.pdf",
 "extension": ".pdf",
-"Size": "25347"
+"Size": "11998"
 },
 {
-"name": "cdc-0-5-small_fy20.pdf",
-"LastModified": "08/27/2018 10:03:06",
-"Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates/cdc-0-5-small_fy20.pdf",
+"name": "cdc_infant_small_fy18pdf.pdf",
+"LastModified": "07/26/2016 09:22:55",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates/cdc_infant_small_fy18pdf.pdf",
 "extension": ".pdf",
-"Size": "24991"
+"Size": "11976"
 },
 {
 "name": "cdc_infanttoddler_lrg_fy19.pdf",
@@ -1644,25 +1644,25 @@
 "Size": "12142"
 },
 {
-"name": "cdc_infant_large_fy18.pdf",
-"LastModified": "07/26/2016 09:22:56",
-"Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates/cdc_infant_large_fy18.pdf",
+"name": "cdc-0-5-large_fy20.pdf",
+"LastModified": "08/27/2018 10:03:14",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates/cdc-0-5-large_fy20.pdf",
 "extension": ".pdf",
-"Size": "11996"
+"Size": "25015"
 },
 {
-"name": "cdc_infant_med_fy18.pdf",
-"LastModified": "07/26/2016 09:22:55",
-"Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates/cdc_infant_med_fy18.pdf",
+"name": "cdc-0-5-med_fy20.pdf",
+"LastModified": "08/27/2018 10:03:10",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates/cdc-0-5-med_fy20.pdf",
 "extension": ".pdf",
-"Size": "11998"
+"Size": "25347"
 },
 {
-"name": "cdc_infant_small_fy18pdf.pdf",
-"LastModified": "07/26/2016 09:22:55",
-"Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates/cdc_infant_small_fy18pdf.pdf",
+"name": "cdc-0-5-small_fy20.pdf",
+"LastModified": "08/27/2018 10:03:06",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/DD1391 Templates/cdc-0-5-small_fy20.pdf",
 "extension": ".pdf",
-"Size": "11976"
+"Size": "24991"
 },
 {
 "name": "Energy Model - CDC 0-5 Large.pdf",
@@ -1714,6 +1714,48 @@
 "Size": "6936610"
 },
 {
+"name": "Standard_Drawings_(PDF)_-_CDC_0-5,_Large_(Sep_10).pdf",
+"LastModified": "05/20/2015 13:52:01",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/Standard_Drawings_(PDF)_-_CDC_0-5,_Large_(Sep_10).pdf",
+"extension": ".pdf",
+"Size": "1958319"
+},
+{
+"name": "Standard_Drawings_(PDF)_-_CDC_0-5,_Medium_(Sep_10).pdf",
+"LastModified": "05/20/2015 13:52:01",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/Standard_Drawings_(PDF)_-_CDC_0-5,_Medium_(Sep_10).pdf",
+"extension": ".pdf",
+"Size": "1793852"
+},
+{
+"name": "Standard_Drawings_(PDF)_-_CDC_0-5,_Small_(Sep_10).pdf",
+"LastModified": "05/20/2015 13:52:01",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/Standard_Drawings_(PDF)_-_CDC_0-5,_Small_(Sep_10).pdf",
+"extension": ".pdf",
+"Size": "1380744"
+},
+{
+"name": "Standard_Drawings1_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
+"LastModified": "05/20/2015 13:51:50",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/Standard_Drawings1_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
+"extension": ".zip",
+"Size": "22178081"
+},
+{
+"name": "Standard_Drawings2_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
+"LastModified": "05/20/2015 13:51:54",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/Standard_Drawings2_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
+"extension": ".zip",
+"Size": "35718514"
+},
+{
+"name": "Standard_Drawings3_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
+"LastModified": "05/20/2015 13:51:58",
+"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/Standard_Drawings3_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
+"extension": ".zip",
+"Size": "26611739"
+},
+{
 "name": "standard-drawings-cad-cdc-0-5-large-feb-2019.zip",
 "LastModified": "02/22/2019 10:32:46",
 "Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/standard-drawings-cad-cdc-0-5-large-feb-2019.zip",
@@ -1754,48 +1796,6 @@
 "Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/standard-drawings-pdf-cdc-0-5-small-sept-30.pdf",
 "extension": ".pdf",
 "Size": "468000"
-},
-{
-"name": "Standard_Drawings1_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
-"LastModified": "05/20/2015 13:51:50",
-"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/Standard_Drawings1_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
-"extension": ".zip",
-"Size": "22178081"
-},
-{
-"name": "Standard_Drawings2_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
-"LastModified": "05/20/2015 13:51:54",
-"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/Standard_Drawings2_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
-"extension": ".zip",
-"Size": "35718514"
-},
-{
-"name": "Standard_Drawings3_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
-"LastModified": "05/20/2015 13:51:58",
-"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/Standard_Drawings3_(CAD)_-_CDC_0-5,_All_Sizes_(Jun_10).zip",
-"extension": ".zip",
-"Size": "26611739"
-},
-{
-"name": "Standard_Drawings_(PDF)_-_CDC_0-5,_Large_(Sep_10).pdf",
-"LastModified": "05/20/2015 13:52:01",
-"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/Standard_Drawings_(PDF)_-_CDC_0-5,_Large_(Sep_10).pdf",
-"extension": ".pdf",
-"Size": "1958319"
-},
-{
-"name": "Standard_Drawings_(PDF)_-_CDC_0-5,_Medium_(Sep_10).pdf",
-"LastModified": "05/20/2015 13:52:01",
-"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/Standard_Drawings_(PDF)_-_CDC_0-5,_Medium_(Sep_10).pdf",
-"extension": ".pdf",
-"Size": "1793852"
-},
-{
-"name": "Standard_Drawings_(PDF)_-_CDC_0-5,_Small_(Sep_10).pdf",
-"LastModified": "05/20/2015 13:52:01",
-"Key": "content/cos/hnc/cdcu6/Library/Archive/Standard Designs/Standard_Drawings_(PDF)_-_CDC_0-5,_Small_(Sep_10).pdf",
-"extension": ".pdf",
-"Size": "1380744"
 },
 {
 "name": "CDC-0-5_Army Standard_MAY 2024.pdf",
@@ -2225,18 +2225,18 @@
 "Size": "11748"
 },
 {
-"name": "consfiresafsecfac_twocomphq_fy19_less20000.pdf",
-"LastModified": "08/27/2018 11:15:54",
-"Key": "content/cos/hnc/des/Library/DD1391 Templates/consfiresafsecfac_twocomphq_fy19_less20000.pdf",
-"extension": ".pdf",
-"Size": "11754"
-},
-{
 "name": "consfiresafsecfac_twocomp_hq_fy19_greater20000.pdf",
 "LastModified": "08/27/2018 11:15:54",
 "Key": "content/cos/hnc/des/Library/DD1391 Templates/consfiresafsecfac_twocomp_hq_fy19_greater20000.pdf",
 "extension": ".pdf",
 "Size": "11749"
+},
+{
+"name": "consfiresafsecfac_twocomphq_fy19_less20000.pdf",
+"LastModified": "08/27/2018 11:15:54",
+"Key": "content/cos/hnc/des/Library/DD1391 Templates/consfiresafsecfac_twocomphq_fy19_less20000.pdf",
+"extension": ".pdf",
+"Size": "11754"
 },
 {
 "name": "Change_Proposal_and_Tracking_Form.pdf",
@@ -3261,90 +3261,6 @@
 "Size": "1671957"
 },
 {
-"name": "physical-fitness-facility_extra_small_25-meter-pool_fy18.pdf",
-"LastModified": "08/16/2016 12:00:35",
-"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_extra_small_25-meter-pool_fy18.pdf",
-"extension": ".pdf",
-"Size": "13053"
-},
-{
-"name": "physical-fitness-facility_extra_small_50-meter-pool_fy18.pdf",
-"LastModified": "08/16/2016 12:00:19",
-"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_extra_small_50-meter-pool_fy18.pdf",
-"extension": ".pdf",
-"Size": "13155"
-},
-{
-"name": "physical-fitness-facility_extra_small_fy18.pdf",
-"LastModified": "08/16/2016 12:00:22",
-"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_extra_small_fy18.pdf",
-"extension": ".pdf",
-"Size": "12878"
-},
-{
-"name": "physical-fitness-facility_large_25-meter-pool_fy18.pdf",
-"LastModified": "08/16/2016 12:00:23",
-"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_large_25-meter-pool_fy18.pdf",
-"extension": ".pdf",
-"Size": "13152"
-},
-{
-"name": "physical-fitness-facility_large_50-meter-pool_fy18.pdf",
-"LastModified": "08/16/2016 12:00:24",
-"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_large_50-meter-pool_fy18.pdf",
-"extension": ".pdf",
-"Size": "13154"
-},
-{
-"name": "physical-fitness-facility_large_fy18.pdf",
-"LastModified": "08/16/2016 12:00:26",
-"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_large_fy18.pdf",
-"extension": ".pdf",
-"Size": "12956"
-},
-{
-"name": "physical-fitness-facility_medium_25-meter-pool_fy18.pdf",
-"LastModified": "08/16/2016 12:00:28",
-"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_medium_25-meter-pool_fy18.pdf",
-"extension": ".pdf",
-"Size": "13212"
-},
-{
-"name": "physical-fitness-facility_medium_50-meter-pool_fy18.pdf",
-"LastModified": "08/16/2016 12:00:29",
-"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_medium_50-meter-pool_fy18.pdf",
-"extension": ".pdf",
-"Size": "13214"
-},
-{
-"name": "physical-fitness-facility_medium__fy18.pdf",
-"LastModified": "08/16/2016 12:00:27",
-"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_medium__fy18.pdf",
-"extension": ".pdf",
-"Size": "12976"
-},
-{
-"name": "physical-fitness-facility_small_25-meter-pool_fy18.pdf",
-"LastModified": "08/16/2016 12:00:30",
-"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_small_25-meter-pool_fy18.pdf",
-"extension": ".pdf",
-"Size": "13155"
-},
-{
-"name": "physical-fitness-facility_small_50-meter-pool_fy18.pdf",
-"LastModified": "08/16/2016 12:00:33",
-"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_small_50-meter-pool_fy18.pdf",
-"extension": ".pdf",
-"Size": "13237"
-},
-{
-"name": "physical-fitness-facility_small_fy18.pdf",
-"LastModified": "08/16/2016 12:00:34",
-"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_small_fy18.pdf",
-"extension": ".pdf",
-"Size": "12867"
-},
-{
 "name": "physical_fitness_fac_extrasmall_25meterpool_fy19.pdf",
 "LastModified": "08/27/2018 11:06:56",
 "Key": "content/cos/hnc/pfc/Library/Archive/physical_fitness_fac_extrasmall_25meterpool_fy19.pdf",
@@ -3399,6 +3315,90 @@
 "Key": "content/cos/hnc/pfc/Library/Archive/physical_fitness_fac_small_50meterpool_fy19.pdf",
 "extension": ".pdf",
 "Size": "13318"
+},
+{
+"name": "physical-fitness-facility_extra_small_25-meter-pool_fy18.pdf",
+"LastModified": "08/16/2016 12:00:35",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_extra_small_25-meter-pool_fy18.pdf",
+"extension": ".pdf",
+"Size": "13053"
+},
+{
+"name": "physical-fitness-facility_extra_small_50-meter-pool_fy18.pdf",
+"LastModified": "08/16/2016 12:00:19",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_extra_small_50-meter-pool_fy18.pdf",
+"extension": ".pdf",
+"Size": "13155"
+},
+{
+"name": "physical-fitness-facility_extra_small_fy18.pdf",
+"LastModified": "08/16/2016 12:00:22",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_extra_small_fy18.pdf",
+"extension": ".pdf",
+"Size": "12878"
+},
+{
+"name": "physical-fitness-facility_large_25-meter-pool_fy18.pdf",
+"LastModified": "08/16/2016 12:00:23",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_large_25-meter-pool_fy18.pdf",
+"extension": ".pdf",
+"Size": "13152"
+},
+{
+"name": "physical-fitness-facility_large_50-meter-pool_fy18.pdf",
+"LastModified": "08/16/2016 12:00:24",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_large_50-meter-pool_fy18.pdf",
+"extension": ".pdf",
+"Size": "13154"
+},
+{
+"name": "physical-fitness-facility_large_fy18.pdf",
+"LastModified": "08/16/2016 12:00:26",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_large_fy18.pdf",
+"extension": ".pdf",
+"Size": "12956"
+},
+{
+"name": "physical-fitness-facility_medium__fy18.pdf",
+"LastModified": "08/16/2016 12:00:27",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_medium__fy18.pdf",
+"extension": ".pdf",
+"Size": "12976"
+},
+{
+"name": "physical-fitness-facility_medium_25-meter-pool_fy18.pdf",
+"LastModified": "08/16/2016 12:00:28",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_medium_25-meter-pool_fy18.pdf",
+"extension": ".pdf",
+"Size": "13212"
+},
+{
+"name": "physical-fitness-facility_medium_50-meter-pool_fy18.pdf",
+"LastModified": "08/16/2016 12:00:29",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_medium_50-meter-pool_fy18.pdf",
+"extension": ".pdf",
+"Size": "13214"
+},
+{
+"name": "physical-fitness-facility_small_25-meter-pool_fy18.pdf",
+"LastModified": "08/16/2016 12:00:30",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_small_25-meter-pool_fy18.pdf",
+"extension": ".pdf",
+"Size": "13155"
+},
+{
+"name": "physical-fitness-facility_small_50-meter-pool_fy18.pdf",
+"LastModified": "08/16/2016 12:00:33",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_small_50-meter-pool_fy18.pdf",
+"extension": ".pdf",
+"Size": "13237"
+},
+{
+"name": "physical-fitness-facility_small_fy18.pdf",
+"LastModified": "08/16/2016 12:00:34",
+"Key": "content/cos/hnc/pfc/Library/Archive/physical-fitness-facility_small_fy18.pdf",
+"extension": ".pdf",
+"Size": "12867"
 },
 {
 "name": "RFP Wizard Input - PFF (Aug-11) (1).pdf",
@@ -3996,18 +3996,18 @@
 "Size": ""
 },
 {
-"name": "cover2_jpg.jpg",
-"LastModified": "05/20/2015 13:53:15",
-"Key": "content/cos/hnc/yc/cover2_jpg.jpg",
-"extension": ".jpg",
-"Size": "41778"
-},
-{
 "name": "cover_jpg.jpg",
 "LastModified": "05/20/2015 13:53:15",
 "Key": "content/cos/hnc/yc/cover_jpg.jpg",
 "extension": ".jpg",
 "Size": "54354"
+},
+{
+"name": "cover2_jpg.jpg",
+"LastModified": "05/20/2015 13:53:15",
+"Key": "content/cos/hnc/yc/cover2_jpg.jpg",
+"extension": ".jpg",
+"Size": "41778"
 },
 {
 "name": "IMG01809-20130618-0909.jpg",
@@ -4339,20 +4339,6 @@
 "Size": "12040"
 },
 {
-"name": "yc-11-18_final_20180507.pdf",
-"LastModified": "05/08/2018 06:07:21",
-"Key": "content/cos/hnc/yc/Library/Archive/Standard Designs/yc-11-18_final_20180507.pdf",
-"extension": ".pdf",
-"Size": "1092404"
-},
-{
-"name": "yc-11-18_room-by-room-description_final_20190411.pdf",
-"LastModified": "04/11/2019 08:30:16",
-"Key": "content/cos/hnc/yc/Library/Archive/Standard Designs/yc-11-18_room-by-room-description_final_20190411.pdf",
-"extension": ".pdf",
-"Size": "1094283"
-},
-{
 "name": "YC_CADD_LARGE.zip",
 "LastModified": "05/20/2015 13:53:53",
 "Key": "content/cos/hnc/yc/Library/Archive/Standard Designs/YC_CADD_LARGE.zip",
@@ -4395,6 +4381,20 @@
 "Size": "4000321"
 },
 {
+"name": "yc-11-18_final_20180507.pdf",
+"LastModified": "05/08/2018 06:07:21",
+"Key": "content/cos/hnc/yc/Library/Archive/Standard Designs/yc-11-18_final_20180507.pdf",
+"extension": ".pdf",
+"Size": "1092404"
+},
+{
+"name": "yc-11-18_room-by-room-description_final_20190411.pdf",
+"LastModified": "04/11/2019 08:30:16",
+"Key": "content/cos/hnc/yc/Library/Archive/Standard Designs/yc-11-18_room-by-room-description_final_20190411.pdf",
+"extension": ".pdf",
+"Size": "1094283"
+},
+{
 "name": "YC_Army Standard_MAY 2024.pdf",
 "LastModified": "10/23/2024 17:27:00",
 "Key": "content/cos/hnc/yc/Library/Army Standards/YC_Army Standard_MAY 2024.pdf",
@@ -4421,6 +4421,20 @@
 "Key": "content/cos/hnc/yc/Library/DD1391 Templates/YC_Small_1391 Template.pdf",
 "extension": ".pdf",
 "Size": "245893"
+},
+{
+"name": "youth_activity_ctr_large-w-sm_teen_rm.pdf",
+"LastModified": "08/25/2023 09:14:38",
+"Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr_large-w-sm_teen_rm.pdf",
+"extension": ".pdf",
+"Size": "15668"
+},
+{
+"name": "youth_activity_ctr_small-w-lg_teen_rm.pdf",
+"LastModified": "08/25/2023 12:19:47",
+"Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr_small-w-lg_teen_rm.pdf",
+"extension": ".pdf",
+"Size": "28355"
 },
 {
 "name": "youth_activity_ctr-large-no_teen_rm.pdf",
@@ -4470,20 +4484,6 @@
 "Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr-small-w-sm_teen_rm.pdf",
 "extension": ".pdf",
 "Size": "28308"
-},
-{
-"name": "youth_activity_ctr_large-w-sm_teen_rm.pdf",
-"LastModified": "08/25/2023 09:14:38",
-"Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr_large-w-sm_teen_rm.pdf",
-"extension": ".pdf",
-"Size": "15668"
-},
-{
-"name": "youth_activity_ctr_small-w-lg_teen_rm.pdf",
-"LastModified": "08/25/2023 12:19:47",
-"Key": "content/cos/hnc/yc/Library/DD1391 Templates/youth_activity_ctr_small-w-lg_teen_rm.pdf",
-"extension": ".pdf",
-"Size": "28355"
 },
 {
 "name": "Color Scheme",
@@ -4815,18 +4815,18 @@
 "Size": ""
 },
 {
-"name": "jc-std-design-29may2019.pdf",
-"LastModified": "06/13/2019 12:50:18",
-"Key": "content/cos/lrl/jc/Library/Archive/jc-std-design-29may2019.pdf",
-"extension": ".pdf",
-"Size": "1430305"
-},
-{
 "name": "JC_Final_SD_1_Sept_09.pdf",
 "LastModified": "05/20/2015 15:27:24",
 "Key": "content/cos/lrl/jc/Library/Archive/JC_Final_SD_1_Sept_09.pdf",
 "extension": ".pdf",
 "Size": "7985814"
+},
+{
+"name": "jc-std-design-29may2019.pdf",
+"LastModified": "06/13/2019 12:50:18",
+"Key": "content/cos/lrl/jc/Library/Archive/jc-std-design-29may2019.pdf",
+"extension": ".pdf",
+"Size": "1430305"
 },
 {
 "name": "Judicial Center_9-30-08.wmv",
@@ -5614,7 +5614,7 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "03/23/2023 11:07:06",
+"LastModified": "05/06/2025 12:08:12",
 "Key": "content/cos/nao/epdf/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -5758,6 +5758,13 @@
 "Key": "content/cos/nao/epdf/Library/Food Service Codes and Standards/TB_MED_530_MAR 2019.pdf",
 "extension": ".pdf",
 "Size": "4865404"
+},
+{
+"name": "DFAC INTERIORS PACKAGE.pdf",
+"LastModified": "05/06/2025 09:44:00",
+"Key": "content/cos/nao/epdf/Library/Misc. Documents/DFAC INTERIORS PACKAGE.pdf",
+"extension": ".pdf",
+"Size": "3605777"
 },
 {
 "name": "LEED v4 - DFAC.pdf",
@@ -8763,18 +8770,18 @@
 "Size": "151040"
 },
 {
-"name": "20190821_AAB Hangar Standard_02_FP_FloorPlan_PUB.DWG",
-"LastModified": "09/26/2019 14:20:31",
-"Key": "content/cos/sam/aab/Library/Archive/20190821_AAB Hangar Standard_02_FP_FloorPlan_PUB.DWG",
-"extension": ".DWG",
-"Size": "239331"
-},
-{
 "name": "20190821_AAB Hangar Standard__01_FP_FloorPlan_PUB.DWG",
 "LastModified": "09/26/2019 15:12:32",
 "Key": "content/cos/sam/aab/Library/Archive/20190821_AAB Hangar Standard__01_FP_FloorPlan_PUB.DWG",
 "extension": ".DWG",
 "Size": "403986"
+},
+{
+"name": "20190821_AAB Hangar Standard_02_FP_FloorPlan_PUB.DWG",
+"LastModified": "09/26/2019 14:20:31",
+"Key": "content/cos/sam/aab/Library/Archive/20190821_AAB Hangar Standard_02_FP_FloorPlan_PUB.DWG",
+"extension": ".DWG",
+"Size": "239331"
 },
 {
 "name": "20190822_aab-hangar-floor-plans-and-ffe-plans.pdf",
@@ -10905,6 +10912,13 @@
 "Size": "209206"
 },
 {
+"name": "AIT Complex - BCOF-Attic Plan.pdf",
+"LastModified": "05/20/2015 15:46:46",
+"Key": "content/cos/swf/ait/Library/Archives/AIT Complex - BCOF-Attic Plan.pdf",
+"extension": ".pdf",
+"Size": "141608"
+},
+{
 "name": "AIT Complex (Dining Fac 1300 PN)_FY15.pdf",
 "LastModified": "05/20/2015 15:46:46",
 "Key": "content/cos/swf/ait/Library/Archives/AIT Complex (Dining Fac 1300 PN)_FY15.pdf",
@@ -10919,13 +10933,6 @@
 "Size": "14409"
 },
 {
-"name": "AIT Complex - BCOF-Attic Plan.pdf",
-"LastModified": "05/20/2015 15:46:46",
-"Key": "content/cos/swf/ait/Library/Archives/AIT Complex - BCOF-Attic Plan.pdf",
-"extension": ".pdf",
-"Size": "141608"
-},
-{
 "name": "AIT Complex.JPG",
 "LastModified": "05/20/2015 15:46:52",
 "Key": "content/cos/swf/ait/Library/Archives/AIT Complex.JPG",
@@ -10933,18 +10940,18 @@
 "Size": "431380"
 },
 {
-"name": "ait-bim-presentation.pdf",
-"LastModified": "08/19/2015 11:01:07",
-"Key": "content/cos/swf/ait/Library/Archives/ait-bim-presentation.pdf",
-"extension": ".pdf",
-"Size": "2302624"
-},
-{
 "name": "AIT_Standard_Design_-_B-COF_and_Site.pdf",
 "LastModified": "05/20/2015 15:46:46",
 "Key": "content/cos/swf/ait/Library/Archives/AIT_Standard_Design_-_B-COF_and_Site.pdf",
 "extension": ".pdf",
 "Size": "1062998"
+},
+{
+"name": "ait-bim-presentation.pdf",
+"LastModified": "08/19/2015 11:01:07",
+"Key": "content/cos/swf/ait/Library/Archives/ait-bim-presentation.pdf",
+"extension": ".pdf",
+"Size": "2302624"
 },
 {
 "name": "superseded_ait-bnhq-website-floor-plan.pdf",
@@ -11269,13 +11276,6 @@
 "Size": "565718"
 },
 {
-"name": "BT-OSUT Design Guidace 12_2023.pdf",
-"LastModified": "11/30/2023 17:11:00",
-"Key": "content/cos/swf/bt-osut/Library/Standard Designs/BT-OSUT Design Guidace 12_2023.pdf",
-"extension": ".pdf",
-"Size": "592355"
-},
-{
 "name": "BT_BCOF_DEPARTMENT FL 1.jpg",
 "LastModified": "05/20/2015 15:47:12",
 "Key": "content/cos/swf/bt-osut/Library/Standard Designs/BT_BCOF_DEPARTMENT FL 1.jpg",
@@ -11288,6 +11288,13 @@
 "Key": "content/cos/swf/bt-osut/Library/Standard Designs/BT_BCOF_DEPARTMENT FL 2.jpg",
 "extension": ".jpg",
 "Size": "1797020"
+},
+{
+"name": "BT-OSUT Design Guidace 12_2023.pdf",
+"LastModified": "11/30/2023 17:11:00",
+"Key": "content/cos/swf/bt-osut/Library/Standard Designs/BT-OSUT Design Guidace 12_2023.pdf",
+"extension": ".pdf",
+"Size": "592355"
 },
 {
 "name": "Library",
@@ -14286,20 +14293,6 @@
 "Size": "7703399"
 },
 {
-"name": "rfpfieldguidelines.pdf",
-"LastModified": "06/21/2016 09:43:00",
-"Key": "content/Model RFP/MILCON/MBP Implementation Guide/rfpfieldguidelines.pdf",
-"extension": ".pdf",
-"Size": "312320"
-},
-{
-"name": "rfpimplementationguidelines.pdf",
-"LastModified": "06/21/2016 09:42:59",
-"Key": "content/Model RFP/MILCON/MBP Implementation Guide/rfpimplementationguidelines.pdf",
-"extension": ".pdf",
-"Size": "670689"
-},
-{
 "name": "rfp_facilities-1.pdf",
 "LastModified": "06/21/2016 09:42:57",
 "Key": "content/Model RFP/MILCON/MBP Implementation Guide/rfp_facilities-1.pdf",
@@ -14319,6 +14312,20 @@
 "Key": "content/Model RFP/MILCON/MBP Implementation Guide/rfp_paragraph6.pdf",
 "extension": ".pdf",
 "Size": "4407417"
+},
+{
+"name": "rfpfieldguidelines.pdf",
+"LastModified": "06/21/2016 09:43:00",
+"Key": "content/Model RFP/MILCON/MBP Implementation Guide/rfpfieldguidelines.pdf",
+"extension": ".pdf",
+"Size": "312320"
+},
+{
+"name": "rfpimplementationguidelines.pdf",
+"LastModified": "06/21/2016 09:42:59",
+"Key": "content/Model RFP/MILCON/MBP Implementation Guide/rfpimplementationguidelines.pdf",
+"extension": ".pdf",
+"Size": "670689"
 },
 {
 "name": "011000-par-4-appl_criteria.pdf",
@@ -14468,18 +14475,18 @@
 "Size": "48443"
 },
 {
-"name": "sample-preliminary-submittal-register.xls",
-"LastModified": "08/09/2016 13:43:36",
-"Key": "content/Model RFP/MILCON/References/sample-preliminary-submittal-register.xls",
-"extension": ".xls",
-"Size": "136192"
-},
-{
 "name": "sample_appendix_o_leed_multiple_contractor_respons_table.xls",
 "LastModified": "08/09/2016 13:43:37",
 "Key": "content/Model RFP/MILCON/References/sample_appendix_o_leed_multiple_contractor_respons_table.xls",
 "extension": ".xls",
 "Size": "69632"
+},
+{
+"name": "sample-preliminary-submittal-register.xls",
+"LastModified": "08/09/2016 13:43:36",
+"Key": "content/Model RFP/MILCON/References/sample-preliminary-submittal-register.xls",
+"extension": ".xls",
+"Size": "136192"
 },
 {
 "name": "small-projects-wizard-executive-summary.pdf",
@@ -14769,13 +14776,6 @@
 "Size": "283030"
 },
 {
-"name": "pdrswizard_pm.pptx",
-"LastModified": "06/29/2016 14:13:38",
-"Key": "content/PDRS/Archive/Help/pdrswizard_pm.pptx",
-"extension": ".pptx",
-"Size": "1845208"
-},
-{
 "name": "pdrs_pm_flowchart.pdf",
 "LastModified": "06/29/2016 14:13:38",
 "Key": "content/PDRS/Archive/Help/pdrs_pm_flowchart.pdf",
@@ -14795,6 +14795,13 @@
 "Key": "content/PDRS/Archive/Help/pdrs_training_intro.pptx",
 "extension": ".pptx",
 "Size": "155004"
+},
+{
+"name": "pdrswizard_pm.pptx",
+"LastModified": "06/29/2016 14:13:38",
+"Key": "content/PDRS/Archive/Help/pdrswizard_pm.pptx",
+"extension": ".pptx",
+"Size": "1845208"
 },
 {
 "name": "FY23 Meeting Minutes",
@@ -14888,13 +14895,6 @@
 "Size": ""
 },
 {
-"name": "final-nad_lrd_spd_nwd-pdr-telecons-5_31_-2016.docx",
-"LastModified": "06/29/2016 14:02:42",
-"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY 18 Meeting Minutes/final-nad_lrd_spd_nwd-pdr-telecons-5_31_-2016.docx",
-"extension": ".docx",
-"Size": "70350"
-},
-{
 "name": "final-nad_lrd_spd_nwd_pod-pdr-telecons-6_14_-2016.docx",
 "LastModified": "06/29/2016 14:02:42",
 "Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY 18 Meeting Minutes/final-nad_lrd_spd_nwd_pod-pdr-telecons-6_14_-2016.docx",
@@ -14907,6 +14907,13 @@
 "Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY 18 Meeting Minutes/final-nad_lrd_spd_nwd_pod-pdr-telecons-6_21_-2016-002.docx",
 "extension": ".docx",
 "Size": "83283"
+},
+{
+"name": "final-nad_lrd_spd_nwd-pdr-telecons-5_31_-2016.docx",
+"LastModified": "06/29/2016 14:02:42",
+"Key": "content/PDRS/Archive/Meeting Minutes/Pre-FY23 Meeting Minutes/FY 18 Meeting Minutes/final-nad_lrd_spd_nwd-pdr-telecons-5_31_-2016.docx",
+"extension": ".docx",
+"Size": "70350"
 },
 {
 "name": "final-sad-pdr-telecons-5_31_2016.docx",
@@ -15385,18 +15392,18 @@
 "Size": "222080"
 },
 {
-"name": "abbreviated_pdr_template.docx",
-"LastModified": "06/29/2016 11:43:44",
-"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 13 Guidance (Archive)/abbreviated_pdr_template.docx",
-"extension": ".docx",
-"Size": "26925"
-},
-{
 "name": "abbreviated_pdr_template_fy_13_late_adds-npr.docx",
 "LastModified": "06/29/2016 11:43:44",
 "Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 13 Guidance (Archive)/abbreviated_pdr_template_fy_13_late_adds-npr.docx",
 "extension": ".docx",
 "Size": "29168"
+},
+{
+"name": "abbreviated_pdr_template.docx",
+"LastModified": "06/29/2016 11:43:44",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 13 Guidance (Archive)/abbreviated_pdr_template.docx",
+"extension": ".docx",
+"Size": "26925"
 },
 {
 "name": "fy13_code-3_directive_sample.pdf",
@@ -15427,20 +15434,6 @@
 "Size": "15773"
 },
 {
-"name": "07052-1-appendix-a-points-of-contacts.pdf",
-"LastModified": "06/29/2016 11:51:13",
-"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 14 Guidance (Archive)/07052-1-appendix-a-points-of-contacts.pdf",
-"extension": ".pdf",
-"Size": "18921"
-},
-{
-"name": "070522-appendix-b-acronyms-and-abbreviations.pdf",
-"LastModified": "06/29/2016 11:51:13",
-"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 14 Guidance (Archive)/070522-appendix-b-acronyms-and-abbreviations.pdf",
-"extension": ".pdf",
-"Size": "10776"
-},
-{
 "name": "07052_appendix-j-eng3086-instructions-_code-3_-fy14.pdf",
 "LastModified": "06/29/2016 11:51:14",
 "Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 14 Guidance (Archive)/07052_appendix-j-eng3086-instructions-_code-3_-fy14.pdf",
@@ -15453,6 +15446,20 @@
 "Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 14 Guidance (Archive)/07052_instructions-for-parametric-design-_code-3_-fy14.pdf",
 "extension": ".pdf",
 "Size": "235672"
+},
+{
+"name": "07052-1-appendix-a-points-of-contacts.pdf",
+"LastModified": "06/29/2016 11:51:13",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 14 Guidance (Archive)/07052-1-appendix-a-points-of-contacts.pdf",
+"extension": ".pdf",
+"Size": "18921"
+},
+{
+"name": "070522-appendix-b-acronyms-and-abbreviations.pdf",
+"LastModified": "06/29/2016 11:51:13",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 14 Guidance (Archive)/070522-appendix-b-acronyms-and-abbreviations.pdf",
+"extension": ".pdf",
+"Size": "10776"
 },
 {
 "name": "abbreviated_pdr_lite-template-for-fy14.pdf",
@@ -15483,6 +15490,13 @@
 "Size": "151040"
 },
 {
+"name": "07052_appendix-j-eng3086-instructions-_code-3_-oct-2012.pdf",
+"LastModified": "06/29/2016 11:57:11",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Guidance (Archive)/07052_appendix-j-eng3086-instructions-_code-3_-oct-2012.pdf",
+"extension": ".pdf",
+"Size": "70444"
+},
+{
 "name": "07052-1-appendix-a-points-of-contacts.pdf",
 "LastModified": "06/29/2016 11:57:10",
 "Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Guidance (Archive)/07052-1-appendix-a-points-of-contacts.pdf",
@@ -15495,13 +15509,6 @@
 "Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Guidance (Archive)/07052-2-appendix-b-acronyms-and-abbreviations.pdf",
 "extension": ".pdf",
 "Size": "11408"
-},
-{
-"name": "07052_appendix-j-eng3086-instructions-_code-3_-oct-2012.pdf",
-"LastModified": "06/29/2016 11:57:11",
-"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 15 Guidance (Archive)/07052_appendix-j-eng3086-instructions-_code-3_-oct-2012.pdf",
-"extension": ".pdf",
-"Size": "70444"
 },
 {
 "name": "abbreviated_pdr_process.pdf",
@@ -15679,6 +15686,13 @@
 "Size": "35845"
 },
 {
+"name": "07052_appendix-j-eng3086-instructions-code-3-fy16.docx",
+"LastModified": "06/29/2016 13:48:38",
+"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 16 Guidance (Archive)/07052_appendix-j-eng3086-instructions-code-3-fy16.docx",
+"extension": ".docx",
+"Size": "78089"
+},
+{
 "name": "07052-1-appendix-a-points-of-contacts.doc",
 "LastModified": "06/29/2016 13:48:41",
 "Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 16 Guidance (Archive)/07052-1-appendix-a-points-of-contacts.doc",
@@ -15698,13 +15712,6 @@
 "Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 16 Guidance (Archive)/070523appendix_c-planning_and_design_data-tab_b-templates.pdf",
 "extension": ".pdf",
 "Size": "222080"
-},
-{
-"name": "07052_appendix-j-eng3086-instructions-code-3-fy16.docx",
-"LastModified": "06/29/2016 13:48:38",
-"Key": "content/PDRS/Archive/Policy/Pre-FY24 Guidance & Templates/FY 16 Guidance (Archive)/07052_appendix-j-eng3086-instructions-code-3-fy16.docx",
-"extension": ".docx",
-"Size": "78089"
 },
 {
 "name": "abbreviated_pdr_process.docx",
@@ -16428,6 +16435,13 @@
 "Size": "677862"
 },
 {
+"name": "er_1110-345-723.pdf",
+"LastModified": "02/05/2018 14:25:30",
+"Key": "content/sustain/CX-KR Documents/Commissioning/Policy & Guidance/er_1110-345-723.pdf",
+"extension": ".pdf",
+"Size": "1708172"
+},
+{
 "name": "er-25-345-1-systems-manual-jan-91.pdf",
 "LastModified": "05/06/2015 11:09:46",
 "Key": "content/sustain/CX-KR Documents/Commissioning/Policy & Guidance/er-25-345-1-systems-manual-jan-91.pdf",
@@ -16447,13 +16461,6 @@
 "Key": "content/sustain/CX-KR Documents/Commissioning/Policy & Guidance/er-415-1-16-construction-fiscal-management.pdf",
 "extension": ".pdf",
 "Size": "251073"
-},
-{
-"name": "er_1110-345-723.pdf",
-"LastModified": "02/05/2018 14:25:30",
-"Key": "content/sustain/CX-KR Documents/Commissioning/Policy & Guidance/er_1110-345-723.pdf",
-"extension": ".pdf",
-"Size": "1708172"
 },
 {
 "name": "Articles & Case Studies",
@@ -16505,13 +16512,6 @@
 "Size": "99200"
 },
 {
-"name": "pwtb-200-1-120-opportunities-to-increase-c-d-diversion.pdf",
-"LastModified": "05/06/2015 12:31:05",
-"Key": "content/sustain/CX-KR Documents/Construction Waste/Policy & Guidance/pwtb-200-1-120-opportunities-to-increase-c-d-diversion.pdf",
-"extension": ".pdf",
-"Size": "8031666"
-},
-{
 "name": "pwtb_200_1_23-reduction-of-demoliation-through-reuse-and-recycling.pdf",
 "LastModified": "05/06/2015 12:30:40",
 "Key": "content/sustain/CX-KR Documents/Construction Waste/Policy & Guidance/pwtb_200_1_23-reduction-of-demoliation-through-reuse-and-recycling.pdf",
@@ -16524,6 +16524,13 @@
 "Key": "content/sustain/CX-KR Documents/Construction Waste/Policy & Guidance/pwtb_200_1_23.pdf",
 "extension": ".pdf",
 "Size": "386532"
+},
+{
+"name": "pwtb-200-1-120-opportunities-to-increase-c-d-diversion.pdf",
+"LastModified": "05/06/2015 12:31:05",
+"Key": "content/sustain/CX-KR Documents/Construction Waste/Policy & Guidance/pwtb-200-1-120-opportunities-to-increase-c-d-diversion.pdf",
+"extension": ".pdf",
+"Size": "8031666"
 },
 {
 "name": "Articles & Case Studies",
@@ -17695,13 +17702,6 @@
 "Size": "878336"
 },
 {
-"name": "army-lid-planning-and-cost-tool-user-guide_jan-2018.pdf",
-"LastModified": "02/27/2018 09:15:21",
-"Key": "content/sustain/CX-KR Documents/LID/Design Tools/army-lid-planning-and-cost-tool-user-guide_jan-2018.pdf",
-"extension": ".pdf",
-"Size": "4596513"
-},
-{
 "name": "army-lid-planning-and-cost-tool_june2018.accdb",
 "LastModified": "06/27/2018 07:52:03",
 "Key": "content/sustain/CX-KR Documents/LID/Design Tools/army-lid-planning-and-cost-tool_june2018.accdb",
@@ -17714,6 +17714,13 @@
 "Key": "content/sustain/CX-KR Documents/LID/Design Tools/army-lid-planning-and-cost-tool_june2018.zip",
 "extension": ".zip",
 "Size": "4774699"
+},
+{
+"name": "army-lid-planning-and-cost-tool-user-guide_jan-2018.pdf",
+"LastModified": "02/27/2018 09:15:21",
+"Key": "content/sustain/CX-KR Documents/LID/Design Tools/army-lid-planning-and-cost-tool-user-guide_jan-2018.pdf",
+"extension": ".pdf",
+"Size": "4596513"
 },
 {
 "name": "webinar-1_army-lid-planning-and-cost-tool-intro.mp4",
@@ -17898,13 +17905,6 @@
 "Size": ""
 },
 {
-"name": "alg-connections-goodlighting-goodcolor.pdf",
-"LastModified": "09/18/2016 22:53:18",
-"Key": "content/sustain/CX-KR Documents/Lighting/Articles & Case Studies/alg-connections-goodlighting-goodcolor.pdf",
-"extension": ".pdf",
-"Size": "434403"
-},
-{
 "name": "alg-connections_alt-to-mr16_feb2013.pdf",
 "LastModified": "09/18/2016 22:55:17",
 "Key": "content/sustain/CX-KR Documents/Lighting/Articles & Case Studies/alg-connections_alt-to-mr16_feb2013.pdf",
@@ -17933,6 +17933,13 @@
 "Size": "1245118"
 },
 {
+"name": "alg-connections-goodlighting-goodcolor.pdf",
+"LastModified": "09/18/2016 22:53:18",
+"Key": "content/sustain/CX-KR Documents/Lighting/Articles & Case Studies/alg-connections-goodlighting-goodcolor.pdf",
+"extension": ".pdf",
+"Size": "434403"
+},
+{
 "name": "cdc_daylighting_3-7-2011_nw.ppt",
 "LastModified": "04/30/2015 13:20:32",
 "Key": "content/sustain/CX-KR Documents/Lighting/Articles & Case Studies/cdc_daylighting_3-7-2011_nw.ppt",
@@ -17947,18 +17954,18 @@
 "Size": "1502629"
 },
 {
-"name": "daylighting-guide-for-office-interiors.pdf",
-"LastModified": "09/18/2016 22:53:01",
-"Key": "content/sustain/CX-KR Documents/Lighting/Design Tools/daylighting-guide-for-office-interiors.pdf",
-"extension": ".pdf",
-"Size": "2316972"
-},
-{
 "name": "daylighting_design-checklist.pdf",
 "LastModified": "09/18/2016 01:44:09",
 "Key": "content/sustain/CX-KR Documents/Lighting/Design Tools/daylighting_design-checklist.pdf",
 "extension": ".pdf",
 "Size": "160778"
+},
+{
+"name": "daylighting-guide-for-office-interiors.pdf",
+"LastModified": "09/18/2016 22:53:01",
+"Key": "content/sustain/CX-KR Documents/Lighting/Design Tools/daylighting-guide-for-office-interiors.pdf",
+"extension": ".pdf",
+"Size": "2316972"
 },
 {
 "name": "solatube-blast-resistance-testing.pdf",
