@@ -6,8 +6,8 @@ facility_cos_short_name: LRL
 facility_functional_proponent: HQDA OTJAG
 facility_long_name: Judicial Center with Courtroom
 facility_short_name: JC
-facility_technical_poc_email: "Margaret.K.Thacher@usace.army.mil"
-facility_technical_poc_name: "Margaret (Maggie) Thacher"
+facility_technical_poc_email: "Monica.D.Hughes@usace.army.mil"
+facility_technical_poc_name: "Monica Hughes"
 //file_library_root_path: "content/cos/lrl/jc/Library/"
 page_last_reviewed: 1 January 1970
 slug: /cos/lrl/jc/
