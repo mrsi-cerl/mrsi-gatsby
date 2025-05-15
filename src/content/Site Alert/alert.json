@@ -7,9 +7,9 @@
     "title": "Network Outage"
   },
   {
-    "startDate": "13:00  04/09/2025",
-    "endDate": "18:00  04/10/2025",
-    "message": "Our hosting provider is conducting planned maintenance Thursday afternoon/evening starting at 15:00 CDT, 10 APR 25 through 18:00 CDT 10 APR 25. All Wizard applications and Library files will be unavailable during this time. ",
+    "startDate": "13:00  05/15/2025",
+    "endDate": "18:00  05/15/2025",
+    "message": "Our hosting provider is conducting planned maintenance Thursday afternoon/evening starting at 15:00 CDT, 15 MAY 25 through 18:00 CDT 10 APR 25. All Wizard applications and Library files will be unavailable during this time. ",
     "level": "info",
     "title": "Planned Network Maintenance"
   },
