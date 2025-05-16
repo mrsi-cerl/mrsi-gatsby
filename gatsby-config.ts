@@ -27,6 +27,20 @@ const config: GatsbyConfig = {
         theme_color: `#663399`,
         display: `standalone`,
         icon: `./src/images/mrsi-favicon.png`, // This path is relative to the root of the site.
+        icons: [
+          {
+            src: `/src/images/web-app-manifest-192x192.png`,
+            sizes: `192x192`,
+            type: `image/png`,
+            purpose: `maskable`
+          },
+          {
+            src: `/src/images/web-app-manifest-512x512.png`,
+            sizes: `512x512`,
+            type: `image/png`,
+            purpose: `maskable`
+          }
+        ],
       },
     },
     {
