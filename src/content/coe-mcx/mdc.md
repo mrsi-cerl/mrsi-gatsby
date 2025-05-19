@@ -1,5 +1,5 @@
 ---
-doc_type: coe_mcx_page 
+doc_type: coe_mcx_page
 title: Marine Design Center
 name_of_center: Marine Design Center
 place_of_center: NAP
@@ -14,15 +14,15 @@ er_link: https://www.publications.usace.army.mil/Portals/76/ER%2010-1-46%20Combi
 er_publication_date: 13 Mar 2013
 activation_date: 17 Oct 1988
 recertification_date: 05 Oct 2022
-center_functional_proponent: Tom Smith
+center_functional_proponent: Stephen Hill
 keywords: Marine Design
-// file_library_root_path: "content/coe/mcx/mdc/Library/" 
-page_last_reviewed: 1 January 1970 
+// file_library_root_path: "content/coe/mcx/mdc/Library/"
+page_last_reviewed: 1 January 1970
 slug: /coe/mcx/mdc
 ---
 
-## About 
+## About
 
 The Marine Design Center is the Corps of Engineers center of expertise and experience for the development and application of innovative strategies and technologies for naval architecture and marine engineering. We provide total project management including planning, engineering, and shipbuilding contract management in support of Corps, Army, DOD and other Federal Agencies. The Center is located in Philadelphia District but directly assigned to HQUSACE and not affiliated with either NAP or NAD.
 
- 
+

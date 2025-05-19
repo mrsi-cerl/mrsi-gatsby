@@ -1,12 +1,12 @@
 ---
-doc_type: coe_mcx_page 
+doc_type: coe_mcx_page
 title: Homeowners Assistance Program (HAP)
 name_of_center: Homeowners Assistance Program (HAP)
 place_of_center: SAS
 center_type: MCX
 website: http://www.usace.army.mil/Missions/Military-Missions/Real-Estate/HAP
-center_poc_name: Ralph Werthman
-center_poc_phone_number: ☎ (912) 652-5011
+center_poc_name: Jennifer Morgan
+center_poc_phone_number: ☎ (912) 856-0447
 hq_poc_name: Ben Foo
 hq_division: Real Estate
 er_number: AR 405-16
@@ -16,12 +16,12 @@ activation_date: N/A
 recertification_date: 19 Dec 2023
 center_functional_proponent: Paula Johnson-Muic
 keywords: Homeowners Assistance
-// file_library_root_path: "content/coe/mcx/hap/Library/" 
-page_last_reviewed: 1 January 1970 
+// file_library_root_path: "content/coe/mcx/hap/Library/"
+page_last_reviewed: 1 January 1970
 slug: /coe/mcx/hap
 ---
 
-## About 
+## About
 
 The Homeowners Assistance Program is capable of providing the following functions:
 <ul>
@@ -34,7 +34,7 @@ The Homeowners Assistance Program is capable of providing the following function
     <li>Applicants counselor</li>
     <li>Government acquisition</li>
     <li>Private sale benefits</li>
-    <li>Foreclosure benefits</li> 
+    <li>Foreclosure benefits</li>
 </ul>
 
- 
+
