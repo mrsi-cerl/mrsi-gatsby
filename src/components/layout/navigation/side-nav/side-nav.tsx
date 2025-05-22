@@ -111,8 +111,10 @@ function createCOENavList( menuItems: any[], currPath: string ) {
   const menu = createNavList( menuItems, currPath );
   const menu2 = menu.concat(
   <li className="usa-sidenav__item">
-    <Link to="https://usace.dps.mil/:f:/s/TDL-CECW-EC-CXEducationalSeries/El0761ugJVhCoYvLFVxEpsQBdDk3iDTZv6U4OvOlEJ_F1A?e=yWW0Yj" target="_blank" rel="noopener noreferrer"><b>* NEW *</b>&nbsp;CX&nbsp;Master&nbsp;File,&nbsp;Webinars,&nbsp;Schedules<br />
-      <small><i><b>***PLEASE NOTE***</b> this external site requires CAC login.</i></small>
+    <Link to="https://usace.dps.mil/:f:/s/TDL-CECW-EC-CXEducationalSeries/El0761ugJVhCoYvLFVxEpsQBdDk3iDTZv6U4OvOlEJ_F1A?e=yWW0Yj"
+      title = "* NEW * Center of Expertise Master File, Webinars, Schedules" target="_blank" rel="noopener noreferrer">
+        <b>* NEW *</b> CX Master File, Webinars, Schedules<br />
+        <small><i><b>***PLEASE NOTE***</b> this external site requires CAC login.</i></small>
     </Link>
   </li>
   )
