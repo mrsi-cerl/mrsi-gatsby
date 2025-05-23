@@ -7,7 +7,7 @@ center_type: TCX
 website: https://usace.dps.mil/sites/INTRA-NWP/SitePages/Welding-and-Metallurgy-Technical-Center.aspx?web=1
 center_poc_name: Alysia Breninger
 center_poc_phone_number: ☎ (503) 808 4954
-hq_poc_name: Scott Wick
+hq_poc_name: Hien Duong
 hq_division: Engineering & Construction
 activation_date: 13 Dec 2012
 recertification_date: 27 Feb 2024
