@@ -37,8 +37,6 @@ The Medium TOE Rotary Wing Aviation Battalion Aircraft Maintenance Hangar Standa
 
 _Previous Rotary Wing Standard Designs are not valid for projects programmed for FY25 and beyond, whether new, repair or renovation._
 
-For hangars supporting other than Assault or GSAB TOE units, contact COS for applicable Standard Designs, if available.
-
 
 ## Variations
 
