@@ -9373,17 +9373,17 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "03/23/2023 11:09:08",
+"LastModified": "05/27/2025 11:28:01",
 "Key": "content/cos/sam/tda/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
-"name": "TDA_Aviation_Unit_Army_Standard_2022-05-11.pdf",
-"LastModified": "08/12/2022 14:03:25",
-"Key": "content/cos/sam/tda/Library/Army Standards/TDA_Aviation_Unit_Army_Standard_2022-05-11.pdf",
+"name": "HGR_TDA_RW_24 April 2025.pdf",
+"LastModified": "05/27/2025 11:26:29",
+"Key": "content/cos/sam/tda/Library/Army Standards/HGR_TDA_RW_24 April 2025.pdf",
 "extension": ".pdf",
-"Size": "957201"
+"Size": "1014605"
 },
 {
 "name": "Library",
@@ -9394,17 +9394,17 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "03/23/2023 11:09:08",
+"LastModified": "05/27/2025 11:33:41",
 "Key": "content/cos/sam/tdafw/Library/Army Standards",
 "extension": "",
 "Size": ""
 },
 {
-"name": "Fixed_Wing_Aviation_Unit_Army_Standard_2022-05-11.pdf",
-"LastModified": "08/12/2022 14:13:16",
-"Key": "content/cos/sam/tdafw/Library/Army Standards/Fixed_Wing_Aviation_Unit_Army_Standard_2022-05-11.pdf",
+"name": "HGR_FW_24 April 2025.pdf",
+"LastModified": "05/27/2025 11:33:41",
+"Key": "content/cos/sam/tdafw/Library/Army Standards/HGR_FW_24 April 2025.pdf",
 "extension": ".pdf",
-"Size": "685542"
+"Size": "850956"
 },
 {
 "name": "Library",
@@ -9422,7 +9422,7 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "03/23/2023 11:09:19",
+"LastModified": "05/27/2025 11:28:33",
 "Key": "content/cos/sam/trw/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -9547,18 +9547,11 @@
 "Size": "482704"
 },
 {
-"name": "Army_Standard_Approval_Memo_HGR_June_2021.pdf",
-"LastModified": "10/01/2021 09:58:38",
-"Key": "content/cos/sam/trw/Library/Army Standards/Army_Standard_Approval_Memo_HGR_June_2021.pdf",
+"name": "HGR_TOE_RW_24 April 2025.pdf",
+"LastModified": "05/27/2025 11:00:11",
+"Key": "content/cos/sam/trw/Library/Army Standards/HGR_TOE_RW_24 April 2025.pdf",
 "extension": ".pdf",
-"Size": "201323"
-},
-{
-"name": "Army_Standard_Aviation_Maintenance_Hangar_20210506.pdf",
-"LastModified": "10/01/2021 09:58:38",
-"Key": "content/cos/sam/trw/Library/Army Standards/Army_Standard_Aviation_Maintenance_Hangar_20210506.pdf",
-"extension": ".pdf",
-"Size": "935196"
+"Size": "971323"
 },
 {
 "name": "1391 TRW ExtraLarge.pdf",
