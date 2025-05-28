@@ -21,9 +21,9 @@
     "title": "Planned Network Maintenance"
   },
   {
-    "startDate": "18:00  01/16/2025",
-    "endDate": "15:00  01/17/2025",
-    "message": "The MRSI Wizard will be down for planned maintenance on January 17 2025, starting at 1 pm CDT through 3 pm CDT.",
+    "startDate": "09:00  05/28/2025",
+    "endDate": "16:00  05/28/2025",
+    "message": "The MRSI Wizard will be down for planned maintenance on May 28 2025, starting at 3 pm CDT until 4 pm CDT.",
     "level": "info",
     "title": "Server Maintenance"
   },
