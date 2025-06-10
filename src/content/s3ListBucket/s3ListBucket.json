@@ -18438,7 +18438,7 @@
 },
 {
 "name": "Archive",
-"LastModified": "11/16/2023 12:50:26",
+"LastModified": "06/10/2025 11:26:20",
 "Key": "content/sustain/Library/Archive",
 "extension": "",
 "Size": ""
@@ -18491,6 +18491,13 @@
 "Key": "content/sustain/Library/Archive/army-contract-review-guidance-oct-2016.docx",
 "extension": ".docx",
 "Size": "45650"
+},
+{
+"name": "LEED_v4_for_Building_Design_and_Construction__1_PAGE.xlsx",
+"LastModified": "06/10/2025 11:26:02",
+"Key": "content/sustain/Library/Archive/LEED_v4_for_Building_Design_and_Construction__1_PAGE.xlsx",
+"extension": ".xlsx",
+"Size": "189791"
 },
 {
 "name": "opord-2011-72-notification-life-cycle-cost-analysis.pdf",
