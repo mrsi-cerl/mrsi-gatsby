@@ -8,7 +8,7 @@ website: https://www.hec.usace.army.mil/
 center_poc_name: Lee Adams
 center_poc_phone_number: ☎ (530) 302-3680
 hq_poc_name: Sean Smith
-hq_division: CW
+hq_division: Engineering & Construction
 activation_date: N/A
 recertification_date: 28 Apr 2023
 center_functional_proponent: Tom Smith

@@ -1,6 +1,6 @@
 ---
 doc_type: coe_ctx_page
-title: Hydroelectric Design Center Pumping Plant Fesign
+title: Hydroelectric Design Center Pumping Plant Design
 name_of_center: Hydroelectric Design Center Pumping Plant Design
 place_of_center: NWP
 center_type: TCX

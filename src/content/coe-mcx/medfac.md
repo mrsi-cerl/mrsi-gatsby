@@ -5,7 +5,7 @@ name_of_center: Medical Facilities
 place_of_center: HNC
 center_type: MCX
 website: http://www.hnc.usace.army.mil/Missions/Centers-of-Expertise
-center_poc_name: G.Brian Prediger
+center_poc_name: G. Brian Prediger
 center_poc_phone_number: ☎ (703) 428-9146
 hq_poc_name: Scott Wick
 hq_division: Engineering & Construction / Programs Integration - Military Programs
