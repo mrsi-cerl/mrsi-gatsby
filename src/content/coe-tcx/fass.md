@@ -8,7 +8,7 @@ website: http://www.hnc.usace.army.mil/Missions/Centers-of-Expertise
 center_poc_name: Brian Spears
 center_poc_phone_number: ☎ (256) 895-1976
 hq_poc_name: Mark Atkins / Dawn Carney
-hq_division: Engineering & Construction and Safety
+hq_division: Engineering & Construction
 activation_date: N/A
 recertification_date: 14 Jun 2023
 center_functional_proponent: Tom Smith
