@@ -5,7 +5,7 @@ name_of_center: Hydrologic Engineering Center (HEC)
 place_of_center: IWR
 center_type: TCX
 website: https://www.hec.usace.army.mil/
-center_poc_name: Lee Adams
+center_poc_name: Lea Adams
 center_poc_phone_number: ☎ (530) 302-3680
 hq_poc_name: Sean Smith
 hq_division: Engineering & Construction
