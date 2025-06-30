@@ -5,7 +5,7 @@ name_of_center: Homeowners Assistance Program (HAP)
 place_of_center: SAS
 center_type: MCX
 website: http://www.usace.army.mil/Missions/Military-Missions/Real-Estate/HAP
-center_poc_name: Jennifer Morgan
+center_poc_name: Jennifer (Morgan) Kearns
 center_poc_phone_number: ☎ (912) 856-0447
 hq_poc_name: Ben Foo
 hq_division: Real Estate
