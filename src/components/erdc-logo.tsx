@@ -11,7 +11,7 @@ const ErdcLogo = () => {
         layout="fixed"
         height={ 95 }
         width={ 275 }
-        quality={ 95 }
+        quality={ 100 }
       />
       </a>
     </div>
