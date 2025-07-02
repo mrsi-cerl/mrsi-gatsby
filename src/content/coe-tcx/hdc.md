@@ -12,7 +12,7 @@ hq_division: Engineering & Construction
 activation_date: 2001 - TCX pumping plants
 recertification_date: 20 Apr 2023
 center_functional_proponent: Tom Smith
-keywords: Hydro Design
+keywords: Hydro Design Pump Station
 // file_library_root_path: "content/coe/tcx/hdc/Library/"
 page_last_reviewed: 1 January 1970
 slug: /coe/tcx/hdc
