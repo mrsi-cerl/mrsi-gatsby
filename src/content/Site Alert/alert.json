@@ -7,18 +7,18 @@
     "title": "Network Outage"
   },
   {
-    "startDate": "13:00  05/15/2025",
-    "endDate": "18:00  05/15/2025",
-    "message": "Our hosting provider is conducting planned maintenance Thursday afternoon/evening starting at 15:00 CDT, 15 MAY 25 through 18:00 CDT 15 MAY 25. All Wizard applications and Library files will be unavailable during this time. ",
+    "startDate": "8:00  07/07/2025",
+    "endDate": "20:00  07/10/2025",
+    "message": "Our hosting provider is conducting planned maintenance on Thursday, 10 July 2025 starting at 17:30 CDT through 20:00 CDT. All Wizard applications, Library files, and this website will be unavailable during this time.",
     "level": "info",
     "title": "Planned Network Maintenance"
   },
   {
-    "startDate": "11:00  06/26/2025",
-    "endDate": "18:00  06/26/2025",
-    "message": "Planned maintenance is being conducted today, starting at 15:00 CDT through 18:00 CDT. All Wizard applications and Library files will be unavailable during this time. ",
+    "startDate": "11:00  07/23/2025",
+    "endDate": "5:00  07/24/2025",
+    "message": "Planned maintenance is being conducted starting at 01:00 CDT through 05:00 CDT on 24 July 2025. The legacy (click-once)  Wizard applications and Library files will be unavailable during this time. ",
     "level": "info",
-    "title": "Planned Network Maintenance"
+    "title": "Planned Server Maintenance"
   },
   {
     "startDate": "09:00  05/28/2025",
