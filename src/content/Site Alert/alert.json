@@ -8,8 +8,8 @@
   },
   {
     "startDate": "8:00  07/07/2025",
-    "endDate": "20:00  07/10/2025",
-    "message": "Our hosting provider is conducting planned maintenance on Thursday, 10 July 2025 starting at <b>20:00 CDT through 22:30 CDT</b>. All Wizard applications, Library files, and this website will be unavailable during this time.",
+    "endDate": "22:30  07/10/2025",
+    "message": "Our hosting provider is conducting planned maintenance on Thursday, 10 July 2025 starting at <b>20:00 CDT through 22:30 CDT</b>. All Wizard applications and Library files on this website will be unavailable during this time.",
     "level": "info",
     "title": "Planned Network Maintenance"
   },
