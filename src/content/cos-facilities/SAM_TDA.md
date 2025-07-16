@@ -20,7 +20,7 @@ The TDA Aviation Unit Aircraft Maintenance Hangar Army Standard defines an entir
 
 The Standard defines the facility functional and equipment requirements for maintenance, flight and company operations. The accommodated company operations personnel of Flight units do not require space within a separate Company Operations Facility (COF), FCC 14185. Typical functional spaces within this Hangar Standard include the maintenance bay, maintenance administrative and QA/QC areas, parts and tools storage, component repair shops, flight planning and flight operations, and company daily administrative and supply activities. The facility also accommodates Covered ASIOE and GSE storage (14179), POL Storage / Hazardous Material Storage (21470), Aircraft Wash Apron (11370), and Hangar Access Apron (11340). This Army Standard applies to all active Army and Reserve Component TDA flight and maintenance units.
 
-Due to the unique nature of TDA units, there is no intention to create a TDA Standard Design.  Contact COS for assistance in the programming and design of new TDA unit hangars.
+Contact COS for assistance in the programming and design of new TDA unit hangars.
 
 ## Variations
 

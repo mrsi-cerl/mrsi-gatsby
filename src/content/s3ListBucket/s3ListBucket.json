@@ -9366,7 +9366,7 @@
 },
 {
 "name": "Library",
-"LastModified": "03/18/2024 14:13:52",
+"LastModified": "07/16/2025 11:54:29",
 "Key": "content/cos/sam/tda/Library",
 "extension": "",
 "Size": ""
@@ -9379,11 +9379,25 @@
 "Size": ""
 },
 {
+"name": "Standard Designs",
+"LastModified": "07/16/2025 11:54:43",
+"Key": "content/cos/sam/tda/Library/Standard Designs",
+"extension": "",
+"Size": ""
+},
+{
 "name": "HGR_TDA_RW_24 April 2025.pdf",
 "LastModified": "05/27/2025 11:26:29",
 "Key": "content/cos/sam/tda/Library/Army Standards/HGR_TDA_RW_24 April 2025.pdf",
 "extension": ".pdf",
 "Size": "1014605"
+},
+{
+"name": "2025-07 SAM AVN-COS Rotary Wing Standard Design Narrative.pdf",
+"LastModified": "07/16/2025 10:03:00",
+"Key": "content/cos/sam/tda/Library/Standard Designs/2025-07 SAM AVN-COS Rotary Wing Standard Design Narrative.pdf",
+"extension": ".pdf",
+"Size": "453471"
 },
 {
 "name": "Library",
@@ -9436,7 +9450,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "04/15/2025 12:25:58",
+"LastModified": "07/16/2025 11:51:03",
 "Key": "content/cos/sam/trw/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -9624,11 +9638,11 @@
 "Size": "93199"
 },
 {
-"name": "2025-04 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
-"LastModified": "04/15/2025 10:51:47",
-"Key": "content/cos/sam/trw/Library/Standard Designs/2025-04 SAM AVN-COS TOE Rotary Wing Standard Design Narrative.pdf",
+"name": "2025-07 SAM AVN-COS Rotary Wing Standard Design Narrative.pdf",
+"LastModified": "07/16/2025 10:03:00",
+"Key": "content/cos/sam/trw/Library/Standard Designs/2025-07 SAM AVN-COS Rotary Wing Standard Design Narrative.pdf",
 "extension": ".pdf",
-"Size": "437434"
+"Size": "453471"
 },
 {
 "name": "leed-v4-template_9-2023-2.xls",
@@ -14504,7 +14518,7 @@
 },
 {
 "name": "MCA-AFH Code 2 Guidance and Templates",
-"LastModified": "10/21/2024 09:09:33",
+"LastModified": "07/16/2025 11:47:56",
 "Key": "content/PDRS/MCA-AFH Code 2 Guidance and Templates",
 "extension": "",
 "Size": ""
@@ -16132,6 +16146,13 @@
 "Key": "content/PDRS/MCA-AFH Code 2 Guidance and Templates/4_Appendix H DCA_CSRA-Risk Neutral Estimate Guidance.pdf",
 "extension": ".pdf",
 "Size": "1444798"
+},
+{
+"name": "FY29 Army MILCON Timeline.pdf",
+"LastModified": "07/16/2025 08:37:00",
+"Key": "content/PDRS/MCA-AFH Code 2 Guidance and Templates/FY29 Army MILCON Timeline.pdf",
+"extension": ".pdf",
+"Size": "452750"
 },
 {
 "name": "CX-KR Documents",

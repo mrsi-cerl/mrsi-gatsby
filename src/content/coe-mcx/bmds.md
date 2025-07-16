@@ -1,13 +1,13 @@
 ---
 doc_type: coe_mcx_page
-title: Ballistic Missile Defense System Program
-name_of_center: Ballistic Missile Defense System Program
+title: Missile Defense Mandatory Center of Expertise and Standardization
+name_of_center: Missile Defense Mandatory Center of Expertise and Standardization
 place_of_center: HNC
 center_type: MCX
 website: https://www.hnc.usace.army.mil/Media/Fact-Sheets/Fact-Sheet-Article-View/Article/622664/ballistic-missile-defense/
 center_poc_name: Brandon Talbot
-center_poc_phone_number: ☎ (256) 895-1765
-hq_poc_name: Kathleen O'Neill (National PgMgr) / Scott Wick (HQ Proponent)
+center_poc_phone_number: ☎ (256) 316-9292
+hq_poc_name: Scott Wick
 hq_division: MP (EC identified in ER)
 er_number: ER 1110-2-8163
 er_link: https://www.publications.usace.army.mil/Portals/76/Publications/EngineerRegulations/ER_1110-2-8163.pdf?ver=zccDjH50M11uFXTio2zR7w%3d%3d
