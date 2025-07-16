@@ -23,4 +23,4 @@ slug: /coe/mcx/bmds
 
 ## About
 
-The Ballistic Missile Defense Systems (BMDS) MCX, established per ER 1110-2-8163 (30 Sep 2016), provides expert ballistic missile defense system support services to all HQUSACE elements, divisions, districts, laboratories, field operations, Missile Defense Agency (MDA), and other DOD agencies.
+The Missile Defense Mandatory Center of Expertise and Standardization, established per ER 1110-2-8163 (30 Sep 2016), provides expert ballistic missile defense system support services to all HQUSACE elements, divisions, districts, laboratories, field operations, Missile Defense Agency (MDA), and other DOD agencies.
