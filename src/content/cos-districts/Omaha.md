@@ -6,8 +6,8 @@ related_links:
     url: "http://www.nwo.usace.army.mil/"
 page_last_reviewed: "Tuesday, August 14, 2018"
 doc_type: "cos_page"
-cos_manager_name: "Matt Hebert"
-cos_manager_email: "matthew.c.hebert@usace.army.mil"
+cos_manager_name: "Andrew Nelson"
+cos_manager_email: "andrew.c.nelson@usace.army.mil"
 cos_long_name: "Omaha"
 cos_short_name: "NWO"
 ---
