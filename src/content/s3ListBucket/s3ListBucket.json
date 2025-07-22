@@ -5194,7 +5194,7 @@
 },
 {
 "name": "Misc. Documents",
-"LastModified": "12/06/2023 15:21:12",
+"LastModified": "07/22/2025 13:22:39",
 "Key": "content/cos/nao/afh/Library/Misc. Documents",
 "extension": ". Documents",
 "Size": ""
@@ -5359,6 +5359,13 @@
 "Key": "content/cos/nao/afh/Library/Misc. Documents/army_sdd_policy_update_2017.pdf",
 "extension": ".pdf",
 "Size": "7993202"
+},
+{
+"name": "COS lessons learned_AFH_20250718.pdf",
+"LastModified": "07/22/2025 08:07:00",
+"Key": "content/cos/nao/afh/Library/Misc. Documents/COS lessons learned_AFH_20250718.pdf",
+"extension": ".pdf",
+"Size": "2059897"
 },
 {
 "name": "Design Guide_oct2023.pdf",
@@ -10822,7 +10829,7 @@
 },
 {
 "name": "Standard Designs",
-"LastModified": "12/01/2023 09:28:40",
+"LastModified": "07/22/2025 13:28:40",
 "Key": "content/cos/swf/ait/Library/Standard Designs",
 "extension": "",
 "Size": ""
@@ -11010,95 +11017,18 @@
 "Size": "5698510"
 },
 {
-"name": "AIT Design Guidance 12_2023.pdf",
-"LastModified": "11/30/2023 17:11:00",
-"Key": "content/cos/swf/ait/Library/Standard Designs/AIT Design Guidance 12_2023.pdf",
+"name": "AIT Design Guidance 07-25.pdf",
+"LastModified": "07/21/2025 14:30:00",
+"Key": "content/cos/swf/ait/Library/Standard Designs/AIT Design Guidance 07-25.pdf",
 "extension": ".pdf",
-"Size": "560329"
+"Size": "633607"
 },
 {
-"name": "ait-bcof-3-story-1st-floor-plan.pdf",
-"LastModified": "08/19/2015 11:06:18",
-"Key": "content/cos/swf/ait/Library/Standard Designs/ait-bcof-3-story-1st-floor-plan.pdf",
+"name": "AIT Standard Designs 07-2025.pdf",
+"LastModified": "07/21/2025 14:30:00",
+"Key": "content/cos/swf/ait/Library/Standard Designs/AIT Standard Designs 07-2025.pdf",
 "extension": ".pdf",
-"Size": "439510"
-},
-{
-"name": "ait-bcof-3-story-2nd-floor-plan.pdf",
-"LastModified": "08/19/2015 11:06:18",
-"Key": "content/cos/swf/ait/Library/Standard Designs/ait-bcof-3-story-2nd-floor-plan.pdf",
-"extension": ".pdf",
-"Size": "366846"
-},
-{
-"name": "ait-bcof-3-story-3rd-floor-plan.pdf",
-"LastModified": "08/19/2015 11:06:18",
-"Key": "content/cos/swf/ait/Library/Standard Designs/ait-bcof-3-story-3rd-floor-plan.pdf",
-"extension": ".pdf",
-"Size": "389282"
-},
-{
-"name": "ait-bcof-3-story-birds-eye-perspective.pdf",
-"LastModified": "08/19/2015 11:06:18",
-"Key": "content/cos/swf/ait/Library/Standard Designs/ait-bcof-3-story-birds-eye-perspective.pdf",
-"extension": ".pdf",
-"Size": "393195"
-},
-{
-"name": "ait-bcof-3-story-entrance-options.pdf",
-"LastModified": "08/19/2015 11:06:18",
-"Key": "content/cos/swf/ait/Library/Standard Designs/ait-bcof-3-story-entrance-options.pdf",
-"extension": ".pdf",
-"Size": "266944"
-},
-{
-"name": "ait-bcof-3-story-main-elevations.pdf",
-"LastModified": "08/19/2015 11:06:18",
-"Key": "content/cos/swf/ait/Library/Standard Designs/ait-bcof-3-story-main-elevations.pdf",
-"extension": ".pdf",
-"Size": "397120"
-},
-{
-"name": "ait-bcof-3-story-side-elevations.pdf",
-"LastModified": "08/19/2015 11:06:18",
-"Key": "content/cos/swf/ait/Library/Standard Designs/ait-bcof-3-story-side-elevations.pdf",
-"extension": ".pdf",
-"Size": "212216"
-},
-{
-"name": "ait-bcof-standard-design-presentation.pdf",
-"LastModified": "08/19/2015 11:06:19",
-"Key": "content/cos/swf/ait/Library/Standard Designs/ait-bcof-standard-design-presentation.pdf",
-"extension": ".pdf",
-"Size": "2013370"
-},
-{
-"name": "ait-bdhq-sample-set.pdf",
-"LastModified": "08/19/2015 11:06:18",
-"Key": "content/cos/swf/ait/Library/Standard Designs/ait-bdhq-sample-set.pdf",
-"extension": ".pdf",
-"Size": "1168995"
-},
-{
-"name": "ait-bdhq-website-floor-plan.pdf",
-"LastModified": "08/19/2015 11:06:18",
-"Key": "content/cos/swf/ait/Library/Standard Designs/ait-bdhq-website-floor-plan.pdf",
-"extension": ".pdf",
-"Size": "261337"
-},
-{
-"name": "ait-complex-bn-hq-floor-plans.pdf",
-"LastModified": "08/19/2015 11:06:18",
-"Key": "content/cos/swf/ait/Library/Standard Designs/ait-complex-bn-hq-floor-plans.pdf",
-"extension": ".pdf",
-"Size": "543824"
-},
-{
-"name": "ait-complex-conceptual-facility-designs-20140901.pdf",
-"LastModified": "08/19/2015 11:06:19",
-"Key": "content/cos/swf/ait/Library/Standard Designs/ait-complex-conceptual-facility-designs-20140901.pdf",
-"extension": ".pdf",
-"Size": "4490578"
+"Size": "2859794"
 },
 {
 "name": "Library",
@@ -12040,7 +11970,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "02/02/2022 14:15:21",
+"LastModified": "07/22/2025 13:29:44",
 "Key": "content/cos/swf/ueph/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -12100,6 +12030,13 @@
 "Key": "content/cos/swf/ueph/Library/Army Standards/2024 UH Army Std_CATCD 72111_20241112.pdf",
 "extension": ".pdf",
 "Size": "385270"
+},
+{
+"name": "PPUH DD1391 Template.pdf",
+"LastModified": "07/21/2025 14:50:00",
+"Key": "content/cos/swf/ueph/Library/DD1391 Templates/PPUH DD1391 Template.pdf",
+"extension": ".pdf",
+"Size": "42507"
 },
 {
 "name": "Rendering_UEPH.JPG",
