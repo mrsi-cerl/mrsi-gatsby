@@ -182,38 +182,143 @@
 },
 {
 "name": "SMS and ESMS Army Inventory and Assessment Guide",
-"LastModified": "09/03/2024 14:26:12",
+"LastModified": "07/24/2025 08:47:34",
 "Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide",
 "extension": "",
 "Size": ""
 },
 {
-"name": "Current 1 June 2019 to present",
-"LastModified": "09/03/2024 14:26:05",
-"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Current 1 June 2019 to present",
+"name": "Archive",
+"LastModified": "07/24/2025 08:47:50",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Archive",
 "extension": "",
 "Size": ""
 },
 {
-"name": "Under Construction",
-"LastModified": "07/02/2025 16:54:56",
-"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Under Construction",
+"name": "Current 18 July 2025",
+"LastModified": "07/24/2025 08:52:09",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Current 18 July 2025",
 "extension": "",
 "Size": ""
 },
 {
 "name": "ARMY_BUILDER_SMS-Manual_01 June 2019 to Present.pdf",
 "LastModified": "09/03/2024 14:18:23",
-"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Current 1 June 2019 to present/ARMY_BUILDER_SMS-Manual_01 June 2019 to Present.pdf",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Archive/ARMY_BUILDER_SMS-Manual_01 June 2019 to Present.pdf",
 "extension": ".pdf",
 "Size": "11483710"
 },
 {
-"name": "BUILDER SMS IA Guide Revised.pdf",
-"LastModified": "07/02/2025 16:51:00",
-"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Under Construction/BUILDER SMS IA Guide Revised.pdf",
+"name": "2025-07-18 Army Builder Catalog.xlsm",
+"LastModified": "07/24/2025 08:50:01",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Current 18 July 2025/2025-07-18 Army Builder Catalog.xlsm",
+"extension": ".xlsm",
+"Size": "653074"
+},
+{
+"name": "SMS-IAG_FINAL_0071825_C30-Interior-Finishes.pdf",
+"LastModified": "07/21/2025 17:58:33",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Current 18 July 2025/SMS-IAG_FINAL_0071825_C30-Interior-Finishes.pdf",
 "extension": ".pdf",
-"Size": "8628011"
+"Size": "1075520"
+},
+{
+"name": "SMS-IAG_FINAL_071825_A10-Foundations.pdf",
+"LastModified": "07/21/2025 17:25:45",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Current 18 July 2025/SMS-IAG_FINAL_071825_A10-Foundations.pdf",
+"extension": ".pdf",
+"Size": "1182796"
+},
+{
+"name": "SMS-IAG_FINAL_071825_A20-Basement-Construction.pdf",
+"LastModified": "07/21/2025 17:27:21",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Current 18 July 2025/SMS-IAG_FINAL_071825_A20-Basement-Construction.pdf",
+"extension": ".pdf",
+"Size": "960512"
+},
+{
+"name": "SMS-IAG_FINAL_071825_B10-Superstructure.pdf",
+"LastModified": "07/21/2025 17:41:42",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Current 18 July 2025/SMS-IAG_FINAL_071825_B10-Superstructure.pdf",
+"extension": ".pdf",
+"Size": "1229724"
+},
+{
+"name": "SMS-IAG_FINAL_071825_B20-Exterior-Enclosure.pdf",
+"LastModified": "07/21/2025 17:32:23",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Current 18 July 2025/SMS-IAG_FINAL_071825_B20-Exterior-Enclosure.pdf",
+"extension": ".pdf",
+"Size": "1669274"
+},
+{
+"name": "SMS-IAG_FINAL_071825_B30-Roofing.pdf",
+"LastModified": "07/21/2025 17:29:57",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Current 18 July 2025/SMS-IAG_FINAL_071825_B30-Roofing.pdf",
+"extension": ".pdf",
+"Size": "1226812"
+},
+{
+"name": "SMS-IAG_FINAL_071825_C10-Interior-Construction.pdf",
+"LastModified": "07/21/2025 17:59:06",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Current 18 July 2025/SMS-IAG_FINAL_071825_C10-Interior-Construction.pdf",
+"extension": ".pdf",
+"Size": "1149839"
+},
+{
+"name": "SMS-IAG_FINAL_071825_C20-Stairs.pdf",
+"LastModified": "07/21/2025 17:23:37",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Current 18 July 2025/SMS-IAG_FINAL_071825_C20-Stairs.pdf",
+"extension": ".pdf",
+"Size": "914101"
+},
+{
+"name": "SMS-IAG_FINAL_071825_D10?Conveying.pdf",
+"LastModified": "07/21/2025 18:16:16",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Current 18 July 2025/SMS-IAG_FINAL_071825_D10?Conveying.pdf",
+"extension": ".pdf",
+"Size": "1352518"
+},
+{
+"name": "SMS-IAG_FINAL_071825_D20-Plumbing.pdf",
+"LastModified": "07/21/2025 18:17:41",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Current 18 July 2025/SMS-IAG_FINAL_071825_D20-Plumbing.pdf",
+"extension": ".pdf",
+"Size": "1889690"
+},
+{
+"name": "SMS-IAG_FINAL_071825_D30-HVAC.pdf",
+"LastModified": "07/21/2025 18:19:54",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Current 18 July 2025/SMS-IAG_FINAL_071825_D30-HVAC.pdf",
+"extension": ".pdf",
+"Size": "2871794"
+},
+{
+"name": "SMS-IAG_FINAL_071825_D40-Fire-Protection.pdf",
+"LastModified": "07/21/2025 18:21:22",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Current 18 July 2025/SMS-IAG_FINAL_071825_D40-Fire-Protection.pdf",
+"extension": ".pdf",
+"Size": "1526723"
+},
+{
+"name": "SMS-IAG_FINAL_071825_D50-Electrical.pdf",
+"LastModified": "07/21/2025 18:22:46",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Current 18 July 2025/SMS-IAG_FINAL_071825_D50-Electrical.pdf",
+"extension": ".pdf",
+"Size": "2050829"
+},
+{
+"name": "SMS-IAG_FINAL_071825_E10-Equipment.pdf",
+"LastModified": "07/21/2025 18:14:14",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Current 18 July 2025/SMS-IAG_FINAL_071825_E10-Equipment.pdf",
+"extension": ".pdf",
+"Size": "1248224"
+},
+{
+"name": "SMS-IAG_FINAL_071825_Whole-Guide.pdf",
+"LastModified": "07/21/2025 18:24:47",
+"Key": "content/coe/tcx/sms/Library/SMS and ESMS Army Inventory and Assessment Guide/Current 18 July 2025/SMS-IAG_FINAL_071825_Whole-Guide.pdf",
+"extension": ".pdf",
+"Size": "8647602"
 },
 {
 "name": "cos_home_page",
