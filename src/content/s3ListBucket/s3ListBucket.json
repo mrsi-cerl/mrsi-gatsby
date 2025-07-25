@@ -196,7 +196,7 @@
 },
 {
 "name": "Current 18 July 2025",
-"LastModified": "07/24/2025 12:52:06",
+"LastModified": "07/24/2025 12:52:52",
 "Key": "content/coe/tcx/sms/Library/SMS and E-SMS Army Inventory and Assessment Guide/Current 18 July 2025",
 "extension": "",
 "Size": ""
@@ -10500,7 +10500,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/21/2023 16:06:59",
+"LastModified": "07/25/2025 10:44:17",
 "Key": "content/cos/sas/cof/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -10562,18 +10562,18 @@
 "Size": "183962"
 },
 {
-"name": "Company_Operations_Facility_Co3_Detached.pdf",
-"LastModified": "09/15/2023 15:50:43",
-"Key": "content/cos/sas/cof/Library/DD1391 Templates/Company_Operations_Facility_Co3_Detached.pdf",
+"name": "DD1391_COF_Co3_Detached 20250725.pdf",
+"LastModified": "07/25/2025 10:02:00",
+"Key": "content/cos/sas/cof/Library/DD1391 Templates/DD1391_COF_Co3_Detached 20250725.pdf",
 "extension": ".pdf",
-"Size": "21235"
+"Size": "105762"
 },
 {
-"name": "Company_Operations_Facility_Co4_Integrated.pdf",
-"LastModified": "09/15/2023 15:54:04",
-"Key": "content/cos/sas/cof/Library/DD1391 Templates/Company_Operations_Facility_Co4_Integrated.pdf",
+"name": "DD1391_COF_Co4_Integrated 20250725.pdf",
+"LastModified": "07/25/2025 10:02:00",
+"Key": "content/cos/sas/cof/Library/DD1391 Templates/DD1391_COF_Co4_Integrated 20250725.pdf",
 "extension": ".pdf",
-"Size": "20408"
+"Size": "186529"
 },
 {
 "name": "COF Legacy Facilities Revit File.rvt",
@@ -10668,7 +10668,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "04/15/2024 15:55:07",
+"LastModified": "07/25/2025 10:45:16",
 "Key": "content/cos/sas/temf/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -10758,32 +10758,32 @@
 "Size": "216636"
 },
 {
-"name": "DD1391_TEMF_ XLARGE_FY22_20240331.pdf",
-"LastModified": "04/15/2024 14:33:00",
-"Key": "content/cos/sas/temf/Library/DD1391 Templates/DD1391_TEMF_ XLARGE_FY22_20240331.pdf",
+"name": "DD1391_TEMF_ XLARGE_20250718.pdf",
+"LastModified": "07/25/2025 10:02:00",
+"Key": "content/cos/sas/temf/Library/DD1391 Templates/DD1391_TEMF_ XLARGE_20250718.pdf",
 "extension": ".pdf",
-"Size": "72079"
+"Size": "107682"
 },
 {
-"name": "DD1391_TEMF_LARGE_ FY 22_20240331.pdf",
-"LastModified": "04/15/2024 14:33:00",
-"Key": "content/cos/sas/temf/Library/DD1391 Templates/DD1391_TEMF_LARGE_ FY 22_20240331.pdf",
+"name": "DD1391_TEMF_LARGE_ 20250718.pdf",
+"LastModified": "07/25/2025 10:02:00",
+"Key": "content/cos/sas/temf/Library/DD1391 Templates/DD1391_TEMF_LARGE_ 20250718.pdf",
 "extension": ".pdf",
-"Size": "78188"
+"Size": "189188"
 },
 {
-"name": "DD1391_TEMF_MEDIUM_FY 22_20240331.pdf",
-"LastModified": "04/15/2024 14:33:00",
-"Key": "content/cos/sas/temf/Library/DD1391 Templates/DD1391_TEMF_MEDIUM_FY 22_20240331.pdf",
+"name": "DD1391_TEMF_MEDIUM_20250718.pdf",
+"LastModified": "07/25/2025 10:04:00",
+"Key": "content/cos/sas/temf/Library/DD1391 Templates/DD1391_TEMF_MEDIUM_20250718.pdf",
 "extension": ".pdf",
-"Size": "62364"
+"Size": "262297"
 },
 {
-"name": "DD1391_TEMF_SMALL_FY 22_20240331.pdf",
-"LastModified": "04/15/2024 14:33:00",
-"Key": "content/cos/sas/temf/Library/DD1391 Templates/DD1391_TEMF_SMALL_FY 22_20240331.pdf",
+"name": "DD1391_TEMF_SMALL_20250718.pdf",
+"LastModified": "07/25/2025 10:02:00",
+"Key": "content/cos/sas/temf/Library/DD1391 Templates/DD1391_TEMF_SMALL_20250718.pdf",
 "extension": ".pdf",
-"Size": "61076"
+"Size": "185522"
 },
 {
 "name": "LEED v4 Score Card TEMF 20240331.xlsx",
