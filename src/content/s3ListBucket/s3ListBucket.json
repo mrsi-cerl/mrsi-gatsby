@@ -10017,7 +10017,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "06/14/2024 10:26:37",
+"LastModified": "07/25/2025 13:48:21",
 "Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -10121,39 +10121,67 @@
 "Size": "729069"
 },
 {
-"name": "DD1391_BDE Headquarters_Large_FY 22_20240614.pdf",
-"LastModified": "06/14/2024 10:16:00",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/DD1391_BDE Headquarters_Large_FY 22_20240614.pdf",
+"name": "DD1391_BDE Headquarters_Large_20250725.pdf",
+"LastModified": "07/25/2025 11:10:00",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/DD1391_BDE Headquarters_Large_20250725.pdf",
 "extension": ".pdf",
-"Size": "24236"
+"Size": "32897"
 },
 {
-"name": "DD1391_BDE Headquarters_Medium_FY 22_20240614.pdf",
-"LastModified": "06/14/2024 10:16:00",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/DD1391_BDE Headquarters_Medium_FY 22_20240614.pdf",
+"name": "DD1391_BDE Headquarters_Medium_20250725.pdf",
+"LastModified": "07/25/2025 11:10:00",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/DD1391_BDE Headquarters_Medium_20250725.pdf",
 "extension": ".pdf",
-"Size": "43342"
+"Size": "132299"
 },
 {
-"name": "DD1391_BDE Headquarters_Small_FY 22_20240614.pdf",
-"LastModified": "06/14/2024 10:16:00",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/DD1391_BDE Headquarters_Small_FY 22_20240614.pdf",
+"name": "DD1391_BDE Headquarters_Small_20250725.pdf",
+"LastModified": "07/25/2025 11:10:00",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/DD1391_BDE Headquarters_Small_20250725.pdf",
 "extension": ".pdf",
-"Size": "44617"
+"Size": "40510"
 },
 {
-"name": "DD1391_BDE Headquarters_XLarge_FY 22_20240614.pdf",
-"LastModified": "06/14/2024 10:16:00",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/DD1391_BDE Headquarters_XLarge_FY 22_20240614.pdf",
+"name": "DD1391_BDE Headquarters_XLarge_20250725.pdf",
+"LastModified": "07/25/2025 11:10:00",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/DD1391_BDE Headquarters_XLarge_20250725.pdf",
 "extension": ".pdf",
-"Size": "43356"
+"Size": "33571"
 },
 {
-"name": "DD1391_BDE Headquarters_XSmall_FY 22_20240614.pdf",
-"LastModified": "06/14/2024 10:16:00",
-"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/DD1391_BDE Headquarters_XSmall_FY 22_20240614.pdf",
+"name": "DD1391_BDE Headquarters_XSmall_20250725.pdf",
+"LastModified": "07/25/2025 11:10:00",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/DD1391_BDE Headquarters_XSmall_20250725.pdf",
 "extension": ".pdf",
-"Size": "43368"
+"Size": "75936"
+},
+{
+"name": "DD1391_BN Headquarters wClassroom_Large_20250725.pdf",
+"LastModified": "07/25/2025 11:10:00",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/DD1391_BN Headquarters wClassroom_Large_20250725.pdf",
+"extension": ".pdf",
+"Size": "142238"
+},
+{
+"name": "DD1391_BN Headquarters wClassroom_Medium_20250725.pdf",
+"LastModified": "07/25/2025 11:10:00",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/DD1391_BN Headquarters wClassroom_Medium_20250725.pdf",
+"extension": ".pdf",
+"Size": "149183"
+},
+{
+"name": "DD1391_BN Headquarters wClassroom_Small_20250725.pdf",
+"LastModified": "07/25/2025 11:10:00",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/DD1391_BN Headquarters wClassroom_Small_20250725.pdf",
+"extension": ".pdf",
+"Size": "136942"
+},
+{
+"name": "DD1391_BN Headquarters wClassroom_XLarge_20250725.pdf",
+"LastModified": "07/25/2025 11:10:00",
+"Key": "content/cos/sas/bn-bde-hq/Library/DD1391 Templates/DD1391_BN Headquarters wClassroom_XLarge_20250725.pdf",
+"extension": ".pdf",
+"Size": "106998"
 },
 {
 "name": "BDE BN CORRECTED FINAL.pdf",
@@ -10668,7 +10696,7 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "07/25/2025 10:45:16",
+"LastModified": "07/25/2025 13:45:26",
 "Key": "content/cos/sas/temf/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
@@ -10758,30 +10786,30 @@
 "Size": "216636"
 },
 {
-"name": "DD1391_TEMF_ XLARGE_20250718.pdf",
-"LastModified": "07/25/2025 10:02:00",
-"Key": "content/cos/sas/temf/Library/DD1391 Templates/DD1391_TEMF_ XLARGE_20250718.pdf",
+"name": "DD1391_TEMF_ XLARGE_20250725.pdf",
+"LastModified": "07/25/2025 11:14:00",
+"Key": "content/cos/sas/temf/Library/DD1391 Templates/DD1391_TEMF_ XLARGE_20250725.pdf",
 "extension": ".pdf",
 "Size": "107682"
 },
 {
-"name": "DD1391_TEMF_LARGE_ 20250718.pdf",
-"LastModified": "07/25/2025 10:02:00",
-"Key": "content/cos/sas/temf/Library/DD1391 Templates/DD1391_TEMF_LARGE_ 20250718.pdf",
+"name": "DD1391_TEMF_LARGE_ 20250725.pdf",
+"LastModified": "07/25/2025 11:14:00",
+"Key": "content/cos/sas/temf/Library/DD1391 Templates/DD1391_TEMF_LARGE_ 20250725.pdf",
 "extension": ".pdf",
 "Size": "189188"
 },
 {
-"name": "DD1391_TEMF_MEDIUM_20250718.pdf",
-"LastModified": "07/25/2025 10:04:00",
-"Key": "content/cos/sas/temf/Library/DD1391 Templates/DD1391_TEMF_MEDIUM_20250718.pdf",
+"name": "DD1391_TEMF_MEDIUM_20250725.pdf",
+"LastModified": "07/25/2025 11:15:00",
+"Key": "content/cos/sas/temf/Library/DD1391 Templates/DD1391_TEMF_MEDIUM_20250725.pdf",
 "extension": ".pdf",
 "Size": "262297"
 },
 {
-"name": "DD1391_TEMF_SMALL_20250718.pdf",
-"LastModified": "07/25/2025 10:02:00",
-"Key": "content/cos/sas/temf/Library/DD1391 Templates/DD1391_TEMF_SMALL_20250718.pdf",
+"name": "DD1391_TEMF_SMALL_20250725.pdf",
+"LastModified": "07/25/2025 11:14:00",
+"Key": "content/cos/sas/temf/Library/DD1391 Templates/DD1391_TEMF_SMALL_20250725.pdf",
 "extension": ".pdf",
 "Size": "185522"
 },
