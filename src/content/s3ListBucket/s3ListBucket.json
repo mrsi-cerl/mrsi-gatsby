@@ -10010,7 +10010,7 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "03/23/2023 11:09:25",
+"LastModified": "08/04/2025 09:27:30",
 "Key": "content/cos/sas/bn-bde-hq/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -10114,11 +10114,18 @@
 "Size": "11601"
 },
 {
-"name": "Bde-Bn Hq Army Standard.pdf",
-"LastModified": "05/20/2015 15:46:07",
-"Key": "content/cos/sas/bn-bde-hq/Library/Army Standards/Bde-Bn Hq Army Standard.pdf",
+"name": "BDE-BNHQ Army Standard 20250321.pdf",
+"LastModified": "07/31/2025 07:19:00",
+"Key": "content/cos/sas/bn-bde-hq/Library/Army Standards/BDE-BNHQ Army Standard 20250321.pdf",
 "extension": ".pdf",
-"Size": "729069"
+"Size": "168101"
+},
+{
+"name": "BDE-BNHQ AS Approval Memo 20250701.pdf",
+"LastModified": "07/31/2025 07:19:00",
+"Key": "content/cos/sas/bn-bde-hq/Library/Army Standards/BDE-BNHQ AS Approval Memo 20250701.pdf",
+"extension": ".pdf",
+"Size": "184928"
 },
 {
 "name": "DD1391_BDE Headquarters_Large_20250725.pdf",
@@ -10339,7 +10346,7 @@
 },
 {
 "name": "Army Standards",
-"LastModified": "03/23/2023 11:09:31",
+"LastModified": "08/04/2025 09:28:23",
 "Key": "content/cos/sas/c2f/Library/Army Standards",
 "extension": "",
 "Size": ""
@@ -10373,11 +10380,18 @@
 "Size": "11507"
 },
 {
-"name": "C2F Army Standard.pdf",
-"LastModified": "05/20/2015 15:46:16",
-"Key": "content/cos/sas/c2f/Library/Army Standards/C2F Army Standard.pdf",
+"name": "EAB C2F Army Standard 20250321.pdf",
+"LastModified": "07/31/2025 07:21:00",
+"Key": "content/cos/sas/c2f/Library/Army Standards/EAB C2F Army Standard 20250321.pdf",
 "extension": ".pdf",
-"Size": "2078409"
+"Size": "392484"
+},
+{
+"name": "EAB C2F AS Approval Memo 20250701.pdf",
+"LastModified": "07/31/2025 07:19:00",
+"Key": "content/cos/sas/c2f/Library/Army Standards/EAB C2F AS Approval Memo 20250701.pdf",
+"extension": ".pdf",
+"Size": "184195"
 },
 {
 "name": "Command and Control Facility_Echelons Above Brigade.pdf",
