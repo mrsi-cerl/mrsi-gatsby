@@ -189,7 +189,7 @@ const Library = ( { rootDir, hideBC, hideTitle } ) => {
                           borderRadius: "5px",
                           marginLeft: "5px",
                           fontSize: "13px",
-                          backgroundColor: "#565c65b3",
+                          backgroundColor: "#3578c6",
                         } }
                       >
                         { getFolderFileCount(

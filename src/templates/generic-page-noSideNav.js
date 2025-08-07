@@ -5,16 +5,19 @@ import Library from "../components/library/library";
 import RelatedLinks from "../components/relatedLinks";
 import Seo from "../components/seo";
 
-const GenericNoSideNavPage = ( { data, pageContext } ) => {
+window.page_title = "";
+
+const GenericPageNoSideNav = ( { data, pageContext } ) => {
   const page = data.allMarkdownRemark.edges.filter(
     edge => edge.node.frontmatter.slug === pageContext.slug
   )[ 0 ].node;
 
   const lib_path = page.frontmatter.file_library_root_path;
+  window.page_title = page.frontmatter.title;
 
   return (
-    <Layout title="MCA/AFH Code 2" path={ pageContext.slug } hideSideNav centerContent MaxWidth={ 900 }>
-      <h1>{ page.frontmatter.title }</h1>
+    <Layout path={ pageContext.slug } hideSideNav centerContent MaxWidth={ 900 }>
+      <h1>{ window.page_title }</h1>
       <div className={ "md" } dangerouslySetInnerHTML={ { __html: page.html } } />
       <RelatedLinks related_links={ page.frontmatter.related_links } />
       <Library rootDir={ lib_path } />
@@ -22,6 +25,30 @@ const GenericNoSideNavPage = ( { data, pageContext } ) => {
   );
 };
 
-export default GenericNoSideNavPage;
+export const query = graphql`
+  query {
+    allMarkdownRemark {
+      edges {
+        node {
+          frontmatter {
+            title
+            doc_type
+            related_links {
+              url
+              caption
+            }
+            file_library_root_path
+            page_last_reviewed
+            slug
+          }
+          html
+        }
+      }
+    }
+  }
+`;
 
-export const Head = () => <Seo title="MCA/AFH Code 2" />;
+export default GenericPageNoSideNav;
+
+export const Head = () => <Seo title={ window.page_title } />;
+

@@ -10,22 +10,22 @@ const Footer = () => (
       <span>
         <ul>
           <li>
-            <Link to={ "/mrsi/about" }>About Us</Link>
+            <Link to={ "/mrsi/about" }>ABOUT US</Link>
           </li>
           <li>
-            <Link to={ "/mrsi/privacy" }>Privacy Policy</Link>
+            <Link to={ "/mrsi/privacy" }>PRIVACY POLICY</Link>
           </li>
           <li>
-            <a href="http://www.usace.army.mil/">USACE</a>
+            <a href="http://www.usace.army.mil/" target="_blank" rel="noopener noreferrer">USACE</a>
           </li>
           <li>
-            <a href="https://www.usace.army.mil/FOIA.aspx">FOIA</a>
+            <a href="https://www.usace.army.mil/FOIA.aspx" target="_blank" rel="noopener noreferrer">FOIA</a>
           </li>
           <li>
-            <a href="https://prhome.defense.gov/nofear">No Fear Act</a>
+            <a href="https://prhome.defense.gov/nofear" target="_blank" rel="noopener noreferrer">No Fear Act</a>
           </li>
           <li>
-            <a href="https://www.inscom.army.mil/isalute/">iSalute</a>
+            <a href="https://www.usainscom.army.mil/isalute/" target="_blank" rel="noopener noreferrer">iSALUTE</a>
           </li>
           <li>
             <Link to={ "/mrsi/faq" }>FAQ</Link>
@@ -36,7 +36,7 @@ const Footer = () => (
     <div className={ classNames( "grid-row", footerUsace ) }>
       <div className="grid-col-1">
         <p>
-          <a href="https://www.usace.army.mil/">
+          <a href="https://www.usace.army.mil/" target="_blank" rel="noopener noreferrer">
             <img
               style={ { width: "40px", marginLeft: "20px" } }
               src={ UsaceLogo }

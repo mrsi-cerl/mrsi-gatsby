@@ -3,7 +3,6 @@
   margin: auto;
   padding: 5px 0;
   font-size: 90%;
-  text-transform: uppercase;
   width: 100%;
 }
 
@@ -12,12 +11,12 @@
 }
 
 .mrsiFooter a:link, .mrsiFooter a:visited, .mrsiFooter a:active {
-  color: gray;
+  color: black;
   text-decoration: none;
 }
 
 .mrsiFooter a:hover {
-  color: black;
+  color: gray;
   text-decoration: underline;
 }
 

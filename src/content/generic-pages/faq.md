@@ -1,8 +1,10 @@
 ---
-title: Frequently Asked Questions
-doc_type: generic_page
+title: FAQ
+doc_type: generic_page_noSideNav
 slug: /mrsi/faq
 ---
+
+### (Frequently Asked Questions)<br />
 
 ### What is the classification of the MRSI website and applications?
 The MRSI sites are only approved to handle **unclassified** documents. Only content appropriate for public release should be posted.

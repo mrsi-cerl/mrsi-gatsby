@@ -9,7 +9,7 @@
 }
 
 .bcGrey {
-  color: grey;
+  color: #767676;
 }
 
 .bc {
@@ -17,7 +17,7 @@
 }
 
 .library {
-  border: solid 1px grey;
+  border: solid 1px #767676;
   border-radius: 5px;
   padding: 5px;
   margin-bottom: 10px;

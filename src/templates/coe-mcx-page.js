@@ -163,4 +163,4 @@ export const query = graphql`
 
 export default CoeMcxPage;
 
-export const Head = () => <Seo title="Mandatory Centers of Expertise" />;
+export const Head = () => <Seo title="Mandatory Center of Expertise" />;

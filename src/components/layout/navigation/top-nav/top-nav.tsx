@@ -129,7 +129,7 @@ const TopNav = ( { path }: { path: string; } ) => {
                 value="Search"
                 className="usa-button"
                 type="submit"
-                style={ { backgroundColor: "#3f82d0" } }
+                style={ { backgroundColor: "#3578c6" } }
               >
                 <Icon.Search size={4} />
                 <span className="usa-sr-only">Search</span>

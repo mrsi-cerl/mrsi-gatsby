@@ -6,10 +6,14 @@ import CarouselLarge from "../components/mrsi-carousel-large";
 import MrsiTable from "../components/mrsi-table";
 import Seo from "../components/seo";
 
+window.page_title = "";
+
 const FurnitureProgramPage = ( { data, pageContext } ) => {
   const page = data.allMarkdownRemark.edges.filter(
     edge => edge.node.frontmatter.slug === pageContext.slug
   )[ 0 ].node;
+
+  window.page_title = page.frontmatter.title;
 
   const tableData = [
     {
@@ -21,7 +25,7 @@ const FurnitureProgramPage = ( { data, pageContext } ) => {
       value: (
         <>
           {page.frontmatter.furniture_website.map((e, idx) => (
-            <div key={idx}>  
+            <div key={idx}>
               <a href={e.url} target="_blank" rel="noopener noreferrer">
                 { e.name.length > 50 ?  e.name.slice( 0, 50 ) + "..." : e.name }
               </a><br/>
@@ -69,13 +73,13 @@ const FurnitureProgramPage = ( { data, pageContext } ) => {
        title: "Keywords",
        value: (
         <span style={{ fontSize: '0.5em' }}>{page.frontmatter.keywords}</span>
-       ) 
+       )
     },
   ];
 
   return (
-    <Layout title="Furniture Program" path={ pageContext.slug } hideSideNav centerContent MaxWidth={ 1000 }>
-      <h1>{ page.frontmatter.title }</h1>
+    <Layout path={ pageContext.slug } hideSideNav centerContent MaxWidth={ 1000 }>
+      <h1>{ window.page_title }</h1>
       <div className="grid-row">
         <div className="tablet:grid-col">
           <CarouselLarge imgs={ page.frontmatter.carousel_images } />
@@ -105,7 +109,7 @@ export const query = graphql`
             doc_type
             carousel_images
             place_of_center
-            furniture_website { 
+            furniture_website {
               name
               url
             }
@@ -134,4 +138,4 @@ export const query = graphql`
 
 export default FurnitureProgramPage;
 
-export const Head = () => <Seo title="Furniture Program" />;
+export const Head = () => <Seo title={ window.page_title } />;

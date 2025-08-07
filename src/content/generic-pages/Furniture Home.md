@@ -1,6 +1,6 @@
 ---
 doc_type: furniture_program_page
-title: Furnishings Program
+title: Furniture Program
 carousel_images:
   - /admin/images/uploads/Furniture/1D8A8930.jpg
   - /admin/images/uploads/Furniture/3-14-19.JPG

@@ -5,16 +5,19 @@ import Library from "../components/library/library";
 import RelatedLinks from "../components/relatedLinks";
 import Seo from "../components/seo";
 
+window.page_title = "";
+
 const Generic2ebPage = ( { data, pageContext } ) => {
   const page = data.allMarkdownRemark.edges.filter(
     edge => edge.node.frontmatter.slug === pageContext.slug
   )[ 0 ].node;
 
   const lib_path = page.frontmatter.file_library_root_path;
+  window.page_title = page.frontmatter.title;
 
   return (
     <Layout path={ pageContext.slug } centerContent MaxWidth={ 900 }>
-      <h1>{ page.frontmatter.title }</h1>
+      <h1>{ window.page_title }</h1>
       <div className={ "md" } dangerouslySetInnerHTML={ { __html: page.html } } />
       <RelatedLinks related_links={ page.frontmatter.related_links } />
       <Library rootDir={ lib_path } />
@@ -58,4 +61,4 @@ export const query = graphql`
 
 export default Generic2ebPage;
 
-export const Head = () => <Seo />;
+export const Head = () => <Seo title={ window.page_title } />;
