@@ -5,7 +5,7 @@ import Library from "../components/library/library";
 import RelatedLinks from "../components/relatedLinks";
 import Seo from "../components/seo";
 
-window.page_title = "";
+global.page_title = "";
 
 const GenericPage = ( { data, pageContext } ) => {
   const page = data.allMarkdownRemark.edges.filter(
@@ -13,7 +13,7 @@ const GenericPage = ( { data, pageContext } ) => {
   )[ 0 ].node;
 
   const lib_path = page.frontmatter.file_library_root_path;
- global.page_title = page.frontmatter.title;
+  global.page_title = page.frontmatter.title;
 
   return (
     <Layout path={ pageContext.slug } centerContent MaxWidth={ 900 }>

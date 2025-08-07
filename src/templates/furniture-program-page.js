@@ -6,14 +6,14 @@ import CarouselLarge from "../components/mrsi-carousel-large";
 import MrsiTable from "../components/mrsi-table";
 import Seo from "../components/seo";
 
-window.page_title = "";
+global.page_title = "";
 
 const FurnitureProgramPage = ( { data, pageContext } ) => {
   const page = data.allMarkdownRemark.edges.filter(
     edge => edge.node.frontmatter.slug === pageContext.slug
   )[ 0 ].node;
 
- global.page_title = page.frontmatter.title;
+  global.page_title = page.frontmatter.title;
 
   const tableData = [
     {
