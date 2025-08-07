@@ -13,7 +13,7 @@ const FurnitureProgramPage = ( { data, pageContext } ) => {
     edge => edge.node.frontmatter.slug === pageContext.slug
   )[ 0 ].node;
 
-  window.page_title = page.frontmatter.title;
+ global.page_title = page.frontmatter.title;
 
   const tableData = [
     {
@@ -79,7 +79,7 @@ const FurnitureProgramPage = ( { data, pageContext } ) => {
 
   return (
     <Layout path={ pageContext.slug } hideSideNav centerContent MaxWidth={ 1000 }>
-      <h1>{ window.page_title }</h1>
+      <h1>{global.page_title }</h1>
       <div className="grid-row">
         <div className="tablet:grid-col">
           <CarouselLarge imgs={ page.frontmatter.carousel_images } />
@@ -138,4 +138,4 @@ export const query = graphql`
 
 export default FurnitureProgramPage;
 
-export const Head = () => <Seo title={ window.page_title } />;
+export const Head = () => <Seo title={global.page_title } />;

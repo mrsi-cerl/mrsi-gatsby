@@ -13,11 +13,11 @@ const GenericPage = ( { data, pageContext } ) => {
   )[ 0 ].node;
 
   const lib_path = page.frontmatter.file_library_root_path;
-  window.page_title = page.frontmatter.title;
+ global.page_title = page.frontmatter.title;
 
   return (
     <Layout path={ pageContext.slug } centerContent MaxWidth={ 900 }>
-      <h1>{ window.page_title }</h1>
+      <h1>{global.page_title }</h1>
       <div className={ "md" } dangerouslySetInnerHTML={ { __html: page.html } } />
       <RelatedLinks related_links={ page.frontmatter.related_links } />
       <Library rootDir={ lib_path } />
@@ -61,4 +61,4 @@ export const query = graphql`
 
 export default GenericPage;
 
-export const Head = () => <Seo title={ window.page_title } />;
+export const Head = () => <Seo title={global.page_title } />;
