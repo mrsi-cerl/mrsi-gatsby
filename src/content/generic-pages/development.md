@@ -4,7 +4,7 @@ doc_type: generic_page
 slug: /model-rfp/development/
 file_library_root_path:
 ---
-<span style="color:red">**ANNOUNCEMENT:**</span>  The new MRSI Wizard has been released!  This new tool is designed to streamline the development of Request for Proposal (RFP) Statement of Work (SOW) for new Military Construction (MILCON) Design-Build (D-B) projects. Please visit the [MILCON D-B](/model-rfp/milcon/) page for more information and to access either the new or legacy version of this wizard.
+<span style="color:#ef0000">**ANNOUNCEMENT:**</span>  The new MRSI Wizard has been released!  This new tool is designed to streamline the development of Request for Proposal (RFP) Statement of Work (SOW) for new Military Construction (MILCON) Design-Build (D-B) projects. Please visit the [MILCON D-B](/model-rfp/milcon/) page for more information and to access either the new or legacy version of this wizard.
 
 The RFP Wizard for MILCON D-B is an application for creating a Request For Proposal (RFP) using U.S. Army Corps of Engineers (USACE) approved Model RFP templates for new U.S. Army Military Construction (MILCON) Design-Build (D-B) projects.
 

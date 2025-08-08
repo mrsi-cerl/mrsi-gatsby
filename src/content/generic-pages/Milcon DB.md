@@ -4,7 +4,7 @@ doc_type: generic_page
 slug: /model-rfp/milcon
 file_library_root_path: content/Model RFP/MILCON/
 ---
-<span style="color:red">**ANNOUNCEMENT:**</span>  The new MRSI Wizard has been released!  This new tool is designed to streamline the development of Request for Proposal (RFP) Statement of Work (SOW) for new Military Construction (MILCON) Design-Build (D-B) projects. <br />
+<span style="color:#ef0000">**ANNOUNCEMENT:**</span>  The new MRSI Wizard has been released!  This new tool is designed to streamline the development of Request for Proposal (RFP) Statement of Work (SOW) for new Military Construction (MILCON) Design-Build (D-B) projects. <br />
 
 ## Key Features of the New MRSI Wizard:
 <div>

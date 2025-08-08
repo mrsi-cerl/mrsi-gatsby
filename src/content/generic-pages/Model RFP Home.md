@@ -3,7 +3,7 @@ title: About the Model RFP
 doc_type: generic_page
 slug: /model-rfp/
 ---
-<span style="color:red">**ANNOUNCEMENT:**</span>  The new MRSI Wizard has been released!  This new tool is designed to streamline the development of Request for Proposal (RFP) Statement of Work (SOW) for new Military Construction (MILCON) Design-Build (D-B) projects. Please visit the [MILCON D-B](/model-rfp/milcon/) page for more information and to access either the new or legacy version of this wizard.
+<span style="color:#ef0000">**ANNOUNCEMENT:**</span>  The new MRSI Wizard has been released!  This new tool is designed to streamline the development of Request for Proposal (RFP) Statement of Work (SOW) for new Military Construction (MILCON) Design-Build (D-B) projects. Please visit the [MILCON D-B](/model-rfp/milcon/) page for more information and to access either the new or legacy version of this wizard.
 
 The Model Request for Proposal (RFP) is a set of templates that provides USACE the ability to standardize RFP structure and content for new Military Construction (MILCON) Design-Build (D-B) and Sustainment, Restoration, and Modernization (SRM) projects.
 
