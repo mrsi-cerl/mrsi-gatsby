@@ -14,7 +14,7 @@ const MrsiPrivacy = () => (
       <ul>
         <li>
           <a
-            href="https://www.esd.whs.mil/RIM/"
+            href="https://www.acq.osd.mil/web-policy.html"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -32,7 +32,11 @@ const MrsiPrivacy = () => (
           </a>
         </li>
         <li>
-          <a href="http://www.army.mil/copyright/">
+          <a
+            href="https://www.army.mil/terms/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Army Policy for Using Copyrighted Materials
           </a>
         </li>
