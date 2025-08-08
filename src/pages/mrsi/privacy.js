@@ -18,7 +18,7 @@ const MrsiPrivacy = () => (
             target="_blank"
             rel="noopener noreferrer"
           >
-            Army web site Management Policy (doc)
+            Army Web Policy
           </a>
         </li>
         <li>
