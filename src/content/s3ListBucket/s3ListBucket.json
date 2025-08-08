@@ -4970,7 +4970,7 @@
 },
 {
 "name": "Library",
-"LastModified": "03/23/2023 11:06:52",
+"LastModified": "08/08/2025 15:58:10",
 "Key": "content/cos/lrl/ortc/Library",
 "extension": "",
 "Size": ""
@@ -5089,7 +5089,7 @@
 },
 {
 "name": "Archives",
-"LastModified": "03/23/2023 11:06:49",
+"LastModified": "08/08/2025 15:57:04",
 "Key": "content/cos/lrl/ortc/Library/Archives",
 "extension": "",
 "Size": ""
@@ -5103,16 +5103,23 @@
 },
 {
 "name": "DD1391 Templates",
-"LastModified": "09/21/2023 15:52:35",
+"LastModified": "08/08/2025 15:56:43",
 "Key": "content/cos/lrl/ortc/Library/DD1391 Templates",
 "extension": "",
 "Size": ""
 },
 {
 "name": "Misc. Documents",
-"LastModified": "09/03/2024 10:37:25",
+"LastModified": "08/08/2025 15:57:23",
 "Key": "content/cos/lrl/ortc/Library/Misc. Documents",
 "extension": ". Documents",
+"Size": ""
+},
+{
+"name": "Programmatic Value Engineering Study",
+"LastModified": "08/08/2025 15:58:22",
+"Key": "content/cos/lrl/ortc/Library/Programmatic Value Engineering Study",
+"extension": "",
 "Size": ""
 },
 {
@@ -5121,6 +5128,20 @@
 "Key": "content/cos/lrl/ortc/Library/Standard Designs",
 "extension": "",
 "Size": ""
+},
+{
+"name": "LEED v4 Checklist- COS-ORTC_2024_09_03.xlsx",
+"LastModified": "09/03/2024 10:29:00",
+"Key": "content/cos/lrl/ortc/Library/Archives/LEED v4 Checklist- COS-ORTC_2024_09_03.xlsx",
+"extension": ".xlsx",
+"Size": "36862"
+},
+{
+"name": "Operational_Readiness_Training_Complex_ORTC.pdf",
+"LastModified": "08/25/2023 12:40:04",
+"Key": "content/cos/lrl/ortc/Library/Archives/Operational_Readiness_Training_Complex_ORTC.pdf",
+"extension": ".pdf",
+"Size": "38643"
 },
 {
 "name": "ORTC Standard Design V4.6 24AUG2012.pdf",
@@ -5144,11 +5165,11 @@
 "Size": "2662004"
 },
 {
-"name": "Operational_Readiness_Training_Complex_ORTC.pdf",
-"LastModified": "08/25/2023 12:40:04",
-"Key": "content/cos/lrl/ortc/Library/DD1391 Templates/Operational_Readiness_Training_Complex_ORTC.pdf",
+"name": "Operational_Readiness_Training_Complex_ORTC_2025_08.pdf",
+"LastModified": "08/08/2025 14:09:00",
+"Key": "content/cos/lrl/ortc/Library/DD1391 Templates/Operational_Readiness_Training_Complex_ORTC_2025_08.pdf",
 "extension": ".pdf",
-"Size": "38643"
+"Size": "41912"
 },
 {
 "name": "DFAC INTERIORS STANDARD.pdf",
@@ -5158,11 +5179,18 @@
 "Size": "9925752"
 },
 {
-"name": "LEED v4 Checklist- COS-ORTC_2024_09_03.xlsx",
-"LastModified": "09/03/2024 10:29:00",
-"Key": "content/cos/lrl/ortc/Library/Misc. Documents/LEED v4 Checklist- COS-ORTC_2024_09_03.xlsx",
-"extension": ".xlsx",
-"Size": "36862"
+"name": "LEED v4 Checklist- COS-ORTC_2025_08.pdf",
+"LastModified": "08/08/2025 14:09:00",
+"Key": "content/cos/lrl/ortc/Library/Misc. Documents/LEED v4 Checklist- COS-ORTC_2025_08.pdf",
+"extension": ".pdf",
+"Size": "91942"
+},
+{
+"name": "Final Report - Collective Training Center Standard_2024_11.pdf",
+"LastModified": "08/08/2025 14:11:00",
+"Key": "content/cos/lrl/ortc/Library/Programmatic Value Engineering Study/Final Report - Collective Training Center Standard_2024_11.pdf",
+"extension": ".pdf",
+"Size": "3608480"
 },
 {
 "name": "ORTC Furnishings v4.4 121411.pdf",
@@ -14602,7 +14630,7 @@
 },
 {
 "name": "MCA-AFH Code 2 Guidance and Templates",
-"LastModified": "08/08/2025 13:05:30",
+"LastModified": "08/08/2025 13:05:52",
 "Key": "content/PDRS/MCA-AFH Code 2 Guidance and Templates",
 "extension": "",
 "Size": ""
