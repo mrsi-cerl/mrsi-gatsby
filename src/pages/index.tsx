@@ -19,17 +19,17 @@ const IndexPage = () => (
 
     <section className="grid-container" style={{ maxWidth: '75rem'}}>
       <div className="grid-row">
-        <p className="font-sans" style={{ marginBottom: '0.5em', fontSize: 'larger' }}>
+        <h1 className="font-sans" style={{ marginBottom: '0.5em', fontSize: 'larger', fontWeight: 'normal' }}>
           This <em>MILCON Requirements, Standardization, and Integration</em> (MRSI)
           site presents Military Construction policy, regulations,
           standards, and designs in order to provide the facility community with
           the tools they need to build and maintain the Army's vast facility
           infrastructure.
-        </p>
+        </h1>
         <p style={{ marginTop: '0', fontSize: 'larger' }}>
           This site is part of research initiatives conducted at the <em>Construction
-          Engineering Research Laboratory</em> (CERL), (the Illinois Site of the <em>Engineer
-          Research and Development Center</em>.) Partnering with federal and industry
+          Engineering Research Laboratory</em> (CERL), the Illinois Site of the <em>Engineer
+          Research and Development Center</em>. Partnering with federal and industry
           organizations, our mission is to enhance the proficiency and productivity of the
           Corps’ construction community for planning, design, and execution of the Corps’
           facility acquisition process: we do this by providing tools and curated information
