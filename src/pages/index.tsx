@@ -79,12 +79,8 @@ const IndexPage = () => (
           </p>
         </CardBody>
         <CardFooter>
-{/*           <Button type="button" className={buttonLink}>
-            <Link to={"https://wizards.mrsi.erdc.dren.mil/"}>Click here to access the MRSI Wizard</Link>
-          </Button>
- */}
           <Button type="button" className={buttonLink}>
-            <a href="https://wizards.mrsi.erdc.dren.mil/">Click here to access the MRSI Wizard</a>
+            <Link to={"https://wizards.mrsi.erdc.dren.mil/"}>Click here to access the MRSI Wizard</Link>
           </Button>
         </CardFooter>
       </Card>
