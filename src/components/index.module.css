@@ -55,7 +55,7 @@
 
 .iconStyle {
   width: 64px;
-  border: 1px solid red;
+  border: 1px solid #ef0000;
 }
 
 .homeImage {
@@ -100,6 +100,22 @@
 .buttonLink a:link,
 .buttonLink a:visited,
 .buttonLink a:active {
+  color: white;
+  text-decoration: none;
+}
+
+
+.fauxButtonLink {
+  background-color: #005ea2;
+  padding-top: 8pt;
+  padding-bottom: 8pt;
+  padding-left: 15pt;
+  padding-right: 15pt;
+}
+
+.fauxButtonLink a:link,
+.fauxButtonLink a:visited,
+.fauxButtonLink a:active {
   color: white;
   text-decoration: none;
 }

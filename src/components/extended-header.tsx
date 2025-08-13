@@ -1,6 +1,6 @@
 import { ExtendedNav, Header, Menu, NavDropDownButton, PrimaryNav, Search } from "@trussworks/react-uswds";
 import React, { useState } from "react";
-import { mrsiHeaderBody, mrsiHeaderContainer, mrsiHeaderLogo, mrsiHeaderLogin } from "./extended-header.module.css";
+import { mrsiHeaderBody, mrsiHeaderContainer, mrsiHeaderLogo, mrsiHeaderERDCLogo, mrsiHeaderLogin } from "./extended-header.module.css";
 import { MrsiLogo } from "./mrsi-logo";
 import { ErdcLogo } from "./erdc-logo";
 import { MrsiWizardLogin } from "./mrsi-wizard-login";
@@ -14,11 +14,17 @@ const ExtendedHeader = () => {
             <MrsiLogo />
           </div>
           <div className={ mrsiHeaderBody }>
-            <span className="font-sans" style={{ verticalAlign: 'top', whiteSpace: 'nowrap', margin: '0', padding: '0' }}>Welcome&nbsp;to&nbsp;MRSI</span>
-            <br  style={{ verticalAlign: 'top', margin: '0', padding: '0', visibility: "hidden", height: 0 }} />
-            <span className="font-sans" style={{ verticalAlign: 'top', fontSize: 'small', fontWeight: "lighter", whiteSpace: 'nowrap', margin: '0', marginLeft: '2em', padding: '0' }}>A&nbsp;Military&nbsp;Construction&nbsp;Community&nbsp;R&amp;D&nbsp;Site</span>
+            <h1 className="font-sans">
+              <span className="font-sans" style={{ verticalAlign: 'top', whiteSpace: 'nowrap', margin: '0', padding: '0' }}>
+                Welcome&nbsp;to&nbsp;MRSI
+              </span>
+              <br  style={{ verticalAlign: 'top', margin: '0', padding: '0', visibility: "hidden", height: 0 }} />
+              <span className="font-sans" style={{ verticalAlign: 'top', fontSize: 'small', fontWeight: "lighter", whiteSpace: 'nowrap', margin: '0', marginLeft: '2em', padding: '0' }}>
+                A&nbsp;Military&nbsp;Construction&nbsp;Community&nbsp;R&amp;D&nbsp;Site
+              </span>
+            </h1>
           </div>
-          <div className={ mrsiHeaderLogo }>
+          <div className={ mrsiHeaderERDCLogo }>
             <ErdcLogo />
           </div>
           <div className={ mrsiHeaderLogin }>

@@ -8,6 +8,7 @@ const ErdcLogo = () => {
       <StaticImage
         src="../images/ERDC-USACE-logo.png"
         alt="Engineer Research and Development Center Logo"
+        title="Link to Engineer Research and Development Center home page"
         layout="fixed"
         height={ 95 }
         width={ 275 }

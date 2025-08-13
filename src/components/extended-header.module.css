@@ -1,9 +1,9 @@
 .mrsiHeaderContainer {
   display: grid;
-  grid-template-columns: 30% 30% 20% 20%;
+  grid-template-columns: 25% 35% 20% 20%;
   gap: 0em;
-  height: 5.5em;
   margin-bottom: 0.5em;
+  height: 6em;
   white-space: nowrap;
 }
 
@@ -13,9 +13,12 @@
 
 .mrsiHeaderBody {
   margin: 0;
-  margin-top: 0.5em;
-  font-size: 28pt;
+  font-size: 14pt;
   font-weight: bold;
+}
+
+.mrsiHeaderERDCLogo {
+  margin: 1em;
 }
 
 .mrsiHeaderLogin {

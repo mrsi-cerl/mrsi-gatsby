@@ -11,6 +11,7 @@ declare const styles: {
   readonly "flexAlignTop": string;
   readonly "cardMedia": string;
   readonly "buttonLink": string;
+  readonly "fauxButtonLink": string;
 };
 export = styles;
 

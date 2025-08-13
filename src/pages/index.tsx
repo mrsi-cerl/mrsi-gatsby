@@ -1,11 +1,10 @@
-import { Button, Card, CardBody, CardFooter, CardGroup, CardHeader, CardMedia } from "@trussworks/react-uswds";
+import { Card, CardBody, CardFooter, CardGroup, CardHeader, CardMedia } from "@trussworks/react-uswds";
 import cx from "classnames";
 import { StaticImage } from "gatsby-plugin-image";
 import * as React from "react";
-import { buttonLink, cardMedia, flexAlignCenter, flexAlignTop, homeImage } from "../components/index.module.css";
+import { buttonLink, fauxButtonLink, cardMedia, flexAlignCenter, flexAlignTop, homeImage } from "../components/index.module.css";
 import Layout from "../components/layout/layout";
 import Seo from "../components/seo";
-import Link from "../components/link";
 
 const utmParameters = `?utm_source=starter&utm_medium=start-page&utm_campaign=default-starter`;
 
@@ -16,31 +15,32 @@ const IndexPage = () => (
         className={cx(homeImage, "grid-container")}
         style={{ height: "400px" }} />
     </section>
-
     <section className="grid-container" style={{ maxWidth: '75rem'}}>
       <div className="grid-row">
-        <h1 className="font-sans" style={{ marginBottom: '0.5em', fontSize: 'larger', fontWeight: 'normal' }}>
-          This <em>MILCON Requirements, Standardization, and Integration</em> (MRSI)
-          site presents Military Construction policy, regulations,
-          standards, and designs in order to provide the facility community with
-          the tools they need to build and maintain the Army's vast facility
-          infrastructure.
-        </h1>
-        <p style={{ marginTop: '0', fontSize: 'larger' }}>
-          This site is part of research initiatives conducted at the <em>Construction
-          Engineering Research Laboratory</em> (CERL), the Illinois Site of the <em>Engineer
-          Research and Development Center</em>. Partnering with federal and industry
-          organizations, our mission is to enhance the proficiency and productivity of the
-          Corps’ construction community for planning, design, and execution of the Corps’
-          facility acquisition process: we do this by providing tools and curated information
-          for this community. This site and the tools provided herein are part of that research,
-          as lessons learned from interacting with the community are incorporated into future
-          tools and research programs.
-        </p>
+        <h2 className="font-sans" style={{marginBottom: '0', fontSize: '12.5pt', fontWeight: 'normal' }}>
+          <p style={{ marginTop: '0', fontSize: 'normal' }}>
+            This <em>MILCON Requirements, Standardization, and Integration</em> (MRSI)
+            site presents Military Construction policy, regulations,
+            standards, and designs in order to provide the facility community with
+            the tools they need to build and maintain the Army's vast facility
+            infrastructure.
+          </p>
+          <p style={{ marginTop: '0', fontSize: 'normal' }}>
+            This site is part of research initiatives conducted at the <em>Construction
+            Engineering Research Laboratory</em> (CERL), the Illinois Site of the <em>Engineer
+            Research and Development Center</em>. Partnering with federal and industry
+            organizations, our mission is to enhance the proficiency and productivity of the
+            Corps’ construction community for planning, design, and execution of the Corps’
+            facility acquisition process: we do this by providing tools and curated information
+            for this community. This site and the tools provided herein are part of that research,
+            as lessons learned from interacting with the community are incorporated into future
+            tools and research programs.
+          </p>
+        </h2>
       </div>
-    <span className="font-sans" style={{fontSize: 'larger' }}><b>Current research initiatives</b> being investigated based on what
+    <span className="font-sans" style={{fontSize: '12.5pt' }}><b>Current research initiatives</b> being investigated based on what
       we have learned from interacting with the community through our tools include:</span>
-    <CardGroup>
+    <CardGroup style={{ marginTop: '0.5em'}}>
       <Card layout="flagDefault" headerFirst gridLayout={{ tablet: { col: 12 } }}>
         <CardHeader><h3 className="usa-card__heading">Document Generation</h3></CardHeader>
         <CardMedia
@@ -49,7 +49,7 @@ const IndexPage = () => (
         >
           <StaticImage
             src="../images/wizard-icon.png"
-            alt="" />
+            alt="MRSI Wizard icon" />
         </CardMedia>
         <CardBody>
           <p>
@@ -79,12 +79,13 @@ const IndexPage = () => (
           </p>
         </CardBody>
         <CardFooter>
-          <Button type="button" className={buttonLink}>
-            <Link to={"https://wizards.mrsi.erdc.dren.mil/"}>Click here to access the MRSI Wizard</Link>
-          </Button>
+          <div style={{ textAlign: 'center' }}>
+            <span className={fauxButtonLink} title="Link to MRSI Wizard">
+              <a href="https://wizards.mrsi.erdc.dren.mil/" target="_blank" rel="noopener noreferrer">Click here to access the MRSI Wizard</a>
+            </span>
+          </div>
         </CardFooter>
       </Card>
-
       <Card
         layout="flagDefault"
         headerFirst
@@ -97,7 +98,7 @@ const IndexPage = () => (
         >
           <StaticImage
             src="../images/leed-certification-logo.png"
-            alt="" />
+            alt="LEED Certification logo" />
         </CardMedia>
         <CardBody>
           <p>
@@ -110,7 +111,6 @@ const IndexPage = () => (
           </p>
         </CardBody>
       </Card>
-
       <Card layout="flagDefault" headerFirst gridLayout={{ tablet: { col: 12 } }}>
         <CardHeader><h3 className="usa-card__heading">EPDRDR - Environmental Product Declaration (EPD) Repository Demonstration and Reporting</h3></CardHeader>
         <CardMedia
@@ -119,7 +119,7 @@ const IndexPage = () => (
         >
           <StaticImage
             src="../images/epd.png"
-            alt="" />
+            alt="Environmental Product Declaration logo" />
         </CardMedia>
         <CardBody>
           <p>
@@ -146,7 +146,6 @@ const IndexPage = () => (
         </CardBody>
       </Card>
     </CardGroup>
-
     </section><section className="usa-section usa-graphic-list grid-container">
       <div className="grid-row grid-gap" />
     </section>

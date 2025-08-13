@@ -118,6 +118,7 @@ const TopNav = ( { path }: { path: string; } ) => {
                 id="search-field-small"
                 type="search"
                 name="query"
+                title="Enter search text here"
                 style={ {
                   borderTopLeftRadius: 4,
                   borderBottomLeftRadius: 4,
@@ -129,6 +130,7 @@ const TopNav = ( { path }: { path: string; } ) => {
                 value="Search"
                 className="usa-button"
                 type="submit"
+                title="Click to execute search"
                 style={ { backgroundColor: "#3578c6" } }
               >
                 <Icon.Search size={4} />

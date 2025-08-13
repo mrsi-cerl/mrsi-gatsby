@@ -7,6 +7,7 @@ const MrsiLogo = () => {
       <StaticImage
         src="../images/mrsi-blue-logo.png"
         alt="MRSI Logo"
+        title="Link to MRSI portal home page"
         layout="fixed"
         width={ 145 }
         quality={ 95 }
