@@ -11,7 +11,7 @@ const Footer = () => (
         <span>
           <ul>
             <li>
-              <Link to={ "/mrsi/about" } title="About US">ABOUT US</Link>
+              <Link to={ "/mrsi/about" } title="About Us">ABOUT US</Link>
             </li>
             <li>
               <Link to={ "/mrsi/privacy" } title="See our Privacy Policy">PRIVACY POLICY</Link>
