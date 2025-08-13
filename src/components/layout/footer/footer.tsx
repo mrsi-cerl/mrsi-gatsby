@@ -23,7 +23,7 @@ const Footer = () => (
               <a href="https://www.usace.army.mil/Resources/FOIA/" title="EXTERNAL LINK to USACE page about the Freedom of Information ACT" target="_blank" rel="noopener noreferrer">FOIA</a>
             </li>
             <li>
-              <a href="https://prhome.defense.gov/nofear" title="EXTERNAL LINK to USACE home page" target="_blank" rel="noopener noreferrer">No Fear Act</a>
+              <a href="https://prhome.defense.gov/nofear" title="EXTERNAL LINK to No Fear Act information" target="_blank" rel="noopener noreferrer">No Fear Act</a>
             </li>
             <li>
               <a href="https://www.usainscom.army.mil/isalute/" title="EXTERNAL LINK to iSALUTE page" target="_blank" rel="noopener noreferrer">iSALUTE</a>
