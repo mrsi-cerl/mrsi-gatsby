@@ -20,7 +20,7 @@ Additional guidance and templates can be found at the websites linked in the sid
   </div>
 
 ### To Create a New MRSI Wizard Account:
-1. Create a <a href="https://secure.login.gov/sign_up/enter_email" target="_blank">Login.gov</a> account _using your official work email*_.
+1. Create a <a href="https://secure.login.gov/sign_up/enter_email" target="_blank">Login.gov account (external site)</a> _using your official work email*_.
 2. Log into the Wizard using <a href="https://wizards.mrsi.erdc.dren.mil/">this link</a> (or the Wizard image to the left of this text).
 3. Then email the [Code 2 Review Team](mailto:DLL-CELRL-Code-2-Review-Team@usace.army.mil?subject=Request%20for%20Wizard%20Project%20Assignment) for project assignment (or request access from PDT Members already assigned to the project).</br>
 <b>•	Please include Project Number, Project Location, and Project Title in the request.</b>
