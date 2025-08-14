@@ -26,10 +26,10 @@ The District:
 - Manages an O&M program including 25 lakes, three hydropower plants, and 340 recreation areas which receive about 25 million visitors annually.
 - Is one of eight USACE Centers of Standardization and is in charge of the following facility types:
   - AIT
-  - ASTB (Under Development)
+  - IPIMT (Under Development)
   - BT/OUST
   - CIF
   - GPW
   - RSB
   - SSA
-  - UEPH
+  - PPUH

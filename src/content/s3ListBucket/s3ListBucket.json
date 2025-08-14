@@ -371,7 +371,7 @@
 },
 {
 "name": "swf",
-"LastModified": "08/08/2024 10:27:58",
+"LastModified": "08/14/2025 14:04:36",
 "Key": "content/cos/swf",
 "extension": "",
 "Size": ""
@@ -10940,6 +10940,13 @@
 "Size": ""
 },
 {
+"name": "ppuh",
+"LastModified": "08/08/2024 10:27:40",
+"Key": "content/cos/swf/ppuh",
+"extension": "",
+"Size": ""
+},
+{
 "name": "rsb",
 "LastModified": "03/23/2023 11:10:03",
 "Key": "content/cos/swf/rsb",
@@ -10950,13 +10957,6 @@
 "name": "ssa",
 "LastModified": "03/23/2023 11:10:06",
 "Key": "content/cos/swf/ssa",
-"extension": "",
-"Size": ""
-},
-{
-"name": "ueph",
-"LastModified": "08/08/2024 10:27:40",
-"Key": "content/cos/swf/ueph",
 "extension": "",
 "Size": ""
 },
@@ -11865,6 +11865,167 @@
 },
 {
 "name": "Library",
+"LastModified": "08/08/2024 10:27:06",
+"Key": "content/cos/swf/ppuh/Library",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Archives",
+"LastModified": "03/23/2023 11:10:12",
+"Key": "content/cos/swf/ppuh/Library/Archives",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Army Standards",
+"LastModified": "08/14/2025 13:44:12",
+"Key": "content/cos/swf/ppuh/Library/Army Standards",
+"extension": "",
+"Size": ""
+},
+{
+"name": "DD1391 Templates",
+"LastModified": "07/22/2025 13:29:44",
+"Key": "content/cos/swf/ppuh/Library/DD1391 Templates",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Misc. Documents",
+"LastModified": "03/23/2023 11:10:13",
+"Key": "content/cos/swf/ppuh/Library/Misc. Documents",
+"extension": ". Documents",
+"Size": ""
+},
+{
+"name": "Programmatic VE Study",
+"LastModified": "03/23/2023 11:10:20",
+"Key": "content/cos/swf/ppuh/Library/Programmatic VE Study",
+"extension": "",
+"Size": ""
+},
+{
+"name": "R&M Documents",
+"LastModified": "08/14/2025 13:44:49",
+"Key": "content/cos/swf/ppuh/Library/R&M Documents",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Standard Designs",
+"LastModified": "08/14/2025 13:40:24",
+"Key": "content/cos/swf/ppuh/Library/Standard Designs",
+"extension": "",
+"Size": ""
+},
+{
+"name": "Ft Benning Renewable Energy (UEPH).pdf",
+"LastModified": "05/20/2015 15:47:54",
+"Key": "content/cos/swf/ppuh/Library/Archives/Ft Benning Renewable Energy (UEPH).pdf",
+"extension": ".pdf",
+"Size": "367026"
+},
+{
+"name": "ueph-pp-barracks-army-standard-2003.pdf",
+"LastModified": "06/27/2016 10:52:39",
+"Key": "content/cos/swf/ppuh/Library/Archives/ueph-pp-barracks-army-standard-2003.pdf",
+"extension": ".pdf",
+"Size": "6394991"
+},
+{
+"name": "ueph-pp-barracks-army-standard-2012.pdf",
+"LastModified": "06/27/2016 10:53:23",
+"Key": "content/cos/swf/ppuh/Library/Archives/ueph-pp-barracks-army-standard-2012.pdf",
+"extension": ".pdf",
+"Size": "326079"
+},
+{
+"name": "2025 UH Army Standard - Complete.pdf",
+"LastModified": "08/13/2025 14:11:00",
+"Key": "content/cos/swf/ppuh/Library/Army Standards/2025 UH Army Standard - Complete.pdf",
+"extension": ".pdf",
+"Size": "620054"
+},
+{
+"name": "PPUH DD1391 Template.pdf",
+"LastModified": "07/21/2025 14:50:00",
+"Key": "content/cos/swf/ppuh/Library/DD1391 Templates/PPUH DD1391 Template.pdf",
+"extension": ".pdf",
+"Size": "42507"
+},
+{
+"name": "Rendering_UEPH.JPG",
+"LastModified": "05/20/2015 15:47:56",
+"Key": "content/cos/swf/ppuh/Library/Misc. Documents/Rendering_UEPH.JPG",
+"extension": ".JPG",
+"Size": "7999964"
+},
+{
+"name": "UEPH LCCA REPORTS.pdf",
+"LastModified": "03/31/2021 16:33:46",
+"Key": "content/cos/swf/ppuh/Library/Misc. Documents/UEPH LCCA REPORTS.pdf",
+"extension": ".pdf",
+"Size": "1417791"
+},
+{
+"name": "UEPH LEED v4 Checklist April 2021.pdf",
+"LastModified": "07/21/2020 08:20:40",
+"Key": "content/cos/swf/ppuh/Library/Misc. Documents/UEPH LEED v4 Checklist April 2021.pdf",
+"extension": ".pdf",
+"Size": "114065"
+},
+{
+"name": "UEPH.jpg",
+"LastModified": "05/20/2015 15:47:58",
+"Key": "content/cos/swf/ppuh/Library/Misc. Documents/UEPH.jpg",
+"extension": ".jpg",
+"Size": "152960"
+},
+{
+"name": "2011 UEPH VE Study.pdf",
+"LastModified": "05/14/2021 09:18:06",
+"Key": "content/cos/swf/ppuh/Library/Programmatic VE Study/2011 UEPH VE Study.pdf",
+"extension": ".pdf",
+"Size": "31193661"
+},
+{
+"name": "OVx Validation of UEPH Standard Design Compliance for VE-final (1).pdf",
+"LastModified": "05/14/2021 09:17:51",
+"Key": "content/cos/swf/ppuh/Library/Programmatic VE Study/OVx Validation of UEPH Standard Design Compliance for VE-final (1).pdf",
+"extension": ".pdf",
+"Size": "123811"
+},
+{
+"name": "Restoration and Modernization Design Guidance for PP UH for E1-E6s (CATCD 72111).pdf",
+"LastModified": "08/13/2025 14:09:00",
+"Key": "content/cos/swf/ppuh/Library/R&M Documents/Restoration and Modernization Design Guidance for PP UH for E1-E6s (CATCD 72111).pdf",
+"extension": ".pdf",
+"Size": "4722"
+},
+{
+"name": "UH RM Program Standardization PgMP_FINAL_20231228.pdf",
+"LastModified": "01/02/2024 14:56:00",
+"Key": "content/cos/swf/ppuh/Library/R&M Documents/UH RM Program Standardization PgMP_FINAL_20231228.pdf",
+"extension": ".pdf",
+"Size": "2631031"
+},
+{
+"name": "2025 Army Standard Required Room Module Configurations.pdf",
+"LastModified": "08/13/2025 14:11:00",
+"Key": "content/cos/swf/ppuh/Library/Standard Designs/2025 Army Standard Required Room Module Configurations.pdf",
+"extension": ".pdf",
+"Size": "1137839"
+},
+{
+"name": "Army Standard Design Technical Narrative - FEB2025.pdf",
+"LastModified": "02/21/2025 10:25:00",
+"Key": "content/cos/swf/ppuh/Library/Standard Designs/Army Standard Design Technical Narrative - FEB2025.pdf",
+"extension": ".pdf",
+"Size": "508344"
+},
+{
+"name": "Library",
 "LastModified": "03/23/2023 11:10:06",
 "Key": "content/cos/swf/rsb/Library",
 "extension": "",
@@ -12121,167 +12282,6 @@
 "Key": "content/cos/swf/ssa/Library/Standard Designs/Standard Design Concept Site Plan.pdf",
 "extension": ".pdf",
 "Size": "278671"
-},
-{
-"name": "Library",
-"LastModified": "08/08/2024 10:27:06",
-"Key": "content/cos/swf/ueph/Library",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Archives",
-"LastModified": "03/23/2023 11:10:12",
-"Key": "content/cos/swf/ueph/Library/Archives",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Army Standards",
-"LastModified": "11/19/2024 16:51:50",
-"Key": "content/cos/swf/ueph/Library/Army Standards",
-"extension": "",
-"Size": ""
-},
-{
-"name": "DD1391 Templates",
-"LastModified": "07/22/2025 13:29:44",
-"Key": "content/cos/swf/ueph/Library/DD1391 Templates",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Misc. Documents",
-"LastModified": "03/23/2023 11:10:13",
-"Key": "content/cos/swf/ueph/Library/Misc. Documents",
-"extension": ". Documents",
-"Size": ""
-},
-{
-"name": "Programmatic VE Study",
-"LastModified": "03/23/2023 11:10:20",
-"Key": "content/cos/swf/ueph/Library/Programmatic VE Study",
-"extension": "",
-"Size": ""
-},
-{
-"name": "R&M Documents",
-"LastModified": "01/03/2024 13:11:20",
-"Key": "content/cos/swf/ueph/Library/R&M Documents",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Standard Designs",
-"LastModified": "02/21/2025 10:50:57",
-"Key": "content/cos/swf/ueph/Library/Standard Designs",
-"extension": "",
-"Size": ""
-},
-{
-"name": "Ft Benning Renewable Energy (UEPH).pdf",
-"LastModified": "05/20/2015 15:47:54",
-"Key": "content/cos/swf/ueph/Library/Archives/Ft Benning Renewable Energy (UEPH).pdf",
-"extension": ".pdf",
-"Size": "367026"
-},
-{
-"name": "ueph-pp-barracks-army-standard-2003.pdf",
-"LastModified": "06/27/2016 10:52:39",
-"Key": "content/cos/swf/ueph/Library/Archives/ueph-pp-barracks-army-standard-2003.pdf",
-"extension": ".pdf",
-"Size": "6394991"
-},
-{
-"name": "ueph-pp-barracks-army-standard-2012.pdf",
-"LastModified": "06/27/2016 10:53:23",
-"Key": "content/cos/swf/ueph/Library/Archives/ueph-pp-barracks-army-standard-2012.pdf",
-"extension": ".pdf",
-"Size": "326079"
-},
-{
-"name": "2024 UH Army Std_CATCD 72111_20241112.pdf",
-"LastModified": "11/19/2024 13:29:00",
-"Key": "content/cos/swf/ueph/Library/Army Standards/2024 UH Army Std_CATCD 72111_20241112.pdf",
-"extension": ".pdf",
-"Size": "385270"
-},
-{
-"name": "PPUH DD1391 Template.pdf",
-"LastModified": "07/21/2025 14:50:00",
-"Key": "content/cos/swf/ueph/Library/DD1391 Templates/PPUH DD1391 Template.pdf",
-"extension": ".pdf",
-"Size": "42507"
-},
-{
-"name": "Rendering_UEPH.JPG",
-"LastModified": "05/20/2015 15:47:56",
-"Key": "content/cos/swf/ueph/Library/Misc. Documents/Rendering_UEPH.JPG",
-"extension": ".JPG",
-"Size": "7999964"
-},
-{
-"name": "UEPH LCCA REPORTS.pdf",
-"LastModified": "03/31/2021 16:33:46",
-"Key": "content/cos/swf/ueph/Library/Misc. Documents/UEPH LCCA REPORTS.pdf",
-"extension": ".pdf",
-"Size": "1417791"
-},
-{
-"name": "UEPH LEED v4 Checklist April 2021.pdf",
-"LastModified": "07/21/2020 08:20:40",
-"Key": "content/cos/swf/ueph/Library/Misc. Documents/UEPH LEED v4 Checklist April 2021.pdf",
-"extension": ".pdf",
-"Size": "114065"
-},
-{
-"name": "UEPH.jpg",
-"LastModified": "05/20/2015 15:47:58",
-"Key": "content/cos/swf/ueph/Library/Misc. Documents/UEPH.jpg",
-"extension": ".jpg",
-"Size": "152960"
-},
-{
-"name": "2011 UEPH VE Study.pdf",
-"LastModified": "05/14/2021 09:18:06",
-"Key": "content/cos/swf/ueph/Library/Programmatic VE Study/2011 UEPH VE Study.pdf",
-"extension": ".pdf",
-"Size": "31193661"
-},
-{
-"name": "OVx Validation of UEPH Standard Design Compliance for VE-final (1).pdf",
-"LastModified": "05/14/2021 09:17:51",
-"Key": "content/cos/swf/ueph/Library/Programmatic VE Study/OVx Validation of UEPH Standard Design Compliance for VE-final (1).pdf",
-"extension": ".pdf",
-"Size": "123811"
-},
-{
-"name": "RM G9 Design Guidance Memo for UPH.pdf",
-"LastModified": "09/21/2023 13:36:00",
-"Key": "content/cos/swf/ueph/Library/R&M Documents/RM G9 Design Guidance Memo for UPH.pdf",
-"extension": ".pdf",
-"Size": "772067"
-},
-{
-"name": "UH RM Program Standardization PgMP_FINAL_20231228.pdf",
-"LastModified": "01/02/2024 14:56:00",
-"Key": "content/cos/swf/ueph/Library/R&M Documents/UH RM Program Standardization PgMP_FINAL_20231228.pdf",
-"extension": ".pdf",
-"Size": "2631031"
-},
-{
-"name": "2024 Army Standard Required Room Module Configurations.pdf",
-"LastModified": "12/17/2024 15:47:04",
-"Key": "content/cos/swf/ueph/Library/Standard Designs/2024 Army Standard Required Room Module Configurations.pdf",
-"extension": ".pdf",
-"Size": "356718"
-},
-{
-"name": "Army Standard Design Technical Narrative - FEB2025.pdf",
-"LastModified": "02/21/2025 10:25:00",
-"Key": "content/cos/swf/ueph/Library/Standard Designs/Army Standard Design Technical Narrative - FEB2025.pdf",
-"extension": ".pdf",
-"Size": "508344"
 },
 {
 "name": "administration",

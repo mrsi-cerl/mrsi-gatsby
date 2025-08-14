@@ -39,7 +39,7 @@ file_library_root_path: content/Model RFP/MILCON/
             Basic Training and One Station Unit Training Complex
         </li>
         <li>
-            Unaccompanied Enlisted Personnel Housing
+            Permanent Party Unaccompanied Housing
         </li>
         <li>
             Unit Supply Support Activity Facility
