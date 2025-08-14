@@ -94,13 +94,13 @@ function createPDRSNavList(p: any, currPath: string) {
     </li>
     <li className="usa-sidenav__item">
       <Link to="https://www.wbdg.org/ffc/dod/unified-facilities-criteria-ufc/ufc-3-740-05" target="_blank" rel="noopener noreferrer"><b>CSRA Templates and Information</b><br/>
-      <small><i>The <b>UFC 3-740-05 Website</b> contains a checklist, the CSRA model template, CSRA Report template, and an example merged CSRA PDF report along with the UFC for CSRAs on MILCON projects.</i></small>
+      <small><i>The <b>UFC 3-740-05 Website</b> ( <b>***PLEASE NOTE***</b> this is an external site) contains a checklist, the CSRA model template, CSRA Report template, and an example merged CSRA PDF report along with the UFC for CSRAs on MILCON projects.</i></small>
       </Link>
     </li>
     <li className="usa-sidenav__item">
       <Link to="https://usace.dps.mil/sites/KMP-CEC/SitePages/Cost-Tools.aspx" target="_blank" rel="noopener noreferrer"><b>Cost Risk Analysis: HQ Cost CoP website</b><br/>
       <small><i>The HQ Cost CoP website contains a section for <b>Cost Risk Analysis</b> which contains links to the Civil Works guidance manual, CSRA template, ARA template, CSRA report (template + example merged CSRA PDF report), etc.<br/>
-      <b>***PLEASE NOTE***</b> this site is only accessible to USACE personnel.</i></small>
+      <b>***PLEASE NOTE***</b> this external site is only accessible to USACE personnel.</i></small>
       </Link>
     </li>
     </div>
@@ -145,8 +145,8 @@ function getSideNav ( pages: any[], path: string ) {
 
 const SideNav = ( { style, pages, path }: { style?: string, pages: any[], path: string} ) => {
   return (
-    <aside className={ cx( nav, style ) }>
-      <ul className="usa-sidenav">{ getSideNav( pages, path ) }</ul>
+    <aside className={ cx( nav, style ) }  aria-labelledby="side_navigation">
+      <ul className="usa-sidenav" id="side_navigation">{ getSideNav( pages, path ) }</ul>
     </aside>
   );
 };

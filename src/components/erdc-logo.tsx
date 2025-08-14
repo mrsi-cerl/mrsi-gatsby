@@ -13,6 +13,7 @@ const ErdcLogo = () => {
         height={ 95 }
         width={ 275 }
         quality={ 100 }
+        tabIndex={0}
       />
       </a>
     </div>

@@ -11,6 +11,7 @@ const MrsiWizardLogin = () => {
           layout="fixed"
           width={ 145 }
           quality={ 100 }
+          tabIndex={0}
         />
       </a>
   )

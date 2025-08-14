@@ -9,9 +9,9 @@ const MrsiLogo = () => {
         alt="MRSI Logo"
         title="Link to MRSI portal home page"
         layout="fixed"
-        width={ 145 }
-        quality={ 95 }
-      />
+        width={145}
+        quality={95}
+        tabIndex={0} />
     </a>
   );
 };
