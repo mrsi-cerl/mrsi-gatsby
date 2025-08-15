@@ -17,7 +17,7 @@
     "startDate": "09:00  08/15/2025",
     "endDate": "5:00  09/01/2025",
     "message": "We are in the process of migrating hosting providers. This website may experience downtime beginning next week, starting 08/18/25. We apologize for any inconvenience, and will provide updated information as soon as possible. Please note the MRSI Wizard web application will remain functional during this time. It can be located at the following address: https://wizards.mrsi.erdc.dren.mil/",
-    "level": "info",
+    "level": "error",
     "title": "Planned Server Maintenance"
   },
   {
