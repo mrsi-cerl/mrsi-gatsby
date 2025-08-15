@@ -13,10 +13,10 @@
     "level": "info",
     "title": "Planned Network Maintenance"
   },
-  {
-    "startDate": "11:00  07/23/2025",
-    "endDate": "5:00  07/24/2025",
-    "message": "Planned maintenance is being conducted starting at 01:00 CDT through 05:00 CDT on 24 July 2025. The legacy (click-once)  Wizard applications and Library files will be unavailable during this time. ",
+{
+    "startDate": "09:00  08/15/2025",
+    "endDate": "5:00  09/01/2025",
+    "message": "We are in the process of migrating hosting providers. This website may experience downtime beginning next week, starting 08/18/25. We apologize for any inconvenience, and will provide updated information as soon as possible. Please note the MRSI Wizard web application will remain functional during this time.",
     "level": "info",
     "title": "Planned Server Maintenance"
   },
