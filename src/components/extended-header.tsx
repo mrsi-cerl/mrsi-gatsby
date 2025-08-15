@@ -1,7 +1,7 @@
 import { ExtendedNav, Header, Menu, NavDropDownButton, PrimaryNav, Search } from "@trussworks/react-uswds";
 import React, { useState } from "react";
 import { mrsiHeaderBody, mrsiHeaderContainer, mrsiHeaderLogo, mrsiHeaderERDCLogo, mrsiHeaderLogin } from "./extended-header.module.css";
-import MrsiLogo from "../images/mrsi-blue-logo.svg";
+import MrsiLogo from "../images/mrsi-blue-logo.png";
 import ErdcLogo from "../images/ERDC-USACE-logo.png";
 import MrsiWizardLogin from "../images/logintowizard.png";
 
