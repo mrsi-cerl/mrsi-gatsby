@@ -1,34 +1,38 @@
 .mrsiHeaderContainer {
   display: grid;
-  grid-template-columns: 25% 35% 20% 20%;
+  grid-template-columns: 22% 38% 30% 15%;
   gap: 0em;
+  margin-top: 0.5em;
   margin-bottom: 0.5em;
-  height: 6em;
+  height: 7em;
   white-space: nowrap;
 }
 
 .mrsiHeaderLogo {
   margin: 1em;
+  height: 90px;
 }
 
 .mrsiHeaderBody {
-  margin: 0;
-  font-size: 28pt;
+  margin: 1em;
+  font-size: 30pt;
   font-weight: bold;
 }
 
 .mrsiHeaderERDCLogo {
   margin: 1em;
+  margin-left: 2em;
+  height: 70px;
 }
 
 .mrsiHeaderLogin {
-  margin: 0em;
+  margin: 0;
   vertical-align: top;
-  margin-left: 5em;
+  height: 70px;
 }
 
 .mrsiHeaderSearch {
   margin-top: auto;
-  margin-bottom: 4px;
+  margin-bottom: 0;
   margin-right: 0;
 }

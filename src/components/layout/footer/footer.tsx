@@ -36,10 +36,10 @@ const Footer = () => (
       </div>
       <div className={ classNames( "grid-row", footerUsace ) }>
         <div className="grid-col-1">
-          <p>
+          <p style={ { marginLeft: "1em" } }>
             <a href="https://www.usace.army.mil/" title="EXTERNAL LINK to USACE home page" target="_blank" rel="noopener noreferrer">
               <img
-                style={ { width: "40px", marginLeft: "20px" } }
+                style={ { width: "60%" } }
                 src={ UsaceLogo }
                 alt="USACE logo"
               />
